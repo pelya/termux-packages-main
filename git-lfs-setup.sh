@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# All packages that are bigger than 50 megabytes
+# All packages that are bigger than 30 megabytes
 LARGE_PACKAGES='
 ghc
 scala
@@ -28,6 +28,39 @@ jadx
 geth-utils
 zig
 jython
+oidn
+oidn
+openjdk-21-source
+foundry
+openjdk-25-source
+dotnet-sdk-9.0
+openjdk-17-source
+erlang
+wasi-libc
+mono-libs
+dotnet-sdk-8.0
+emacs
+jellyfin-server
+ovmf
+emscripten-llvm
+swift-sdk-arm
+awscli
+swift-sdk-x86-64
+rust-docs
+swift-sdk-aarch64
+python-torch
+golang
+codon
+forgejo
+gitea
+zrok
+llvm-mingw-w64-ucrt
+openlist
+tinymist
+rabbitmq-server
+clang
+libllvm
+keybase
 '
 
 for PKG in $LARGE_PACKAGES; do
