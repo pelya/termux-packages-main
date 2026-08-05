@@ -31498,3 +31498,48 @@ SHA1: 9ac33756c27cbc5a0790d262eb0bfd5256f01f45
 SHA256: d341f3e9f0c2791b1a10e9d65cb9e995142096ddf288a09725cb3a8a596abc10
 SHA512: 6daa242584e4fb135e6313e2a7e3f6521487b1586229c9a61feff9159a4cc22af93cf9bad464879bf11e7d31854aa2f21e0cbfe10bf174f74a4b7f469727652f
 
+Package: clvk
+Architecture: arm
+Installed-Size: 62080
+Maintainer: @termux
+Version: 0.0.20260707.165306
+Homepage: https://github.com/kpet/clvk
+Depends: libc++, vulkan-loader
+Recommends: ocl-icd
+Description: Experimental implementation of OpenCL on Vulkan
+Filename: ../../../../releases/download/arm-c/clvk_0.0.20260707.165306_arm.deb
+Size: 21565264
+MD5Sum: 0e7836900cc10e7ff92adb20a38ead41
+SHA1: 14a6a079980d409a5a6ecd58e5eb8fbee8cf0b9d
+SHA256: ae274d418f8aa3458090076203265e8a46bf18543d86404610ca64a2f5dfe7f9
+SHA512: 6fd915815beb795108823d9cad77f092b3faf9e03d069178d8a9f2535a964765dfedac0b40d1fe3a49e2668652cfa36e4af1243ee352359a201a2877e9435b0c
+
+Package: libfixposix-static
+Architecture: arm
+Installed-Size: 76
+Maintainer: @termux
+Version: 0.5.1-1
+Homepage: https://github.com/sionescu/libfixposix/
+Depends: libfixposix (= 0.5.1-1)
+Description: Static libraries for libfixposix
+Filename: ../../../../releases/download/arm-libf/libfixposix-static_0.5.1-1_arm.deb
+Size: 10432
+MD5Sum: 18a12dbb7f373791066b6b73aca33009
+SHA1: 20529836ac8ff5eb8802e26c13c3daa9bb6c57fd
+SHA256: 84c95e4bf5be8147193f9b888edbf5dcc1000b806fc5c27bf879ada9d5c0994a
+SHA512: 5e04ecaaa8c6da38ff089c65c2faf5454f413c78a8382a852ac2b38020bab998e51cdefc8f5a6d847ea96cb4643efaa8339dda3dceaf6a593b35723fdac9a91e
+
+Package: libfixposix
+Architecture: arm
+Installed-Size: 172
+Maintainer: @termux
+Version: 0.5.1-1
+Homepage: https://github.com/sionescu/libfixposix/
+Description: Thin wrapper over POSIX syscalls
+Filename: ../../../../releases/download/arm-libf/libfixposix_0.5.1-1_arm.deb
+Size: 13492
+MD5Sum: 5ecd471d9fc37d5550ab98a5911148b8
+SHA1: 8fbafc98ad15720d387ebafe05c2d345dd090669
+SHA256: 5c146943db9132bc26377d5ab17cb7412661816a954d829b2e72bfdba66899ee
+SHA512: d6f7f55d0f43ff196fd6036c419d3654e435a7f8d7e169c5a6d7d2204eb3ae90b01b9ce49ec5baffd0ef6c0f5fb86084cc836cb2ded1642d536ff6293a5b8fc8
+

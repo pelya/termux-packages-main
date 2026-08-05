@@ -32784,3 +32784,48 @@ SHA1: f7740487cb26b30ad1f122da20db536ae663c54a
 SHA256: 58bf35a1b0c888c79b283e78ca6d39a37e35b2882d63afd9134fa8384a7fe1f8
 SHA512: 003bf37c5a20bb5524b4fedfb413989ede91a3bce2fa177b15ea6c7aa4d1f425a325365c32f09627be072c0688229849c9efe560873c970175df5949d7652c7d
 
+Package: clvk
+Architecture: x86_64
+Installed-Size: 92700
+Maintainer: @termux
+Version: 0.0.20260707.165306
+Homepage: https://github.com/kpet/clvk
+Depends: libc++, vulkan-loader
+Recommends: ocl-icd
+Description: Experimental implementation of OpenCL on Vulkan
+Filename: ../../../../releases/download/x86_64-c/clvk_0.0.20260707.165306_x86_64.deb
+Size: 23143788
+MD5Sum: 77d5ba0a5f8cb623ed4a45df7611cfee
+SHA1: b809e87d0e7bc4092061cd83daee5b764c23bd8a
+SHA256: 1ef35ecbc8bd1a84040802ee033ed1529b6cd3830a1a40ab0e72a00a4174960c
+SHA512: 67b72b2650a19fcf08ef2c1b064bfb16be180b221faaad25a4d987432b9916ab69f6fd882bc6972b06742528e0c622e6a2aa2f48de3e2554f5499e64f18e3441
+
+Package: libfixposix-static
+Architecture: x86_64
+Installed-Size: 92
+Maintainer: @termux
+Version: 0.5.1-1
+Homepage: https://github.com/sionescu/libfixposix/
+Depends: libfixposix (= 0.5.1-1)
+Description: Static libraries for libfixposix
+Filename: ../../../../releases/download/x86_64-libf/libfixposix-static_0.5.1-1_x86_64.deb
+Size: 11420
+MD5Sum: 8204d178cb298a2d5c9c7fe2d9e9f38a
+SHA1: 47abd3c69c7357a91085c1f7417bea7bc7b940c2
+SHA256: 5ed7b8d4fda588619a77efdcbab2ab9d9607b01056adf89ac0393144b4d3d1d7
+SHA512: dfa07dfa4b6e57746321419e228a3ac0aed840f5e2c1ad1b15a0cc5e8aae222f7e55497dd10f14a3dee2df7099a95338f1e7752c1b326fd3b7e8c801fb73cfd6
+
+Package: libfixposix
+Architecture: x86_64
+Installed-Size: 180
+Maintainer: @termux
+Version: 0.5.1-1
+Homepage: https://github.com/sionescu/libfixposix/
+Description: Thin wrapper over POSIX syscalls
+Filename: ../../../../releases/download/x86_64-libf/libfixposix_0.5.1-1_x86_64.deb
+Size: 14804
+MD5Sum: 586113b3b88805dbe14f82765dfbea7f
+SHA1: 167eb45a7e98c100a92c9fe3ae23352d48065cbb
+SHA256: 7bd7d65a75d0d5a9eb9f8fdc021879ecd43ffb2f3090d4ba56f57dc538763223
+SHA512: d9db46131c4854cc8dc89f66e5d3c23757489f8d5f7c43d9f172b83baca188cd6a8964accbb597760059417341ac1df4e82731e9ab6ad1a6cf4031c63677975c
+

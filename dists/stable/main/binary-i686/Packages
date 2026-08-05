@@ -32115,3 +32115,48 @@ SHA1: 05e3bd7ce71d0873ad1760d394bcf2c7a459377d
 SHA256: 52f985a2659965cfdedf3c3654432fb097c5cb6009038761373c7904df733752
 SHA512: 1f651ded9c43e5a68b3ac8a44faf5463ee4627a2c46cf9d2fdbbc559812afb653de2a9ea40b11a588b36583332872602810317386aed64d885ecca9c8f30253a
 
+Package: clvk
+Architecture: i686
+Installed-Size: 97648
+Maintainer: @termux
+Version: 0.0.20260707.165306
+Homepage: https://github.com/kpet/clvk
+Depends: libc++, vulkan-loader
+Recommends: ocl-icd
+Description: Experimental implementation of OpenCL on Vulkan
+Filename: ../../../../releases/download/i686-c/clvk_0.0.20260707.165306_i686.deb
+Size: 25077500
+MD5Sum: b128e2ea5a4cfd18b40e8380509a9996
+SHA1: 12ef8434104c20bf616947d92e08cef80212cedf
+SHA256: 48734c8031581005f7a320857d838c4925810ce71864a2b579ae69c208ae98d6
+SHA512: 6b28aa35b7e88f1c7f7912e475d44464ff4269a9304e963f156197515159d895530b83877740a197f9dca9138a93fb8c4fce2686a8eae4027a1c9ce6c1efbad6
+
+Package: libfixposix-static
+Architecture: i686
+Installed-Size: 84
+Maintainer: @termux
+Version: 0.5.1-1
+Homepage: https://github.com/sionescu/libfixposix/
+Depends: libfixposix (= 0.5.1-1)
+Description: Static libraries for libfixposix
+Filename: ../../../../releases/download/i686-libf/libfixposix-static_0.5.1-1_i686.deb
+Size: 11752
+MD5Sum: 3b4518bcb2cb74ebbb694c709f84cc8d
+SHA1: a7a40bc3fe87118904f943426f348328ab54d744
+SHA256: 3ab27f7495f1ab638eb952110fcf2f539450538866482b0948756222b92f3f7c
+SHA512: 67c329a7894d7dba701f52adda6e19d76f9d5c0bf86df2c994b33b6b8dc3ebb80c6f3ce7aea108aa07be461e28e9db51b05386bc6e96a192dc16314075f1492b
+
+Package: libfixposix
+Architecture: i686
+Installed-Size: 180
+Maintainer: @termux
+Version: 0.5.1-1
+Homepage: https://github.com/sionescu/libfixposix/
+Description: Thin wrapper over POSIX syscalls
+Filename: ../../../../releases/download/i686-libf/libfixposix_0.5.1-1_i686.deb
+Size: 15428
+MD5Sum: 981f25b6b1e432721164351b596df0c2
+SHA1: 7cd8c680336bc1ca05129020aecf49a89c82f8f3
+SHA256: 9df3e84ea02cc44e3bc3606f73391f43f1a9adb1fe811e5120db7be6a9d2ce43
+SHA512: 95ab8cd91d44691154658feebec11263d07b077eb571ddb4e7772897d8fcf8c869fefc5e49e8fdf9261d4eb53975a34116642b2d15569335854dfd0cae65e343
+
