@@ -1660,53 +1660,6 @@ SHA1: fad8a2707f3fa13eea31dead82964c99cc708985
 SHA256: 393787aee80435cb6335b9cfffdcae248faae3de9a60c6907d428f46f0a359bc
 SHA512: 350803f3b86fbfa66a3f43bee7f5b69b79925794d6d3209f7133a22965acfefe0ead0bfd9d7d018314dca656ddfd4393b2e13d83497a6b5558d1f5ff7fd23dae
 
-Package: boost-headers
-Architecture: all
-Installed-Size: 189108
-Maintainer: @termux
-Version: 1:1.90.0-2
-Homepage: https://boost.org
-Depends: boost (= 1:1.90.0-2)
-Description: Boost header files
-Filename: ../../../../releases/download/arm-b/boost-headers_1:1.90.0-2_all.deb
-Size: 10739404
-MD5Sum: e2798f4a041ef57fe8d873e937d31497
-SHA1: 65636f03c01eaba512ce194747842dd4c4c3ae13
-SHA256: 41175002641a66ba697295dbce917bd9705c21613e907da327d35b885ebb1f02
-SHA512: aa5a255737d8dc59a3fcc4cd06297b5c5aa79d95890f99c0486439797e79c9d0814dc852fa946335a33a6b8e4eac715ae1b210c27499cbf7afd5859c6d3f0a04
-
-Package: boost-static
-Architecture: arm
-Installed-Size: 41176
-Maintainer: @termux
-Version: 1:1.90.0-2
-Homepage: https://boost.org
-Depends: boost (= 1:1.90.0-2)
-Description: Static libraries for boost
-Filename: ../../../../releases/download/arm-b/boost-static_1:1.90.0-2_arm.deb
-Size: 3296868
-MD5Sum: 987c8418b4555845846029e82fd8c926
-SHA1: 1a0f518e1ade5da6082607c74e497837ecab309e
-SHA256: 8cae6552b75894129e604fa532b65ab6e3350ee90819623c648c9b00123ab0d3
-SHA512: e6deadc050380db80d36eee17eecb77d47fd9e4b4f75a5b4e557bde198360c341417bb1f823e12a760473ac7553ab81792afae80786ca1b6b68b458b90eb8060
-
-Package: boost
-Architecture: arm
-Installed-Size: 5324
-Maintainer: @termux
-Version: 1:1.90.0-2
-Homepage: https://boost.org
-Breaks: libboost-python (<= 1.65.1-2), boost-dev
-Depends: libc++, libbz2, libiconv, liblzma, zlib, libandroid-wordexp
-Replaces: libboost-python (<= 1.65.1-2), boost-dev
-Description: Free peer-reviewed portable C++ source libraries
-Filename: ../../../../releases/download/arm-b/boost_1:1.90.0-2_arm.deb
-Size: 1156192
-MD5Sum: 47f9189cee970c0f37197034ed4fe9fb
-SHA1: bd241939407caed6aa293438819f8e4e993796e0
-SHA256: b92338faf8ffe43a92c2ed59cbba0ae978f1974d80afbcd3c366546fcb787c04
-SHA512: d44c44a445c05d6c6c00f68baec0ae30e9cd4b1599a1c23af4c15a52e4ef405fb805aab12fe48201c39b8fe95f842dc4acef8a7f77ff52b755e924b93423c406
-
 Package: botan3-static
 Architecture: arm
 Installed-Size: 41604
@@ -1984,35 +1937,6 @@ MD5Sum: 129237c6c11b26caf6f701e2d6713df5
 SHA1: 08d5984fad910375e83d2f1637be0031c441da60
 SHA256: 0a6ce9332460d856814bc860131a7363c1967a4efbc4f8ad193a9f28db6bf1e7
 SHA512: ba1672b221ddbd7617e4bfb40c7e98cb5749795b5b14a6b75c11caeb1ad7dc464198e7eda9183e124bc4750d864984ec1c8abc088e87322848d725b47075dfaa
-
-Package: ca-certificates-java
-Architecture: all
-Installed-Size: 184
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Depends: ca-certificates (= 1:2026.05.14)
-Description: Common CA certificates (java keystore format)
-Filename: ../../../../releases/download/arm-c/ca-certificates-java_1:2026.05.14_all.deb
-Size: 96492
-MD5Sum: 99fcb24907fa03d0c18c3eb1fe483db9
-SHA1: 37c4daa06a19055900c9be073b9ee503aaa61929
-SHA256: 5899d296ca7b25bbdbcdc3cfd052faf4fac27ec40e7f964198c997803dc331a0
-SHA512: 6beae1b8eaeac4fbc66774481b6a3394b148dfaec4395be7ff239f68ca4f3aba86f6ca9c4bbbf5ab93b374f108af7c3a6cba7cc2d9a676762a290c8dfb697784
-
-Package: ca-certificates
-Architecture: all
-Installed-Size: 232
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Description: Common CA certificates
-Filename: ../../../../releases/download/arm-c/ca-certificates_1:2026.05.14_all.deb
-Size: 105736
-MD5Sum: f89a4d6c9cb251d99bc4b1f893f34020
-SHA1: c3dbcdd1231926f406d36288a61a58b3a0dea3d4
-SHA256: 526a2c481f7d6476f2f138fb4df04fb16eacb22e436fa2c869659787049b1a37
-SHA512: f71b61f61755d3f02988760e09a517af31191561284ced631748d7dba549d6fc0b5ef247b1fe103fc66d9883bc5fd00b3eb7fcf4191b27f4430203d2ea5047aa
 
 Package: caddy
 Architecture: arm
@@ -11159,35 +11083,6 @@ MD5Sum: cd712024e9ba7b941830aa4a59d0729b
 SHA1: a6b947dea0dc378012ad3c890f100e09430b6c8e
 SHA256: 398eec9ca4c10359a31edc952c1c4cad85cabf594b27d5559e586eb2922144a5
 SHA512: 5e14f3bd0c7a62efbe9b60b3e03fb442b6c0042f44f8c7349c0a5b84ef0efa4ddace8ece77000308da5a30aec33ce51c2fe41aaff8ffca4835130f091fcfc97c
-
-Package: libcap-ng-static
-Architecture: arm
-Installed-Size: 60
-Maintainer: @termux
-Version: 2:0.9.3
-Homepage: https://people.redhat.com/sgrubb/libcap-ng/
-Depends: libcap-ng (= 2:0.9.3)
-Description: Static libraries for libcap-ng
-Filename: ../../../../releases/download/arm-libc/libcap-ng-static_2:0.9.3_arm.deb
-Size: 8736
-MD5Sum: bb5738ef87aa761b62099876d2758338
-SHA1: 7035a1cf4487de86af1626fb94806ea2f8f46fe1
-SHA256: a00855c009410c160495dc5b7924afc89ab85d66ce3dbd73b7afc377060b5e03
-SHA512: f8496a4ce95444dbb54df5a8d1e99f6709d38edda988f14dd357fd777682b12478c31a1b929248d399203ec39766a2ed4bc7c7ad502978fcd4fbdb2f6aa52979
-
-Package: libcap-ng
-Architecture: arm
-Installed-Size: 252
-Maintainer: @termux
-Version: 2:0.9.3
-Homepage: https://people.redhat.com/sgrubb/libcap-ng/
-Description: Library making programming with POSIX capabilities easier than traditional libcap
-Filename: ../../../../releases/download/arm-libc/libcap-ng_2:0.9.3_arm.deb
-Size: 36016
-MD5Sum: c1492fa4de047d51d2450ca6be4f27fa
-SHA1: cecfe8317ec1e6365a666c12e6beeeb71de78b1f
-SHA256: 84ba9cae0ebe42d568bbc235ee925c7f7ab4487c6a53be82c31702057e421c06
-SHA512: ada958253fd810f17e4e5b08076260866571e047bca4c8e620179111682b4ff3eda95ebcdb91f236175a53f815535a185b6477112f9dc7c4241990e60b25813d
 
 Package: libcap-static
 Architecture: arm
@@ -22460,54 +22355,6 @@ SHA1: a12128a5800db9b095a5e285c793b06e9f9214e0
 SHA256: 057d6da90995438c9e4a706413fbe19683f34e0a70297fb342037edecf52021a
 SHA512: 190081dfae15b8065bc5bbf08a666b9811da8a36fdaa64884be024773b7778646b31484aa105b371e98fdaa9ad746f8551aefa8f5c8069560222fec3b35fbcc4
 
-Package: openssl-static
-Architecture: arm
-Installed-Size: 7500
-Maintainer: @termux
-Version: 1:3.6.3
-Homepage: https://www.openssl.org/
-Depends: openssl (= 1:3.6.3)
-Description: Static libraries for openssl
-Filename: ../../../../releases/download/arm-o/openssl-static_1:3.6.3_arm.deb
-Size: 1983764
-MD5Sum: 87e1994ed214c9f4167f8ac228e77c19
-SHA1: c858b1df1d694dae2f1f4c9e24c0fbcbccf7d8a2
-SHA256: 942a7f50d9118b35aac33101588f7c7c49386c5faeafa7221b1dfa8f722e4bca
-SHA512: 1acf3b03fa9f8082da2743f13177585110b1fade01444238665dca0c5958c0700c0f793c2b40a72afad722889456a71e9ee08c874ac8acddadb5e4a870e7d60c
-
-Package: openssl-tool
-Architecture: arm
-Installed-Size: 684
-Maintainer: @termux
-Version: 1:3.6.3
-Homepage: https://www.openssl.org/
-Depends: openssl (= 1:3.6.3)
-Description: The openssl command line cryptographic tool
-Filename: ../../../../releases/download/arm-o/openssl-tool_1:3.6.3_arm.deb
-Size: 266212
-MD5Sum: 97951c946c918ec9c03630ef44b8a80a
-SHA1: fe07f897d72580c2eea99374f8711a36f14f47ba
-SHA256: fe394dd632eb709227ef38e94025a16b8ec0227a956c05d6e9e327c634cafe90
-SHA512: 38e64425b13097614593da763a3be7d9437d12f8017e78ccd053e3027819d2532af310840970dfeb34ccddb3917bcd33311edc9a2b19d86f6f6b9f6fbf6b9dba
-
-Package: openssl
-Architecture: arm
-Installed-Size: 5800
-Maintainer: @termux
-Version: 1:3.6.3
-Homepage: https://www.openssl.org/
-Breaks: openssl-tool (<< 1.1.1b-1), openssl-dev
-Depends: ca-certificates, zlib
-Conflicts: libcurl (<< 7.61.0-1)
-Replaces: openssl-tool (<< 1.1.1b-1), openssl-dev
-Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
-Filename: ../../../../releases/download/arm-o/openssl_1:3.6.3_arm.deb
-Size: 1808580
-MD5Sum: cefa15e3a486b271d8497b419cd06133
-SHA1: 7f33293cf02d27a34be672af9555bb7de5be21d0
-SHA256: 0ee2b87e1c404a060b8463eb99b5e8d4e615b4e621144a431e61123e3b20ccce
-SHA512: 4642e1db4066dc42434d9a74f9a5c3833050ab9e46558f18ca7c7d90d828c40502687c8c1b549cf2f3086604cfaa6bc4d9f6e8e6a1999f90f25be058c3f950a3
-
 Package: opentimelineio
 Architecture: arm
 Installed-Size: 924
@@ -28042,36 +27889,6 @@ SHA1: 623d6967599ef42e787d511c1ca0901c6a4296dd
 SHA256: 2a7c2582ef8fa0fe04b74560819ce9ead1be404cf7431d8d34fb6e391402659b
 SHA512: 698db03ba6583f18fb35953cbd8aec0d07faa57b794ad0e21fb57f06888f45f528e9e70b65e32af0196b1bea5f8bbdeccdb69446048990504cf6f46f21bcb382
 
-Package: termux-exec-static
-Architecture: arm
-Installed-Size: 60
-Maintainer: @termux
-Version: 1:2.5.0-1
-Homepage: https://github.com/termux/termux-exec-package
-Depends: termux-exec (= 1:2.5.0-1)
-Description: Static libraries for termux-exec
-Filename: ../../../../releases/download/arm-t/termux-exec-static_1:2.5.0-1_arm.deb
-Size: 10364
-MD5Sum: ebe38b69c0830eebe29ef352e0294a79
-SHA1: eeb50f026ed7b446c50b2b2c3d5f0c4db0d2fa33
-SHA256: 3153abd39748a743f286205aaca0b5df665e19e04d117c6bbf81d05703d3201d
-SHA512: b060017f6d3ed9f284f48b2fb3b35c76132f619ce60c1c78c00f7616b6be4e838b2102d9c2b6e89a3ef0d94f560dbc4c58df34ff0ab2471ea4f4ab18a438e9ff
-
-Package: termux-exec
-Architecture: arm
-Installed-Size: 1776
-Maintainer: @termux
-Version: 1:2.5.0-1
-Homepage: https://github.com/termux/termux-exec-package
-Essential: yes
-Description: Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment
-Filename: ../../../../releases/download/arm-t/termux-exec_1:2.5.0-1_arm.deb
-Size: 362372
-MD5Sum: ca31a61bda8954f2f6f933b22525b02e
-SHA1: 45bf7875eab08479018c814ace46e5d5ffd539f7
-SHA256: f5413550f2893914f0871c5a78bb0d4870578a147fc19b9c432a25b07c0ba99a
-SHA512: 0d7ee84388480d05d631e36188ad6cf099c7df41d02622a93eabe6930b2d3884aa142f7ce3e040fea78abf42fd26558987a1f2f9de0c70a1d3cda9ec97dcafa2
-
 Package: termux-gui-bash
 Architecture: arm
 Installed-Size: 132
@@ -31452,4 +31269,232 @@ MD5Sum: 95e232232f2c1f7ec860b7dcf668d997
 SHA1: 039550ef4b28b1c2f08e063012a6ba45ea6c7133
 SHA256: 9cbdb1d588a4a77119ba5ff174d65f358576886dfed498ea57cc41024900a724
 SHA512: 87281b7580fc11f936fed4a9a6c6b71fdb3bd3d87fc5a2939f7fdbcf3ae35ec084e23613fc55f3b653780291b4d3cef71a8e979f50e67517760b4d4531d7c6a9
+
+Package: bitcoin
+Architecture: arm
+Installed-Size: 30008
+Maintainer: @termux
+Version: 31.1
+Homepage: https://bitcoincore.org/
+Depends: capnproto, libc++, libevent
+Description: Bitcoin Core
+Filename: ../../../../releases/download/arm-b/bitcoin_31.1_arm.deb
+Size: 12162680
+MD5Sum: 34d654aa1c3ffba883bda99fa91f03ff
+SHA1: 7c59a2162e5c448fcb2e8929d7b20ee74d840ad5
+SHA256: f723dc51aeb1d83400f2692b0a3e7e52dc26804279720f0928945829f538a126
+SHA512: 2e7f806ea9c73e74afd6fba13f24cfeb8f9df9ef42bfe15519e04b67855e16b597c44033e8b02f7e10c4fcfe8279718daed9d6613d804dc9118ed1c3a762938e
+
+Package: boost-headers
+Architecture: all
+Installed-Size: 189108
+Maintainer: @termux
+Version: 1:1.90.0-2
+Homepage: https://boost.org
+Depends: boost (= 1:1.90.0-2)
+Description: Boost header files
+Filename: ../../../../releases/download/arm-b/boost-headers_1:1.90.0-2_all.deb
+Size: 10741128
+MD5Sum: 00da1edf9a2717775ffac7702c19a75d
+SHA1: 2cb13f38cd20017cbb17adde5370830aa5fc2255
+SHA256: 1735750ae9e1af6cb94a5df7ce7de55c1c4dad5417a006a926a4216886088080
+SHA512: 5bf5d136c9fa4b2560be55084338bfa766983356f40a7e8c75d3b425d112c755069f694cdb40efbb87c7b63d49fdf8362afad44aa5ba0810160c4870121edf0d
+
+Package: boost-static
+Architecture: arm
+Installed-Size: 41176
+Maintainer: @termux
+Version: 1:1.90.0-2
+Homepage: https://boost.org
+Depends: boost (= 1:1.90.0-2)
+Description: Static libraries for boost
+Filename: ../../../../releases/download/arm-b/boost-static_1:1.90.0-2_arm.deb
+Size: 3293160
+MD5Sum: 31723d6ff28e54d98f1f3cd9ba0674e7
+SHA1: 75f7b90844fb11cd55e8920a172a9c20638564f2
+SHA256: e72df07436ec4d643d3d59afb6a221f59f2fb1535f9dc16eedff645dc129e22c
+SHA512: 23006ccf044ff95a72d14414e26fd1058d0a540183954e3de1f199d2ca29ff5e4b73e9abe679e476c0b1e6d42d387a89eeadc50eaabbe860a7d3e6302bbe2099
+
+Package: boost
+Architecture: arm
+Installed-Size: 5324
+Maintainer: @termux
+Version: 1:1.90.0-2
+Homepage: https://boost.org
+Breaks: libboost-python (<= 1.65.1-2), boost-dev
+Depends: libc++, libbz2, libiconv, liblzma, zlib, libandroid-wordexp
+Replaces: libboost-python (<= 1.65.1-2), boost-dev
+Description: Free peer-reviewed portable C++ source libraries
+Filename: ../../../../releases/download/arm-b/boost_1:1.90.0-2_arm.deb
+Size: 1156204
+MD5Sum: b272f184866096a1b014efda0f1e2611
+SHA1: 11036f284d8c06ad5c44bf71df9a4b5a59264a63
+SHA256: 22b79a6a230e9c20abcb04848a3f09fb820ba372535c52edad7b1541c8b41b40
+SHA512: f44d4cb6295e8ae2c3b89d9893a02499a3b0762d364abe5117d88fc345fca930cefac4c6630bf9a6f31798efdbbbe3e44ac2657866ae1ae4c4cdaed464f367d9
+
+Package: ca-certificates-java
+Architecture: all
+Installed-Size: 184
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Depends: ca-certificates (= 1:2026.05.14)
+Description: Common CA certificates (java keystore format)
+Filename: ../../../../releases/download/arm-c/ca-certificates-java_1:2026.05.14_all.deb
+Size: 96488
+MD5Sum: 0c4a7083779156036f784a812beadeff
+SHA1: 5645b506258ad3215b7af561cb3bf76a254b65c5
+SHA256: e91b42d945770e2097f23699ccccaa8d2901d723015df0f3dcd17ed7fe7cc00d
+SHA512: 2bebc62a6e3550256cdce9a9cd63cb2fbb60e976993818c6fb4ac11f4fd6a31e8a2b6baaf2feeec785428a9e006dbd832fa956fa54a8f59404cdf767ee7588d2
+
+Package: ca-certificates
+Architecture: all
+Installed-Size: 232
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Description: Common CA certificates
+Filename: ../../../../releases/download/arm-c/ca-certificates_1:2026.05.14_all.deb
+Size: 105736
+MD5Sum: d58491ffa01dcb00c1812689c62290e1
+SHA1: 434568e9960062580cfb2ea916a5a414e75b2e55
+SHA256: 7cad65dd2d1bbecf590285a35a18cbea07dd14aa1965c9c2e758ad2f36431ecc
+SHA512: 8fb9f9849ce5b0af7e5fd234e3edbfdca9d26c5ce8b6718825eccbd80b3b0a2be1dad0516e5f9d6e4a783a5464370d0667358586d7cf65ed7c1b8ada712e1bf9
+
+Package: capnproto
+Architecture: arm
+Installed-Size: 6924
+Maintainer: @termux
+Version: 1.5.0
+Homepage: https://capnproto.org/
+Depends: libc++
+Description: Data interchange format and capability-based RPC system
+Filename: ../../../../releases/download/arm-c/capnproto_1.5.0_arm.deb
+Size: 1670392
+MD5Sum: 80a4d6d3e31ed6094c3665976705e370
+SHA1: 72bba2e001684e7be386ce5de8f9540398001236
+SHA256: 2a757dfdfff16ee973a05bb458f0d47ad7a97c1acba2a50888a00134f98554c2
+SHA512: 0958f0f5d358fae96fc3d88ca498401ebff35cb36e68993cd07c1b7eb90104f87a345dc3850a928b62cd24241aca78180618c1ffb3c90b8827a89fce28ec3617
+
+Package: lnd
+Architecture: arm
+Installed-Size: 62552
+Maintainer: @termux
+Version: 0.17.0-beta-1
+Homepage: https://github.com/lightningnetwork/lnd
+Depends: bitcoin
+Description: Lightning Network Daemon
+Filename: ../../../../releases/download/arm-l/lnd_0.17.0-beta-1_arm.deb
+Size: 16550084
+MD5Sum: 38f90577af92a2173cade3d16bf3c09c
+SHA1: f0be9022759b6186a3dfef0410c75e26b6be41e0
+SHA256: a6a4549d4758c2c8b727cc3658f0da285639de368510e08d4929ca4affe3f831
+SHA512: a91d38ec728b77472a7170ed209cf3c2e6196b85392897d3ac912dc927b590eec90c7dc7a00889621bc688cc254858b237162f5722e384013e137dd35018755d
+
+Package: libcap-ng-static
+Architecture: arm
+Installed-Size: 60
+Maintainer: @termux
+Version: 2:0.9.3
+Homepage: https://people.redhat.com/sgrubb/libcap-ng/
+Depends: libcap-ng (= 2:0.9.3)
+Description: Static libraries for libcap-ng
+Filename: ../../../../releases/download/arm-libc/libcap-ng-static_2:0.9.3_arm.deb
+Size: 8732
+MD5Sum: 290e7b10d0f50408eeaccd770c2412e7
+SHA1: 5bb79f8bfc704ff5666cc2f85ec270f07a53646b
+SHA256: bc37497772f3bc0f804fd8c01eb793da607ed9bfa14220f00d16ef7529e53988
+SHA512: 54727fd298a79e79f90091f299d97286f9714bea0b439a67820d4b95774db1b9633842c7740b533254060cbef1cffa4321edabfdc2ac5e2a24b53afda09396b3
+
+Package: libcap-ng
+Architecture: arm
+Installed-Size: 252
+Maintainer: @termux
+Version: 2:0.9.3
+Homepage: https://people.redhat.com/sgrubb/libcap-ng/
+Description: Library making programming with POSIX capabilities easier than traditional libcap
+Filename: ../../../../releases/download/arm-libc/libcap-ng_2:0.9.3_arm.deb
+Size: 36028
+MD5Sum: e081a98d71cf9840a8f5622f3e080c2b
+SHA1: 8f5617f579d4173b3af690cdbb27a1a0ec78b5b9
+SHA256: 8d12948f84c90062363709b24745c8c80796b9c7133c6e6aa18846d84e9c38da
+SHA512: 530d27599ee0b7bcd0ffe38f7ebbe6a72d1da90d04bad90d51b1460d28eb2fa9913ae1d07e3a696ddc285bc80b1e9ada5003a646b8dfb392712c3b8dd8b61e4e
+
+Package: openssl-static
+Architecture: arm
+Installed-Size: 7500
+Maintainer: @termux
+Version: 1:3.6.3
+Homepage: https://www.openssl.org/
+Depends: openssl (= 1:3.6.3)
+Description: Static libraries for openssl
+Filename: ../../../../releases/download/arm-o/openssl-static_1:3.6.3_arm.deb
+Size: 1983676
+MD5Sum: 6a3675693828573ba0f77e1b359742f9
+SHA1: e4d66eb0fd5f6a315aeb5857ba063d7bef653e92
+SHA256: 1d842372f0217c2b63628c3beea71555623c3380018b6b8d36e30eb4fc64ea5d
+SHA512: 1dc10ac9afdc160a81150c37164e4ef9bb5f51527c99bbba1cd75dc188dbffddffda21121ea873a5649040d1862bd84b354855c0b3d10faa7a585f75d9efb451
+
+Package: openssl-tool
+Architecture: arm
+Installed-Size: 684
+Maintainer: @termux
+Version: 1:3.6.3
+Homepage: https://www.openssl.org/
+Depends: openssl (= 1:3.6.3)
+Description: The openssl command line cryptographic tool
+Filename: ../../../../releases/download/arm-o/openssl-tool_1:3.6.3_arm.deb
+Size: 266252
+MD5Sum: 52d4942a6f7f8c06970cc2857c004e78
+SHA1: 92904d9e81c5080c5292e52d095a97f4e4aa998e
+SHA256: 7a7170a176b121fc2452528fc58d583ce607d801c5d09ca357a765af63df7756
+SHA512: 447694e6054891b9b68cf758351cb188e3a57feaed2d4bc11287d75ad9e801f9e533045ecc46e5365427b8a176ff2553b7fb48fcf7625aa8f3a3abcef59f1100
+
+Package: openssl
+Architecture: arm
+Installed-Size: 5800
+Maintainer: @termux
+Version: 1:3.6.3
+Homepage: https://www.openssl.org/
+Breaks: openssl-tool (<< 1.1.1b-1), openssl-dev
+Depends: ca-certificates, zlib
+Conflicts: libcurl (<< 7.61.0-1)
+Replaces: openssl-tool (<< 1.1.1b-1), openssl-dev
+Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
+Filename: ../../../../releases/download/arm-o/openssl_1:3.6.3_arm.deb
+Size: 1808420
+MD5Sum: 1f5806dcb19e347dec72ecbd3d22b62a
+SHA1: 58fa31e9aadfc4e052a71238fa83976e6924f0c5
+SHA256: 78575b30cbacf531b52717f76c6dcddfb13d1d75e51718ae87fc26e3d17b486e
+SHA512: f34b04c8ba284b9e16730c325447694e9a89f19958c34fb71a6249d9cb5ae188f56b97924bbd5d3f8f1a1847bda5934c952727bd6a20547e353ca3739c786247
+
+Package: termux-exec-static
+Architecture: arm
+Installed-Size: 60
+Maintainer: @termux
+Version: 1:2.5.0-1
+Homepage: https://github.com/termux/termux-exec-package
+Depends: termux-exec (= 1:2.5.0-1)
+Description: Static libraries for termux-exec
+Filename: ../../../../releases/download/arm-t/termux-exec-static_1:2.5.0-1_arm.deb
+Size: 10364
+MD5Sum: 7cbc89affa511e600bb09442f94de8d0
+SHA1: cd586a9567f49ad20952b74b5baea20e58040eb9
+SHA256: bafbc0b90403c0935976e9774638dbe66d7ac29c518925decffccf2b9fbd8dec
+SHA512: 7faf9cfc2714cf23e8bf122ecb83093a71bead12a87c7236e0f9cb4f0f81816c4600982d985fe4a2c86aca24f06446e37ec92cdc452900be276c60b42cb8ef70
+
+Package: termux-exec
+Architecture: arm
+Installed-Size: 1776
+Maintainer: @termux
+Version: 1:2.5.0-1
+Homepage: https://github.com/termux/termux-exec-package
+Essential: yes
+Description: Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment
+Filename: ../../../../releases/download/arm-t/termux-exec_1:2.5.0-1_arm.deb
+Size: 362792
+MD5Sum: 033ce22e74651e773e6b0c8c7ca79f09
+SHA1: 9ac33756c27cbc5a0790d262eb0bfd5256f01f45
+SHA256: d341f3e9f0c2791b1a10e9d65cb9e995142096ddf288a09725cb3a8a596abc10
+SHA512: 6daa242584e4fb135e6313e2a7e3f6521487b1586229c9a61feff9159a4cc22af93cf9bad464879bf11e7d31854aa2f21e0cbfe10bf174f74a4b7f469727652f
 

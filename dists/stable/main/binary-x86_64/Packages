@@ -1782,53 +1782,6 @@ SHA1: c68449478bb609fadca2a73ee51ef56e7abe2446
 SHA256: 4d99d7395e7e598e24507d852086cb51b388d0d1520dff059eb494f8bea428c4
 SHA512: b1f47c03a24d009a4430ff42e636ef8c86bf351d740e0f08ec680b2649e10e0da91610c4f087077bca3303c72bead109d58c083009a8c7359c87dae58a870fc8
 
-Package: boost-headers
-Architecture: all
-Installed-Size: 189108
-Maintainer: @termux
-Version: 1:1.90.0-2
-Homepage: https://boost.org
-Depends: boost (= 1:1.90.0-2)
-Description: Boost header files
-Filename: ../../../../releases/download/x86_64-b/boost-headers_1:1.90.0-2_all.deb
-Size: 10739404
-MD5Sum: e2798f4a041ef57fe8d873e937d31497
-SHA1: 65636f03c01eaba512ce194747842dd4c4c3ae13
-SHA256: 41175002641a66ba697295dbce917bd9705c21613e907da327d35b885ebb1f02
-SHA512: aa5a255737d8dc59a3fcc4cd06297b5c5aa79d95890f99c0486439797e79c9d0814dc852fa946335a33a6b8e4eac715ae1b210c27499cbf7afd5859c6d3f0a04
-
-Package: boost-static
-Architecture: x86_64
-Installed-Size: 39740
-Maintainer: @termux
-Version: 1:1.90.0-2
-Homepage: https://boost.org
-Depends: boost (= 1:1.90.0-2)
-Description: Static libraries for boost
-Filename: ../../../../releases/download/x86_64-b/boost-static_1:1.90.0-2_x86_64.deb
-Size: 3033540
-MD5Sum: fded6fd560a2c14ccfd52472c3c811d7
-SHA1: ba430f737216284262bca381359f373a9963fe3d
-SHA256: 35851aacee2012b0a6fe4c859caaebe10ed1a22046a34d273630b9c49fd260b3
-SHA512: 6a7e9aa4b53e16d2ddc5009af843620d47be5531077cc32ab65ec4f8e637bcf49108d933a7ebf9d382db0bb878becb03095bd31ddac630263339067d01d8e20f
-
-Package: boost
-Architecture: x86_64
-Installed-Size: 8284
-Maintainer: @termux
-Version: 1:1.90.0-2
-Homepage: https://boost.org
-Breaks: libboost-python (<= 1.65.1-2), boost-dev
-Depends: libc++, libbz2, libiconv, liblzma, zlib, libandroid-wordexp
-Replaces: libboost-python (<= 1.65.1-2), boost-dev
-Description: Free peer-reviewed portable C++ source libraries
-Filename: ../../../../releases/download/x86_64-b/boost_1:1.90.0-2_x86_64.deb
-Size: 1598956
-MD5Sum: 906571b2e10430694c8c3851b1d0aeaa
-SHA1: a1592997edad213ae6ecb1e47b6b70258a525d75
-SHA256: 8387f070f187f45e31d0487450c61f41b10d48c9f3cb01e1c1dbd9c7b66a0085
-SHA512: c14a43fd49c14f63e6240afb623e2dc2120220aaf31226e7e4b11fd263862bd54bd98650d159677e51549df415f5ab29bf5a1f9851c9187e560582d263025b8f
-
 Package: botan3-static
 Architecture: x86_64
 Installed-Size: 40604
@@ -2106,35 +2059,6 @@ MD5Sum: 0734f84a87e2f92d580dc41719e09167
 SHA1: b3a94e3eebfd8c3585f5ab0d232a3dac32367d29
 SHA256: 9bdfb8c1a00721910aee9cc3ca13c32c177379045d818e50f5b60312d1bbe494
 SHA512: a85ad90dd66473b8ae6ab48447eca5b0520dcb06c9c5e24231fb1a23e9df451f90994458f5957d495e057cd90e2712ead6f932456e8d8e496e2a0f4fff4ab502
-
-Package: ca-certificates-java
-Architecture: all
-Installed-Size: 184
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Depends: ca-certificates (= 1:2026.05.14)
-Description: Common CA certificates (java keystore format)
-Filename: ../../../../releases/download/x86_64-c/ca-certificates-java_1:2026.05.14_all.deb
-Size: 96492
-MD5Sum: 99fcb24907fa03d0c18c3eb1fe483db9
-SHA1: 37c4daa06a19055900c9be073b9ee503aaa61929
-SHA256: 5899d296ca7b25bbdbcdc3cfd052faf4fac27ec40e7f964198c997803dc331a0
-SHA512: 6beae1b8eaeac4fbc66774481b6a3394b148dfaec4395be7ff239f68ca4f3aba86f6ca9c4bbbf5ab93b374f108af7c3a6cba7cc2d9a676762a290c8dfb697784
-
-Package: ca-certificates
-Architecture: all
-Installed-Size: 232
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Description: Common CA certificates
-Filename: ../../../../releases/download/x86_64-c/ca-certificates_1:2026.05.14_all.deb
-Size: 105736
-MD5Sum: f89a4d6c9cb251d99bc4b1f893f34020
-SHA1: c3dbcdd1231926f406d36288a61a58b3a0dea3d4
-SHA256: 526a2c481f7d6476f2f138fb4df04fb16eacb22e436fa2c869659787049b1a37
-SHA512: f71b61f61755d3f02988760e09a517af31191561284ced631748d7dba549d6fc0b5ef247b1fe103fc66d9883bc5fd00b3eb7fcf4191b27f4430203d2ea5047aa
 
 Package: caddy
 Architecture: x86_64
@@ -11806,35 +11730,6 @@ MD5Sum: 45a840b1ec984dbdec78aa04841a83a7
 SHA1: 01c401d59e853a152e9c31aa6adfa3173e8d57b9
 SHA256: acae7069565d94d771cec35d0a345f45e4125a9055727ce4aedf1e8c663b9167
 SHA512: 32973c76081bfd08972cf68a95417d1db87b987b98ca67ee55856f51f18d2fe5e84141d6453d316f1e97f4e0e5dc825a69970fb925570281f980d71896d61565
-
-Package: libcap-ng-static
-Architecture: x86_64
-Installed-Size: 68
-Maintainer: @termux
-Version: 2:0.9.3
-Homepage: https://people.redhat.com/sgrubb/libcap-ng/
-Depends: libcap-ng (= 2:0.9.3)
-Description: Static libraries for libcap-ng
-Filename: ../../../../releases/download/x86_64-libc/libcap-ng-static_2:0.9.3_x86_64.deb
-Size: 9388
-MD5Sum: 9436e240f40314f757f93984bea43768
-SHA1: 0ff382df6eabbc55efa91588fea137cd6bd38935
-SHA256: 2f21e4657bdffb94482dcfc123e2bd0dd559c6bf6393ac1b92ec602830730a72
-SHA512: ab10aec415a621e8d83ecd616f6c041a01228909e27305f5c055f5bce6a72994c60c79da5f33a1e7396c4e6d4760cf6d84010643cac5fec95b0d07f54d249590
-
-Package: libcap-ng
-Architecture: x86_64
-Installed-Size: 272
-Maintainer: @termux
-Version: 2:0.9.3
-Homepage: https://people.redhat.com/sgrubb/libcap-ng/
-Description: Library making programming with POSIX capabilities easier than traditional libcap
-Filename: ../../../../releases/download/x86_64-libc/libcap-ng_2:0.9.3_x86_64.deb
-Size: 38904
-MD5Sum: 02d5e05e6a078cfa4f54414546490579
-SHA1: 933934007a6a94f00db54aae06c3ea538bf3a5c5
-SHA256: 3bffbfa7741574596d8fb72293248eaa8092eff4b04d011ca92753ec22c8dd42
-SHA512: fa394342aaa4a2fd8bee54c5be03af4d207c40ae3f267aa26c8864a4d7780c75b8fe61701bd2671c6c69635e325a5da6a447639aebca01c535ad6c179a193d5c
 
 Package: libcap-static
 Architecture: x86_64
@@ -23441,54 +23336,6 @@ SHA1: 71219fdf1180adef417c565622171ee7b2af8410
 SHA256: 60d688011d56242c519b9439b31eb1d470f97e00cefd1a9af2994539809daf97
 SHA512: 8e7242cb7973d7dc593e3bf95014a9594639b21d3155df1799dd8f7d576e00b68474d6c5381496506250ef9a8e82fc40ca06e2582b7f9ba1dffc0bd71946b530
 
-Package: openssl-static
-Architecture: x86_64
-Installed-Size: 12396
-Maintainer: @termux
-Version: 1:3.6.3
-Homepage: https://www.openssl.org/
-Depends: openssl (= 1:3.6.3)
-Description: Static libraries for openssl
-Filename: ../../../../releases/download/x86_64-o/openssl-static_1:3.6.3_x86_64.deb
-Size: 2213660
-MD5Sum: 303e1001201fd077f0ccbb88171f10be
-SHA1: f0dfe54d209d8860dabd3b5417f71d04a5c30229
-SHA256: ec14a2937cb10add3a87192064d3b5990a20c128b5aba29ec7b08c524031c8d1
-SHA512: b3ae5dd76449c6b4857551660c9be87f3713eebcd7f4430c833932dc29b1816539910185908a1458492c59bc0d4a8a1432d8e35c06e624cb0b5f0b6882e9a197
-
-Package: openssl-tool
-Architecture: x86_64
-Installed-Size: 1016
-Maintainer: @termux
-Version: 1:3.6.3
-Homepage: https://www.openssl.org/
-Depends: openssl (= 1:3.6.3)
-Description: The openssl command line cryptographic tool
-Filename: ../../../../releases/download/x86_64-o/openssl-tool_1:3.6.3_x86_64.deb
-Size: 306352
-MD5Sum: cdd9d928a39ad396d3c852d53dac8982
-SHA1: fba0f976bf727c956976d6523b5fd3ed744512f4
-SHA256: 753437c4f277f973ececaf4f56a21425dd35ff6da58a9ad2121e342bae14ee53
-SHA512: 34410d7a94c205fce782882fc3b5b98787bc25559ee973fe27a4097f9565e384169763116dcfbee0b83bfd66a8f78471b2d87f61a74cffa086c1ccfe65cc25aa
-
-Package: openssl
-Architecture: x86_64
-Installed-Size: 8852
-Maintainer: @termux
-Version: 1:3.6.3
-Homepage: https://www.openssl.org/
-Breaks: openssl-tool (<< 1.1.1b-1), openssl-dev
-Depends: ca-certificates, zlib
-Conflicts: libcurl (<< 7.61.0-1)
-Replaces: openssl-tool (<< 1.1.1b-1), openssl-dev
-Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
-Filename: ../../../../releases/download/x86_64-o/openssl_1:3.6.3_x86_64.deb
-Size: 2156276
-MD5Sum: 177ca2f3b6780d35b64e82152dd1a1b1
-SHA1: a5a1c1b966aad61edfb4aee5e848bff27d1a26a6
-SHA256: 61cb429835284f393e15147092c5462dfc1efc92f34232a374ddb9d5d73550f5
-SHA512: 602b7beed0dc5992a200b0f1e8acaa5d76c2923b06ed6967ad884bec77f431558dbb231a38edcac702a526410ded9aebde226ade4c428f7a76b73a6a1e5fc29e
-
 Package: opentimelineio
 Architecture: x86_64
 Installed-Size: 1192
@@ -29207,36 +29054,6 @@ SHA1: 45466461a318bb5a8b9a60e86a8ffed34f526ec3
 SHA256: 62096f07654fd746aaf87ed4052d50b7f954170dfa6a9c449d98d4285b7859e2
 SHA512: 1a1ca30690f4b76b518d7cce1c9173508d4644cd7b4cbc9c9f18c0c5b89140213da8afe96772b1e3a949281d172fa8f1d3c3748327ed0f954b4252eaac650dde
 
-Package: termux-exec-static
-Architecture: x86_64
-Installed-Size: 72
-Maintainer: @termux
-Version: 1:2.5.0-1
-Homepage: https://github.com/termux/termux-exec-package
-Depends: termux-exec (= 1:2.5.0-1)
-Description: Static libraries for termux-exec
-Filename: ../../../../releases/download/x86_64-t/termux-exec-static_1:2.5.0-1_x86_64.deb
-Size: 10532
-MD5Sum: 491d7fb109c77add414c4291bed2a885
-SHA1: bef7679c0b8843e65c6f6b4b8b1a469aa66ce166
-SHA256: 80a77712e15fc6ac3ed1f5743fd2f67266b6a47e11f954bd203f6f35f5a1b99b
-SHA512: adec9c0e706f126e9b02bfe7e02d937f502ad56ee534aff746ef5658d57597200d2002f3e9685244461931c75fb04b026d78b0eed99955e760c1ce6e7bfb589f
-
-Package: termux-exec
-Architecture: x86_64
-Installed-Size: 2144
-Maintainer: @termux
-Version: 1:2.5.0-1
-Homepage: https://github.com/termux/termux-exec-package
-Essential: yes
-Description: Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment
-Filename: ../../../../releases/download/x86_64-t/termux-exec_1:2.5.0-1_x86_64.deb
-Size: 329804
-MD5Sum: 09fb3904cb89bff5da270def4a3cc0b9
-SHA1: d74475def29125650ecf2651e1a51c18cc384918
-SHA256: 07bf9d97bee3049997b3bf36b0f47a364d0854b5214e2c76e4e06406968c1f55
-SHA512: afd0e3ea6dfe79778708b96eaca8d142203cf7c20769206046c33b1e888aee3de4b2b716e114bd3d72ca663538ff1371fadf94bb424f6af345e1ce61e3f857d2
-
 Package: termux-gui-bash
 Architecture: x86_64
 Installed-Size: 132
@@ -32738,4 +32555,232 @@ MD5Sum: 71902f44729cb7de3380df58c28be344
 SHA1: 2a0c8cf59493e506809c8cc6662f6702e015b520
 SHA256: cc0e234181990c7dd01095dea6056584cf29cab63dfc834195cb233af6640c36
 SHA512: 5e0e75a77fd9c444fa487ddaa89547009542471d814ea363a4b064442acef823449ac92801b3bf74f5c41e93d50cf3749ef0e1180a48e6197b327699de8bb65d
+
+Package: bitcoin
+Architecture: x86_64
+Installed-Size: 43388
+Maintainer: @termux
+Version: 31.1
+Homepage: https://bitcoincore.org/
+Depends: capnproto, libc++, libevent
+Description: Bitcoin Core
+Filename: ../../../../releases/download/x86_64-b/bitcoin_31.1_x86_64.deb
+Size: 14404828
+MD5Sum: df854077d5e968d67e9866b08e1a8d23
+SHA1: 80630579b03c5a32bf90d026076edca36fa30556
+SHA256: 779480eecb38afb5ae53d72e1043fc8abf3a0680205d6c4eb45e6a0a07db53ed
+SHA512: a4e52dfc8dbd22ee21e4e6386e41d743840c432cf829631b4dfb008b7ba5b8a1b41959c0d6a3929c12e2b9633d767b2aeb5dc80687415b705b500dd146eac57b
+
+Package: boost-headers
+Architecture: all
+Installed-Size: 189108
+Maintainer: @termux
+Version: 1:1.90.0-2
+Homepage: https://boost.org
+Depends: boost (= 1:1.90.0-2)
+Description: Boost header files
+Filename: ../../../../releases/download/x86_64-b/boost-headers_1:1.90.0-2_all.deb
+Size: 10741128
+MD5Sum: 00da1edf9a2717775ffac7702c19a75d
+SHA1: 2cb13f38cd20017cbb17adde5370830aa5fc2255
+SHA256: 1735750ae9e1af6cb94a5df7ce7de55c1c4dad5417a006a926a4216886088080
+SHA512: 5bf5d136c9fa4b2560be55084338bfa766983356f40a7e8c75d3b425d112c755069f694cdb40efbb87c7b63d49fdf8362afad44aa5ba0810160c4870121edf0d
+
+Package: boost-static
+Architecture: x86_64
+Installed-Size: 39740
+Maintainer: @termux
+Version: 1:1.90.0-2
+Homepage: https://boost.org
+Depends: boost (= 1:1.90.0-2)
+Description: Static libraries for boost
+Filename: ../../../../releases/download/x86_64-b/boost-static_1:1.90.0-2_x86_64.deb
+Size: 3032616
+MD5Sum: ac01de948249f920b3d9a108acf72eaa
+SHA1: e86e8a5d4b758cdc486b4ef3b2e5b8bd33e9f8e7
+SHA256: fa62bc16b1624e6128351b39a9f204454dfe322f4aeccc2299e908a692ede368
+SHA512: 17f06ccf12dc6c3aa1abf7412554ceae052239cd111a7a70b486e0e50fcd912b318bd6ed99772705e61bbd525f171d47e5be8605b63a295e6f6d97af63546217
+
+Package: boost
+Architecture: x86_64
+Installed-Size: 8284
+Maintainer: @termux
+Version: 1:1.90.0-2
+Homepage: https://boost.org
+Breaks: libboost-python (<= 1.65.1-2), boost-dev
+Depends: libc++, libbz2, libiconv, liblzma, zlib, libandroid-wordexp
+Replaces: libboost-python (<= 1.65.1-2), boost-dev
+Description: Free peer-reviewed portable C++ source libraries
+Filename: ../../../../releases/download/x86_64-b/boost_1:1.90.0-2_x86_64.deb
+Size: 1597576
+MD5Sum: 1758e21ee6637dc0dcaf45832f8145e7
+SHA1: 8262febf5371f10debc8409a005da2acf3bea302
+SHA256: 4ae482d2277514a73358e7e19907640fee5198c5272551ab45f4bfca7e00ab7f
+SHA512: 3778e7dbd259d1710154f2d7e81b95d08cd43dc49374298ae65872a39f2a26a714e863a1df1f72833be677bc3c96d49cc481e2f138f9bc29d9d0e88f973a777a
+
+Package: ca-certificates-java
+Architecture: all
+Installed-Size: 184
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Depends: ca-certificates (= 1:2026.05.14)
+Description: Common CA certificates (java keystore format)
+Filename: ../../../../releases/download/x86_64-c/ca-certificates-java_1:2026.05.14_all.deb
+Size: 96488
+MD5Sum: 0c4a7083779156036f784a812beadeff
+SHA1: 5645b506258ad3215b7af561cb3bf76a254b65c5
+SHA256: e91b42d945770e2097f23699ccccaa8d2901d723015df0f3dcd17ed7fe7cc00d
+SHA512: 2bebc62a6e3550256cdce9a9cd63cb2fbb60e976993818c6fb4ac11f4fd6a31e8a2b6baaf2feeec785428a9e006dbd832fa956fa54a8f59404cdf767ee7588d2
+
+Package: ca-certificates
+Architecture: all
+Installed-Size: 232
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Description: Common CA certificates
+Filename: ../../../../releases/download/x86_64-c/ca-certificates_1:2026.05.14_all.deb
+Size: 105736
+MD5Sum: d58491ffa01dcb00c1812689c62290e1
+SHA1: 434568e9960062580cfb2ea916a5a414e75b2e55
+SHA256: 7cad65dd2d1bbecf590285a35a18cbea07dd14aa1965c9c2e758ad2f36431ecc
+SHA512: 8fb9f9849ce5b0af7e5fd234e3edbfdca9d26c5ce8b6718825eccbd80b3b0a2be1dad0516e5f9d6e4a783a5464370d0667358586d7cf65ed7c1b8ada712e1bf9
+
+Package: capnproto
+Architecture: x86_64
+Installed-Size: 9248
+Maintainer: @termux
+Version: 1.5.0
+Homepage: https://capnproto.org/
+Depends: libc++
+Description: Data interchange format and capability-based RPC system
+Filename: ../../../../releases/download/x86_64-c/capnproto_1.5.0_x86_64.deb
+Size: 1823528
+MD5Sum: fdf272d5521990613ed9b2c7e416cf72
+SHA1: 2c462bd258ffdb2e61e5fdfe784bf99343553d45
+SHA256: 65d22b426867f0d41caaee8a39f2d5509a2aedcadd5b8e218bd7ce0a64fbf61a
+SHA512: b1fdbce78a94bee93c47da6b1f6020108da39b2c41a3c606d2ade0d23f617f76e13d1743745d2568aaa1561854fc6a1ba685bd53efe0032acfa134915ac787bb
+
+Package: lnd
+Architecture: x86_64
+Installed-Size: 68904
+Maintainer: @termux
+Version: 0.17.0-beta-1
+Homepage: https://github.com/lightningnetwork/lnd
+Depends: bitcoin
+Description: Lightning Network Daemon
+Filename: ../../../../releases/download/x86_64-l/lnd_0.17.0-beta-1_x86_64.deb
+Size: 17955236
+MD5Sum: 53992ece6afd047c973d7f5c0a7e7070
+SHA1: 3a73007e14d4363b54ecd19a12995884d32935f0
+SHA256: 0f0072a333d388845cbb804bd7be2e1c61a1a2e5f29b4f7f7f802a61c6f0f5cc
+SHA512: 86fa3cab97892626c9c5a53a59b0e162a909393de09379593d56eb252900eb57d5202003da21a2f03b8a0c8e5e2b9e1f362249a36e8c882f7b458fd984cd7ce5
+
+Package: libcap-ng-static
+Architecture: x86_64
+Installed-Size: 68
+Maintainer: @termux
+Version: 2:0.9.3
+Homepage: https://people.redhat.com/sgrubb/libcap-ng/
+Depends: libcap-ng (= 2:0.9.3)
+Description: Static libraries for libcap-ng
+Filename: ../../../../releases/download/x86_64-libc/libcap-ng-static_2:0.9.3_x86_64.deb
+Size: 9388
+MD5Sum: 6294437e4fd1353213f477c9a6ede846
+SHA1: 0f1e1d96e832d144375d89921e58cb2b5e7986f1
+SHA256: bc361071a1d3386312c9bb1281d92fdcebdd2a5c1f02e98fd7572b48a13d415e
+SHA512: 8eea64fe266a40388acf9420c229a03eb504a9ce15028b502160747a58e8268ea50f6122881b45e67d16bac56848a7d5bca47356948a127d9f4118dda6df6efb
+
+Package: libcap-ng
+Architecture: x86_64
+Installed-Size: 272
+Maintainer: @termux
+Version: 2:0.9.3
+Homepage: https://people.redhat.com/sgrubb/libcap-ng/
+Description: Library making programming with POSIX capabilities easier than traditional libcap
+Filename: ../../../../releases/download/x86_64-libc/libcap-ng_2:0.9.3_x86_64.deb
+Size: 38924
+MD5Sum: 85053820a89aa77284d95bbd018f8e01
+SHA1: 69548eeb324989922c9b6836c49d44e2758b1d17
+SHA256: 0f0e1dbf9f8e138b691fd370a2629ed4956189c9500275b5842bfccb3f0b6e46
+SHA512: 681c581f793d5e766764102bc651c05c5aad8fb78d1c9d980e4754f9cc56a341f48249081af1736dfe987c49f814c738a186b9146bb0bad9809a301fd66a82f9
+
+Package: openssl-static
+Architecture: x86_64
+Installed-Size: 12396
+Maintainer: @termux
+Version: 1:3.6.3
+Homepage: https://www.openssl.org/
+Depends: openssl (= 1:3.6.3)
+Description: Static libraries for openssl
+Filename: ../../../../releases/download/x86_64-o/openssl-static_1:3.6.3_x86_64.deb
+Size: 2214452
+MD5Sum: 54212ee85fc51d5b97f27b72b7cc1aa6
+SHA1: bc96a82aface4ec8fdf9a7d8a2e665fe68d68046
+SHA256: 9cfac0c0da70b64fe324a19539b7df10f6cfac8689e02a0cb9c3e932a6154e09
+SHA512: 79cacae5d5751398c69b133c555d90912909955aa847cdf4634fb54fd5dea92ae605e81044cd16c333758e40b5dfda2366b92cd6cb76d1affd172f51bc7f3f81
+
+Package: openssl-tool
+Architecture: x86_64
+Installed-Size: 1016
+Maintainer: @termux
+Version: 1:3.6.3
+Homepage: https://www.openssl.org/
+Depends: openssl (= 1:3.6.3)
+Description: The openssl command line cryptographic tool
+Filename: ../../../../releases/download/x86_64-o/openssl-tool_1:3.6.3_x86_64.deb
+Size: 306384
+MD5Sum: 5c817a90d5e90f6555d3f397f5b97176
+SHA1: 32817c9bb8655437e0d4f395a3574f43039cfddd
+SHA256: 47bb08e5496578ddcae42c05dfb281eb5a2afe2ecacd3f229612e2a0ec9d7748
+SHA512: 60dd9007730b10c3607a33a8f8a0f8d1397ef029577cb058b5534b504b5efce0b8b2782ee0b9632c97b315321144a716d7fc8c362bd612be79b387cede19793f
+
+Package: openssl
+Architecture: x86_64
+Installed-Size: 8852
+Maintainer: @termux
+Version: 1:3.6.3
+Homepage: https://www.openssl.org/
+Breaks: openssl-tool (<< 1.1.1b-1), openssl-dev
+Depends: ca-certificates, zlib
+Conflicts: libcurl (<< 7.61.0-1)
+Replaces: openssl-tool (<< 1.1.1b-1), openssl-dev
+Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
+Filename: ../../../../releases/download/x86_64-o/openssl_1:3.6.3_x86_64.deb
+Size: 2156764
+MD5Sum: 04ff8ce054d9bec882c20c23f4596259
+SHA1: c3d2f3892af35b9bd7d16d971a7606e6729a160d
+SHA256: d27b6b9f1910fdf660dcfe17b03a8fa18425f69a93f1757554b7d165e24c360c
+SHA512: 117816fac5c3e2e4144abe1b8b8c81e5a0f9ebb6628a088456ac3f09a28d4496daae6118d6ea091dbf7b583ff7e368b383d6e9136e9a3c6b707099873c7cbcad
+
+Package: termux-exec-static
+Architecture: x86_64
+Installed-Size: 72
+Maintainer: @termux
+Version: 1:2.5.0-1
+Homepage: https://github.com/termux/termux-exec-package
+Depends: termux-exec (= 1:2.5.0-1)
+Description: Static libraries for termux-exec
+Filename: ../../../../releases/download/x86_64-t/termux-exec-static_1:2.5.0-1_x86_64.deb
+Size: 10528
+MD5Sum: d6226d2f8ad240f1f6a01d3ea1c62ccc
+SHA1: dfe40b629c7d2b65f6cb318183611e259da50ab7
+SHA256: 9254617b3246e247db311718aaa30e572bc3f6df5cad835affee3eebbda2c7b8
+SHA512: 3e0ede44fbf29f9f6c7fbb9681f98bf03e4f22ac775adef9ca6a38a2b68b2c037b86f79b0075bc02ef2258d16f6b05dc377624516e7ef67f36605d621277443b
+
+Package: termux-exec
+Architecture: x86_64
+Installed-Size: 2144
+Maintainer: @termux
+Version: 1:2.5.0-1
+Homepage: https://github.com/termux/termux-exec-package
+Essential: yes
+Description: Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment
+Filename: ../../../../releases/download/x86_64-t/termux-exec_1:2.5.0-1_x86_64.deb
+Size: 329824
+MD5Sum: fbcd2a2a65b708b573ab56e6703c98fb
+SHA1: f7740487cb26b30ad1f122da20db536ae663c54a
+SHA256: 58bf35a1b0c888c79b283e78ca6d39a37e35b2882d63afd9134fa8384a7fe1f8
+SHA512: 003bf37c5a20bb5524b4fedfb413989ede91a3bce2fa177b15ea6c7aa4d1f425a325365c32f09627be072c0688229849c9efe560873c970175df5949d7652c7d
 

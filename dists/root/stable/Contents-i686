@@ -6,3 +6,8 @@ data/data/greater.underscore/files/usr/etc/network/if-up.d/ip                   
 data/data/greater.underscore/files/usr/share/doc/vlan/copyright                  vlan
 data/data/greater.underscore/files/usr/share/man/man5/vlan-interfaces.5.gz       vlan
 data/data/greater.underscore/files/usr/share/man/man8/vconfig.8.gz               vlan
+data/data/greater.underscore/files/usr/bin/bwrap                                 bubblewrap
+data/data/greater.underscore/files/usr/share/bash-completion/completions/bwrap   bubblewrap
+data/data/greater.underscore/files/usr/share/doc/bubblewrap/copyright            bubblewrap
+data/data/greater.underscore/files/usr/share/man/man1/bwrap.1.gz                 bubblewrap
+data/data/greater.underscore/files/usr/share/zsh/site-functions/_bwrap           bubblewrap
