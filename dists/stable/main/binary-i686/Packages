@@ -33259,3 +33259,35 @@ SHA1: 03d4851283b6be5396f71a58ae45fe287b611f61
 SHA256: 68fa1783ce4a5d5a7161223b304dd9b0f356619ebe928cb6ce53f0c39314a8c4
 SHA512: 25d37c8327903e3b76d30d481752d04c7888c6b6823bac880ecc54da9f5ea13c75e094d061c0e44a16e5e87d4ae6730aeedb8c8577fbb4f9ebc0f124ef0db62b
 
+Package: libwps
+Architecture: i686
+Installed-Size: 2288
+Maintainer: @termux
+Version: 0.4.14-2
+Homepage: https://sourceforge.net/projects/libwps/
+Depends: libwpd, librevenge
+Description: a Microsoft Works file word processor format import filter library
+Filename: ../../../../releases/download/i686-libw/libwps_0.4.14-2_i686.deb
+Size: 614500
+MD5Sum: 5f221cf36ef8d0423325a3825941befe
+SHA1: 03c9721515c1a675f94cf1972289fa911162a54f
+SHA256: 6fe288b68fc672c000c44d32b3e599efcda3307a1691fbd9ff7be63aed6251f3
+SHA512: 2f71ebda6f950f2de08f198a31d7f1f9d161f8222a4a779a3e2e78bc4539a849ddc9923caf87c588716d332a14d6c2e759eefa66153f07ec8fc793cc1bdf2bf0
+
+Package: profanity
+Architecture: i686
+Installed-Size: 1924
+Maintainer: Oliver Schmidhauser @Neo-Oli
+Version: 0.18.2-1
+Homepage: https://profanity-im.github.io
+Breaks: profanity-dev
+Depends: glib, gpgme, libandroid-support, libassuan, libcurl, libgcrypt, libgpg-error, libotr, libsignal-protocol-c, libsqlite, libstrophe, ncurses, python, readline
+Replaces: profanity-dev
+Description: Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi
+Filename: ../../../../releases/download/i686-p/profanity_0.18.2-1_i686.deb
+Size: 426496
+MD5Sum: f5e3979ad46a470a7ed4eb266a6ca22c
+SHA1: 42fd38d0dff7bdfd06f52f023bf09600f7f496c5
+SHA256: 46ee00c9a0c09e3c7892312c2360e4d8ef49354e311765081aa8a09ab1e703f6
+SHA512: 25009f08a14019ea1a72aed141c1e4c05acca3dd5c1268aa686ac083fb9df099a25fe319784a7f29e9f649eae128e9229bd662a487c722e9bb75fd779c8c225f
+
