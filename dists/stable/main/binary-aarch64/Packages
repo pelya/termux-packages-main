@@ -34093,3 +34093,17 @@ SHA1: dc48c5500c4295b42f9a7601235c3bb4bead6e0b
 SHA256: d1731af5411a61e04eeb94da3a5b17412c3d6207beb57f16f116f771ecfe2a7f
 SHA512: 79db3502e470627e8013087b25cd27014c9e632fd9c14b3e42eb701c5ceab90b49a721e0e21f0bc25fb862a0290d0edeace6638f308d70d3a8d33a48e4940172
 
+Package: tree-sitter-latex
+Architecture: aarch64
+Installed-Size: 3628
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.6.0-1
+Homepage: https://github.com/latex-lsp/tree-sitter-latex
+Description: LaTeX grammar for tree-sitter
+Filename: ../../../../releases/download/aarch64-t/tree-sitter-latex_0.6.0-1_aarch64.deb
+Size: 95280
+MD5Sum: 40a660f5ac2195b035fce972b22bf4ef
+SHA1: ad788cace83f8d85fa5271eade8742d7a04e046b
+SHA256: f62f4f2a58e57987f07cf2c543f2d32883554d0f82913bf21ac070eb5dcaefac
+SHA512: 1b2c6964393552f5f4fd7e1b5c18aadab068c195c598ee0746881f97520c00c06991c346f3835b7b67dfa7f3aa398d66a949a1f3904a77901ac85627e810f938
+

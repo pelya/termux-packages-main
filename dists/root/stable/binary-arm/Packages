@@ -223,3 +223,18 @@ SHA1: 064b8ebed38d7b3ad7d4a904f96cee7c6deb0b2c
 SHA256: 2cc3fd37655ae63263952bf2449cfe9a15ed5bc8e05a85adeda5aa08490de9fc
 SHA512: dfa79e4d9daddb5c783b7fe735db56733ece6e9068bfcdb6571a9158cb66c410c82b966a6bddfda4aa76f8ee6362470862498453f1db3dc88630206df4824347
 
+Package: avrdude
+Architecture: arm
+Installed-Size: 10044
+Maintainer: @termux
+Version: 8.2
+Homepage: https://avrdudes.github.io/avrdude/
+Depends: libusb
+Description: Software for programming Microchip (former Atmel) AVR Microcontrollers
+Filename: ../../../../releases/download/arm-a/avrdude_8.2_arm.deb
+Size: 1461528
+MD5Sum: f208bd97c7f6098fd973e948556626ca
+SHA1: d0769053c06fb9a9a9c310ab571cdb627488e407
+SHA256: 3a49318b2bbe1465ccdecad9cfcaed5a771f1e503e295146d253082836851712
+SHA512: a7a30d77adb58c254276a0db864c0392a7ea31cf0d2df93319a5d8ec3a60c560585d0282f9533025d3801233e9914eb74449e1f109f898e1cf8260356de20040
+

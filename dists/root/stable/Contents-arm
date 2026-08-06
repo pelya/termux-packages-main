@@ -226,3 +226,11 @@ data/data/greater.underscore/files/usr/var/service/dockerd/down                 
 data/data/greater.underscore/files/usr/var/service/dockerd/finish                dockerd
 data/data/greater.underscore/files/usr/var/service/dockerd/log/run               dockerd
 data/data/greater.underscore/files/usr/var/service/dockerd/run                   dockerd
+data/data/greater.underscore/files/usr/bin/avrdude                               avrdude
+data/data/greater.underscore/files/usr/bin/elf2tag                               avrdude
+data/data/greater.underscore/files/usr/etc/avrdude.conf                          avrdude
+data/data/greater.underscore/files/usr/include/libavrdude-avrintel.h             avrdude
+data/data/greater.underscore/files/usr/include/libavrdude.h                      avrdude
+data/data/greater.underscore/files/usr/lib/libavrdude.so                         avrdude
+data/data/greater.underscore/files/usr/share/doc/avrdude/copyright               avrdude
+data/data/greater.underscore/files/usr/share/man/man1/avrdude.1.gz               avrdude
