@@ -11843,3 +11843,18 @@ SHA1: deb321938f35c19fe442983a13d2560f28dd4cef
 SHA256: df979cfb655fe119452051b2fbaadf740d44fd69555dea2823ddf3ddd0fac1fb
 SHA512: ca5781f616ccedf55d120b4c3c577c726cf720c911e197661fbc78eea6479b19821193b11f56aa4c93f55754276ec3da596417a4a21b1d2955731725e2c36884
 
+Package: glaxnimate
+Architecture: aarch64
+Installed-Size: 17564
+Maintainer: @termux
+Version: 0.6.0-1
+Homepage: https://invent.kde.org/graphics/glaxnimate
+Depends: ffmpeg, hicolor-icon-theme, kf6-karchive, kf6-kcolorscheme, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-ki18n, kf6-kiconthemes, kf6-kwidgetsaddons, kf6-kxmlgui, libc++, libarchive, potrace, python, python-pillow, qt6-qtbase, qt6-qtsvg, qt6-qttools
+Description: Vector animation and motion design application
+Filename: ../../../../releases/download/aarch64-g/glaxnimate_0.6.0-1_aarch64.deb
+Size: 3016688
+MD5Sum: 9701ccb00746d5ba913d98ec0d85a73b
+SHA1: 3708767c95430412d8bf1ce096262c8f0777e6d4
+SHA256: 75e4671be9d50eb5053de3094c6f4b577a107e984dc2dfb4f623874f921708d5
+SHA512: 39c9ef4d98d984862a6460bf4b7ef732dbd87523feb4da2899ee4aaa209bcc4b2432bed9be56aab9a48ccfdd595cf0d4e53281e01b92a6b676bbf3c33440be15
+

@@ -1981,22 +1981,6 @@ SHA1: 6208d6603ac2ff5161dc8c857a06d243c431b6f7
 SHA256: 8c9fe885302e90c57ad7c87be07515e94e021d85a94b19d601f839243631a9ca
 SHA512: 49c1bd68f5aa4fa95f50b87e2068c7da47defb3a8df8d20913dc5eb14fb584f4c4463c84d1050b635543c786ae673615d99d52bc35bf5ff3448dac07fb7fccbd
 
-Package: bzip2
-Architecture: x86_64
-Installed-Size: 120
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Essential: yes
-Depends: libbz2 (= 1.0.8-8)
-Description: Tools for working with bzip2 compression
-Filename: ../../../../releases/download/x86_64-b/bzip2_1.0.8-8_x86_64.deb
-Size: 26796
-MD5Sum: 9bee846ef866255197dcf19701465874
-SHA1: 4b9a1cef3360119c92f321c90f5d3cbd0e8cb99b
-SHA256: 39273e9f435d0ddd78c7d5fa81f53bad1b5ab992f45a02ccd54f85409b88fd66
-SHA512: f77a954fc307c1e21f7f9d504103eeddd8c09c1bb1cf638af53eaeadf026549bf8f956d3a772eb3d64541b47c36a435b3abd9e7ccb0100ff819faf0021cbc32c
-
 Package: c-ares
 Architecture: x86_64
 Installed-Size: 1104
@@ -11044,35 +11028,6 @@ SHA1: 89b4267df6af3b82b70efad5107b92ac88706819
 SHA256: 3cf83146d43c0d9722bae76e423e178efb12597a918b5d68f6ee6b2341278751
 SHA512: bc806670c41cb23b79a1fffc6e1704b732e1f694253133494d1b4174a897625c2ab2d50ee62d9d2884452e55173cc5a3402279b69e9e8c0b4af8ab02a9c974ac
 
-Package: libandroid-wordexp-static
-Architecture: x86_64
-Installed-Size: 36
-Maintainer: @termux
-Version: 0.1-1
-Homepage: https://man7.org/linux/man-pages/man3/wordexp.3.html
-Depends: libandroid-wordexp (= 0.1-1)
-Description: Static libraries for libandroid-wordexp
-Filename: ../../../../releases/download/x86_64-liba/libandroid-wordexp-static_0.1-1_x86_64.deb
-Size: 2700
-MD5Sum: 51565c44f928d80c68253939a992386e
-SHA1: 1d71c01dd9ed8b47ddc11da70e0be41215986fbe
-SHA256: f7787e0b4a31b61a8b8bf5c5d1899a909014727c581dfc465fc760459e651544
-SHA512: 89eb2dfc6f74851d47b02650947ffbe3c0761b9e9265610314fbe65395ef36aed6901a57b8f1f24217a9a255111618f3ab53ce99fcc7a1c574b2395faef38bd9
-
-Package: libandroid-wordexp
-Architecture: x86_64
-Installed-Size: 56
-Maintainer: @termux
-Version: 0.1-1
-Homepage: https://man7.org/linux/man-pages/man3/wordexp.3.html
-Description: Shared library for the wordexp(3) system function
-Filename: ../../../../releases/download/x86_64-liba/libandroid-wordexp_0.1-1_x86_64.deb
-Size: 3752
-MD5Sum: d838ca6597d9006d1f06e28f33c1fcfa
-SHA1: baa5a382936c4c3fb8a1b410ecb5aa179cc57a01
-SHA256: 618df3282b2dd4dfcaacdf8c0b0b4a829dfab1083259497b7f4d67563d80633d
-SHA512: 09f4dd9c532e0aaed0a8f402caaac91687656a0865e1f3ef191ff172ebf398f9df4fcc69784896369ab9e6436da6e7fec11b78d484ea1d78312dc99972329d97
-
 Package: libao-static
 Architecture: x86_64
 Installed-Size: 112
@@ -11560,23 +11515,6 @@ MD5Sum: c78e15aa32f09881a000ae68a363c684
 SHA1: 00a99ce40a135e6007f7af7628d4f03e8f8fc132
 SHA256: ad5027d52477a85c5f449f8b4646b14744ff6284e3240295c3d9c9bf1c3870e0
 SHA512: bfca2f09cb26ea398d87e4aee603f32af858933a18d3f2bbcbda5e4ae1c6138910e6dce358859fa64876c18fe758a59c918d32c8ec0a2d638b3e2b7dcea181fa
-
-Package: libbz2
-Architecture: x86_64
-Installed-Size: 112
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Breaks: libbz2-dev
-Essential: yes
-Replaces: libbz2-dev
-Description: BZ2 format compression library
-Filename: ../../../../releases/download/x86_64-libb/libbz2_1.0.8-8_x86_64.deb
-Size: 27596
-MD5Sum: 3663f11b6c7dbad6867f21392213681e
-SHA1: 6d6ac6c023a14287590b69949d145416880de6b0
-SHA256: 54af97fe1e3c25befbecf0c057b0e7a126c9c849188843690609c3dcf6da136b
-SHA512: d475aeecc18241c860e6aab1557786a4469bd7d5b2b22685277472c6337192a56df0bd5a8f1e8e31812c6ef33a619f4368e51133540d988eedc0d818bcc68a3e
 
 Package: libc++utilities
 Architecture: x86_64
@@ -33051,4 +32989,66 @@ MD5Sum: a131a7d36cfaff48e748a50f904e5679
 SHA1: b800e4cfc3d6994c7698534a7ee180c22eb3c0fb
 SHA256: 9f6eb11d01ec90b42401dfc7e4a08d50ff710b108bc38a08b340b4ebd665b79d
 SHA512: a44bafd051968e7632d4421ffff5d487a5bfd50873fc70e9689f322c511a7c9a4a50b42030740b50dc3b08ceda1eb37dffac1fb7d8ac8b30a41e8d01001386db
+
+Package: bzip2
+Architecture: x86_64
+Installed-Size: 120
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Essential: yes
+Depends: libbz2 (= 1.0.8-8)
+Description: Tools for working with bzip2 compression
+Filename: ../../../../releases/download/x86_64-b/bzip2_1.0.8-8_x86_64.deb
+Size: 26780
+MD5Sum: 535f0b4d28f60b5a00018720f3a3e03c
+SHA1: d18031c8318af3ef4a34b4ce181864ac9b147750
+SHA256: f8a49d208bb28c69209c7cab2cac823ea2e12ebcfd25bf3eaca4a5f2af4c5c0b
+SHA512: 952f319a95c49b4cf585499a4b0870260dc2b760f3b30dd15ace1d28c449df2fa34da95a3f5758b715fcd2ce3440f2e6ed22cb97b534acdac1607ee18fe81848
+
+Package: libandroid-wordexp-static
+Architecture: x86_64
+Installed-Size: 36
+Maintainer: @termux
+Version: 0.1-1
+Homepage: https://man7.org/linux/man-pages/man3/wordexp.3.html
+Depends: libandroid-wordexp (= 0.1-1)
+Description: Static libraries for libandroid-wordexp
+Filename: ../../../../releases/download/x86_64-liba/libandroid-wordexp-static_0.1-1_x86_64.deb
+Size: 2700
+MD5Sum: bb6c10caf60771bcba05fa79c7aea1c7
+SHA1: baadd8ad14ed948bdf6324a1a973961c81d68a97
+SHA256: 6f289d62d9332e1fd2aab202d4b528e7aa89f86d5d82533bcdf1913ede35f71b
+SHA512: 6c331148293de3dd1276a73d558c543422fb3111948dfc123cc0e4adc86572354894234b6a07a4af4954e2491ac95fc75baa704e467ef34b3b3ec0499d530962
+
+Package: libandroid-wordexp
+Architecture: x86_64
+Installed-Size: 56
+Maintainer: @termux
+Version: 0.1-1
+Homepage: https://man7.org/linux/man-pages/man3/wordexp.3.html
+Description: Shared library for the wordexp(3) system function
+Filename: ../../../../releases/download/x86_64-liba/libandroid-wordexp_0.1-1_x86_64.deb
+Size: 3752
+MD5Sum: 3caa02188f9fa247768d553ba7aef2bf
+SHA1: 7d36edca352e5ce6c192a53fa939855fb01b7dc4
+SHA256: a2d2a25fca6720ee60d34d2f4f20e0af79b756005701ce88fce09c6a87def320
+SHA512: 8b97c11fab4030bd0ee758fc03a9089c7e86b5f708a1797ee5c3e8fddaa42504b573f65dc1d5e8d99a7f081264c65d73bee9e9323644a6d379db769302e36a5e
+
+Package: libbz2
+Architecture: x86_64
+Installed-Size: 112
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Breaks: libbz2-dev
+Essential: yes
+Replaces: libbz2-dev
+Description: BZ2 format compression library
+Filename: ../../../../releases/download/x86_64-libb/libbz2_1.0.8-8_x86_64.deb
+Size: 27584
+MD5Sum: 26e34222d2f163229feb5457f21727e2
+SHA1: a7c62b6ae4fa1f39d5d938037c5b57cf7ed837bb
+SHA256: dde7a7bdbe82d34aa4fde9703e2a0a8d205f4b11ddc622de26f0d126f49e31f0
+SHA512: a8677e31bf8d9d0676eaa451fba22341e8447c4f6b257f5da126e1314a3559f2b2399931ed28bf63eb5c5bb0302c6defeeb34be9ae3f6f825135c1ddf2922840
 

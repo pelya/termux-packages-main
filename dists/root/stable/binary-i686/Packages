@@ -72,3 +72,18 @@ SHA1: 3c533e93e2279026dbcd517fc2e5715f8534f5fe
 SHA256: 58483804f8bc16b784713823be8481aa1dcb37193205f05ccb1ce23e1a168ccf
 SHA512: f3a8299c1e1294fae98a5bc68890181d70c06f018aa7f4e1474e82cbe3713a25ba4992f3a8f5654a301348904b8c4587caaa4cff4c2c5a10969221f1d8294607
 
+Package: thin-provisioning-tools
+Architecture: i686
+Installed-Size: 1244
+Maintainer: @termux
+Version: 0.9.0-3
+Homepage: https://github.com/jthornber/thin-provisioning-tools
+Depends: libexpat, libaio, boost
+Description: A suite of tools for manipulating the metadata of the dm-thin, dm-cache and dm-era device-mapper targets.
+Filename: ../../../../releases/download/i686-t/thin-provisioning-tools_0.9.0-3_i686.deb
+Size: 316240
+MD5Sum: 7e84e6546eba22bb616aa4fa36b856f6
+SHA1: e82ea4dc73066830c6867f493900a3206872f36e
+SHA256: 12eef1ee648ec16b1d0e87fa992e3b1385c021b906bbe1b8f24b89b2369650ff
+SHA512: 2c791d3a929029c231271994df0ee99ebb76691ee5e12581a8943396ecca3d06d7ec4acfb73b84c3a1faa3265e471e938f4b96baa6fb4c8b4699390a4f106a22
+

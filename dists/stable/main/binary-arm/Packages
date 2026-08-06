@@ -1859,22 +1859,6 @@ SHA1: 6208d6603ac2ff5161dc8c857a06d243c431b6f7
 SHA256: 8c9fe885302e90c57ad7c87be07515e94e021d85a94b19d601f839243631a9ca
 SHA512: 49c1bd68f5aa4fa95f50b87e2068c7da47defb3a8df8d20913dc5eb14fb584f4c4463c84d1050b635543c786ae673615d99d52bc35bf5ff3448dac07fb7fccbd
 
-Package: bzip2
-Architecture: arm
-Installed-Size: 116
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Essential: yes
-Depends: libbz2 (= 1.0.8-8)
-Description: Tools for working with bzip2 compression
-Filename: ../../../../releases/download/arm-b/bzip2_1.0.8-8_arm.deb
-Size: 25796
-MD5Sum: b58a0e15be40963c2af219183fe1fc63
-SHA1: 2567f6f644e18b57f4438a312ad3c72c550a6d1b
-SHA256: 045934321f52a8adb82b6a55ff84ef845613b90dbb356d0e5bc004add834647f
-SHA512: a71f68b6a8e236e3ce20922349693d6752ca3a2b292c140bd93a2e5ea12dab5a70e7d6fba8b2e6b7f4481c1e6f58c8b6c1880563a068e9c66b9a7a243721596f
-
 Package: c-ares
 Architecture: arm
 Installed-Size: 1008
@@ -10412,35 +10396,6 @@ SHA1: 593bc54adc28fbebf57cc5eccde56ce8c89ff454
 SHA256: 8219fe10042f487939060ac98eab4a9223490109e4cdb3d98f0c0a6d89396bd0
 SHA512: d7e20b40ce72270896c23a101dddf0beee589423aa6ae00339a4efffb97aab810c3f7e4c069ec7e9f15f3f93c6e447adbca409758d3ff08b6c1be4ad49b27986
 
-Package: libandroid-wordexp-static
-Architecture: arm
-Installed-Size: 32
-Maintainer: @termux
-Version: 0.1-1
-Homepage: https://man7.org/linux/man-pages/man3/wordexp.3.html
-Depends: libandroid-wordexp (= 0.1-1)
-Description: Static libraries for libandroid-wordexp
-Filename: ../../../../releases/download/arm-liba/libandroid-wordexp-static_0.1-1_arm.deb
-Size: 2484
-MD5Sum: faa7e77cd2dc1eb288cd3364e866e9c4
-SHA1: c333110097bef0764581b476ba1eebb11c81abd1
-SHA256: 4f00a4857c2546ed01134f09b1d3392b1c1fc9d60c78c606e3c31a375af68d40
-SHA512: 74e0b70e2c04174e18e50293d33932e4496d8e7d1ec11ad59cfb406b706e1737b53652a313e50bc58072771ec8b9d7339aa544b21b7bac5360a65225352413fd
-
-Package: libandroid-wordexp
-Architecture: arm
-Installed-Size: 56
-Maintainer: @termux
-Version: 0.1-1
-Homepage: https://man7.org/linux/man-pages/man3/wordexp.3.html
-Description: Shared library for the wordexp(3) system function
-Filename: ../../../../releases/download/arm-liba/libandroid-wordexp_0.1-1_arm.deb
-Size: 3420
-MD5Sum: 4b028e2dd9226c2d8b9f0e0b94f39520
-SHA1: 74dd555ee4a253552c0021b831e57846d0027b4b
-SHA256: e15246894dc2c4e596aff5c720bc40251117b2accecdfa1624a616a3dfe1ff83
-SHA512: 09425de33b90d83971b7fed26196a0a2203a79d07e4b85ab6bff91d3d5b6326d624496756d42d7892296e926ec34f6628bf481bf48d3776c5d25400801565500
-
 Package: libao-static
 Architecture: arm
 Installed-Size: 88
@@ -10913,23 +10868,6 @@ MD5Sum: 5a8fec5e4ec97321363912e6e0203404
 SHA1: 3ed6594564d48faa9a4154943eb93071001d237e
 SHA256: 0a533a656d5e81e1d53acbeced552544a0dc0b0dfcb2690a69d9081cb14d47eb
 SHA512: 8aee2f313e33f928ca756abbd3f6e8987cdd514ea9303e01528c7832931da86714ba86352678c84b579bf81addfb8c85c759a9e7d74e0c9ddcb0f32e616bce85
-
-Package: libbz2
-Architecture: arm
-Installed-Size: 96
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Breaks: libbz2-dev
-Essential: yes
-Replaces: libbz2-dev
-Description: BZ2 format compression library
-Filename: ../../../../releases/download/arm-libb/libbz2_1.0.8-8_arm.deb
-Size: 24092
-MD5Sum: 823bbfbb69b4e0c42b9e63e9edd51a20
-SHA1: ef3db38e2cb9899e5093f0367f9e1b05ac483d08
-SHA256: b2dcdb8e5a4530a35af789b296201c12ae1e16481a9b8fa0c4d54f3e96136803
-SHA512: 668a71966b4a1321e234bbfcd975592da83b49680bdc106cc950a18d381a143e09aa2d3abefb402a960147a16929383666576d06c78a46ffff5a7cb252f89d1b
 
 Package: libc++utilities
 Architecture: arm
@@ -31750,4 +31688,66 @@ MD5Sum: 5ac6edcd6e7d33c905f0798b3344ef42
 SHA1: fdd73004145351448c03cd97b35abc2d00037416
 SHA256: 94488e445a6e8fde68cc5e7cc7e74e27581d351d3f5652dee899d16db23c2622
 SHA512: 9a1ad3ef078a3e1e0044793933156480c0558c46b8a8373667b94446ba7351014bf6fb84e4787f2b3e4ab0d3e8e7dab9503a62aafb5d114933a41ad751314474
+
+Package: bzip2
+Architecture: arm
+Installed-Size: 116
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Essential: yes
+Depends: libbz2 (= 1.0.8-8)
+Description: Tools for working with bzip2 compression
+Filename: ../../../../releases/download/arm-b/bzip2_1.0.8-8_arm.deb
+Size: 25800
+MD5Sum: 2594c406a129c72b95ec0535f79e7d36
+SHA1: a4ce6cfde6b2a378661eca885d560539f71b1871
+SHA256: 8240bc529e3f97a4db27535228444d63a5567f53a2cc7d59cb62e0bde10e3687
+SHA512: f0c0aa4c486cd2edec1e0d759946028bdccb35a860752f38bcaf1401a995c15cf7f72dedad171f4987f5139a027be6ea2edc2c03ecdee70e0abea3bb50eb9890
+
+Package: libandroid-wordexp-static
+Architecture: arm
+Installed-Size: 32
+Maintainer: @termux
+Version: 0.1-1
+Homepage: https://man7.org/linux/man-pages/man3/wordexp.3.html
+Depends: libandroid-wordexp (= 0.1-1)
+Description: Static libraries for libandroid-wordexp
+Filename: ../../../../releases/download/arm-liba/libandroid-wordexp-static_0.1-1_arm.deb
+Size: 2484
+MD5Sum: 5f3378be6d97edf7e7b960eacff18f37
+SHA1: ee467b2134b08508174cf2694039e9af728f783b
+SHA256: 4fcb872fa131862ef4ab1d8d59ac232933425bfa5972ab1ec6926909737f18a2
+SHA512: 0d28c329127a3fab750ac7d25a1b4e1c44dbb515b84eff3698903a755443b3c7184838f740067b9c386132608c792345c4be9b74410f3b2beac4a915c0ac329a
+
+Package: libandroid-wordexp
+Architecture: arm
+Installed-Size: 56
+Maintainer: @termux
+Version: 0.1-1
+Homepage: https://man7.org/linux/man-pages/man3/wordexp.3.html
+Description: Shared library for the wordexp(3) system function
+Filename: ../../../../releases/download/arm-liba/libandroid-wordexp_0.1-1_arm.deb
+Size: 3420
+MD5Sum: 0c851b531fb659ba956b0e12dff33e1d
+SHA1: da0192364aabcd9e3ecc21ad9d612607c4632442
+SHA256: 137e6fc66e5d31134a08828769d3e4e9ee9c07819e68d2058c28b0a0d854d543
+SHA512: a1551790f1819e71903ef53380bbfcd410ecdd4347b6dfe49fd0ac36500ecb9a1caaadb650ed733ad29a65ea42fdaa445e84daeef81dc6d53eefd86d9e9c4950
+
+Package: libbz2
+Architecture: arm
+Installed-Size: 96
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Breaks: libbz2-dev
+Essential: yes
+Replaces: libbz2-dev
+Description: BZ2 format compression library
+Filename: ../../../../releases/download/arm-libb/libbz2_1.0.8-8_arm.deb
+Size: 24116
+MD5Sum: 65dba55a99f339717d72e8ff283294a4
+SHA1: 168b923dbdf57ed4e68b776e33d304b09dc1191f
+SHA256: 2c7939a0b5b49ccf53eda775715a632a23ee59127ea003648bf7e4dcc1cc5cba
+SHA512: a538b1b7a9eeec3c74f42b061c037acafa922ccf79395c87db6bee42e42cee4f1b97fc82f91269100d8565772bb98fb476c23ce410adc0812272925f0dff39f9
 
