@@ -33766,3 +33766,33 @@ SHA1: 5379ede2ec5fe881d67865164c1f02a18715732a
 SHA256: a6d44a1a50e5506f6bb5f0cd80db94a35f4212f88d9d9692cf9d044bf1028860
 SHA512: 8f7e9908428ed793cb5c3ce6771cd15e0e3f3a14287db7c30e51afe92b785470230ec2aac7c9d907eb689c618fb8a913ff4d9337835a2d6ffc6b030c4618336e
 
+Package: mdbook-open-on-gh
+Architecture: aarch64
+Installed-Size: 2640
+Maintainer: @termux
+Version: 3.0.0
+Homepage: https://github.com/badboy/mdbook-open-on-gh
+Description: A preprocessor for mdbook to add a open-on-github link on every page
+Filename: ../../../../releases/download/aarch64-m/mdbook-open-on-gh_3.0.0_aarch64.deb
+Size: 704932
+MD5Sum: 279cfb917320707d768884fe6368dca1
+SHA1: e1b3745b81ca551dfb89b2989553307093dd0684
+SHA256: eb36c1c5cdb9188f504c49fcbe740eeda5ae5d32b5241562124aa2b78a49d261
+SHA512: 6a0e8e24022b0ebeed6850658ea401402eaf4d3a8712ab196cdd21eae2aa5afb042664e66263e3897a3e7bd1c666fa6901d94816c95672aab8c0366f7d25277f
+
+Package: npm
+Architecture: all
+Installed-Size: 18200
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Version: 11.18.0
+Homepage: https://docs.npmjs.com/cli/
+Depends: nodejs | nodejs-lts
+Conflicts: nodejs (<= 25.3.0), nodejs-lts (<= 24.13.0)
+Description: The package manager for JavaScript
+Filename: ../../../../releases/download/aarch64-n/npm_11.18.0_all.deb
+Size: 2027836
+MD5Sum: 9c332b16dbc2591fd31c1820c0e7a482
+SHA1: c8a39e16965ad4fd0c00837f59aeee06f9e09f65
+SHA256: 5025a6968b107565c5ac4b1fd8d479d262b4abde7ba5118a686af9e8e1b30481
+SHA512: a9e9dd59063bab9b00786e56596da5338e831e08ae5b64fab4dce8798125e39a5c80b0847e91f6efbe716ca82f195d46255c16f780e73b286cd61c476263d5a1
+
