@@ -31616,3 +31616,32 @@ SHA1: 11e79fb6a3022fcb18b429d743bdc8b792b9b5cd
 SHA256: 430644d37f4d06c77c1125b54ffb3000130f5b6c0f9620e9c358686ed1b6d2e3
 SHA512: b82ddeba02d78af15e92530047987f26b4b9a1bc96edb3d5459173364c2b230b249390765b57f8dafedd997d3128dbf7cb92a35b751a00501d65dd042d9dc1f5
 
+Package: dasel
+Architecture: arm
+Installed-Size: 10152
+Maintainer: @termux
+Version: 3.11.2
+Homepage: https://github.com/TomWright/dasel
+Description: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility
+Filename: ../../../../releases/download/arm-d/dasel_3.11.2_arm.deb
+Size: 2769564
+MD5Sum: 1c6447b956789c11fe93543cea9583f3
+SHA1: a79a7b9597148005f33b7ec30bc0aacaa3729294
+SHA256: 6eeadc2a496511b12ae3d7c5cacbef40d0f5205f8d7343119aabb74f4483bbc5
+SHA512: 25fd701943463dfe3026f89e85c494e18fdc131f2522b316bfa936b4ef791d356631493f53776a4ecdc266c0de27e820ea4b365250c9120aedde2141451c5645
+
+Package: ssss
+Architecture: arm
+Installed-Size: 68
+Maintainer: @termux
+Version: 0.5.7-1
+Homepage: https://github.com/MrJoy/ssss
+Depends: libgmp
+Description: Simple command-line implementation of Shamir's Secret Sharing Scheme
+Filename: ../../../../releases/download/arm-s/ssss_0.5.7-1_arm.deb
+Size: 10236
+MD5Sum: 49e5661f1051e4b22baa21d8a535a6dc
+SHA1: 86b35e4db010820f9d132998fe8dcd0d5d86ae40
+SHA256: e3e55d493ad93fd85f8feefba16955c00e72ec34c316768c9dc7d17f9ebc8398
+SHA512: 6b1f93edf0323bd14cb2d78f9372d100ad9345f2385eebf59e15f4b42776a8e52e0fc103a4f9d1112630c179072f7e276b35571db2cee7bf0456f69d5ad1a853
+
