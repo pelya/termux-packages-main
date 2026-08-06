@@ -9229,38 +9229,6 @@ SHA1: b3f045c5b27d77158980a3f3fc6c5107f2530b7c
 SHA256: 7dabb0eb404577b39eb3d7e536b5482b0e22b8d8bd3af940c1cb65f0d126521f
 SHA512: 4ce90de4126ed078d7d85673d1a39058482282cbfaf6652f6c5993a1eabe6955d3e2e6225689127f79c715cc22ea1a1e7684aba4cf8e727451c2e3b2b94d4109
 
-Package: jsoncpp-static
-Architecture: x86_64
-Installed-Size: 480
-Maintainer: @termux
-Version: 1.9.8
-Homepage: https://github.com/open-source-parsers/jsoncpp
-Depends: jsoncpp (= 1.9.8)
-Description: Static libraries for jsoncpp
-Filename: ../../../../releases/download/x86_64-j/jsoncpp-static_1.9.8_x86_64.deb
-Size: 78904
-MD5Sum: fd192a3e28932025391ebb8e8a4a9056
-SHA1: 14f047fa7dc3be5d11ba6e656d74c24138344bf0
-SHA256: b272fe98e643c62e1fa0515cbae16aeb6f064d372db27a35c77879b5aaff47b2
-SHA512: 583aa7f0bae76f46d7188aa0def574bb47647cf525e51a9c2367ea4c44a7d8d6cd698b21edc1eda0151d06731b4f90aaa8511559c07eba85a7ba0bf28a1e9ce3
-
-Package: jsoncpp
-Architecture: x86_64
-Installed-Size: 456
-Maintainer: @termux
-Version: 1.9.8
-Homepage: https://github.com/open-source-parsers/jsoncpp
-Breaks: jsoncpp-dev
-Depends: libc++
-Replaces: jsoncpp-dev
-Description: C++ library for interacting with JSON
-Filename: ../../../../releases/download/x86_64-j/jsoncpp_1.9.8_x86_64.deb
-Size: 103648
-MD5Sum: c0bb6fc6c3117427da8160bc45114b20
-SHA1: 20c63fea982a31078d87cf9e34f27a44f713292d
-SHA256: dec80c352e07e02973ad19f936387dd3753d0a6b1781eaea6f8f0beb0b7653b6
-SHA512: d7439310fe9cce95ff1742bd6e74e00daf3f115323e55aa40a370948bd4691a3f07f4fe97ef34056ff75a89b0b2aa7606fad87597ce0d5c9cb86022685daf57c
-
 Package: jump
 Architecture: x86_64
 Installed-Size: 3616
@@ -14695,38 +14663,6 @@ MD5Sum: 4a70b3124377f7b1bfb2d412c4b01d7e
 SHA1: 43d25b3dc024960c5b15652850eaf232dd7a755a
 SHA256: a90a3bf117e8269532b73a72cfac690b1c81fc7a12d930731f2ca91821ef8de8
 SHA512: 91fdc9063bd83d4fb95352ce288383b6e4f2ec7ddbb372a3c1617584b72282afd4270f9487bb1f8595a1830783868e75ff44499fce4827cd12559daf0cb68cec
-
-Package: liblzma-static
-Architecture: x86_64
-Installed-Size: 352
-Maintainer: @termux
-Version: 5.8.3
-Homepage: https://tukaani.org/xz/
-Depends: liblzma (= 5.8.3)
-Description: Static libraries for liblzma
-Filename: ../../../../releases/download/x86_64-libl/liblzma-static_5.8.3_x86_64.deb
-Size: 91960
-MD5Sum: 1a97bf6c7f9c60318e9240a1025988c6
-SHA1: 6813efd75d21cd8492c11373e3c0d2ec29a1b6e7
-SHA256: d43f212db5e1195878e3628e3ccd3d48d18f3ec50b2b1f5c3909774aa77861f3
-SHA512: c580f04bfb0aa49ce998230d6c4d535a3e78c440a4ea7bb270a62fd265ffbc931365c185db59ef912d6e52f87b22bebaabbeaf56e702467e1080192614ff60c4
-
-Package: liblzma
-Architecture: x86_64
-Installed-Size: 872
-Maintainer: @termux
-Version: 5.8.3
-Homepage: https://tukaani.org/xz/
-Breaks: liblzma-dev
-Essential: yes
-Replaces: liblzma-dev
-Description: XZ-format compression library
-Filename: ../../../../releases/download/x86_64-libl/liblzma_5.8.3_x86_64.deb
-Size: 197640
-MD5Sum: 69eab8026aca2861f2b0708456b1bfca
-SHA1: 0b0172c268f44ed5d2f5900b9ab9f30579af866a
-SHA256: 384f778541908dffb23b5a82980bf26432b511c8ef766f2a30be4f371a4d4967
-SHA512: d82092bd5fc86558d313ef4db5892e5d903fa4d3d804f9a7eabb5a7c1e554dad6925c85bc7b3c62bf4b37e88d7329bef864125ddbbee72d705d1d180a22f9224
 
 Package: liblzo-static
 Architecture: x86_64
@@ -31588,22 +31524,6 @@ SHA1: 7085e7df1189f4a7444a8601360a2cadca0cfc9a
 SHA256: 4136253762f5375787d9ea2c5c1302dc87aaccae9068952b357468544e9ee717
 SHA512: 9667c4ecd70ddb19c233a6dbdac3144ae7226b23c988996c7ff90410fc6b8ec2d8bf4ea6090a62ac7ee0aa30374674db20bbc4126b1e2cd2d9928f9a76cb386f
 
-Package: xz-utils
-Architecture: x86_64
-Installed-Size: 228
-Maintainer: @termux
-Version: 5.8.3
-Homepage: https://tukaani.org/xz/
-Essential: yes
-Depends: liblzma (= 5.8.3)
-Description: XZ-format compression tools
-Filename: ../../../../releases/download/x86_64-x/xz-utils_5.8.3_x86_64.deb
-Size: 72168
-MD5Sum: f70585234549a5569ea94b5608b847a5
-SHA1: a40606b3cad9c447e9966ff22cef1c9b48c2b435
-SHA256: c8f311ff88eeef7d31c565910b99533dc9ff71b7cfdf11e293aab76316923cba
-SHA512: 360ee37d3eed397e435b71047a47a86c57d4cad9e72649f03d6e3d3fa4bc4802cb36bcb46272bf5bf56642515046a1a3339d2abbf7e02ecbc6358bda2ac96ccb
-
 Package: yajl-static
 Architecture: x86_64
 Installed-Size: 96
@@ -32405,21 +32325,6 @@ SHA1: c3d2f3892af35b9bd7d16d971a7606e6729a160d
 SHA256: d27b6b9f1910fdf660dcfe17b03a8fa18425f69a93f1757554b7d165e24c360c
 SHA512: 117816fac5c3e2e4144abe1b8b8c81e5a0f9ebb6628a088456ac3f09a28d4496daae6118d6ea091dbf7b583ff7e368b383d6e9136e9a3c6b707099873c7cbcad
 
-Package: libc++
-Architecture: x86_64
-Installed-Size: 1348
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
-Size: 359688
-MD5Sum: 318aefea6a6a5f51a90b40346e6cda0d
-SHA1: d65d396e693e5c8a824e21d30a474d0113601869
-SHA256: fa14224a116f13d7e6a2817cb32d19b4ebac7b7207cf90890f8da08672808d7a
-SHA512: 1a4e59460f2b0b941502653520b2ab24c25010d1b76a93a76eccc87f4f517224e9628ebaf4aa81d85495769116ed0ea9792aa0bcf23e99b143a953ceec0ed7eb
-
 Package: libnettle-static
 Architecture: x86_64
 Installed-Size: 3548
@@ -32772,22 +32677,6 @@ SHA1: b800e4cfc3d6994c7698534a7ee180c22eb3c0fb
 SHA256: 9f6eb11d01ec90b42401dfc7e4a08d50ff710b108bc38a08b340b4ebd665b79d
 SHA512: a44bafd051968e7632d4421ffff5d487a5bfd50873fc70e9689f322c511a7c9a4a50b42030740b50dc3b08ceda1eb37dffac1fb7d8ac8b30a41e8d01001386db
 
-Package: bzip2
-Architecture: x86_64
-Installed-Size: 120
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Essential: yes
-Depends: libbz2 (= 1.0.8-8)
-Description: Tools for working with bzip2 compression
-Filename: ../../../../releases/download/x86_64-b/bzip2_1.0.8-8_x86_64.deb
-Size: 26780
-MD5Sum: 535f0b4d28f60b5a00018720f3a3e03c
-SHA1: d18031c8318af3ef4a34b4ce181864ac9b147750
-SHA256: f8a49d208bb28c69209c7cab2cac823ea2e12ebcfd25bf3eaca4a5f2af4c5c0b
-SHA512: 952f319a95c49b4cf585499a4b0870260dc2b760f3b30dd15ace1d28c449df2fa34da95a3f5758b715fcd2ce3440f2e6ed22cb97b534acdac1607ee18fe81848
-
 Package: libandroid-wordexp-static
 Architecture: x86_64
 Installed-Size: 36
@@ -32816,23 +32705,6 @@ MD5Sum: 3caa02188f9fa247768d553ba7aef2bf
 SHA1: 7d36edca352e5ce6c192a53fa939855fb01b7dc4
 SHA256: a2d2a25fca6720ee60d34d2f4f20e0af79b756005701ce88fce09c6a87def320
 SHA512: 8b97c11fab4030bd0ee758fc03a9089c7e86b5f708a1797ee5c3e8fddaa42504b573f65dc1d5e8d99a7f081264c65d73bee9e9323644a6d379db769302e36a5e
-
-Package: libbz2
-Architecture: x86_64
-Installed-Size: 112
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Breaks: libbz2-dev
-Essential: yes
-Replaces: libbz2-dev
-Description: BZ2 format compression library
-Filename: ../../../../releases/download/x86_64-libb/libbz2_1.0.8-8_x86_64.deb
-Size: 27584
-MD5Sum: 26e34222d2f163229feb5457f21727e2
-SHA1: a7c62b6ae4fa1f39d5d938037c5b57cf7ed837bb
-SHA256: dde7a7bdbe82d34aa4fde9703e2a0a8d205f4b11ddc622de26f0d126f49e31f0
-SHA512: a8677e31bf8d9d0676eaa451fba22341e8447c4f6b257f5da126e1314a3559f2b2399931ed28bf63eb5c5bb0302c6defeeb34be9ae3f6f825135c1ddf2922840
 
 Package: groonga
 Architecture: x86_64
@@ -33032,21 +32904,6 @@ SHA1: 8a18556e7d6088b3eb67d4f37896df96b3c784d1
 SHA256: 852ab17ae5a4850712afdfbcc2d4ff9ab5fb9b808d9ecb28fd939dbbc22b9ebd
 SHA512: 1ee9e1b0af9b8323899ca9cf7680bcd737f8fa84a453683d140ce76ae3b7394f1a0ff73e4c81d2cb7acf499f534eb60b509064187b77c2f7f7268ce09c0ec0ea
 
-Package: iconv
-Architecture: x86_64
-Installed-Size: 56
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Utility converting between different character encodings
-Filename: ../../../../releases/download/x86_64-i/iconv_1.18-1_x86_64.deb
-Size: 10184
-MD5Sum: 74263718bc219a93659171dc18406cec
-SHA1: 35911df68bfef87290659be8bb584a7ebff632f9
-SHA256: d9f9d58d1c0eab6af73054f8ada6c533e1e66d87c0fe685f3fd5990616a97644
-SHA512: b938f730590753cc371ad864e0582bcf3f6ac121dd2890eaaaaa4cde6b6c5462ea0ce44b0320cda4cfb19b5570b1a328d872bf7f400e966432b5de97f600b154
-
 Package: libandroid-support-static
 Architecture: x86_64
 Installed-Size: 72
@@ -33108,37 +32965,6 @@ MD5Sum: 5929bbac01a80723eb8482494cb75b97
 SHA1: 1a6b373f6f6dc93c9870aefc39e903b563649267
 SHA256: efdd4e0974a914217df017a8b28d9c9ec4e346e4c9b703e204e87fbb656126a3
 SHA512: 76e44ad0b2160e4dfc644e985bfc76683f19b96ed80e5c47dfaae9196bc6638956c93c2fcebd67d44f8adeaba7fa9598472a39c56f11d868f3db236aa369bb48
-
-Package: libiconv-static
-Architecture: x86_64
-Installed-Size: 1200
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Static libraries for libiconv
-Filename: ../../../../releases/download/x86_64-libi/libiconv-static_1.18-1_x86_64.deb
-Size: 553276
-MD5Sum: 001c5821025bd17da265f2475e5436a6
-SHA1: f993b58ec86fafdd42ede497974b645b64eb66e8
-SHA256: a75de24736bee256a0b718b3695fd1c373c7bf7997319b248cb96c401acf2fa1
-SHA512: 243176d521c2a2f1c624b87f93838a26444b98dbb9c7c547cedb109864b7aadf2d4347075ed7b1e9648e2cd55b24e1a4f3c581498ef72543e0c06db2d9b5be96
-
-Package: libiconv
-Architecture: x86_64
-Installed-Size: 1216
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Description: An implementation of iconv()
-Filename: ../../../../releases/download/x86_64-libi/libiconv_1.18-1_x86_64.deb
-Size: 565900
-MD5Sum: dcab07d7716e3071c69ca22479f97b90
-SHA1: 85e455e61b36eef29960a872bcbb5eeeea9ba410
-SHA256: a52b8df854bc4106fc9d1359e23b596f63e004d9fa9ffb97eda0dc983cabacb9
-SHA512: 38b14072176d4c82bfa519f6d5657998884de8b07690608d8d234f57bdee6b4646f6e478fb347bd43755b34d569933dbec6d2f545af81bd7ac7918b1624b9174
 
 Package: ncurses-static
 Architecture: x86_64
@@ -33733,4 +33559,194 @@ MD5Sum: b524ea4644a5ff1a12bf15ba2aba9e23
 SHA1: 6e8e597ded1a5c70cc58a5866abd91ac7056e3a4
 SHA256: 0480b0d83d1597c1e578056895c12b85667099a9eca499ce17fdc488d7e8e19a
 SHA512: ef97bbe52ac1d689ecc53eb9c55a5119f48dd82c57e8c52956bee774bbbfa910a60da0ce4fe274efddc68c8c87f3a12bc798293414818d6ef4be0823cf86e84c
+
+Package: bzip2
+Architecture: x86_64
+Installed-Size: 120
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Essential: yes
+Depends: libbz2 (= 1.0.8-8)
+Description: Tools for working with bzip2 compression
+Filename: ../../../../releases/download/x86_64-b/bzip2_1.0.8-8_x86_64.deb
+Size: 26788
+MD5Sum: dab393095d3265a9f032c97a2b8c64c8
+SHA1: caa1ec9e4415727b2bce7d56a717b3e474ed9e5d
+SHA256: a03d1e135c08fe4ddf2395e8e60873d5456f08810209321b5987f25917a137d2
+SHA512: d18072a05407000d0b2bca85600f2174fdf879f2eb7b4531fba36257e7161ad41e496a0019b7252e99fc6843a0b5ed0e221e412c7f317af5f71ba68df1f47a6a
+
+Package: cavif
+Architecture: x86_64
+Installed-Size: 4760
+Maintainer: @termux
+Version: 1.6.0
+Homepage: https://lib.rs/cavif
+Breaks: cavif-rs
+Replaces: cavif-rs
+Description: AVIF image creator in pure Rust
+Filename: ../../../../releases/download/x86_64-c/cavif_1.6.0_x86_64.deb
+Size: 1575648
+MD5Sum: c781900a33c4524f72dfbe0247f26906
+SHA1: c0965495f135dac09624ba870028e4081481d74d
+SHA256: 42e53728d2e34a84a5899e4b2d0c9ca9ec21c59209aa85fc3fe4595718cfea35
+SHA512: 682e663b93fe388f4a47a640512214d11087e5e6875225e61b3ead6744617e3ae0172b07e52f4b5b82fd0792bed899aea9d397773903807a009c2ad3ac1be36e
+
+Package: iconv
+Architecture: x86_64
+Installed-Size: 56
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Utility converting between different character encodings
+Filename: ../../../../releases/download/x86_64-i/iconv_1.18-1_x86_64.deb
+Size: 10184
+MD5Sum: cd92553fe054f7f42bc9e2e209816f7a
+SHA1: 9a1de923c4f232bd2407d7fd64a37ea954f1c554
+SHA256: a312f58db0046d132d13734237816063e96de804d7d7f617b6ed171a3c92e659
+SHA512: 7c725a7009535ddbf561708fcb84ca7e7fdb5e96bfe9fa9640b97eda7b4b6f86ce6b68e808117ce7015c51a954d8726bd8eae94b9b47c6d24e33e700e723d2c1
+
+Package: jsoncpp-static
+Architecture: x86_64
+Installed-Size: 480
+Maintainer: @termux
+Version: 1.9.8
+Homepage: https://github.com/open-source-parsers/jsoncpp
+Depends: jsoncpp (= 1.9.8)
+Description: Static libraries for jsoncpp
+Filename: ../../../../releases/download/x86_64-j/jsoncpp-static_1.9.8_x86_64.deb
+Size: 78812
+MD5Sum: 4d41fa1715a7038bde7530a9e01fb909
+SHA1: 805b73a0d1771593661b2aad7f4b3be639d0de01
+SHA256: aff9cbe1aa00d2a67c365df1a619d1405ae1f41706e80a37d12500bb339ecde2
+SHA512: 2b438f4a45e1351c86567874ad41df4788d34e820eab364ee1a6fcfebd72a49bd53a6a38b384e17379cae6b1486d85ae802e234ac0363c65e30ba00f15773520
+
+Package: jsoncpp
+Architecture: x86_64
+Installed-Size: 456
+Maintainer: @termux
+Version: 1.9.8
+Homepage: https://github.com/open-source-parsers/jsoncpp
+Breaks: jsoncpp-dev
+Depends: libc++
+Replaces: jsoncpp-dev
+Description: C++ library for interacting with JSON
+Filename: ../../../../releases/download/x86_64-j/jsoncpp_1.9.8_x86_64.deb
+Size: 103780
+MD5Sum: 5f2fc9d27f2cd2e21f4d2c98d60f7541
+SHA1: 53d5a11907ae23eb07e0052c45399b1cd6934297
+SHA256: db8b2972f057c587592ed09b66d59c3a8e356f65bfed6e238ca8fabef9deccf3
+SHA512: aa8dbe59165ad91d3ec59265283b298ec59e0756d0ff0baee291a4e1fe5247f33bd5e979abbdb27f0190aa528e7a68a6f8ba30afeb3fa51e3a798d5e46c1a5bc
+
+Package: libbz2
+Architecture: x86_64
+Installed-Size: 112
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Breaks: libbz2-dev
+Essential: yes
+Replaces: libbz2-dev
+Description: BZ2 format compression library
+Filename: ../../../../releases/download/x86_64-libb/libbz2_1.0.8-8_x86_64.deb
+Size: 27616
+MD5Sum: 03b036a39ed20a1c526c80c352cb452e
+SHA1: 5cbb139697cdb258284d7b3bbe0d7fdb39ced2e7
+SHA256: 070efd80df74b59f5897b355dc16ad0a3a4c8998eb4481334aeba464f4dca940
+SHA512: 2f006cef03291da3fdf694474344b0981e4b69dbabf0651a6c5102e22426db7049979bf6f3cf2d2b214c89d30a6ab59c327047f6e99497b9c53ee212a7240870
+
+Package: libc++
+Architecture: x86_64
+Installed-Size: 1348
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
+Size: 359484
+MD5Sum: b64fcba9d8aac2a6021bff7b54adf833
+SHA1: 752299550384693ea23b741948583cfe226828f2
+SHA256: 0dd34938a220755705d0176ab61e713cf568167842db8a75e35ca0ce276ce3dd
+SHA512: 341e31bdfdea15e92e42bd739844ef66a0a0a8a3a1d0d3ba7a53a050e46e438612a7363818d1c14dd05ac999523f2bfb5c1e8af26a8b39d0b76c2698d44808ed
+
+Package: libiconv-static
+Architecture: x86_64
+Installed-Size: 1200
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Static libraries for libiconv
+Filename: ../../../../releases/download/x86_64-libi/libiconv-static_1.18-1_x86_64.deb
+Size: 555504
+MD5Sum: 5c31714dce9b8369fcd15fb1028f376e
+SHA1: 08fd135e8b046b7fbbe666833ff70e8c46b4cd29
+SHA256: a9800e1a679224e923920db685c28e3ec58f9cdf2676f1343c6444d8979d04ba
+SHA512: 1f52cda7edb0ff86d2e56bc6cf6e90651853e5279e432b6f82242084213d3cbc3d59e0cd6d3866a31af1d2de12c4e04dcbe0f64fb117eb4e62a0121fc4fd4b23
+
+Package: libiconv
+Architecture: x86_64
+Installed-Size: 1216
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Description: An implementation of iconv()
+Filename: ../../../../releases/download/x86_64-libi/libiconv_1.18-1_x86_64.deb
+Size: 563956
+MD5Sum: 066b27e95a812f2bf6c34994a20761bb
+SHA1: 3bfd01e3aa187ff4a554fca07eb3803f08729528
+SHA256: c967e44483e2fdcfa9338411016f50a0c715494f06914f1aff3a4df6bd1fc648
+SHA512: 22fe0570bf326ac4f42693c5d4d666a646fcc4b1443f438f0454a8548b6ccdf1c715aa467c5d56377fe9a42df9ea73b6bff975f7429a4334ee5d87031173a767
+
+Package: liblzma-static
+Architecture: x86_64
+Installed-Size: 352
+Maintainer: @termux
+Version: 5.8.3
+Homepage: https://tukaani.org/xz/
+Depends: liblzma (= 5.8.3)
+Description: Static libraries for liblzma
+Filename: ../../../../releases/download/x86_64-libl/liblzma-static_5.8.3_x86_64.deb
+Size: 91980
+MD5Sum: 35a41b13accaf18251b4bf5cada0bd29
+SHA1: e9cec92e8577ab377f4a7fa7836e82b4d89f3e3c
+SHA256: 782e59620baaa0eb9cd7a11d2469d7b0a0031b96e660dc0c33384a7b2e5a85fb
+SHA512: f6e956e7235f0dfa359e2317d284b214268ea5dd459261ec0891d53d5217b9a3ac5813089b7132869c679fb807e12878313b51b6c66443cad453ca1eaec9e57d
+
+Package: liblzma
+Architecture: x86_64
+Installed-Size: 872
+Maintainer: @termux
+Version: 5.8.3
+Homepage: https://tukaani.org/xz/
+Breaks: liblzma-dev
+Essential: yes
+Replaces: liblzma-dev
+Description: XZ-format compression library
+Filename: ../../../../releases/download/x86_64-libl/liblzma_5.8.3_x86_64.deb
+Size: 197644
+MD5Sum: bccb1faaed694d3effd1e862ab6a242d
+SHA1: 2e216f6248833ed0740468fdd234d7e28aad6a98
+SHA256: e5924f6b8b6b3f9c9bf418c002e5cd49fc0d5a1c011880b6d941ed3074dd2fc8
+SHA512: 28e1eb576d4540c9b25f04ae35188dedd2c62c557dc7c93f9562457c8248ad7a099cd1ef3e23fead25b7f38d52ca2da73e2b3f27d78f7e8bc7c71586bf75bb9b
+
+Package: xz-utils
+Architecture: x86_64
+Installed-Size: 228
+Maintainer: @termux
+Version: 5.8.3
+Homepage: https://tukaani.org/xz/
+Essential: yes
+Depends: liblzma (= 5.8.3)
+Description: XZ-format compression tools
+Filename: ../../../../releases/download/x86_64-x/xz-utils_5.8.3_x86_64.deb
+Size: 72160
+MD5Sum: 9e4045f9007b823b4ff4ad46a33d9193
+SHA1: f86426e9344241076a1c6e912a3f4021dd6bec8e
+SHA256: 6a31b41e1a1cd61c1af4d420010d3b3aa36a548e3c33d2168510200cbe835c6a
+SHA512: 0b9e17535a169eb921f93931fee7b99dfb9cb9f3eb5c64a0da087ca17aa29434227d463ed85ea722ede489c39a793f53c2f9c81bf8b34c7d5b5233f10d80fb0b
 

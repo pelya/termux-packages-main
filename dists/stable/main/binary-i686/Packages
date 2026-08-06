@@ -33034,3 +33034,19 @@ SHA1: 16df2026014fc31a3641fdee16802bb034efac39
 SHA256: 60b76649d36c114d914c1ee898056dcee53ca8f9a251502d4191bca4a306135e
 SHA512: 27b27c2da38b14bb249bdd2b2ab037c9065470ab0d0876a4bbed5516d93fdbbbc0ab1c241540b8ee544468dd303f48d6f741cc02ba24263795810b5a365be080
 
+Package: cavif
+Architecture: i686
+Installed-Size: 3652
+Maintainer: @termux
+Version: 1.6.0
+Homepage: https://lib.rs/cavif
+Breaks: cavif-rs
+Replaces: cavif-rs
+Description: AVIF image creator in pure Rust
+Filename: ../../../../releases/download/i686-c/cavif_1.6.0_i686.deb
+Size: 1383716
+MD5Sum: 18daf371a4864978ab2745123b39e2e8
+SHA1: b2605997a1b98bf14329900825dbda7b8cd24fe9
+SHA256: ebe14328ae1a50670d4fdb02894e9fb90a1bac7f13e2cfdf9a7c0c1cb75844b9
+SHA512: 1901361f8ed72fde08f3a2417653a21a3db31c417026b53ff9ecce275bc22eb43d1777b314ede3564d190876cb309a5037792c918b2befbf4d3d772b8c62be39
+

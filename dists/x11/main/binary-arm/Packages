@@ -11858,3 +11858,18 @@ SHA1: b3d8c5e3e510a6558ea99cb9cf614a988de23513
 SHA256: 58365d836e5212bc270a2fe869173b4118d95e8c7c478807ff35373911081e0e
 SHA512: bd60611dcccbe104480cb039f6b4616d1e01821035d51901399e32c8af1cbcc7bf1d639d6b6e6c07b3e8b74b6f0d1fa8761fcf9815301a709815abe7bc396836
 
+Package: qterminal
+Architecture: arm
+Installed-Size: 1448
+Maintainer: @termux
+Version: 2.4.0
+Homepage: https://lxqt.github.io
+Depends: layer-shell-qt, libc++, libx11, qt6-qtbase, qtermwidget
+Description: A lightweight Qt terminal emulator
+Filename: ../../../../releases/download/arm-q/qterminal_2.4.0_arm.deb
+Size: 259712
+MD5Sum: aa255e8c6ddb19cc74c644caa2c561f0
+SHA1: cebe2f2f0b83bab0c1a46b5900d3ee8b157654e2
+SHA256: dab5d67d98f024a530a65947194ad9332679c162147b9200153c87a21f43550c
+SHA512: f22e7e848cff6e7083ab5bd1f14fc7e3d0c2195647128982b37062ccc883a9cbc0d5c03fa804d686d53446e86ca858442349402bf9ac4e1aec8544a0da39d8d1
+
