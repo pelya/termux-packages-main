@@ -34165,3 +34165,31 @@ SHA1: 090f95a1bdaaa7a45fdc43009eaba24c3eb00b79
 SHA256: 5808e777d96d3b38074773161fe38a9def82ddf330ef5e8be10f7be69e087763
 SHA512: d175424cb26de32fd6ae0388f60a024e45cd94cf4a9869a8585242410c2c80e6422357ce39a580fdd7d50f7405c67cc255f833caabad25e6eaacef406222807b
 
+Package: adms
+Architecture: aarch64
+Installed-Size: 704
+Maintainer: @termux
+Version: 2.3.7-1
+Homepage: https://github.com/qucs/adms
+Description: A code generator for the Verilog-AMS language
+Filename: ../../../../releases/download/aarch64-a/adms_2.3.7-1_aarch64.deb
+Size: 155372
+MD5Sum: 7f12b92b1685e55f11bb5a0b03eb90cb
+SHA1: 645453c3428d5ff64b99d7b6784acf68b193f224
+SHA256: abf4b8a8111cf28f49040bb6a088efa74a0636bf558b5331ae6a4cdb83894558
+SHA512: 1df84b2e2eba71b47f15e2043cb571fdc5d52bc260ebd2c591286d2366019394ce067d9eafa0a89c184ef4b570dacb96e9e88afc4420770adc711d8ad6c09e77
+
+Package: ttyrec
+Architecture: aarch64
+Installed-Size: 96
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://0xcc.net/ttyrec/
+Description: Terminal recorder and player
+Filename: ../../../../releases/download/aarch64-t/ttyrec_1.0.8-8_aarch64.deb
+Size: 10724
+MD5Sum: 2c43f7f4a57df691bc455308c564bb02
+SHA1: a03d9e318388c99faee18cdf15abab31f491d079
+SHA256: 19c6fe6843d226144f72d121dfcf097a2f950f56d1bde4ade276b376d5b60cfb
+SHA512: cc7c12a5cc387fd829ddcd310df32f0c81c92e763cd3390fdbaba603dfc0798617a88aa03e8e37ef14809eb1e8e966ea30f02171d2aab4092b6963a136d46a82
+
