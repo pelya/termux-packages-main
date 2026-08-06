@@ -17065,37 +17065,6 @@ SHA1: 09e551f3e233dcda088359201cfc508b1c9744c4
 SHA256: 7412b468b8e0b8b6270e070681d6683dad8f5a1dcbaf743ca8cd655986624786
 SHA512: 6f65317c0aba7e7e083bfc058478e16bbf7b81bc625438ec13e8e6143082ba5245bdb4f9aa7054e030e4a3d23c3818487b2dbee681e6fc1ff727163c45152e2d
 
-Package: libseccomp-static
-Architecture: x86_64
-Installed-Size: 308
-Maintainer: @termux
-Version: 2.6.0
-Homepage: https://github.com/seccomp/libseccomp
-Depends: libseccomp (= 2.6.0)
-Description: Static libraries for libseccomp
-Filename: ../../../../releases/download/x86_64-libs/libseccomp-static_2.6.0_x86_64.deb
-Size: 46428
-MD5Sum: cb3f8b1a28d9e8911e19565dc20ffa17
-SHA1: 56b1db14c301ba2041f9529f2769eaebc6a1e8a3
-SHA256: cf986c6a7a82d7ff6066a2568079e66ee9ec04feba50ff88116650a4ba641b42
-SHA512: c00a524d674abcf07fe1e06f43a0192e4bce59963515c2ee002bdd08d150977d80cc5de6225505d8f77a4810caf5c0fd30c7b19874e7db7bc62cf1ebdd4106e7
-
-Package: libseccomp
-Architecture: x86_64
-Installed-Size: 448
-Maintainer: @termux
-Version: 2.6.0
-Homepage: https://github.com/seccomp/libseccomp
-Breaks: libseccomp-dev
-Replaces: libseccomp-dev
-Description: Enhanced seccomp library
-Filename: ../../../../releases/download/x86_64-libs/libseccomp_2.6.0_x86_64.deb
-Size: 76952
-MD5Sum: 317f80d4e0a68766d277903bcf03efc4
-SHA1: e20502d00881b446af5888f203df33e92fc0bcfb
-SHA256: ab6ce9a1c53fb2e1dbc5345353f98a6e9446a0c88a02d8ffbdd5d6783ea1d6f4
-SHA512: f8df42767c4df6b487462582bd08dec526f0c3079dcbd33fac0f49a214089ad8288b47b929c7a94a8b8afb01d4b6da2aea1416907888113d6fef86c7517bacfd
-
 Package: libsecp256k1-static
 Architecture: x86_64
 Installed-Size: 1268
@@ -32814,36 +32783,6 @@ SHA1: 8a18556e7d6088b3eb67d4f37896df96b3c784d1
 SHA256: 852ab17ae5a4850712afdfbcc2d4ff9ab5fb9b808d9ecb28fd939dbbc22b9ebd
 SHA512: 1ee9e1b0af9b8323899ca9cf7680bcd737f8fa84a453683d140ce76ae3b7394f1a0ff73e4c81d2cb7acf499f534eb60b509064187b77c2f7f7268ce09c0ec0ea
 
-Package: libandroid-support-static
-Architecture: x86_64
-Installed-Size: 72
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Depends: libandroid-support (= 29-1)
-Description: Static libraries for libandroid-support
-Filename: ../../../../releases/download/x86_64-liba/libandroid-support-static_29-1_x86_64.deb
-Size: 8556
-MD5Sum: 5f453df71fbb9e878971d8e2d53e65c9
-SHA1: 28d70a98aa3bf419a6027656cc7363dd5e9ff54f
-SHA256: eddbffce0b5d6621a0e11f343b9b6c2794391b14ea507d349cfe3e12f3bad643
-SHA512: 7a53a32eb879e694fb9c65a6621af1006b222781292ef962dc6ac71d38f3c3bf3e9e42bf407ddffea9a0e37fa1ace3d1b233d3bf65609b6c70f569d0aa576fec
-
-Package: libandroid-support
-Architecture: x86_64
-Installed-Size: 76
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Essential: yes
-Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
-Filename: ../../../../releases/download/x86_64-liba/libandroid-support_29-1_x86_64.deb
-Size: 11008
-MD5Sum: 18d165abd3e70807d182581561eddc26
-SHA1: b1dbef30ac939df3b755913d701a57768c8e5d8f
-SHA256: a8e1abc1371d2a5ba0e0182950ec674b7831aae07e1c0830cd22ae9c1fbb811c
-SHA512: 971576af87b6cd83da46c5d6d1a10ebd04e19406d4dfae64db7ab5486757909879be61200812614e79f458455efd0c8b45ea6ae4d5ca261b4340c4d7fc01fc48
-
 Package: libgd-static
 Architecture: x86_64
 Installed-Size: 544
@@ -34033,4 +33972,65 @@ MD5Sum: f88bf0358930fddfb4e1476f3d430fda
 SHA1: 3979700e345d4db2168ebb553a9b4d76c3ec787f
 SHA256: 64ceba78833c07c4f12382f9afecb8c873e2e5f9f4beb8956a3243d6c92c5019
 SHA512: af22396aa4cccf3589f618fd1ba4466a63ceefdc3eab7e7e4e3344eeb708b4d7f4fdf83d33bc5e94a838165448b0716e4f4a5e6db62c4a1e2e76096104814f93
+
+Package: libandroid-support-static
+Architecture: x86_64
+Installed-Size: 72
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Depends: libandroid-support (= 29-1)
+Description: Static libraries for libandroid-support
+Filename: ../../../../releases/download/x86_64-liba/libandroid-support-static_29-1_x86_64.deb
+Size: 8564
+MD5Sum: 1938a50e5aade87554ffdc3b93ab7fe8
+SHA1: 1ad483f199c01cfd761377bdf14d4a6e6d93e72e
+SHA256: b9113c105f33d83d4af494984112dd9c44248d2422ae1610807a6d13326fdf92
+SHA512: 2b2989ddcdce8178e83897527b0638e773bba287df296ed5f60699d6f26db3d5acb495753ea5a2cb2e82fd37112f9db4e623fb67d6a6cda5cbd65ddbc51e90b0
+
+Package: libandroid-support
+Architecture: x86_64
+Installed-Size: 76
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Essential: yes
+Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
+Filename: ../../../../releases/download/x86_64-liba/libandroid-support_29-1_x86_64.deb
+Size: 11008
+MD5Sum: 2dd03e628b2c4b48a1274b23049eec21
+SHA1: 8c78f260666e07c71cc58187152f8c33b6007934
+SHA256: 34496630606cf88916373d3d189fc0455792c85a61ced00c4af82a27d7a5ff32
+SHA512: 123f9336d1304b4e298b69bcb6ea42becc672f2d97be39b2ffd640574b147d7848155f0eae8e471041d050b9ef54955b367cfe645588cf74d9d4c1e3f5633a6d
+
+Package: libseccomp-static
+Architecture: x86_64
+Installed-Size: 308
+Maintainer: @termux
+Version: 2.6.0
+Homepage: https://github.com/seccomp/libseccomp
+Depends: libseccomp (= 2.6.0)
+Description: Static libraries for libseccomp
+Filename: ../../../../releases/download/x86_64-libs/libseccomp-static_2.6.0_x86_64.deb
+Size: 46568
+MD5Sum: 8e54cede8d603e84816b2a45dd464f41
+SHA1: ee95e9a10ec544068f74655892cd49fa9b73e955
+SHA256: a31fa05a52ad1ce38cdd1afb5e190296851e03f0d9ece1b23705d584f07ee6f8
+SHA512: c44828a7788c8d1b944b462ffdcc586e67567eec93fa1a7356c63ffc2addc162d481403e9315909cc784e9dbb24293f201e72826569ba6757874db84c869e64b
+
+Package: libseccomp
+Architecture: x86_64
+Installed-Size: 448
+Maintainer: @termux
+Version: 2.6.0
+Homepage: https://github.com/seccomp/libseccomp
+Breaks: libseccomp-dev
+Replaces: libseccomp-dev
+Description: Enhanced seccomp library
+Filename: ../../../../releases/download/x86_64-libs/libseccomp_2.6.0_x86_64.deb
+Size: 76968
+MD5Sum: d31ddd5914274dd666cd3a6a05f6a0ae
+SHA1: 5cfc8087a8163d1277aa191e4bd1a726db79e79d
+SHA256: adff9561762789f9226d6485b13846691b2e66e06867640dc810ac85d6803318
+SHA512: f28efa00554d6c73f329b90fb4f47cb31e310bb9a71f0c49aa494808b5ca3a4e7d53be80be182ec77bc064321d2b8b5563c85a4d42cefc6ef8af5102ca39b067
 

@@ -207,3 +207,19 @@ SHA1: 5dd2e9fa7fdda73b4f61f321a064a92bc50792ce
 SHA256: 48bba97f6760d9155ee29f0680250349de6e8b9c39d1b9683d0a6b131c6b4029
 SHA512: 61734a87c5fd24f41e8893e02df323b4544e1f0e2ec62c196d4e17cc0963aca2226311da149aa5acf4a4fec7817724d0422adfc1d33ef89c45fdb469ae6e331d
 
+Package: dockerd
+Architecture: arm
+Installed-Size: 58740
+Maintainer: @termux
+Version: 24.0.6
+Homepage: https://docker.com
+Depends: containerd, libdevmapper, resolv-conf
+Conflicts: dockerd
+Description: Set of products that use OS-level virtualization to deliver software in packages called containers.
+Filename: ../../../../releases/download/arm-d/dockerd_24.0.6_arm.deb
+Size: 13841984
+MD5Sum: ab85cf3705c2b3ce06377cf7b8b07536
+SHA1: 064b8ebed38d7b3ad7d4a904f96cee7c6deb0b2c
+SHA256: 2cc3fd37655ae63263952bf2449cfe9a15ed5bc8e05a85adeda5aa08490de9fc
+SHA512: dfa79e4d9daddb5c783b7fe735db56733ece6e9068bfcdb6571a9158cb66c410c82b966a6bddfda4aa76f8ee6362470862498453f1db3dc88630206df4824347
+

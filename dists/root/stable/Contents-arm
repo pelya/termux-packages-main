@@ -217,3 +217,12 @@ data/data/greater.underscore/files/usr/share/man/man8/wpa_supplicant.8.gz       
 data/data/greater.underscore/files/usr/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Info.plist libccid
 data/data/greater.underscore/files/usr/lib/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/libccid.so libccid
 data/data/greater.underscore/files/usr/share/doc/libccid/copyright               libccid
+data/data/greater.underscore/files/usr/bin/docker-proxy                          dockerd
+data/data/greater.underscore/files/usr/bin/dockerd                               dockerd
+data/data/greater.underscore/files/usr/etc/docker/daemon.json                    dockerd
+data/data/greater.underscore/files/usr/libexec/dockerd                           dockerd
+data/data/greater.underscore/files/usr/share/doc/dockerd/copyright               dockerd
+data/data/greater.underscore/files/usr/var/service/dockerd/down                  dockerd
+data/data/greater.underscore/files/usr/var/service/dockerd/finish                dockerd
+data/data/greater.underscore/files/usr/var/service/dockerd/log/run               dockerd
+data/data/greater.underscore/files/usr/var/service/dockerd/run                   dockerd

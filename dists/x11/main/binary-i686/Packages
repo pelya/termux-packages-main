@@ -11797,3 +11797,18 @@ SHA1: a07beb8e4ad1c84ea1b80a52e1aca154e082dfed
 SHA256: 061a095f07c998ee1146bacbafcd7446af4df099837b2766eb711c6a5b7b1bcd
 SHA512: cc923602912f94d01ffb3920e055902cc88fb743a868f55cecaa24d5370dcab657a922ae0d64dc487424a763eb7bbcbd9b7bb063408c2513ad56b33b22ec9186
 
+Package: mate-applet-brisk-menu
+Architecture: i686
+Installed-Size: 224
+Maintainer: @Yisus7u7
+Version: 0.6.2-4
+Homepage: https://github.com/solus-project/brisk-menu
+Depends: dconf, glib, gtk3, libnotify, libx11, mate-menus, mate-panel
+Description: An efficient menu for the MATE Desktop
+Filename: ../../../../releases/download/i686-m/mate-applet-brisk-menu_0.6.2-4_i686.deb
+Size: 38560
+MD5Sum: 6d6334a3c186495ea35454abfab90a11
+SHA1: a28b06dc0c5fd46abdc35f7711ead037de13e68a
+SHA256: 07f397eeb0a78c42199da2a27999123903fdc23fbc3edb61e26c6bc4d04bc0a4
+SHA512: 4a95f9d0ae535965f35cc606f929e1d60238a46d226a618249701d5e6e0df712ead2f34950eab21e7936fcea3ae1ed3d12473273236bf8248d1e6cb6bece9d55
+
