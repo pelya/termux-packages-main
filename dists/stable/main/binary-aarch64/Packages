@@ -33587,3 +33587,32 @@ SHA1: 28029bf35be03dcc27b3765d1c3d3beedc8b0618
 SHA256: caa801e5da1ea12d96188a5641df11273b1ea106bab38a97e32e29082fedda6e
 SHA512: fe5a58cf90f4ce2f9a1fbe17db1012482857dbd15c77167584f51348343d83b28dfb8612cc01241a64f74ddba2fd7d99a645973188da216f451bd517d40ffc2e
 
+Package: cargo-c
+Architecture: aarch64
+Installed-Size: 98176
+Maintainer: @termux
+Version: 0.10.24
+Homepage: https://github.com/lu-zero/cargo-c
+Depends: libcurl, libgit2, libssh2, openssl, zlib
+Description: Cargo C-ABI helpers
+Filename: ../../../../releases/download/aarch64-c/cargo-c_0.10.24_aarch64.deb
+Size: 26551164
+MD5Sum: 0f3edb3426adebc80adf3a33d1db7659
+SHA1: 6fcc761a2168b4deb43d2c0b85e22f3c30c5a851
+SHA256: 8562b2cf7842465536f1fbfeabaf7745244a5d861e672253738a2fe4c050fbdb
+SHA512: 3b5c0e7ba344fe1521f32c036ff391d0d5a8deb7d7a153ac731791c6b3419ed9a5781058fa49112eb1e6e2f4e429e6fa1762ca8224053ce944f501d47327b2d4
+
+Package: morse2ascii
+Architecture: aarch64
+Installed-Size: 176
+Maintainer: @termux
+Version: 0.2.1-1
+Homepage: https://packages.debian.org/sid/morse2ascii
+Description: A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files
+Filename: ../../../../releases/download/aarch64-m/morse2ascii_0.2.1-1_aarch64.deb
+Size: 30492
+MD5Sum: f4a367a4a665ed9dc2b5e34aafce197b
+SHA1: 096de5bb4b48bd0abdd0e74eb4e02eeec2b6f446
+SHA256: feb04226c00b735edbf4f6987535262e6c1b3585799cef737ad337fd31777bfb
+SHA512: 7e458a3f2d0f9c847d8803fda113a6ddf762a15781706b47d8bc4e67d5757d0b00fa5fe5e5850d28d44797b604d238753053d0544a8831665350bf7a91ac310b
+

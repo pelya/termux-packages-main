@@ -32871,3 +32871,32 @@ SHA1: bddf84fe1867913ae2b56b713bfe16b34dc08a3d
 SHA256: 28da4ce9660833ce573b8f0c47ca07904ecd97cb66c2d0eef7996328f499ab5f
 SHA512: 687a32bae8e99ce85ada0beeb5f34039f8c19101b788cf40f89692390f2ce8e947187628884260f2242286b5fc32b9e7ac6572a95b2a4a2a5276e10afd821310
 
+Package: cargo-c
+Architecture: i686
+Installed-Size: 122536
+Maintainer: @termux
+Version: 0.10.24
+Homepage: https://github.com/lu-zero/cargo-c
+Depends: libcurl, libgit2, libssh2, openssl, zlib
+Description: Cargo C-ABI helpers
+Filename: ../../../../releases/download/i686-c/cargo-c_0.10.24_i686.deb
+Size: 34396368
+MD5Sum: e7c1c0b08e360121c75d58e9418c151c
+SHA1: f57635243844b62704aa182488731798f601cd9a
+SHA256: 33a813d996f5cb6d847e1230e6d8fa934f21197ba56fcbcb6fa1a0a3a529d082
+SHA512: f55d9bf6491920305693b0cf0bdbc323594c4682734de51994aa1d5d0d52d157e5dea1e8153f0b94518b90c5db3cc6a3e4b26cf78ab5da92e14a5934b95a0e34
+
+Package: morse2ascii
+Architecture: i686
+Installed-Size: 136
+Maintainer: @termux
+Version: 0.2.1-1
+Homepage: https://packages.debian.org/sid/morse2ascii
+Description: A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files
+Filename: ../../../../releases/download/i686-m/morse2ascii_0.2.1-1_i686.deb
+Size: 30288
+MD5Sum: 9136b9f4a4570efbe4be0199ddfada91
+SHA1: 7342c3258d8695a16d91daa6a685bbb3fd53b064
+SHA256: 8a11f95acb2ea83e97cb3392e41c0385590783cba7bcc94f421870aeb0fa42c0
+SHA512: bc091c85bbcc513150b3a9ade9dc534d4f6c438af0e9f32f9865c1b83e50a42b0461c54d288b81f91486cc8b3a90126ee6e6d438b0653d3e6f812e887a5cf224
+
