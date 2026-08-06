@@ -34049,3 +34049,31 @@ SHA1: 9a2ca1836e9258bb2f8a0d2bf5f8efd7020ad74d
 SHA256: 25af060aacaa9c985120a9624bc1161cf6e145f60433d009758d8a2f01bdff06
 SHA512: 2f5f891a8bdd68a464a58d8f103aa7e7315e7efd72bee33a1046c33536e706ac91ac27f689b60814a3c89cab683e5429f23a8a6e1b5f8c4c4207dab52a48abc4
 
+Package: cabextract
+Architecture: x86_64
+Installed-Size: 112
+Maintainer: @termux
+Version: 1.11-1
+Homepage: https://www.cabextract.org.uk/
+Description: A program to extract Microsoft cabinet (.CAB) files
+Filename: ../../../../releases/download/x86_64-c/cabextract_1.11-1_x86_64.deb
+Size: 30124
+MD5Sum: 23f8d6773445ae656295d62eac0d2715
+SHA1: 0d698e1da4fdb96b05f0582a7310d837efc4d266
+SHA256: b6a7df70344880dcae0ee58924a25f1b9371dfc5be9a169fd487458a61a8e0a3
+SHA512: 7863b877dee70e410a7fe7c1fd0635d2ff8aa544920a0f876061a47a0eb534f9104e4573f8839ae8d3e2a8d45b77c08d2af0d2928db3995e9e2edc459a9d73d0
+
+Package: mdbook-svgbob2
+Architecture: x86_64
+Installed-Size: 2340
+Maintainer: @termux
+Version: 0.3.0-1
+Homepage: https://github.com/matthiasbeyer/mdbook-svgbob2
+Description: Alternative mdbook preprocessor for svgbob
+Filename: ../../../../releases/download/x86_64-m/mdbook-svgbob2_0.3.0-1_x86_64.deb
+Size: 726364
+MD5Sum: ecac26846738bce6913d39d905b3cde2
+SHA1: 2f01c67de63a95d21af754a86935e5881f6614b8
+SHA256: e3844a88add0924cf5be298d4223aa8c028a062f166bd05072b1ab65825197e2
+SHA512: f89a5cfc5f41d0ffd1eb3d996e6ae0c7817cee481868b9f504fcad15816bad62b6e753dc5502528558b1de1174ad9c9689d327deb9dc038c4308bfee5953fb91
+
