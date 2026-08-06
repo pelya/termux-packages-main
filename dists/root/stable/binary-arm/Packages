@@ -87,3 +87,18 @@ SHA1: 16f36ec32f2d9cf623bdc6dc9d0fde2388db2396
 SHA256: cf5d27749a0ee87eabb003319887c4a0dc96c8fc0e85d4998f9739f641655af9
 SHA512: a5cc58e8465556b9d62de99f7c5ce7dd6ce493addacb693f685925f3fcad4c01e0bbcccbe383f72476a1d465cccf5d43453092015c86010e3d57118dfdf0f552
 
+Package: containerd
+Architecture: arm
+Installed-Size: 108224
+Maintainer: @termux
+Version: 1.6.21-5
+Homepage: https://containerd.io/
+Depends: runc
+Description: An open and reliable container runtime
+Filename: ../../../../releases/download/arm-c/containerd_1.6.21-5_arm.deb
+Size: 26051952
+MD5Sum: 6c7185ee515b9b0a7dbccc172e5d93ee
+SHA1: 03e3793742cf40d6db1393af1e68a64f55b59751
+SHA256: dfcd662f274af67bda4932a283428dd9b18901f46ae97c1cb0c5dbbab2447ad9
+SHA512: d9cec6f6b41201a10ee9a2d9b5c5840f3ebe32e5cc8e744fe0fe462acc79f3bb89b56c027b3aa785e344273d3fd2a94657042113226576bb1ad70ac5003f5c30
+

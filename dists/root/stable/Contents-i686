@@ -87,3 +87,15 @@ data/data/greater.underscore/files/usr/share/man/man8/thin_repair.8.gz          
 data/data/greater.underscore/files/usr/share/man/man8/thin_restore.8.gz          thin-provisioning-tools
 data/data/greater.underscore/files/usr/share/man/man8/thin_rmap.8.gz             thin-provisioning-tools
 data/data/greater.underscore/files/usr/share/man/man8/thin_trim.8.gz             thin-provisioning-tools
+data/data/greater.underscore/files/usr/bin/containerd                            containerd
+data/data/greater.underscore/files/usr/bin/containerd-shim                       containerd
+data/data/greater.underscore/files/usr/bin/containerd-shim-runc-v1               containerd
+data/data/greater.underscore/files/usr/bin/containerd-shim-runc-v2               containerd
+data/data/greater.underscore/files/usr/bin/containerd-stress                     containerd
+data/data/greater.underscore/files/usr/bin/ctr                                   containerd
+data/data/greater.underscore/files/usr/etc/containerd/config.toml                containerd
+data/data/greater.underscore/files/usr/share/doc/containerd/copyright            containerd
+data/data/greater.underscore/files/usr/share/man/man5/containerd-config.toml.5.gz containerd
+data/data/greater.underscore/files/usr/share/man/man8/containerd-config.8.gz     containerd
+data/data/greater.underscore/files/usr/share/man/man8/containerd.8.gz            containerd
+data/data/greater.underscore/files/usr/share/man/man8/ctr.8.gz                   containerd

@@ -32368,3 +32368,33 @@ SHA1: ef88a14050b738db159319b56c4358011325be24
 SHA256: 62a4abf6953f946dfcd873cebf3661d6a3180e227238a1703aaf10c14cf50911
 SHA512: 743003ffe069d2e3047279f84a6f5258e0b3ac11d9c74ff565cf2c09c7ec9c1f581daaa020aefaa381723e6a75be964e6a73ce0bd2fd4ee5a8776aeaee20a335
 
+Package: groonga
+Architecture: i686
+Installed-Size: 16412
+Maintainer: @termux
+Version: 16.0.8
+Homepage: https://github.com/groonga/groonga/
+Depends: libandroid-execinfo, libarrow-cpp, libc++, liblz4, libstemmer, onigmo, simdjson, xxhash, zlib, zstd
+Description: An embeddable fulltext search engine
+Filename: ../../../../releases/download/i686-g/groonga_16.0.8_i686.deb
+Size: 2665964
+MD5Sum: d32fc0de3d285b50591ec3cedeb3f783
+SHA1: a3880f9e97f223498aed930f052a5b9be0e5c4bf
+SHA256: e5a15d6df19a2fd097179179aabf9b4a22542fac4b99f50a54b8a2635577b638
+SHA512: 28dc020d2bdc90164cf376ba046787f3b0c0dd35c8b1dd27cb8508ac7b9b57ce19b17f8fed2edb3318732366bdfbf5c0d0be737ba74d6142953951f0db2e4739
+
+Package: pgroonga
+Architecture: i686
+Installed-Size: 1444
+Maintainer: @termux
+Version: 4.0.6
+Homepage: https://github.com/pgroonga/pgroonga
+Depends: groonga, libmsgpack, xxhash
+Description: A PostgreSQL extension to use Groonga as index
+Filename: ../../../../releases/download/i686-p/pgroonga_4.0.6_i686.deb
+Size: 148264
+MD5Sum: 8419898f98e937de919b6ed0d902d85c
+SHA1: f110d14cda766f937953b95096d6632b2eeac370
+SHA256: 5bc1bc2468c20c7f54d9cc17b6ad6aea6fe07efb7448ceb49ee5495b622fae8c
+SHA512: fc2cf4c8d0bbf6036b65e19cf03f5524a97aeef1db9ea55ddb910d1548292b7b1d1f1ac2cd90313b14449d27940970e2918976c73e1b661924588f86669f01dd
+
