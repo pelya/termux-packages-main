@@ -33513,3 +33513,18 @@ SHA1: 27b350849016bf5b847d9c27d91403475c673884
 SHA256: 54f6575761a02669eb638e1ef1a00717285d922d1b8cb85877525964c37eaf63
 SHA512: 323d548a36a7446d33b642a3edb0037e400326d6bd661957f0fc72f20e3b5cc9aada98ce1871e813e36612c098e67c4b70b4827e1a89ed8a229eb07fee3a296a
 
+Package: tinyfugue
+Architecture: aarch64
+Installed-Size: 1244
+Maintainer: @termux
+Version: 5.0b8-4
+Homepage: https://tinyfugue.sourceforge.net/
+Depends: ncurses, openssl, pcre, zlib
+Description: Flexible, screen-oriented MUD client, for use with any type of MUD
+Filename: ../../../../releases/download/aarch64-t/tinyfugue_5.0b8-4_aarch64.deb
+Size: 301200
+MD5Sum: 81d0a6adbcc59f1a521bd140480f7350
+SHA1: d2027628bf6abba0fabf0dba16bcfb2e983e1929
+SHA256: 8cd16e210112ca78aa4e3de0d4443cc98b2ae26efa93f9b1d94fade566f4d75d
+SHA512: fab7be1486a2c8d7751563e8bc73ab918178aac0055049ed7dbc2c7ad055886e37520d2efdebd3de6de8034091081d7cca1b59fab12e929391009e7353e334fb
+

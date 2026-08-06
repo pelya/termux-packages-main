@@ -11677,3 +11677,18 @@ SHA1: 97d37e0b44fc09b7171e9c29079444617dd92116
 SHA256: 845212816df5434d7075957519124cbb0cefdf45808a995924ef34114a31c65b
 SHA512: 3c93b67104c739eda1112a7395a27e8ba77da951b4420cfd4718db50e2d9d7d70088f17038e77d95b38dd3cb5a589b448e74933a0bec494378182d14c410fd41
 
+Package: qt5-qtxmlpatterns
+Architecture: i686
+Installed-Size: 7092
+Maintainer: @termux
+Version: 5.15.18
+Homepage: https://www.qt.io/
+Depends: libc++, qt5-qtbase, qt5-qtdeclarative
+Description: Qt XmlPatterns Library
+Filename: ../../../../releases/download/i686-q/qt5-qtxmlpatterns_5.15.18_i686.deb
+Size: 1080776
+MD5Sum: fc6ba983d1d30d27fff25f08dede2f8d
+SHA1: 997d69c6e4770123ba37b6e24ca344bbfd521df4
+SHA256: 776d5b01a5c10c967dfd531627ee0b1ce41ef1e7bebcf51612f16f85acb0235d
+SHA512: 71377f10ed5672654383c5c80ef02bd315edc30a77efb8b216e7ec63c6e6dafaf6b361e59c30df9be513789726f3b5ef2dfbb41b88c975ad71d9948b01ff180d
+
