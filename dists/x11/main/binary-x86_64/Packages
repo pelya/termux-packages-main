@@ -11798,3 +11798,33 @@ SHA1: eeddc848c45acd8ca1101871e68891827fc31c1a
 SHA256: d58c1cc73c262b2bdcb010d843809706bbc137f8e3544244386fd9fd939596a3
 SHA512: 956ba254a28ee97869408d87c7a9afe86a6e4d5d4acf008827b2e839832b68a18accbd182bdbd514b17c5e9718396bf66c053ba198d7345236050a01a67bd59c
 
+Package: devilspie
+Architecture: x86_64
+Installed-Size: 368
+Maintainer: @termux
+Version: 0.23-2
+Homepage: https://wiki.gnome.org/Projects/DevilsPie
+Depends: libx11, gettext, glib, gtk3, libwnck
+Description: Utility for matching X11 windows and performing actions on them
+Filename: ../../../../releases/download/x86_64-d/devilspie_0.23-2_x86_64.deb
+Size: 35216
+MD5Sum: a2146ef9d364f52c7021b45e92266f40
+SHA1: b0c5e6504543481ee4040a8b229a3e77947f1bd3
+SHA256: eea4b360ea7dd579b59751801a430bdd1ae8a196ea2d902f092c17ad25b8b9ef
+SHA512: 3a4aee9ba74fcdb0f262e95459cf7abcce2ce8a519af977e740e6a53f326501995bfe961fda84b12f6e88ca5743257aaab02f71a41bfcab1f00b70fbf754428d
+
+Package: fcitx5-unikey
+Architecture: x86_64
+Installed-Size: 668
+Maintainer: @termux
+Version: 5.1.11
+Homepage: https://github.com/fcitx/fcitx5-unikey
+Depends: fcitx5, fcitx5-qt, libc++, qt6-qtbase
+Description: Unikey engine support for Fcitx5
+Filename: ../../../../releases/download/x86_64-f/fcitx5-unikey_5.1.11_x86_64.deb
+Size: 129548
+MD5Sum: cc103fe9b4110f8418876ff6d8a548a1
+SHA1: 5ab552672e72445d09ff1a3106f8c3a9ad9af33a
+SHA256: a068b44b3f0082662b4d8efe345bfe7c266d134652c9f137c039ade73e1b035b
+SHA512: c3a7507237c42b5818d638379b85453861fab71a2a84f1002d9cdcf25ea7f3456ee17b8b469a222d4dcce58cd554ba54c5914d3d662776169179d660cb372a60
+
