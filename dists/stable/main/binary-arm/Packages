@@ -32674,3 +32674,18 @@ SHA1: 696fb1cda9cfaba8adf521045121e9744037d3a0
 SHA256: ab8f7fb9f9d08bb4ddac5ce97b71b968a2cffb02ab56a9e4b3e5bdcbce459e39
 SHA512: bf72b78cbeb2b3ecbe816feed4d6db59eb2489b27e94a9c5d81c782e68fb281107a0ed9345682d00bb8ee3e8b83d2395fef75bb6097ed2faaef4cedfdb9d491f
 
+Package: liblog4cxx
+Architecture: arm
+Installed-Size: 2760
+Maintainer: @termux
+Version: 1.7.0
+Homepage: https://logging.apache.org/log4cxx/latest_stable/index.html
+Depends: apr, apr-util, libc++
+Description: A logging framework for C++ patterned after Apache log4j
+Filename: ../../../../releases/download/arm-libl/liblog4cxx_1.7.0_arm.deb
+Size: 494120
+MD5Sum: fbd7b8653a3976f0a1c9e0f6844c9654
+SHA1: 2f6ccd1b8fcd17aa266f1c0edb0640b774fa564d
+SHA256: 2c92ce2f2deb8566327e9203bde1fdeeb14114243b5ae306c7ee3fdcf0577cde
+SHA512: 3103e383474deb75eaa44c57d7e8e45124fde31a4c120968073618a30d461d1d3cbe5a0ad812dc660fd3430437bee87d40ea4ffbf565afa5fa4038c55320124b
+

@@ -11948,3 +11948,18 @@ SHA1: d8178d2bcbb28c85374394257339f9ea15d22e05
 SHA256: c8a8ab36232b53cf3b3e0514c44571729a14e500c0c1efab8337068f86caa2bb
 SHA512: a9ac17f4a06ef0fc20e82d9aa98afdee65af922c386c90a579329b9feed4931362aebbdc59191196d973929d28650ff471c02b30996e7986f8a6b5f0373621b0
 
+Package: the-powder-toy
+Architecture: arm
+Installed-Size: 1620
+Maintainer: @termux
+Version: 100.0.399
+Homepage: https://powdertoy.co.uk/
+Depends: fftw, jsoncpp, libandroid-execinfo, libbz2, libc++, libcurl, luajit, libpng, sdl2 | sdl2-compat
+Description: The Powder Toy is a free physics sandbox game
+Filename: ../../../../releases/download/arm-t/the-powder-toy_100.0.399_arm.deb
+Size: 750868
+MD5Sum: 1b30b738531fd3552519b8a63a0ecc39
+SHA1: ea1af2c48f8c927d5a53d50fda422aa809307a2f
+SHA256: dc7cd4a893e9f9769b44f3157271d98edf2d83374a1f17a004b92c2a79e41ed8
+SHA512: 7ee6c5358115baf49afc6d862ad75b3e4c7284222c8f9b6fb72e2df8db42e81bb63f9210331e22832545de268199b9612074548fb067352a0e292d639bd8eb14
+
