@@ -32613,3 +32613,32 @@ SHA1: 38719ba138223b6c3f7fa54c3872eaad9af35354
 SHA256: 00593c4ccd4aefaebaf018264173e8f6429159da4be3fa254355671e6336911b
 SHA512: 9f6e4f2c51a4a051342e5958ec02ee7aa5fa681d2dc9f1f1c7104bec2b3ba034ce429ab064415094def74b3b0892e7460993d40bd592a0c91d76808f5574444f
 
+Package: lighttpd
+Architecture: arm
+Installed-Size: 812
+Maintainer: @termux
+Version: 1.4.85
+Homepage: https://www.lighttpd.net
+Depends: libandroid-glob, libandroid-spawn, libbz2, libcrypt, openssl, pcre2, zlib
+Description: Fast webserver with minimal memory footprint
+Filename: ../../../../releases/download/arm-l/lighttpd_1.4.85_arm.deb
+Size: 247556
+MD5Sum: ff1e2f5a41a1563856db74b967db587c
+SHA1: 362f32e5cad97d0515b469c27809814f32b76094
+SHA256: 9b45b7cf790fe0140730b2e090c2dfc1f9c766a1581a99f4ec86ae64e012cf5f
+SHA512: 2f11a37c4ae34137416771f21756604200396464e034d4eb279670c8bc47b09b56248671324f21c6c72e75e0abb5bd690b9303880526f3c54767ee4c9eb39ae1
+
+Package: libunqlite
+Architecture: arm
+Installed-Size: 532
+Maintainer: @termux
+Version: 1.1.9-1
+Homepage: https://unqlite.org/
+Description: Transactional embedded database engine
+Filename: ../../../../releases/download/arm-libu/libunqlite_1.1.9-1_arm.deb
+Size: 186556
+MD5Sum: cf38963a9d6180b2ac75c20931128db3
+SHA1: 270fcdc991dc04c312a9519697767d5a7ce582c2
+SHA256: 52a96286280411f4c6bd7bdda88a7051a8f74d97c11c4369f731ac6651cd81c9
+SHA512: cf8c6920cc36cf23ed6b72e0788f932985f5e0dd9b7cf2f1b76eaf39ef4477ebd7ac2808d67c236d246562c06a818487dfad490b7283fd10e117ceeddb644b3e
+
