@@ -33128,3 +33128,112 @@ SHA1: 6eae63280c778b20fb020b63e3f4671394105d04
 SHA256: f04e9fb8043e30cc9d378013aa17797bf214dc25ed8006620185f24e7b101b96
 SHA512: 29cfc755b85604146e21e5d36bb43fbc32622682150d9e5128f7b06d40be71be39057650f4d620a8d44a11bf6e83264fb1a7f496cc24446626503689fd348dbe
 
+Package: libkiwix
+Architecture: aarch64
+Installed-Size: 2452
+Maintainer: @termux
+Version: 14.2.1
+Homepage: https://github.com/kiwix/libkiwix
+Depends: libc++, libcurl, libicu, libmicrohttpd, libpugixml, libxapian, libzim, zlib
+Description: A library that contains a lot of things used by other kiwix programs
+Filename: ../../../../releases/download/aarch64-libk/libkiwix_14.2.1_aarch64.deb
+Size: 646664
+MD5Sum: 224a10fbec396aafbd8a6603380d911c
+SHA1: 1635a2b752b20595af7d350b8397247754486d7a
+SHA256: 7d0e3d169c50d598fdeaa5de42ece77e96ca178c10bd27ada21f3076f4eabdb0
+SHA512: 610376a833b0954185ed6ee8a91709c61a670d97ef2f2669acb886d63c097827239e515529b9c80cd5ef5d3fee892175aedb135ba0a7b2e1dae5f095f4ad8681
+
+Package: libpugixml
+Architecture: aarch64
+Installed-Size: 392
+Maintainer: @termux
+Version: 1.16
+Homepage: https://pugixml.org/
+Depends: libc++
+Description: Light-weight, simple and fast XML parser for C++ with XPath support
+Filename: ../../../../releases/download/aarch64-libp/libpugixml_1.16_aarch64.deb
+Size: 87716
+MD5Sum: 64fd6e4e3be5866b8999fe18d1b00e28
+SHA1: 7449afc85bf440b7c264a67870cf8418b204907b
+SHA256: e8b9fb3069beab91562c9769e77a0f40f38029cbcf7bc81742677156dac3fb89
+SHA512: d726d3de24e5938d38bae1bf55414775cab52f05bd8cf0d624662b50ea096e0693b76cced442af99976fb0c8016310bbbcd38bbe0a36ade82a2d32351098e832
+
+Package: libxapian-static
+Architecture: aarch64
+Installed-Size: 10412
+Maintainer: @termux
+Version: 2.0.0
+Homepage: https://xapian.org
+Depends: libxapian (= 2.0.0)
+Description: Static libraries for libxapian
+Filename: ../../../../releases/download/aarch64-libx/libxapian-static_2.0.0_aarch64.deb
+Size: 1084760
+MD5Sum: bade45daeb89ea0a07b02017e9d1cec7
+SHA1: 2eccba883e438f819ef2d15c3072249ec4acf8ef
+SHA256: df12328595bd5c1d3b64328e7f3c864a97b12e1c046b033debb6171c32bb92cc
+SHA512: 17c041d5e388dd98c90c8730cb6d21b71fe3140994fab2c5bb5511677cb3d6cfc92a96783baccae49bb8bf5f4adc3ec8e57266e13894f1b0ffe95ae8eb8fe147
+
+Package: libxapian
+Architecture: aarch64
+Installed-Size: 2940
+Maintainer: @termux
+Version: 2.0.0
+Homepage: https://xapian.org
+Breaks: libxapian-dev
+Depends: libc++, libuuid, zlib
+Replaces: libxapian-dev
+Description: Xapian search engine library
+Filename: ../../../../releases/download/aarch64-libx/libxapian_2.0.0_aarch64.deb
+Size: 593092
+MD5Sum: 4e728ddf3b46f5d1f663fff641432926
+SHA1: 81d978285ff52793dfd89c75e4402dc08d8ed362
+SHA256: 5e47aaa7f316d56f1327376eac679f79f9003cd5fc3dc8323906557699303361
+SHA512: 1d7f3fcdbe8b9b2275ea1431371acb84cb26c688c1f118353408924f5200dc567a10696879c8d31c7252ffdc77018fff553c587d7b9f54d36f17307bdd9ba8a0
+
+Package: libzim
+Architecture: aarch64
+Installed-Size: 1080
+Maintainer: @termux
+Version: 9.8.1
+Homepage: https://openzim.org
+Depends: libc++, libicu, liblzma, libxapian, zstd
+Description: The ZIM library is the reference implementation for the ZIM file format.
+Filename: ../../../../releases/download/aarch64-libz/libzim_9.8.1_aarch64.deb
+Size: 252296
+MD5Sum: 1d75fca53e60e710e93da6b0e319f4d5
+SHA1: d43d11552f20ab2f620d9e917415855a578009f8
+SHA256: 8a8582d796ac27575f9e080bcfd3507eceaf83623442ba05298cb505504cf65b
+SHA512: 2a04bb09e8d0f8cc7fb1eabfdf9c4681365710fb3aa8678d1aa9255cb91c02f943feab304c404c339d2a4544b8978de94e868bfae56c620a8878fea7cd53b6a2
+
+Package: tmate
+Architecture: aarch64
+Installed-Size: 700
+Maintainer: @termux
+Version: 2.4.0-3
+Homepage: https://tmate.io
+Depends: libandroid-support, libevent, libmsgpack, libssh, ncurses
+Description: Terminal multiplexer with instant terminal sharing
+Filename: ../../../../releases/download/aarch64-t/tmate_2.4.0-3_aarch64.deb
+Size: 220372
+MD5Sum: 44fda7db904389452765bb867304828b
+SHA1: c5b16df92f14cbda7f8421b3f9cd850c23e9bed2
+SHA256: 1de3c06695da8f5e0bb34bc5b1e7fa71e6bd2a3587e81c6edb386dae21940e09
+SHA512: d89f68fae80b75d032dd156cc401c427085221620ecc804f43d201d84e1f564c3f20de5bad7bd3f7ceae2ee6db12e55cb61b7fcaea23905438bf899370d2e476
+
+Package: xapian-tools
+Architecture: aarch64
+Installed-Size: 764
+Maintainer: @termux
+Version: 2.0.0
+Homepage: https://xapian.org
+Depends: libxapian (= 2.0.0)
+Breaks: libxapian (<< 1.4.21)
+Replaces: libxapian (<< 1.4.21)
+Description: Basic tools for the Xapian search engine
+Filename: ../../../../releases/download/aarch64-x/xapian-tools_2.0.0_aarch64.deb
+Size: 89700
+MD5Sum: b91bbfe84fde53e3ba0e097401a7b87e
+SHA1: a76019f3221fa4284f3eff25d810f1a2d601a6e2
+SHA256: d4ee57d4298d6b841651ec22c1d001fc9a0fef12131227e5fede75e026b082b6
+SHA512: ade8a534332cb09e00d7a76a0588bbadb6c4252de35618a1ce3e38749c795df5751bc2f64e1573f3caec1c85186751eedc4715e83ef881e0bbdf07484792ee64
+
