@@ -11721,3 +11721,33 @@ SHA1: be87b09bae0ef878c538e26f1a03d85cf9500ac0
 SHA256: 00925147d2b0cc9fb9c9ec4257e78a950a27fe3645d67c5bc229436473305051
 SHA512: 65bf40331bcd69c4c7a2c45694f41d7594491774730769b262865249022714b7037328420a6e33a0110ff76145ba1448b4a9be55c72386a56e68003e6a98fb0a
 
+Package: lxqt-panel
+Architecture: arm
+Installed-Size: 7204
+Maintainer: @termux
+Version: 2.4.1
+Homepage: https://lxqt.github.io
+Depends: kf6-kwindowsystem, layer-shell-qt, libc++, libdbusmenu-lxqt, liblxqt, libqtxdg, libsysstat, libxcb, libxkbcommon, libxtst, libx11, lxqt-globalkeys, lxqt-menu-data, pulseaudio, qt6-qtbase, xcb-util, xcb-util-image
+Description: The LXQt desktop panel
+Filename: ../../../../releases/download/arm-l/lxqt-panel_2.4.1_arm.deb
+Size: 908824
+MD5Sum: 92bc2f3766cfd12fb36bcc6f1e746ea8
+SHA1: 8f4109467c5feecc593c62b161d235fd3ebdf118
+SHA256: 75b4da509cad2ffecd8fb4d036fb3d8ff9bd144943419d055e80224c8e2427fe
+SHA512: d97100daaa0594912cbf25674e37e863b6251320331911ff77c8e897b077b97aab61cc0dcb9d15c6b09ef3ba33b8cf24c6bbf71ced4fda905f0a3dd99daa2018
+
+Package: libdbusmenu-lxqt
+Architecture: arm
+Installed-Size: 300
+Maintainer: @termux
+Version: 0.4.0
+Homepage: https://github.com/lxqt/libdbusmenu-lxqt
+Depends: libc++, qt6-qtbase
+Description: A library that provides a Qt implementation of the DBusMenu protocol
+Filename: ../../../../releases/download/arm-libd/libdbusmenu-lxqt_0.4.0_arm.deb
+Size: 72808
+MD5Sum: 3b85607c1ad1a1948a815b869eda5b2f
+SHA1: da5107144b586a8e25c3610d9f9e5bd4fd487d07
+SHA256: 0ab47055117b24b110e7a45e11b433e659bdc0ae8e9ccc58393b6570ec8a7514
+SHA512: 64b5975f011dfd02cf48cb8e7ccd178f3c4413771b096412d8c8a7f8aa88dde0d1e9fd9cb2cc4cbaefe5c146061bc019070ce7fcff192b159a554609692ea8e5
+

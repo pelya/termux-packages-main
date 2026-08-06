@@ -33309,3 +33309,19 @@ SHA1: b804a4dbe142a1a4f28b45ff6f1d4de41262f35e
 SHA256: a97c251ca97aaedad303691618f77e5db1a9eb280bacd4b6f5357db4044d0415
 SHA512: c174a8637e98d7f0fd5aea6d824168e685b184ac4b0ff4cc79b6bc501195d78fbee44931802ca31f8ca681409c1c6011533be5f2e80d30876a8d82cb07d66421
 
+Package: lux-cli
+Architecture: aarch64
+Installed-Size: 28364
+Maintainer: @termux
+Version: 0.36.1
+Homepage: https://lux.lumen-labs.org
+Depends: bzip2, gpgme, libgit2, libgpg-error, lua54, openssl, xz-utils
+Provides: lx
+Description: A package manager for Lua, similar to luarocks
+Filename: ../../../../releases/download/aarch64-l/lux-cli_0.36.1_aarch64.deb
+Size: 9293516
+MD5Sum: 19018525f05052c280960058c8738fdf
+SHA1: d33ad0d3935f02985dcd254e50d67e1feab6b349
+SHA256: 4ecf3e0a311e28fb7554ae8a512d08dbb9dc612b5de11f811c140df363f4dad1
+SHA512: 63b5a090e1e2c6cf63dbc6916f8236e1fda3a1888ac662fbc3855f75d0d9d79c9c55861342e07633972e4cb9570d31e2309856b3cf488e9c49fb8f9579152500
+
