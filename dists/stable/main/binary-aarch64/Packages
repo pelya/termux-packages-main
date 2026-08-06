@@ -33691,3 +33691,32 @@ SHA1: 1cdc787609bc23d51115cf096829754fe1a44794
 SHA256: 8bb3ffbbb75688b010368273059dccfb0d4217dc27fb9aea9692c6fc91d56f59
 SHA512: 395f3a1bfb88d5839fdbc8efc90f2b8dd14bb88cbb6718687e812c830a90ae66a6ff6bec6383ffb117b3f2cc365550f8186455f78403164c78e78474564e8d04
 
+Package: lowdown-static
+Architecture: aarch64
+Installed-Size: 476
+Maintainer: @flosnvjx
+Version: 3.0.1
+Homepage: https://kristaps.bsd.lv/lowdown
+Depends: lowdown (= 3.0.1)
+Description: Static libraries for lowdown
+Filename: ../../../../releases/download/aarch64-l/lowdown-static_3.0.1_aarch64.deb
+Size: 111372
+MD5Sum: 995e1b3c86562d3b508fa7463952b119
+SHA1: 8d325226e318d114b166ce06f2039bf58e7533ba
+SHA256: ee49d7ba620ebe79af35db0b1205116914f66e4532190552eeb9f21ccab304d5
+SHA512: 1dc42f9f33fe011ddaca3695035637a2e0d5b25f10565a1555b73c6c3e242d0590ba712280d723dba3f5eeb668150fc22ae65d8936f0df9b4ffc81cb7bb82643
+
+Package: lowdown
+Architecture: aarch64
+Installed-Size: 1080
+Maintainer: @flosnvjx
+Version: 3.0.1
+Homepage: https://kristaps.bsd.lv/lowdown
+Description: Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)
+Filename: ../../../../releases/download/aarch64-l/lowdown_3.0.1_aarch64.deb
+Size: 199408
+MD5Sum: e525f883e199fa420841a52d88897820
+SHA1: 5efb72e8ce2dd8206a466468fc7df242a9aeaba8
+SHA256: 7ca29668f426a0eae66e3f9a6ae4ea62a8bbe15bcbdad9303f00e459e6f8354f
+SHA512: a4b2d0550fd63e07e109cabb2754f4bd858dbde19ec7954b3d2be19add67836897fab78320c5aec8060f602f562e1e55b8aeaf81baec77c3f169a0436c3c8f36
+

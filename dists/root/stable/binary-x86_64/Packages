@@ -177,3 +177,18 @@ SHA1: f8380d918e58284bad7e8df975e0158deee348a6
 SHA256: c289937ff1493ad68f05f6398718b9e72d4437d2e7607eb9681d7c5401a473b1
 SHA512: 48452234cf86ea4f88dd494d14a5d892577f330a0749f851767d1419b5d70a6ee4188e1cbf6e1e3af4c00affe618b452ad842a55a14f607e7dbc8929d0a0c8f5
 
+Package: wpa-supplicant
+Architecture: x86_64
+Installed-Size: 2620
+Maintainer: @termux
+Version: 2.11-1
+Homepage: https://hostap.epitest.fi/wpa_supplicant
+Depends: openssl, readline, libnl
+Description: Utility providing key negotiation for WPA wireless networks
+Filename: ../../../../releases/download/x86_64-w/wpa-supplicant_2.11-1_x86_64.deb
+Size: 972620
+MD5Sum: 95319e886d169b88b25cf3c91ac51ae9
+SHA1: 711ea171b6aa4ef87c46f5fda1f3879814110aea
+SHA256: 9fac51b7f3e1e05b77a8260dc0b76057e926087f0bd5d0ed18bca4e3d5c9ba49
+SHA512: 58185219799f456cb6e2cd8e7b841ff8db802570f8b469fe9c456a1796a6098efa1b9a714c54c75634ce9fea9808f484d038f7480a74e3f90d1c416f9c06187f
+

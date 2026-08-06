@@ -207,3 +207,10 @@ data/data/greater.underscore/files/usr/include/libnetfilter_queue/pktbuff.h     
 data/data/greater.underscore/files/usr/lib/libnetfilter_queue.so                 libnetfilter-queue
 data/data/greater.underscore/files/usr/lib/pkgconfig/libnetfilter_queue.pc       libnetfilter-queue
 data/data/greater.underscore/files/usr/share/doc/libnetfilter-queue/copyright    libnetfilter-queue
+data/data/greater.underscore/files/usr/bin/wpa_cli                               wpa-supplicant
+data/data/greater.underscore/files/usr/bin/wpa_passphrase                        wpa-supplicant
+data/data/greater.underscore/files/usr/bin/wpa_supplicant                        wpa-supplicant
+data/data/greater.underscore/files/usr/share/doc/wpa-supplicant/copyright        wpa-supplicant
+data/data/greater.underscore/files/usr/share/man/man5/wpa_supplicant.conf.5.gz   wpa-supplicant
+data/data/greater.underscore/files/usr/share/man/man8/wpa_cli.8.gz               wpa-supplicant
+data/data/greater.underscore/files/usr/share/man/man8/wpa_supplicant.8.gz        wpa-supplicant
