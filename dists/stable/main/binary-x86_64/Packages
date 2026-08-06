@@ -5579,38 +5579,6 @@ SHA1: dca933a4f3a761d867ee901a9be31cdb2c4fc2b6
 SHA256: a6400a23b45dede5fb35c9cd7875c1ebcec77fd156b2d860545cef9aa152bd4a
 SHA512: 31f7e5a260c3f2fe70ca69eb10e0f74d47f172585932248ba08133715a9782508498c9a6612e708c1079b782eb4fe42c8d1df39aefb0f579b363a8929ddd120f
 
-Package: flex-static
-Architecture: x86_64
-Installed-Size: 36
-Maintainer: @termux
-Version: 2.6.4-5
-Homepage: https://github.com/westes/flex
-Depends: flex (= 2.6.4-5)
-Description: Static libraries for flex
-Filename: ../../../../releases/download/x86_64-f/flex-static_2.6.4-5_x86_64.deb
-Size: 1900
-MD5Sum: 8b68a0631e1ef257358b16040e2d0e43
-SHA1: 088dda2b80e2f68ed8559496f92cda9330f6bbc5
-SHA256: 308f1f1b06744e61aacd32e9da9fa6d2b8ac81049946e22526add26c80462df4
-SHA512: 89e70af9b37c0579c209968388b0a5d3ce44550bfbe7ae3b93b59f89c088da272b6bc507c8103d45e9e5a9c42ac532edf03c521238e5065112b78aaa9bf00233
-
-Package: flex
-Architecture: x86_64
-Installed-Size: 900
-Maintainer: @termux
-Version: 2.6.4-5
-Homepage: https://github.com/westes/flex
-Depends: m4
-Conflicts: flex-dev
-Replaces: flex-dev
-Description: Fast lexical analyser generator
-Filename: ../../../../releases/download/x86_64-f/flex_2.6.4-5_x86_64.deb
-Size: 203192
-MD5Sum: c019208de7012f1557e0344480419d56
-SHA1: 25807f8c911335f3a42c27b86420178f61444adb
-SHA256: b628bdba9e99fe3cb7c1b7e31e3346554f8a215309e55c245fb2f97274288378
-SHA512: 1ebc2b876b51937582bf6993a2aa6e553f3b3f32e99f6bde3ad3070165de96ad7c816be47cf99a0d3f8f3cf2bdf2185ccb31a4b2d0443e2656f6aef9cc463771
-
 Package: flint
 Architecture: x86_64
 Installed-Size: 16024
@@ -10846,36 +10814,6 @@ MD5Sum: e36bb5ea3d4a552426d8dd6646261502
 SHA1: d2122b0789a555364848cd19ea0e9e1f777a438a
 SHA256: d37e0340a55638b0f6d415633860a24fc0a74da7be57fae50965c73e26b4e815
 SHA512: db48b5fc9b992f184eb145f51b13ddc632577840aef86210686c3ca711e5cbecc04e55e89bf710a5f8e043ab7850cca661438a3df34eb4e395463df869f4656b
-
-Package: libandroid-spawn-static
-Architecture: x86_64
-Installed-Size: 40
-Maintainer: @termux
-Version: 0.3
-Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
-Depends: libandroid-spawn (= 0.3)
-Description: Static libraries for libandroid-spawn
-Filename: ../../../../releases/download/x86_64-liba/libandroid-spawn-static_0.3_x86_64.deb
-Size: 3844
-MD5Sum: b86986b40edffbbe1f47872fb0e7adc9
-SHA1: 9686f6906d9fc298629601121448707d715562e1
-SHA256: bf2d7a6c108c7dc21cc79294422f5bcbed31c72422eeba896b36b7ecc852bf9c
-SHA512: 9d52ca1307bdee20c9ca7ca9b6744769ffb89b53b3de9c764a7afa2f8f508ce3b16e441bb2650130a0f83372500b662356f34149627e721ceab73181bdcc6c05
-
-Package: libandroid-spawn
-Architecture: x86_64
-Installed-Size: 96
-Maintainer: @termux
-Version: 0.3
-Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
-Depends: libc++
-Description: Shared library for the posix_spawn system function
-Filename: ../../../../releases/download/x86_64-liba/libandroid-spawn_0.3_x86_64.deb
-Size: 16080
-MD5Sum: a469216be63e1449a3202ae93ca080a4
-SHA1: 586bec328caed13d64be554dba919049abb103ef
-SHA256: 21282a14a1d120e4061f1b8cc1144355b669cfb90dee5ec3bbe3546c425a7270
-SHA512: 7b26870fec96d331f41fa9841afa62b8b5fb0f72a98a6e4754d3c4db1df40c359455fd73e25baa0b5b8a231564b84a6362564c37971add7bcfce1ee8e2608682
 
 Package: libandroid-stub
 Architecture: x86_64
@@ -20262,20 +20200,6 @@ SHA1: 3f4dcaf4303c37e444ece817ee967c94353ff3d1
 SHA256: 6e1ae00b236dac55f131dc0e094567605a38e4714012513d6434b084580f8b82
 SHA512: 125e1172495f03460af006c74b08642ae58e64ddacebea860e801dacbb6052522d303c5a69c696f18c1d9c0fe9e070ba0537eaa28885ca754d2e56a4e9a84a48
 
-Package: m4
-Architecture: x86_64
-Installed-Size: 668
-Maintainer: @termux
-Version: 1.4.19-5
-Homepage: https://www.gnu.org/software/m4/m4.html
-Description: Traditional Unix macro processor
-Filename: ../../../../releases/download/x86_64-m/m4_1.4.19-5_x86_64.deb
-Size: 200244
-MD5Sum: bf6de0ad3045305d50b8898bfb14f00c
-SHA1: 1e847668aa66f39cb3ecf2ece41009946cc51ac4
-SHA256: 876e3bfa3a7fd1db827b4ebb99e4ba934715a340c9e9a57dd8410d6a5308cf9a
-SHA512: 416826075ffb07c039d583f49241f6a0c4495757c3a362cb3b4755533b3857b559173a12c4bdc1769547f7df1dff4eae147b82b1d906f07a79826557218076d0
-
 Package: mailsync
 Architecture: x86_64
 Installed-Size: 256
@@ -25966,20 +25890,6 @@ MD5Sum: fe9bff68746b601670f5d5be6ef22e98
 SHA1: 471242e782d1ba956d90e28866d9060ffe928c65
 SHA256: 42526fc4bb0522dc2cc8706077fe2b3917c2217b062fc0bcb2766bc30746c87b
 SHA512: 9f42f6461d01630f59a22747ae0fc1f698dc360f40028b1ae7786ba7ed3ebe38c3e25d0a3917ea5a86ea85173cc9644ef426f5855656335b8d0a25befc69eb2e
-
-Package: resolv-conf
-Architecture: x86_64
-Installed-Size: 48
-Maintainer: @termux
-Version: 1.3
-Homepage: https://man7.org/linux/man-pages/man5/resolv.conf.5.html
-Description: Resolver configuration file
-Filename: ../../../../releases/download/x86_64-r/resolv-conf_1.3_x86_64.deb
-Size: 1028
-MD5Sum: a8a50c2a79aeadad54c44c5907792f03
-SHA1: 893c88687b1c1563cdb9678ff8db7eda66c52261
-SHA256: c2380570d1c74d544194efa7c424a477d1a71610f9f7c9c36b18084c29f71a3f
-SHA512: 80f4b22dfdbd19e08098ed6dafcf24aba0c1bf79c50a14a03c8a92a5c6a62be7a875113270f12004f512858fc56ddda971b10e5b04e7073343cfafdb36534361
 
 Package: restic
 Architecture: x86_64
@@ -33656,21 +33566,6 @@ SHA1: 5cbb139697cdb258284d7b3bbe0d7fdb39ced2e7
 SHA256: 070efd80df74b59f5897b355dc16ad0a3a4c8998eb4481334aeba464f4dca940
 SHA512: 2f006cef03291da3fdf694474344b0981e4b69dbabf0651a6c5102e22426db7049979bf6f3cf2d2b214c89d30a6ab59c327047f6e99497b9c53ee212a7240870
 
-Package: libc++
-Architecture: x86_64
-Installed-Size: 1348
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
-Size: 359484
-MD5Sum: b64fcba9d8aac2a6021bff7b54adf833
-SHA1: 752299550384693ea23b741948583cfe226828f2
-SHA256: 0dd34938a220755705d0176ab61e713cf568167842db8a75e35ca0ce276ce3dd
-SHA512: 341e31bdfdea15e92e42bd739844ef66a0a0a8a3a1d0d3ba7a53a050e46e438612a7363818d1c14dd05ac999523f2bfb5c1e8af26a8b39d0b76c2698d44808ed
-
 Package: libiconv-static
 Architecture: x86_64
 Installed-Size: 1200
@@ -33868,4 +33763,124 @@ MD5Sum: dbec21ecba850d577b5980397a150229
 SHA1: e1616cc0fa8b71bf4ac38b8f4c5789caabb55cb9
 SHA256: 0428b8833a5a6a1ad81cf4b9bc5fe4a98a3aa863b40ab45bc8790711ed844073
 SHA512: 561e40676dc39c8606bfa2655fc1fc9a54bfa2aa67fd8cd0d9b2650014c1eaec1db6dcbe595133e3bb3ad29967f92d1c3bd42840d52f3956a1874345b12dce15
+
+Package: flex-static
+Architecture: x86_64
+Installed-Size: 36
+Maintainer: @termux
+Version: 2.6.4-5
+Homepage: https://github.com/westes/flex
+Depends: flex (= 2.6.4-5)
+Description: Static libraries for flex
+Filename: ../../../../releases/download/x86_64-f/flex-static_2.6.4-5_x86_64.deb
+Size: 1900
+MD5Sum: 801068bc76176706b98df826fbf91b7f
+SHA1: 015e42d10301982955b76461e6d16a9b1d478fc7
+SHA256: 74bc113e2d5a7e1e2892aa9df1fb8485dec42f5a94ebc31be213cc736c4cdd10
+SHA512: e5967f84fe02dc899152969a8ae10ceaebbd4f32c3726110aa50a195c58688efaee9e188d2b046d6966009c855597b57c3f4fe06870c1b862f7686503307d05c
+
+Package: flex
+Architecture: x86_64
+Installed-Size: 900
+Maintainer: @termux
+Version: 2.6.4-5
+Homepage: https://github.com/westes/flex
+Depends: m4
+Conflicts: flex-dev
+Replaces: flex-dev
+Description: Fast lexical analyser generator
+Filename: ../../../../releases/download/x86_64-f/flex_2.6.4-5_x86_64.deb
+Size: 203268
+MD5Sum: ef77680181f0036750c9615a25ff20fd
+SHA1: 3ebb7db96317298d8aba4c7519ef0da09b073ddd
+SHA256: 52a89983fbd3d2ddecc699a985d442698ff52cab142199db3a5fd1ac7f645570
+SHA512: abdc92f648e85657a8994f7d02e4a09b773fa727ed5d5c29fdeb85c946949dc9b34311a1d4c121728ed8b862a5e5ad832d47473183237b248a0b9bb9ff9805c9
+
+Package: libandroid-spawn-static
+Architecture: x86_64
+Installed-Size: 40
+Maintainer: @termux
+Version: 0.3
+Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
+Depends: libandroid-spawn (= 0.3)
+Description: Static libraries for libandroid-spawn
+Filename: ../../../../releases/download/x86_64-liba/libandroid-spawn-static_0.3_x86_64.deb
+Size: 3852
+MD5Sum: ec771838361f23cd0d1739330b382643
+SHA1: 4c440003587aa5f473677c642f0396f0938b3db1
+SHA256: 18cf28851fbafb3cdd73b2f9686942363585ba8eaaf90e27d34214d22469536d
+SHA512: 61cc53e7230239e4ce327b0c0f17f616600257377aa99e5fffea369c927e1e276c537d2f1bb1cb0a648bae1decebe88426db8545819e9faeab0a3aee68a75080
+
+Package: libandroid-spawn
+Architecture: x86_64
+Installed-Size: 96
+Maintainer: @termux
+Version: 0.3
+Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
+Depends: libc++
+Description: Shared library for the posix_spawn system function
+Filename: ../../../../releases/download/x86_64-liba/libandroid-spawn_0.3_x86_64.deb
+Size: 16076
+MD5Sum: cfd8297e3f2fe5dbbb9b6c2ccd1ff55b
+SHA1: 3ab96a6eba455ee0184ec505197cc1f7cf42ed17
+SHA256: 0b51eb55eda6e67a5c18c5a2bbeb915648993bd5c877df6f10f04b377dd9fde5
+SHA512: ea7a8d6763105d1f8791025c6fe45d82d8dc7ecb759ba77c21a403d721dae59b393fcc72420d3a84c10e378c76e44003c78ee3c369e3257f06529d120e2f11d6
+
+Package: libc++
+Architecture: x86_64
+Installed-Size: 1348
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
+Size: 359484
+MD5Sum: b64fcba9d8aac2a6021bff7b54adf833
+SHA1: 752299550384693ea23b741948583cfe226828f2
+SHA256: 0dd34938a220755705d0176ab61e713cf568167842db8a75e35ca0ce276ce3dd
+SHA512: 341e31bdfdea15e92e42bd739844ef66a0a0a8a3a1d0d3ba7a53a050e46e438612a7363818d1c14dd05ac999523f2bfb5c1e8af26a8b39d0b76c2698d44808ed
+
+Package: m4
+Architecture: x86_64
+Installed-Size: 668
+Maintainer: @termux
+Version: 1.4.19-5
+Homepage: https://www.gnu.org/software/m4/m4.html
+Description: Traditional Unix macro processor
+Filename: ../../../../releases/download/x86_64-m/m4_1.4.19-5_x86_64.deb
+Size: 200316
+MD5Sum: 2fe5bed39cb896cd5877f059824dac65
+SHA1: c3944e0e0b73e53c22fe79b25a6e96766c9e7f7d
+SHA256: 15c046f967c4b43fc97e8be878aaeedcd550783446811daf39efc694c051611c
+SHA512: 64a29e922ecb7ab610e3d9df9736a8273c2a42941874a703d7f2374c584176c789299809bf5075b59efd023367a7726b75c1c75345d5e35ec2d279bd8f431b1c
+
+Package: polipo
+Architecture: x86_64
+Installed-Size: 824
+Maintainer: @termux
+Version: 1.1.1-1
+Homepage: http://www.pps.jussieu.fr/~jch/software/polipo/
+Depends: resolv-conf
+Description: A small and fast caching web proxy
+Filename: ../../../../releases/download/x86_64-p/polipo_1.1.1-1_x86_64.deb
+Size: 149328
+MD5Sum: 40a00462650ba507781356db03f1a99e
+SHA1: e357fcc984eb6e67618f11f5244a4ca828c66153
+SHA256: 7d2576f09d230d3dd79b68dec73f8caa06b90b9cb838f0f56c42cc0fae191f6c
+SHA512: f2b6dffac01028a645985c17ff57e7421bcad476cb326cb8a91e3417c778f16d877f07bc815133dddde5a7228277f59b28201e0dbcc849fa70686707c89500ab
+
+Package: resolv-conf
+Architecture: x86_64
+Installed-Size: 48
+Maintainer: @termux
+Version: 1.3
+Homepage: https://man7.org/linux/man-pages/man5/resolv.conf.5.html
+Description: Resolver configuration file
+Filename: ../../../../releases/download/x86_64-r/resolv-conf_1.3_x86_64.deb
+Size: 1028
+MD5Sum: 4de64cffa617ca8afe858cd90088d9f6
+SHA1: 2347ca9f93d54a8a1b1ed35515b7f914a5a6a769
+SHA256: 1627c7f45da01907a085d44b206edbfcdb79ec5e293cbf088c24fe86f379a039
+SHA512: 8cda10e0f833c4ec9c12821f65157ac6d861a45f3bcbdf1ffce9a15ad1460a43f3cadb6a401358d71172bd31d2ff73967d2a76934842539f18a644280f5b11f6
 

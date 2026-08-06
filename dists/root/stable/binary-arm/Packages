@@ -192,3 +192,18 @@ SHA1: b80d1731d38c474282cf1c0d28e23cf6d49f8634
 SHA256: 85aaa8d274e84d3d8a16315227b034f55a1d1bd15652c99450d3abd733a18b1c
 SHA512: 8343d26ff5be46fce846712bf3a8649d12b9c5d1d94266a5af446334e0b831f8eb64856246c4071c867ebba885e6d00b504a436651e6a39a88e655e4e3b4914a
 
+Package: libccid
+Architecture: arm
+Installed-Size: 200
+Maintainer: @termux
+Version: 1.8.2
+Homepage: https://ccid.apdu.fr/
+Depends: libusb, pcscd
+Description: A generic USB CCID (Chip/Smart Card Interface Devices) driver and ICCD (Integrated Circuit(s) Card Devices).
+Filename: ../../../../releases/download/arm-libc/libccid_1.8.2_arm.deb
+Size: 46596
+MD5Sum: 65ffda39fadd6043aaee0fed24d55876
+SHA1: 5dd2e9fa7fdda73b4f61f321a064a92bc50792ce
+SHA256: 48bba97f6760d9155ee29f0680250349de6e8b9c39d1b9683d0a6b131c6b4029
+SHA512: 61734a87c5fd24f41e8893e02df323b4544e1f0e2ec62c196d4e17cc0963aca2226311da149aa5acf4a4fec7817724d0422adfc1d33ef89c45fdb469ae6e331d
+

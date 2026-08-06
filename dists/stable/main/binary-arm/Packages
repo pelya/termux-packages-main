@@ -32523,3 +32523,18 @@ SHA1: 2e7eb683b6b37b814175a60245676c7a0bd7643c
 SHA256: f651192d7cfb17ed0bb40dbd68551fb474832d54b80e72534987ffa532455f9d
 SHA512: 1c42c7e097f1ca246a08a9a2604f42543756977f0a128251051265eab1c02c7571fb0d97e592ea4a177e396635ac48c9dd3a5f67070e34d6449e8ce648d71da2
 
+Package: polipo
+Architecture: arm
+Installed-Size: 764
+Maintainer: @termux
+Version: 1.1.1-1
+Homepage: http://www.pps.jussieu.fr/~jch/software/polipo/
+Depends: resolv-conf
+Description: A small and fast caching web proxy
+Filename: ../../../../releases/download/arm-p/polipo_1.1.1-1_arm.deb
+Size: 134272
+MD5Sum: eedfcfc13772c0085abdee53a44952c9
+SHA1: 8fecc6b2d2d441a91ebb7e54f66e2d3543321447
+SHA256: 476b59008b995f85d16d545be4e05ed885eb000aa867179522f77600c82f4acb
+SHA512: e38e312ce4088ee42ac09c30232052fc0754e2074aebe1c139cc7f8680695beda6467bff3e6fff292b865c429ddded9b68c505486c0eb89dd0bf89de89ad24fc
+

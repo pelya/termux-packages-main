@@ -192,3 +192,18 @@ SHA1: 6f9a47a229406c20ef75078e921747474e34e1ca
 SHA256: 146c0f383b076a6242155d46b7bc9964bc078205922578b1ee2032b5d209da5b
 SHA512: 4dfb76a8040b040fc6676279b6db918e3d872b6a88711535b7d24f44b3756c87df788e19423f4349826a968f9f5617125ffebcf1155207889ca7874f0f535ddf
 
+Package: libccid
+Architecture: aarch64
+Installed-Size: 228
+Maintainer: @termux
+Version: 1.8.2
+Homepage: https://ccid.apdu.fr/
+Depends: libusb, pcscd
+Description: A generic USB CCID (Chip/Smart Card Interface Devices) driver and ICCD (Integrated Circuit(s) Card Devices).
+Filename: ../../../../releases/download/aarch64-libc/libccid_1.8.2_aarch64.deb
+Size: 49416
+MD5Sum: bd3b459fd00da92da24f501d5be32bad
+SHA1: 46e573ed46d179b407c5ddc24e80111535f49393
+SHA256: 86efa73a5370d340118bcc71a8becc9ecaff1aeba6fa1f784ba2c86e35a3b754
+SHA512: 84812875aa6fc7afa525b0efc5368a8c883712b9100fa2d044eb9cde89379447788d06d5033ad790dd7b1bd65dc2984a7a7d852ac60cfb28288751302fe90e80
+
