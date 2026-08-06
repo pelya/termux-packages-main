@@ -117,3 +117,33 @@ SHA1: aae51a47403f6cfecca458a6cfad761809e32571
 SHA256: 8c834399fb4f69fdd43b0897ed5360f97b476444805d3b5c8593637d2ce4f1e0
 SHA512: 7937862d19ecc00c3c9d02f9d49c460570c5aa3bc5d825152df02a6b6c00acdaa88336a071f3f6f5f9258ae4678b4cf62214d1c4f53291f32a44f3ce2a10e55c
 
+Package: nfs-utils-static
+Architecture: i686
+Installed-Size: 312
+Maintainer: @termux
+Version: 2.9.1
+Homepage: https://linux-nfs.org/
+Depends: nfs-utils (= 2.9.1)
+Description: Static libraries for nfs-utils
+Filename: ../../../../releases/download/i686-n/nfs-utils-static_2.9.1_i686.deb
+Size: 33860
+MD5Sum: 690ccaee9c669fbc6c81605dfcde06d3
+SHA1: d83adb5342861c6acfa92ae564ba7eca34246369
+SHA256: 7fc20bc1aa6f05045ba23a057415881eeb8cb014671aaca0d8108812670f206c
+SHA512: 828ffb5354425e9ed8fea5aac5915906b0b9817755bf1c835686b80cfc64220745e2bc26c70f37aaf64800168de77f69df5a8f6f90b12281b3e16f00bb03af47
+
+Package: nfs-utils
+Architecture: i686
+Installed-Size: 1520
+Maintainer: @termux
+Version: 2.9.1
+Homepage: https://linux-nfs.org/
+Depends: keyutils, libblkid, libcap, libdevmapper, libevent, libmount, libnl, libsqlite, libtirpc, libuuid, openldap
+Description: Linux NFS userland utilities
+Filename: ../../../../releases/download/i686-n/nfs-utils_2.9.1_i686.deb
+Size: 351716
+MD5Sum: 0d33af199524cd94ce921c18a932a7d1
+SHA1: d0a3a094561abc2a390f478e9cb65586571bcb10
+SHA256: d78d2c501a8393ec3e1a8e4b01f691f455ab0d63b74a397482347684f4a59ca6
+SHA512: ed7c368976bff978e64c45d1621300d89d385e86fb601eeab01247cd223ac949b11c0cf69bb65a7bd2a6f245b2e0d8e47c205e84c9cda0a5896896824c06d03f
+

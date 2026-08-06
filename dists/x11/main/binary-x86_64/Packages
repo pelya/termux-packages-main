@@ -11936,3 +11936,18 @@ SHA1: 3ffe8a22975f9072384e959764733de6843ab9df
 SHA256: 49484a82564f8529d4c371b954283f8d4049d0f483819c42f75747d9e4109081
 SHA512: 7ed141ca99d2a884771bb651ad99c1ae83e260718c1eca2484fea180e971aa07b4ebc2f2ae53bc5390812792d3887ee371f93a9a04946c4c0609384dc0b021a0
 
+Package: marble
+Architecture: x86_64
+Installed-Size: 68352
+Maintainer: @termux
+Version: 26.04.3-1
+Homepage: https://invent.kde.org/education/marble
+Depends: abseil-cpp, kf6-kcmutils, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-ki18n, kf6-kparts, kf6-kwidgetsaddons, kf6-kxmlgui, kirigami-addons, libc++, libplasma, phonon-qt6, protobuf, qt6-qt5compat, qt6-qtbase, qt6-qtdeclarative, qt6-qtpositioning, qt6-qtsvg, qt6-qtwebchannel, qt6-qtwebengine, zlib
+Description: Desktop Globe
+Filename: ../../../../releases/download/x86_64-m/marble_26.04.3-1_x86_64.deb
+Size: 41078280
+MD5Sum: be70deb92d4604268986f302d49e706c
+SHA1: a9250accef8b967dc1f56fe47a9340612b2e9e2e
+SHA256: 79698472c65d6af10b42f2cf2a22886db8d35a134ef3da7c69118fc1bea8e6a3
+SHA512: 4ed57bfec83c505fdf6076d9f6a134de7b512d64fdb265b17dddebb84397dee14a097b0f1d6708b614a0bd890854a9e487ceb1751cda6faa12b2210b1ffe0715
+
