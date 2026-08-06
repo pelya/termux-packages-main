@@ -11764,3 +11764,37 @@ SHA1: 020143cabd759ab76f2a275b6e73ba0e842275dd
 SHA256: d463b5acec2b58848273bdcb7f8646c4cf5de41a618c23f15b6e0e0bfc24a1d6
 SHA512: cc9dd6328247a2c07a86c68f18f49961ec7a632c1ed9aadd56afa55d4d89f2d4e95aeeccc1c0130acfe1b05f4bc87b16272be0f6ab0b46a3b4a14755b4fb0ed9
 
+Package: blinken
+Architecture: aarch64
+Installed-Size: 3176
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/education/blinken
+Depends: kf6-kconfig, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-kguiaddons, kf6-ki18n, kf6-kxmlgui, libc++, qt6-qtbase, qt6-qtmultimedia, qt6-qtsvg
+Description: Memory Enhancement Game
+Filename: ../../../../releases/download/aarch64-b/blinken_26.04.3_aarch64.deb
+Size: 2264264
+MD5Sum: a52ff322ab6feb21848eb0057c19ed87
+SHA1: 7ddae6c40708381049a7288116b1c4e023493dd1
+SHA256: 618e78aa902a739025921a098e51bcae49a4330594dd6fc70b35a38b13d98fdb
+SHA512: 01ce170a3e96bb74a6e2407149c5018594a9fd7a63a74dc105802ff4eac406b2f2cd4eaa473c54dfc3819036e1d5abb6b3a311f164864759f32f3c7a45c4d714
+
+Package: termux-x11-nightly
+Architecture: all
+Installed-Size: 108
+Maintainer: Twaik Yont @twaik
+Version: 1.03.01-5
+Homepage: https://github.com/termux/termux-x11
+Breaks: termux-x11
+Depends: xkeyboard-config
+Replaces: termux-x11
+Provides: termux-x11
+Suggests: xfce4
+Description: Termux X11 add-on.
+Filename: ../../../../releases/download/aarch64-t/termux-x11-nightly_1.03.01-5_all.deb
+Size: 5668
+MD5Sum: dbcce8c047550c833c2ab86bdba0387f
+SHA1: f78bc42b21068dd6072df11993aac6f38d4041a9
+SHA256: ddb64f12ddf26fe681bacfd667a66605b6d0e189ed5805fc71dbbd45bd47d248
+SHA512: 5fb410c17d78ab0ddb8f22fedc99aef638ea173644c2ba29590e9ac94f29b30098a0f9ad3538a44b8d38e2a957e3b0873aa05772a1ca325966c507d60c5d4ef2
+

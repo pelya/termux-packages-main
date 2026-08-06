@@ -11578,21 +11578,6 @@ SHA1: 6d6ac6c023a14287590b69949d145416880de6b0
 SHA256: 54af97fe1e3c25befbecf0c057b0e7a126c9c849188843690609c3dcf6da136b
 SHA512: d475aeecc18241c860e6aab1557786a4469bd7d5b2b22685277472c6337192a56df0bd5a8f1e8e31812c6ef33a619f4368e51133540d988eedc0d818bcc68a3e
 
-Package: libc++
-Architecture: x86_64
-Installed-Size: 1348
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/x86_64-libc/libc.._29_x86_64.deb
-Size: 359380
-MD5Sum: ea9b95e40a5569083d82d19719d842f3
-SHA1: 7e2ae38f1ead0d3ff67ff8b5e934dfbcaf57dba2
-SHA256: 7816dbccf3108408b2ca2a4670eec2654d032a5348fa7af94d608984e022bad0
-SHA512: 1f2131026998ab1a0fccadabca817b3e21069233b445f9982b7fa5f08f7d5279addf120f440ed7ca426259ed47a0e3b3e5ab63e771f3f55c4c016e2ba6c27c72
-
 Package: libc++utilities
 Architecture: x86_64
 Installed-Size: 984
@@ -15726,38 +15711,6 @@ SHA1: 51b1aba0de515916b131ae29c8ee2df74c1b9d8c
 SHA256: 704a0bd7a23bd3750dde7083c216235ddcb060f41e8f9e011cd04cda7138be45
 SHA512: b571ee1e73084ed387dfa4e77eec6e7670bb8edc90031910c3bea670defd0ccc2312d927f0029d71de121d604e79e937d718d8a12cf2e8d3d494b971a1ccf3a5
 
-Package: libnettle-static
-Architecture: x86_64
-Installed-Size: 3548
-Maintainer: @termux
-Version: 4.0+really3.10.2
-Homepage: https://www.lysator.liu.se/~nisse/nettle/
-Depends: libnettle (= 4.0+really3.10.2)
-Description: Static libraries for libnettle
-Filename: ../../../../releases/download/x86_64-libn/libnettle-static_4.0.really3.10.2_x86_64.deb
-Size: 634556
-MD5Sum: c050826d091aa145f04e62dc2e3a02f7
-SHA1: ff8f0165a5f648552ca7eb84e2bb571d3e8d510c
-SHA256: dfa0b4449d910dbb62b398acb4626ca9d93d2f4962bf225b7d6f52de66250c3e
-SHA512: b23c63c961804c37fe184c054bf7dce735ef9b6628de713b6512ca1657c090a05db73bd4b8880c82738d5d20f50bae93a2c3ebf4d47b0f19cac915b60f17b248
-
-Package: libnettle
-Architecture: x86_64
-Installed-Size: 1416
-Maintainer: @termux
-Version: 4.0+really3.10.2
-Homepage: https://www.lysator.liu.se/~nisse/nettle/
-Breaks: libnettle-dev
-Depends: libgmp
-Replaces: libnettle-dev
-Description: Cryptographic library that is designed to fit easily in more or less any context
-Filename: ../../../../releases/download/x86_64-libn/libnettle_4.0.really3.10.2_x86_64.deb
-Size: 400964
-MD5Sum: 14b778e84808d7593bd0550a3d86ed2d
-SHA1: 76877ec73ad004a9d53709dba319be18b8ee3a10
-SHA256: add488f8cd4b378757ec0bdb3b8ccceb04a3570bd6af24b56dfd9c8f00e2b2d5
-SHA512: 037903d5033d346382b2e7ce850fbcf3117cc0f20efabeced65cc6618825ac2c51169b4c2532ddc308866b318f335613e2548ef2db927e61c1765d01362a37d0
-
 Package: libnewt-static
 Architecture: x86_64
 Installed-Size: 148
@@ -19375,38 +19328,6 @@ SHA1: 43699d5a6cd62b322d391ed4f3826fd56016f1c8
 SHA256: 66461711d3447a5bc98e53c88ecfd90bc6ab70731ad8ba364b896e9654f1329c
 SHA512: 06bd8ee30eaa1206f9cceab1ca534005b341bd3a0f8c518410b2a2c41c6365ded6c0a849c88f395e89cea449325f15e8bad14d18311d23ec052b83a4c2b03f5e
 
-Package: libvpx-static
-Architecture: x86_64
-Installed-Size: 4240
-Maintainer: @termux
-Version: 1:1.16.0
-Homepage: https://www.webmproject.org
-Depends: libvpx (= 1:1.16.0)
-Description: Static libraries for libvpx
-Filename: ../../../../releases/download/x86_64-libv/libvpx-static_1.1.16.0_x86_64.deb
-Size: 971420
-MD5Sum: e4a70cb698d0fc7b19700ff6be1e9842
-SHA1: 4c39b8e7782493203bcf95cbef7bd3ea9fe2051d
-SHA256: 9ef57761e231fde0cdec656c83e37570f4b22fe02a2449228c522d31ef34c6f0
-SHA512: 08423236d6a776baf8f9715d49b2e8e9b44d74edfa98b68d3a72ebd30cf5c14bbf4a897a551b5cdc261577ea556dbc5263d550db39455200075da6ecaf813d51
-
-Package: libvpx
-Architecture: x86_64
-Installed-Size: 3108
-Maintainer: @termux
-Version: 1:1.16.0
-Homepage: https://www.webmproject.org
-Breaks: libvpx-dev
-Depends: libc++
-Replaces: libvpx-dev
-Description: VP8 & VP9 Codec SDK
-Filename: ../../../../releases/download/x86_64-libv/libvpx_1.1.16.0_x86_64.deb
-Size: 888352
-MD5Sum: a5152ca6d703f2eee49767e1b3af135c
-SHA1: aee2eb8f25685a05c3016c46a1e345b2c5f98424
-SHA256: 0b307f917f61119b06b5b81d00609c221ed5ed5d97a907675b0e3d7316b0921a
-SHA512: ea751628f1e2b04b427b4d52aafba82fa3508572cb0c50426541d18412a0e209330a2be9ab10ef161e1007e16bf14782263558f5a8627b46dd9a59765d539479
-
 Package: libvterm
 Architecture: x86_64
 Installed-Size: 168
@@ -19666,37 +19587,6 @@ MD5Sum: 48d875e18f159075158ee3e4419dd7a9
 SHA1: cdacdbbc560614211bcf158329e8a4e5faf81ce6
 SHA256: b917bd5896b0a6908878ced88be26852b802431ffa0f6f771953dbe0291a97dc
 SHA512: 7c153e11668108d24c93287441f0a03552ed809e274ce6d9546aff26bb765aa5aac0b7b9fde21aafafece9a154a762de1869308e27f7deb512083d802a273d45
-
-Package: libx264-static
-Architecture: x86_64
-Installed-Size: 1704
-Maintainer: @termux
-Version: 1:0.164.3191-1
-Homepage: https://www.videolan.org/developers/x264.html
-Depends: libx264 (= 1:0.164.3191-1)
-Description: Static libraries for libx264
-Filename: ../../../../releases/download/x86_64-libx/libx264-static_1.0.164.3191-1_x86_64.deb
-Size: 395756
-MD5Sum: fd1517b127e4ce388641a3d724ea42a6
-SHA1: 84d5dd1208b39cfe27bd89da1d084fc70b830827
-SHA256: c08b8581c36f9e229d1d5fa0ddaac91996a3ba8ae112e2dcf90a0d69110f42b3
-SHA512: 78381d1bc24f338565a619c8e8336b78f7b567b50aa4b513e9b24685c794453416d68aefe07486c499d00d3673b4a381625201f768b459e03a27f4c6cd6d0ffa
-
-Package: libx264
-Architecture: x86_64
-Installed-Size: 1280
-Maintainer: @termux
-Version: 1:0.164.3191-1
-Homepage: https://www.videolan.org/developers/x264.html
-Breaks: libx264-dev
-Replaces: libx264-dev
-Description: Library for encoding video streams into the H.264/MPEG-4 AVC format
-Filename: ../../../../releases/download/x86_64-libx/libx264_1.0.164.3191-1_x86_64.deb
-Size: 379604
-MD5Sum: 3362cec9d69d550c4fc70444d8e694b1
-SHA1: 3ca915a7c9e5b3990bb61f39309e9acf88d5efbc
-SHA256: aed0dc6ace888ea41d3e5c211a2120e9f3b9352e7d353036cf208f3a4c29dc23
-SHA512: 73116c99a0427081589ccfd76b4df288a432246b9c6b1fdf2f60e4eb8090bc36e1117e28daf755232951b325a8cb5541c05531d10f74a6c0fb71bde87d88bec5
 
 Package: libx265-static
 Architecture: x86_64
@@ -22044,84 +21934,6 @@ SHA1: 2282b92d5e45865318890c13bbfe3106aafa6142
 SHA256: 759eac44723333ec1738d6096e37c232ecdcebce5da977063fe206099018d848
 SHA512: caea6f49fd180f4299ff43887dcb3566efe68d8025ae95cc1bcdbacbcfa6ef4396f91c7fa69633f5f65c9249b7f5a5261db2f75338808ea49d85e8af4767ce67
 
-Package: ncurses-static
-Architecture: x86_64
-Installed-Size: 752
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307.really6.5.20250830_x86_64.deb
-Size: 156580
-MD5Sum: 2295304c538a2787d856de6d9a0e1c5f
-SHA1: 8a666b030eee7326c5f6943cdfba2a0c10cfc6d6
-SHA256: ed60548785193d59215e1e3c0df1c1f93772eeaa18dba55fc2c184165c33a1c1
-SHA512: a07aa78379d370d703ef64eba54a055080ea0862465240df154971774d4655a46f62928c3620cb2affbfb5cac773913dd6aeba4ae81a2fff9f9cade7aa0d5760
-
-Package: ncurses-ui-libs-static
-Architecture: x86_64
-Installed-Size: 240
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307.really6.5.20250830_x86_64.deb
-Size: 39156
-MD5Sum: 20eb28a594ac6a5b7a107d8b3b0eec4a
-SHA1: 2344858642af798bfcb65741e5acca6f7238d4a3
-SHA256: b05b803208e3161a24128c7fb1d5fa4a4c2366220d3bb65eff3e7050a915107b
-SHA512: fb794d357935c81e80e54656a8315efd87445bc61cbd93c73d04ff6989730c29af661b799890bd44c08a7366de3e5c94c8a30f15e4f434748455e56134c681b9
-
-Package: ncurses-ui-libs
-Architecture: x86_64
-Installed-Size: 144
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Breaks: ncurses (<< 6.4)
-Replaces: ncurses (<< 6.4)
-Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307.really6.5.20250830_x86_64.deb
-Size: 35432
-MD5Sum: 1772d801f80a3640b10d030f651d0a4b
-SHA1: d2139c93a5d032bbaca015a36e53bef0d0ee6cff
-SHA256: ff52c1aaac8ced89f1b9814100915a781cc4c6f3d905ef981cf9593c5c4fc9c4
-SHA512: d991980fea082475be433f03ad97183f8b16f06a48f120c615e6bc45a2781cdbd3dfbaf73cf7546cb479f469712e7684948321c8767fc150288a4be9038d2c26
-
-Package: ncurses-utils
-Architecture: x86_64
-Installed-Size: 272
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Tools for working with terminals
-Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307.really6.5.20250830_x86_64.deb
-Size: 92596
-MD5Sum: 8ed3b3aa9d8a35fadd5a30a1d1998a47
-SHA1: 722a867b248edcb29d2457b8b446f6fafde65e73
-SHA256: 896fc3ecade0446d94b5fea13a41bcd3e955d438e3016872dfa51228e3539d87
-SHA512: 44cd0bd380be48b1e82d410436723d3a2653e8bf5b3e66f0dae0d10ff91cfacbe3a6ad6020db996ce60d4e1ee2646bcfb8ab262fdce055bcf2a0b8126c1dff4a
-
-Package: ncurses
-Architecture: x86_64
-Installed-Size: 1604
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307.really6.5.20250830_x86_64.deb
-Size: 569804
-MD5Sum: 65fb7981f75bda2208c41299eb015f0c
-SHA1: 97777f9341c4e03b36fac56a39d592d074da0cd5
-SHA256: a2ad50b5966328938725ca54848ae3c4ab13f32f21a5807e92feb839cde54621
-SHA512: 0e9036139dfb2a1ca1551b9232596eb00486ca7bf0a6634ac4ab62b5fbf9f108e8679b1d2fb9657cfb2c60a49910f93bfcf29fa9ba4f49eddd3ff34068498b62
-
 Package: ndk-sysroot
 Architecture: x86_64
 Installed-Size: 31260
@@ -22321,21 +22133,6 @@ MD5Sum: fa55449a0349df33a2aa65ffb6110ea1
 SHA1: 4721b2dc67895c05d4f50d76754eee1645371ded
 SHA256: 5bf68696bc2640ec48834c5c49ff517d300c09ba6273acf7a182eb8a7f243be1
 SHA512: 40c863f9deb70dcddd307c427d10855e299787ed430e992fc661b91ff8ae9bb47a2d850386322a4c8468c47bfc88dac325f50d46eb8b7ce582221922b302e48e
-
-Package: nettle
-Architecture: x86_64
-Installed-Size: 112
-Maintainer: @termux
-Version: 4.0+really3.10.2
-Homepage: https://www.lysator.liu.se/~nisse/nettle/
-Depends: libnettle (= 4.0+really3.10.2)
-Description: Low level cryptographic tools
-Filename: ../../../../releases/download/x86_64-n/nettle_4.0.really3.10.2_x86_64.deb
-Size: 19044
-MD5Sum: 752314afc79f361e3e97cb9e890d535e
-SHA1: 4d18bbd9d199bfa53114cac7b7ce2a32d4710f6d
-SHA256: bdf0ec2bdb8e9e6a206238c5926e345eca2f78c702901b65d4b2bfe01bdc1695
-SHA512: f8bb6bc61eccdbcd1eee943d0e2e4e4daea0f0490f0a4b08a67bddd812a6651cc4dd3c3698330413d9169f0d48086b50f39564b8a16c817f6a2896bf57669d40
 
 Package: newsraft
 Architecture: x86_64
@@ -29130,26 +28927,6 @@ SHA1: 5db6a6cf8df150d44c6b07103feb53db5728a898
 SHA256: d2d7c71fedeb88fb29b46b36b36f45e8e689bc6fa893d3e83a65a8924d88cf62
 SHA512: 6fe538831e92dca27f429a917cd07b931e1b5871c9213570bc0e8d7019ffa01fa5000f7b0cdae437581d583252e5fe1afe3a0580ab9ed0be85ea3fd96dddff19
 
-Package: termux-tools
-Architecture: x86_64
-Installed-Size: 552
-Maintainer: @termux
-Version: 1.46.0+really1.45.0-1
-Homepage: https://termux.dev/
-Breaks: termux-keyring (<< 1.9)
-Depends: bzip2, coreutils, curl, dash, diffutils, findutils, gawk, grep, gzip, less, procps, psmisc, sed, tar, termux-am (>= 0.8.0), termux-am-socket (>= 1.5.0), termux-core, termux-exec, util-linux, xz-utils, dialog
-Essential: yes
-Conflicts: procps (<< 3.3.15-2)
-Recommends: ed, dos2unix, inetutils, net-tools, patch, unzip
-Suggests: termux-api
-Description: Basic system tools for Termux
-Filename: ../../../../releases/download/x86_64-t/termux-tools_1.46.0.really1.45.0-1_x86_64.deb
-Size: 33556
-MD5Sum: d7f28fcba0ca863f71b106a25adf13e4
-SHA1: 16af78d60df5399cf74d6e7d38d4e7aa41825627
-SHA256: 39c51e94eb9cbe1e7da6c9a58daa35ddfce75e35d40ecc365b881aeac8018bb2
-SHA512: 5039d9bd9e8008e9fa85a98d7277487bb45a8ab993549db5cf3de82e91d604df3eebcfc7233eba7fd2675f99c5f73d6c8cc9476252796c39a7ad7e7924aeff1d
-
 Package: tesseract
 Architecture: x86_64
 Installed-Size: 28592
@@ -31711,21 +31488,6 @@ SHA1: 59f2521ad8a0d3ec88392878013a34e5515d7dd0
 SHA256: eeca68788accd2adbb4e6af0406e9260bbcaff2e2dcb9eb6116ede21505c348f
 SHA512: 68b3dd8b9f60c51338eb036529ddeeaf9f77676974dfbc13371109d826ee2383c037b2e72e2b440b92d77e4d27b0913651ddb9fd4708d9f84d6129afabc6cca2
 
-Package: x264
-Architecture: x86_64
-Installed-Size: 1344
-Maintainer: @termux
-Version: 1:0.164.3191-1
-Homepage: https://www.videolan.org/developers/x264.html
-Depends: libx264 (= 1:0.164.3191-1)
-Description: Commandline video encoder for the H.264/MPEG-4 AVC format
-Filename: ../../../../releases/download/x86_64-x/x264_1.0.164.3191-1_x86_64.deb
-Size: 405776
-MD5Sum: ae7f1fc16ca718c7432e5e5dfc4e63ed
-SHA1: c9dd481dd83d4fb47096b97a5759dea985405321
-SHA256: a7de6d9abd1fbc78d94c5c26b479a9f8942754281a2bc8a46bbc85766d96bed5
-SHA512: 058f64c546239259ad224fb5465bd8104c64e77f6ff7b520984f7dfe2bfed9e56892f0e0f0a3ab4e6f5a59c8687b4b95cd9ab73d4ee7ac102bc405024904cabb
-
 Package: x265
 Architecture: x86_64
 Installed-Size: 180
@@ -32858,4 +32620,242 @@ MD5Sum: d3fedf5651aa23104610bf6dc9364017
 SHA1: 2c7f558d4ff8ede339837e8e415c3bc9ebced38c
 SHA256: 76381f1d6290ca2e1d886aeae09523eeccee1a671b2a336da14c0aef9374684f
 SHA512: a0b7813be279ee522beb6d19874abd6e4ff8a7596eb7eac242874fc50b3bb74d3ea25d4b7abc67576c78d095db36d76dc03f647d9ea6f6c8dde4349e0bb39c9e
+
+Package: libc++
+Architecture: x86_64
+Installed-Size: 1348
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/x86_64-libc/libc.._29_x86_64.deb
+Size: 359688
+MD5Sum: 318aefea6a6a5f51a90b40346e6cda0d
+SHA1: d65d396e693e5c8a824e21d30a474d0113601869
+SHA256: fa14224a116f13d7e6a2817cb32d19b4ebac7b7207cf90890f8da08672808d7a
+SHA512: 1a4e59460f2b0b941502653520b2ab24c25010d1b76a93a76eccc87f4f517224e9628ebaf4aa81d85495769116ed0ea9792aa0bcf23e99b143a953ceec0ed7eb
+
+Package: libnettle-static
+Architecture: x86_64
+Installed-Size: 3548
+Maintainer: @termux
+Version: 4.0+really3.10.2
+Homepage: https://www.lysator.liu.se/~nisse/nettle/
+Depends: libnettle (= 4.0+really3.10.2)
+Description: Static libraries for libnettle
+Filename: ../../../../releases/download/x86_64-libn/libnettle-static_4.0.really3.10.2_x86_64.deb
+Size: 634632
+MD5Sum: d37acdca94b61e09f7d9cf4814510fca
+SHA1: f6d70b7e68a21e0df3228c291651ac0f0641e58e
+SHA256: 2ec4f7f1d22a40bc76c7bf09f5ac53e551cb2a7868c5f872f38e3f1552ec9a3e
+SHA512: ac08349a0225adbe8987d0a3c9fcb031eb447fd57f9d56172177893f63ee2176b5ce0a7ac0ef6ea3fc63ca9ec58069bde5661c288739c8d5ed825504408e5d2a
+
+Package: libnettle
+Architecture: x86_64
+Installed-Size: 1416
+Maintainer: @termux
+Version: 4.0+really3.10.2
+Homepage: https://www.lysator.liu.se/~nisse/nettle/
+Breaks: libnettle-dev
+Depends: libgmp
+Replaces: libnettle-dev
+Description: Cryptographic library that is designed to fit easily in more or less any context
+Filename: ../../../../releases/download/x86_64-libn/libnettle_4.0.really3.10.2_x86_64.deb
+Size: 400932
+MD5Sum: 6512172ae71bc0b80c0095de2b954e99
+SHA1: a388a3ada7a405d4ec18a7464ab9d1449293be83
+SHA256: 117a616360e19cdd0de37b519d893c3987f19c0198d79919ee5b327d113ade5c
+SHA512: 44c061a20dd8568705d277f6bebbbb9d5c39a139b76865250ffd5a17b278e0d2bf35cf3423296ce8afb9dbf6f3849288bde23e011900e2e31874f914223c04b6
+
+Package: libvpx-static
+Architecture: x86_64
+Installed-Size: 4240
+Maintainer: @termux
+Version: 1:1.16.0
+Homepage: https://www.webmproject.org
+Depends: libvpx (= 1:1.16.0)
+Description: Static libraries for libvpx
+Filename: ../../../../releases/download/x86_64-libv/libvpx-static_1.1.16.0_x86_64.deb
+Size: 971256
+MD5Sum: b738b0b3f3405cd1b8485f45d4c23ac5
+SHA1: db65b9b99f3144b70393501838701c4b9e1aaacf
+SHA256: 7e05362da8dde93b06f2b85aebfbce6a715ce0b5aa95ad857bbb6037a956ee30
+SHA512: 787cb217fe39bf24dec2ea0203b04134ad0b816f8f09964c4b2f2c240b2eb0806bd30071ae6c25436e92ae27d2fd4b372fbf170e23543b37c8582f21e3266bf9
+
+Package: libvpx
+Architecture: x86_64
+Installed-Size: 3116
+Maintainer: @termux
+Version: 1:1.16.0
+Homepage: https://www.webmproject.org
+Breaks: libvpx-dev
+Depends: libc++
+Replaces: libvpx-dev
+Description: VP8 & VP9 Codec SDK
+Filename: ../../../../releases/download/x86_64-libv/libvpx_1.1.16.0_x86_64.deb
+Size: 888508
+MD5Sum: 76c4a2c00ea7ae81c422ea2efa46b647
+SHA1: 633bb446ee2456a32aa100ed6e4adade5c7bd525
+SHA256: c7225750f982361071b534e61a5ff33a12fe18bb6c9a9231698044138ae05883
+SHA512: 9900f5cfc54bd0fe89ffcab494461524b74600b2cb6ce45b5e1ac11de99dbe109992a6e08321a762d28bf38b388395fd39535e88c8baae7e8725636e5d46e7e5
+
+Package: libx264-static
+Architecture: x86_64
+Installed-Size: 1704
+Maintainer: @termux
+Version: 1:0.164.3191-1
+Homepage: https://www.videolan.org/developers/x264.html
+Depends: libx264 (= 1:0.164.3191-1)
+Description: Static libraries for libx264
+Filename: ../../../../releases/download/x86_64-libx/libx264-static_1.0.164.3191-1_x86_64.deb
+Size: 395516
+MD5Sum: 3b591f34c3f481da84283cbebaa614dc
+SHA1: 8b975ee19c3e6fd17361331b08d9a33cf4cac81f
+SHA256: 2362325a92524de2cc93f0286f17ea802572b1da3890f4869d2710024258ad8b
+SHA512: 0a2889f4569208354ed2dc2dcc70796e2faf7274339c993b5081cda4c251a0795ecd07b61d5277dfcd2dd6f20adf79cc19a1eba0bae3fc1e0c383d531bebcdcd
+
+Package: libx264
+Architecture: x86_64
+Installed-Size: 1288
+Maintainer: @termux
+Version: 1:0.164.3191-1
+Homepage: https://www.videolan.org/developers/x264.html
+Breaks: libx264-dev
+Replaces: libx264-dev
+Description: Library for encoding video streams into the H.264/MPEG-4 AVC format
+Filename: ../../../../releases/download/x86_64-libx/libx264_1.0.164.3191-1_x86_64.deb
+Size: 379640
+MD5Sum: 412d99cc93ab80e5fb64aa2255e790fc
+SHA1: 5320f35df24b08f26e26d5db02f443eaafa3947e
+SHA256: cc398a778263dd6b6eac2910472c7909acb649a2de5f64fdc844164bd97ba6da
+SHA512: 1cbda63e6cd18e08525163d8e9aeec387967bd22cd6e850a366d691ea3657536c5362b0173107b37ed74d0d0955d2381e1ea7616d76c0abdf96335ad4e9523fb
+
+Package: ncurses-static
+Architecture: x86_64
+Installed-Size: 752
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307.really6.5.20250830_x86_64.deb
+Size: 156752
+MD5Sum: 4fa418941c781b6db7a982ed56e800b4
+SHA1: 35d6bd1eadee708b5ea83ce6b2563725c174c6e9
+SHA256: 0087d24518b88e1fcc1f346502361e90e7fe15b1f262c895a39df6403ae9259c
+SHA512: 1725541dcbeaed775d1c2282f991fa63ac704a16e42516c479b8021217399b1659f7c10f2728e5f140356d699a47995c027cc0b748a9e741eb68e6189c949766
+
+Package: ncurses-ui-libs-static
+Architecture: x86_64
+Installed-Size: 240
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307.really6.5.20250830_x86_64.deb
+Size: 39112
+MD5Sum: b6f0609f0d5fa192e58146304d88b010
+SHA1: ab8f4a222c8a3bfd6d8b648ca5e8c6accb4fe000
+SHA256: d8fe8e5260a819da877f939f256f59673a21fd87a884550ddfb2043d812e5d33
+SHA512: c6feedfb1a02a59b9529b9b91f1e8ec0d890a6c93212e71867171dbcdcca6972e361ce8e155dc3230fa69accc9b57b58eeca371a9d6711654d517cb25ebe8068
+
+Package: ncurses-ui-libs
+Architecture: x86_64
+Installed-Size: 144
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Breaks: ncurses (<< 6.4)
+Replaces: ncurses (<< 6.4)
+Description: Libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307.really6.5.20250830_x86_64.deb
+Size: 35420
+MD5Sum: e20c27720f3a5a7ba8556a7a7aa9453a
+SHA1: 0fd8bf9242055eee9ae9a5411a9f6b3e13b0ae6f
+SHA256: 0eb03cfa300ffbef4b3ca12427b679f08121a31368716e644d45189ddc7eb28a
+SHA512: 3493ff5e9ecf6816b2c5a2aa0ea32243f49837a7632aec5fcc2e63ed7233097c96c2d0e7aa6bee3e615f7257cc0a012c1c3248d41b9056251875382cf836dfed
+
+Package: ncurses-utils
+Architecture: x86_64
+Installed-Size: 272
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Tools for working with terminals
+Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307.really6.5.20250830_x86_64.deb
+Size: 92648
+MD5Sum: 378bf8036ffed66ab8680e1131cdbc4f
+SHA1: d8f5b7660ccae4959dfffebda17ff93e179e84b4
+SHA256: d1ce7c3f5040fe3e45662c29df653c73d6075710d4d01df42a01686cdbfeddf5
+SHA512: 55e5791c8f2461a0f3bd65ac33bd8ce0fe6d0e4d2b2269707066dced373c2a5b0aecfa92208c40631c8b24894b5c39dc63d6fb4e258b8422743b4f50368763dd
+
+Package: ncurses
+Architecture: x86_64
+Installed-Size: 1604
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Description: Library for text-based user interfaces in a terminal-independent manner
+Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307.really6.5.20250830_x86_64.deb
+Size: 570140
+MD5Sum: b3167e7fb7483e1b72d6c93c6bc534b7
+SHA1: d86a48074ee4d1e763d731d506f563322e19b2d9
+SHA256: cc87da82091d3b2268a5b8fcc8727c9b12e3cff20f9c076177da91da3f317afa
+SHA512: c1eb348a4bf7206bea24fd6b0af9004ae430962231d679117118a7e5bf0319c67651ce3f300bf1a24302f70640aa5caa092d196a59f126cee0a5f45bff566537
+
+Package: nettle
+Architecture: x86_64
+Installed-Size: 112
+Maintainer: @termux
+Version: 4.0+really3.10.2
+Homepage: https://www.lysator.liu.se/~nisse/nettle/
+Depends: libnettle (= 4.0+really3.10.2)
+Description: Low level cryptographic tools
+Filename: ../../../../releases/download/x86_64-n/nettle_4.0.really3.10.2_x86_64.deb
+Size: 19048
+MD5Sum: 65218b76c5ea3398668fa278d262c14c
+SHA1: 747ade5b8e18eb0e8e40721a6b6b7b431eedd056
+SHA256: 3282358edc49f5aa8da97bcc011c17de018c42c30a6e06a844d2281c9f9e06c1
+SHA512: 7488cd1401c1af29fca03798a50c6499ddefbd062e3b394617054b5aa2cb3c8e88a8f7bcd3b38aa8a16814b2c04312e0de1651cbe9e6a1a2becc765931b8ab91
+
+Package: termux-tools
+Architecture: x86_64
+Installed-Size: 552
+Maintainer: @termux
+Version: 1.46.0+really1.45.0-1
+Homepage: https://termux.dev/
+Breaks: termux-keyring (<< 1.9)
+Depends: bzip2, coreutils, curl, dash, diffutils, findutils, gawk, grep, gzip, less, procps, psmisc, sed, tar, termux-am (>= 0.8.0), termux-am-socket (>= 1.5.0), termux-core, termux-exec, util-linux, xz-utils, dialog
+Essential: yes
+Conflicts: procps (<< 3.3.15-2)
+Recommends: ed, dos2unix, inetutils, net-tools, patch, unzip
+Suggests: termux-api
+Description: Basic system tools for Termux
+Filename: ../../../../releases/download/x86_64-t/termux-tools_1.46.0.really1.45.0-1_x86_64.deb
+Size: 33560
+MD5Sum: c75e1bf22be9bf74c002f15d338ae2c8
+SHA1: bd4a4d9a5398d591f7ab68b1ff62a7d66e06aea6
+SHA256: df7a4d2afd55c16d5fcc45c814499f6f6421524e9489dd789e708ba726450752
+SHA512: bde090fd6688de0f4062f2533f6c7f2eb861d8b7483560566c1bf2e395795d15d55d195d6f8b4c934ec7ec0873776e807a87b600dca6685fcb4d008bb2053c24
+
+Package: x264
+Architecture: x86_64
+Installed-Size: 1344
+Maintainer: @termux
+Version: 1:0.164.3191-1
+Homepage: https://www.videolan.org/developers/x264.html
+Depends: libx264 (= 1:0.164.3191-1)
+Description: Commandline video encoder for the H.264/MPEG-4 AVC format
+Filename: ../../../../releases/download/x86_64-x/x264_1.0.164.3191-1_x86_64.deb
+Size: 405728
+MD5Sum: ec624c25f147df9e787a040f3b69d356
+SHA1: 5eefae3d4ef034365a060df791993d45b7608dc1
+SHA256: bbfe83181a83fda650a56d25b09e34218759ff7fd58d4ad65b13ee598d7fa00b
+SHA512: c8f0ad237d020e4363b9c761807de9fddb43114c22aabb213a4cedffdafbcb94cd981fb05c54f539008fe8cf6fec71df24f53eb8655c2ca67facce09a9cc5c3c
 

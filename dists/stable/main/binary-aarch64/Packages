@@ -11594,21 +11594,6 @@ SHA1: 0567502bdf901f5cd95b5b25325d6455adde59ab
 SHA256: afa306d9acd08bea231ac56afd34e65ef17da53248ee7c5178367a1c36c1543e
 SHA512: 50dac1441a99d38bfdc8a6fec541cc7c8181416f73b507b57f99363f90594860fd81d476382e203e0c287eb8d504b539050a7b52aaad4a353ac3fc20c5b0ad6b
 
-Package: libc++
-Architecture: aarch64
-Installed-Size: 1384
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/aarch64-libc/libc.._29_aarch64.deb
-Size: 335092
-MD5Sum: 6fabfa98099a704704eef5604716ff3a
-SHA1: e81a67fb183db6367f1ba24c8cd347bf0667357d
-SHA256: 4a8c478fc26ab2befff10a6bdad88a7ba2e0ffda2928a6baaf55ad65ed2bf2ac
-SHA512: 5903c15efa6f1fe35451f3db88d5b83422b95c9233ef4a04ada516559976893ccea7bed23e3622858ea1225f669cf650a619772fae5de7611fe750c678c37b82
-
 Package: libc++utilities
 Architecture: aarch64
 Installed-Size: 980
@@ -15742,38 +15727,6 @@ SHA1: 1cbc82b3820df6a7468e1138e7db38839c3fd0eb
 SHA256: 1e780b730f19d5103518d91d3aca192430519c89f8213359ea275ac146aa600a
 SHA512: c78395632e4b11b33d1c2d897fc2211f33204c76beaad82ae1183f47990da2299fee6b4a2634e73a5fd5e328ab834a1fa4d1a4642b565886d15a32fea61aa16b
 
-Package: libnettle-static
-Architecture: aarch64
-Installed-Size: 3832
-Maintainer: @termux
-Version: 4.0+really3.10.2
-Homepage: https://www.lysator.liu.se/~nisse/nettle/
-Depends: libnettle (= 4.0+really3.10.2)
-Description: Static libraries for libnettle
-Filename: ../../../../releases/download/aarch64-libn/libnettle-static_4.0.really3.10.2_aarch64.deb
-Size: 683436
-MD5Sum: e4883896c3da2213530c29ff214c11a0
-SHA1: 6f483f7f88e38d194d05210a87d29955daf66ec9
-SHA256: ad10d6841c79b9680751354e5cf9c0ccf43566a11e9a94d20753beb65a5ebe7d
-SHA512: 7ffbff060fc2a9dd55e94f18bb22afc9ececefaac035319d94bb4359fe5d283ba1f2fbc9f6a9297f08075e0167a5141c126f97311141fec2dfa9813741032fec
-
-Package: libnettle
-Architecture: aarch64
-Installed-Size: 1416
-Maintainer: @termux
-Version: 4.0+really3.10.2
-Homepage: https://www.lysator.liu.se/~nisse/nettle/
-Breaks: libnettle-dev
-Depends: libgmp
-Replaces: libnettle-dev
-Description: Cryptographic library that is designed to fit easily in more or less any context
-Filename: ../../../../releases/download/aarch64-libn/libnettle_4.0.really3.10.2_aarch64.deb
-Size: 407232
-MD5Sum: c54c070e7f82c1ca9a95efb2aa1f5ff5
-SHA1: 2f8024168d2a83209335ec2bce4c005be76f44e8
-SHA256: 385a4e6494951ecb022d9f973192e05b9e59d13b484a2dfb0377ef8ab441c186
-SHA512: 204b676198ea7405c50450a738f689609b6b11571270266c676e647bee5e3f28273b966621c96fb7bb99cdf9b9abae7d784046c0cda4b19389a7206ea36fcdf5
-
 Package: libnewt-static
 Architecture: aarch64
 Installed-Size: 156
@@ -19391,38 +19344,6 @@ SHA1: d38a05cffcf27a2d92f1c0beefab030f7652d950
 SHA256: 4d9759b91b8e0eb3c74375c0594041c77c2797b80aac19a68680a072de81a49d
 SHA512: 1de812bcd19e12b4d4b20fc0f8b27c3002620260d5092c3df10110ec4ee8cd42ef4a75710b84d36f73edbf321b5737bae6db479621027c1d1c24ee94fe2eb3b4
 
-Package: libvpx-static
-Architecture: aarch64
-Installed-Size: 3304
-Maintainer: @termux
-Version: 1:1.16.0
-Homepage: https://www.webmproject.org
-Depends: libvpx (= 1:1.16.0)
-Description: Static libraries for libvpx
-Filename: ../../../../releases/download/aarch64-libv/libvpx-static_1.1.16.0_aarch64.deb
-Size: 936744
-MD5Sum: 0a07990c818ecfa139d074da0170c435
-SHA1: e035f307fdfebc34162901b2c2e0fb965d6179f8
-SHA256: b60416828c915f8e2e44dbe1aeb240ba29719e01365e8a0559c3d2d556efdd47
-SHA512: 02b64911d71679e22db50a92fb79ca5030d02e4132ee42c33ab4edeaf65cdb1efe9986062c324dcd966bb2c047e58edbda8cb239a8a5b3ee3ad9528b5ee1b1a4
-
-Package: libvpx
-Architecture: aarch64
-Installed-Size: 2428
-Maintainer: @termux
-Version: 1:1.16.0
-Homepage: https://www.webmproject.org
-Breaks: libvpx-dev
-Depends: libc++
-Replaces: libvpx-dev
-Description: VP8 & VP9 Codec SDK
-Filename: ../../../../releases/download/aarch64-libv/libvpx_1.1.16.0_aarch64.deb
-Size: 864104
-MD5Sum: ccafe2579c3b3693834044be441c6fb5
-SHA1: 57d8f8521665c64f1c8a5b2e324098534b58e5cc
-SHA256: 98d9c8cd89900941133da0663b22e533948dd9c57a6153d9d674f081792b56e9
-SHA512: 47693a30edb246376a44eb8b38e27b6c06627efd4cf289d03ab2e157f770df9eb16ac4d7a27d004ab3d81211363dd2067debfd12d8d16bb5d8859579f07b5aa6
-
 Package: libvterm
 Architecture: aarch64
 Installed-Size: 176
@@ -19682,37 +19603,6 @@ MD5Sum: bb71ff4c85aabb5e345a0259029d20e7
 SHA1: 2bd517b170734f27e17984ed0b0e18057badc000
 SHA256: beba346bad82586dd8d2effe98a42246648913cd90b1c9de5c834f95dfc8d438
 SHA512: d7c97daeba339c2832c42e8db882ff62740288dde5452a7e3eae6f4df312b4029b51654543d7cc27f67786471bbeb01629c610e2958aa717b092861bb6258ea5
-
-Package: libx264-static
-Architecture: aarch64
-Installed-Size: 1852
-Maintainer: @termux
-Version: 1:0.164.3191-1
-Homepage: https://www.videolan.org/developers/x264.html
-Depends: libx264 (= 1:0.164.3191-1)
-Description: Static libraries for libx264
-Filename: ../../../../releases/download/aarch64-libx/libx264-static_1.0.164.3191-1_aarch64.deb
-Size: 435688
-MD5Sum: f7c8ae286fa76a4f935c431c1fe559f0
-SHA1: bd49d048a8a3c27280795381187cc6c5e8e2bc47
-SHA256: 546342f320ff21466193656b29ade8e19d3751cbe43baed86d6042002c881693
-SHA512: 264204546dc40756e9f4b29f42b8d01315051ee3bdd763344ade08196309249012756dac862d6599336f9fed8081e47ca682d7372892f776f37238e3dc36d9ee
-
-Package: libx264
-Architecture: aarch64
-Installed-Size: 1256
-Maintainer: @termux
-Version: 1:0.164.3191-1
-Homepage: https://www.videolan.org/developers/x264.html
-Breaks: libx264-dev
-Replaces: libx264-dev
-Description: Library for encoding video streams into the H.264/MPEG-4 AVC format
-Filename: ../../../../releases/download/aarch64-libx/libx264_1.0.164.3191-1_aarch64.deb
-Size: 397948
-MD5Sum: 65beb0bf1065e0ac5348f602464cf511
-SHA1: b2fc2a7a598c28582d739985ef0769d0f2cfaed8
-SHA256: 4b32146d047f1aa76991aa722c84037741fb580741fde4ba62aea2b6b456215b
-SHA512: 5aac68494021754de36f9674a17404c2e2e9e067a4ee1940e51a79b5fcb36620c514d0ea1efaf4936ab5242c2961f4991b9be66a07562c3eeecab84a0803e231
 
 Package: libx265-static
 Architecture: aarch64
@@ -22060,84 +21950,6 @@ SHA1: fb7c50ae8eed247f851ffca1b5967f081a1b3c58
 SHA256: 1a4631f845b53ae4c68d9fc5d178dd3bd41f9830780b1d218b840aeba73f906f
 SHA512: 4bcb4ca719ac48677b7d2b2852eb36e50b2af3f2eaa6e47ddb1a8737491e9735cbde1ab61b7552ce466afb604d071a00fc1e618c5b8918facf925d3862ae1fa0
 
-Package: ncurses-static
-Architecture: aarch64
-Installed-Size: 784
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for ncurses
-Filename: ../../../../releases/download/aarch64-n/ncurses-static_6.6.20260307.really6.5.20250830_aarch64.deb
-Size: 154204
-MD5Sum: 5272e1e4cec6bc286f033fcd8fb0a936
-SHA1: 5f8ed5b516598074c948b9bf19059faeb9f33f15
-SHA256: be5921c1a45636a36a867368b20e09d02436f0cb10f354880fa7882a1425639b
-SHA512: 6bc3ad64515947de861c4c8a7b8c5495b5bcc285df3310ae243ab26be937b8bddfbc7563056f42b3f37d8aeebc2360f0e9a1893f712b8f8e28be45d4e6a4564a
-
-Package: ncurses-ui-libs-static
-Architecture: aarch64
-Installed-Size: 260
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs-static_6.6.20260307.really6.5.20250830_aarch64.deb
-Size: 39516
-MD5Sum: 59582dff0752b799b41cf7a85f97f4e5
-SHA1: 15d3f2b33adcc707ea38f31744a9598f34697706
-SHA256: 074eb9b12735bd2e0fc1dbb6473ff512ad20fef158b1dea97c444762df1ba9e8
-SHA512: 0c77d8ac5f1d66cea8588b2c2a2e2f791fe4119c2d126584539b670373423a343b07d196b999f0a42214c5df8ce55c55753e0364d7ac2f1a956ed5635846e374
-
-Package: ncurses-ui-libs
-Architecture: aarch64
-Installed-Size: 148
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Breaks: ncurses (<< 6.4)
-Replaces: ncurses (<< 6.4)
-Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs_6.6.20260307.really6.5.20250830_aarch64.deb
-Size: 32992
-MD5Sum: 79972ffdeaffe213eb067ccc44488215
-SHA1: 8395cbaf4fc0eaa122b00ae6e4cd19c923ab6ca0
-SHA256: be9f18e427a28262e64bf58bdac90484d278d3d80211867ae1d9d6a6e3ac9bb6
-SHA512: 35874fad99c0c142b1f18bfd1df16af5ce664c01223d78757a333b4f1a838bd393a7ba727b9216b5f1e4f5c1b8d2ed49b656be58e45535c83735a053d99e8166
-
-Package: ncurses-utils
-Architecture: aarch64
-Installed-Size: 272
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Tools for working with terminals
-Filename: ../../../../releases/download/aarch64-n/ncurses-utils_6.6.20260307.really6.5.20250830_aarch64.deb
-Size: 89092
-MD5Sum: 0c1779830969a695e111ac2436a42b3a
-SHA1: f37b1f88208e91c88ed77f37e99256aacb02afa6
-SHA256: b18c4b999ad0a9c61e3b6f56a9e22b872370166f4a03c43ad1a5261a6469d4ae
-SHA512: d2e3653ad22f9e6a3dfc65c8d4aa4b6866920a9c74031c77b5f19afb21cd7ca0d825ded8c07852843181fd0a11b829fa90be41547ea7ed661c0e47661f9d0443
-
-Package: ncurses
-Architecture: aarch64
-Installed-Size: 1604
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/aarch64-n/ncurses_6.6.20260307.really6.5.20250830_aarch64.deb
-Size: 558104
-MD5Sum: c3a7fa31b085d5c0a8e040c3fd582358
-SHA1: 24438ad2d08df7dd2b77b0c5c46094d72b41955e
-SHA256: fef9ce9ef0ccef4c85793859e8de9e991e567681cec63303a4654a25e456431c
-SHA512: ec29cb1256f98c142915a6a62186db37693c68c423416515b5273b0d174171c32f7338fd01e831a19e70371a4f1b5aeee969f847031067a869f248e689463b74
-
 Package: ndk-sysroot
 Architecture: aarch64
 Installed-Size: 31264
@@ -22337,21 +22149,6 @@ MD5Sum: e755f2fdacf780ff8aea63f41f9b4f60
 SHA1: 2a3247472af19513d784946ea7b423fa72e8ee99
 SHA256: 7886b2771d50f9def9c9c3a7ee5ce96839578489e15bbcb03b6ec3f12e8bfd60
 SHA512: 65362a47a795e57f91074af6bfdb236dee25f7842165926b81a4caf9db70d4a8f6e14b789a8eb3560f8c424a27fbebd1466d7b721e55eb734a12492d617f83a6
-
-Package: nettle
-Architecture: aarch64
-Installed-Size: 112
-Maintainer: @termux
-Version: 4.0+really3.10.2
-Homepage: https://www.lysator.liu.se/~nisse/nettle/
-Depends: libnettle (= 4.0+really3.10.2)
-Description: Low level cryptographic tools
-Filename: ../../../../releases/download/aarch64-n/nettle_4.0.really3.10.2_aarch64.deb
-Size: 18184
-MD5Sum: e53d60735ed55982c1ba68d1047a18a9
-SHA1: 90d020bd0eaff8431a6f2f507cfb2955b9678c81
-SHA256: aca150a86fd3bbd10dda7a603795dcff0c5dd67b3e10244c2253fceb77ccca21
-SHA512: 3864a54a0ecd37c5d16a827d5ebf6f7ac501f0f8306ea36580421cea1a9eb89d73f0e4fc2158714b8aab76eaf37cda4f399e95119ea2f654814c8f7098a246ba
 
 Package: newsraft
 Architecture: aarch64
@@ -29146,26 +28943,6 @@ SHA1: 5db6a6cf8df150d44c6b07103feb53db5728a898
 SHA256: d2d7c71fedeb88fb29b46b36b36f45e8e689bc6fa893d3e83a65a8924d88cf62
 SHA512: 6fe538831e92dca27f429a917cd07b931e1b5871c9213570bc0e8d7019ffa01fa5000f7b0cdae437581d583252e5fe1afe3a0580ab9ed0be85ea3fd96dddff19
 
-Package: termux-tools
-Architecture: aarch64
-Installed-Size: 552
-Maintainer: @termux
-Version: 1.46.0+really1.45.0-1
-Homepage: https://termux.dev/
-Breaks: termux-keyring (<< 1.9)
-Depends: bzip2, coreutils, curl, dash, diffutils, findutils, gawk, grep, gzip, less, procps, psmisc, sed, tar, termux-am (>= 0.8.0), termux-am-socket (>= 1.5.0), termux-core, termux-exec, util-linux, xz-utils, dialog
-Essential: yes
-Conflicts: procps (<< 3.3.15-2)
-Recommends: ed, dos2unix, inetutils, net-tools, patch, unzip
-Suggests: termux-api
-Description: Basic system tools for Termux
-Filename: ../../../../releases/download/aarch64-t/termux-tools_1.46.0.really1.45.0-1_aarch64.deb
-Size: 33592
-MD5Sum: 1a9d5d0d13ccdcdf04a33a4ca3b9d8b5
-SHA1: 277282739555dae5d2b342dd6907f28f13ee2a77
-SHA256: 4f8948678e64e3ac763682ca06abca4d1929be5b42b4dcfeccdf11f585a2719b
-SHA512: 1db6516a0efa0bdcd895e6ba18a3337f8bfb163c67cc56dd36405b841e6ee52673a3df561d8b1558d1c68937ff2257bf1d83fc3ee8a313fc6dd5a79ab7794f41
-
 Package: tesseract
 Architecture: aarch64
 Installed-Size: 28432
@@ -31727,21 +31504,6 @@ SHA1: 59f2521ad8a0d3ec88392878013a34e5515d7dd0
 SHA256: eeca68788accd2adbb4e6af0406e9260bbcaff2e2dcb9eb6116ede21505c348f
 SHA512: 68b3dd8b9f60c51338eb036529ddeeaf9f77676974dfbc13371109d826ee2383c037b2e72e2b440b92d77e4d27b0913651ddb9fd4708d9f84d6129afabc6cca2
 
-Package: x264
-Architecture: aarch64
-Installed-Size: 1272
-Maintainer: @termux
-Version: 1:0.164.3191-1
-Homepage: https://www.videolan.org/developers/x264.html
-Depends: libx264 (= 1:0.164.3191-1)
-Description: Commandline video encoder for the H.264/MPEG-4 AVC format
-Filename: ../../../../releases/download/aarch64-x/x264_1.0.164.3191-1_aarch64.deb
-Size: 413440
-MD5Sum: f926255948e75e7cc03afc204636cb40
-SHA1: 9cd3050de112bb8185f291049fcf17ffd3ebbc04
-SHA256: 248a246aecf3c9d5930aba4612c3c8c53031c99fd0ddff128220dcd6382d6b9a
-SHA512: acb93ff6b5f51502e3c30c6e995b5ff894d88d6f540a28f076e25d2aeb466d6cc50551a2df60abca2ed1fdf1b89410fc14deea59248671a7fa62cd4556fddc5f
-
 Package: x265
 Architecture: aarch64
 Installed-Size: 176
@@ -32874,4 +32636,242 @@ MD5Sum: 178a2b614908bea6ab99147adc99a3bc
 SHA1: 8bb26bcef8528e4eaa15890ebaefb9687515d27e
 SHA256: a397b17c0144a40e9f8acd1865b1ab141810235654ddee1fdd06a57b89776575
 SHA512: 45e5d3f031a3c8ded7fec4faee7de440db1ab5a07bb9758c1ce02eda09195efa6a48b84a7461747fa1818b65f9de8bbe6c9f80fb5d1a864da56c72dc8de1e1a6
+
+Package: libc++
+Architecture: aarch64
+Installed-Size: 1384
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/aarch64-libc/libc.._29_aarch64.deb
+Size: 334592
+MD5Sum: d4a59b6a6237750126407017b20fb43f
+SHA1: 8bb7159ca8ff769752bed161b072010adce0aed2
+SHA256: 954ea58ca710c01dee91a9510cd87a69f5df6d41115de7908dd383a4d4d060ec
+SHA512: e4233cfb379affcdd83f4ecee1fc751dccd02927a55d25cf5952bcda90b2ff1abb3cdd2ce6336c64954f245c428af755671c6850a7b4376e06c697c09a2c7aa1
+
+Package: libnettle-static
+Architecture: aarch64
+Installed-Size: 3832
+Maintainer: @termux
+Version: 4.0+really3.10.2
+Homepage: https://www.lysator.liu.se/~nisse/nettle/
+Depends: libnettle (= 4.0+really3.10.2)
+Description: Static libraries for libnettle
+Filename: ../../../../releases/download/aarch64-libn/libnettle-static_4.0.really3.10.2_aarch64.deb
+Size: 683028
+MD5Sum: ee3941e89ca44f99b0bc008b5fb68e5e
+SHA1: af1d1ba34135ce5e16d7283cdd127c8f0091b1f4
+SHA256: 967fbba221aa5ae70a9a76d722eabae74fd7550c173561a7a18ebb58c859351b
+SHA512: 1ffc8a43a34f1f9d84f51768606b74708d1e2be97bce621a62f9c2b4886352130f7ecd08a50b72aaff8b3b3ca2ecf0bca18445cc1e2f2d13811c1fffc91d50e2
+
+Package: libnettle
+Architecture: aarch64
+Installed-Size: 1416
+Maintainer: @termux
+Version: 4.0+really3.10.2
+Homepage: https://www.lysator.liu.se/~nisse/nettle/
+Breaks: libnettle-dev
+Depends: libgmp
+Replaces: libnettle-dev
+Description: Cryptographic library that is designed to fit easily in more or less any context
+Filename: ../../../../releases/download/aarch64-libn/libnettle_4.0.really3.10.2_aarch64.deb
+Size: 405836
+MD5Sum: b232b5da02374fed2275a9a9875cf64c
+SHA1: 48ab627dc8be871b93ae51a730f99c39cd9cefc0
+SHA256: 76808729259def48be5c8e37f09535e66f796b21e3ef95ac8e41ca048188502a
+SHA512: 282ca533f603e5a39ac4005a3e0f4a93b70528b8ca9d32cd5074fa6a3f45b223357f4c2aa1ddfbdaffdb4b3400b43fb9f12c6e6e2baeeb3c1215fc7ee2bad409
+
+Package: libvpx-static
+Architecture: aarch64
+Installed-Size: 3304
+Maintainer: @termux
+Version: 1:1.16.0
+Homepage: https://www.webmproject.org
+Depends: libvpx (= 1:1.16.0)
+Description: Static libraries for libvpx
+Filename: ../../../../releases/download/aarch64-libv/libvpx-static_1.1.16.0_aarch64.deb
+Size: 936896
+MD5Sum: 20e798c42f23fcd7ec284bc5417423a3
+SHA1: 5a30455cb846c5de368accf4e3a68d2e723b5f84
+SHA256: 8e1e80cb601f81ad9eddf0747fc02d4c11c4c615238692c70b298006df9f0248
+SHA512: 93612a3283ca77ad26bc24d4176fd99c921d3b7fcad4cd7a4bd1afaafc9261c4a66782786dc96008d6dc751feb5339f01a0ff5e3cc874b061508d84b1243f80d
+
+Package: libvpx
+Architecture: aarch64
+Installed-Size: 2436
+Maintainer: @termux
+Version: 1:1.16.0
+Homepage: https://www.webmproject.org
+Breaks: libvpx-dev
+Depends: libc++
+Replaces: libvpx-dev
+Description: VP8 & VP9 Codec SDK
+Filename: ../../../../releases/download/aarch64-libv/libvpx_1.1.16.0_aarch64.deb
+Size: 864052
+MD5Sum: 65c40fe4d0d4c9fc52876b59f27b685a
+SHA1: a16e59991c2e41c41790f5170407ced64f4cde98
+SHA256: 9a4ac294bffaf42c551136e19be698abcdad5514ccdf4243472a5b9445297bf2
+SHA512: c4e957ae3311ba5b618d361b37494a248fb2f075e807e54ffbe9b0260744127c51f25cdc7e7ee27e3eb1aa6767e5c6111307f4327bd989e31d716cd62175c838
+
+Package: libx264-static
+Architecture: aarch64
+Installed-Size: 1852
+Maintainer: @termux
+Version: 1:0.164.3191-1
+Homepage: https://www.videolan.org/developers/x264.html
+Depends: libx264 (= 1:0.164.3191-1)
+Description: Static libraries for libx264
+Filename: ../../../../releases/download/aarch64-libx/libx264-static_1.0.164.3191-1_aarch64.deb
+Size: 435592
+MD5Sum: 0f8ea23fdfee4d051959a8478a665025
+SHA1: baa2b6d8ed8385b287595adc27baa40a1a2623cb
+SHA256: f81ba0d274041fddadf38fbab671ec2ae52e9f7dbac0f0999ba56c96eb4c6719
+SHA512: 7e4d2274c1e5a1ec805691c67039d696cfe92c2c118f500e4f3cdd37d5c48870557fc05d473bf3a77ffaa0c648b15d9a1a8b0c61608fed15b661a46659ea8ae3
+
+Package: libx264
+Architecture: aarch64
+Installed-Size: 1264
+Maintainer: @termux
+Version: 1:0.164.3191-1
+Homepage: https://www.videolan.org/developers/x264.html
+Breaks: libx264-dev
+Replaces: libx264-dev
+Description: Library for encoding video streams into the H.264/MPEG-4 AVC format
+Filename: ../../../../releases/download/aarch64-libx/libx264_1.0.164.3191-1_aarch64.deb
+Size: 397948
+MD5Sum: 033c1320d86e7faf59a8d478f3037228
+SHA1: cec28bcbf4e61bf21bc46f30370d35d925bd2e88
+SHA256: dca02683fb55a739f450dcc6e3228a725c848466d5bf45987620f6397f877a4d
+SHA512: 20f5d1dfecead4638a3c667ea79ae6f670ba91190e60b395bfba8e4b137cc77f48885a44e49fe0a907cae39d106379d2409a9cddf38b39f69825df15d86eb22f
+
+Package: ncurses-static
+Architecture: aarch64
+Installed-Size: 784
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for ncurses
+Filename: ../../../../releases/download/aarch64-n/ncurses-static_6.6.20260307.really6.5.20250830_aarch64.deb
+Size: 154068
+MD5Sum: 434d4b8eae945ee304d5ffd20ad1aec1
+SHA1: f012dd05b981bc19a83e94ff376d5aa21501fa39
+SHA256: bd1457e63706e1b30fce829e2dad71214afed562674e220437dfcceb3cd0172a
+SHA512: 183bf948f9f0389aef660208c3b35059c4f3919e223d73face367c9a7b9e37e22855c7b36c047f68511b6458789c217e6e62ac694ac03d33e27ad59dc0169262
+
+Package: ncurses-ui-libs-static
+Architecture: aarch64
+Installed-Size: 260
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs-static_6.6.20260307.really6.5.20250830_aarch64.deb
+Size: 39572
+MD5Sum: c5e4975593414f87316c87f1f851a3d4
+SHA1: dad304c9125ab4e62ec110e5e29be31f2a42ea4c
+SHA256: b03a80f334321ac97ad94f7b1b85cbc612b6e3decfb4e09fa752ec38c985dcc1
+SHA512: f46a955e9dbed50ca72bd477371d7ee1632fe78564a6d8882ae3ef5451295a77f530e48d7861be5179401d823499a8e384c733c3071d7f4870519b7a7e1aee07
+
+Package: ncurses-ui-libs
+Architecture: aarch64
+Installed-Size: 148
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Breaks: ncurses (<< 6.4)
+Replaces: ncurses (<< 6.4)
+Description: Libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs_6.6.20260307.really6.5.20250830_aarch64.deb
+Size: 32960
+MD5Sum: 457c00ea43b64ece63886a8db5a35fad
+SHA1: bc7ce45003fe2350f0f7df812cdb0ebf1bd19e3f
+SHA256: 15712638cbeb6775e93b8d460d01d4b7221745484084c99816f9510a4098f8ac
+SHA512: 991b5fb1621f7d6e618caa2b4413e584f35a47a511b5c62402dbba3ae36817675042c297bebd954507f5eecf597f0f4c2f4b25586cff1ca1f0f88d05f3e22f01
+
+Package: ncurses-utils
+Architecture: aarch64
+Installed-Size: 272
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Tools for working with terminals
+Filename: ../../../../releases/download/aarch64-n/ncurses-utils_6.6.20260307.really6.5.20250830_aarch64.deb
+Size: 89052
+MD5Sum: 0363419205941715b215ebfd27226a61
+SHA1: 9489e3efe84631e3d00344a2bc560f8ef987a1aa
+SHA256: 60c7c97e1458809c86358705e33d6bae2e8192c8d3ed14c7c4c584fe8a458899
+SHA512: e06a136ab474b4eeab6b7c36a75a1c8e6008868f748f877cff86553b0c61c37c805f765bf028d4f93d757b26f31fc76fcd5eb61d2365b6bf8a9cf8b752de0675
+
+Package: ncurses
+Architecture: aarch64
+Installed-Size: 1604
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Description: Library for text-based user interfaces in a terminal-independent manner
+Filename: ../../../../releases/download/aarch64-n/ncurses_6.6.20260307.really6.5.20250830_aarch64.deb
+Size: 558360
+MD5Sum: c2100e17c301d87ac8adb6dc1d8e16c8
+SHA1: 3932ff59e8210588cac5f965bcae9f62604dbd7d
+SHA256: 0a762d838c2f9b1ed27f44cb32775f01369350acfe084ede47066b2eeef7154c
+SHA512: 8e41a732db9cbdd48882311e68173c151d0fed0cdfedccef0f3b55baca48521f14992eda5b8726127ecfff3485f95401418064067ce64102d3327162ce10a713
+
+Package: nettle
+Architecture: aarch64
+Installed-Size: 112
+Maintainer: @termux
+Version: 4.0+really3.10.2
+Homepage: https://www.lysator.liu.se/~nisse/nettle/
+Depends: libnettle (= 4.0+really3.10.2)
+Description: Low level cryptographic tools
+Filename: ../../../../releases/download/aarch64-n/nettle_4.0.really3.10.2_aarch64.deb
+Size: 18180
+MD5Sum: 573c5f64a0d53d7599cf952c029679da
+SHA1: 8f5fb1fbd6df4103f6afb73b14e1ab2007165ed2
+SHA256: 7c20b8bf62c3db67f45a81952e6b146cc6b407b066faa32cdcfb1490c912c193
+SHA512: d1e5924d8e2fb934f4d34cefebe12ab849a0c7cd88ab3e20f227528aaaa12c653b6b8138f34ed042a41e6c9583cea9e2543394fa8720f61de1be5c2e5f91d360
+
+Package: termux-tools
+Architecture: aarch64
+Installed-Size: 552
+Maintainer: @termux
+Version: 1.46.0+really1.45.0-1
+Homepage: https://termux.dev/
+Breaks: termux-keyring (<< 1.9)
+Depends: bzip2, coreutils, curl, dash, diffutils, findutils, gawk, grep, gzip, less, procps, psmisc, sed, tar, termux-am (>= 0.8.0), termux-am-socket (>= 1.5.0), termux-core, termux-exec, util-linux, xz-utils, dialog
+Essential: yes
+Conflicts: procps (<< 3.3.15-2)
+Recommends: ed, dos2unix, inetutils, net-tools, patch, unzip
+Suggests: termux-api
+Description: Basic system tools for Termux
+Filename: ../../../../releases/download/aarch64-t/termux-tools_1.46.0.really1.45.0-1_aarch64.deb
+Size: 33596
+MD5Sum: 0eccbd08f5e51f72d43c63663947dc09
+SHA1: d6861cad761f1236677db4b318999cda50dc2ffe
+SHA256: 0dadc1c12441c9e1243e0f4cf0a038505324ea799324dfc92769fd4b5436c8ee
+SHA512: bc482bb23f8cb583b775af873102f66fd17ac4608abc8e5089eb59c954b7f444e5a9911a6a287131730804760d5b8ff83367cea3ef3485e24a92e61b9f121c7a
+
+Package: x264
+Architecture: aarch64
+Installed-Size: 1272
+Maintainer: @termux
+Version: 1:0.164.3191-1
+Homepage: https://www.videolan.org/developers/x264.html
+Depends: libx264 (= 1:0.164.3191-1)
+Description: Commandline video encoder for the H.264/MPEG-4 AVC format
+Filename: ../../../../releases/download/aarch64-x/x264_1.0.164.3191-1_aarch64.deb
+Size: 413464
+MD5Sum: 117897d85d4d84ab6e16558b91b182ad
+SHA1: 43fab564304618c4c9adeb7aba361349d1e64a0c
+SHA256: 879bc669e5b5647cdfb40b7bb770110b514c468eafc48f7ac3597fc8840ecaab
+SHA512: cf677f83210d5cd2688f80d9b6f6df4861616a4f5c5310bc7da4ae4f72596ef01f6605db46b9c940adf69acc60a928a4d68a6dd62ee05f2d311d8aa381af8ade
 
