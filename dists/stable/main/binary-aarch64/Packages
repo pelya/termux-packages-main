@@ -1,17 +1,3 @@
-Package: 0verkill
-Architecture: aarch64
-Installed-Size: 3156
-Maintainer: @termux
-Version: 1:0.16-1
-Homepage: https://github.com/hackndev/0verkill
-Description: Bloody 2D action deathmatch-like game in ASCII-ART
-Filename: ../../../../releases/download/aarch64-0/0verkill_1:0.16-1_aarch64.deb
-Size: 162808
-MD5Sum: 178a2b614908bea6ab99147adc99a3bc
-SHA1: 8bb26bcef8528e4eaa15890ebaefb9687515d27e
-SHA256: a397b17c0144a40e9f8acd1865b1ab141810235654ddee1fdd06a57b89776575
-SHA512: 45e5d3f031a3c8ded7fec4faee7de440db1ab5a07bb9758c1ce02eda09195efa6a48b84a7461747fa1818b65f9de8bbe6c9f80fb5d1a864da56c72dc8de1e1a6
-
 Package: 2048-c
 Architecture: aarch64
 Installed-Size: 56
@@ -19,7 +5,7 @@ Maintainer: @termux
 Version: 1:1.0.3-1
 Homepage: https://github.com/mevdschee/2048.c
 Description: Console version of the game '2048' for GNU/Linux
-Filename: ../../../../releases/download/aarch64-2/2048-c_1:1.0.3-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-2/2048-c_1.1.0.3-1_aarch64.deb
 Size: 6068
 MD5Sum: 87574080ae84fc87e497be282ebdf54a
 SHA1: 138691af2256e206d179364fd606d9643c310422
@@ -227,7 +213,7 @@ Maintainer: @termux
 Version: 1:1.3.1
 Homepage: https://github.com/FiloSottile/age
 Description: A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability
-Filename: ../../../../releases/download/aarch64-a/age_1:1.3.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-a/age_1.1.3.1_aarch64.deb
 Size: 1600604
 MD5Sum: fe485aa3716b25c7db1bbcf88843ee2f
 SHA1: 47992d1babaf259df2cd155e528345061b12ef86
@@ -555,7 +541,7 @@ Breaks: apache2-dev
 Depends: apr, apr-util, libandroid-support, libcrypt, libnghttp2, libuuid, openssl, pcre2, zlib
 Replaces: apache2-dev
 Description: Apache Web Server
-Filename: ../../../../releases/download/aarch64-a/apache2_1:2.4.68_aarch64.deb
+Filename: ../../../../releases/download/aarch64-a/apache2_1.2.4.68_aarch64.deb
 Size: 5276392
 MD5Sum: 5d492ea5e5d28891491b3303eb3a4b54
 SHA1: bb60535471f0841a92265c8372fc388d8fb67329
@@ -919,7 +905,7 @@ Version: 1:2020.12.07
 Homepage: http://aspell.net/
 Depends: aspell
 Description: English dictionary for aspell
-Filename: ../../../../releases/download/aarch64-a/aspell-en_1:2020.12.07_all.deb
+Filename: ../../../../releases/download/aarch64-a/aspell-en_1.2020.12.07_all.deb
 Size: 1124408
 MD5Sum: 06126f97741f0351f72fb51066a0fb6a
 SHA1: a649c84e9808c7fa3d2288d4da5880c719c30e65
@@ -934,7 +920,7 @@ Version: 2:0.50-3-1
 Homepage: http://aspell.net/
 Depends: aspell
 Description: French dictionary for aspell
-Filename: ../../../../releases/download/aarch64-a/aspell-fr_2:0.50-3-1_all.deb
+Filename: ../../../../releases/download/aarch64-a/aspell-fr_2.0.50-3-1_all.deb
 Size: 4369460
 MD5Sum: 111ecc346445ebe25cda998fda157e75
 SHA1: 326c21294b59455013684744e9958f06c0905210
@@ -1134,7 +1120,7 @@ Version: 1:20240608.083822.1ed9031-1
 Homepage: https://github.com/wez/atomicparsley
 Depends: libc++, zlib
 Description: Read, parse and set metadata of MPEG-4 and 3gp files
-Filename: ../../../../releases/download/aarch64-a/atomicparsley_1:20240608.083822.1ed9031-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-a/atomicparsley_1.20240608.083822.1ed9031-1_aarch64.deb
 Size: 107864
 MD5Sum: 5e63bdca90a4f8cee2a96ff91177df59
 SHA1: 79eaf136c16147fb53cff7d89d8450e117ce5644
@@ -1149,7 +1135,7 @@ Version: 1:0.6.6-1
 Homepage: https://github.com/bettio/AtomVM
 Depends: zlib
 Description: The minimal Erlang VM implementation
-Filename: ../../../../releases/download/aarch64-a/atomvm_1:0.6.6-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-a/atomvm_1.0.6.6-1_aarch64.deb
 Size: 175496
 MD5Sum: 1a131e027abe0482733e31a9c9292cf6
 SHA1: ceb55890cc1fdc3dbe3190a5a15f9e821df5ca84
@@ -1685,7 +1671,7 @@ Maintainer: @termux
 Version: 1:1.1.0-1
 Homepage: https://justine.lol/blinkenlights/
 Description: Tiny x86-64 Linux emulator
-Filename: ../../../../releases/download/aarch64-b/blink_1:1.1.0-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-b/blink_1.1.1.0-1_aarch64.deb
 Size: 294784
 MD5Sum: 2d4a21182cac0f401faf0688cb8308ea
 SHA1: c10b5fdfd05c339b092633e37c65c751a334fa2b
@@ -1894,7 +1880,7 @@ Version: 1:3.3-1
 Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 Depends: ncurses
 Description: Classic text mode games from UNIX folklore
-Filename: ../../../../releases/download/aarch64-b/bsd-games_1:3.3-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-b/bsd-games_1.3.3-1_aarch64.deb
 Size: 205496
 MD5Sum: 00c2ca10283e7cd1953426cd7438170d
 SHA1: 6eba5d33ba5ada3942151ab1c9c36f3415331379
@@ -2310,7 +2296,7 @@ Version: 1:3.27.1
 Homepage: https://cfengine.com/
 Depends: cfengine (= 1:3.27.1)
 Description: Static libraries for cfengine
-Filename: ../../../../releases/download/aarch64-c/cfengine-static_1:3.27.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-c/cfengine-static_1.3.27.1_aarch64.deb
 Size: 1479236
 MD5Sum: d2488b7aea69fb4e99ae54920ae3d10e
 SHA1: 28969a0fa8ce41f4d421d2e879de9ded27b6da9f
@@ -2325,7 +2311,7 @@ Version: 1:3.27.1
 Homepage: https://cfengine.com/
 Depends: libandroid-glob, liblmdb, librsync, libxml2, libyaml, openssl, pcre2
 Description: CFEngine is a configuration management technology
-Filename: ../../../../releases/download/aarch64-c/cfengine_1:3.27.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-c/cfengine_1.3.27.1_aarch64.deb
 Size: 928868
 MD5Sum: c071a531073c3adc03fbd6a50ae2a8db
 SHA1: d457b891198a0ad642cc4c128e7614d3967cf82b
@@ -2499,7 +2485,7 @@ Version: 0.0.0+g3c32e7d
 Homepage: https://github.com/yuri-xyz/chroma.git
 Depends: vulkan-icd, alsa-lib
 Description: Shader-based audio visualizer for the terminal
-Filename: ../../../../releases/download/aarch64-c/chroma-visualizer_0.0.0+g3c32e7d_aarch64.deb
+Filename: ../../../../releases/download/aarch64-c/chroma-visualizer_0.0.0.g3c32e7d_aarch64.deb
 Size: 1989828
 MD5Sum: bcd9b718e9ea33751dfde63b6ebbb8fe
 SHA1: e38ef731bee8270c9cf14a668f76d656fb86213c
@@ -2890,7 +2876,7 @@ Version: 1:1.17.11
 Homepage: https://github.com/coin-or/Clp
 Depends: coinor-clp (= 1:1.17.11)
 Description: Static libraries for coinor-clp
-Filename: ../../../../releases/download/aarch64-c/coinor-clp-static_1:1.17.11_aarch64.deb
+Filename: ../../../../releases/download/aarch64-c/coinor-clp-static_1.1.17.11_aarch64.deb
 Size: 826072
 MD5Sum: 85a11db4ccbc0cb6fdabfbaee1e4444b
 SHA1: 477218ab594e68cd86114967c915a31b8146c13f
@@ -2905,7 +2891,7 @@ Version: 1:1.17.11
 Homepage: https://github.com/coin-or/Clp
 Depends: libc++, libcoinor-osi, libcoinor-utils
 Description: An open-source linear programming solver
-Filename: ../../../../releases/download/aarch64-c/coinor-clp_1:1.17.11_aarch64.deb
+Filename: ../../../../releases/download/aarch64-c/coinor-clp_1.1.17.11_aarch64.deb
 Size: 733616
 MD5Sum: 840ded7a9ad5a0aa87068c12ce4bb684
 SHA1: 9725e0f43be35c1bebac216e56586f8a33da3e40
@@ -3175,7 +3161,7 @@ Maintainer: @termux
 Version: 1:10.4.13
 Homepage: https://github.com/schollz/croc
 Description: Easily and securely send things from one computer to another
-Filename: ../../../../releases/download/aarch64-c/croc_1:10.4.13_aarch64.deb
+Filename: ../../../../releases/download/aarch64-c/croc_1.10.4.13_aarch64.deb
 Size: 3047608
 MD5Sum: 463d54076a4014df5a92e51565be5c32
 SHA1: 05c1d1801c86a816b84a78ea1b9de165790cb5b2
@@ -3315,7 +3301,7 @@ Version: 2:6.2.1
 Homepage: https://ctags.io/
 Depends: libiconv, libjansson, libxml2, libyaml
 Description: Universal ctags: Source code index builder
-Filename: ../../../../releases/download/aarch64-c/ctags_2:6.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-c/ctags_2.6.2.1_aarch64.deb
 Size: 721596
 MD5Sum: 63611a4b35f7924d0999373b21db709e
 SHA1: 866f1cecdf64be5abab2f22508efe0eca1d67a22
@@ -3449,7 +3435,7 @@ Version: 1:1.12.13-5
 Homepage: https://www.nongnu.org/cvs/
 Depends: zlib, libandroid-support
 Description: Concurrent Versions System
-Filename: ../../../../releases/download/aarch64-c/cvs_1:1.12.13-5_aarch64.deb
+Filename: ../../../../releases/download/aarch64-c/cvs_1.1.12.13-5_aarch64.deb
 Size: 499804
 MD5Sum: f828c46c8a6e0ec9c92f442c6dfcd30b
 SHA1: 35832f70fb1b36e6a78d6c6d28ac806d6c990def
@@ -3879,7 +3865,7 @@ Homepage: https://www.getdnote.com/
 Breaks: dnote-client
 Replaces: dnote-client
 Description: A simple command line notebook for programmers
-Filename: ../../../../releases/download/aarch64-d/dnote_1:0.16.0_aarch64.deb
+Filename: ../../../../releases/download/aarch64-d/dnote_1.0.16.0_aarch64.deb
 Size: 2816040
 MD5Sum: 643356070f0eb6c7092cd5c51fdc0821
 SHA1: 4748fcb3fbb7692250dc3337cf76a1d182387d62
@@ -4785,7 +4771,7 @@ Version: 1:4.12-5
 Homepage: https://www.eclipse.org/jdt/core/
 Conflicts: ecj4.6
 Description: Eclipse Compiler for Java
-Filename: ../../../../releases/download/aarch64-e/ecj_1:4.12-5_all.deb
+Filename: ../../../../releases/download/aarch64-e/ecj_1.4.12-5_all.deb
 Size: 6775540
 MD5Sum: b074ae18f9b07b06137deb72b57253e6
 SHA1: 7e47aac2cd764a98c1efd25bc201f4c8343dda21
@@ -5099,7 +5085,7 @@ Version: 1.2.2RC+really1.2.2
 Homepage: https://gitlab.com/ecodis/exhale
 Depends: libc++
 Description: Open source xHE-AAC encoder
-Filename: ../../../../releases/download/aarch64-e/exhale_1.2.2RC+really1.2.2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-e/exhale_1.2.2RC.really1.2.2_aarch64.deb
 Size: 123568
 MD5Sum: 764238b62551cb74cfa78e99bb0f4003
 SHA1: 05019409baa2045bb1744a750bf4f6d960016dbc
@@ -5131,7 +5117,7 @@ Breaks: exiv2-dev
 Depends: brotli, libandroid-support, libc++, libexpat, libiconv, libinih, zlib
 Replaces: exiv2-dev
 Description: Exif, Iptc and XMP metadata manipulation library and tools
-Filename: ../../../../releases/download/aarch64-e/exiv2_2:0.28.8_aarch64.deb
+Filename: ../../../../releases/download/aarch64-e/exiv2_2.0.28.8_aarch64.deb
 Size: 984992
 MD5Sum: daf0759bc4a6b0ec5d25769a21d42dca
 SHA1: d77bfe573daf16ea80cb23a70babd9b162436100
@@ -5177,7 +5163,7 @@ Version: 1.6.5-3
 Homepage: https://bitbucket.org/dtsarkov/factplusplus
 Depends: libc++
 Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
-Filename: ../../../../releases/download/aarch64-f/fact++_1.6.5-3_aarch64.deb
+Filename: ../../../../releases/download/aarch64-f/fact.._1.6.5-3_aarch64.deb
 Size: 316360
 MD5Sum: 1498d2cb9e2abc737bea1dd8fff0a4ad
 SHA1: 17c845fc153af785957fca752ecd89e3e77db077
@@ -5709,7 +5695,7 @@ Version: 1:11.2.0
 Homepage: https://fmt.dev/latest/index.html
 Depends: libc++
 Description: Open-source formatting library for C++
-Filename: ../../../../releases/download/aarch64-f/fmt_1:11.2.0_aarch64.deb
+Filename: ../../../../releases/download/aarch64-f/fmt_1.11.2.0_aarch64.deb
 Size: 168368
 MD5Sum: ff5a54df2cc30f8e0d71702afe3cc5b6
 SHA1: 7535f0c535c66f3a23c0e71acc852a950e6f99bb
@@ -7213,7 +7199,7 @@ Version: 3:1.26.5
 Homepage: https://go.dev/
 Depends: golang (= 3:1.26.5)
 Description: Go programming language - documentation
-Filename: ../../../../releases/download/aarch64-g/golang-doc_3:1.26.5_aarch64.deb
+Filename: ../../../../releases/download/aarch64-g/golang-doc_3.1.26.5_aarch64.deb
 Size: 93688
 MD5Sum: c500121893fda328a432b44b2f50f9d4
 SHA1: 5488a5e7c8500f430df81b81220781c6f3e875b6
@@ -7229,7 +7215,7 @@ Homepage: https://go.dev/
 Depends: clang
 Recommends: resolv-conf
 Description: Go programming language compiler
-Filename: ../../../../releases/download/aarch64-g/golang_3:1.26.5_aarch64.deb
+Filename: ../../../../releases/download/aarch64-g/golang_3.1.26.5_aarch64.deb
 Size: 35417036
 MD5Sum: 5469e81922c404d5a823884cbea0f99e
 SHA1: bfc2812794a186aa931a33c238a45135ffa5c433
@@ -7472,7 +7458,7 @@ Maintainer: @termux
 Version: 1:12.3.3
 Homepage: https://grafana.com/
 Description: The open-source platform for monitoring and observability
-Filename: ../../../../releases/download/aarch64-g/grafana_1:12.3.3_aarch64.deb
+Filename: ../../../../releases/download/aarch64-g/grafana_1.12.3.3_aarch64.deb
 Size: 115201924
 MD5Sum: a373aad895381ab562bc253bc163441e
 SHA1: 359d3871783c7e17474fce5f883410843d8979df
@@ -8238,7 +8224,7 @@ Version: 1:2.4.0
 Homepage: http://www.mbayer.de/html2text/
 Depends: libc++, libiconv
 Description: Utility that converts HTML documents into plain text
-Filename: ../../../../releases/download/aarch64-h/html2text_1:2.4.0_aarch64.deb
+Filename: ../../../../releases/download/aarch64-h/html2text_1.2.4.0_aarch64.deb
 Size: 75636
 MD5Sum: 7d06f6c01d0741068a289e53e0d7402b
 SHA1: d2ea7471b0f56f3dd5456e92b27bb70a4b65258f
@@ -9000,7 +8986,7 @@ Version: 1:0.32
 Homepage: https://github.com/agl/jbig2enc
 Depends: jbig2enc (= 1:0.32)
 Description: Static libraries for jbig2enc
-Filename: ../../../../releases/download/aarch64-j/jbig2enc-static_1:0.32_aarch64.deb
+Filename: ../../../../releases/download/aarch64-j/jbig2enc-static_1.0.32_aarch64.deb
 Size: 71708
 MD5Sum: e86e267b759b2339d95a411419e1a546
 SHA1: c4090df058042b22c6b666b1d7784ec57032ebf1
@@ -9015,7 +9001,7 @@ Version: 1:0.32
 Homepage: https://github.com/agl/jbig2enc
 Depends: giflib, leptonica, libc++, libjpeg-turbo, libpng, libtiff, libwebp, python, zlib
 Description: An encoder for JBIG2
-Filename: ../../../../releases/download/aarch64-j/jbig2enc_1:0.32_aarch64.deb
+Filename: ../../../../releases/download/aarch64-j/jbig2enc_1.0.32_aarch64.deb
 Size: 56728
 MD5Sum: 6dde19d649b57d5789667bbdd4670f46
 SHA1: 5631d24b7a9dfb0765fb79df004b47c32f94d640
@@ -10223,7 +10209,7 @@ Version: 1:0.8.1-1
 Homepage: http://www.ltrace.org/
 Depends: libc++, libelf, libdw
 Description: Tracks runtime library calls in dynamically linked programs
-Filename: ../../../../releases/download/aarch64-l/ltrace_1:0.8.1-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-l/ltrace_1.0.8.1-1_aarch64.deb
 Size: 119804
 MD5Sum: 2c8d468f5c59a6d4f08e2d0173e48e4a
 SHA1: d988646067b956f0d619e6f9bf4379f25772eac8
@@ -10253,7 +10239,7 @@ Version: 0.9.2+p20251219-2
 Homepage: https://github.com/lgi-devs/lgi
 Depends: glib, gobject-introspection, libcairo, libffi, lua54
 Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
-Filename: ../../../../releases/download/aarch64-l/lua-lgi_0.9.2+p20251219-2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-l/lua-lgi_0.9.2.p20251219-2_aarch64.deb
 Size: 74028
 MD5Sum: fe5242db5fad3934978aca52e5a70f97
 SHA1: 728b97c54c442a691265c058cda1ffd3d7568922
@@ -10498,7 +10484,7 @@ Version: 1:2.1.1783773675+g3c4f9fe
 Homepage: https://luajit.org/
 Depends: luajit (= 1:2.1.1783773675+g3c4f9fe)
 Description: Static libraries for luajit
-Filename: ../../../../releases/download/aarch64-l/luajit-static_1:2.1.1783773675+g3c4f9fe_aarch64.deb
+Filename: ../../../../releases/download/aarch64-l/luajit-static_1.2.1.1783773675.g3c4f9fe_aarch64.deb
 Size: 221368
 MD5Sum: ad757bb48cea1ef10427feb2f5b435ef
 SHA1: 312443e5caccba3fc22c006e6311064b6f33271c
@@ -10514,7 +10500,7 @@ Homepage: https://luajit.org/
 Breaks: libluajit-dev, libluajit
 Replaces: libluajit-dev, libluajit
 Description: Just-In-Time Compiler for Lua
-Filename: ../../../../releases/download/aarch64-l/luajit_1:2.1.1783773675+g3c4f9fe_aarch64.deb
+Filename: ../../../../releases/download/aarch64-l/luajit_1.2.1.1783773675.g3c4f9fe_aarch64.deb
 Size: 289464
 MD5Sum: 9960bcdef4a3934a6e036cc978e5c05b
 SHA1: f71e40c4897a96b2d90ef98a69fd78633a6ee5cf
@@ -10575,7 +10561,7 @@ Homepage: https://luvit.io
 Depends: lua51-lpeg, luajit, luv, openssl, pcre2, zlib
 Suggests: lit, luvit
 Description: A project in-between luv and luvit
-Filename: ../../../../releases/download/aarch64-l/luvi_1:2.15.0-2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-l/luvi_1.2.15.0-2_aarch64.deb
 Size: 160784
 MD5Sum: 41397ebbc1e1230abdc607d5530643f5
 SHA1: 1d3cac587e138d23f4e988516ac70a386f0bfe4d
@@ -11416,7 +11402,7 @@ Maintainer: @finagolfin
 Version: 1:6.2.1
 Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 Description: LLVM Blocks runtime library
-Filename: ../../../../releases/download/aarch64-libb/libblocksruntime_1:6.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libb/libblocksruntime_1.6.2.1_aarch64.deb
 Size: 5324
 MD5Sum: 5bf46e3b9ba54556ceca976565e3ced1
 SHA1: 173c77e12da22d8d521acaa24c150ad4f281b763
@@ -11616,7 +11602,7 @@ Version: 29
 Homepage: https://libcxx.llvm.org/
 Essential: yes
 Description: C++ Standard Library
-Filename: ../../../../releases/download/aarch64-libc/libc++_29_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libc/libc.._29_aarch64.deb
 Size: 335092
 MD5Sum: 6fabfa98099a704704eef5604716ff3a
 SHA1: e81a67fb183db6367f1ba24c8cd347bf0667357d
@@ -11631,7 +11617,7 @@ Version: 5.34.2
 Homepage: https://github.com/Martchus/cpp-utilities
 Depends: boost, libc++, libiconv
 Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
-Filename: ../../../../releases/download/aarch64-libc/libc++utilities_5.34.2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libc/libc..utilities_5.34.2_aarch64.deb
 Size: 158448
 MD5Sum: 375a78116e5cac66b492c510da2d2f00
 SHA1: b0a684a5f6569bd5d9c6945e3551cfb51a47e2bc
@@ -11969,7 +11955,7 @@ Version: 1:0.108.12
 Homepage: https://github.com/coin-or/Osi
 Depends: libcoinor-osi (= 1:0.108.12)
 Description: Static libraries for libcoinor-osi
-Filename: ../../../../releases/download/aarch64-libc/libcoinor-osi-static_1:0.108.12_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libc/libcoinor-osi-static_1.0.108.12_aarch64.deb
 Size: 316896
 MD5Sum: 10d5b4a1e7facd27c0c1078ce038e83a
 SHA1: a2d770296180036f87d60257398ec6ad6e1af9d8
@@ -11984,7 +11970,7 @@ Version: 1:0.108.12
 Homepage: https://github.com/coin-or/Osi
 Depends: libc++, libcoinor-utils
 Description: An abstract base class to a generic linear programming (LP) solver
-Filename: ../../../../releases/download/aarch64-libc/libcoinor-osi_1:0.108.12_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libc/libcoinor-osi_1.0.108.12_aarch64.deb
 Size: 259352
 MD5Sum: 64feb751b46b0a72a4a93ee01036b070
 SHA1: 5b2cd2b05501467aabd8b5c362c621ace57270fc
@@ -11999,7 +11985,7 @@ Version: 1:2.11.13
 Homepage: https://github.com/coin-or/CoinUtils
 Depends: libcoinor-utils (= 1:2.11.13)
 Description: Static libraries for libcoinor-utils
-Filename: ../../../../releases/download/aarch64-libc/libcoinor-utils-static_1:2.11.13_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libc/libcoinor-utils-static_1.2.11.13_aarch64.deb
 Size: 489440
 MD5Sum: 0cfe579d333320101cb610493bdd7882
 SHA1: dc8e99a2b3c722bb40f61c3cf335e9d2f7fc39cc
@@ -12014,7 +12000,7 @@ Version: 1:2.11.13
 Homepage: https://github.com/coin-or/CoinUtils
 Depends: libc++
 Description: An open-source collection of classes and helper functions for COIN-OR projects
-Filename: ../../../../releases/download/aarch64-libc/libcoinor-utils_1:2.11.13_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libc/libcoinor-utils_1.2.11.13_aarch64.deb
 Size: 451200
 MD5Sum: 14be040af5552cd5ff361dd9de430f41
 SHA1: 75196691258dd03bfc0b2019dd3477558332b049
@@ -12427,7 +12413,7 @@ Version: 1:6.2.1
 Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 Depends: libc++, libblocksruntime
 Description: The libdispatch project, for concurrency on multicore hardware
-Filename: ../../../../releases/download/aarch64-libd/libdispatch_1:6.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libd/libdispatch_1.6.2.1_aarch64.deb
 Size: 137984
 MD5Sum: 63d736a57fd71cf95e4282c81034b415
 SHA1: 386d6d674e7cf6cbe094866f78c388add737075b
@@ -13300,7 +13286,7 @@ Version: 1:2.3.3-7
 Homepage: https://libgd.github.io/
 Depends: libgd (= 1:2.3.3-7)
 Description: Static libraries for libgd
-Filename: ../../../../releases/download/aarch64-libg/libgd-static_1:2.3.3-7_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libg/libgd-static_1.2.3.3-7_aarch64.deb
 Size: 102192
 MD5Sum: 7405643f6e5ce382cf0132d1357d8f9d
 SHA1: a259171bc97b0975798624479e8b4d2db83ecc64
@@ -13317,7 +13303,7 @@ Breaks: libgd-dev
 Depends: fontconfig, freetype, libavif, libheif, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, zlib
 Replaces: libgd-dev
 Description: GD is an open source code library for the dynamic creation of images by programmers
-Filename: ../../../../releases/download/aarch64-libg/libgd_1:2.3.3-7_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libg/libgd_1.2.3.3-7_aarch64.deb
 Size: 126032
 MD5Sum: 712d0748590bd87c7a45ea2fc6f932af
 SHA1: 02c772e00fa95a653a021a090647315a27c79d2f
@@ -15764,7 +15750,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Static libraries for libnettle
-Filename: ../../../../releases/download/aarch64-libn/libnettle-static_4.0+really3.10.2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libn/libnettle-static_4.0.really3.10.2_aarch64.deb
 Size: 683436
 MD5Sum: e4883896c3da2213530c29ff214c11a0
 SHA1: 6f483f7f88e38d194d05210a87d29955daf66ec9
@@ -15781,7 +15767,7 @@ Breaks: libnettle-dev
 Depends: libgmp
 Replaces: libnettle-dev
 Description: Cryptographic library that is designed to fit easily in more or less any context
-Filename: ../../../../releases/download/aarch64-libn/libnettle_4.0+really3.10.2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libn/libnettle_4.0.really3.10.2_aarch64.deb
 Size: 407232
 MD5Sum: c54c070e7f82c1ca9a95efb2aa1f5ff5
 SHA1: 2f8024168d2a83209335ec2bce4c005be76f44e8
@@ -16898,7 +16884,7 @@ Depends: abseil-cpp, libc++, zlib
 Conflicts: protobuf-static
 Replaces: libprotobuf-dev, protobuf-dev, protobuf-static, libutf8-range
 Description: Protocol buffers C++ library
-Filename: ../../../../releases/download/aarch64-libp/libprotobuf_2:35.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libp/libprotobuf_2.35.1_aarch64.deb
 Size: 1388152
 MD5Sum: 129e72b44b01acdb3e467daccff2b40e
 SHA1: 46fb537651904eff21ed87a9254acfd919fe8fd2
@@ -17414,7 +17400,7 @@ Version: 1:3.2.0-9
 Homepage: https://github.com/haiwen/libsearpc
 Depends: libsearpc (= 1:3.2.0-9)
 Description: Static libraries for libsearpc
-Filename: ../../../../releases/download/aarch64-libs/libsearpc-static_1:3.2.0-9_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libs/libsearpc-static_1.3.2.0-9_aarch64.deb
 Size: 13688
 MD5Sum: 7828bfe6733fd23c9fe9dcca6f52c8b9
 SHA1: fe54de3ece56ee0612e19b7da120ba220ca633c1
@@ -17431,7 +17417,7 @@ Breaks: libsearpc-dev
 Depends: glib, libjansson, python
 Replaces: libsearpc-dev
 Description: A simple C language RPC framework (mainly for seafile)
-Filename: ../../../../releases/download/aarch64-libs/libsearpc_1:3.2.0-9_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libs/libsearpc_1.3.2.0-9_aarch64.deb
 Size: 20320
 MD5Sum: 16e5abb1ab82a5bc1e899081c9c537dd
 SHA1: 7c4c491d028b7c8715e936179a4a46f9f6144464
@@ -17477,7 +17463,7 @@ Version: 1:0.7.1
 Homepage: https://github.com/bitcoin-core/secp256k1
 Depends: libsecp256k1 (= 1:0.7.1)
 Description: Static libraries for libsecp256k1
-Filename: ../../../../releases/download/aarch64-libs/libsecp256k1-static_1:0.7.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libs/libsecp256k1-static_1.0.7.1_aarch64.deb
 Size: 1181680
 MD5Sum: 4f0ad9f43ce9b77a842be83244fc429c
 SHA1: ae401500465d2e240036393a41bc6e04f5aea0cf
@@ -17491,7 +17477,7 @@ Maintainer: @termux
 Version: 1:0.7.1
 Homepage: https://github.com/bitcoin-core/secp256k1
 Description: Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1
-Filename: ../../../../releases/download/aarch64-libs/libsecp256k1_1:0.7.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libs/libsecp256k1_1.0.7.1_aarch64.deb
 Size: 1198484
 MD5Sum: 9bb25c4a9cc2bf12ab529ebcb0fff9ef
 SHA1: f912a39e829f6773c32f2870fe4710740a677265
@@ -17551,7 +17537,7 @@ Version: 2.12.1-1
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/aarch64-libs/libsigc++-2.0_2.12.1-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libs/libsigc..-2.0_2.12.1-1_aarch64.deb
 Size: 73388
 MD5Sum: 066ba5e4d4fbfae028c36ad77780c819
 SHA1: 4a9dfffbf22341ea85b9bcc34b173ba88d641a58
@@ -17566,7 +17552,7 @@ Version: 3.6.0-2
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/aarch64-libs/libsigc++-3.0_3.6.0-2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libs/libsigc..-3.0_3.6.0-2_aarch64.deb
 Size: 56668
 MD5Sum: 80e53e97a45574b0d6d13b3e0ebc7e04
 SHA1: c496e3e2ecb69f67087aabf22e773d887ed71347
@@ -19413,7 +19399,7 @@ Version: 1:1.16.0
 Homepage: https://www.webmproject.org
 Depends: libvpx (= 1:1.16.0)
 Description: Static libraries for libvpx
-Filename: ../../../../releases/download/aarch64-libv/libvpx-static_1:1.16.0_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libv/libvpx-static_1.1.16.0_aarch64.deb
 Size: 936744
 MD5Sum: 0a07990c818ecfa139d074da0170c435
 SHA1: e035f307fdfebc34162901b2c2e0fb965d6179f8
@@ -19430,7 +19416,7 @@ Breaks: libvpx-dev
 Depends: libc++
 Replaces: libvpx-dev
 Description: VP8 & VP9 Codec SDK
-Filename: ../../../../releases/download/aarch64-libv/libvpx_1:1.16.0_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libv/libvpx_1.1.16.0_aarch64.deb
 Size: 864104
 MD5Sum: ccafe2579c3b3693834044be441c6fb5
 SHA1: 57d8f8521665c64f1c8a5b2e324098534b58e5cc
@@ -19446,7 +19432,7 @@ Homepage: https://www.leonerd.org.uk/code/libvterm/
 Breaks: libvterm-dev
 Replaces: libvterm-dev
 Description: Terminal emulator library
-Filename: ../../../../releases/download/aarch64-libv/libvterm_1:0.3.3-2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libv/libvterm_1.0.3.3-2_aarch64.deb
 Size: 33028
 MD5Sum: dcb6ae038f50c52a245ca8de0b71d2d9
 SHA1: 9ae9a5ae0e952a8d280d9764428230f3a17d38f1
@@ -19705,7 +19691,7 @@ Version: 1:0.164.3191-1
 Homepage: https://www.videolan.org/developers/x264.html
 Depends: libx264 (= 1:0.164.3191-1)
 Description: Static libraries for libx264
-Filename: ../../../../releases/download/aarch64-libx/libx264-static_1:0.164.3191-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libx/libx264-static_1.0.164.3191-1_aarch64.deb
 Size: 435688
 MD5Sum: f7c8ae286fa76a4f935c431c1fe559f0
 SHA1: bd49d048a8a3c27280795381187cc6c5e8e2bc47
@@ -19721,7 +19707,7 @@ Homepage: https://www.videolan.org/developers/x264.html
 Breaks: libx264-dev
 Replaces: libx264-dev
 Description: Library for encoding video streams into the H.264/MPEG-4 AVC format
-Filename: ../../../../releases/download/aarch64-libx/libx264_1:0.164.3191-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libx/libx264_1.0.164.3191-1_aarch64.deb
 Size: 397948
 MD5Sum: 65beb0bf1065e0ac5348f602464cf511
 SHA1: b2fc2a7a598c28582d739985ef0769d0f2cfaed8
@@ -21248,7 +21234,7 @@ Maintainer: @termux
 Version: 1:1.0.5-1
 Homepage: https://github.com/rofl0r/microsocks
 Description: tiny, portable SOCKS5 server with very moderate resource usage
-Filename: ../../../../releases/download/aarch64-m/microsocks_1:1.0.5-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-m/microsocks_1.1.0.5-1_aarch64.deb
 Size: 6940
 MD5Sum: 287cf2151c7a2b0e78166013ad222715
 SHA1: e78522c7b76ca7a8de7f208b24c39460d9ffe159
@@ -22082,7 +22068,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for ncurses
-Filename: ../../../../releases/download/aarch64-n/ncurses-static_6.6.20260307+really6.5.20250830_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/ncurses-static_6.6.20260307.really6.5.20250830_aarch64.deb
 Size: 154204
 MD5Sum: 5272e1e4cec6bc286f033fcd8fb0a936
 SHA1: 5f8ed5b516598074c948b9bf19059faeb9f33f15
@@ -22097,7 +22083,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs-static_6.6.20260307.really6.5.20250830_aarch64.deb
 Size: 39516
 MD5Sum: 59582dff0752b799b41cf7a85f97f4e5
 SHA1: 15d3f2b33adcc707ea38f31744a9598f34697706
@@ -22114,7 +22100,7 @@ Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Breaks: ncurses (<< 6.4)
 Replaces: ncurses (<< 6.4)
 Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs_6.6.20260307.really6.5.20250830_aarch64.deb
 Size: 32992
 MD5Sum: 79972ffdeaffe213eb067ccc44488215
 SHA1: 8395cbaf4fc0eaa122b00ae6e4cd19c923ab6ca0
@@ -22129,7 +22115,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Tools for working with terminals
-Filename: ../../../../releases/download/aarch64-n/ncurses-utils_6.6.20260307+really6.5.20250830_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/ncurses-utils_6.6.20260307.really6.5.20250830_aarch64.deb
 Size: 89092
 MD5Sum: 0c1779830969a695e111ac2436a42b3a
 SHA1: f37b1f88208e91c88ed77f37e99256aacb02afa6
@@ -22145,7 +22131,7 @@ Homepage: https://invisible-island.net/ncurses/
 Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/aarch64-n/ncurses_6.6.20260307+really6.5.20250830_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/ncurses_6.6.20260307.really6.5.20250830_aarch64.deb
 Size: 558104
 MD5Sum: c3a7fa31b085d5c0a8e040c3fd582358
 SHA1: 24438ad2d08df7dd2b77b0c5c46094d72b41955e
@@ -22208,7 +22194,7 @@ Breaks: neovim
 Depends: libandroid-support, libiconv, libmsgpack, libunibilium, libuv, libvterm (>= 1:0.3-0), lua51-lpeg, luajit, luv, tree-sitter, tree-sitter-parsers, utf8proc
 Conflicts: neovim
 Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
-Filename: ../../../../releases/download/aarch64-n/neovim-nightly_0.13.0~dev-980+g3a7989f4f4-0_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/neovim-nightly_0.13.0.dev-980.g3a7989f4f4-0_aarch64.deb
 Size: 6046672
 MD5Sum: c85800b07e6f7dc1363da200fd3ebdaa
 SHA1: a3474d9458179adb85694f98eccee6a7d644d5ae
@@ -22360,7 +22346,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Low level cryptographic tools
-Filename: ../../../../releases/download/aarch64-n/nettle_4.0+really3.10.2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/nettle_4.0.really3.10.2_aarch64.deb
 Size: 18184
 MD5Sum: e53d60735ed55982c1ba68d1047a18a9
 SHA1: 90d020bd0eaff8431a6f2f507cfb2955b9678c81
@@ -24131,7 +24117,7 @@ Maintainer: @termux
 Version: 1:2.0.1-1
 Homepage: https://www.softsynth.com/pforth/
 Description: Portable Forth in C
-Filename: ../../../../releases/download/aarch64-p/pforth_1:2.0.1-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-p/pforth_1.2.0.1-1_aarch64.deb
 Size: 40612
 MD5Sum: 49e1569589c101f9f0f983ccf6257cb5
 SHA1: 77b2078f96ae8465802ee5edd2a5d4c1cd27d349
@@ -24887,7 +24873,7 @@ Version: 2:35.1
 Homepage: https://github.com/protocolbuffers/protobuf
 Depends: libprotobuf (= 2:35.1)
 Description: Compiler for protocol buffer definition files
-Filename: ../../../../releases/download/aarch64-p/protobuf_2:35.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-p/protobuf_2.35.1_aarch64.deb
 Size: 1193896
 MD5Sum: c7474da5b0a3966ab11d79f0bfe69617
 SHA1: 420cc8c34ae4bf859b60e2fa336918d067a7408e
@@ -25644,7 +25630,7 @@ Depends: glib, libbz2, libcap-ng, libcurl, libgmp, libgnutls, libnettle, libnfs,
 Breaks: qemu-system-x86-64 (<< 1:8.0.0), qemu-system-x86-64-headless (<< 1:8.0.0)
 Replaces: qemu-system-x86-64 (<< 1:8.0.0), qemu-system-x86-64-headless (<< 1:8.0.0)
 Description: A set common files used by the QEMU emulators
-Filename: ../../../../releases/download/aarch64-q/qemu-common_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-common_1.10.2.1_aarch64.deb
 Size: 21029436
 MD5Sum: bbd25525df80b29053b02ae78dcba2d5
 SHA1: 24107a3b49e2930e69a972aca003605e1679331d
@@ -25659,7 +25645,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/aarch64-q/qemu-system-aarch64-headless_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-system-aarch64-headless_1.10.2.1_aarch64.deb
 Size: 3617656
 MD5Sum: b8f5fae5ac9db2f2d6f765d486fe1cea
 SHA1: a2c5f3cd6970c798b1e7ca59cd3552223c7d47b9
@@ -25674,7 +25660,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/aarch64-q/qemu-system-arm-headless_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-system-arm-headless_1.10.2.1_aarch64.deb
 Size: 3160860
 MD5Sum: 60ebcfaf211f5596e15defb7ceda1320
 SHA1: f20a8274ae1c8d55c46a8ac13503480d0a1f2109
@@ -25689,7 +25675,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/aarch64-q/qemu-system-i386-headless_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-system-i386-headless_1.10.2.1_aarch64.deb
 Size: 2632592
 MD5Sum: aeb7ed77e237dc6e0dca7275dd8e1155
 SHA1: 51b876c3ba833701363f969e61cd9a42e305b745
@@ -25704,7 +25690,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/aarch64-q/qemu-system-m68k-headless_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-system-m68k-headless_1.10.2.1_aarch64.deb
 Size: 1780252
 MD5Sum: b19251cd7b3d1db7b26574c9f2115209
 SHA1: d8563f7c508ac1ea34ebc7f23ae5fef226042ca6
@@ -25719,7 +25705,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/aarch64-q/qemu-system-ppc-headless_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-system-ppc-headless_1.10.2.1_aarch64.deb
 Size: 2571340
 MD5Sum: 38a94cbcf29d6263d59114702bc66a8c
 SHA1: a9f97b3a39e1c2feabe0c356ac32fe4fb2a8f37f
@@ -25734,7 +25720,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/aarch64-q/qemu-system-ppc64-headless_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-system-ppc64-headless_1.10.2.1_aarch64.deb
 Size: 2829992
 MD5Sum: 8389b4bbe9196d3c41e1e2faf901d2e9
 SHA1: dd28cbf7500e72e24cd8e68507fabd33eb8d51d5
@@ -25749,7 +25735,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/aarch64-q/qemu-system-riscv32-headless_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-system-riscv32-headless_1.10.2.1_aarch64.deb
 Size: 2487652
 MD5Sum: a8a27e60c056a0385e17c50f0261cb16
 SHA1: 332fd5939a6a0211b52e13807120c0b857d721fc
@@ -25764,7 +25750,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/aarch64-q/qemu-system-riscv64-headless_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-system-riscv64-headless_1.10.2.1_aarch64.deb
 Size: 2502688
 MD5Sum: 9a11c11ca63e784449d32b9c5833d221
 SHA1: c73b1147108ba6c9b64d0257dcc3ae60edd31730
@@ -25782,7 +25768,7 @@ Conflicts: qemu-system-x86_64-headless
 Replaces: qemu-system-x86_64-headless
 Provides: qemu-system-x86_64-headless
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/aarch64-q/qemu-system-x86-64-headless_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-system-x86-64-headless_1.10.2.1_aarch64.deb
 Size: 2628312
 MD5Sum: 2e99fd4c90cf2d853d3ccb75278eb4a9
 SHA1: 58687931efcf5a1ca1071d95a289decc181dc195
@@ -25797,7 +25783,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/aarch64-q/qemu-user-aarch64_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-user-aarch64_1.10.2.1_aarch64.deb
 Size: 1008756
 MD5Sum: d8b0994c1051d896ec74676efd3b694f
 SHA1: 7c28fc24c2c76eb4de721f3e7feb42f6b3eeb656
@@ -25812,7 +25798,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/aarch64-q/qemu-user-arm_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-user-arm_1.10.2.1_aarch64.deb
 Size: 688548
 MD5Sum: 58422a3439bc60076213320fb99ccbdc
 SHA1: 61005289a0218109f9bce343ddb12b8caa206103
@@ -25827,7 +25813,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/aarch64-q/qemu-user-i386_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-user-i386_1.10.2.1_aarch64.deb
 Size: 567784
 MD5Sum: 8dd2fa1d3c84b82e865aaf136ee8e30e
 SHA1: f8aa7b94846142da63ce259e18af0cd67a118408
@@ -25842,7 +25828,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/aarch64-q/qemu-user-m68k_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-user-m68k_1.10.2.1_aarch64.deb
 Size: 498456
 MD5Sum: f59949c536c0695c94ce8873243b9f21
 SHA1: 6cc47265383cab47b764db0aa39a07afb50724c9
@@ -25857,7 +25843,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/aarch64-q/qemu-user-ppc64_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-user-ppc64_1.10.2.1_aarch64.deb
 Size: 629004
 MD5Sum: e88f0a28c99e2a004dc41d0ce9e040a5
 SHA1: c9cef47fe7035ebf3e9ff5fa2986ec3abc432f70
@@ -25872,7 +25858,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/aarch64-q/qemu-user-ppc_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-user-ppc_1.10.2.1_aarch64.deb
 Size: 616156
 MD5Sum: cb9df1c7d887bb469a59c07dc65f791b
 SHA1: 604196d241249e86941fa7ff74e5f5973fb1ebb9
@@ -25887,7 +25873,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/aarch64-q/qemu-user-riscv32_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-user-riscv32_1.10.2.1_aarch64.deb
 Size: 588232
 MD5Sum: f22883dc299df16ff30aa5c88dc2a817
 SHA1: a5760e63cb3bd42245916b94311861e181de5a04
@@ -25902,7 +25888,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/aarch64-q/qemu-user-riscv64_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-user-riscv64_1.10.2.1_aarch64.deb
 Size: 593936
 MD5Sum: 8098fc3436291f8b90986bc296053c8f
 SHA1: 3a647a291edba6af5cf85bd607a838f3d116ca84
@@ -25919,7 +25905,7 @@ Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Breaks: qemu-user-x86_64
 Replaces: qemu-user-x86_64
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/aarch64-q/qemu-user-x86-64_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-user-x86-64_1.10.2.1_aarch64.deb
 Size: 562380
 MD5Sum: 740473b6342fed2c5a5d1ce1e9d17a15
 SHA1: 3367177141ba8eba48316f33ff8a22cefda53250
@@ -25934,7 +25920,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libbz2, libcurl, libgmp, libgnutls, libnettle, libnfs, libpixman, libssh, zlib, zstd
 Description: A set of utilities for working with the QEMU emulators
-Filename: ../../../../releases/download/aarch64-q/qemu-utils_1:10.2.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qemu-utils_1.10.2.1_aarch64.deb
 Size: 961156
 MD5Sum: 2c8fa884cf664333f13cbf73af778e9f
 SHA1: 7330982136d52928f0acbbc7fa26cd3460201ca6
@@ -25966,7 +25952,7 @@ Version: 2:1.1.5
 Homepage: https://github.com/mpimd-csc/qrupdate-ng
 Depends: libopenblas
 Description: A Library for Fast Updating of QR and Cholesky Decompositions.
-Filename: ../../../../releases/download/aarch64-q/qrupdate-ng_2:1.1.5_aarch64.deb
+Filename: ../../../../releases/download/aarch64-q/qrupdate-ng_2.1.1.5_aarch64.deb
 Size: 154548
 MD5Sum: 90ee0fa007ff7efa27057b908ebb5986
 SHA1: fdf490982e5f28ef31c49a1ae3103dd393c9cf20
@@ -26325,7 +26311,7 @@ Version: 1:0.1.5-1
 Homepage: https://github.com/eafer/rdrview
 Depends: libcurl, libiconv, libseccomp, libxml2
 Description: Command line tool to extract the main content from a webpage
-Filename: ../../../../releases/download/aarch64-r/rdrview_1:0.1.5-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-r/rdrview_1.0.1.5-1_aarch64.deb
 Size: 23324
 MD5Sum: 2f886d7f02cc9ea08eda7399995ab7c9
 SHA1: 560de81ee76dd3e7c2935f493a9de25d0caf9bef
@@ -26430,7 +26416,7 @@ Version: 1:06.02.08
 Homepage: https://dianne.skoll.ca/projects/remind/
 Depends: libandroid-glob
 Description: Sophisticated calendar and alarm program
-Filename: ../../../../releases/download/aarch64-r/remind_1:06.02.08_aarch64.deb
+Filename: ../../../../releases/download/aarch64-r/remind_1.06.02.08_aarch64.deb
 Size: 307960
 MD5Sum: 8e958d60f88beefca3a09ee0a09d0ca8
 SHA1: ccbc718da835357c96bc1a1d3e261d54a65fa00e
@@ -26563,7 +26549,7 @@ Maintainer: @termux
 Version: 1:0.73-2
 Homepage: https://github.com/samhocevar/rinetd
 Description: A user-mode TCP port redirection server
-Filename: ../../../../releases/download/aarch64-r/rinetd_1:0.73-2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-r/rinetd_1.0.73-2_aarch64.deb
 Size: 15064
 MD5Sum: 996823dde59037b89fa48265d6ddb938
 SHA1: 60821fed36d467088198a9671372b4279cb95bf3
@@ -26595,7 +26581,7 @@ Homepage: https://github.com/phiresky/ripgrep-all
 Depends: fzf, ripgrep, xz-utils
 Recommends: ffmpeg, graphicsmagick, pandoc, poppler, tesseract
 Description: Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc
-Filename: ../../../../releases/download/aarch64-r/ripgrep-all_1:0.10.10_aarch64.deb
+Filename: ../../../../releases/download/aarch64-r/ripgrep-all_1.0.10.10_aarch64.deb
 Size: 3397672
 MD5Sum: b2650bfe2bf50240112bc85311b4023d
 SHA1: 0835892cbea589f89763940e1998fa3eb06c2165
@@ -27544,7 +27530,7 @@ Maintainer: @termux
 Version: 1:3.12.5-1
 Homepage: http://simh.trailing-edge.com/
 Description: A collection of simulators for computer hardware and software from the past
-Filename: ../../../../releases/download/aarch64-s/simh_1:3.12.5-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-s/simh_1.3.12.5-1_aarch64.deb
 Size: 1073380
 MD5Sum: 9a39472fd01341c4e2fc0fe2c9ed487d
 SHA1: 2265f0783ea279a9b60fc3428902e38c35e64838
@@ -28200,7 +28186,7 @@ Maintainer: @termux
 Version: 0.0.0+g31c1ad37
 Homepage: https://github.com/nothings/stb
 Description: Single-file public domain (or MIT licensed) libraries for C/C++
-Filename: ../../../../releases/download/aarch64-s/stb_0.0.0+g31c1ad37_aarch64.deb
+Filename: ../../../../releases/download/aarch64-s/stb_0.0.0.g31c1ad37_aarch64.deb
 Size: 347656
 MD5Sum: bd569273aa97a9f3e6f84797485cbf3a
 SHA1: 5b9b41192deffd548f409b7df7a68129078fde9b
@@ -28533,7 +28519,7 @@ Version: 2:7.12.2
 Homepage: https://github.com/DrTimothyAldenDavis/SuiteSparse
 Depends: suitesparse (= 2:7.12.2)
 Description: Static libraries for suitesparse
-Filename: ../../../../releases/download/aarch64-s/suitesparse-static_2:7.12.2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-s/suitesparse-static_2.7.12.2_aarch64.deb
 Size: 1322736
 MD5Sum: 04c85b95319118247e2a1b3dc738c6e4
 SHA1: daf692eb7b43a098a8a179f200ab12a64432bee4
@@ -28549,7 +28535,7 @@ Homepage: https://github.com/DrTimothyAldenDavis/SuiteSparse
 Breaks: sundials (<< 7.1.1-2), octave (<< 8.4.0-6), octave-x (<< 8.4.0-5)
 Depends: libandroid-complex-math, libgmp, libmpfr, libopenblas
 Description: A Suite of Sparse matrix packages.
-Filename: ../../../../releases/download/aarch64-s/suitesparse_2:7.12.2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-s/suitesparse_2.7.12.2_aarch64.deb
 Size: 7387252
 MD5Sum: fb9808b64a98e2eee8bbab9d2c4064b0
 SHA1: 989b9333271b1c8d3eb2bfe5825792c60f237f82
@@ -29173,7 +29159,7 @@ Conflicts: procps (<< 3.3.15-2)
 Recommends: ed, dos2unix, inetutils, net-tools, patch, unzip
 Suggests: termux-api
 Description: Basic system tools for Termux
-Filename: ../../../../releases/download/aarch64-t/termux-tools_1.46.0+really1.45.0-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-t/termux-tools_1.46.0.really1.45.0-1_aarch64.deb
 Size: 33592
 MD5Sum: 1a9d5d0d13ccdcdf04a33a4ca3b9d8b5
 SHA1: 277282739555dae5d2b342dd6907f28f13ee2a77
@@ -29250,7 +29236,7 @@ Version: 1:2026.0
 Homepage: https://www.tug.org/texlive/
 Depends: texlive-bin (= 1:2026.0)
 Description: Static libraries for texlive-bin
-Filename: ../../../../releases/download/aarch64-t/texlive-bin-static_1:2026.0_aarch64.deb
+Filename: ../../../../releases/download/aarch64-t/texlive-bin-static_1.2026.0_aarch64.deb
 Size: 440048
 MD5Sum: 83961860c62969a0dfc3bcb63045605e
 SHA1: 66fc6573de1b60981466b3645bdae21fefe6c838
@@ -29268,7 +29254,7 @@ Depends: freetype, harfbuzz, harfbuzz-icu, libandroid-complex-math, libc++, libc
 Recommends: texlive-installer
 Replaces: texlive (<< 20170524-3), texlive-bin-dev
 Description: TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
-Filename: ../../../../releases/download/aarch64-t/texlive-bin_1:2026.0_aarch64.deb
+Filename: ../../../../releases/download/aarch64-t/texlive-bin_1.2026.0_aarch64.deb
 Size: 10805056
 MD5Sum: 87a689db3f2afc1b6abf681432a5351e
 SHA1: eb3bae274ae66547568ca0003d6d19296a363b4c
@@ -29387,7 +29373,7 @@ Maintainer: @termux
 Version: 2.15.0-2
 Homepage: https://timidity.sourceforge.net/
 Description: MIDI-to-WAVE converter and player
-Filename: ../../../../releases/download/aarch64-t/timidity++_2.15.0-2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-t/timidity.._2.15.0-2_aarch64.deb
 Size: 350812
 MD5Sum: 4fdec3ea395d26b580cebd71818df265
 SHA1: a84368ec02bab4ece9c3d4834e8afce3e773fdeb
@@ -29416,7 +29402,7 @@ Version: 2.02.61
 Homepage: https://tintin.mudhalla.net
 Depends: pcre, libgnutls, zlib
 Description: Classic text-based MUD client
-Filename: ../../../../releases/download/aarch64-t/tintin++_2.02.61_aarch64.deb
+Filename: ../../../../releases/download/aarch64-t/tintin.._2.02.61_aarch64.deb
 Size: 1405316
 MD5Sum: 3f885e401986ef6ed0f1865296e96724
 SHA1: c4e89c9b944e273665792581abf3fb48a554744c
@@ -30616,7 +30602,7 @@ Maintainer: @termux
 Version: 1:4.1.1
 Homepage: https://github.com/nemtrif/utfcpp
 Description: UTF8-CPP: UTF-8 with C++ in a Portable Way
-Filename: ../../../../releases/download/aarch64-u/utf8cpp_1:4.1.1_all.deb
+Filename: ../../../../releases/download/aarch64-u/utf8cpp_1.4.1.1_all.deb
 Size: 10516
 MD5Sum: 9c9ae926bb8aac4481d3162557793527
 SHA1: 98c1db9ae568158d289df5e27ecfc4f5b1184a17
@@ -31749,7 +31735,7 @@ Version: 1:0.164.3191-1
 Homepage: https://www.videolan.org/developers/x264.html
 Depends: libx264 (= 1:0.164.3191-1)
 Description: Commandline video encoder for the H.264/MPEG-4 AVC format
-Filename: ../../../../releases/download/aarch64-x/x264_1:0.164.3191-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-x/x264_1.0.164.3191-1_aarch64.deb
 Size: 413440
 MD5Sum: f926255948e75e7cc03afc204636cb40
 SHA1: 9cd3050de112bb8185f291049fcf17ffd3ebbc04
@@ -32595,7 +32581,7 @@ Version: 1:1.90.0-2
 Homepage: https://boost.org
 Depends: boost (= 1:1.90.0-2)
 Description: Boost header files
-Filename: ../../../../releases/download/aarch64-b/boost-headers_1:1.90.0-2_all.deb
+Filename: ../../../../releases/download/aarch64-b/boost-headers_1.1.90.0-2_all.deb
 Size: 10741128
 MD5Sum: 00da1edf9a2717775ffac7702c19a75d
 SHA1: 2cb13f38cd20017cbb17adde5370830aa5fc2255
@@ -32610,7 +32596,7 @@ Version: 1:1.90.0-2
 Homepage: https://boost.org
 Depends: boost (= 1:1.90.0-2)
 Description: Static libraries for boost
-Filename: ../../../../releases/download/aarch64-b/boost-static_1:1.90.0-2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-b/boost-static_1.1.90.0-2_aarch64.deb
 Size: 3034916
 MD5Sum: 4a77da79877679cdf1539e9d5297241d
 SHA1: 6645ccbb2b4e36dcc046bc1d804e714467a1d785
@@ -32627,7 +32613,7 @@ Breaks: libboost-python (<= 1.65.1-2), boost-dev
 Depends: libc++, libbz2, libiconv, liblzma, zlib, libandroid-wordexp
 Replaces: libboost-python (<= 1.65.1-2), boost-dev
 Description: Free peer-reviewed portable C++ source libraries
-Filename: ../../../../releases/download/aarch64-b/boost_1:1.90.0-2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-b/boost_1.1.90.0-2_aarch64.deb
 Size: 1451384
 MD5Sum: 9d61cf5cf6b2043780aee9b916cf03b9
 SHA1: 4f726b5785cc66c9563f96dccc9383e1a8e6db55
@@ -32672,7 +32658,7 @@ Version: 2:0.9.3
 Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 Depends: libcap-ng (= 2:0.9.3)
 Description: Static libraries for libcap-ng
-Filename: ../../../../releases/download/aarch64-libc/libcap-ng-static_2:0.9.3_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libc/libcap-ng-static_2.0.9.3_aarch64.deb
 Size: 9796
 MD5Sum: 400cdefdf6b25d9fc30f394770478bc2
 SHA1: 66382ea7aa1ec0d712a368484fa985d17848b3ab
@@ -32686,7 +32672,7 @@ Maintainer: @termux
 Version: 2:0.9.3
 Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 Description: Library making programming with POSIX capabilities easier than traditional libcap
-Filename: ../../../../releases/download/aarch64-libc/libcap-ng_2:0.9.3_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libc/libcap-ng_2.0.9.3_aarch64.deb
 Size: 38968
 MD5Sum: d7d476693c4d186753b58397d5a80266
 SHA1: 9ae2cc23befb4f31542979a7eb6f1ed53684279a
@@ -32701,7 +32687,7 @@ Version: 1:2.5.0-1
 Homepage: https://github.com/termux/termux-exec-package
 Depends: termux-exec (= 1:2.5.0-1)
 Description: Static libraries for termux-exec
-Filename: ../../../../releases/download/aarch64-t/termux-exec-static_1:2.5.0-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-t/termux-exec-static_1.2.5.0-1_aarch64.deb
 Size: 10572
 MD5Sum: 439cb6814a967ee84dc605afb17346b0
 SHA1: 1981d1f551efdc36bf09451933ccf51eeca1d9f9
@@ -32716,7 +32702,7 @@ Version: 1:2.5.0-1
 Homepage: https://github.com/termux/termux-exec-package
 Essential: yes
 Description: Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment
-Filename: ../../../../releases/download/aarch64-t/termux-exec_1:2.5.0-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-t/termux-exec_1.2.5.0-1_aarch64.deb
 Size: 286688
 MD5Sum: fd5a51b5e31eb7672327f2a67c74cb43
 SHA1: d613f1af7b38eaedab2601982c61af4306122d44
@@ -32776,7 +32762,7 @@ Version: 2:3.9.1
 Homepage: https://github.com/opencollab/arpack-ng
 Depends: libopenblas
 Description: Collection of Fortran77 subroutines designed to solve large scale eigenvalue problems.
-Filename: ../../../../releases/download/aarch64-a/arpack-ng_2:3.9.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-a/arpack-ng_2.3.9.1_aarch64.deb
 Size: 232504
 MD5Sum: 139a67db4161b4dd272bc0407c21eb31
 SHA1: 3f84583fa376db5c63e343cfb8959d6e83379420
@@ -32791,7 +32777,7 @@ Version: 1:2026.05.14
 Homepage: https://curl.se/docs/caextract.html
 Depends: ca-certificates (= 1:2026.05.14)
 Description: Common CA certificates (java keystore format)
-Filename: ../../../../releases/download/aarch64-c/ca-certificates-java_1:2026.05.14_all.deb
+Filename: ../../../../releases/download/aarch64-c/ca-certificates-java_1.2026.05.14_all.deb
 Size: 96488
 MD5Sum: 91f1b3eecfce4e346e980878a7e865c4
 SHA1: 8939487b8516cbbe79ba158e431ab56a9b45b002
@@ -32805,7 +32791,7 @@ Maintainer: @termux
 Version: 1:2026.05.14
 Homepage: https://curl.se/docs/caextract.html
 Description: Common CA certificates
-Filename: ../../../../releases/download/aarch64-c/ca-certificates_1:2026.05.14_all.deb
+Filename: ../../../../releases/download/aarch64-c/ca-certificates_1.2026.05.14_all.deb
 Size: 105736
 MD5Sum: d58491ffa01dcb00c1812689c62290e1
 SHA1: 434568e9960062580cfb2ea916a5a414e75b2e55
@@ -32835,7 +32821,7 @@ Version: 1:3.6.3
 Homepage: https://www.openssl.org/
 Depends: openssl (= 1:3.6.3)
 Description: Static libraries for openssl
-Filename: ../../../../releases/download/aarch64-o/openssl-static_1:3.6.3_aarch64.deb
+Filename: ../../../../releases/download/aarch64-o/openssl-static_1.3.6.3_aarch64.deb
 Size: 2639576
 MD5Sum: 1934aabcb4cad871400f04fbfa34a3d7
 SHA1: 860ffc7c7dec70a98704e6fe7065c43fa92426dd
@@ -32850,7 +32836,7 @@ Version: 1:3.6.3
 Homepage: https://www.openssl.org/
 Depends: openssl (= 1:3.6.3)
 Description: The openssl command line cryptographic tool
-Filename: ../../../../releases/download/aarch64-o/openssl-tool_1:3.6.3_aarch64.deb
+Filename: ../../../../releases/download/aarch64-o/openssl-tool_1.3.6.3_aarch64.deb
 Size: 279256
 MD5Sum: 610bdb2edd161ba3805ce8b430b894d1
 SHA1: 4f65db69e3fa38179126ae9b5b06dc79df0c7fec
@@ -32868,10 +32854,24 @@ Depends: ca-certificates, zlib
 Conflicts: libcurl (<< 7.61.0-1)
 Replaces: openssl-tool (<< 1.1.1b-1), openssl-dev
 Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
-Filename: ../../../../releases/download/aarch64-o/openssl_1:3.6.3_aarch64.deb
+Filename: ../../../../releases/download/aarch64-o/openssl_1.3.6.3_aarch64.deb
 Size: 2478456
 MD5Sum: 36c24c299d610a71f417639e29fe1cff
 SHA1: 629dfd8ae67824a554c53e4b556d03021c5f3692
 SHA256: 3f3fa4ba87773cdf080c92ef3d2f26dadc3c6fae8c8f0b99704c279421188902
 SHA512: 72608cac35899b07693df4a95b1fb4197ab753ebebee0c3daa4535cc647afeb8f81c04c0664e89fdb54da5e8839498c04ce097bba54991bec216ec52863bbde3
+
+Package: 0verkill
+Architecture: aarch64
+Installed-Size: 3156
+Maintainer: @termux
+Version: 1:0.16-1
+Homepage: https://github.com/hackndev/0verkill
+Description: Bloody 2D action deathmatch-like game in ASCII-ART
+Filename: ../../../../releases/download/aarch64-0/0verkill_1.0.16-1_aarch64.deb
+Size: 162808
+MD5Sum: 178a2b614908bea6ab99147adc99a3bc
+SHA1: 8bb26bcef8528e4eaa15890ebaefb9687515d27e
+SHA256: a397b17c0144a40e9f8acd1865b1ab141810235654ddee1fdd06a57b89776575
+SHA512: 45e5d3f031a3c8ded7fec4faee7de440db1ab5a07bb9758c1ce02eda09195efa6a48b84a7461747fa1818b65f9de8bbe6c9f80fb5d1a864da56c72dc8de1e1a6
 

@@ -1,18 +1,3 @@
-Package: vlan
-Architecture: all
-Installed-Size: 104
-Maintainer: @termux
-Version: 2.0.5
-Homepage: https://salsa.debian.org/debian/vlan
-Depends: iproute2
-Description: ifupdown integration for vlan configuration
-Filename: ../../../../releases/download/arm-v/vlan_2.0.5_all.deb
-Size: 6240
-MD5Sum: e55debf0c33dccd3800ba64d0c179b35
-SHA1: a56437916e478c89f4818292210e517e1133aa0d
-SHA256: 002831c2b68e4117e53374c9ea863858194a0fba34d373eb1cd81ae6b420f07c
-SHA512: 29c9d7c5743f27cb461198151cdfbd1883b89690095ca3ccf0b3273c02832614b55b26a15d8f18cd46b25c3b52f226e35e970a02c35af3c15a2208f40e60cb22
-
 Package: bubblewrap
 Architecture: arm
 Installed-Size: 132
@@ -27,4 +12,19 @@ MD5Sum: 721d92d96a237f46018072bc19be56f7
 SHA1: 70655361fc4f8185738b45b005482e57ee86ba0e
 SHA256: 8023eb6e573bd8c6366cb528baf3f07f215ec6187b3ea8f02750d90c8a2f6a8e
 SHA512: c76b6419621bd8f7d404e3e5f017e90c758587510882fd20745c8938a0c96c761c1cb3c4c04a0e4475a322181b3185fabb025db9ca72ed075310b57ff7338fd2
+
+Package: vlan
+Architecture: all
+Installed-Size: 104
+Maintainer: @termux
+Version: 2.0.5
+Homepage: https://salsa.debian.org/debian/vlan
+Depends: iproute2
+Description: ifupdown integration for vlan configuration
+Filename: ../../../../releases/download/arm-v/vlan_2.0.5_all.deb
+Size: 6240
+MD5Sum: e55debf0c33dccd3800ba64d0c179b35
+SHA1: a56437916e478c89f4818292210e517e1133aa0d
+SHA256: 002831c2b68e4117e53374c9ea863858194a0fba34d373eb1cd81ae6b420f07c
+SHA512: 29c9d7c5743f27cb461198151cdfbd1883b89690095ca3ccf0b3273c02832614b55b26a15d8f18cd46b25c3b52f226e35e970a02c35af3c15a2208f40e60cb22
 

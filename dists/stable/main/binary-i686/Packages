@@ -1,17 +1,3 @@
-Package: 0verkill
-Architecture: i686
-Installed-Size: 3176
-Maintainer: @termux
-Version: 1:0.16-1
-Homepage: https://github.com/hackndev/0verkill
-Description: Bloody 2D action deathmatch-like game in ASCII-ART
-Filename: ../../../../releases/download/i686-0/0verkill_1:0.16-1_i686.deb
-Size: 168044
-MD5Sum: 6741bb29a572a268029684a322589969
-SHA1: d6959eb7d5deb6a6303fb77662b7ba3cc7df22d6
-SHA256: f9930695f68c5042e8db299f7cba3c87ed7b7e40a60db7c78aeff769acc047de
-SHA512: 3498ff64bcce10694c46e3c887fa123d71d2f33c48bf17e2d83f0a9e5cebb254744c1edb6a5d4abb04c6c955257da2390702dad0e1e34140f7012d8bac5bed24
-
 Package: 2048-c
 Architecture: i686
 Installed-Size: 56
@@ -19,7 +5,7 @@ Maintainer: @termux
 Version: 1:1.0.3-1
 Homepage: https://github.com/mevdschee/2048.c
 Description: Console version of the game '2048' for GNU/Linux
-Filename: ../../../../releases/download/i686-2/2048-c_1:1.0.3-1_i686.deb
+Filename: ../../../../releases/download/i686-2/2048-c_1.1.0.3-1_i686.deb
 Size: 5920
 MD5Sum: 101fb9b6a6f3994fe953236d52584b04
 SHA1: 02df58910aba5422a38a4ee7a4bd00cf177c4a28
@@ -227,7 +213,7 @@ Maintainer: @termux
 Version: 1:1.3.1
 Homepage: https://github.com/FiloSottile/age
 Description: A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability
-Filename: ../../../../releases/download/i686-a/age_1:1.3.1_i686.deb
+Filename: ../../../../releases/download/i686-a/age_1.1.3.1_i686.deb
 Size: 1943404
 MD5Sum: 687f9b14cfe280833f1a61a51b5dc721
 SHA1: bdb87da1e95c320adc59eebf539e7c8060989a72
@@ -555,7 +541,7 @@ Breaks: apache2-dev
 Depends: apr, apr-util, libandroid-support, libcrypt, libnghttp2, libuuid, openssl, pcre2, zlib
 Replaces: apache2-dev
 Description: Apache Web Server
-Filename: ../../../../releases/download/i686-a/apache2_1:2.4.68_i686.deb
+Filename: ../../../../releases/download/i686-a/apache2_1.2.4.68_i686.deb
 Size: 5301616
 MD5Sum: 81f15665ac0b8f6b441a0f003bf02801
 SHA1: 08ad7278f24322e4ffddab045c2ac71efb322a96
@@ -919,7 +905,7 @@ Version: 1:2020.12.07
 Homepage: http://aspell.net/
 Depends: aspell
 Description: English dictionary for aspell
-Filename: ../../../../releases/download/i686-a/aspell-en_1:2020.12.07_all.deb
+Filename: ../../../../releases/download/i686-a/aspell-en_1.2020.12.07_all.deb
 Size: 1124408
 MD5Sum: 06126f97741f0351f72fb51066a0fb6a
 SHA1: a649c84e9808c7fa3d2288d4da5880c719c30e65
@@ -934,7 +920,7 @@ Version: 2:0.50-3-1
 Homepage: http://aspell.net/
 Depends: aspell
 Description: French dictionary for aspell
-Filename: ../../../../releases/download/i686-a/aspell-fr_2:0.50-3-1_all.deb
+Filename: ../../../../releases/download/i686-a/aspell-fr_2.0.50-3-1_all.deb
 Size: 4369460
 MD5Sum: 111ecc346445ebe25cda998fda157e75
 SHA1: 326c21294b59455013684744e9958f06c0905210
@@ -1117,7 +1103,7 @@ Version: 1:20240608.083822.1ed9031-1
 Homepage: https://github.com/wez/atomicparsley
 Depends: libc++, zlib
 Description: Read, parse and set metadata of MPEG-4 and 3gp files
-Filename: ../../../../releases/download/i686-a/atomicparsley_1:20240608.083822.1ed9031-1_i686.deb
+Filename: ../../../../releases/download/i686-a/atomicparsley_1.20240608.083822.1ed9031-1_i686.deb
 Size: 112748
 MD5Sum: 398da0a4583ef500449eb224da02ffc7
 SHA1: 9821c9b19cb1532bd058383ae5c30d4241758eda
@@ -1132,7 +1118,7 @@ Version: 1:0.6.6-1
 Homepage: https://github.com/bettio/AtomVM
 Depends: zlib
 Description: The minimal Erlang VM implementation
-Filename: ../../../../releases/download/i686-a/atomvm_1:0.6.6-1_i686.deb
+Filename: ../../../../releases/download/i686-a/atomvm_1.0.6.6-1_i686.deb
 Size: 208348
 MD5Sum: bf950dc954eabfb29c0f0673f12dbc1b
 SHA1: c079c205c1b0fcc6729d4f970fb51e9cfa213d17
@@ -1653,7 +1639,7 @@ Maintainer: @termux
 Version: 1:1.1.0-1
 Homepage: https://justine.lol/blinkenlights/
 Description: Tiny x86-64 Linux emulator
-Filename: ../../../../releases/download/i686-b/blink_1:1.1.0-1_i686.deb
+Filename: ../../../../releases/download/i686-b/blink_1.1.1.0-1_i686.deb
 Size: 303992
 MD5Sum: 0d51b64dd6db719c663a691d4cee0ff7
 SHA1: 9adfed348c99e4a4a06a98e8bdfac11bded3bf3c
@@ -1862,7 +1848,7 @@ Version: 1:3.3-1
 Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 Depends: ncurses
 Description: Classic text mode games from UNIX folklore
-Filename: ../../../../releases/download/i686-b/bsd-games_1:3.3-1_i686.deb
+Filename: ../../../../releases/download/i686-b/bsd-games_1.3.3-1_i686.deb
 Size: 207068
 MD5Sum: d266f8d8bc3a70a27f0ba5b3214c0621
 SHA1: b0ffa9d91da549fb80d02169f493e8d077c0c659
@@ -2278,7 +2264,7 @@ Version: 1:3.27.1
 Homepage: https://cfengine.com/
 Depends: cfengine (= 1:3.27.1)
 Description: Static libraries for cfengine
-Filename: ../../../../releases/download/i686-c/cfengine-static_1:3.27.1_i686.deb
+Filename: ../../../../releases/download/i686-c/cfengine-static_1.3.27.1_i686.deb
 Size: 1349252
 MD5Sum: 8c91eed5809fd0733cc055514ce25714
 SHA1: dd37f61181a13d7df90a5645a7b0bae9ba13b71a
@@ -2293,7 +2279,7 @@ Version: 1:3.27.1
 Homepage: https://cfengine.com/
 Depends: libandroid-glob, liblmdb, librsync, libxml2, libyaml, openssl, pcre2
 Description: CFEngine is a configuration management technology
-Filename: ../../../../releases/download/i686-c/cfengine_1:3.27.1_i686.deb
+Filename: ../../../../releases/download/i686-c/cfengine_1.3.27.1_i686.deb
 Size: 966316
 MD5Sum: 7c235c5a46e1c5d3b617c5f79f307729
 SHA1: 8a794c4226d24590e628c5d2e0a103079713f1b3
@@ -2467,7 +2453,7 @@ Version: 0.0.0+g3c32e7d
 Homepage: https://github.com/yuri-xyz/chroma.git
 Depends: vulkan-icd, alsa-lib
 Description: Shader-based audio visualizer for the terminal
-Filename: ../../../../releases/download/i686-c/chroma-visualizer_0.0.0+g3c32e7d_i686.deb
+Filename: ../../../../releases/download/i686-c/chroma-visualizer_0.0.0.g3c32e7d_i686.deb
 Size: 2382324
 MD5Sum: 36fa053aeea145b436e5bafc41882b50
 SHA1: 06a21389077b454b9c907031038c1ddbcebe15fd
@@ -2844,7 +2830,7 @@ Version: 1:1.17.11
 Homepage: https://github.com/coin-or/Clp
 Depends: coinor-clp (= 1:1.17.11)
 Description: Static libraries for coinor-clp
-Filename: ../../../../releases/download/i686-c/coinor-clp-static_1:1.17.11_i686.deb
+Filename: ../../../../releases/download/i686-c/coinor-clp-static_1.1.17.11_i686.deb
 Size: 879720
 MD5Sum: 01d36f6e46506ebae6370d2b56d23a0f
 SHA1: 15e93072ddf6285184999c0bb6c9202d9005b599
@@ -2859,7 +2845,7 @@ Version: 1:1.17.11
 Homepage: https://github.com/coin-or/Clp
 Depends: libc++, libcoinor-osi, libcoinor-utils
 Description: An open-source linear programming solver
-Filename: ../../../../releases/download/i686-c/coinor-clp_1:1.17.11_i686.deb
+Filename: ../../../../releases/download/i686-c/coinor-clp_1.1.17.11_i686.deb
 Size: 820100
 MD5Sum: 6cde70df91c8ae0c9972e7f74f8d1214
 SHA1: f41b94a3fabf2cde694363bb484c472151f0510d
@@ -3129,7 +3115,7 @@ Maintainer: @termux
 Version: 1:10.4.13
 Homepage: https://github.com/schollz/croc
 Description: Easily and securely send things from one computer to another
-Filename: ../../../../releases/download/i686-c/croc_1:10.4.13_i686.deb
+Filename: ../../../../releases/download/i686-c/croc_1.10.4.13_i686.deb
 Size: 3652980
 MD5Sum: 370e146ab236e7c1d9e4bdd776bfeb4f
 SHA1: 954ffe3ea1a0fa2ba6ee1d0c0402219fdc01df7d
@@ -3253,7 +3239,7 @@ Version: 2:6.2.1
 Homepage: https://ctags.io/
 Depends: libiconv, libjansson, libxml2, libyaml
 Description: Universal ctags: Source code index builder
-Filename: ../../../../releases/download/i686-c/ctags_2:6.2.1_i686.deb
+Filename: ../../../../releases/download/i686-c/ctags_2.6.2.1_i686.deb
 Size: 738952
 MD5Sum: b4ed71e76ddb30ee84f359fd19eea23d
 SHA1: 5da6b50ac23b5a2a3f8e6d48c7bda8d48ac9beed
@@ -3387,7 +3373,7 @@ Version: 1:1.12.13-5
 Homepage: https://www.nongnu.org/cvs/
 Depends: zlib, libandroid-support
 Description: Concurrent Versions System
-Filename: ../../../../releases/download/i686-c/cvs_1:1.12.13-5_i686.deb
+Filename: ../../../../releases/download/i686-c/cvs_1.1.12.13-5_i686.deb
 Size: 515304
 MD5Sum: b0d3e9e9727bc26b7130f7cd22e9b972
 SHA1: 71ca7ac9f43a7d33e75b1416ab94d578157e359c
@@ -3788,7 +3774,7 @@ Homepage: https://www.getdnote.com/
 Breaks: dnote-client
 Replaces: dnote-client
 Description: A simple command line notebook for programmers
-Filename: ../../../../releases/download/i686-d/dnote_1:0.16.0_i686.deb
+Filename: ../../../../releases/download/i686-d/dnote_1.0.16.0_i686.deb
 Size: 3358820
 MD5Sum: fd9f29c1568e6a5faf3d6a79f1f42c75
 SHA1: dffb698db687b5cdeae420ab50980792222ea1b9
@@ -4694,7 +4680,7 @@ Version: 1:4.12-5
 Homepage: https://www.eclipse.org/jdt/core/
 Conflicts: ecj4.6
 Description: Eclipse Compiler for Java
-Filename: ../../../../releases/download/i686-e/ecj_1:4.12-5_all.deb
+Filename: ../../../../releases/download/i686-e/ecj_1.4.12-5_all.deb
 Size: 6775540
 MD5Sum: b074ae18f9b07b06137deb72b57253e6
 SHA1: 7e47aac2cd764a98c1efd25bc201f4c8343dda21
@@ -4992,7 +4978,7 @@ Version: 1.2.2RC+really1.2.2
 Homepage: https://gitlab.com/ecodis/exhale
 Depends: libc++
 Description: Open source xHE-AAC encoder
-Filename: ../../../../releases/download/i686-e/exhale_1.2.2RC+really1.2.2_i686.deb
+Filename: ../../../../releases/download/i686-e/exhale_1.2.2RC.really1.2.2_i686.deb
 Size: 137976
 MD5Sum: d6c4a5a5cf2e7e766f2751fa16813857
 SHA1: 575d5a4ec4d3881cc61aa7d7471c00c35d35281c
@@ -5024,7 +5010,7 @@ Breaks: exiv2-dev
 Depends: brotli, libandroid-support, libc++, libexpat, libiconv, libinih, zlib
 Replaces: exiv2-dev
 Description: Exif, Iptc and XMP metadata manipulation library and tools
-Filename: ../../../../releases/download/i686-e/exiv2_2:0.28.8_i686.deb
+Filename: ../../../../releases/download/i686-e/exiv2_2.0.28.8_i686.deb
 Size: 1095428
 MD5Sum: a2bc93fa77943ed20f7b847c9593713c
 SHA1: 1de96baf72663b2f2bdea0dd55dae3fa1699885a
@@ -5070,7 +5056,7 @@ Version: 1.6.5-3
 Homepage: https://bitbucket.org/dtsarkov/factplusplus
 Depends: libc++
 Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
-Filename: ../../../../releases/download/i686-f/fact++_1.6.5-3_i686.deb
+Filename: ../../../../releases/download/i686-f/fact.._1.6.5-3_i686.deb
 Size: 349200
 MD5Sum: dc784c21d96adb0c7c5c6cacfaa32f99
 SHA1: 22bcc1535d45e965cd8b6266e007c3a4bbed700c
@@ -5573,7 +5559,7 @@ Version: 1:11.2.0
 Homepage: https://fmt.dev/latest/index.html
 Depends: libc++
 Description: Open-source formatting library for C++
-Filename: ../../../../releases/download/i686-f/fmt_1:11.2.0_i686.deb
+Filename: ../../../../releases/download/i686-f/fmt_1.11.2.0_i686.deb
 Size: 173960
 MD5Sum: c9dd2eecdedb9449a2462e4f73f0f803
 SHA1: 344e17b5b5bb9986fae9693012ed301710caa336
@@ -7305,7 +7291,7 @@ Maintainer: @termux
 Version: 1:12.3.3
 Homepage: https://grafana.com/
 Description: The open-source platform for monitoring and observability
-Filename: ../../../../releases/download/i686-g/grafana_1:12.3.3_i686.deb
+Filename: ../../../../releases/download/i686-g/grafana_1.12.3.3_i686.deb
 Size: 129490144
 MD5Sum: e7fdf00acb0f14925ebd9c0d0b300c90
 SHA1: 30ee2f59b4e0c914d39562daaa49663263874862
@@ -8071,7 +8057,7 @@ Version: 1:2.4.0
 Homepage: http://www.mbayer.de/html2text/
 Depends: libc++, libiconv
 Description: Utility that converts HTML documents into plain text
-Filename: ../../../../releases/download/i686-h/html2text_1:2.4.0_i686.deb
+Filename: ../../../../releases/download/i686-h/html2text_1.2.4.0_i686.deb
 Size: 79876
 MD5Sum: 1a7159fd675e482c09f663ab65c97c57
 SHA1: 87154c0f977bee684bb11ec077801bd603b5b25c
@@ -8833,7 +8819,7 @@ Version: 1:0.32
 Homepage: https://github.com/agl/jbig2enc
 Depends: jbig2enc (= 1:0.32)
 Description: Static libraries for jbig2enc
-Filename: ../../../../releases/download/i686-j/jbig2enc-static_1:0.32_i686.deb
+Filename: ../../../../releases/download/i686-j/jbig2enc-static_1.0.32_i686.deb
 Size: 62272
 MD5Sum: 1220bc6c935274b4a58eb8fce57754c3
 SHA1: a8b322556a70e44da90f41fb50c8b0f6034dbc1d
@@ -8848,7 +8834,7 @@ Version: 1:0.32
 Homepage: https://github.com/agl/jbig2enc
 Depends: giflib, leptonica, libc++, libjpeg-turbo, libpng, libtiff, libwebp, python, zlib
 Description: An encoder for JBIG2
-Filename: ../../../../releases/download/i686-j/jbig2enc_1:0.32_i686.deb
+Filename: ../../../../releases/download/i686-j/jbig2enc_1.0.32_i686.deb
 Size: 59600
 MD5Sum: 3ebb1f69fb528d84dd95c75adf1aaf0d
 SHA1: 7248dbc4603dc5d033db5a14a54d1a72927795c0
@@ -10042,7 +10028,7 @@ Version: 1:0.8.1-1
 Homepage: http://www.ltrace.org/
 Depends: libc++, libelf, libdw
 Description: Tracks runtime library calls in dynamically linked programs
-Filename: ../../../../releases/download/i686-l/ltrace_1:0.8.1-1_i686.deb
+Filename: ../../../../releases/download/i686-l/ltrace_1.0.8.1-1_i686.deb
 Size: 125096
 MD5Sum: c597869b8ba39098be74d6d932ad810f
 SHA1: 965d3966749a04f832bbfd68935e42fd6a254f3a
@@ -10072,7 +10058,7 @@ Version: 0.9.2+p20251219-2
 Homepage: https://github.com/lgi-devs/lgi
 Depends: glib, gobject-introspection, libcairo, libffi, lua54
 Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
-Filename: ../../../../releases/download/i686-l/lua-lgi_0.9.2+p20251219-2_i686.deb
+Filename: ../../../../releases/download/i686-l/lua-lgi_0.9.2.p20251219-2_i686.deb
 Size: 75412
 MD5Sum: 5ca9100569b175d9abb59eccee50d118
 SHA1: dec334353f76e8486bc7a7b6bc100f456edb0927
@@ -10317,7 +10303,7 @@ Version: 1:2.1.1783773675+g3c4f9fe
 Homepage: https://luajit.org/
 Depends: luajit (= 1:2.1.1783773675+g3c4f9fe)
 Description: Static libraries for luajit
-Filename: ../../../../releases/download/i686-l/luajit-static_1:2.1.1783773675+g3c4f9fe_i686.deb
+Filename: ../../../../releases/download/i686-l/luajit-static_1.2.1.1783773675.g3c4f9fe_i686.deb
 Size: 225384
 MD5Sum: db8ec72057452e84beac33b93ed88440
 SHA1: 846edafb83af31c91bfb60c426872fe2e655a71d
@@ -10333,7 +10319,7 @@ Homepage: https://luajit.org/
 Breaks: libluajit-dev, libluajit
 Replaces: libluajit-dev, libluajit
 Description: Just-In-Time Compiler for Lua
-Filename: ../../../../releases/download/i686-l/luajit_1:2.1.1783773675+g3c4f9fe_i686.deb
+Filename: ../../../../releases/download/i686-l/luajit_1.2.1.1783773675.g3c4f9fe_i686.deb
 Size: 303896
 MD5Sum: 2a217aaf2209966e8298343dec17d297
 SHA1: b0c92b5679a2c7e708ff3ad3fd48f3e4a0be9ccc
@@ -10394,7 +10380,7 @@ Homepage: https://luvit.io
 Depends: lua51-lpeg, luajit, luv, openssl, pcre2, zlib
 Suggests: lit, luvit
 Description: A project in-between luv and luvit
-Filename: ../../../../releases/download/i686-l/luvi_1:2.15.0-2_i686.deb
+Filename: ../../../../releases/download/i686-l/luvi_1.2.15.0-2_i686.deb
 Size: 174060
 MD5Sum: 1a099b32facc652cb9554ffb7d8b3892
 SHA1: 49544fdb1ac8dcb805efe8b5f2c407025219ab04
@@ -11235,7 +11221,7 @@ Maintainer: @finagolfin
 Version: 1:6.2.1
 Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 Description: LLVM Blocks runtime library
-Filename: ../../../../releases/download/i686-libb/libblocksruntime_1:6.2.1_i686.deb
+Filename: ../../../../releases/download/i686-libb/libblocksruntime_1.6.2.1_i686.deb
 Size: 4476
 MD5Sum: 35fbef763cf49db04a0d19490967385a
 SHA1: 48a6a6b136ff5a725a7b0c936c65b74493d9215f
@@ -11420,7 +11406,7 @@ Version: 29
 Homepage: https://libcxx.llvm.org/
 Essential: yes
 Description: C++ Standard Library
-Filename: ../../../../releases/download/i686-libc/libc++_29_i686.deb
+Filename: ../../../../releases/download/i686-libc/libc.._29_i686.deb
 Size: 365468
 MD5Sum: 8af5a4a13e524a2bb136f820d0f645f4
 SHA1: 086f1d03f8f4e5639f14dbfdc08a3fdd9e379c8a
@@ -11435,7 +11421,7 @@ Version: 5.34.2
 Homepage: https://github.com/Martchus/cpp-utilities
 Depends: boost, libc++, libiconv
 Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
-Filename: ../../../../releases/download/i686-libc/libc++utilities_5.34.2_i686.deb
+Filename: ../../../../releases/download/i686-libc/libc..utilities_5.34.2_i686.deb
 Size: 166452
 MD5Sum: 1807810fe05975ee6acb78b83b12ed73
 SHA1: 9f00ba6d3d204f5929aa2bc009e20e217bf2b4ce
@@ -11759,7 +11745,7 @@ Version: 1:0.108.12
 Homepage: https://github.com/coin-or/Osi
 Depends: libcoinor-osi (= 1:0.108.12)
 Description: Static libraries for libcoinor-osi
-Filename: ../../../../releases/download/i686-libc/libcoinor-osi-static_1:0.108.12_i686.deb
+Filename: ../../../../releases/download/i686-libc/libcoinor-osi-static_1.0.108.12_i686.deb
 Size: 307900
 MD5Sum: a1bea821a3c77ed8f72ed2b8496db61c
 SHA1: 7dd010fe80fa21f97d971e98a1450d91b6dbe0bb
@@ -11774,7 +11760,7 @@ Version: 1:0.108.12
 Homepage: https://github.com/coin-or/Osi
 Depends: libc++, libcoinor-utils
 Description: An abstract base class to a generic linear programming (LP) solver
-Filename: ../../../../releases/download/i686-libc/libcoinor-osi_1:0.108.12_i686.deb
+Filename: ../../../../releases/download/i686-libc/libcoinor-osi_1.0.108.12_i686.deb
 Size: 276808
 MD5Sum: d5108bdb451f9052aa08b935e80e6ba6
 SHA1: 01652dbe7d0a629d39c0a846aaa708ced24ca148
@@ -11789,7 +11775,7 @@ Version: 1:2.11.13
 Homepage: https://github.com/coin-or/CoinUtils
 Depends: libcoinor-utils (= 1:2.11.13)
 Description: Static libraries for libcoinor-utils
-Filename: ../../../../releases/download/i686-libc/libcoinor-utils-static_1:2.11.13_i686.deb
+Filename: ../../../../releases/download/i686-libc/libcoinor-utils-static_1.2.11.13_i686.deb
 Size: 498796
 MD5Sum: ec1042506b313f9c56936472df9d0377
 SHA1: adf0536e5ef36508ce3b7b4c64755096f3a6c187
@@ -11804,7 +11790,7 @@ Version: 1:2.11.13
 Homepage: https://github.com/coin-or/CoinUtils
 Depends: libc++
 Description: An open-source collection of classes and helper functions for COIN-OR projects
-Filename: ../../../../releases/download/i686-libc/libcoinor-utils_1:2.11.13_i686.deb
+Filename: ../../../../releases/download/i686-libc/libcoinor-utils_1.2.11.13_i686.deb
 Size: 487480
 MD5Sum: cec23300d14ae9c0eea3786990ad8fe5
 SHA1: 6cb19103f245e136835dc8173add0edb264565d6
@@ -12202,7 +12188,7 @@ Version: 1:6.2.1
 Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 Depends: libc++, libblocksruntime
 Description: The libdispatch project, for concurrency on multicore hardware
-Filename: ../../../../releases/download/i686-libd/libdispatch_1:6.2.1_i686.deb
+Filename: ../../../../releases/download/i686-libd/libdispatch_1.6.2.1_i686.deb
 Size: 144988
 MD5Sum: c5a985e0b87cb2fd6d609e66be6f4e82
 SHA1: 72e1355842c4f2152243c1115f993a8315527a09
@@ -13060,7 +13046,7 @@ Version: 1:2.3.3-7
 Homepage: https://libgd.github.io/
 Depends: libgd (= 1:2.3.3-7)
 Description: Static libraries for libgd
-Filename: ../../../../releases/download/i686-libg/libgd-static_1:2.3.3-7_i686.deb
+Filename: ../../../../releases/download/i686-libg/libgd-static_1.2.3.3-7_i686.deb
 Size: 106792
 MD5Sum: 7495d612f78a8d165e9cb207eb050368
 SHA1: d64d88c56233e0aae0e2b70c87a8072bfe5c8d44
@@ -13077,7 +13063,7 @@ Breaks: libgd-dev
 Depends: fontconfig, freetype, libavif, libheif, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, zlib
 Replaces: libgd-dev
 Description: GD is an open source code library for the dynamic creation of images by programmers
-Filename: ../../../../releases/download/i686-libg/libgd_1:2.3.3-7_i686.deb
+Filename: ../../../../releases/download/i686-libg/libgd_1.2.3.3-7_i686.deb
 Size: 132880
 MD5Sum: 2a1b7585cf6de290e90662c2dfc49268
 SHA1: 3117eef5ea0fa91329b07a2f7b48067d8f526d6a
@@ -15494,7 +15480,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Static libraries for libnettle
-Filename: ../../../../releases/download/i686-libn/libnettle-static_4.0+really3.10.2_i686.deb
+Filename: ../../../../releases/download/i686-libn/libnettle-static_4.0.really3.10.2_i686.deb
 Size: 613628
 MD5Sum: 6fa60227f6a0eec50335fc917c4a1deb
 SHA1: 91ef70bb875dfa4b6821d8ab2e573e320cba48a5
@@ -15511,7 +15497,7 @@ Breaks: libnettle-dev
 Depends: libgmp
 Replaces: libnettle-dev
 Description: Cryptographic library that is designed to fit easily in more or less any context
-Filename: ../../../../releases/download/i686-libn/libnettle_4.0+really3.10.2_i686.deb
+Filename: ../../../../releases/download/i686-libn/libnettle_4.0.really3.10.2_i686.deb
 Size: 402392
 MD5Sum: 9c7efe6330b2cc8c10bcb5bc40561f80
 SHA1: e6dd4c47d702e6ffdeaa55360e6c29a62736389c
@@ -16598,7 +16584,7 @@ Depends: abseil-cpp, libc++, zlib
 Conflicts: protobuf-static
 Replaces: libprotobuf-dev, protobuf-dev, protobuf-static, libutf8-range
 Description: Protocol buffers C++ library
-Filename: ../../../../releases/download/i686-libp/libprotobuf_2:35.1_i686.deb
+Filename: ../../../../releases/download/i686-libp/libprotobuf_2.35.1_i686.deb
 Size: 1570956
 MD5Sum: cc2e2e4bc71931a71e9d350577db565c
 SHA1: 8f60381d479f163b0606c7705b7a8ea6df6c0b05
@@ -17114,7 +17100,7 @@ Version: 1:3.2.0-9
 Homepage: https://github.com/haiwen/libsearpc
 Depends: libsearpc (= 1:3.2.0-9)
 Description: Static libraries for libsearpc
-Filename: ../../../../releases/download/i686-libs/libsearpc-static_1:3.2.0-9_i686.deb
+Filename: ../../../../releases/download/i686-libs/libsearpc-static_1.3.2.0-9_i686.deb
 Size: 12636
 MD5Sum: aa76c13426a451fb61942ca10e2996d9
 SHA1: 3e4b873e0a74bce36df395599a3e446a450a3d3b
@@ -17131,7 +17117,7 @@ Breaks: libsearpc-dev
 Depends: glib, libjansson, python
 Replaces: libsearpc-dev
 Description: A simple C language RPC framework (mainly for seafile)
-Filename: ../../../../releases/download/i686-libs/libsearpc_1:3.2.0-9_i686.deb
+Filename: ../../../../releases/download/i686-libs/libsearpc_1.3.2.0-9_i686.deb
 Size: 19600
 MD5Sum: ed400a6ed6cc17a11954dcd798e5d16a
 SHA1: d32ebde9f1fc6c993aba3f94152fbc916c84e238
@@ -17177,7 +17163,7 @@ Version: 1:0.7.1
 Homepage: https://github.com/bitcoin-core/secp256k1
 Depends: libsecp256k1 (= 1:0.7.1)
 Description: Static libraries for libsecp256k1
-Filename: ../../../../releases/download/i686-libs/libsecp256k1-static_1:0.7.1_i686.deb
+Filename: ../../../../releases/download/i686-libs/libsecp256k1-static_1.0.7.1_i686.deb
 Size: 1181048
 MD5Sum: b22c308c10a8108ccb2e76a14d569757
 SHA1: 6158715256cd7c3acb4ceaf71ffdd4d3c9960ab3
@@ -17191,7 +17177,7 @@ Maintainer: @termux
 Version: 1:0.7.1
 Homepage: https://github.com/bitcoin-core/secp256k1
 Description: Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1
-Filename: ../../../../releases/download/i686-libs/libsecp256k1_1:0.7.1_i686.deb
+Filename: ../../../../releases/download/i686-libs/libsecp256k1_1.0.7.1_i686.deb
 Size: 1199652
 MD5Sum: 38fd2eb352fa36f12f69b3664ee94319
 SHA1: 5633efdb366be6b62b3ff6db813c7db8768be64a
@@ -17251,7 +17237,7 @@ Version: 2.12.1-1
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/i686-libs/libsigc++-2.0_2.12.1-1_i686.deb
+Filename: ../../../../releases/download/i686-libs/libsigc..-2.0_2.12.1-1_i686.deb
 Size: 73472
 MD5Sum: 62f68bee491bffef3eb6e9799690cabe
 SHA1: 1f8bee2205ca51ef8d7c332b4e550d0e428d0400
@@ -17266,7 +17252,7 @@ Version: 3.6.0-2
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/i686-libs/libsigc++-3.0_3.6.0-2_i686.deb
+Filename: ../../../../releases/download/i686-libs/libsigc..-3.0_3.6.0-2_i686.deb
 Size: 55552
 MD5Sum: 9d2c3dfe512793a2fbfc485c792844b0
 SHA1: 867ef04bd4517226079958ca6e3b39dc25060dc3
@@ -19098,7 +19084,7 @@ Version: 1:1.16.0
 Homepage: https://www.webmproject.org
 Depends: libvpx (= 1:1.16.0)
 Description: Static libraries for libvpx
-Filename: ../../../../releases/download/i686-libv/libvpx-static_1:1.16.0_i686.deb
+Filename: ../../../../releases/download/i686-libv/libvpx-static_1.1.16.0_i686.deb
 Size: 980380
 MD5Sum: 74eec480659d3fc6918c35049ed53dfd
 SHA1: 6665f27033061a758c6cd41fda743aa4b9302896
@@ -19115,7 +19101,7 @@ Breaks: libvpx-dev
 Depends: libc++
 Replaces: libvpx-dev
 Description: VP8 & VP9 Codec SDK
-Filename: ../../../../releases/download/i686-libv/libvpx_1:1.16.0_i686.deb
+Filename: ../../../../releases/download/i686-libv/libvpx_1.1.16.0_i686.deb
 Size: 890692
 MD5Sum: 728813c86d5c44ae189498be59d34a1a
 SHA1: 3d5c3e3a73b87b9e95a488c059cf3b9c7885286a
@@ -19131,7 +19117,7 @@ Homepage: https://www.leonerd.org.uk/code/libvterm/
 Breaks: libvterm-dev
 Replaces: libvterm-dev
 Description: Terminal emulator library
-Filename: ../../../../releases/download/i686-libv/libvterm_1:0.3.3-2_i686.deb
+Filename: ../../../../releases/download/i686-libv/libvterm_1.0.3.3-2_i686.deb
 Size: 35296
 MD5Sum: 775cef46708e12ac002e87533ffc9737
 SHA1: 729a132963b0584e9f8c5e1833fdef35338469da
@@ -19390,7 +19376,7 @@ Version: 1:0.164.3191-1
 Homepage: https://www.videolan.org/developers/x264.html
 Depends: libx264 (= 1:0.164.3191-1)
 Description: Static libraries for libx264
-Filename: ../../../../releases/download/i686-libx/libx264-static_1:0.164.3191-1_i686.deb
+Filename: ../../../../releases/download/i686-libx/libx264-static_1.0.164.3191-1_i686.deb
 Size: 405396
 MD5Sum: d33db88f4480ceb896e48461ca737f55
 SHA1: ca744e641a59e2aa4e20f08b157705b7500693f3
@@ -19406,7 +19392,7 @@ Homepage: https://www.videolan.org/developers/x264.html
 Breaks: libx264-dev
 Replaces: libx264-dev
 Description: Library for encoding video streams into the H.264/MPEG-4 AVC format
-Filename: ../../../../releases/download/i686-libx/libx264_1:0.164.3191-1_i686.deb
+Filename: ../../../../releases/download/i686-libx/libx264_1.0.164.3191-1_i686.deb
 Size: 383344
 MD5Sum: ae68139d431d9d581de8d8cd665f5ef5
 SHA1: 487239466e398467c57b6e76f73e810f533de517
@@ -20917,7 +20903,7 @@ Maintainer: @termux
 Version: 1:1.0.5-1
 Homepage: https://github.com/rofl0r/microsocks
 Description: tiny, portable SOCKS5 server with very moderate resource usage
-Filename: ../../../../releases/download/i686-m/microsocks_1:1.0.5-1_i686.deb
+Filename: ../../../../releases/download/i686-m/microsocks_1.1.0.5-1_i686.deb
 Size: 7140
 MD5Sum: 3dbabce8ed8745410ec2a4ceac404d40
 SHA1: 62006683f08e82f5907e49abe4d4a8bd1b858220
@@ -21751,7 +21737,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for ncurses
-Filename: ../../../../releases/download/i686-n/ncurses-static_6.6.20260307+really6.5.20250830_i686.deb
+Filename: ../../../../releases/download/i686-n/ncurses-static_6.6.20260307.really6.5.20250830_i686.deb
 Size: 155056
 MD5Sum: 3172f15e9d18551b4fb7a28ebaec1e0f
 SHA1: 8bf591465f3f10339a2f73dd29fee9751faad5d5
@@ -21766,7 +21752,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/i686-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_i686.deb
+Filename: ../../../../releases/download/i686-n/ncurses-ui-libs-static_6.6.20260307.really6.5.20250830_i686.deb
 Size: 39260
 MD5Sum: eb194960efc0b58691d79bf09110eff7
 SHA1: 588185aaf3692ced25ace90c4c003a500e6a9c79
@@ -21783,7 +21769,7 @@ Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Breaks: ncurses (<< 6.4)
 Replaces: ncurses (<< 6.4)
 Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/i686-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_i686.deb
+Filename: ../../../../releases/download/i686-n/ncurses-ui-libs_6.6.20260307.really6.5.20250830_i686.deb
 Size: 35708
 MD5Sum: ea3b26ea1186ecd556a1ae5634f79b92
 SHA1: 15d47adf758a6023ac4bc8c3fee4ab2c16dd575c
@@ -21798,7 +21784,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Tools for working with terminals
-Filename: ../../../../releases/download/i686-n/ncurses-utils_6.6.20260307+really6.5.20250830_i686.deb
+Filename: ../../../../releases/download/i686-n/ncurses-utils_6.6.20260307.really6.5.20250830_i686.deb
 Size: 90800
 MD5Sum: f6bcf6598c1e33ed2bb4494ade1e1816
 SHA1: 60e1c9f828933f449c62753d0e1c0db1b235c04f
@@ -21814,7 +21800,7 @@ Homepage: https://invisible-island.net/ncurses/
 Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/i686-n/ncurses_6.6.20260307+really6.5.20250830_i686.deb
+Filename: ../../../../releases/download/i686-n/ncurses_6.6.20260307.really6.5.20250830_i686.deb
 Size: 568568
 MD5Sum: b441102de49a5d04da6caaa38bc08de5
 SHA1: 4237647cac2c39f010c5e8409c0fca745ff51db0
@@ -21877,7 +21863,7 @@ Breaks: neovim
 Depends: libandroid-support, libiconv, libmsgpack, libunibilium, libuv, libvterm (>= 1:0.3-0), lua51-lpeg, luajit, luv, tree-sitter, tree-sitter-parsers, utf8proc
 Conflicts: neovim
 Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
-Filename: ../../../../releases/download/i686-n/neovim-nightly_0.13.0~dev-980+g3a7989f4f4-0_i686.deb
+Filename: ../../../../releases/download/i686-n/neovim-nightly_0.13.0.dev-980.g3a7989f4f4-0_i686.deb
 Size: 6183184
 MD5Sum: ebe8491bb67d3e5eb0c3442ab0d1f00a
 SHA1: 95a5430b7872ea38a93c502264d6a605d7b46b9e
@@ -22029,7 +22015,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Low level cryptographic tools
-Filename: ../../../../releases/download/i686-n/nettle_4.0+really3.10.2_i686.deb
+Filename: ../../../../releases/download/i686-n/nettle_4.0.really3.10.2_i686.deb
 Size: 18660
 MD5Sum: 92a1fba6dc2c1e193a72ca593671e344
 SHA1: d4472c86b7a8b3e62846d2ac56a179b7b2321995
@@ -23693,7 +23679,7 @@ Maintainer: @termux
 Version: 1:2.0.1-1
 Homepage: https://www.softsynth.com/pforth/
 Description: Portable Forth in C
-Filename: ../../../../releases/download/i686-p/pforth_1:2.0.1-1_i686.deb
+Filename: ../../../../releases/download/i686-p/pforth_1.2.0.1-1_i686.deb
 Size: 41348
 MD5Sum: fa87dc870c71090b136572cc31272f59
 SHA1: 320f27f77a541b9823f0bae6649368ea8a46d65e
@@ -24449,7 +24435,7 @@ Version: 2:35.1
 Homepage: https://github.com/protocolbuffers/protobuf
 Depends: libprotobuf (= 2:35.1)
 Description: Compiler for protocol buffer definition files
-Filename: ../../../../releases/download/i686-p/protobuf_2:35.1_i686.deb
+Filename: ../../../../releases/download/i686-p/protobuf_2.35.1_i686.deb
 Size: 1434624
 MD5Sum: 630a1de56a2835d602713f04d3b7a395
 SHA1: bcdf76c931a176126a0081b930d07be6f59720e5
@@ -25146,7 +25132,7 @@ Depends: glib, libbz2, libcap-ng, libcurl, libgmp, libgnutls, libnettle, libnfs,
 Breaks: qemu-system-x86-64 (<< 1:8.0.0), qemu-system-x86-64-headless (<< 1:8.0.0)
 Replaces: qemu-system-x86-64 (<< 1:8.0.0), qemu-system-x86-64-headless (<< 1:8.0.0)
 Description: A set common files used by the QEMU emulators
-Filename: ../../../../releases/download/i686-q/qemu-common_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-common_1.10.2.1_i686.deb
 Size: 21086216
 MD5Sum: 074737ec47905d2e5ba44bda681db6b4
 SHA1: e2a1d312af3831c52065ea493682d5c3dde3c248
@@ -25161,7 +25147,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/i686-q/qemu-system-aarch64-headless_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-aarch64-headless_1.10.2.1_i686.deb
 Size: 1024
 MD5Sum: 83142a9ef2f08e30982c06cbf0225ba7
 SHA1: 0148cf7895fd5bdf571f3be39831f0d9d39e4597
@@ -25176,7 +25162,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/i686-q/qemu-system-arm-headless_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-arm-headless_1.10.2.1_i686.deb
 Size: 3330564
 MD5Sum: cbebd520eca52306a40a92207c1aa291
 SHA1: a2b23e56ac7a8a9dbd0cefa4cf49c05354ec143b
@@ -25191,7 +25177,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/i686-q/qemu-system-i386-headless_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-i386-headless_1.10.2.1_i686.deb
 Size: 2908852
 MD5Sum: 97ba97f64da0829aedd2dde5e4bbd940
 SHA1: 874425271b456a3e6c9347a97c79c117dc16155e
@@ -25206,7 +25192,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/i686-q/qemu-system-m68k-headless_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-m68k-headless_1.10.2.1_i686.deb
 Size: 1878540
 MD5Sum: 53aa4b218bbbcf81e2b53ece2e113003
 SHA1: 596ef606d520a27bb651001c8583c26e217df45d
@@ -25221,7 +25207,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/i686-q/qemu-system-ppc-headless_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-ppc-headless_1.10.2.1_i686.deb
 Size: 2700264
 MD5Sum: 3b61d4d7eeffca6fdf550228fbe53ef7
 SHA1: fd5017f1e6838a60504dcc29279bb88e17863027
@@ -25236,7 +25222,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/i686-q/qemu-system-ppc64-headless_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-ppc64-headless_1.10.2.1_i686.deb
 Size: 1020
 MD5Sum: 3e18cbe9e43c351d517094612da40390
 SHA1: cb195a82d3530f91b9cf02de609d28f65cac26d0
@@ -25251,7 +25237,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/i686-q/qemu-system-riscv32-headless_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-riscv32-headless_1.10.2.1_i686.deb
 Size: 2636736
 MD5Sum: 233b8d3c009ebc0b4b1a29206755d557
 SHA1: 3bbfd55b518b9c45c31d3e13763a130c8c8258a0
@@ -25266,7 +25252,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/i686-q/qemu-system-riscv64-headless_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-riscv64-headless_1.10.2.1_i686.deb
 Size: 1024
 MD5Sum: 7264bd5fa7c3a87b95d562f4258b84a9
 SHA1: 33cbfa3a43216be52b875f7feee715657ce4b499
@@ -25284,7 +25270,7 @@ Conflicts: qemu-system-x86_64-headless
 Replaces: qemu-system-x86_64-headless
 Provides: qemu-system-x86_64-headless
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/i686-q/qemu-system-x86-64-headless_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-x86-64-headless_1.10.2.1_i686.deb
 Size: 213136
 MD5Sum: dab9457bf368ac70d2cb5d1d5562de83
 SHA1: f7cca86cb90f6f756fe6d7e1b0a65963b089da15
@@ -25299,7 +25285,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/i686-q/qemu-user-aarch64_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-user-aarch64_1.10.2.1_i686.deb
 Size: 816
 MD5Sum: 5c50a9aac9895dfda42e0a7307bc2f60
 SHA1: 1dadcf34cb6b890c966092099480f00118ba47bc
@@ -25314,7 +25300,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/i686-q/qemu-user-arm_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-user-arm_1.10.2.1_i686.deb
 Size: 736688
 MD5Sum: 205f3f3bde2b8ff4869a1c9a2ea4fa57
 SHA1: a6810ef64775a4911b31911b20caf7a4b0669f9f
@@ -25329,7 +25315,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/i686-q/qemu-user-i386_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-user-i386_1.10.2.1_i686.deb
 Size: 613332
 MD5Sum: 16e82d88975e67cb617463f8ccf2120e
 SHA1: 9650a2e87f87160ce22ae7c5ea07b59ac3c63e67
@@ -25344,7 +25330,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/i686-q/qemu-user-m68k_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-user-m68k_1.10.2.1_i686.deb
 Size: 536088
 MD5Sum: c56b4c0f1c5ebf236192f3f4abf4f515
 SHA1: ff2126c002b32177a02d064f836740c74ba5b804
@@ -25359,7 +25345,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/i686-q/qemu-user-ppc64_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-user-ppc64_1.10.2.1_i686.deb
 Size: 812
 MD5Sum: aaabb5f1cb27441baa6a2d8a2bd0163a
 SHA1: 6736edc2f3d9eec78a127020299fb3c9bd158b63
@@ -25374,7 +25360,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/i686-q/qemu-user-ppc_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-user-ppc_1.10.2.1_i686.deb
 Size: 662988
 MD5Sum: 844801afccfc950746f24bd2e67cb1f7
 SHA1: 046441100d52a10366f2459089fc6ab213dcf524
@@ -25389,7 +25375,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/i686-q/qemu-user-riscv32_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-user-riscv32_1.10.2.1_i686.deb
 Size: 638472
 MD5Sum: 37d25afe58251ca1834b41a7c9cdaa9f
 SHA1: be15e87e88eca7bf4014c1d90085b37d6267c369
@@ -25404,7 +25390,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/i686-q/qemu-user-riscv64_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-user-riscv64_1.10.2.1_i686.deb
 Size: 816
 MD5Sum: bc57d66186e69413d6a49b1ac2a48202
 SHA1: 616342ee08b5c4ac0fd02711e902cfe93474dc5e
@@ -25421,7 +25407,7 @@ Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Breaks: qemu-user-x86_64
 Replaces: qemu-user-x86_64
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/i686-q/qemu-user-x86-64_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-user-x86-64_1.10.2.1_i686.deb
 Size: 832
 MD5Sum: 7f2e7d18ed3b1a8bd9bca3826200a9a8
 SHA1: b9081c313a7417ee0831fd396dd3fee4a62fd578
@@ -25436,7 +25422,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libbz2, libcurl, libgmp, libgnutls, libnettle, libnfs, libpixman, libssh, zlib, zstd
 Description: A set of utilities for working with the QEMU emulators
-Filename: ../../../../releases/download/i686-q/qemu-utils_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-utils_1.10.2.1_i686.deb
 Size: 1048848
 MD5Sum: c01b88aa13ef2d5a24abc8f044e46dd9
 SHA1: 7ac250a8907eddc408c69db39d25dffd5a9f4312
@@ -25812,7 +25798,7 @@ Version: 1:0.1.5-1
 Homepage: https://github.com/eafer/rdrview
 Depends: libcurl, libiconv, libseccomp, libxml2
 Description: Command line tool to extract the main content from a webpage
-Filename: ../../../../releases/download/i686-r/rdrview_1:0.1.5-1_i686.deb
+Filename: ../../../../releases/download/i686-r/rdrview_1.0.1.5-1_i686.deb
 Size: 23940
 MD5Sum: d8caa35ab5703638d70f3666ac4760ec
 SHA1: 7bf21941f9efa1e46220446ec98ba3386c2062ca
@@ -25917,7 +25903,7 @@ Version: 1:06.02.08
 Homepage: https://dianne.skoll.ca/projects/remind/
 Depends: libandroid-glob
 Description: Sophisticated calendar and alarm program
-Filename: ../../../../releases/download/i686-r/remind_1:06.02.08_i686.deb
+Filename: ../../../../releases/download/i686-r/remind_1.06.02.08_i686.deb
 Size: 308932
 MD5Sum: 6c7d8a0112a09a03f19889694d54d822
 SHA1: cf2f3e6d342c8029900350ecd197db061e0b554e
@@ -26050,7 +26036,7 @@ Maintainer: @termux
 Version: 1:0.73-2
 Homepage: https://github.com/samhocevar/rinetd
 Description: A user-mode TCP port redirection server
-Filename: ../../../../releases/download/i686-r/rinetd_1:0.73-2_i686.deb
+Filename: ../../../../releases/download/i686-r/rinetd_1.0.73-2_i686.deb
 Size: 15480
 MD5Sum: 2c84fce5601931dd9374ba021fb6528b
 SHA1: 0d92d8b538c9cac00ec2e77ce31dc5ec46bda01d
@@ -26082,7 +26068,7 @@ Homepage: https://github.com/phiresky/ripgrep-all
 Depends: fzf, ripgrep, xz-utils
 Recommends: ffmpeg, graphicsmagick, pandoc, poppler, tesseract
 Description: Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc
-Filename: ../../../../releases/download/i686-r/ripgrep-all_1:0.10.10_i686.deb
+Filename: ../../../../releases/download/i686-r/ripgrep-all_1.0.10.10_i686.deb
 Size: 3920004
 MD5Sum: 4e46523ddd8ea8a509f3e3a70c3ea3ce
 SHA1: 120ca4863e29834f37a31d931b03384ab17d156b
@@ -27013,7 +26999,7 @@ Maintainer: @termux
 Version: 1:3.12.5-1
 Homepage: http://simh.trailing-edge.com/
 Description: A collection of simulators for computer hardware and software from the past
-Filename: ../../../../releases/download/i686-s/simh_1:3.12.5-1_i686.deb
+Filename: ../../../../releases/download/i686-s/simh_1.3.12.5-1_i686.deb
 Size: 1106344
 MD5Sum: 47c0b5e8e89e739878d35d58b158a5e4
 SHA1: 1db40f3d3b72413a95b1a10c118928c58f0ed898
@@ -27669,7 +27655,7 @@ Maintainer: @termux
 Version: 0.0.0+g31c1ad37
 Homepage: https://github.com/nothings/stb
 Description: Single-file public domain (or MIT licensed) libraries for C/C++
-Filename: ../../../../releases/download/i686-s/stb_0.0.0+g31c1ad37_i686.deb
+Filename: ../../../../releases/download/i686-s/stb_0.0.0.g31c1ad37_i686.deb
 Size: 347652
 MD5Sum: f5d8c18835bfb347080ebf99ed08a583
 SHA1: a6bc61d525ea58e5319814cbffb7255ccd95c909
@@ -28611,7 +28597,7 @@ Conflicts: procps (<< 3.3.15-2)
 Recommends: ed, dos2unix, inetutils, net-tools, patch, unzip
 Suggests: termux-api
 Description: Basic system tools for Termux
-Filename: ../../../../releases/download/i686-t/termux-tools_1.46.0+really1.45.0-1_i686.deb
+Filename: ../../../../releases/download/i686-t/termux-tools_1.46.0.really1.45.0-1_i686.deb
 Size: 33576
 MD5Sum: 2b124198611cdc82112308cde1017907
 SHA1: 6f02be792122795f3d3fe6dc368b083df6db05ab
@@ -28688,7 +28674,7 @@ Version: 1:2026.0
 Homepage: https://www.tug.org/texlive/
 Depends: texlive-bin (= 1:2026.0)
 Description: Static libraries for texlive-bin
-Filename: ../../../../releases/download/i686-t/texlive-bin-static_1:2026.0_i686.deb
+Filename: ../../../../releases/download/i686-t/texlive-bin-static_1.2026.0_i686.deb
 Size: 448768
 MD5Sum: edb5f305d2436c452bfd5a5f3609359f
 SHA1: ac0dc530e1421eba5d5cd24a12d1f6674170e338
@@ -28706,7 +28692,7 @@ Depends: freetype, harfbuzz, harfbuzz-icu, libandroid-complex-math, libc++, libc
 Recommends: texlive-installer
 Replaces: texlive (<< 20170524-3), texlive-bin-dev
 Description: TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
-Filename: ../../../../releases/download/i686-t/texlive-bin_1:2026.0_i686.deb
+Filename: ../../../../releases/download/i686-t/texlive-bin_1.2026.0_i686.deb
 Size: 11066392
 MD5Sum: 95c9ec794b72c74aeec347f143ae21c4
 SHA1: c6fa1556f1e39fb56bdf544672539927b454ff83
@@ -28825,7 +28811,7 @@ Maintainer: @termux
 Version: 2.15.0-2
 Homepage: https://timidity.sourceforge.net/
 Description: MIDI-to-WAVE converter and player
-Filename: ../../../../releases/download/i686-t/timidity++_2.15.0-2_i686.deb
+Filename: ../../../../releases/download/i686-t/timidity.._2.15.0-2_i686.deb
 Size: 359036
 MD5Sum: f256a3cde10f82afa3ea2c849b4e18bf
 SHA1: 60aca7214daa89994977cc7f3694c79b9e107f6b
@@ -28854,7 +28840,7 @@ Version: 2.02.61
 Homepage: https://tintin.mudhalla.net
 Depends: pcre, libgnutls, zlib
 Description: Classic text-based MUD client
-Filename: ../../../../releases/download/i686-t/tintin++_2.02.61_i686.deb
+Filename: ../../../../releases/download/i686-t/tintin.._2.02.61_i686.deb
 Size: 1402080
 MD5Sum: 5d97f5f1bca8e81eb50a7112ed4499d2
 SHA1: b5b4716a7e68a907f699c88c2e0002fe15de0cfb
@@ -30037,7 +30023,7 @@ Maintainer: @termux
 Version: 1:4.1.1
 Homepage: https://github.com/nemtrif/utfcpp
 Description: UTF8-CPP: UTF-8 with C++ in a Portable Way
-Filename: ../../../../releases/download/i686-u/utf8cpp_1:4.1.1_all.deb
+Filename: ../../../../releases/download/i686-u/utf8cpp_1.4.1.1_all.deb
 Size: 10516
 MD5Sum: 9c9ae926bb8aac4481d3162557793527
 SHA1: 98c1db9ae568158d289df5e27ecfc4f5b1184a17
@@ -31064,7 +31050,7 @@ Version: 1:0.164.3191-1
 Homepage: https://www.videolan.org/developers/x264.html
 Depends: libx264 (= 1:0.164.3191-1)
 Description: Commandline video encoder for the H.264/MPEG-4 AVC format
-Filename: ../../../../releases/download/i686-x/x264_1:0.164.3191-1_i686.deb
+Filename: ../../../../releases/download/i686-x/x264_1.0.164.3191-1_i686.deb
 Size: 408884
 MD5Sum: dc5b110cb4dc7cb7af72d0a2e585c0fd
 SHA1: a8c710b667f27bcc2b6f7177976b3c64e0dbcccb
@@ -31910,7 +31896,7 @@ Version: 1:1.90.0-2
 Homepage: https://boost.org
 Depends: boost (= 1:1.90.0-2)
 Description: Boost header files
-Filename: ../../../../releases/download/i686-b/boost-headers_1:1.90.0-2_all.deb
+Filename: ../../../../releases/download/i686-b/boost-headers_1.1.90.0-2_all.deb
 Size: 10741128
 MD5Sum: 00da1edf9a2717775ffac7702c19a75d
 SHA1: 2cb13f38cd20017cbb17adde5370830aa5fc2255
@@ -31925,7 +31911,7 @@ Version: 1:1.90.0-2
 Homepage: https://boost.org
 Depends: boost (= 1:1.90.0-2)
 Description: Static libraries for boost
-Filename: ../../../../releases/download/i686-b/boost-static_1:1.90.0-2_i686.deb
+Filename: ../../../../releases/download/i686-b/boost-static_1.1.90.0-2_i686.deb
 Size: 2905148
 MD5Sum: 01e81df1c0a86a1805366a5e41b4c457
 SHA1: 6a052d600e33c038ba6713be1bb969b672dd442b
@@ -31942,7 +31928,7 @@ Breaks: libboost-python (<= 1.65.1-2), boost-dev
 Depends: libc++, libbz2, libiconv, liblzma, zlib, libandroid-wordexp
 Replaces: libboost-python (<= 1.65.1-2), boost-dev
 Description: Free peer-reviewed portable C++ source libraries
-Filename: ../../../../releases/download/i686-b/boost_1:1.90.0-2_i686.deb
+Filename: ../../../../releases/download/i686-b/boost_1.1.90.0-2_i686.deb
 Size: 1560584
 MD5Sum: fd7d4fddd3dae626b35169bf5d0cffbb
 SHA1: e1ef7eb1725bd662370baeac44f3d49dc3a05248
@@ -31987,7 +31973,7 @@ Version: 2:0.9.3
 Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 Depends: libcap-ng (= 2:0.9.3)
 Description: Static libraries for libcap-ng
-Filename: ../../../../releases/download/i686-libc/libcap-ng-static_2:0.9.3_i686.deb
+Filename: ../../../../releases/download/i686-libc/libcap-ng-static_2.0.9.3_i686.deb
 Size: 9168
 MD5Sum: bdef9f2cae5f1b45d8fd4705c7cae092
 SHA1: 56649a33dada956d773b00d479273266b5eb8c40
@@ -32001,7 +31987,7 @@ Maintainer: @termux
 Version: 2:0.9.3
 Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 Description: Library making programming with POSIX capabilities easier than traditional libcap
-Filename: ../../../../releases/download/i686-libc/libcap-ng_2:0.9.3_i686.deb
+Filename: ../../../../releases/download/i686-libc/libcap-ng_2.0.9.3_i686.deb
 Size: 38072
 MD5Sum: b30ddfca64fbe64c267cd8bc8dafc3dc
 SHA1: 971b454cc6ee115fa8cc49b11e1d2e11e3022ba4
@@ -32016,7 +32002,7 @@ Version: 1:2.5.0-1
 Homepage: https://github.com/termux/termux-exec-package
 Depends: termux-exec (= 1:2.5.0-1)
 Description: Static libraries for termux-exec
-Filename: ../../../../releases/download/i686-t/termux-exec-static_1:2.5.0-1_i686.deb
+Filename: ../../../../releases/download/i686-t/termux-exec-static_1.2.5.0-1_i686.deb
 Size: 10448
 MD5Sum: 832fa61f0baa91b0fa6ee1c1884a7516
 SHA1: 7f86dc774b2fe219867f3b00fe40aa05b750366c
@@ -32031,7 +32017,7 @@ Version: 1:2.5.0-1
 Homepage: https://github.com/termux/termux-exec-package
 Essential: yes
 Description: Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment
-Filename: ../../../../releases/download/i686-t/termux-exec_1:2.5.0-1_i686.deb
+Filename: ../../../../releases/download/i686-t/termux-exec_1.2.5.0-1_i686.deb
 Size: 259980
 MD5Sum: 16b1e64dc1ce16505672a1083c583c23
 SHA1: 05e3bd7ce71d0873ad1760d394bcf2c7a459377d
@@ -32091,7 +32077,7 @@ Version: 1:2026.05.14
 Homepage: https://curl.se/docs/caextract.html
 Depends: ca-certificates (= 1:2026.05.14)
 Description: Common CA certificates (java keystore format)
-Filename: ../../../../releases/download/i686-c/ca-certificates-java_1:2026.05.14_all.deb
+Filename: ../../../../releases/download/i686-c/ca-certificates-java_1.2026.05.14_all.deb
 Size: 96488
 MD5Sum: 91f1b3eecfce4e346e980878a7e865c4
 SHA1: 8939487b8516cbbe79ba158e431ab56a9b45b002
@@ -32105,7 +32091,7 @@ Maintainer: @termux
 Version: 1:2026.05.14
 Homepage: https://curl.se/docs/caextract.html
 Description: Common CA certificates
-Filename: ../../../../releases/download/i686-c/ca-certificates_1:2026.05.14_all.deb
+Filename: ../../../../releases/download/i686-c/ca-certificates_1.2026.05.14_all.deb
 Size: 105736
 MD5Sum: d58491ffa01dcb00c1812689c62290e1
 SHA1: 434568e9960062580cfb2ea916a5a414e75b2e55
@@ -32135,7 +32121,7 @@ Version: 1:3.6.3
 Homepage: https://www.openssl.org/
 Depends: openssl (= 1:3.6.3)
 Description: Static libraries for openssl
-Filename: ../../../../releases/download/i686-o/openssl-static_1:3.6.3_i686.deb
+Filename: ../../../../releases/download/i686-o/openssl-static_1.3.6.3_i686.deb
 Size: 2112220
 MD5Sum: 9dc8f7fe78d966aeed5de931b2e29a68
 SHA1: f9508ff804b43bb3f70c5d8c82d5e2825ad3a8ec
@@ -32150,7 +32136,7 @@ Version: 1:3.6.3
 Homepage: https://www.openssl.org/
 Depends: openssl (= 1:3.6.3)
 Description: The openssl command line cryptographic tool
-Filename: ../../../../releases/download/i686-o/openssl-tool_1:3.6.3_i686.deb
+Filename: ../../../../releases/download/i686-o/openssl-tool_1.3.6.3_i686.deb
 Size: 287784
 MD5Sum: 98bff6027f40a73a66ba15538927270d
 SHA1: 6f5827f7cf5c759ac3c4eaa5b1afcc58e16bd329
@@ -32168,10 +32154,24 @@ Depends: ca-certificates, zlib
 Conflicts: libcurl (<< 7.61.0-1)
 Replaces: openssl-tool (<< 1.1.1b-1), openssl-dev
 Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
-Filename: ../../../../releases/download/i686-o/openssl_1:3.6.3_i686.deb
+Filename: ../../../../releases/download/i686-o/openssl_1.3.6.3_i686.deb
 Size: 2074300
 MD5Sum: 90858ad861f2766bd149547b702cc224
 SHA1: 47985a5ee658875676a1ab58cd5ca5c706fda4d8
 SHA256: 4830cf1a1bc69176e3b44b5e394942c2236bc5af6680fc5f19cdf3f9adcc5dc2
 SHA512: f294c8a079bf24d008493ae7b627eb6365705c464135e92f2a6414134d07172519cf0bbdbd5139045f386145c72697475b55f6b5345701cde34f7634a41a1506
+
+Package: 0verkill
+Architecture: i686
+Installed-Size: 3176
+Maintainer: @termux
+Version: 1:0.16-1
+Homepage: https://github.com/hackndev/0verkill
+Description: Bloody 2D action deathmatch-like game in ASCII-ART
+Filename: ../../../../releases/download/i686-0/0verkill_1.0.16-1_i686.deb
+Size: 168044
+MD5Sum: 6741bb29a572a268029684a322589969
+SHA1: d6959eb7d5deb6a6303fb77662b7ba3cc7df22d6
+SHA256: f9930695f68c5042e8db299f7cba3c87ed7b7e40a60db7c78aeff769acc047de
+SHA512: 3498ff64bcce10694c46e3c887fa123d71d2f33c48bf17e2d83f0a9e5cebb254744c1edb6a5d4abb04c6c955257da2390702dad0e1e34140f7012d8bac5bed24
 

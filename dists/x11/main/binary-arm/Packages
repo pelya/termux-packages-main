@@ -1,18 +1,3 @@
-Package: 1oom
-Architecture: arm
-Installed-Size: 516
-Maintainer: @termux
-Version: 1.11.8
-Homepage: https://github.com/1oom-fork/1oom
-Depends: libandroid-shmem, libsamplerate, libx11, libxext, readline
-Description: A Master of Orion (1993) game engine recreation
-Filename: ../../../../releases/download/arm-1/1oom_1.11.8_arm.deb
-Size: 206048
-MD5Sum: 43a2719027fe112a885335821aeef69d
-SHA1: 0610bd08a44bb85618e6c84c8d4bada138cc1995
-SHA256: b89a960b3670e6bb333cb5635085af6185822fec6c87856c9db07160fb3e9532
-SHA512: 7ec926836fabfab3b703f50ac0c64f5d84c8705f23665a5e5312c88622072f0ae47183c3d2536330da1dd9785292d228da7d23d61ed6562e8ba03b8f009ab59d
-
 Package: 2bwm
 Architecture: arm
 Installed-Size: 104
@@ -343,7 +328,7 @@ Homepage: https://gitlab.com/azelpg/azpainter
 Depends: fontconfig, freetype, libandroid-shmem, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, libx11, libxcursor, libxext, libxi, zlib
 Recommends: hicolor-icon-theme
 Description: Full color painting software for Unix-like systems for illustration drawing
-Filename: ../../../../releases/download/arm-a/azpainter_1:3.0.12-1_arm.deb
+Filename: ../../../../releases/download/arm-a/azpainter_1.3.0.12-1_arm.deb
 Size: 540168
 MD5Sum: d689a254080938d0ac265ad6d31fbc2e
 SHA1: abfc6b2b924aa32adababb8c37ab69acdb5bf4b1
@@ -2527,7 +2512,7 @@ Homepage: https://gtkwave.github.io/gtkwave/
 Depends: gdk-pixbuf, glib, gtk3, libandroid-shmem, libbz2, libc++, liblzma, pango, zlib
 Recommends: desktop-file-utils
 Description: A wave viewer which reads LXT, LXT2, VZT, GHW and VCD/EVCD files
-Filename: ../../../../releases/download/arm-g/gtkwave_1:3.3.116-2_arm.deb
+Filename: ../../../../releases/download/arm-g/gtkwave_1.3.3.116-2_arm.deb
 Size: 2263732
 MD5Sum: ac9378b8850182817df503d078e5a9e3
 SHA1: c66639bb5c28fec94d85753b6f66682fe023a369
@@ -4861,7 +4846,7 @@ Homepage: https://www.luanti.org
 Breaks: luanti (<< 1:5.10.0-4)
 Replaces: luanti (<< 1:5.10.0-4)
 Description: Common files, including docs, shared between luanti and luanti-server
-Filename: ../../../../releases/download/arm-l/luanti-common_1:5.16.1-1_all.deb
+Filename: ../../../../releases/download/arm-l/luanti-common_1.5.16.1-1_all.deb
 Size: 3227456
 MD5Sum: 79b4259773837aced5b9511ba722f21a
 SHA1: 7fe0204bf68cd1daa2e4dd18881bab75446d895c
@@ -4878,7 +4863,7 @@ Depends: jsoncpp, libandroid-spawn, libc++, libcurl, libgmp, libiconv, luajit, l
 Breaks: luanti (<< 1:5.10.0-4)
 Replaces: luanti (<< 1:5.10.0-4)
 Description: Headless server for the Luanti voxel game engine.
-Filename: ../../../../releases/download/arm-l/luanti-server_1:5.16.1-1_arm.deb
+Filename: ../../../../releases/download/arm-l/luanti-server_1.5.16.1-1_arm.deb
 Size: 1464944
 MD5Sum: 2782b3746dfbcda28e2ecc2a2d3bd9e2
 SHA1: 7615e9b0604c2c6f9419a7b722b40abbdcb77015
@@ -4893,7 +4878,7 @@ Version: 1:5.16.1-1
 Homepage: https://www.luanti.org
 Depends: freetype, jsoncpp, libandroid-spawn, libc++, libcurl, libgmp, libjpeg-turbo, libiconv, luajit, libpng, libsqlite, libvorbis, luanti-common, openal-soft, opengl, sdl3, xdg-utils, zlib, zstd
 Description: An open source voxel game engine.
-Filename: ../../../../releases/download/arm-l/luanti_1:5.16.1-1_arm.deb
+Filename: ../../../../releases/download/arm-l/luanti_1.5.16.1-1_arm.deb
 Size: 2531432
 MD5Sum: 660986a9ac318642b444659e9609ea6f
 SHA1: fea6afb50f68a5d11a4c3e8e70fb4ac28675b794
@@ -5420,7 +5405,7 @@ Version: 0.3+git20170516-23
 Homepage: https://www.yoctoproject.org/tools-resources/projects/matchbox
 Depends: libfakekey (= 0.3+git20170516-23)
 Description: Static libraries for libfakekey
-Filename: ../../../../releases/download/arm-libf/libfakekey-static_0.3+git20170516-23_arm.deb
+Filename: ../../../../releases/download/arm-libf/libfakekey-static_0.3.git20170516-23_arm.deb
 Size: 15700
 MD5Sum: ae1d51e7c49c91c0299d7cbc875f0403
 SHA1: cb865bdf674950264d591d84a70b897cc9db6bf4
@@ -5435,7 +5420,7 @@ Version: 0.3+git20170516-23
 Homepage: https://www.yoctoproject.org/tools-resources/projects/matchbox
 Depends: libx11, libxtst
 Description: X virtual keyboard library.
-Filename: ../../../../releases/download/arm-libf/libfakekey_0.3+git20170516-23_arm.deb
+Filename: ../../../../releases/download/arm-libf/libfakekey_0.3.git20170516-23_arm.deb
 Size: 4540
 MD5Sum: f8364a3470fb3521f997690e8d9990e7
 SHA1: 63b735c5d01cf0ba91ed0eec3a48013eb45d1a95
@@ -6201,7 +6186,7 @@ Version: 2:0.84.0-1
 Homepage: https://gitlab.gnome.org/GNOME/vte/
 Depends: atk, fribidi, gdk-pixbuf, glib, gtk3, gtk4, libc++, libcairo, libgnutls, libicu, liblz4, libsimdutf, pango, pcre2, zlib
 Description: Virtual Terminal library
-Filename: ../../../../releases/download/arm-libv/libvte_2:0.84.0-1_arm.deb
+Filename: ../../../../releases/download/arm-libv/libvte_2.0.84.0-1_arm.deb
 Size: 448484
 MD5Sum: deaf31580906e5938de6d9119acb371a
 SHA1: c705e1f26c85986c38521f3782652aa327844ce1
@@ -6516,7 +6501,7 @@ Version: 2.42.2-3
 Homepage: https://libxmlplusplus.github.io/libxmlplusplus/
 Depends: libc++, libglibmm-2.4, libxml2
 Description: A C++ wrapper for the libxml2 XML parser library
-Filename: ../../../../releases/download/arm-libx/libxml++-2.6_2.42.2-3_arm.deb
+Filename: ../../../../releases/download/arm-libx/libxml..-2.6_2.42.2-3_arm.deb
 Size: 68428
 MD5Sum: 91ac618a09b5c8a6abf3a321305382f5
 SHA1: 1f801b326320f8ce9a4d079c1a7e67f2fc4af6f2
@@ -6531,7 +6516,7 @@ Version: 5.6.1
 Homepage: https://libxmlplusplus.github.io/libxmlplusplus/
 Depends: libxml2, libiconv
 Description: A C++ wrapper for the libxml2 XML parser library (version 5.0)
-Filename: ../../../../releases/download/arm-libx/libxml++-5.0_5.6.1_arm.deb
+Filename: ../../../../releases/download/arm-libx/libxml..-5.0_5.6.1_arm.deb
 Size: 69460
 MD5Sum: 8ece09f694331c8fb3e09ebbd2bd021c
 SHA1: edb9dc8841d6009beb74acb5bc24a81bbd167f0d
@@ -6696,7 +6681,7 @@ Version: 0.2+git20231024-32
 Homepage: https://www.yoctoproject.org/software-item/matchbox/
 Depends: matchbox-keyboard (= 0.2+git20231024-32)
 Description: Static libraries for matchbox-keyboard
-Filename: ../../../../releases/download/arm-m/matchbox-keyboard-static_0.2+git20231024-32_arm.deb
+Filename: ../../../../releases/download/arm-m/matchbox-keyboard-static_0.2.git20231024-32_arm.deb
 Size: 101152
 MD5Sum: 0b92f4089b27a55c546cfb18e0bf57fc
 SHA1: 07446868c8d10d1597d6392b5c01bd07e72c62d3
@@ -6712,7 +6697,7 @@ Homepage: https://www.yoctoproject.org/software-item/matchbox/
 Depends: libexpat, libfakekey, libpng, libx11, libxft, libxrender
 Recommends: ttf-dejavu
 Description: An on-screen virtual keyboard.
-Filename: ../../../../releases/download/arm-m/matchbox-keyboard_0.2+git20231024-32_arm.deb
+Filename: ../../../../releases/download/arm-m/matchbox-keyboard_0.2.git20231024-32_arm.deb
 Size: 28196
 MD5Sum: 9d1800ebb467e0d558feb910e9f2aab9
 SHA1: 190848230e781885af2049048414314d27215a15
@@ -7238,7 +7223,7 @@ Homepage: https://sourceforge.net/projects/mtpaint/
 Depends: atk, freetype, gdk-pixbuf, glib, gtk3, harfbuzz, libandroid-glob, libcairo, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, libx11, littlecms, openjpeg, pango, zlib
 Recommends: gifsicle
 Description: Simple paint program for creating icons and pixel based artwork
-Filename: ../../../../releases/download/arm-m/mtpaint_1:3.50.12-1_arm.deb
+Filename: ../../../../releases/download/arm-m/mtpaint_1.3.50.12-1_arm.deb
 Size: 282272
 MD5Sum: e959bedaab1effd9c6af9f2d026e7365
 SHA1: 0ef6784e35b0b897b0ce5b73ba7b4502ebbb07be
@@ -8137,7 +8122,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-aarch64-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/arm-q/qemu-system-aarch64_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-aarch64_1.10.2.1_arm.deb
 Size: 1092
 MD5Sum: 8648260c64e1615144ac5fcfb7f2c6d3
 SHA1: d5ddd56d10c154042d01b14cb8c5a3475b1884e7
@@ -8153,7 +8138,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-arm-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/arm-q/qemu-system-arm_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-arm_1.10.2.1_arm.deb
 Size: 2841784
 MD5Sum: 62faf820b41428618a6377008baf0444
 SHA1: cc0be1a1bfb98b9a6f7bc1d1498a80a63cbd6459
@@ -8169,7 +8154,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-i386-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/arm-q/qemu-system-i386_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-i386_1.10.2.1_arm.deb
 Size: 2372428
 MD5Sum: f8f2b53e34054ede4db7d7d08f958624
 SHA1: c18995be3e0ce2ca8665accadac45f2558d79c32
@@ -8185,7 +8170,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-m68k-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/arm-q/qemu-system-m68k_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-m68k_1.10.2.1_arm.deb
 Size: 1636816
 MD5Sum: e8a0358f7bf21fcaab306ad8282d8b28
 SHA1: 3cda3e168ac1fb1123da1b2b2f7fa3ca6ad7fc8f
@@ -8201,7 +8186,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-ppc64-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/arm-q/qemu-system-ppc64_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-ppc64_1.10.2.1_arm.deb
 Size: 1084
 MD5Sum: 20aad821d9f3fb7f4de582ccfa75c606
 SHA1: ce85172d74295f4fe2d0c6be412ec32c4c35eceb
@@ -8217,7 +8202,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-ppc-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/arm-q/qemu-system-ppc_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-ppc_1.10.2.1_arm.deb
 Size: 2312992
 MD5Sum: 05d315c3ceaf6f19b5114a2b0c373906
 SHA1: 736f6886a6182d0b5885d61181b37da917875913
@@ -8233,7 +8218,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-riscv32-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/arm-q/qemu-system-riscv32_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-riscv32_1.10.2.1_arm.deb
 Size: 2264800
 MD5Sum: c60afb891f13fe61b58b77599412a59a
 SHA1: 8dabc8752c9f59a18cfc9bf391df15a406aa2894
@@ -8249,7 +8234,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-riscv64-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/arm-q/qemu-system-riscv64_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-riscv64_1.10.2.1_arm.deb
 Size: 1092
 MD5Sum: 0d7508fa18ce6b01ed8834cccee59951
 SHA1: 43db6de990136bc10e89773e3f6401e9beceed59
@@ -8267,7 +8252,7 @@ Conflicts: qemu-system-x86_64, qemu-system-x86_64-headless, qemu-system-x86-64-h
 Replaces: qemu-system-x86_64, qemu-system-x86_64-headless, qemu-system-x86-64-headless
 Provides: qemu-system-x86_64
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/arm-q/qemu-system-x86-64_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-x86-64_1.10.2.1_arm.deb
 Size: 100720
 MD5Sum: 60e27e39fd569e60efdb83641ed57f43
 SHA1: 9a0d51ecabe288e80ebcb2ce90361ca1889a0bdc
@@ -9846,7 +9831,7 @@ Version: 1:0.24.2-2
 Homepage: https://telepathy.freedesktop.org/
 Depends: telepathy-glib (= 1:0.24.2-2)
 Description: Static libraries for telepathy-glib
-Filename: ../../../../releases/download/arm-t/telepathy-glib-static_1:0.24.2-2_arm.deb
+Filename: ../../../../releases/download/arm-t/telepathy-glib-static_1.0.24.2-2_arm.deb
 Size: 605360
 MD5Sum: b957d0aa10346edc4bfe1ab8e63ee0f9
 SHA1: 22ad64fd78062901f6d25ae45476cd74a0677229
@@ -9863,7 +9848,7 @@ Breaks: telepathy-glib-dev
 Depends: dbus-glib, glib
 Replaces: telepathy-glib-dev
 Description: GLib bindings for the Telepathy D-Bus protocol
-Filename: ../../../../releases/download/arm-t/telepathy-glib_1:0.24.2-2_arm.deb
+Filename: ../../../../releases/download/arm-t/telepathy-glib_1.0.24.2-2_arm.deb
 Size: 1458576
 MD5Sum: d849b7aa2a0caa419f8b20f81e0ef026
 SHA1: a774cb686674d60c2e1e6a8f711a72817f73062a
@@ -10101,7 +10086,7 @@ Version: 1:1.30-10-1
 Homepage: https://github.com/dottedmag/x2x
 Depends: libx11, libxext, libxtst
 Description: Allows the keyboard, mouse on one X display to be used to control another X display
-Filename: ../../../../releases/download/arm-x/x2x_1:1.30-10-1_arm.deb
+Filename: ../../../../releases/download/arm-x/x2x_1.1.30-10-1_arm.deb
 Size: 22088
 MD5Sum: bc4d5b689ba05346e6348990bbaf45a7
 SHA1: 68c7e96446c906e6bf74f6a56dfa4e1740999f29
@@ -11594,4 +11579,19 @@ MD5Sum: 54c37473da28a6df1390629d0a3f36ce
 SHA1: e25e60e5512e2db2c7a7f0ca881942f670676b96
 SHA256: 117436a1b9906a877a0d806c658ce5f9fbb1de4cd672fd0f46a88d8e1bad15a1
 SHA512: 0df86c8fc74859a4b959ec82cc7d6f5d3a49e77bf59007e9947eeed290d65a57278c6cbad52849a93b169479d42f8ea2a9c8cbf10093231e8724579fee23100d
+
+Package: 1oom
+Architecture: arm
+Installed-Size: 516
+Maintainer: @termux
+Version: 1.11.8
+Homepage: https://github.com/1oom-fork/1oom
+Depends: libandroid-shmem, libsamplerate, libx11, libxext, readline
+Description: A Master of Orion (1993) game engine recreation
+Filename: ../../../../releases/download/arm-1/1oom_1.11.8_arm.deb
+Size: 206048
+MD5Sum: 43a2719027fe112a885335821aeef69d
+SHA1: 0610bd08a44bb85618e6c84c8d4bada138cc1995
+SHA256: b89a960b3670e6bb333cb5635085af6185822fec6c87856c9db07160fb3e9532
+SHA512: 7ec926836fabfab3b703f50ac0c64f5d84c8705f23665a5e5312c88622072f0ae47183c3d2536330da1dd9785292d228da7d23d61ed6562e8ba03b8f009ab59d
 

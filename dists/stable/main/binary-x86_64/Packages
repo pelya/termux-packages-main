@@ -1,17 +1,3 @@
-Package: 0verkill
-Architecture: x86_64
-Installed-Size: 3160
-Maintainer: @termux
-Version: 1:0.16-1
-Homepage: https://github.com/hackndev/0verkill
-Description: Bloody 2D action deathmatch-like game in ASCII-ART
-Filename: ../../../../releases/download/x86_64-0/0verkill_1:0.16-1_x86_64.deb
-Size: 173336
-MD5Sum: d3fedf5651aa23104610bf6dc9364017
-SHA1: 2c7f558d4ff8ede339837e8e415c3bc9ebced38c
-SHA256: 76381f1d6290ca2e1d886aeae09523eeccee1a671b2a336da14c0aef9374684f
-SHA512: a0b7813be279ee522beb6d19874abd6e4ff8a7596eb7eac242874fc50b3bb74d3ea25d4b7abc67576c78d095db36d76dc03f647d9ea6f6c8dde4349e0bb39c9e
-
 Package: 2048-c
 Architecture: x86_64
 Installed-Size: 56
@@ -19,7 +5,7 @@ Maintainer: @termux
 Version: 1:1.0.3-1
 Homepage: https://github.com/mevdschee/2048.c
 Description: Console version of the game '2048' for GNU/Linux
-Filename: ../../../../releases/download/x86_64-2/2048-c_1:1.0.3-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-2/2048-c_1.1.0.3-1_x86_64.deb
 Size: 5896
 MD5Sum: 346c9379ad4e44995f8c1d06a8717109
 SHA1: d8ad95beac5d5be2698b4de966328d872d677d84
@@ -227,7 +213,7 @@ Maintainer: @termux
 Version: 1:1.3.1
 Homepage: https://github.com/FiloSottile/age
 Description: A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability
-Filename: ../../../../releases/download/x86_64-a/age_1:1.3.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-a/age_1.1.3.1_x86_64.deb
 Size: 1800356
 MD5Sum: 8a2eecf9c3d2c8261c14f98542447038
 SHA1: 56a1a7cba44a31ae2ac30d6a0c6c03012764edc4
@@ -555,7 +541,7 @@ Breaks: apache2-dev
 Depends: apr, apr-util, libandroid-support, libcrypt, libnghttp2, libuuid, openssl, pcre2, zlib
 Replaces: apache2-dev
 Description: Apache Web Server
-Filename: ../../../../releases/download/x86_64-a/apache2_1:2.4.68_x86_64.deb
+Filename: ../../../../releases/download/x86_64-a/apache2_1.2.4.68_x86_64.deb
 Size: 5331272
 MD5Sum: 85836c17cfe5cb686d8bed23f665eb95
 SHA1: 01a2dc6113d8f365df144f4e911ba7a30c0703a0
@@ -919,7 +905,7 @@ Version: 1:2020.12.07
 Homepage: http://aspell.net/
 Depends: aspell
 Description: English dictionary for aspell
-Filename: ../../../../releases/download/x86_64-a/aspell-en_1:2020.12.07_all.deb
+Filename: ../../../../releases/download/x86_64-a/aspell-en_1.2020.12.07_all.deb
 Size: 1124408
 MD5Sum: 06126f97741f0351f72fb51066a0fb6a
 SHA1: a649c84e9808c7fa3d2288d4da5880c719c30e65
@@ -934,7 +920,7 @@ Version: 2:0.50-3-1
 Homepage: http://aspell.net/
 Depends: aspell
 Description: French dictionary for aspell
-Filename: ../../../../releases/download/x86_64-a/aspell-fr_2:0.50-3-1_all.deb
+Filename: ../../../../releases/download/x86_64-a/aspell-fr_2.0.50-3-1_all.deb
 Size: 4369460
 MD5Sum: 111ecc346445ebe25cda998fda157e75
 SHA1: 326c21294b59455013684744e9958f06c0905210
@@ -1134,7 +1120,7 @@ Version: 1:20240608.083822.1ed9031-1
 Homepage: https://github.com/wez/atomicparsley
 Depends: libc++, zlib
 Description: Read, parse and set metadata of MPEG-4 and 3gp files
-Filename: ../../../../releases/download/x86_64-a/atomicparsley_1:20240608.083822.1ed9031-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-a/atomicparsley_1.20240608.083822.1ed9031-1_x86_64.deb
 Size: 114892
 MD5Sum: fa38b395b781912a5744713747f92a01
 SHA1: 418e2191fa8fc748fd86f3960354493cd6560335
@@ -1149,7 +1135,7 @@ Version: 1:0.6.6-1
 Homepage: https://github.com/bettio/AtomVM
 Depends: zlib
 Description: The minimal Erlang VM implementation
-Filename: ../../../../releases/download/x86_64-a/atomvm_1:0.6.6-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-a/atomvm_1.0.6.6-1_x86_64.deb
 Size: 225320
 MD5Sum: d832f6a754057ebb13709f14babc8a30
 SHA1: 46592b0fa576b3b3191284ad5b1c4ea79de3bfc5
@@ -1685,7 +1671,7 @@ Maintainer: @termux
 Version: 1:1.1.0-1
 Homepage: https://justine.lol/blinkenlights/
 Description: Tiny x86-64 Linux emulator
-Filename: ../../../../releases/download/x86_64-b/blink_1:1.1.0-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-b/blink_1.1.1.0-1_x86_64.deb
 Size: 324276
 MD5Sum: b6a817e7d90245263713a0317522d65d
 SHA1: 780e71aae7509dafb96d17aafc163ef9cd5b10e7
@@ -1894,7 +1880,7 @@ Version: 1:3.3-1
 Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 Depends: ncurses
 Description: Classic text mode games from UNIX folklore
-Filename: ../../../../releases/download/x86_64-b/bsd-games_1:3.3-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-b/bsd-games_1.3.3-1_x86_64.deb
 Size: 210760
 MD5Sum: b80d47f237d3c8f09a9d8e542f9f7354
 SHA1: 51f5ba851b2f4747287c2a3579830a7b96076bef
@@ -2310,7 +2296,7 @@ Version: 1:3.27.1
 Homepage: https://cfengine.com/
 Depends: cfengine (= 1:3.27.1)
 Description: Static libraries for cfengine
-Filename: ../../../../releases/download/x86_64-c/cfengine-static_1:3.27.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-c/cfengine-static_1.3.27.1_x86_64.deb
 Size: 1469124
 MD5Sum: 906f5ebf29e018ae58f0bba2126b002b
 SHA1: 2682aea2126d57462ceae62e38c49e8e6ce441c5
@@ -2325,7 +2311,7 @@ Version: 1:3.27.1
 Homepage: https://cfengine.com/
 Depends: libandroid-glob, liblmdb, librsync, libxml2, libyaml, openssl, pcre2
 Description: CFEngine is a configuration management technology
-Filename: ../../../../releases/download/x86_64-c/cfengine_1:3.27.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-c/cfengine_1.3.27.1_x86_64.deb
 Size: 973416
 MD5Sum: 3c10b580aa612f4e9d2a982188a540f0
 SHA1: 8bff78f9c2c99babf4d56232cef0af8db60d65c6
@@ -2499,7 +2485,7 @@ Version: 0.0.0+g3c32e7d
 Homepage: https://github.com/yuri-xyz/chroma.git
 Depends: vulkan-icd, alsa-lib
 Description: Shader-based audio visualizer for the terminal
-Filename: ../../../../releases/download/x86_64-c/chroma-visualizer_0.0.0+g3c32e7d_x86_64.deb
+Filename: ../../../../releases/download/x86_64-c/chroma-visualizer_0.0.0.g3c32e7d_x86_64.deb
 Size: 2324480
 MD5Sum: 0df8914a2533740511e255dc3bedefff
 SHA1: f682e5dc5ba281ff4ebd51715c081cf1bb60c52e
@@ -2890,7 +2876,7 @@ Version: 1:1.17.11
 Homepage: https://github.com/coin-or/Clp
 Depends: coinor-clp (= 1:1.17.11)
 Description: Static libraries for coinor-clp
-Filename: ../../../../releases/download/x86_64-c/coinor-clp-static_1:1.17.11_x86_64.deb
+Filename: ../../../../releases/download/x86_64-c/coinor-clp-static_1.1.17.11_x86_64.deb
 Size: 873852
 MD5Sum: a9b1da174f64edd4ac7abf98c105cb1f
 SHA1: 107c2018d2d9b1c277f920780eacc7abc014fd02
@@ -2905,7 +2891,7 @@ Version: 1:1.17.11
 Homepage: https://github.com/coin-or/Clp
 Depends: libc++, libcoinor-osi, libcoinor-utils
 Description: An open-source linear programming solver
-Filename: ../../../../releases/download/x86_64-c/coinor-clp_1:1.17.11_x86_64.deb
+Filename: ../../../../releases/download/x86_64-c/coinor-clp_1.1.17.11_x86_64.deb
 Size: 810536
 MD5Sum: d4ddf00f9729ac2e008c135490e9be44
 SHA1: ffb353b777905a6cf3b50c511b79d6235ed8c7f8
@@ -3175,7 +3161,7 @@ Maintainer: @termux
 Version: 1:10.4.13
 Homepage: https://github.com/schollz/croc
 Description: Easily and securely send things from one computer to another
-Filename: ../../../../releases/download/x86_64-c/croc_1:10.4.13_x86_64.deb
+Filename: ../../../../releases/download/x86_64-c/croc_1.10.4.13_x86_64.deb
 Size: 3511432
 MD5Sum: a756beb7ba75130d54e458df3fb34061
 SHA1: 522a401da360859a19bcaf919f20cb03b62aed0f
@@ -3299,7 +3285,7 @@ Version: 2:6.2.1
 Homepage: https://ctags.io/
 Depends: libiconv, libjansson, libxml2, libyaml
 Description: Universal ctags: Source code index builder
-Filename: ../../../../releases/download/x86_64-c/ctags_2:6.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-c/ctags_2.6.2.1_x86_64.deb
 Size: 748944
 MD5Sum: 2eb4ebf5f6bb3654edc4c41900c5ed46
 SHA1: a6e69f274b8df44830101687e9053b6fa2630223
@@ -3433,7 +3419,7 @@ Version: 1:1.12.13-5
 Homepage: https://www.nongnu.org/cvs/
 Depends: zlib, libandroid-support
 Description: Concurrent Versions System
-Filename: ../../../../releases/download/x86_64-c/cvs_1:1.12.13-5_x86_64.deb
+Filename: ../../../../releases/download/x86_64-c/cvs_1.1.12.13-5_x86_64.deb
 Size: 522548
 MD5Sum: fd4b16f49b28250e42e4ecf0a1d09fd2
 SHA1: 3f3ea2bc698bcca477983bad422d5a19fd3d7146
@@ -3863,7 +3849,7 @@ Homepage: https://www.getdnote.com/
 Breaks: dnote-client
 Replaces: dnote-client
 Description: A simple command line notebook for programmers
-Filename: ../../../../releases/download/x86_64-d/dnote_1:0.16.0_x86_64.deb
+Filename: ../../../../releases/download/x86_64-d/dnote_1.0.16.0_x86_64.deb
 Size: 3213972
 MD5Sum: 0990688b74dfa42e503714542183b83b
 SHA1: 994a353f1bf3bc4cd16bacf0471c9d4f8fb61f5e
@@ -4769,7 +4755,7 @@ Version: 1:4.12-5
 Homepage: https://www.eclipse.org/jdt/core/
 Conflicts: ecj4.6
 Description: Eclipse Compiler for Java
-Filename: ../../../../releases/download/x86_64-e/ecj_1:4.12-5_all.deb
+Filename: ../../../../releases/download/x86_64-e/ecj_1.4.12-5_all.deb
 Size: 6775540
 MD5Sum: b074ae18f9b07b06137deb72b57253e6
 SHA1: 7e47aac2cd764a98c1efd25bc201f4c8343dda21
@@ -5083,7 +5069,7 @@ Version: 1.2.2RC+really1.2.2
 Homepage: https://gitlab.com/ecodis/exhale
 Depends: libc++
 Description: Open source xHE-AAC encoder
-Filename: ../../../../releases/download/x86_64-e/exhale_1.2.2RC+really1.2.2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-e/exhale_1.2.2RC.really1.2.2_x86_64.deb
 Size: 141552
 MD5Sum: 7ee9cce657841504e19a53f0d7c4834f
 SHA1: 490260a56dbbf8bb09b40cbea3ded10291639530
@@ -5115,7 +5101,7 @@ Breaks: exiv2-dev
 Depends: brotli, libandroid-support, libc++, libexpat, libiconv, libinih, zlib
 Replaces: exiv2-dev
 Description: Exif, Iptc and XMP metadata manipulation library and tools
-Filename: ../../../../releases/download/x86_64-e/exiv2_2:0.28.8_x86_64.deb
+Filename: ../../../../releases/download/x86_64-e/exiv2_2.0.28.8_x86_64.deb
 Size: 1088944
 MD5Sum: 5e7c6748750eb735396e4a591143e6c8
 SHA1: 18ef838c887faa6efd10462fc7dc7cd30470e068
@@ -5161,7 +5147,7 @@ Version: 1.6.5-3
 Homepage: https://bitbucket.org/dtsarkov/factplusplus
 Depends: libc++
 Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
-Filename: ../../../../releases/download/x86_64-f/fact++_1.6.5-3_x86_64.deb
+Filename: ../../../../releases/download/x86_64-f/fact.._1.6.5-3_x86_64.deb
 Size: 349296
 MD5Sum: 35dfc9af7074f9a6bd987da661e0f8dd
 SHA1: b837e14c85a46162d18e4670db1ab867cc00c4cd
@@ -5693,7 +5679,7 @@ Version: 1:11.2.0
 Homepage: https://fmt.dev/latest/index.html
 Depends: libc++
 Description: Open-source formatting library for C++
-Filename: ../../../../releases/download/x86_64-f/fmt_1:11.2.0_x86_64.deb
+Filename: ../../../../releases/download/x86_64-f/fmt_1.11.2.0_x86_64.deb
 Size: 174388
 MD5Sum: d323e4a512f6632f4ff26f82addec128
 SHA1: 6edac0d1e32862f6b8e55f1af8597a7a15d39efd
@@ -7197,7 +7183,7 @@ Version: 3:1.26.5
 Homepage: https://go.dev/
 Depends: golang (= 3:1.26.5)
 Description: Go programming language - documentation
-Filename: ../../../../releases/download/x86_64-g/golang-doc_3:1.26.5_x86_64.deb
+Filename: ../../../../releases/download/x86_64-g/golang-doc_3.1.26.5_x86_64.deb
 Size: 93692
 MD5Sum: 629ccede9535394afa088b3c984cb51e
 SHA1: 9836eb5ede9687ecf9382638641723800715564b
@@ -7213,7 +7199,7 @@ Homepage: https://go.dev/
 Depends: clang
 Recommends: resolv-conf
 Description: Go programming language compiler
-Filename: ../../../../releases/download/x86_64-g/golang_3:1.26.5_x86_64.deb
+Filename: ../../../../releases/download/x86_64-g/golang_3.1.26.5_x86_64.deb
 Size: 38215284
 MD5Sum: d25c9b705f7d51100e2ba334f161f256
 SHA1: 83a6863524bbed93a9cf0a9aa8e94e045237cb75
@@ -7456,7 +7442,7 @@ Maintainer: @termux
 Version: 1:12.3.3
 Homepage: https://grafana.com/
 Description: The open-source platform for monitoring and observability
-Filename: ../../../../releases/download/x86_64-g/grafana_1:12.3.3_x86_64.deb
+Filename: ../../../../releases/download/x86_64-g/grafana_1.12.3.3_x86_64.deb
 Size: 123285340
 MD5Sum: fabcb4c9a1fe5395b6fefa769a6c7c11
 SHA1: 0cb766f84c3ea8f6d04f632184d92d173ef68542
@@ -8222,7 +8208,7 @@ Version: 1:2.4.0
 Homepage: http://www.mbayer.de/html2text/
 Depends: libc++, libiconv
 Description: Utility that converts HTML documents into plain text
-Filename: ../../../../releases/download/x86_64-h/html2text_1:2.4.0_x86_64.deb
+Filename: ../../../../releases/download/x86_64-h/html2text_1.2.4.0_x86_64.deb
 Size: 78344
 MD5Sum: 2160a4adac2680e6644b60616047d200
 SHA1: 7dada589ceb17c1a75ca2276305ff0c54c2742a2
@@ -8984,7 +8970,7 @@ Version: 1:0.32
 Homepage: https://github.com/agl/jbig2enc
 Depends: jbig2enc (= 1:0.32)
 Description: Static libraries for jbig2enc
-Filename: ../../../../releases/download/x86_64-j/jbig2enc-static_1:0.32_x86_64.deb
+Filename: ../../../../releases/download/x86_64-j/jbig2enc-static_1.0.32_x86_64.deb
 Size: 71036
 MD5Sum: c54fdbe93ea03f9b562dc1de8eb5471a
 SHA1: a31574bcd8d26cf57db6b2dc534a8dac934796d5
@@ -8999,7 +8985,7 @@ Version: 1:0.32
 Homepage: https://github.com/agl/jbig2enc
 Depends: giflib, leptonica, libc++, libjpeg-turbo, libpng, libtiff, libwebp, python, zlib
 Description: An encoder for JBIG2
-Filename: ../../../../releases/download/x86_64-j/jbig2enc_1:0.32_x86_64.deb
+Filename: ../../../../releases/download/x86_64-j/jbig2enc_1.0.32_x86_64.deb
 Size: 59112
 MD5Sum: b067eee65581927a58c205dc7572ce60
 SHA1: f9bbb27756c78d46503e154183309b57cc7874dc
@@ -10207,7 +10193,7 @@ Version: 1:0.8.1-1
 Homepage: http://www.ltrace.org/
 Depends: libc++, libelf, libdw
 Description: Tracks runtime library calls in dynamically linked programs
-Filename: ../../../../releases/download/x86_64-l/ltrace_1:0.8.1-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-l/ltrace_1.0.8.1-1_x86_64.deb
 Size: 126504
 MD5Sum: a93b701baeeccd408f6227e719ff8eea
 SHA1: fe9bc643fe461d7934134f05fe523d1eb4b82651
@@ -10237,7 +10223,7 @@ Version: 0.9.2+p20251219-2
 Homepage: https://github.com/lgi-devs/lgi
 Depends: glib, gobject-introspection, libcairo, libffi, lua54
 Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
-Filename: ../../../../releases/download/x86_64-l/lua-lgi_0.9.2+p20251219-2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-l/lua-lgi_0.9.2.p20251219-2_x86_64.deb
 Size: 74984
 MD5Sum: 205bdd865cdeaed1f184c1d6c852c44c
 SHA1: 994a7ca026c7495d86907f1ab933a274cca2db9f
@@ -10482,7 +10468,7 @@ Version: 1:2.1.1783773675+g3c4f9fe
 Homepage: https://luajit.org/
 Depends: luajit (= 1:2.1.1783773675+g3c4f9fe)
 Description: Static libraries for luajit
-Filename: ../../../../releases/download/x86_64-l/luajit-static_1:2.1.1783773675+g3c4f9fe_x86_64.deb
+Filename: ../../../../releases/download/x86_64-l/luajit-static_1.2.1.1783773675.g3c4f9fe_x86_64.deb
 Size: 233268
 MD5Sum: 00bc18293b3e5bdcbde7ba3e31214621
 SHA1: 2f148894973959d4fa1733a75b149405488bf77d
@@ -10498,7 +10484,7 @@ Homepage: https://luajit.org/
 Breaks: libluajit-dev, libluajit
 Replaces: libluajit-dev, libluajit
 Description: Just-In-Time Compiler for Lua
-Filename: ../../../../releases/download/x86_64-l/luajit_1:2.1.1783773675+g3c4f9fe_x86_64.deb
+Filename: ../../../../releases/download/x86_64-l/luajit_1.2.1.1783773675.g3c4f9fe_x86_64.deb
 Size: 307200
 MD5Sum: ebc4ff217c3abc66c7a8387eb01dec47
 SHA1: ea29537df517a81d08a641a796eabad052e02f08
@@ -10559,7 +10545,7 @@ Homepage: https://luvit.io
 Depends: lua51-lpeg, luajit, luv, openssl, pcre2, zlib
 Suggests: lit, luvit
 Description: A project in-between luv and luvit
-Filename: ../../../../releases/download/x86_64-l/luvi_1:2.15.0-2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-l/luvi_1.2.15.0-2_x86_64.deb
 Size: 177556
 MD5Sum: 7f365d8f423582fecd723d35afe5ad3b
 SHA1: 6f2ba62f2a4d540331b6299d9661835f10cb7090
@@ -11400,7 +11386,7 @@ Maintainer: @finagolfin
 Version: 1:6.2.1
 Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 Description: LLVM Blocks runtime library
-Filename: ../../../../releases/download/x86_64-libb/libblocksruntime_1:6.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libb/libblocksruntime_1.6.2.1_x86_64.deb
 Size: 4496
 MD5Sum: 993350d1205267d3e11d5875800ad4ad
 SHA1: 74ff4f168ecec089efcab44fa4b9acb7c129b5da
@@ -11600,7 +11586,7 @@ Version: 29
 Homepage: https://libcxx.llvm.org/
 Essential: yes
 Description: C++ Standard Library
-Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libc/libc.._29_x86_64.deb
 Size: 359380
 MD5Sum: ea9b95e40a5569083d82d19719d842f3
 SHA1: 7e2ae38f1ead0d3ff67ff8b5e934dfbcaf57dba2
@@ -11615,7 +11601,7 @@ Version: 5.34.2
 Homepage: https://github.com/Martchus/cpp-utilities
 Depends: boost, libc++, libiconv
 Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
-Filename: ../../../../releases/download/x86_64-libc/libc++utilities_5.34.2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libc/libc..utilities_5.34.2_x86_64.deb
 Size: 164372
 MD5Sum: 551b454715f1be0cae26c1aee9419ed4
 SHA1: 4c32ab02cf81dbaf0bb102300792f076af4be3f2
@@ -11953,7 +11939,7 @@ Version: 1:0.108.12
 Homepage: https://github.com/coin-or/Osi
 Depends: libcoinor-osi (= 1:0.108.12)
 Description: Static libraries for libcoinor-osi
-Filename: ../../../../releases/download/x86_64-libc/libcoinor-osi-static_1:0.108.12_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libc/libcoinor-osi-static_1.0.108.12_x86_64.deb
 Size: 311076
 MD5Sum: d8605cec61715df776294700593fd72d
 SHA1: 84da3b112f0f4eaf652221f439ab9f193dba9f41
@@ -11968,7 +11954,7 @@ Version: 1:0.108.12
 Homepage: https://github.com/coin-or/Osi
 Depends: libc++, libcoinor-utils
 Description: An abstract base class to a generic linear programming (LP) solver
-Filename: ../../../../releases/download/x86_64-libc/libcoinor-osi_1:0.108.12_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libc/libcoinor-osi_1.0.108.12_x86_64.deb
 Size: 270936
 MD5Sum: d7018549d81deb3ed6d2c81f11cc53da
 SHA1: 7954b1cb6bf6b4efb5775c7497bbc3f90850db7f
@@ -11983,7 +11969,7 @@ Version: 1:2.11.13
 Homepage: https://github.com/coin-or/CoinUtils
 Depends: libcoinor-utils (= 1:2.11.13)
 Description: Static libraries for libcoinor-utils
-Filename: ../../../../releases/download/x86_64-libc/libcoinor-utils-static_1:2.11.13_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libc/libcoinor-utils-static_1.2.11.13_x86_64.deb
 Size: 504512
 MD5Sum: 29ea02786355027b91d741152fed14bb
 SHA1: 1a0688e34f98f534cd7dcd01a389057e1b6b2379
@@ -11998,7 +11984,7 @@ Version: 1:2.11.13
 Homepage: https://github.com/coin-or/CoinUtils
 Depends: libc++
 Description: An open-source collection of classes and helper functions for COIN-OR projects
-Filename: ../../../../releases/download/x86_64-libc/libcoinor-utils_1:2.11.13_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libc/libcoinor-utils_1.2.11.13_x86_64.deb
 Size: 485152
 MD5Sum: c02cbbf1fe6b17605f6f031ac967c750
 SHA1: bd1ec3d81a00befb1227a91d9c2f3992c3c8f270
@@ -12411,7 +12397,7 @@ Version: 1:6.2.1
 Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 Depends: libc++, libblocksruntime
 Description: The libdispatch project, for concurrency on multicore hardware
-Filename: ../../../../releases/download/x86_64-libd/libdispatch_1:6.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libd/libdispatch_1.6.2.1_x86_64.deb
 Size: 141632
 MD5Sum: 608b3faf4ead270f434a27212290dbd8
 SHA1: 1947b9c3b1cc48de7e67c5e60709d950dac11c7c
@@ -13284,7 +13270,7 @@ Version: 1:2.3.3-7
 Homepage: https://libgd.github.io/
 Depends: libgd (= 1:2.3.3-7)
 Description: Static libraries for libgd
-Filename: ../../../../releases/download/x86_64-libg/libgd-static_1:2.3.3-7_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libg/libgd-static_1.2.3.3-7_x86_64.deb
 Size: 106568
 MD5Sum: 81d5c7238644f5454240297010f3f010
 SHA1: caf48e8e662bd3aec26dd084e422e905a4ba61bc
@@ -13301,7 +13287,7 @@ Breaks: libgd-dev
 Depends: fontconfig, freetype, libavif, libheif, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, zlib
 Replaces: libgd-dev
 Description: GD is an open source code library for the dynamic creation of images by programmers
-Filename: ../../../../releases/download/x86_64-libg/libgd_1:2.3.3-7_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libg/libgd_1.2.3.3-7_x86_64.deb
 Size: 133136
 MD5Sum: 95f2265f3d702a9c0507c8cc1bc227c5
 SHA1: 79f2e89330385ccde28a009696b316ca86d6d3dd
@@ -15748,7 +15734,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Static libraries for libnettle
-Filename: ../../../../releases/download/x86_64-libn/libnettle-static_4.0+really3.10.2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libn/libnettle-static_4.0.really3.10.2_x86_64.deb
 Size: 634556
 MD5Sum: c050826d091aa145f04e62dc2e3a02f7
 SHA1: ff8f0165a5f648552ca7eb84e2bb571d3e8d510c
@@ -15765,7 +15751,7 @@ Breaks: libnettle-dev
 Depends: libgmp
 Replaces: libnettle-dev
 Description: Cryptographic library that is designed to fit easily in more or less any context
-Filename: ../../../../releases/download/x86_64-libn/libnettle_4.0+really3.10.2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libn/libnettle_4.0.really3.10.2_x86_64.deb
 Size: 400964
 MD5Sum: 14b778e84808d7593bd0550a3d86ed2d
 SHA1: 76877ec73ad004a9d53709dba319be18b8ee3a10
@@ -16882,7 +16868,7 @@ Depends: abseil-cpp, libc++, zlib
 Conflicts: protobuf-static
 Replaces: libprotobuf-dev, protobuf-dev, protobuf-static, libutf8-range
 Description: Protocol buffers C++ library
-Filename: ../../../../releases/download/x86_64-libp/libprotobuf_2:35.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libp/libprotobuf_2.35.1_x86_64.deb
 Size: 1494128
 MD5Sum: 0f6997612f4fa25e38e532e4388d5e09
 SHA1: e47c6896b770bdbcf32a52fe96301c9b1cc0b7bb
@@ -17398,7 +17384,7 @@ Version: 1:3.2.0-9
 Homepage: https://github.com/haiwen/libsearpc
 Depends: libsearpc (= 1:3.2.0-9)
 Description: Static libraries for libsearpc
-Filename: ../../../../releases/download/x86_64-libs/libsearpc-static_1:3.2.0-9_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libs/libsearpc-static_1.3.2.0-9_x86_64.deb
 Size: 12840
 MD5Sum: 1a56eba37c190b46232ac3d29422063d
 SHA1: 3ee9afb52a6765d19135ab89fbcf8386bcf634db
@@ -17415,7 +17401,7 @@ Breaks: libsearpc-dev
 Depends: glib, libjansson, python
 Replaces: libsearpc-dev
 Description: A simple C language RPC framework (mainly for seafile)
-Filename: ../../../../releases/download/x86_64-libs/libsearpc_1:3.2.0-9_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libs/libsearpc_1.3.2.0-9_x86_64.deb
 Size: 19616
 MD5Sum: 6169718239001b310573ce35068c19b7
 SHA1: 09e551f3e233dcda088359201cfc508b1c9744c4
@@ -17461,7 +17447,7 @@ Version: 1:0.7.1
 Homepage: https://github.com/bitcoin-core/secp256k1
 Depends: libsecp256k1 (= 1:0.7.1)
 Description: Static libraries for libsecp256k1
-Filename: ../../../../releases/download/x86_64-libs/libsecp256k1-static_1:0.7.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libs/libsecp256k1-static_1.0.7.1_x86_64.deb
 Size: 1182100
 MD5Sum: 7de13efbd14811b7ccb29e81f80251b2
 SHA1: ae0baafb2ea5b803429be1fad68dcf5ae6ee4328
@@ -17475,7 +17461,7 @@ Maintainer: @termux
 Version: 1:0.7.1
 Homepage: https://github.com/bitcoin-core/secp256k1
 Description: Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1
-Filename: ../../../../releases/download/x86_64-libs/libsecp256k1_1:0.7.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libs/libsecp256k1_1.0.7.1_x86_64.deb
 Size: 1199912
 MD5Sum: b47a7d79f59e9ad3701b4bb597bf7022
 SHA1: 42e06ea7d907d2fe12b7e3735121561b00859a0c
@@ -17535,7 +17521,7 @@ Version: 2.12.1-1
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/x86_64-libs/libsigc++-2.0_2.12.1-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libs/libsigc..-2.0_2.12.1-1_x86_64.deb
 Size: 73452
 MD5Sum: 0958934586557005c095753b45d7b8c3
 SHA1: e07660de443e0af0ca65d166ed510477880b1eff
@@ -17550,7 +17536,7 @@ Version: 3.6.0-2
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/x86_64-libs/libsigc++-3.0_3.6.0-2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libs/libsigc..-3.0_3.6.0-2_x86_64.deb
 Size: 56028
 MD5Sum: b798c991418bd7bf1d8101c2aec1c38f
 SHA1: e4c187181c2fce1e3c2ab92fe7d2466201cfdcf7
@@ -19397,7 +19383,7 @@ Version: 1:1.16.0
 Homepage: https://www.webmproject.org
 Depends: libvpx (= 1:1.16.0)
 Description: Static libraries for libvpx
-Filename: ../../../../releases/download/x86_64-libv/libvpx-static_1:1.16.0_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libv/libvpx-static_1.1.16.0_x86_64.deb
 Size: 971420
 MD5Sum: e4a70cb698d0fc7b19700ff6be1e9842
 SHA1: 4c39b8e7782493203bcf95cbef7bd3ea9fe2051d
@@ -19414,7 +19400,7 @@ Breaks: libvpx-dev
 Depends: libc++
 Replaces: libvpx-dev
 Description: VP8 & VP9 Codec SDK
-Filename: ../../../../releases/download/x86_64-libv/libvpx_1:1.16.0_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libv/libvpx_1.1.16.0_x86_64.deb
 Size: 888352
 MD5Sum: a5152ca6d703f2eee49767e1b3af135c
 SHA1: aee2eb8f25685a05c3016c46a1e345b2c5f98424
@@ -19430,7 +19416,7 @@ Homepage: https://www.leonerd.org.uk/code/libvterm/
 Breaks: libvterm-dev
 Replaces: libvterm-dev
 Description: Terminal emulator library
-Filename: ../../../../releases/download/x86_64-libv/libvterm_1:0.3.3-2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libv/libvterm_1.0.3.3-2_x86_64.deb
 Size: 34520
 MD5Sum: 9b8a476a48f4d35afa2ccb4c1f8b68a5
 SHA1: e7075244bfbfbd7ff52d366670b691dfe4a99b1f
@@ -19689,7 +19675,7 @@ Version: 1:0.164.3191-1
 Homepage: https://www.videolan.org/developers/x264.html
 Depends: libx264 (= 1:0.164.3191-1)
 Description: Static libraries for libx264
-Filename: ../../../../releases/download/x86_64-libx/libx264-static_1:0.164.3191-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libx/libx264-static_1.0.164.3191-1_x86_64.deb
 Size: 395756
 MD5Sum: fd1517b127e4ce388641a3d724ea42a6
 SHA1: 84d5dd1208b39cfe27bd89da1d084fc70b830827
@@ -19705,7 +19691,7 @@ Homepage: https://www.videolan.org/developers/x264.html
 Breaks: libx264-dev
 Replaces: libx264-dev
 Description: Library for encoding video streams into the H.264/MPEG-4 AVC format
-Filename: ../../../../releases/download/x86_64-libx/libx264_1:0.164.3191-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libx/libx264_1.0.164.3191-1_x86_64.deb
 Size: 379604
 MD5Sum: 3362cec9d69d550c4fc70444d8e694b1
 SHA1: 3ca915a7c9e5b3990bb61f39309e9acf88d5efbc
@@ -21232,7 +21218,7 @@ Maintainer: @termux
 Version: 1:1.0.5-1
 Homepage: https://github.com/rofl0r/microsocks
 Description: tiny, portable SOCKS5 server with very moderate resource usage
-Filename: ../../../../releases/download/x86_64-m/microsocks_1:1.0.5-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-m/microsocks_1.1.0.5-1_x86_64.deb
 Size: 7172
 MD5Sum: f720ca4a78b8b3578cad87f29f2ea241
 SHA1: 514e82c8bd093e8c325a7dcff386339e465ccf8e
@@ -22066,7 +22052,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307+really6.5.20250830_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307.really6.5.20250830_x86_64.deb
 Size: 156580
 MD5Sum: 2295304c538a2787d856de6d9a0e1c5f
 SHA1: 8a666b030eee7326c5f6943cdfba2a0c10cfc6d6
@@ -22081,7 +22067,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307.really6.5.20250830_x86_64.deb
 Size: 39156
 MD5Sum: 20eb28a594ac6a5b7a107d8b3b0eec4a
 SHA1: 2344858642af798bfcb65741e5acca6f7238d4a3
@@ -22098,7 +22084,7 @@ Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Breaks: ncurses (<< 6.4)
 Replaces: ncurses (<< 6.4)
 Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307.really6.5.20250830_x86_64.deb
 Size: 35432
 MD5Sum: 1772d801f80a3640b10d030f651d0a4b
 SHA1: d2139c93a5d032bbaca015a36e53bef0d0ee6cff
@@ -22113,7 +22099,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Tools for working with terminals
-Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307+really6.5.20250830_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307.really6.5.20250830_x86_64.deb
 Size: 92596
 MD5Sum: 8ed3b3aa9d8a35fadd5a30a1d1998a47
 SHA1: 722a867b248edcb29d2457b8b446f6fafde65e73
@@ -22129,7 +22115,7 @@ Homepage: https://invisible-island.net/ncurses/
 Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307+really6.5.20250830_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307.really6.5.20250830_x86_64.deb
 Size: 569804
 MD5Sum: 65fb7981f75bda2208c41299eb015f0c
 SHA1: 97777f9341c4e03b36fac56a39d592d074da0cd5
@@ -22192,7 +22178,7 @@ Breaks: neovim
 Depends: libandroid-support, libiconv, libmsgpack, libunibilium, libuv, libvterm (>= 1:0.3-0), lua51-lpeg, luajit, luv, tree-sitter, tree-sitter-parsers, utf8proc
 Conflicts: neovim
 Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
-Filename: ../../../../releases/download/x86_64-n/neovim-nightly_0.13.0~dev-980+g3a7989f4f4-0_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/neovim-nightly_0.13.0.dev-980.g3a7989f4f4-0_x86_64.deb
 Size: 6250520
 MD5Sum: 7028e69405e32a69824892b9e2addbf6
 SHA1: b3e85d60c270e9084354426a20b947c759123ff6
@@ -22344,7 +22330,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Low level cryptographic tools
-Filename: ../../../../releases/download/x86_64-n/nettle_4.0+really3.10.2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/nettle_4.0.really3.10.2_x86_64.deb
 Size: 19044
 MD5Sum: 752314afc79f361e3e97cb9e890d535e
 SHA1: 4d18bbd9d199bfa53114cac7b7ce2a32d4710f6d
@@ -24115,7 +24101,7 @@ Maintainer: @termux
 Version: 1:2.0.1-1
 Homepage: https://www.softsynth.com/pforth/
 Description: Portable Forth in C
-Filename: ../../../../releases/download/x86_64-p/pforth_1:2.0.1-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-p/pforth_1.2.0.1-1_x86_64.deb
 Size: 41804
 MD5Sum: 4d00b8a7e27238ee247ccc0a0a4d4126
 SHA1: 43f1b4166f9711ae8441de0d5a0f9af498c0e368
@@ -24871,7 +24857,7 @@ Version: 2:35.1
 Homepage: https://github.com/protocolbuffers/protobuf
 Depends: libprotobuf (= 2:35.1)
 Description: Compiler for protocol buffer definition files
-Filename: ../../../../releases/download/x86_64-p/protobuf_2:35.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-p/protobuf_2.35.1_x86_64.deb
 Size: 1324528
 MD5Sum: 8b910733d00a8cb8f60129f2c6611b88
 SHA1: 5bffd5288083e07e1a8e9852b1f627f9f1e435ea
@@ -25628,7 +25614,7 @@ Depends: glib, libbz2, libcap-ng, libcurl, libgmp, libgnutls, libnettle, libnfs,
 Breaks: qemu-system-x86-64 (<< 1:8.0.0), qemu-system-x86-64-headless (<< 1:8.0.0)
 Replaces: qemu-system-x86-64 (<< 1:8.0.0), qemu-system-x86-64-headless (<< 1:8.0.0)
 Description: A set common files used by the QEMU emulators
-Filename: ../../../../releases/download/x86_64-q/qemu-common_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-common_1.10.2.1_x86_64.deb
 Size: 21070188
 MD5Sum: 4a4e6c9c87bfc7edaf2325d59fc8e85a
 SHA1: cb045d691a479f7f3db94047a0eb7dae2a78f187
@@ -25643,7 +25629,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/x86_64-q/qemu-system-aarch64-headless_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-system-aarch64-headless_1.10.2.1_x86_64.deb
 Size: 3676452
 MD5Sum: 80682161996e4c0662838829fcae1527
 SHA1: c358ce9610339a0721754acaff3419504975a094
@@ -25658,7 +25644,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/x86_64-q/qemu-system-arm-headless_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-system-arm-headless_1.10.2.1_x86_64.deb
 Size: 3280336
 MD5Sum: b8a6a2e77ccf6fc3f9ca42543e1f3c63
 SHA1: bfb8836c4e5dbec38e178179756e62a217d7a745
@@ -25673,7 +25659,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/x86_64-q/qemu-system-i386-headless_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-system-i386-headless_1.10.2.1_x86_64.deb
 Size: 2847924
 MD5Sum: 1ba9a4645a9600fe3ed70079c96e380b
 SHA1: 053cdbfa3d5ecdf7d3e231cd8d44efcda476a25e
@@ -25688,7 +25674,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/x86_64-q/qemu-system-m68k-headless_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-system-m68k-headless_1.10.2.1_x86_64.deb
 Size: 1843864
 MD5Sum: 30e84d0a239585b88b8489be55ab2f8b
 SHA1: 86ac4459d858ed85699f46ec5a7474cc066da51b
@@ -25703,7 +25689,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/x86_64-q/qemu-system-ppc-headless_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-system-ppc-headless_1.10.2.1_x86_64.deb
 Size: 2653996
 MD5Sum: 5f01d694bcf51cefd86ce28990ecc8f6
 SHA1: 22a5d77d91aacd5ed17ede0b937ecd9611de6f0b
@@ -25718,7 +25704,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/x86_64-q/qemu-system-ppc64-headless_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-system-ppc64-headless_1.10.2.1_x86_64.deb
 Size: 2936088
 MD5Sum: f4d099c5381f58f838f42ef55049e318
 SHA1: 1ec4f66ea0b80de1ecc7d78f16ed1bccd17dfcd2
@@ -25733,7 +25719,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/x86_64-q/qemu-system-riscv32-headless_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-system-riscv32-headless_1.10.2.1_x86_64.deb
 Size: 2582328
 MD5Sum: e86ccf77d636dd2ccc8575485a0d5b09
 SHA1: 94afe09028cb4fddb0742b04c8f70c4b6ba2b3b2
@@ -25748,7 +25734,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/x86_64-q/qemu-system-riscv64-headless_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-system-riscv64-headless_1.10.2.1_x86_64.deb
 Size: 2606944
 MD5Sum: eb9ee0cd37858bf20d041c303478862f
 SHA1: 1f671130dce7eaa31c6283d697955738ea57258a
@@ -25766,7 +25752,7 @@ Conflicts: qemu-system-x86_64-headless
 Replaces: qemu-system-x86_64-headless
 Provides: qemu-system-x86_64-headless
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/x86_64-q/qemu-system-x86-64-headless_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-system-x86-64-headless_1.10.2.1_x86_64.deb
 Size: 3106284
 MD5Sum: 973afb34321afb2aa3dc5718a3816469
 SHA1: 8449c6cfca236758f34d208cfff6be7e0e5b69aa
@@ -25781,7 +25767,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/x86_64-q/qemu-user-aarch64_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-user-aarch64_1.10.2.1_x86_64.deb
 Size: 1018176
 MD5Sum: aa4064642f4447bf15020cf5e2bebbd2
 SHA1: da9dceefc3304e5533280ac628c621be72551cd2
@@ -25796,7 +25782,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/x86_64-q/qemu-user-arm_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-user-arm_1.10.2.1_x86_64.deb
 Size: 702352
 MD5Sum: 388c9afa44f259fa8505011af4eb4e70
 SHA1: d024bc966e58360711d27fdbeaa53ad9a12ef5d0
@@ -25811,7 +25797,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/x86_64-q/qemu-user-i386_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-user-i386_1.10.2.1_x86_64.deb
 Size: 587416
 MD5Sum: 7ea47cefd4ce3728e222e0b1c3a4aaaa
 SHA1: 631aa69cf3db8260415cb0558b7dc57ea70a90df
@@ -25826,7 +25812,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/x86_64-q/qemu-user-m68k_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-user-m68k_1.10.2.1_x86_64.deb
 Size: 516104
 MD5Sum: c495dc92e2db154cffd11f6a89c1578f
 SHA1: aac76de5a09d9c8014a4b8acd8420289b45a51ae
@@ -25841,7 +25827,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/x86_64-q/qemu-user-ppc64_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-user-ppc64_1.10.2.1_x86_64.deb
 Size: 654092
 MD5Sum: 9ec913544bb16eb976ab42e8d5245433
 SHA1: fcb781d34cdda55ecf7551e4a8e2d3de4eb6effa
@@ -25856,7 +25842,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/x86_64-q/qemu-user-ppc_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-user-ppc_1.10.2.1_x86_64.deb
 Size: 641428
 MD5Sum: 6517bfb3e6e5ff1e91bd64df55004aa1
 SHA1: 2925f786bb2f624b88346ab6f8838cd7f8ba5d55
@@ -25871,7 +25857,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/x86_64-q/qemu-user-riscv32_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-user-riscv32_1.10.2.1_x86_64.deb
 Size: 614500
 MD5Sum: 3db3029a59d4e44afc744e8993b76450
 SHA1: cef0af276849a87a5e1f4bd588e464af2485ca85
@@ -25886,7 +25872,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/x86_64-q/qemu-user-riscv64_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-user-riscv64_1.10.2.1_x86_64.deb
 Size: 618028
 MD5Sum: a6f0cee9194dca1f99fad7e1db1dd932
 SHA1: fb47c517de968d72406254f919d034666e3982cd
@@ -25903,7 +25889,7 @@ Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Breaks: qemu-user-x86_64
 Replaces: qemu-user-x86_64
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/x86_64-q/qemu-user-x86-64_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-user-x86-64_1.10.2.1_x86_64.deb
 Size: 582844
 MD5Sum: ea7c559ca9865aa2303d7990568d6b1b
 SHA1: ae4c698e01c5a0859e6d7fab37ff5838333fc6d7
@@ -25918,7 +25904,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libbz2, libcurl, libgmp, libgnutls, libnettle, libnfs, libpixman, libssh, zlib, zstd
 Description: A set of utilities for working with the QEMU emulators
-Filename: ../../../../releases/download/x86_64-q/qemu-utils_1:10.2.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qemu-utils_1.10.2.1_x86_64.deb
 Size: 1012712
 MD5Sum: eccf9de2539a1f89b16645422a6205c2
 SHA1: 002a1cd16390b8dba89969e06524b5934f652675
@@ -25950,7 +25936,7 @@ Version: 2:1.1.5
 Homepage: https://github.com/mpimd-csc/qrupdate-ng
 Depends: libopenblas
 Description: A Library for Fast Updating of QR and Cholesky Decompositions.
-Filename: ../../../../releases/download/x86_64-q/qrupdate-ng_2:1.1.5_x86_64.deb
+Filename: ../../../../releases/download/x86_64-q/qrupdate-ng_2.1.1.5_x86_64.deb
 Size: 178552
 MD5Sum: bccbba6cc7b3263f2a5b617856525809
 SHA1: cca4d1b362e01caffc1f62a7ad3afb69c3a366b9
@@ -26309,7 +26295,7 @@ Version: 1:0.1.5-1
 Homepage: https://github.com/eafer/rdrview
 Depends: libcurl, libiconv, libseccomp, libxml2
 Description: Command line tool to extract the main content from a webpage
-Filename: ../../../../releases/download/x86_64-r/rdrview_1:0.1.5-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-r/rdrview_1.0.1.5-1_x86_64.deb
 Size: 23660
 MD5Sum: 54028a594c32d18463beed6be9808b5e
 SHA1: 64804285ed1728e8383b7835638d9337b009fbb6
@@ -26414,7 +26400,7 @@ Version: 1:06.02.08
 Homepage: https://dianne.skoll.ca/projects/remind/
 Depends: libandroid-glob
 Description: Sophisticated calendar and alarm program
-Filename: ../../../../releases/download/x86_64-r/remind_1:06.02.08_x86_64.deb
+Filename: ../../../../releases/download/x86_64-r/remind_1.06.02.08_x86_64.deb
 Size: 317340
 MD5Sum: e97d76cc406310ab1817d55e355a1e02
 SHA1: 2469d595294206bab333ac228332716489717880
@@ -26547,7 +26533,7 @@ Maintainer: @termux
 Version: 1:0.73-2
 Homepage: https://github.com/samhocevar/rinetd
 Description: A user-mode TCP port redirection server
-Filename: ../../../../releases/download/x86_64-r/rinetd_1:0.73-2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-r/rinetd_1.0.73-2_x86_64.deb
 Size: 15260
 MD5Sum: 24ca82a16092cf149b2bcff375ac1967
 SHA1: b4614215cad0eee03d5bb6a9cbebc806ca7a2dcd
@@ -26579,7 +26565,7 @@ Homepage: https://github.com/phiresky/ripgrep-all
 Depends: fzf, ripgrep, xz-utils
 Recommends: ffmpeg, graphicsmagick, pandoc, poppler, tesseract
 Description: Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc
-Filename: ../../../../releases/download/x86_64-r/ripgrep-all_1:0.10.10_x86_64.deb
+Filename: ../../../../releases/download/x86_64-r/ripgrep-all_1.0.10.10_x86_64.deb
 Size: 3845172
 MD5Sum: 178c8a136051a0f83f8ae6fdf9ace8d1
 SHA1: 67c3bb66301066f1186b6937b2552470f8b07d58
@@ -27528,7 +27514,7 @@ Maintainer: @termux
 Version: 1:3.12.5-1
 Homepage: http://simh.trailing-edge.com/
 Description: A collection of simulators for computer hardware and software from the past
-Filename: ../../../../releases/download/x86_64-s/simh_1:3.12.5-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-s/simh_1.3.12.5-1_x86_64.deb
 Size: 1119860
 MD5Sum: 7b35e2566c122bf49cce95a9318040dc
 SHA1: 973c59303d7a7ad7ad3e427c6e2c0b07665ad2e6
@@ -28184,7 +28170,7 @@ Maintainer: @termux
 Version: 0.0.0+g31c1ad37
 Homepage: https://github.com/nothings/stb
 Description: Single-file public domain (or MIT licensed) libraries for C/C++
-Filename: ../../../../releases/download/x86_64-s/stb_0.0.0+g31c1ad37_x86_64.deb
+Filename: ../../../../releases/download/x86_64-s/stb_0.0.0.g31c1ad37_x86_64.deb
 Size: 347656
 MD5Sum: 8374b33509952a9885aea978b0bb161a
 SHA1: 394a1d6e9b367a041fdf527d162e14ec2d947d15
@@ -28517,7 +28503,7 @@ Version: 2:7.12.2
 Homepage: https://github.com/DrTimothyAldenDavis/SuiteSparse
 Depends: suitesparse (= 2:7.12.2)
 Description: Static libraries for suitesparse
-Filename: ../../../../releases/download/x86_64-s/suitesparse-static_2:7.12.2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-s/suitesparse-static_2.7.12.2_x86_64.deb
 Size: 1751580
 MD5Sum: 82ec035dc8b8ff43baa85583d5d51533
 SHA1: 0cecc7a359576e92553632a48b7231fd847203f0
@@ -28533,7 +28519,7 @@ Homepage: https://github.com/DrTimothyAldenDavis/SuiteSparse
 Breaks: sundials (<< 7.1.1-2), octave (<< 8.4.0-6), octave-x (<< 8.4.0-5)
 Depends: libandroid-complex-math, libgmp, libmpfr, libopenblas
 Description: A Suite of Sparse matrix packages.
-Filename: ../../../../releases/download/x86_64-s/suitesparse_2:7.12.2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-s/suitesparse_2.7.12.2_x86_64.deb
 Size: 9112248
 MD5Sum: 8c7ad7a2b4f2729eaa06cf728044c0aa
 SHA1: 4bbc92d710ea4c427c247b0d943596eb7c782a7c
@@ -29157,7 +29143,7 @@ Conflicts: procps (<< 3.3.15-2)
 Recommends: ed, dos2unix, inetutils, net-tools, patch, unzip
 Suggests: termux-api
 Description: Basic system tools for Termux
-Filename: ../../../../releases/download/x86_64-t/termux-tools_1.46.0+really1.45.0-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-t/termux-tools_1.46.0.really1.45.0-1_x86_64.deb
 Size: 33556
 MD5Sum: d7f28fcba0ca863f71b106a25adf13e4
 SHA1: 16af78d60df5399cf74d6e7d38d4e7aa41825627
@@ -29234,7 +29220,7 @@ Version: 1:2026.0
 Homepage: https://www.tug.org/texlive/
 Depends: texlive-bin (= 1:2026.0)
 Description: Static libraries for texlive-bin
-Filename: ../../../../releases/download/x86_64-t/texlive-bin-static_1:2026.0_x86_64.deb
+Filename: ../../../../releases/download/x86_64-t/texlive-bin-static_1.2026.0_x86_64.deb
 Size: 455112
 MD5Sum: 579cbfd92d1381b68d1fab1e581035ae
 SHA1: d6d061b78d395e64b319f6b456653f40e8b6afa2
@@ -29252,7 +29238,7 @@ Depends: freetype, harfbuzz, harfbuzz-icu, libandroid-complex-math, libc++, libc
 Recommends: texlive-installer
 Replaces: texlive (<< 20170524-3), texlive-bin-dev
 Description: TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
-Filename: ../../../../releases/download/x86_64-t/texlive-bin_1:2026.0_x86_64.deb
+Filename: ../../../../releases/download/x86_64-t/texlive-bin_1.2026.0_x86_64.deb
 Size: 11227596
 MD5Sum: 59d494d1bf038ffdeff094e2877b1fd7
 SHA1: 7ac053e065bf7fce6628816ec2cd72df684502d4
@@ -29371,7 +29357,7 @@ Maintainer: @termux
 Version: 2.15.0-2
 Homepage: https://timidity.sourceforge.net/
 Description: MIDI-to-WAVE converter and player
-Filename: ../../../../releases/download/x86_64-t/timidity++_2.15.0-2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-t/timidity.._2.15.0-2_x86_64.deb
 Size: 368756
 MD5Sum: 53e5e0057b4a5cba1d4213d8ef724efc
 SHA1: 70e193782ce024292a608daa0d3a0a6d7b89dc54
@@ -29400,7 +29386,7 @@ Version: 2.02.61
 Homepage: https://tintin.mudhalla.net
 Depends: pcre, libgnutls, zlib
 Description: Classic text-based MUD client
-Filename: ../../../../releases/download/x86_64-t/tintin++_2.02.61_x86_64.deb
+Filename: ../../../../releases/download/x86_64-t/tintin.._2.02.61_x86_64.deb
 Size: 1417336
 MD5Sum: c3a14ce6a1c08e9dc541f9375a884441
 SHA1: 64778808cade11126eab2ddba8faf2b54d112b8e
@@ -30600,7 +30586,7 @@ Maintainer: @termux
 Version: 1:4.1.1
 Homepage: https://github.com/nemtrif/utfcpp
 Description: UTF8-CPP: UTF-8 with C++ in a Portable Way
-Filename: ../../../../releases/download/x86_64-u/utf8cpp_1:4.1.1_all.deb
+Filename: ../../../../releases/download/x86_64-u/utf8cpp_1.4.1.1_all.deb
 Size: 10516
 MD5Sum: 9c9ae926bb8aac4481d3162557793527
 SHA1: 98c1db9ae568158d289df5e27ecfc4f5b1184a17
@@ -31733,7 +31719,7 @@ Version: 1:0.164.3191-1
 Homepage: https://www.videolan.org/developers/x264.html
 Depends: libx264 (= 1:0.164.3191-1)
 Description: Commandline video encoder for the H.264/MPEG-4 AVC format
-Filename: ../../../../releases/download/x86_64-x/x264_1:0.164.3191-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-x/x264_1.0.164.3191-1_x86_64.deb
 Size: 405776
 MD5Sum: ae7f1fc16ca718c7432e5e5dfc4e63ed
 SHA1: c9dd481dd83d4fb47096b97a5759dea985405321
@@ -32579,7 +32565,7 @@ Version: 1:1.90.0-2
 Homepage: https://boost.org
 Depends: boost (= 1:1.90.0-2)
 Description: Boost header files
-Filename: ../../../../releases/download/x86_64-b/boost-headers_1:1.90.0-2_all.deb
+Filename: ../../../../releases/download/x86_64-b/boost-headers_1.1.90.0-2_all.deb
 Size: 10741128
 MD5Sum: 00da1edf9a2717775ffac7702c19a75d
 SHA1: 2cb13f38cd20017cbb17adde5370830aa5fc2255
@@ -32594,7 +32580,7 @@ Version: 1:1.90.0-2
 Homepage: https://boost.org
 Depends: boost (= 1:1.90.0-2)
 Description: Static libraries for boost
-Filename: ../../../../releases/download/x86_64-b/boost-static_1:1.90.0-2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-b/boost-static_1.1.90.0-2_x86_64.deb
 Size: 3032616
 MD5Sum: ac01de948249f920b3d9a108acf72eaa
 SHA1: e86e8a5d4b758cdc486b4ef3b2e5b8bd33e9f8e7
@@ -32611,7 +32597,7 @@ Breaks: libboost-python (<= 1.65.1-2), boost-dev
 Depends: libc++, libbz2, libiconv, liblzma, zlib, libandroid-wordexp
 Replaces: libboost-python (<= 1.65.1-2), boost-dev
 Description: Free peer-reviewed portable C++ source libraries
-Filename: ../../../../releases/download/x86_64-b/boost_1:1.90.0-2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-b/boost_1.1.90.0-2_x86_64.deb
 Size: 1597576
 MD5Sum: 1758e21ee6637dc0dcaf45832f8145e7
 SHA1: 8262febf5371f10debc8409a005da2acf3bea302
@@ -32656,7 +32642,7 @@ Version: 2:0.9.3
 Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 Depends: libcap-ng (= 2:0.9.3)
 Description: Static libraries for libcap-ng
-Filename: ../../../../releases/download/x86_64-libc/libcap-ng-static_2:0.9.3_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libc/libcap-ng-static_2.0.9.3_x86_64.deb
 Size: 9388
 MD5Sum: 6294437e4fd1353213f477c9a6ede846
 SHA1: 0f1e1d96e832d144375d89921e58cb2b5e7986f1
@@ -32670,7 +32656,7 @@ Maintainer: @termux
 Version: 2:0.9.3
 Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 Description: Library making programming with POSIX capabilities easier than traditional libcap
-Filename: ../../../../releases/download/x86_64-libc/libcap-ng_2:0.9.3_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libc/libcap-ng_2.0.9.3_x86_64.deb
 Size: 38924
 MD5Sum: 85053820a89aa77284d95bbd018f8e01
 SHA1: 69548eeb324989922c9b6836c49d44e2758b1d17
@@ -32685,7 +32671,7 @@ Version: 1:2.5.0-1
 Homepage: https://github.com/termux/termux-exec-package
 Depends: termux-exec (= 1:2.5.0-1)
 Description: Static libraries for termux-exec
-Filename: ../../../../releases/download/x86_64-t/termux-exec-static_1:2.5.0-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-t/termux-exec-static_1.2.5.0-1_x86_64.deb
 Size: 10528
 MD5Sum: d6226d2f8ad240f1f6a01d3ea1c62ccc
 SHA1: dfe40b629c7d2b65f6cb318183611e259da50ab7
@@ -32700,7 +32686,7 @@ Version: 1:2.5.0-1
 Homepage: https://github.com/termux/termux-exec-package
 Essential: yes
 Description: Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment
-Filename: ../../../../releases/download/x86_64-t/termux-exec_1:2.5.0-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-t/termux-exec_1.2.5.0-1_x86_64.deb
 Size: 329824
 MD5Sum: fbcd2a2a65b708b573ab56e6703c98fb
 SHA1: f7740487cb26b30ad1f122da20db536ae663c54a
@@ -32760,7 +32746,7 @@ Version: 2:3.9.1
 Homepage: https://github.com/opencollab/arpack-ng
 Depends: libopenblas
 Description: Collection of Fortran77 subroutines designed to solve large scale eigenvalue problems.
-Filename: ../../../../releases/download/x86_64-a/arpack-ng_2:3.9.1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-a/arpack-ng_2.3.9.1_x86_64.deb
 Size: 268176
 MD5Sum: 3a27d2c78dccea7e865239954ef134d8
 SHA1: 427dd1b00942a576a1c2646814b0b4c52f9762f8
@@ -32775,7 +32761,7 @@ Version: 1:2026.05.14
 Homepage: https://curl.se/docs/caextract.html
 Depends: ca-certificates (= 1:2026.05.14)
 Description: Common CA certificates (java keystore format)
-Filename: ../../../../releases/download/x86_64-c/ca-certificates-java_1:2026.05.14_all.deb
+Filename: ../../../../releases/download/x86_64-c/ca-certificates-java_1.2026.05.14_all.deb
 Size: 96488
 MD5Sum: 91f1b3eecfce4e346e980878a7e865c4
 SHA1: 8939487b8516cbbe79ba158e431ab56a9b45b002
@@ -32789,7 +32775,7 @@ Maintainer: @termux
 Version: 1:2026.05.14
 Homepage: https://curl.se/docs/caextract.html
 Description: Common CA certificates
-Filename: ../../../../releases/download/x86_64-c/ca-certificates_1:2026.05.14_all.deb
+Filename: ../../../../releases/download/x86_64-c/ca-certificates_1.2026.05.14_all.deb
 Size: 105736
 MD5Sum: d58491ffa01dcb00c1812689c62290e1
 SHA1: 434568e9960062580cfb2ea916a5a414e75b2e55
@@ -32819,7 +32805,7 @@ Version: 1:3.6.3
 Homepage: https://www.openssl.org/
 Depends: openssl (= 1:3.6.3)
 Description: Static libraries for openssl
-Filename: ../../../../releases/download/x86_64-o/openssl-static_1:3.6.3_x86_64.deb
+Filename: ../../../../releases/download/x86_64-o/openssl-static_1.3.6.3_x86_64.deb
 Size: 2214452
 MD5Sum: 54212ee85fc51d5b97f27b72b7cc1aa6
 SHA1: bc96a82aface4ec8fdf9a7d8a2e665fe68d68046
@@ -32834,7 +32820,7 @@ Version: 1:3.6.3
 Homepage: https://www.openssl.org/
 Depends: openssl (= 1:3.6.3)
 Description: The openssl command line cryptographic tool
-Filename: ../../../../releases/download/x86_64-o/openssl-tool_1:3.6.3_x86_64.deb
+Filename: ../../../../releases/download/x86_64-o/openssl-tool_1.3.6.3_x86_64.deb
 Size: 306384
 MD5Sum: 5c817a90d5e90f6555d3f397f5b97176
 SHA1: 32817c9bb8655437e0d4f395a3574f43039cfddd
@@ -32852,10 +32838,24 @@ Depends: ca-certificates, zlib
 Conflicts: libcurl (<< 7.61.0-1)
 Replaces: openssl-tool (<< 1.1.1b-1), openssl-dev
 Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
-Filename: ../../../../releases/download/x86_64-o/openssl_1:3.6.3_x86_64.deb
+Filename: ../../../../releases/download/x86_64-o/openssl_1.3.6.3_x86_64.deb
 Size: 2156764
 MD5Sum: 04ff8ce054d9bec882c20c23f4596259
 SHA1: c3d2f3892af35b9bd7d16d971a7606e6729a160d
 SHA256: d27b6b9f1910fdf660dcfe17b03a8fa18425f69a93f1757554b7d165e24c360c
 SHA512: 117816fac5c3e2e4144abe1b8b8c81e5a0f9ebb6628a088456ac3f09a28d4496daae6118d6ea091dbf7b583ff7e368b383d6e9136e9a3c6b707099873c7cbcad
+
+Package: 0verkill
+Architecture: x86_64
+Installed-Size: 3160
+Maintainer: @termux
+Version: 1:0.16-1
+Homepage: https://github.com/hackndev/0verkill
+Description: Bloody 2D action deathmatch-like game in ASCII-ART
+Filename: ../../../../releases/download/x86_64-0/0verkill_1.0.16-1_x86_64.deb
+Size: 173336
+MD5Sum: d3fedf5651aa23104610bf6dc9364017
+SHA1: 2c7f558d4ff8ede339837e8e415c3bc9ebced38c
+SHA256: 76381f1d6290ca2e1d886aeae09523eeccee1a671b2a336da14c0aef9374684f
+SHA512: a0b7813be279ee522beb6d19874abd6e4ff8a7596eb7eac242874fc50b3bb74d3ea25d4b7abc67576c78d095db36d76dc03f647d9ea6f6c8dde4349e0bb39c9e
 

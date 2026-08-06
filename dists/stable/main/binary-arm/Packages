@@ -1,17 +1,3 @@
-Package: 0verkill
-Architecture: arm
-Installed-Size: 3040
-Maintainer: @termux
-Version: 1:0.16-1
-Homepage: https://github.com/hackndev/0verkill
-Description: Bloody 2D action deathmatch-like game in ASCII-ART
-Filename: ../../../../releases/download/arm-0/0verkill_1:0.16-1_arm.deb
-Size: 156676
-MD5Sum: 4eb4f4b1e612c46cb464e8d2b2644d70
-SHA1: 0d84a746efd18dce1ec7c718567ed1b6c1a90355
-SHA256: c613cb10b23b05fa03d9ca548c628065037cc2ebf93847937b65b9716fd19637
-SHA512: 0ad6431ffb9975f60068abf27031a001a1ff686c69795478b2e740b219e3c31c0688363be8e5f070a888a867853a9f20ccf019b72d9e0947692f06ec0d03e8ec
-
 Package: 2048-c
 Architecture: arm
 Installed-Size: 56
@@ -19,7 +5,7 @@ Maintainer: @termux
 Version: 1:1.0.3-1
 Homepage: https://github.com/mevdschee/2048.c
 Description: Console version of the game '2048' for GNU/Linux
-Filename: ../../../../releases/download/arm-2/2048-c_1:1.0.3-1_arm.deb
+Filename: ../../../../releases/download/arm-2/2048-c_1.1.0.3-1_arm.deb
 Size: 5660
 MD5Sum: 583ddf8f78a764cca6efe705afa082a1
 SHA1: 92c386cd0b61549aa157c9e6fdda28678d364c32
@@ -227,7 +213,7 @@ Maintainer: @termux
 Version: 1:1.3.1
 Homepage: https://github.com/FiloSottile/age
 Description: A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability
-Filename: ../../../../releases/download/arm-a/age_1:1.3.1_arm.deb
+Filename: ../../../../releases/download/arm-a/age_1.1.3.1_arm.deb
 Size: 1669732
 MD5Sum: 5136301d5fe1b7f0c3014c1e1dfc3382
 SHA1: 96c171a5f41471e486e36247b0c64de245a6c8d1
@@ -555,7 +541,7 @@ Breaks: apache2-dev
 Depends: apr, apr-util, libandroid-support, libcrypt, libnghttp2, libuuid, openssl, pcre2, zlib
 Replaces: apache2-dev
 Description: Apache Web Server
-Filename: ../../../../releases/download/arm-a/apache2_1:2.4.68_arm.deb
+Filename: ../../../../releases/download/arm-a/apache2_1.2.4.68_arm.deb
 Size: 5210236
 MD5Sum: 1167bd81c67d7932e3b1e1416985bcb6
 SHA1: 2e12403a8fd02909b70b43c798a4c4700f95f824
@@ -919,7 +905,7 @@ Version: 1:2020.12.07
 Homepage: http://aspell.net/
 Depends: aspell
 Description: English dictionary for aspell
-Filename: ../../../../releases/download/arm-a/aspell-en_1:2020.12.07_all.deb
+Filename: ../../../../releases/download/arm-a/aspell-en_1.2020.12.07_all.deb
 Size: 1124408
 MD5Sum: 06126f97741f0351f72fb51066a0fb6a
 SHA1: a649c84e9808c7fa3d2288d4da5880c719c30e65
@@ -934,7 +920,7 @@ Version: 2:0.50-3-1
 Homepage: http://aspell.net/
 Depends: aspell
 Description: French dictionary for aspell
-Filename: ../../../../releases/download/arm-a/aspell-fr_2:0.50-3-1_all.deb
+Filename: ../../../../releases/download/arm-a/aspell-fr_2.0.50-3-1_all.deb
 Size: 4369460
 MD5Sum: 111ecc346445ebe25cda998fda157e75
 SHA1: 326c21294b59455013684744e9958f06c0905210
@@ -1027,7 +1013,7 @@ Version: 1:20240608.083822.1ed9031-1
 Homepage: https://github.com/wez/atomicparsley
 Depends: libc++, zlib
 Description: Read, parse and set metadata of MPEG-4 and 3gp files
-Filename: ../../../../releases/download/arm-a/atomicparsley_1:20240608.083822.1ed9031-1_arm.deb
+Filename: ../../../../releases/download/arm-a/atomicparsley_1.20240608.083822.1ed9031-1_arm.deb
 Size: 107864
 MD5Sum: 516e37013bd8304b0139da48b2b25c9f
 SHA1: 1aa1e84611b5b4e43946952c7f8a96aa1b5d92a3
@@ -1042,7 +1028,7 @@ Version: 1:0.6.6-1
 Homepage: https://github.com/bettio/AtomVM
 Depends: zlib
 Description: The minimal Erlang VM implementation
-Filename: ../../../../releases/download/arm-a/atomvm_1:0.6.6-1_arm.deb
+Filename: ../../../../releases/download/arm-a/atomvm_1.0.6.6-1_arm.deb
 Size: 173412
 MD5Sum: a1c142791409ed5484d5ebc856d20925
 SHA1: 7cb1a4c4ea5b5621c1c00b69e22d75daec45b0c5
@@ -1563,7 +1549,7 @@ Maintainer: @termux
 Version: 1:1.1.0-1
 Homepage: https://justine.lol/blinkenlights/
 Description: Tiny x86-64 Linux emulator
-Filename: ../../../../releases/download/arm-b/blink_1:1.1.0-1_arm.deb
+Filename: ../../../../releases/download/arm-b/blink_1.1.1.0-1_arm.deb
 Size: 260088
 MD5Sum: 6eb5988e33909e80b18a4a97338cbce0
 SHA1: 39208f2f66aa4a63921253ef431d897a7e544a30
@@ -1772,7 +1758,7 @@ Version: 1:3.3-1
 Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 Depends: ncurses
 Description: Classic text mode games from UNIX folklore
-Filename: ../../../../releases/download/arm-b/bsd-games_1:3.3-1_arm.deb
+Filename: ../../../../releases/download/arm-b/bsd-games_1.3.3-1_arm.deb
 Size: 193984
 MD5Sum: 33566b968e4e23451912470350a6f747
 SHA1: f6646fcd38080a80c30e45da4cc988bbefa1f372
@@ -2188,7 +2174,7 @@ Version: 1:3.27.1
 Homepage: https://cfengine.com/
 Depends: cfengine (= 1:3.27.1)
 Description: Static libraries for cfengine
-Filename: ../../../../releases/download/arm-c/cfengine-static_1:3.27.1_arm.deb
+Filename: ../../../../releases/download/arm-c/cfengine-static_1.3.27.1_arm.deb
 Size: 1236560
 MD5Sum: bce554d84ac2614bbc1b36a33ee9fdfb
 SHA1: 65052f310b0956f789d9db860a9dcee8d2ee6c7f
@@ -2203,7 +2189,7 @@ Version: 1:3.27.1
 Homepage: https://cfengine.com/
 Depends: libandroid-glob, liblmdb, librsync, libxml2, libyaml, openssl, pcre2
 Description: CFEngine is a configuration management technology
-Filename: ../../../../releases/download/arm-c/cfengine_1:3.27.1_arm.deb
+Filename: ../../../../releases/download/arm-c/cfengine_1.3.27.1_arm.deb
 Size: 888848
 MD5Sum: cc40712f58e30c8954b724262694dfe6
 SHA1: 39f83a03fb38a9c7ed9bfeaff7dbdc71c6b49c15
@@ -2377,7 +2363,7 @@ Version: 0.0.0+g3c32e7d
 Homepage: https://github.com/yuri-xyz/chroma.git
 Depends: vulkan-icd, alsa-lib
 Description: Shader-based audio visualizer for the terminal
-Filename: ../../../../releases/download/arm-c/chroma-visualizer_0.0.0+g3c32e7d_arm.deb
+Filename: ../../../../releases/download/arm-c/chroma-visualizer_0.0.0.g3c32e7d_arm.deb
 Size: 1890888
 MD5Sum: 56e67a65c04b4855890d9bfbfc6e9cbc
 SHA1: 43c4c2fc77fb9a176e87b85bd30bce8a6ee5e148
@@ -2739,7 +2725,7 @@ Version: 1:1.17.11
 Homepage: https://github.com/coin-or/Clp
 Depends: coinor-clp (= 1:1.17.11)
 Description: Static libraries for coinor-clp
-Filename: ../../../../releases/download/arm-c/coinor-clp-static_1:1.17.11_arm.deb
+Filename: ../../../../releases/download/arm-c/coinor-clp-static_1.1.17.11_arm.deb
 Size: 827420
 MD5Sum: 0f0bbec5cf84e9c0343c974a683d50d3
 SHA1: 3475a9e28cc146f7778499de211f9f315bc5849f
@@ -2754,7 +2740,7 @@ Version: 1:1.17.11
 Homepage: https://github.com/coin-or/Clp
 Depends: libc++, libcoinor-osi, libcoinor-utils
 Description: An open-source linear programming solver
-Filename: ../../../../releases/download/arm-c/coinor-clp_1:1.17.11_arm.deb
+Filename: ../../../../releases/download/arm-c/coinor-clp_1.1.17.11_arm.deb
 Size: 708748
 MD5Sum: 0bc9e0d97dc73d18c1fbc8c1c311cfa5
 SHA1: 6d8b4ce7e1be85ac95634b5acd8bd7c4a7c3517d
@@ -3024,7 +3010,7 @@ Maintainer: @termux
 Version: 1:10.4.13
 Homepage: https://github.com/schollz/croc
 Description: Easily and securely send things from one computer to another
-Filename: ../../../../releases/download/arm-c/croc_1:10.4.13_arm.deb
+Filename: ../../../../releases/download/arm-c/croc_1.10.4.13_arm.deb
 Size: 3160528
 MD5Sum: bf70acab6eafe118dd79a0f9c041cc48
 SHA1: 78a1641bf640c3f65ee27263e990f0e5a4fcd6c6
@@ -3148,7 +3134,7 @@ Version: 2:6.2.1
 Homepage: https://ctags.io/
 Depends: libiconv, libjansson, libxml2, libyaml
 Description: Universal ctags: Source code index builder
-Filename: ../../../../releases/download/arm-c/ctags_2:6.2.1_arm.deb
+Filename: ../../../../releases/download/arm-c/ctags_2.6.2.1_arm.deb
 Size: 608136
 MD5Sum: 096ec2d341c78c99fb73588a78020b93
 SHA1: 3d004771e082eb8fb2a2e83a36e6f62c4971ac95
@@ -3282,7 +3268,7 @@ Version: 1:1.12.13-5
 Homepage: https://www.nongnu.org/cvs/
 Depends: zlib, libandroid-support
 Description: Concurrent Versions System
-Filename: ../../../../releases/download/arm-c/cvs_1:1.12.13-5_arm.deb
+Filename: ../../../../releases/download/arm-c/cvs_1.1.12.13-5_arm.deb
 Size: 483900
 MD5Sum: ebc5730cc9db224154f0258bc1f81a93
 SHA1: 0730ade43286007e838debba0165884ff33363ec
@@ -3697,7 +3683,7 @@ Homepage: https://www.getdnote.com/
 Breaks: dnote-client
 Replaces: dnote-client
 Description: A simple command line notebook for programmers
-Filename: ../../../../releases/download/arm-d/dnote_1:0.16.0_arm.deb
+Filename: ../../../../releases/download/arm-d/dnote_1.0.16.0_arm.deb
 Size: 2854180
 MD5Sum: ec42ae74366cba6ff2c57eb50601a791
 SHA1: 35be24eb05db9ad775d93954b2adc10c8db815f5
@@ -4286,7 +4272,7 @@ Version: 1:4.12-5
 Homepage: https://www.eclipse.org/jdt/core/
 Conflicts: ecj4.6
 Description: Eclipse Compiler for Java
-Filename: ../../../../releases/download/arm-e/ecj_1:4.12-5_all.deb
+Filename: ../../../../releases/download/arm-e/ecj_1.4.12-5_all.deb
 Size: 6775540
 MD5Sum: b074ae18f9b07b06137deb72b57253e6
 SHA1: 7e47aac2cd764a98c1efd25bc201f4c8343dda21
@@ -4600,7 +4586,7 @@ Version: 1.2.2RC+really1.2.2
 Homepage: https://gitlab.com/ecodis/exhale
 Depends: libc++
 Description: Open source xHE-AAC encoder
-Filename: ../../../../releases/download/arm-e/exhale_1.2.2RC+really1.2.2_arm.deb
+Filename: ../../../../releases/download/arm-e/exhale_1.2.2RC.really1.2.2_arm.deb
 Size: 109812
 MD5Sum: ce3bc2a115786ffb50f2471e33481ba2
 SHA1: f50ed7023da5b3ed8aaa7af7999da958e0ea05a9
@@ -4632,7 +4618,7 @@ Breaks: exiv2-dev
 Depends: brotli, libandroid-support, libc++, libexpat, libiconv, libinih, zlib
 Replaces: exiv2-dev
 Description: Exif, Iptc and XMP metadata manipulation library and tools
-Filename: ../../../../releases/download/arm-e/exiv2_2:0.28.8_arm.deb
+Filename: ../../../../releases/download/arm-e/exiv2_2.0.28.8_arm.deb
 Size: 929060
 MD5Sum: b292de16835785186794cddae6bec6aa
 SHA1: b66471fadc2448a4830b2e37fb266ffab273478f
@@ -4678,7 +4664,7 @@ Version: 1.6.5-3
 Homepage: https://bitbucket.org/dtsarkov/factplusplus
 Depends: libc++
 Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
-Filename: ../../../../releases/download/arm-f/fact++_1.6.5-3_arm.deb
+Filename: ../../../../releases/download/arm-f/fact.._1.6.5-3_arm.deb
 Size: 285276
 MD5Sum: 7118f8130acb61962039e5bfcbb74a9b
 SHA1: ded5bdb55bfbcbb85697624b76efac9c59abc303
@@ -5181,7 +5167,7 @@ Version: 1:11.2.0
 Homepage: https://fmt.dev/latest/index.html
 Depends: libc++
 Description: Open-source formatting library for C++
-Filename: ../../../../releases/download/arm-f/fmt_1:11.2.0_arm.deb
+Filename: ../../../../releases/download/arm-f/fmt_1.11.2.0_arm.deb
 Size: 157584
 MD5Sum: 9720636ae26bf8417b74d9d75ae717c5
 SHA1: 42763aedb2ea0c53e8d2933cb5e4b501abdd137f
@@ -6913,7 +6899,7 @@ Maintainer: @termux
 Version: 1:12.3.3
 Homepage: https://grafana.com/
 Description: The open-source platform for monitoring and observability
-Filename: ../../../../releases/download/arm-g/grafana_1:12.3.3_arm.deb
+Filename: ../../../../releases/download/arm-g/grafana_1.12.3.3_arm.deb
 Size: 116932636
 MD5Sum: a71b0f1bd47deb2908f130aaa3bf4b1e
 SHA1: a276f9f64b2f75e82b1fb2314a61d745c69706c6
@@ -7679,7 +7665,7 @@ Version: 1:2.4.0
 Homepage: http://www.mbayer.de/html2text/
 Depends: libc++, libiconv
 Description: Utility that converts HTML documents into plain text
-Filename: ../../../../releases/download/arm-h/html2text_1:2.4.0_arm.deb
+Filename: ../../../../releases/download/arm-h/html2text_1.2.4.0_arm.deb
 Size: 58612
 MD5Sum: 9f5f0defeefe0048dd9d6c23b40bdbd7
 SHA1: 2a4c7d2ede50601070a3a0dd5fca0d661c46f2f5
@@ -8396,7 +8382,7 @@ Version: 1:0.32
 Homepage: https://github.com/agl/jbig2enc
 Depends: jbig2enc (= 1:0.32)
 Description: Static libraries for jbig2enc
-Filename: ../../../../releases/download/arm-j/jbig2enc-static_1:0.32_arm.deb
+Filename: ../../../../releases/download/arm-j/jbig2enc-static_1.0.32_arm.deb
 Size: 62556
 MD5Sum: fcc49564d7a57e128a5767abb6b96eaa
 SHA1: 11366b0de3b87f792a18de98dda54b7758072c30
@@ -8411,7 +8397,7 @@ Version: 1:0.32
 Homepage: https://github.com/agl/jbig2enc
 Depends: giflib, leptonica, libc++, libjpeg-turbo, libpng, libtiff, libwebp, python, zlib
 Description: An encoder for JBIG2
-Filename: ../../../../releases/download/arm-j/jbig2enc_1:0.32_arm.deb
+Filename: ../../../../releases/download/arm-j/jbig2enc_1.0.32_arm.deb
 Size: 41916
 MD5Sum: 0d4b4c745a57c75e4654acc76f16d612
 SHA1: 9e5ff68105fe712275f1ae258cb900dce932d66c
@@ -9575,7 +9561,7 @@ Version: 1:0.8.1-1
 Homepage: http://www.ltrace.org/
 Depends: libc++, libelf, libdw
 Description: Tracks runtime library calls in dynamically linked programs
-Filename: ../../../../releases/download/arm-l/ltrace_1:0.8.1-1_arm.deb
+Filename: ../../../../releases/download/arm-l/ltrace_1.0.8.1-1_arm.deb
 Size: 112284
 MD5Sum: eb4cee96b91b3230463621e9cd5b7937
 SHA1: 322bcc1e2dd7a1ab0368ccb469dbf9dc48d1d6ef
@@ -9605,7 +9591,7 @@ Version: 0.9.2+p20251219-2
 Homepage: https://github.com/lgi-devs/lgi
 Depends: glib, gobject-introspection, libcairo, libffi, lua54
 Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
-Filename: ../../../../releases/download/arm-l/lua-lgi_0.9.2+p20251219-2_arm.deb
+Filename: ../../../../releases/download/arm-l/lua-lgi_0.9.2.p20251219-2_arm.deb
 Size: 70168
 MD5Sum: f3d331c0d67b167d8ea04ea96a6110c1
 SHA1: a49c64e67cbfe1b3d8fcca21466351b9735ff6a2
@@ -9850,7 +9836,7 @@ Version: 1:2.1.1783773675+g3c4f9fe
 Homepage: https://luajit.org/
 Depends: luajit (= 1:2.1.1783773675+g3c4f9fe)
 Description: Static libraries for luajit
-Filename: ../../../../releases/download/arm-l/luajit-static_1:2.1.1783773675+g3c4f9fe_arm.deb
+Filename: ../../../../releases/download/arm-l/luajit-static_1.2.1.1783773675.g3c4f9fe_arm.deb
 Size: 196536
 MD5Sum: 9e1f76a6c98bcc4030f7140e66d5df4a
 SHA1: 11099bdf29a33d6f504bade62738ca5b9cd15d76
@@ -9866,7 +9852,7 @@ Homepage: https://luajit.org/
 Breaks: libluajit-dev, libluajit
 Replaces: libluajit-dev, libluajit
 Description: Just-In-Time Compiler for Lua
-Filename: ../../../../releases/download/arm-l/luajit_1:2.1.1783773675+g3c4f9fe_arm.deb
+Filename: ../../../../releases/download/arm-l/luajit_1.2.1.1783773675.g3c4f9fe_arm.deb
 Size: 246136
 MD5Sum: afa0cf2482e774ea5556a1bdf258730a
 SHA1: 85e63648dd13eea35c74e380960a168b5aa1b247
@@ -9927,7 +9913,7 @@ Homepage: https://luvit.io
 Depends: lua51-lpeg, luajit, luv, openssl, pcre2, zlib
 Suggests: lit, luvit
 Description: A project in-between luv and luvit
-Filename: ../../../../releases/download/arm-l/luvi_1:2.15.0-2_arm.deb
+Filename: ../../../../releases/download/arm-l/luvi_1.2.15.0-2_arm.deb
 Size: 150340
 MD5Sum: 3f4b5ac350afa0d086509fba97de961d
 SHA1: 5918799ecb0fa31fa0ed39ca00116ad5dfb0ed27
@@ -10768,7 +10754,7 @@ Maintainer: @finagolfin
 Version: 1:6.2.1
 Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 Description: LLVM Blocks runtime library
-Filename: ../../../../releases/download/arm-libb/libblocksruntime_1:6.2.1_arm.deb
+Filename: ../../../../releases/download/arm-libb/libblocksruntime_1.6.2.1_arm.deb
 Size: 4284
 MD5Sum: 57971c9216696b5dd70b83fdf037d5da
 SHA1: 895dcdb0ff9b17632c328b29da308986805cf2b7
@@ -10953,7 +10939,7 @@ Version: 29
 Homepage: https://libcxx.llvm.org/
 Essential: yes
 Description: C++ Standard Library
-Filename: ../../../../releases/download/arm-libc/libc++_29_arm.deb
+Filename: ../../../../releases/download/arm-libc/libc.._29_arm.deb
 Size: 318272
 MD5Sum: d78a407f5216c27c2a0f32d16c055ff1
 SHA1: 7a948982a379b32cda98eb533ff9cdf11e5f9eba
@@ -10968,7 +10954,7 @@ Version: 5.34.2
 Homepage: https://github.com/Martchus/cpp-utilities
 Depends: boost, libc++, libiconv
 Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
-Filename: ../../../../releases/download/arm-libc/libc++utilities_5.34.2_arm.deb
+Filename: ../../../../releases/download/arm-libc/libc..utilities_5.34.2_arm.deb
 Size: 145852
 MD5Sum: 696e48a56ad7751e91603af27c7c5c05
 SHA1: f2c537cc8489339c5a434adf2dbc4caf2c8773d1
@@ -11275,7 +11261,7 @@ Version: 1:0.108.12
 Homepage: https://github.com/coin-or/Osi
 Depends: libcoinor-osi (= 1:0.108.12)
 Description: Static libraries for libcoinor-osi
-Filename: ../../../../releases/download/arm-libc/libcoinor-osi-static_1:0.108.12_arm.deb
+Filename: ../../../../releases/download/arm-libc/libcoinor-osi-static_1.0.108.12_arm.deb
 Size: 314220
 MD5Sum: b9e022d288084fdc76ccf980873f479b
 SHA1: d93bab688f93573127f2f539b03281447fa13db2
@@ -11290,7 +11276,7 @@ Version: 1:0.108.12
 Homepage: https://github.com/coin-or/Osi
 Depends: libc++, libcoinor-utils
 Description: An abstract base class to a generic linear programming (LP) solver
-Filename: ../../../../releases/download/arm-libc/libcoinor-osi_1:0.108.12_arm.deb
+Filename: ../../../../releases/download/arm-libc/libcoinor-osi_1.0.108.12_arm.deb
 Size: 235320
 MD5Sum: 1465cfd47fe75feab704286e4c5446a3
 SHA1: 9d233e87e5ae5a9d2dfa885c8f3a9f456e8a97f9
@@ -11305,7 +11291,7 @@ Version: 1:2.11.13
 Homepage: https://github.com/coin-or/CoinUtils
 Depends: libcoinor-utils (= 1:2.11.13)
 Description: Static libraries for libcoinor-utils
-Filename: ../../../../releases/download/arm-libc/libcoinor-utils-static_1:2.11.13_arm.deb
+Filename: ../../../../releases/download/arm-libc/libcoinor-utils-static_1.2.11.13_arm.deb
 Size: 486016
 MD5Sum: 23cc55f108243e3d1f8f568a2007ff3f
 SHA1: 71df8b3e493fdaea58abf527c86a6d125d16b716
@@ -11320,7 +11306,7 @@ Version: 1:2.11.13
 Homepage: https://github.com/coin-or/CoinUtils
 Depends: libc++
 Description: An open-source collection of classes and helper functions for COIN-OR projects
-Filename: ../../../../releases/download/arm-libc/libcoinor-utils_1:2.11.13_arm.deb
+Filename: ../../../../releases/download/arm-libc/libcoinor-utils_1.2.11.13_arm.deb
 Size: 424736
 MD5Sum: 12f68c039be64ea4d09e123a793aa9ea
 SHA1: 1108502d399e7df7ba6ea8d5052ca229572f0bc8
@@ -11718,7 +11704,7 @@ Version: 1:6.2.1
 Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 Depends: libc++, libblocksruntime
 Description: The libdispatch project, for concurrency on multicore hardware
-Filename: ../../../../releases/download/arm-libd/libdispatch_1:6.2.1_arm.deb
+Filename: ../../../../releases/download/arm-libd/libdispatch_1.6.2.1_arm.deb
 Size: 136624
 MD5Sum: e29c87fe856dbc52a6ccc7c8377e6482
 SHA1: 325f865e981a0aec96eb0acdfa68e0ff8a42dced
@@ -12562,7 +12548,7 @@ Version: 1:2.3.3-7
 Homepage: https://libgd.github.io/
 Depends: libgd (= 1:2.3.3-7)
 Description: Static libraries for libgd
-Filename: ../../../../releases/download/arm-libg/libgd-static_1:2.3.3-7_arm.deb
+Filename: ../../../../releases/download/arm-libg/libgd-static_1.2.3.3-7_arm.deb
 Size: 93584
 MD5Sum: b8bf356b30634afd54becbe688831863
 SHA1: 6115979187b51344c338636715c7daebfc05cd9a
@@ -12579,7 +12565,7 @@ Breaks: libgd-dev
 Depends: fontconfig, freetype, libavif, libheif, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, zlib
 Replaces: libgd-dev
 Description: GD is an open source code library for the dynamic creation of images by programmers
-Filename: ../../../../releases/download/arm-libg/libgd_1:2.3.3-7_arm.deb
+Filename: ../../../../releases/download/arm-libg/libgd_1.2.3.3-7_arm.deb
 Size: 118152
 MD5Sum: 50bce9f518621c1f1c1be42bc3128886
 SHA1: aa7e5101ec3b4e132645b57a8e8366b324c170db
@@ -14996,7 +14982,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Static libraries for libnettle
-Filename: ../../../../releases/download/arm-libn/libnettle-static_4.0+really3.10.2_arm.deb
+Filename: ../../../../releases/download/arm-libn/libnettle-static_4.0.really3.10.2_arm.deb
 Size: 622028
 MD5Sum: e40066b3b4d24c53489fd6b49345e752
 SHA1: 734154183d3e4d09e40fd881aee6cea46322b2c7
@@ -15013,7 +14999,7 @@ Breaks: libnettle-dev
 Depends: libgmp
 Replaces: libnettle-dev
 Description: Cryptographic library that is designed to fit easily in more or less any context
-Filename: ../../../../releases/download/arm-libn/libnettle_4.0+really3.10.2_arm.deb
+Filename: ../../../../releases/download/arm-libn/libnettle_4.0.really3.10.2_arm.deb
 Size: 398764
 MD5Sum: b64191253dc91390b01a0ec475444fbe
 SHA1: 0be13b985a618dd89d669a1df4583a55cf602e69
@@ -16100,7 +16086,7 @@ Depends: abseil-cpp, libc++, zlib
 Conflicts: protobuf-static
 Replaces: libprotobuf-dev, protobuf-dev, protobuf-static, libutf8-range
 Description: Protocol buffers C++ library
-Filename: ../../../../releases/download/arm-libp/libprotobuf_2:35.1_arm.deb
+Filename: ../../../../releases/download/arm-libp/libprotobuf_2.35.1_arm.deb
 Size: 1399944
 MD5Sum: afa289e2a9af1ea166bc1a25ce6c6713
 SHA1: 89bc903e4f849ad788828b981f5be82bfa1712fa
@@ -16616,7 +16602,7 @@ Version: 1:3.2.0-9
 Homepage: https://github.com/haiwen/libsearpc
 Depends: libsearpc (= 1:3.2.0-9)
 Description: Static libraries for libsearpc
-Filename: ../../../../releases/download/arm-libs/libsearpc-static_1:3.2.0-9_arm.deb
+Filename: ../../../../releases/download/arm-libs/libsearpc-static_1.3.2.0-9_arm.deb
 Size: 12224
 MD5Sum: 78362ac31432ed767c1cd4aaea4a92c3
 SHA1: f600d2a0ff32e0dfe8f125758cd11744b2f38674
@@ -16633,7 +16619,7 @@ Breaks: libsearpc-dev
 Depends: glib, libjansson, python
 Replaces: libsearpc-dev
 Description: A simple C language RPC framework (mainly for seafile)
-Filename: ../../../../releases/download/arm-libs/libsearpc_1:3.2.0-9_arm.deb
+Filename: ../../../../releases/download/arm-libs/libsearpc_1.3.2.0-9_arm.deb
 Size: 18576
 MD5Sum: 6d7191de94a6be2ecf888a4ed0a66438
 SHA1: 9c2f933f19a818319b65e4aa580c8c7e035b3931
@@ -16679,7 +16665,7 @@ Version: 1:0.7.1
 Homepage: https://github.com/bitcoin-core/secp256k1
 Depends: libsecp256k1 (= 1:0.7.1)
 Description: Static libraries for libsecp256k1
-Filename: ../../../../releases/download/arm-libs/libsecp256k1-static_1:0.7.1_arm.deb
+Filename: ../../../../releases/download/arm-libs/libsecp256k1-static_1.0.7.1_arm.deb
 Size: 1179736
 MD5Sum: 26ea7c046af20da5fbcf53661469d31f
 SHA1: 2c4424e26f3556807296993bbc3cf1abc6ac8d25
@@ -16693,7 +16679,7 @@ Maintainer: @termux
 Version: 1:0.7.1
 Homepage: https://github.com/bitcoin-core/secp256k1
 Description: Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1
-Filename: ../../../../releases/download/arm-libs/libsecp256k1_1:0.7.1_arm.deb
+Filename: ../../../../releases/download/arm-libs/libsecp256k1_1.0.7.1_arm.deb
 Size: 1195456
 MD5Sum: 8061d64413415596d0182735abecd6f5
 SHA1: 9d33c48956aea5a495955de87d5078b938d0fcc1
@@ -16753,7 +16739,7 @@ Version: 2.12.1-1
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/arm-libs/libsigc++-2.0_2.12.1-1_arm.deb
+Filename: ../../../../releases/download/arm-libs/libsigc..-2.0_2.12.1-1_arm.deb
 Size: 62316
 MD5Sum: 35103f15d82ec17096a71d1cb21c8536
 SHA1: 0822df506b490d66d1ebf1e1998d1809e67e719c
@@ -16768,7 +16754,7 @@ Version: 3.6.0-2
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/arm-libs/libsigc++-3.0_3.6.0-2_arm.deb
+Filename: ../../../../releases/download/arm-libs/libsigc..-3.0_3.6.0-2_arm.deb
 Size: 44720
 MD5Sum: b8d813749271238f9460180f56027665
 SHA1: 9b2ae8dd45c183b7bc167dda050dfb2447e25b80
@@ -18585,7 +18571,7 @@ Version: 1:1.16.0
 Homepage: https://www.webmproject.org
 Depends: libvpx (= 1:1.16.0)
 Description: Static libraries for libvpx
-Filename: ../../../../releases/download/arm-libv/libvpx-static_1:1.16.0_arm.deb
+Filename: ../../../../releases/download/arm-libv/libvpx-static_1.1.16.0_arm.deb
 Size: 985548
 MD5Sum: 65b326ed01473a6f98f6556fc4796556
 SHA1: 91b4ddf9d8cd1dfd970ec95a79a5b123fd0fc2f7
@@ -18602,7 +18588,7 @@ Breaks: libvpx-dev
 Depends: libc++
 Replaces: libvpx-dev
 Description: VP8 & VP9 Codec SDK
-Filename: ../../../../releases/download/arm-libv/libvpx_1:1.16.0_arm.deb
+Filename: ../../../../releases/download/arm-libv/libvpx_1.1.16.0_arm.deb
 Size: 908500
 MD5Sum: 53ce37e023da6cfd569d775a2e3323cd
 SHA1: 423f74a7d758538405f4a9fad8343bc5fb9c3333
@@ -18618,7 +18604,7 @@ Homepage: https://www.leonerd.org.uk/code/libvterm/
 Breaks: libvterm-dev
 Replaces: libvterm-dev
 Description: Terminal emulator library
-Filename: ../../../../releases/download/arm-libv/libvterm_1:0.3.3-2_arm.deb
+Filename: ../../../../releases/download/arm-libv/libvterm_1.0.3.3-2_arm.deb
 Size: 29656
 MD5Sum: 3957cf8167ce1a69f8eb7935bf015411
 SHA1: 1778aef6fa077a683941de6674b47bc1616b4b17
@@ -18877,7 +18863,7 @@ Version: 1:0.164.3191-1
 Homepage: https://www.videolan.org/developers/x264.html
 Depends: libx264 (= 1:0.164.3191-1)
 Description: Static libraries for libx264
-Filename: ../../../../releases/download/arm-libx/libx264-static_1:0.164.3191-1_arm.deb
+Filename: ../../../../releases/download/arm-libx/libx264-static_1.0.164.3191-1_arm.deb
 Size: 398016
 MD5Sum: e289f2e350b5407a3489c000578d5e22
 SHA1: 45d779125d6d70c38b188880b576f50595e57e9a
@@ -18893,7 +18879,7 @@ Homepage: https://www.videolan.org/developers/x264.html
 Breaks: libx264-dev
 Replaces: libx264-dev
 Description: Library for encoding video streams into the H.264/MPEG-4 AVC format
-Filename: ../../../../releases/download/arm-libx/libx264_1:0.164.3191-1_arm.deb
+Filename: ../../../../releases/download/arm-libx/libx264_1.0.164.3191-1_arm.deb
 Size: 365420
 MD5Sum: f5bb8a029611ec4c40fbdf5b1927aeb1
 SHA1: ce33c805563c861a72ee39572f3a7883b40535d7
@@ -20404,7 +20390,7 @@ Maintainer: @termux
 Version: 1:1.0.5-1
 Homepage: https://github.com/rofl0r/microsocks
 Description: tiny, portable SOCKS5 server with very moderate resource usage
-Filename: ../../../../releases/download/arm-m/microsocks_1:1.0.5-1_arm.deb
+Filename: ../../../../releases/download/arm-m/microsocks_1.1.0.5-1_arm.deb
 Size: 6400
 MD5Sum: 653bc0bd0d4b0688d7ad1a41b456e626
 SHA1: 5b22f847d8d241ac760a237c9e13e7e0972028d2
@@ -21208,7 +21194,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for ncurses
-Filename: ../../../../releases/download/arm-n/ncurses-static_6.6.20260307+really6.5.20250830_arm.deb
+Filename: ../../../../releases/download/arm-n/ncurses-static_6.6.20260307.really6.5.20250830_arm.deb
 Size: 139704
 MD5Sum: 76cf96577edede65b239e5a275406ecd
 SHA1: 2cfda1c1db5fde7b66c536be7ce6d4a8f736dd10
@@ -21223,7 +21209,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/arm-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_arm.deb
+Filename: ../../../../releases/download/arm-n/ncurses-ui-libs-static_6.6.20260307.really6.5.20250830_arm.deb
 Size: 34460
 MD5Sum: 9266900a9b1a202a24e598d037ef90c5
 SHA1: 83743f76b3365481f580cc82e41e36c0e3ad618c
@@ -21240,7 +21226,7 @@ Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Breaks: ncurses (<< 6.4)
 Replaces: ncurses (<< 6.4)
 Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/arm-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_arm.deb
+Filename: ../../../../releases/download/arm-n/ncurses-ui-libs_6.6.20260307.really6.5.20250830_arm.deb
 Size: 28392
 MD5Sum: 3f8d40c0d6940d8b85471b6d0bff49f0
 SHA1: 9f8e7cb5d5123219c41cbbd2468cb680e9b3b9b6
@@ -21255,7 +21241,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Tools for working with terminals
-Filename: ../../../../releases/download/arm-n/ncurses-utils_6.6.20260307+really6.5.20250830_arm.deb
+Filename: ../../../../releases/download/arm-n/ncurses-utils_6.6.20260307.really6.5.20250830_arm.deb
 Size: 84316
 MD5Sum: a87109a837263a43363e6e965c3e2e56
 SHA1: ff39213cc356c57cdaaf5b7bae3ab37161e58f05
@@ -21271,7 +21257,7 @@ Homepage: https://invisible-island.net/ncurses/
 Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/arm-n/ncurses_6.6.20260307+really6.5.20250830_arm.deb
+Filename: ../../../../releases/download/arm-n/ncurses_6.6.20260307.really6.5.20250830_arm.deb
 Size: 544708
 MD5Sum: 22e209652ae78bd127f6abecb50ac250
 SHA1: ac0097311d14c33e17e2d7fed78f02fe360851a4
@@ -21334,7 +21320,7 @@ Breaks: neovim
 Depends: libandroid-support, libiconv, libmsgpack, libunibilium, libuv, libvterm (>= 1:0.3-0), lua51-lpeg, luajit, luv, tree-sitter, tree-sitter-parsers, utf8proc
 Conflicts: neovim
 Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
-Filename: ../../../../releases/download/arm-n/neovim-nightly_0.13.0~dev-980+g3a7989f4f4-0_arm.deb
+Filename: ../../../../releases/download/arm-n/neovim-nightly_0.13.0.dev-980.g3a7989f4f4-0_arm.deb
 Size: 6012552
 MD5Sum: 42f1e98f624036f5fd21528e58c9b081
 SHA1: 412a1c10aa4005857e78f81edafcfe658082b16a
@@ -21455,7 +21441,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Low level cryptographic tools
-Filename: ../../../../releases/download/arm-n/nettle_4.0+really3.10.2_arm.deb
+Filename: ../../../../releases/download/arm-n/nettle_4.0.really3.10.2_arm.deb
 Size: 16116
 MD5Sum: 6a9fcd7e355b8a0b68bdce9f6476cb0d
 SHA1: 6b13e218612d3ec0eeb461ae973aab9e3811f1ff
@@ -23119,7 +23105,7 @@ Maintainer: @termux
 Version: 1:2.0.1-1
 Homepage: https://www.softsynth.com/pforth/
 Description: Portable Forth in C
-Filename: ../../../../releases/download/arm-p/pforth_1:2.0.1-1_arm.deb
+Filename: ../../../../releases/download/arm-p/pforth_1.2.0.1-1_arm.deb
 Size: 38540
 MD5Sum: 1666b1b3493d65cf616e75a9ac1cd3c2
 SHA1: 430ed776c4fd58f4a9f28b35252eb062b4dbe2ab
@@ -23875,7 +23861,7 @@ Version: 2:35.1
 Homepage: https://github.com/protocolbuffers/protobuf
 Depends: libprotobuf (= 2:35.1)
 Description: Compiler for protocol buffer definition files
-Filename: ../../../../releases/download/arm-p/protobuf_2:35.1_arm.deb
+Filename: ../../../../releases/download/arm-p/protobuf_2.35.1_arm.deb
 Size: 1207548
 MD5Sum: 1a476e095988178f9778a2151db2dec2
 SHA1: 30855e4224c45b2dd93ec5aa5673d6eaf6da6df2
@@ -24557,7 +24543,7 @@ Depends: glib, libbz2, libcap-ng, libcurl, libgmp, libgnutls, libnettle, libnfs,
 Breaks: qemu-system-x86-64 (<< 1:8.0.0), qemu-system-x86-64-headless (<< 1:8.0.0)
 Replaces: qemu-system-x86-64 (<< 1:8.0.0), qemu-system-x86-64-headless (<< 1:8.0.0)
 Description: A set common files used by the QEMU emulators
-Filename: ../../../../releases/download/arm-q/qemu-common_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-common_1.10.2.1_arm.deb
 Size: 20987372
 MD5Sum: c7ddf0307113c47ec9cf28510dacc23f
 SHA1: 95e01a1ab6b33049887b047b1dda1899155d4565
@@ -24572,7 +24558,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/arm-q/qemu-system-aarch64-headless_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-aarch64-headless_1.10.2.1_arm.deb
 Size: 1020
 MD5Sum: 98b2bee4ce001d1e76f345630e01d26b
 SHA1: 7e5f4396b7f425cdb199a846e925faebe431dac6
@@ -24587,7 +24573,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/arm-q/qemu-system-arm-headless_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-arm-headless_1.10.2.1_arm.deb
 Size: 2811468
 MD5Sum: 8029f4bd0ed983da63201fe544950fd2
 SHA1: df2260924ef95dfbfac34c42c7c22f5f91741a67
@@ -24602,7 +24588,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/arm-q/qemu-system-i386-headless_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-i386-headless_1.10.2.1_arm.deb
 Size: 2341028
 MD5Sum: cdcb4725ecf86199bcd7ae9f176b4ebf
 SHA1: 4b8364f6ecd31921ba8751d69abe5d9662b863cd
@@ -24617,7 +24603,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/arm-q/qemu-system-m68k-headless_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-m68k-headless_1.10.2.1_arm.deb
 Size: 1605832
 MD5Sum: 39fa6230308d7a89d35e0b5e36366dfa
 SHA1: 4e4246f2aac3ae17283337388031ee4290538a27
@@ -24632,7 +24618,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/arm-q/qemu-system-ppc-headless_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-ppc-headless_1.10.2.1_arm.deb
 Size: 2283384
 MD5Sum: adce7bd5241de51154b1ff3a6984a172
 SHA1: 0bd19551b844c9803db6eec4dcd6c1ffb30fa6c3
@@ -24647,7 +24633,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/arm-q/qemu-system-ppc64-headless_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-ppc64-headless_1.10.2.1_arm.deb
 Size: 1020
 MD5Sum: 4324f27fe0b3622a2ee03e7ef2d9abc5
 SHA1: b6f54116ad01439ea70c48c757729362d3aee1fc
@@ -24662,7 +24648,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/arm-q/qemu-system-riscv32-headless_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-riscv32-headless_1.10.2.1_arm.deb
 Size: 2233708
 MD5Sum: 38e5880d6b95aabe70d50a0faa3b5c86
 SHA1: 9dc7c8715ef10d655fecd87c7b56be3cd7d0e465
@@ -24677,7 +24663,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, glib, jack2, libbz2, libcurl, libdw, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, ncurses, pulseaudio, qemu-common, resolv-conf, zlib, zstd
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/arm-q/qemu-system-riscv64-headless_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-riscv64-headless_1.10.2.1_arm.deb
 Size: 1020
 MD5Sum: f150d6082e00c241ca82525dc52e3786
 SHA1: dfd53b3dce50087d67eeeaf54027f6638454c475
@@ -24695,7 +24681,7 @@ Conflicts: qemu-system-x86_64-headless
 Replaces: qemu-system-x86_64-headless
 Provides: qemu-system-x86_64-headless
 Description: A generic and open source machine emulator and virtualizer (headless)
-Filename: ../../../../releases/download/arm-q/qemu-system-x86-64-headless_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-system-x86-64-headless_1.10.2.1_arm.deb
 Size: 1052
 MD5Sum: c68e5c7d15958994d8352baebd05be78
 SHA1: 67d92a2b23b12ed261292df892ebeabad6027635
@@ -24710,7 +24696,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/arm-q/qemu-user-aarch64_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-user-aarch64_1.10.2.1_arm.deb
 Size: 816
 MD5Sum: be00fcbdb7982811ba48f7d4bea4aa48
 SHA1: fbc1859555ecbede359802fa7c9b63d993d42c09
@@ -24725,7 +24711,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/arm-q/qemu-user-arm_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-user-arm_1.10.2.1_arm.deb
 Size: 585904
 MD5Sum: c4bb282185a1384d3061f91b5df0fb3c
 SHA1: 1d95722935cb9c9f406515f5e1f648546107b026
@@ -24740,7 +24726,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/arm-q/qemu-user-i386_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-user-i386_1.10.2.1_arm.deb
 Size: 495888
 MD5Sum: 7f6b7f99707b0ffa6bbf83d068af9579
 SHA1: c10d9ac3446d47c725e580a5b6662fc781d56a50
@@ -24755,7 +24741,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/arm-q/qemu-user-m68k_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-user-m68k_1.10.2.1_arm.deb
 Size: 446032
 MD5Sum: 26c46ca40198d67546124f9ecc136043
 SHA1: 36fb52f1a48008bb4d84a6bd862186aac8e78b01
@@ -24770,7 +24756,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/arm-q/qemu-user-ppc64_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-user-ppc64_1.10.2.1_arm.deb
 Size: 812
 MD5Sum: 2a9c8eb889808d41abc8e1840736ad1d
 SHA1: 9509bc006fb92f7d2d81a0ecb9c31ae50cd74022
@@ -24785,7 +24771,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/arm-q/qemu-user-ppc_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-user-ppc_1.10.2.1_arm.deb
 Size: 536016
 MD5Sum: 1ca7a6186219705f6447048f2ad13c10
 SHA1: bbfe016fcb24aa278caf09ad14f636f60ba3e7a3
@@ -24800,7 +24786,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/arm-q/qemu-user-riscv32_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-user-riscv32_1.10.2.1_arm.deb
 Size: 514028
 MD5Sum: 398b671f4c7b69dd94d9962aa3c4283e
 SHA1: dbfe5e0cb86055b16e6a2f5f1d3c3c212d902a91
@@ -24815,7 +24801,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/arm-q/qemu-user-riscv64_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-user-riscv64_1.10.2.1_arm.deb
 Size: 812
 MD5Sum: 1b2a52bd12e73dceffb90b6e75fc4b81
 SHA1: a3cd60b2d4cc8d5aa15681b4aba776da91cafc1d
@@ -24832,7 +24818,7 @@ Depends: glib, libandroid-shmem, libdw, libgnutls, libpixman
 Breaks: qemu-user-x86_64
 Replaces: qemu-user-x86_64
 Description: QEMU Linux user mode emulator
-Filename: ../../../../releases/download/arm-q/qemu-user-x86-64_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-user-x86-64_1.10.2.1_arm.deb
 Size: 832
 MD5Sum: 9a0ef365454094c4e04b89316ca30469
 SHA1: ef3216f53d8bd0de5efa12d506770fe38f13f4ed
@@ -24847,7 +24833,7 @@ Version: 1:10.2.1
 Homepage: https://www.qemu.org
 Depends: glib, libbz2, libcurl, libgmp, libgnutls, libnettle, libnfs, libpixman, libssh, zlib, zstd
 Description: A set of utilities for working with the QEMU emulators
-Filename: ../../../../releases/download/arm-q/qemu-utils_1:10.2.1_arm.deb
+Filename: ../../../../releases/download/arm-q/qemu-utils_1.10.2.1_arm.deb
 Size: 863564
 MD5Sum: 0c484e5cce4c0e1f200b178e2102377b
 SHA1: 85ec22acde975b59e4d91105622260e95c5e8943
@@ -25208,7 +25194,7 @@ Version: 1:0.1.5-1
 Homepage: https://github.com/eafer/rdrview
 Depends: libcurl, libiconv, libseccomp, libxml2
 Description: Command line tool to extract the main content from a webpage
-Filename: ../../../../releases/download/arm-r/rdrview_1:0.1.5-1_arm.deb
+Filename: ../../../../releases/download/arm-r/rdrview_1.0.1.5-1_arm.deb
 Size: 21308
 MD5Sum: 3debd37403c85caefc8dbd5444ae16f0
 SHA1: a25f81568c4816f9f27821740cd333cb5526a28e
@@ -25313,7 +25299,7 @@ Version: 1:06.02.08
 Homepage: https://dianne.skoll.ca/projects/remind/
 Depends: libandroid-glob
 Description: Sophisticated calendar and alarm program
-Filename: ../../../../releases/download/arm-r/remind_1:06.02.08_arm.deb
+Filename: ../../../../releases/download/arm-r/remind_1.06.02.08_arm.deb
 Size: 293404
 MD5Sum: 99806ef0e043f716d4f6b60d161b9b1c
 SHA1: 4ea05759a2da25c70634502dd9ddcc94985cc8a7
@@ -25446,7 +25432,7 @@ Maintainer: @termux
 Version: 1:0.73-2
 Homepage: https://github.com/samhocevar/rinetd
 Description: A user-mode TCP port redirection server
-Filename: ../../../../releases/download/arm-r/rinetd_1:0.73-2_arm.deb
+Filename: ../../../../releases/download/arm-r/rinetd_1.0.73-2_arm.deb
 Size: 13584
 MD5Sum: 91292acb4e7bcf59446dd4afc1bbe137
 SHA1: c3450dc0091434d0453cf431dbec4e2495ffac42
@@ -25478,7 +25464,7 @@ Homepage: https://github.com/phiresky/ripgrep-all
 Depends: fzf, ripgrep, xz-utils
 Recommends: ffmpeg, graphicsmagick, pandoc, poppler, tesseract
 Description: Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc
-Filename: ../../../../releases/download/arm-r/ripgrep-all_1:0.10.10_arm.deb
+Filename: ../../../../releases/download/arm-r/ripgrep-all_1.0.10.10_arm.deb
 Size: 2284856
 MD5Sum: 443d3fc18170f649fac232b37fafed5b
 SHA1: c8bbd93853e2413b84ffbf3e467bf8de8661983b
@@ -26409,7 +26395,7 @@ Maintainer: @termux
 Version: 1:3.12.5-1
 Homepage: http://simh.trailing-edge.com/
 Description: A collection of simulators for computer hardware and software from the past
-Filename: ../../../../releases/download/arm-s/simh_1:3.12.5-1_arm.deb
+Filename: ../../../../releases/download/arm-s/simh_1.3.12.5-1_arm.deb
 Size: 896516
 MD5Sum: 94ea7ad45bf50fa60182226fac12fb91
 SHA1: 1db4e4f705a49401c770962b978cb050867e2083
@@ -27050,7 +27036,7 @@ Maintainer: @termux
 Version: 0.0.0+g31c1ad37
 Homepage: https://github.com/nothings/stb
 Description: Single-file public domain (or MIT licensed) libraries for C/C++
-Filename: ../../../../releases/download/arm-s/stb_0.0.0+g31c1ad37_arm.deb
+Filename: ../../../../releases/download/arm-s/stb_0.0.0.g31c1ad37_arm.deb
 Size: 347652
 MD5Sum: ce258ad15902c991d275b5ae0fd15fcf
 SHA1: 3721af7f31abf0c6c7c08f81612afa143a9f5063
@@ -27992,7 +27978,7 @@ Conflicts: procps (<< 3.3.15-2)
 Recommends: ed, dos2unix, inetutils, net-tools, patch, unzip
 Suggests: termux-api
 Description: Basic system tools for Termux
-Filename: ../../../../releases/download/arm-t/termux-tools_1.46.0+really1.45.0-1_arm.deb
+Filename: ../../../../releases/download/arm-t/termux-tools_1.46.0.really1.45.0-1_arm.deb
 Size: 33376
 MD5Sum: ffa7005a34681dccb719bbd0c631e679
 SHA1: 6ef4b51db7dcaae3a7f9b2b6c9984348cbc1426c
@@ -28069,7 +28055,7 @@ Version: 1:2026.0
 Homepage: https://www.tug.org/texlive/
 Depends: texlive-bin (= 1:2026.0)
 Description: Static libraries for texlive-bin
-Filename: ../../../../releases/download/arm-t/texlive-bin-static_1:2026.0_arm.deb
+Filename: ../../../../releases/download/arm-t/texlive-bin-static_1.2026.0_arm.deb
 Size: 398788
 MD5Sum: 5413cc4789a31f8ec8ee296c4d85c208
 SHA1: e9b6edd9d619784635c0f8fd36233a0f80eba918
@@ -28087,7 +28073,7 @@ Depends: freetype, harfbuzz, harfbuzz-icu, libandroid-complex-math, libc++, libc
 Recommends: texlive-installer
 Replaces: texlive (<< 20170524-3), texlive-bin-dev
 Description: TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
-Filename: ../../../../releases/download/arm-t/texlive-bin_1:2026.0_arm.deb
+Filename: ../../../../releases/download/arm-t/texlive-bin_1.2026.0_arm.deb
 Size: 10011680
 MD5Sum: 630e2bc792b738caf77a756c04e16371
 SHA1: ba395fbd381839a1cd8af7feef1381b3886e9374
@@ -28206,7 +28192,7 @@ Maintainer: @termux
 Version: 2.15.0-2
 Homepage: https://timidity.sourceforge.net/
 Description: MIDI-to-WAVE converter and player
-Filename: ../../../../releases/download/arm-t/timidity++_2.15.0-2_arm.deb
+Filename: ../../../../releases/download/arm-t/timidity.._2.15.0-2_arm.deb
 Size: 322924
 MD5Sum: 78cd57e3f0ad9d872c75659b1658d789
 SHA1: 048b391e87637bacca3c0bc8ed84aea5dd1a0420
@@ -28235,7 +28221,7 @@ Version: 2.02.61
 Homepage: https://tintin.mudhalla.net
 Depends: pcre, libgnutls, zlib
 Description: Classic text-based MUD client
-Filename: ../../../../releases/download/arm-t/tintin++_2.02.61_arm.deb
+Filename: ../../../../releases/download/arm-t/tintin.._2.02.61_arm.deb
 Size: 1365776
 MD5Sum: 194b26a2b6e720f67edfd1785f674e56
 SHA1: 2acd5de24ff8aceb2dc9bbecf1c1fbd4cd4dc248
@@ -29420,7 +29406,7 @@ Maintainer: @termux
 Version: 1:4.1.1
 Homepage: https://github.com/nemtrif/utfcpp
 Description: UTF8-CPP: UTF-8 with C++ in a Portable Way
-Filename: ../../../../releases/download/arm-u/utf8cpp_1:4.1.1_all.deb
+Filename: ../../../../releases/download/arm-u/utf8cpp_1.4.1.1_all.deb
 Size: 10516
 MD5Sum: 9c9ae926bb8aac4481d3162557793527
 SHA1: 98c1db9ae568158d289df5e27ecfc4f5b1184a17
@@ -30447,7 +30433,7 @@ Version: 1:0.164.3191-1
 Homepage: https://www.videolan.org/developers/x264.html
 Depends: libx264 (= 1:0.164.3191-1)
 Description: Commandline video encoder for the H.264/MPEG-4 AVC format
-Filename: ../../../../releases/download/arm-x/x264_1:0.164.3191-1_arm.deb
+Filename: ../../../../releases/download/arm-x/x264_1.0.164.3191-1_arm.deb
 Size: 386204
 MD5Sum: e27ed6d46ccf3cfb48924ca3c01871ab
 SHA1: 23e1cb5052ec3e8131a6d37192702e3c3c83914b
@@ -31293,7 +31279,7 @@ Version: 1:1.90.0-2
 Homepage: https://boost.org
 Depends: boost (= 1:1.90.0-2)
 Description: Boost header files
-Filename: ../../../../releases/download/arm-b/boost-headers_1:1.90.0-2_all.deb
+Filename: ../../../../releases/download/arm-b/boost-headers_1.1.90.0-2_all.deb
 Size: 10741128
 MD5Sum: 00da1edf9a2717775ffac7702c19a75d
 SHA1: 2cb13f38cd20017cbb17adde5370830aa5fc2255
@@ -31308,7 +31294,7 @@ Version: 1:1.90.0-2
 Homepage: https://boost.org
 Depends: boost (= 1:1.90.0-2)
 Description: Static libraries for boost
-Filename: ../../../../releases/download/arm-b/boost-static_1:1.90.0-2_arm.deb
+Filename: ../../../../releases/download/arm-b/boost-static_1.1.90.0-2_arm.deb
 Size: 3293160
 MD5Sum: 31723d6ff28e54d98f1f3cd9ba0674e7
 SHA1: 75f7b90844fb11cd55e8920a172a9c20638564f2
@@ -31325,7 +31311,7 @@ Breaks: libboost-python (<= 1.65.1-2), boost-dev
 Depends: libc++, libbz2, libiconv, liblzma, zlib, libandroid-wordexp
 Replaces: libboost-python (<= 1.65.1-2), boost-dev
 Description: Free peer-reviewed portable C++ source libraries
-Filename: ../../../../releases/download/arm-b/boost_1:1.90.0-2_arm.deb
+Filename: ../../../../releases/download/arm-b/boost_1.1.90.0-2_arm.deb
 Size: 1156204
 MD5Sum: b272f184866096a1b014efda0f1e2611
 SHA1: 11036f284d8c06ad5c44bf71df9a4b5a59264a63
@@ -31370,7 +31356,7 @@ Version: 2:0.9.3
 Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 Depends: libcap-ng (= 2:0.9.3)
 Description: Static libraries for libcap-ng
-Filename: ../../../../releases/download/arm-libc/libcap-ng-static_2:0.9.3_arm.deb
+Filename: ../../../../releases/download/arm-libc/libcap-ng-static_2.0.9.3_arm.deb
 Size: 8732
 MD5Sum: 290e7b10d0f50408eeaccd770c2412e7
 SHA1: 5bb79f8bfc704ff5666cc2f85ec270f07a53646b
@@ -31384,7 +31370,7 @@ Maintainer: @termux
 Version: 2:0.9.3
 Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 Description: Library making programming with POSIX capabilities easier than traditional libcap
-Filename: ../../../../releases/download/arm-libc/libcap-ng_2:0.9.3_arm.deb
+Filename: ../../../../releases/download/arm-libc/libcap-ng_2.0.9.3_arm.deb
 Size: 36028
 MD5Sum: e081a98d71cf9840a8f5622f3e080c2b
 SHA1: 8f5617f579d4173b3af690cdbb27a1a0ec78b5b9
@@ -31399,7 +31385,7 @@ Version: 1:2.5.0-1
 Homepage: https://github.com/termux/termux-exec-package
 Depends: termux-exec (= 1:2.5.0-1)
 Description: Static libraries for termux-exec
-Filename: ../../../../releases/download/arm-t/termux-exec-static_1:2.5.0-1_arm.deb
+Filename: ../../../../releases/download/arm-t/termux-exec-static_1.2.5.0-1_arm.deb
 Size: 10364
 MD5Sum: 7cbc89affa511e600bb09442f94de8d0
 SHA1: cd586a9567f49ad20952b74b5baea20e58040eb9
@@ -31414,7 +31400,7 @@ Version: 1:2.5.0-1
 Homepage: https://github.com/termux/termux-exec-package
 Essential: yes
 Description: Utils and libraries for Termux exec including a LD_PRELOAD shared library for proper functioning of the Termux execution environment
-Filename: ../../../../releases/download/arm-t/termux-exec_1:2.5.0-1_arm.deb
+Filename: ../../../../releases/download/arm-t/termux-exec_1.2.5.0-1_arm.deb
 Size: 362792
 MD5Sum: 033ce22e74651e773e6b0c8c7ca79f09
 SHA1: 9ac33756c27cbc5a0790d262eb0bfd5256f01f45
@@ -31474,7 +31460,7 @@ Version: 1:2026.05.14
 Homepage: https://curl.se/docs/caextract.html
 Depends: ca-certificates (= 1:2026.05.14)
 Description: Common CA certificates (java keystore format)
-Filename: ../../../../releases/download/arm-c/ca-certificates-java_1:2026.05.14_all.deb
+Filename: ../../../../releases/download/arm-c/ca-certificates-java_1.2026.05.14_all.deb
 Size: 96488
 MD5Sum: 91f1b3eecfce4e346e980878a7e865c4
 SHA1: 8939487b8516cbbe79ba158e431ab56a9b45b002
@@ -31488,7 +31474,7 @@ Maintainer: @termux
 Version: 1:2026.05.14
 Homepage: https://curl.se/docs/caextract.html
 Description: Common CA certificates
-Filename: ../../../../releases/download/arm-c/ca-certificates_1:2026.05.14_all.deb
+Filename: ../../../../releases/download/arm-c/ca-certificates_1.2026.05.14_all.deb
 Size: 105736
 MD5Sum: d58491ffa01dcb00c1812689c62290e1
 SHA1: 434568e9960062580cfb2ea916a5a414e75b2e55
@@ -31518,7 +31504,7 @@ Version: 1:3.6.3
 Homepage: https://www.openssl.org/
 Depends: openssl (= 1:3.6.3)
 Description: Static libraries for openssl
-Filename: ../../../../releases/download/arm-o/openssl-static_1:3.6.3_arm.deb
+Filename: ../../../../releases/download/arm-o/openssl-static_1.3.6.3_arm.deb
 Size: 1983676
 MD5Sum: 6a3675693828573ba0f77e1b359742f9
 SHA1: e4d66eb0fd5f6a315aeb5857ba063d7bef653e92
@@ -31533,7 +31519,7 @@ Version: 1:3.6.3
 Homepage: https://www.openssl.org/
 Depends: openssl (= 1:3.6.3)
 Description: The openssl command line cryptographic tool
-Filename: ../../../../releases/download/arm-o/openssl-tool_1:3.6.3_arm.deb
+Filename: ../../../../releases/download/arm-o/openssl-tool_1.3.6.3_arm.deb
 Size: 266252
 MD5Sum: 52d4942a6f7f8c06970cc2857c004e78
 SHA1: 92904d9e81c5080c5292e52d095a97f4e4aa998e
@@ -31551,10 +31537,24 @@ Depends: ca-certificates, zlib
 Conflicts: libcurl (<< 7.61.0-1)
 Replaces: openssl-tool (<< 1.1.1b-1), openssl-dev
 Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
-Filename: ../../../../releases/download/arm-o/openssl_1:3.6.3_arm.deb
+Filename: ../../../../releases/download/arm-o/openssl_1.3.6.3_arm.deb
 Size: 1808420
 MD5Sum: 1f5806dcb19e347dec72ecbd3d22b62a
 SHA1: 58fa31e9aadfc4e052a71238fa83976e6924f0c5
 SHA256: 78575b30cbacf531b52717f76c6dcddfb13d1d75e51718ae87fc26e3d17b486e
 SHA512: f34b04c8ba284b9e16730c325447694e9a89f19958c34fb71a6249d9cb5ae188f56b97924bbd5d3f8f1a1847bda5934c952727bd6a20547e353ca3739c786247
+
+Package: 0verkill
+Architecture: arm
+Installed-Size: 3040
+Maintainer: @termux
+Version: 1:0.16-1
+Homepage: https://github.com/hackndev/0verkill
+Description: Bloody 2D action deathmatch-like game in ASCII-ART
+Filename: ../../../../releases/download/arm-0/0verkill_1.0.16-1_arm.deb
+Size: 156676
+MD5Sum: 4eb4f4b1e612c46cb464e8d2b2644d70
+SHA1: 0d84a746efd18dce1ec7c718567ed1b6c1a90355
+SHA256: c613cb10b23b05fa03d9ca548c628065037cc2ebf93847937b65b9716fd19637
+SHA512: 0ad6431ffb9975f60068abf27031a001a1ff686c69795478b2e740b219e3c31c0688363be8e5f070a888a867853a9f20ccf019b72d9e0947692f06ec0d03e8ec
 

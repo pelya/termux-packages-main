@@ -1,18 +1,3 @@
-Package: 1oom
-Architecture: i686
-Installed-Size: 688
-Maintainer: @termux
-Version: 1.11.8
-Homepage: https://github.com/1oom-fork/1oom
-Depends: libandroid-shmem, libsamplerate, libx11, libxext, readline
-Description: A Master of Orion (1993) game engine recreation
-Filename: ../../../../releases/download/i686-1/1oom_1.11.8_i686.deb
-Size: 230916
-MD5Sum: 694f89b054229b7376a7f2f378dc2378
-SHA1: 40db44e78a46e343315b8883cbcff359778e4a44
-SHA256: f34a2b2a107490d09c9511ff0d5cb740961a83b50f798c25aec3f6725b989db6
-SHA512: f0a50875717769448f047559e3db54c43edd275c64c48cf41fd474162c8a338bb51973a8559d05adcf5e36ef30110b4bcf72ab398c6dab6c1a2fdc96989ed061
-
 Package: 2bwm
 Architecture: i686
 Installed-Size: 112
@@ -313,7 +298,7 @@ Homepage: https://gitlab.com/azelpg/azpainter
 Depends: fontconfig, freetype, libandroid-shmem, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, libx11, libxcursor, libxext, libxi, zlib
 Recommends: hicolor-icon-theme
 Description: Full color painting software for Unix-like systems for illustration drawing
-Filename: ../../../../releases/download/i686-a/azpainter_1:3.0.12-1_i686.deb
+Filename: ../../../../releases/download/i686-a/azpainter_1.3.0.12-1_i686.deb
 Size: 637136
 MD5Sum: c15936b8f4752ccb30f4b016f410e5d5
 SHA1: 15910ca5f9f24fd7040e6b6d0c3fc0493e256581
@@ -2480,7 +2465,7 @@ Homepage: https://gtkwave.github.io/gtkwave/
 Depends: gdk-pixbuf, glib, gtk3, libandroid-shmem, libbz2, libc++, liblzma, pango, zlib
 Recommends: desktop-file-utils
 Description: A wave viewer which reads LXT, LXT2, VZT, GHW and VCD/EVCD files
-Filename: ../../../../releases/download/i686-g/gtkwave_1:3.3.116-2_i686.deb
+Filename: ../../../../releases/download/i686-g/gtkwave_1.3.3.116-2_i686.deb
 Size: 2340272
 MD5Sum: d4e15dd547bbb6dcd853420b77713762
 SHA1: e177b3d061c863cc44efe79c6baa9c7f8053a568
@@ -4737,7 +4722,7 @@ Homepage: https://www.luanti.org
 Breaks: luanti (<< 1:5.10.0-4)
 Replaces: luanti (<< 1:5.10.0-4)
 Description: Common files, including docs, shared between luanti and luanti-server
-Filename: ../../../../releases/download/i686-l/luanti-common_1:5.16.1-1_all.deb
+Filename: ../../../../releases/download/i686-l/luanti-common_1.5.16.1-1_all.deb
 Size: 3227456
 MD5Sum: 79b4259773837aced5b9511ba722f21a
 SHA1: 7fe0204bf68cd1daa2e4dd18881bab75446d895c
@@ -4754,7 +4739,7 @@ Depends: jsoncpp, libandroid-spawn, libc++, libcurl, libgmp, libiconv, luajit, l
 Breaks: luanti (<< 1:5.10.0-4)
 Replaces: luanti (<< 1:5.10.0-4)
 Description: Headless server for the Luanti voxel game engine.
-Filename: ../../../../releases/download/i686-l/luanti-server_1:5.16.1-1_i686.deb
+Filename: ../../../../releases/download/i686-l/luanti-server_1.5.16.1-1_i686.deb
 Size: 1741000
 MD5Sum: 5b15d651db2c74ed034c0dfb042df848
 SHA1: 40610f8cb12b3784d1e68b81dceba499ecebbd4f
@@ -4769,7 +4754,7 @@ Version: 1:5.16.1-1
 Homepage: https://www.luanti.org
 Depends: freetype, jsoncpp, libandroid-spawn, libc++, libcurl, libgmp, libjpeg-turbo, libiconv, luajit, libpng, libsqlite, libvorbis, luanti-common, openal-soft, opengl, sdl3, xdg-utils, zlib, zstd
 Description: An open source voxel game engine.
-Filename: ../../../../releases/download/i686-l/luanti_1:5.16.1-1_i686.deb
+Filename: ../../../../releases/download/i686-l/luanti_1.5.16.1-1_i686.deb
 Size: 2976528
 MD5Sum: 06f4af195910710fcb6f40b497b9bbd8
 SHA1: 9ce6e6ffcf095a4356b5fd185cf95e3a17501aca
@@ -5296,7 +5281,7 @@ Version: 0.3+git20170516-23
 Homepage: https://www.yoctoproject.org/tools-resources/projects/matchbox
 Depends: libfakekey (= 0.3+git20170516-23)
 Description: Static libraries for libfakekey
-Filename: ../../../../releases/download/i686-libf/libfakekey-static_0.3+git20170516-23_i686.deb
+Filename: ../../../../releases/download/i686-libf/libfakekey-static_0.3.git20170516-23_i686.deb
 Size: 15908
 MD5Sum: a0281a2779d9d28b30def2577599352c
 SHA1: 7284573381d9210e81eadf6eabccd37b79e71bd6
@@ -5311,7 +5296,7 @@ Version: 0.3+git20170516-23
 Homepage: https://www.yoctoproject.org/tools-resources/projects/matchbox
 Depends: libx11, libxtst
 Description: X virtual keyboard library.
-Filename: ../../../../releases/download/i686-libf/libfakekey_0.3+git20170516-23_i686.deb
+Filename: ../../../../releases/download/i686-libf/libfakekey_0.3.git20170516-23_i686.deb
 Size: 4708
 MD5Sum: 4b13b3e91c740b2531bac1b8c4208f33
 SHA1: 9588239bf9f29b9a1e631f8054df908a63f035f1
@@ -6077,7 +6062,7 @@ Version: 2:0.84.0-1
 Homepage: https://gitlab.gnome.org/GNOME/vte/
 Depends: atk, fribidi, gdk-pixbuf, glib, gtk3, gtk4, libc++, libcairo, libgnutls, libicu, liblz4, libsimdutf, pango, pcre2, zlib
 Description: Virtual Terminal library
-Filename: ../../../../releases/download/i686-libv/libvte_2:0.84.0-1_i686.deb
+Filename: ../../../../releases/download/i686-libv/libvte_2.0.84.0-1_i686.deb
 Size: 552228
 MD5Sum: a2700222c5c1f28154eb59bc56cfdb45
 SHA1: 20e28976b1c6603dfa86cb313f2bc638f9c5348d
@@ -6392,7 +6377,7 @@ Version: 2.42.2-3
 Homepage: https://libxmlplusplus.github.io/libxmlplusplus/
 Depends: libc++, libglibmm-2.4, libxml2
 Description: A C++ wrapper for the libxml2 XML parser library
-Filename: ../../../../releases/download/i686-libx/libxml++-2.6_2.42.2-3_i686.deb
+Filename: ../../../../releases/download/i686-libx/libxml..-2.6_2.42.2-3_i686.deb
 Size: 87072
 MD5Sum: 74c4e95a1d7ce4f53f310becebf6e586
 SHA1: 8e8c2d729c2bffcc816cf520d4e80904f13d53fd
@@ -6407,7 +6392,7 @@ Version: 5.6.1
 Homepage: https://libxmlplusplus.github.io/libxmlplusplus/
 Depends: libxml2, libiconv
 Description: A C++ wrapper for the libxml2 XML parser library (version 5.0)
-Filename: ../../../../releases/download/i686-libx/libxml++-5.0_5.6.1_i686.deb
+Filename: ../../../../releases/download/i686-libx/libxml..-5.0_5.6.1_i686.deb
 Size: 88964
 MD5Sum: 41b9a45454be40ffb19209321cfb8e18
 SHA1: 4e6657a9839702a11ab8f584cd98865c1bf000ed
@@ -6572,7 +6557,7 @@ Version: 0.2+git20231024-32
 Homepage: https://www.yoctoproject.org/software-item/matchbox/
 Depends: matchbox-keyboard (= 0.2+git20231024-32)
 Description: Static libraries for matchbox-keyboard
-Filename: ../../../../releases/download/i686-m/matchbox-keyboard-static_0.2+git20231024-32_i686.deb
+Filename: ../../../../releases/download/i686-m/matchbox-keyboard-static_0.2.git20231024-32_i686.deb
 Size: 106992
 MD5Sum: c846f027e532b117d0fc338d398594af
 SHA1: 71fb6dadd34f6b3798bae2fe28dddaabee01ef69
@@ -6588,7 +6573,7 @@ Homepage: https://www.yoctoproject.org/software-item/matchbox/
 Depends: libexpat, libfakekey, libpng, libx11, libxft, libxrender
 Recommends: ttf-dejavu
 Description: An on-screen virtual keyboard.
-Filename: ../../../../releases/download/i686-m/matchbox-keyboard_0.2+git20231024-32_i686.deb
+Filename: ../../../../releases/download/i686-m/matchbox-keyboard_0.2.git20231024-32_i686.deb
 Size: 32248
 MD5Sum: 6de6e50c3a1865d8f99c9155cd0203d9
 SHA1: bd903957eab9cc26e420aa4119c40f64a01ee76a
@@ -7114,7 +7099,7 @@ Homepage: https://sourceforge.net/projects/mtpaint/
 Depends: atk, freetype, gdk-pixbuf, glib, gtk3, harfbuzz, libandroid-glob, libcairo, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, libx11, littlecms, openjpeg, pango, zlib
 Recommends: gifsicle
 Description: Simple paint program for creating icons and pixel based artwork
-Filename: ../../../../releases/download/i686-m/mtpaint_1:3.50.12-1_i686.deb
+Filename: ../../../../releases/download/i686-m/mtpaint_1.3.50.12-1_i686.deb
 Size: 322756
 MD5Sum: 0d5329c5481070592767d7737ef90561
 SHA1: b926b9e4fa758b3601a5eaad82bfd6c799334d1a
@@ -7983,7 +7968,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-aarch64-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/i686-q/qemu-system-aarch64_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-aarch64_1.10.2.1_i686.deb
 Size: 1092
 MD5Sum: b0458d78dd8aa70b8c69201756ee59be
 SHA1: c604f0cace031dff00313b878dedaf8a429c9fd7
@@ -7999,7 +7984,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-arm-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/i686-q/qemu-system-arm_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-arm_1.10.2.1_i686.deb
 Size: 3363832
 MD5Sum: f4a857d2e7564a9a596b43f5712206b1
 SHA1: 9d3e55787f226c7bbb44edacb7c6e00ea7cf15d7
@@ -8015,7 +8000,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-i386-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/i686-q/qemu-system-i386_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-i386_1.10.2.1_i686.deb
 Size: 2943364
 MD5Sum: a32c849b96ededa52be96f936f0321ee
 SHA1: b5206a6b77ee11469ca8aae0ffca5efd277e5a5d
@@ -8031,7 +8016,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-m68k-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/i686-q/qemu-system-m68k_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-m68k_1.10.2.1_i686.deb
 Size: 1913668
 MD5Sum: 0edb96c243b53da12265acabe8070860
 SHA1: 5230f0e96fc4f7d3ca6d25531efa79778fff75b6
@@ -8047,7 +8032,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-ppc64-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/i686-q/qemu-system-ppc64_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-ppc64_1.10.2.1_i686.deb
 Size: 1088
 MD5Sum: 1df85c912df9c7ed3620fc082f8d2e3c
 SHA1: fb1af8af6443e0afe71a3152a928d57f2a686f29
@@ -8063,7 +8048,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-ppc-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/i686-q/qemu-system-ppc_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-ppc_1.10.2.1_i686.deb
 Size: 2735828
 MD5Sum: c48333cfdef5498ab6fefe66deb5e9a6
 SHA1: e3b62cf1d5025247037f9607d7b32cc4167020e0
@@ -8079,7 +8064,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-riscv32-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/i686-q/qemu-system-riscv32_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-riscv32_1.10.2.1_i686.deb
 Size: 2671892
 MD5Sum: a5d5a0350fdc64ebf16abf76bbef7af7
 SHA1: c99dffe7eac898148c504f658f39b9248685e6f9
@@ -8095,7 +8080,7 @@ Homepage: https://www.qemu.org
 Depends: alsa-lib, dtc, gdk-pixbuf, glib, jack2, gtk3, libbz2, libcairo, libcurl, libdw, libepoxy, libgmp, libgnutls, libiconv, libjpeg-turbo, liblzo, libnettle, libnfs, libpixman, libpng, libslirp, libspice-server, libssh, libusb, libusbredir, libx11, mesa, ncurses, pulseaudio, qemu-common, resolv-conf, sdl2 | sdl2-compat, sdl2-image, virglrenderer, zlib, zstd
 Conflicts: qemu-system-riscv64-headless
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/i686-q/qemu-system-riscv64_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-riscv64_1.10.2.1_i686.deb
 Size: 1096
 MD5Sum: 99ca41f1ccdedf4b3a4dd3f6e627505e
 SHA1: 7596773eae3b63a37f81a52cc788575acefe363d
@@ -8113,7 +8098,7 @@ Conflicts: qemu-system-x86_64, qemu-system-x86_64-headless, qemu-system-x86-64-h
 Replaces: qemu-system-x86_64, qemu-system-x86_64-headless, qemu-system-x86-64-headless
 Provides: qemu-system-x86_64
 Description: A generic and open source machine emulator and virtualizer
-Filename: ../../../../releases/download/i686-q/qemu-system-x86-64_1:10.2.1_i686.deb
+Filename: ../../../../releases/download/i686-q/qemu-system-x86-64_1.10.2.1_i686.deb
 Size: 272920
 MD5Sum: e7635d1ef81459d9e8cb4874eeaae7ac
 SHA1: aebd765ae6346aa076e06de06a64ece4299c6202
@@ -9725,7 +9710,7 @@ Version: 1:0.24.2-2
 Homepage: https://telepathy.freedesktop.org/
 Depends: telepathy-glib (= 1:0.24.2-2)
 Description: Static libraries for telepathy-glib
-Filename: ../../../../releases/download/i686-t/telepathy-glib-static_1:0.24.2-2_i686.deb
+Filename: ../../../../releases/download/i686-t/telepathy-glib-static_1.0.24.2-2_i686.deb
 Size: 598932
 MD5Sum: 70de14c88b0499d1c20a4b9d6235fa4a
 SHA1: 1e88e3a3b461e0f778983c4628b7384cfe8f5864
@@ -9742,7 +9727,7 @@ Breaks: telepathy-glib-dev
 Depends: dbus-glib, glib
 Replaces: telepathy-glib-dev
 Description: GLib bindings for the Telepathy D-Bus protocol
-Filename: ../../../../releases/download/i686-t/telepathy-glib_1:0.24.2-2_i686.deb
+Filename: ../../../../releases/download/i686-t/telepathy-glib_1.0.24.2-2_i686.deb
 Size: 1500952
 MD5Sum: 5eea5e7825f8e6ae8b2b9135692fe587
 SHA1: 20b85a9ff13675daa87c0601ccaec11680196595
@@ -9980,7 +9965,7 @@ Version: 1:1.30-10-1
 Homepage: https://github.com/dottedmag/x2x
 Depends: libx11, libxext, libxtst
 Description: Allows the keyboard, mouse on one X display to be used to control another X display
-Filename: ../../../../releases/download/i686-x/x2x_1:1.30-10-1_i686.deb
+Filename: ../../../../releases/download/i686-x/x2x_1.1.30-10-1_i686.deb
 Size: 23224
 MD5Sum: 7f3c9c7e2640eed869aea3307079c623
 SHA1: 57f7c10c61b3fc605f0f70013a60aac552df6692
@@ -11473,4 +11458,19 @@ MD5Sum: c86069a9c64740232777830747713b61
 SHA1: 50391d5b8ee5afbd5d298d0498492df2fe4a1a54
 SHA256: 6b922246d45b8b8bdc5cdea7e93682482875c76db2d7354082b1d92a91e1459d
 SHA512: 4bb1c89c7e8eb4d080993cbf0006480e5d14c09c6eb3cdf2c228c0836967b54f7e6188bb6c4c86bb536da662cd4dddc0844683efdd44652d4f147cd4d1c7f829
+
+Package: 1oom
+Architecture: i686
+Installed-Size: 688
+Maintainer: @termux
+Version: 1.11.8
+Homepage: https://github.com/1oom-fork/1oom
+Depends: libandroid-shmem, libsamplerate, libx11, libxext, readline
+Description: A Master of Orion (1993) game engine recreation
+Filename: ../../../../releases/download/i686-1/1oom_1.11.8_i686.deb
+Size: 230916
+MD5Sum: 694f89b054229b7376a7f2f378dc2378
+SHA1: 40db44e78a46e343315b8883cbcff359778e4a44
+SHA256: f34a2b2a107490d09c9511ff0d5cb740961a83b50f798c25aec3f6725b989db6
+SHA512: f0a50875717769448f047559e3db54c43edd275c64c48cf41fd474162c8a338bb51973a8559d05adcf5e36ef30110b4bcf72ab398c6dab6c1a2fdc96989ed061
 
