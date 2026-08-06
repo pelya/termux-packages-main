@@ -58,3 +58,17 @@ SHA1: 08791093f05ddd5468db8c6c167758063b718240
 SHA256: c8f0cccadf48915e2046436b2314abf3ae03f221025ebc0af83335b2d240dddb
 SHA512: 8d763bc3bff0424d3bd9a6c899f4a0c8adad08c56796a6f6ba0869e1a9c104f1ac3ed1f850e2b172eb27904eb028f4292cd844ec4041daca85412dded0a03d7f
 
+Package: macchanger
+Architecture: aarch64
+Installed-Size: 656
+Maintainer: @termux
+Version: 1.7.0-2
+Homepage: https://github.com/alobbs/macchanger
+Description: Utility that makes the maniputation of MAC addresses of network interfaces easier
+Filename: ../../../../releases/download/aarch64-m/macchanger_1.7.0-2_aarch64.deb
+Size: 181528
+MD5Sum: d0de9ee21a729eac9eb970a4fe2aa744
+SHA1: 6593258bb393d040aaa40c3cd0406330936ecdbe
+SHA256: b11f381334c32e860e6f26aeb63a62895b5003fd930ca292d8cdcad7dec70ca2
+SHA512: 1ce24ac2faf740e096c505f1ff2ef6538ea3f647a67e669637a30e32d790ffa092cf68e2f64cda0bc34e9ac7ee4f608d20a0a87970dc923298f38e090f8602e2
+

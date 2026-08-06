@@ -33037,3 +33037,18 @@ SHA1: 3ad5cbec128d2e05f3a980d0c85f3a4b94803662
 SHA256: 0ee3c4f95aa21cdefe81c1e8d0967f4d43c4567e4b92d278a619a9ba880879b6
 SHA512: 80fda8edb933a36230a56b2de055238e8bd5cee130615c13ef1590d26f68bcdd67768a77f7b3c3154f9073194d9c163de9d260532d062a2c42486f4ef8007737
 
+Package: gogs
+Architecture: x86_64
+Installed-Size: 77872
+Maintainer: @termux
+Version: 0.14.3
+Homepage: https://gogs.io
+Depends: dash, git
+Description: A painless self-hosted Git service
+Filename: ../../../../releases/download/x86_64-g/gogs_0.14.3_x86_64.deb
+Size: 22034112
+MD5Sum: a131a7d36cfaff48e748a50f904e5679
+SHA1: b800e4cfc3d6994c7698534a7ee180c22eb3c0fb
+SHA256: 9f6eb11d01ec90b42401dfc7e4a08d50ff710b108bc38a08b340b4ebd665b79d
+SHA512: a44bafd051968e7632d4421ffff5d487a5bfd50873fc70e9689f322c511a7c9a4a50b42030740b50dc3b08ceda1eb37dffac1fb7d8ac8b30a41e8d01001386db
+

@@ -41,3 +41,9 @@ data/data/greater.underscore/files/usr/lib/pkgconfig/squashfuse_ll.pc           
 data/data/greater.underscore/files/usr/share/doc/squashfuse/copyright            squashfuse
 data/data/greater.underscore/files/usr/share/man/man1/squashfuse.1.gz            squashfuse
 data/data/greater.underscore/files/usr/share/man/man1/squashfuse_ll.1.gz         squashfuse
+data/data/greater.underscore/files/usr/bin/macchanger                            macchanger
+data/data/greater.underscore/files/usr/share/doc/macchanger/copyright            macchanger
+data/data/greater.underscore/files/usr/share/info/macchanger.info                macchanger
+data/data/greater.underscore/files/usr/share/macchanger/OUI.list                 macchanger
+data/data/greater.underscore/files/usr/share/macchanger/wireless.list            macchanger
+data/data/greater.underscore/files/usr/share/man/man1/macchanger.1.gz            macchanger
