@@ -32618,35 +32618,6 @@ SHA1: 8262febf5371f10debc8409a005da2acf3bea302
 SHA256: 4ae482d2277514a73358e7e19907640fee5198c5272551ab45f4bfca7e00ab7f
 SHA512: 3778e7dbd259d1710154f2d7e81b95d08cd43dc49374298ae65872a39f2a26a714e863a1df1f72833be677bc3c96d49cc481e2f138f9bc29d9d0e88f973a777a
 
-Package: ca-certificates-java
-Architecture: all
-Installed-Size: 184
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Depends: ca-certificates (= 1:2026.05.14)
-Description: Common CA certificates (java keystore format)
-Filename: ../../../../releases/download/x86_64-c/ca-certificates-java_1:2026.05.14_all.deb
-Size: 96488
-MD5Sum: 0c4a7083779156036f784a812beadeff
-SHA1: 5645b506258ad3215b7af561cb3bf76a254b65c5
-SHA256: e91b42d945770e2097f23699ccccaa8d2901d723015df0f3dcd17ed7fe7cc00d
-SHA512: 2bebc62a6e3550256cdce9a9cd63cb2fbb60e976993818c6fb4ac11f4fd6a31e8a2b6baaf2feeec785428a9e006dbd832fa956fa54a8f59404cdf767ee7588d2
-
-Package: ca-certificates
-Architecture: all
-Installed-Size: 232
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Description: Common CA certificates
-Filename: ../../../../releases/download/x86_64-c/ca-certificates_1:2026.05.14_all.deb
-Size: 105736
-MD5Sum: d58491ffa01dcb00c1812689c62290e1
-SHA1: 434568e9960062580cfb2ea916a5a414e75b2e55
-SHA256: 7cad65dd2d1bbecf590285a35a18cbea07dd14aa1965c9c2e758ad2f36431ecc
-SHA512: 8fb9f9849ce5b0af7e5fd234e3edbfdca9d26c5ce8b6718825eccbd80b3b0a2be1dad0516e5f9d6e4a783a5464370d0667358586d7cf65ed7c1b8ada712e1bf9
-
 Package: capnproto
 Architecture: x86_64
 Installed-Size: 9248
@@ -32705,54 +32676,6 @@ MD5Sum: 85053820a89aa77284d95bbd018f8e01
 SHA1: 69548eeb324989922c9b6836c49d44e2758b1d17
 SHA256: 0f0e1dbf9f8e138b691fd370a2629ed4956189c9500275b5842bfccb3f0b6e46
 SHA512: 681c581f793d5e766764102bc651c05c5aad8fb78d1c9d980e4754f9cc56a341f48249081af1736dfe987c49f814c738a186b9146bb0bad9809a301fd66a82f9
-
-Package: openssl-static
-Architecture: x86_64
-Installed-Size: 12396
-Maintainer: @termux
-Version: 1:3.6.3
-Homepage: https://www.openssl.org/
-Depends: openssl (= 1:3.6.3)
-Description: Static libraries for openssl
-Filename: ../../../../releases/download/x86_64-o/openssl-static_1:3.6.3_x86_64.deb
-Size: 2214452
-MD5Sum: 54212ee85fc51d5b97f27b72b7cc1aa6
-SHA1: bc96a82aface4ec8fdf9a7d8a2e665fe68d68046
-SHA256: 9cfac0c0da70b64fe324a19539b7df10f6cfac8689e02a0cb9c3e932a6154e09
-SHA512: 79cacae5d5751398c69b133c555d90912909955aa847cdf4634fb54fd5dea92ae605e81044cd16c333758e40b5dfda2366b92cd6cb76d1affd172f51bc7f3f81
-
-Package: openssl-tool
-Architecture: x86_64
-Installed-Size: 1016
-Maintainer: @termux
-Version: 1:3.6.3
-Homepage: https://www.openssl.org/
-Depends: openssl (= 1:3.6.3)
-Description: The openssl command line cryptographic tool
-Filename: ../../../../releases/download/x86_64-o/openssl-tool_1:3.6.3_x86_64.deb
-Size: 306384
-MD5Sum: 5c817a90d5e90f6555d3f397f5b97176
-SHA1: 32817c9bb8655437e0d4f395a3574f43039cfddd
-SHA256: 47bb08e5496578ddcae42c05dfb281eb5a2afe2ecacd3f229612e2a0ec9d7748
-SHA512: 60dd9007730b10c3607a33a8f8a0f8d1397ef029577cb058b5534b504b5efce0b8b2782ee0b9632c97b315321144a716d7fc8c362bd612be79b387cede19793f
-
-Package: openssl
-Architecture: x86_64
-Installed-Size: 8852
-Maintainer: @termux
-Version: 1:3.6.3
-Homepage: https://www.openssl.org/
-Breaks: openssl-tool (<< 1.1.1b-1), openssl-dev
-Depends: ca-certificates, zlib
-Conflicts: libcurl (<< 7.61.0-1)
-Replaces: openssl-tool (<< 1.1.1b-1), openssl-dev
-Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
-Filename: ../../../../releases/download/x86_64-o/openssl_1:3.6.3_x86_64.deb
-Size: 2156764
-MD5Sum: 04ff8ce054d9bec882c20c23f4596259
-SHA1: c3d2f3892af35b9bd7d16d971a7606e6729a160d
-SHA256: d27b6b9f1910fdf660dcfe17b03a8fa18425f69a93f1757554b7d165e24c360c
-SHA512: 117816fac5c3e2e4144abe1b8b8c81e5a0f9ebb6628a088456ac3f09a28d4496daae6118d6ea091dbf7b583ff7e368b383d6e9136e9a3c6b707099873c7cbcad
 
 Package: termux-exec-static
 Architecture: x86_64
@@ -32828,4 +32751,111 @@ MD5Sum: 586113b3b88805dbe14f82765dfbea7f
 SHA1: 167eb45a7e98c100a92c9fe3ae23352d48065cbb
 SHA256: 7bd7d65a75d0d5a9eb9f8fdc021879ecd43ffb2f3090d4ba56f57dc538763223
 SHA512: d9db46131c4854cc8dc89f66e5d3c23757489f8d5f7c43d9f172b83baca188cd6a8964accbb597760059417341ac1df4e82731e9ab6ad1a6cf4031c63677975c
+
+Package: arpack-ng
+Architecture: x86_64
+Installed-Size: 1072
+Maintainer: @termux
+Version: 2:3.9.1
+Homepage: https://github.com/opencollab/arpack-ng
+Depends: libopenblas
+Description: Collection of Fortran77 subroutines designed to solve large scale eigenvalue problems.
+Filename: ../../../../releases/download/x86_64-a/arpack-ng_2:3.9.1_x86_64.deb
+Size: 268176
+MD5Sum: 3a27d2c78dccea7e865239954ef134d8
+SHA1: 427dd1b00942a576a1c2646814b0b4c52f9762f8
+SHA256: 27ed5d2503e9faae0f562fcd486c6d77da3949954d1625c0d5c581e83e966ccc
+SHA512: 10a1f1bb85e305175868fdee0e5c2c20ac76deb6efe0d901e35f92c005eab764fe327771632193262323cd4c94ab9adb456550d33bd984935981b61546c00aee
+
+Package: ca-certificates-java
+Architecture: all
+Installed-Size: 184
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Depends: ca-certificates (= 1:2026.05.14)
+Description: Common CA certificates (java keystore format)
+Filename: ../../../../releases/download/x86_64-c/ca-certificates-java_1:2026.05.14_all.deb
+Size: 96488
+MD5Sum: 91f1b3eecfce4e346e980878a7e865c4
+SHA1: 8939487b8516cbbe79ba158e431ab56a9b45b002
+SHA256: 45738cf157d90b832c900786ea94c08f94c3f7cc85caa2643b2e97a017163f5e
+SHA512: 60f14c0c609c0cbe1110b2110bf50a3c4854574b489200c1de26b151f5a46427f2b464cf97a974681c824fc3a13471754bf9ca14cc435baa53400cb83fb5caa6
+
+Package: ca-certificates
+Architecture: all
+Installed-Size: 232
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Description: Common CA certificates
+Filename: ../../../../releases/download/x86_64-c/ca-certificates_1:2026.05.14_all.deb
+Size: 105736
+MD5Sum: d58491ffa01dcb00c1812689c62290e1
+SHA1: 434568e9960062580cfb2ea916a5a414e75b2e55
+SHA256: 7cad65dd2d1bbecf590285a35a18cbea07dd14aa1965c9c2e758ad2f36431ecc
+SHA512: 8fb9f9849ce5b0af7e5fd234e3edbfdca9d26c5ce8b6718825eccbd80b3b0a2be1dad0516e5f9d6e4a783a5464370d0667358586d7cf65ed7c1b8ada712e1bf9
+
+Package: nginx
+Architecture: x86_64
+Installed-Size: 1608
+Maintainer: @termux
+Version: 1.31.2
+Homepage: https://www.nginx.org
+Depends: libandroid-glob, libcrypt, pcre2, openssl, zlib
+Description: Lightweight HTTP server
+Filename: ../../../../releases/download/x86_64-n/nginx_1.31.2_x86_64.deb
+Size: 470196
+MD5Sum: 234a944b924cc432b1a5b8f47e92b61e
+SHA1: 1d270a28e7cee9b82093d2f1f993db0e1f87a1b3
+SHA256: 55d61b2486a746969586a02412315b351bdfe0c78d8145a5367de5b8269abeda
+SHA512: cbcca18c92d594c2251c6781d4b9184cefa9bb02fb5944aa21c401fdb7e4250aedfe126d664b43efd8414ce6ecd35ad627084c4977cdc67ba98f20325f50588a
+
+Package: openssl-static
+Architecture: x86_64
+Installed-Size: 12396
+Maintainer: @termux
+Version: 1:3.6.3
+Homepage: https://www.openssl.org/
+Depends: openssl (= 1:3.6.3)
+Description: Static libraries for openssl
+Filename: ../../../../releases/download/x86_64-o/openssl-static_1:3.6.3_x86_64.deb
+Size: 2214452
+MD5Sum: 54212ee85fc51d5b97f27b72b7cc1aa6
+SHA1: bc96a82aface4ec8fdf9a7d8a2e665fe68d68046
+SHA256: 9cfac0c0da70b64fe324a19539b7df10f6cfac8689e02a0cb9c3e932a6154e09
+SHA512: 79cacae5d5751398c69b133c555d90912909955aa847cdf4634fb54fd5dea92ae605e81044cd16c333758e40b5dfda2366b92cd6cb76d1affd172f51bc7f3f81
+
+Package: openssl-tool
+Architecture: x86_64
+Installed-Size: 1016
+Maintainer: @termux
+Version: 1:3.6.3
+Homepage: https://www.openssl.org/
+Depends: openssl (= 1:3.6.3)
+Description: The openssl command line cryptographic tool
+Filename: ../../../../releases/download/x86_64-o/openssl-tool_1:3.6.3_x86_64.deb
+Size: 306384
+MD5Sum: 5c817a90d5e90f6555d3f397f5b97176
+SHA1: 32817c9bb8655437e0d4f395a3574f43039cfddd
+SHA256: 47bb08e5496578ddcae42c05dfb281eb5a2afe2ecacd3f229612e2a0ec9d7748
+SHA512: 60dd9007730b10c3607a33a8f8a0f8d1397ef029577cb058b5534b504b5efce0b8b2782ee0b9632c97b315321144a716d7fc8c362bd612be79b387cede19793f
+
+Package: openssl
+Architecture: x86_64
+Installed-Size: 8852
+Maintainer: @termux
+Version: 1:3.6.3
+Homepage: https://www.openssl.org/
+Breaks: openssl-tool (<< 1.1.1b-1), openssl-dev
+Depends: ca-certificates, zlib
+Conflicts: libcurl (<< 7.61.0-1)
+Replaces: openssl-tool (<< 1.1.1b-1), openssl-dev
+Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
+Filename: ../../../../releases/download/x86_64-o/openssl_1:3.6.3_x86_64.deb
+Size: 2156764
+MD5Sum: 04ff8ce054d9bec882c20c23f4596259
+SHA1: c3d2f3892af35b9bd7d16d971a7606e6729a160d
+SHA256: d27b6b9f1910fdf660dcfe17b03a8fa18425f69a93f1757554b7d165e24c360c
+SHA512: 117816fac5c3e2e4144abe1b8b8c81e5a0f9ebb6628a088456ac3f09a28d4496daae6118d6ea091dbf7b583ff7e368b383d6e9136e9a3c6b707099873c7cbcad
 
