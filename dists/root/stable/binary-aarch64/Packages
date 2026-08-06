@@ -28,3 +28,33 @@ SHA1: a56437916e478c89f4818292210e517e1133aa0d
 SHA256: 002831c2b68e4117e53374c9ea863858194a0fba34d373eb1cd81ae6b420f07c
 SHA512: 29c9d7c5743f27cb461198151cdfbd1883b89690095ca3ccf0b3273c02832614b55b26a15d8f18cd46b25c3b52f226e35e970a02c35af3c15a2208f40e60cb22
 
+Package: squashfuse-static
+Architecture: aarch64
+Installed-Size: 196
+Maintainer: @termux
+Version: 0.6.2
+Homepage: https://github.com/vasi/squashfuse
+Depends: squashfuse (= 0.6.2)
+Description: Static libraries for squashfuse
+Filename: ../../../../releases/download/aarch64-s/squashfuse-static_0.6.2_aarch64.deb
+Size: 22144
+MD5Sum: eba2be776420b9f46d93ae4b4e4b2028
+SHA1: 8d85a71719c0e72dd995de204768c90f2a91b454
+SHA256: e38ab3d047abb202bc95ba4995a07f2ac8ce70913e3378d735524dfff3e6a38b
+SHA512: 50d699fe1699ff12c020857a7bdef488fdb7fda53efe1a2a3ba0911fa8818b0b21022217de22c1465a4e2d08e166340fa53c411eadbdfaee42a9568996c317b6
+
+Package: squashfuse
+Architecture: aarch64
+Installed-Size: 356
+Maintainer: @termux
+Version: 0.6.2
+Homepage: https://github.com/vasi/squashfuse
+Depends: libfuse2, liblz4, liblzma, liblzo, zlib, zstd
+Description: FUSE filesystem to mount squashfs archives
+Filename: ../../../../releases/download/aarch64-s/squashfuse_0.6.2_aarch64.deb
+Size: 47976
+MD5Sum: 0d002e49c79edf6749ec1e560753af1e
+SHA1: 08791093f05ddd5468db8c6c167758063b718240
+SHA256: c8f0cccadf48915e2046436b2314abf3ae03f221025ebc0af83335b2d240dddb
+SHA512: 8d763bc3bff0424d3bd9a6c899f4a0c8adad08c56796a6f6ba0869e1a9c104f1ac3ed1f850e2b172eb27904eb028f4292cd844ec4041daca85412dded0a03d7f
+

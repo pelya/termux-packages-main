@@ -32946,3 +32946,18 @@ SHA1: aa868b1f0a8ec52e9c0aed226566a9995972179e
 SHA256: cb245bb93ff5e3a435d2bb643bd07a75c0960d524184f524d1f73234ffc2181b
 SHA512: 9e893588a73dd0a1b8acad5df34971aa388b47e162741547fe798301c81302ed71950d3e8151019a3d3a14778086787b0a9d05b003d0ade288c7de2f4da7e50f
 
+Package: libpoco
+Architecture: x86_64
+Installed-Size: 19760
+Maintainer: @termux
+Version: 1.15.3
+Homepage: https://pocoproject.org/
+Depends: libandroid-posix-semaphore, libc++, libexpat, libsqlite, openssl, pcre2, utf8proc, zlib
+Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
+Filename: ../../../../releases/download/x86_64-libp/libpoco_1.15.3_x86_64.deb
+Size: 3352288
+MD5Sum: cd4b93495237bb7f240fd247cdeb3b08
+SHA1: 10fb58ec96e8b18e7aac303f1bc0c58c2ddb6ea1
+SHA256: 74d0a52f1e6677aca5711090f4d16a938e13545f01721eb2fb1d98eff6bfdc36
+SHA512: 547f261c2e47197999f0a5b4b6e54d7ea143a6d3a124b1734f86d751f60efe452ab2a96173d581057bbd99c0a8799fa3217623d0bc40bf15f15d1c284297a2ab
+
