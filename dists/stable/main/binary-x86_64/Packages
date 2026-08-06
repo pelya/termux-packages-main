@@ -33082,3 +33082,33 @@ SHA1: ebdd031de12affe9e49d90b1e9b046df90a5665e
 SHA256: 3b3e0d07066f775d7c7daeb4c1c82f18f58a451c271085a31decf2f3724796aa
 SHA512: 256fb78f3dc2270d21166bb15ac37cefc4c209667463068115944feaa70685abbc5dce0d4c1ba86cdb0fe09b081f470081187a8db8be09f7d7cef34bedd6a82a
 
+Package: plantuml
+Architecture: all
+Installed-Size: 28432
+Maintainer: @termux
+Version: 1.2026.2
+Homepage: https://plantuml.com/
+Depends: openjdk-21
+Description: Draws UML diagrams, using a simple and human readable text description
+Filename: ../../../../releases/download/x86_64-p/plantuml_1.2026.2_all.deb
+Size: 27582996
+MD5Sum: a992887165184ed7f7f381682a30dd70
+SHA1: 4cd433a90f0ee902715b6166818c85f7d42b5c9a
+SHA256: 2a227f6fa2b44101d52ba2baf65d1d5f7f129b5156ed2a6968f4b76fcad20afb
+SHA512: cbafc6349d8d0a69a907af7d5d806e658f43b7c88e59c5c33272e988997eafefca3ac6c1e45291d1e55c0329f6ebfac49b1f414ccb1507d91c0997ef727b6b29
+
+Package: termux-create-package
+Architecture: all
+Installed-Size: 232
+Maintainer: @termux
+Version: 0.12.0-3
+Homepage: https://github.com/termux/termux-create-package
+Depends: llvm, python
+Description: Utility to create Termux packages
+Filename: ../../../../releases/download/x86_64-t/termux-create-package_0.12.0-3_all.deb
+Size: 33400
+MD5Sum: 5c189693dbd0a95efabb34f52fb8a001
+SHA1: 6eae63280c778b20fb020b63e3f4671394105d04
+SHA256: f04e9fb8043e30cc9d378013aa17797bf214dc25ed8006620185f24e7b101b96
+SHA512: 29cfc755b85604146e21e5d36bb43fbc32622682150d9e5128f7b06d40be71be39057650f4d620a8d44a11bf6e83264fb1a7f496cc24446626503689fd348dbe
+
