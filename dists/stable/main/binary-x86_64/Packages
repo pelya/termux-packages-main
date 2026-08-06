@@ -33512,3 +33512,47 @@ SHA1: a401abfdfbfbdb6689a8ec4e9f2cd311abfef79f
 SHA256: a04a49d7a192496bb409a55c4fa07157f88d6d1db2e4e08cdd0182b87759ccea
 SHA512: addad31d5b27ef74aab78310985a0141749257d1a56b4eea3d8974392fe3e2f22635ecef1a62135aa29e7453cd44cfe5b3f2e403a70fbc77b7d6c510fbb45378
 
+Package: bison-static
+Architecture: x86_64
+Installed-Size: 32
+Maintainer: @termux
+Version: 3.8.2-4
+Homepage: https://www.gnu.org/software/bison/
+Depends: bison (= 3.8.2-4)
+Description: Static libraries for bison
+Filename: ../../../../releases/download/x86_64-b/bison-static_3.8.2-4_x86_64.deb
+Size: 1512
+MD5Sum: f0def38f2ef2bbf12f206d081ff3f912
+SHA1: 1b22093556688bf939b75135d0c6ab1d62e24e80
+SHA256: bc825856621d70af226c78b386076e810597cb72e08abec051d237f2a04fa1c9
+SHA512: 0f9e5d095dd9d003431e3cdc7cd8b2f13b07e0b95cdf9a10d903a48b4cf32e7e996afac5f0bed613371f5010156514edeeed80ca88add65957e5a452ede8bd37
+
+Package: bison
+Architecture: x86_64
+Installed-Size: 2660
+Maintainer: @termux
+Version: 3.8.2-4
+Homepage: https://www.gnu.org/software/bison/
+Depends: m4
+Description: General-purpose parser generator
+Filename: ../../../../releases/download/x86_64-b/bison_3.8.2-4_x86_64.deb
+Size: 546804
+MD5Sum: 195d1e4e30466f96318a09a36fd2d406
+SHA1: d33ad11e0c5321a7fe5805ef5b48e1051ff423a0
+SHA256: 8537f71153c4bf80649fa693c29dffbe6d072e3055ac9f8125991e747472176e
+SHA512: 2b8aa553b85975c56f8fe8882b454bec805c7926b174ded7b0b3a026e40f000c33e7692ba7407a21a856af0086781c219724912b35af5d0a8b5dc72658b7c5bb
+
+Package: dx
+Architecture: all
+Installed-Size: 1472
+Maintainer: @termux
+Version: 1:1.16-7
+Homepage: http://developer.android.com/tools/help/index.html
+Description: Command which takes in Java class files and converts them to format executable by Dalvik VM
+Filename: ../../../../releases/download/x86_64-d/dx_1.1.16-7_all.deb
+Size: 1433540
+MD5Sum: 2d709735875242c585843d859af11e9f
+SHA1: 6769cdbb5a654bee0d7e0ce5966f32f51ed98a00
+SHA256: bd411702fff60245ea105af814dcd48e5acd7d04e57dea6e695141ecbf540a3b
+SHA512: 8c34838ca0bfbcf6f0e2d23267eed2903d8b2e15f6121dd21df71db2758d99da5e84b392c9bac71851c84f9d0bfeef72c516266522ee82b675078cb1399d2ba2
+
