@@ -33383,3 +33383,17 @@ SHA1: 87028cbf1479802198e1478d929f5038c4ab6918
 SHA256: adb2d4495d25ddc5ee6dd83e6047d19394c337a93dd17a36f08a792144ce56df
 SHA512: fff51e4cb437c6475018b413af54ee21d8bb294e9b710e5da41391b7363abd5adc08dba5356ff0d4a9d774ad42d7a57166baa3eb3e7b70bfb18d9c60ecff97df
 
+Package: rust-bindgen
+Architecture: aarch64
+Installed-Size: 6168
+Maintainer: @termux
+Version: 0.72.1
+Homepage: https://github.com/rust-lang/rust-bindgen
+Description: Automatically generates Rust FFI bindings to C (and some C++) libraries
+Filename: ../../../../releases/download/aarch64-r/rust-bindgen_0.72.1_aarch64.deb
+Size: 1606040
+MD5Sum: 4f750fcc5feb8cc0645de0ee4f7fd677
+SHA1: 2f92b47704581b7657ae8d91816f411d5c336cfd
+SHA256: 71ea0076071845eace80c3bccba152a176c30d02250d90d67073b0eba59eff65
+SHA512: 505dcf764b9c9926879d319d8c0446bdd7d321f1ac285b64844884a9aa439f39f67d8f4f336ad528c5c580ec868c78651df427f2ec3986cf3f47021abb5fd785
+

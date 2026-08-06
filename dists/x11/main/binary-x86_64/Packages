@@ -11951,3 +11951,19 @@ SHA1: a9250accef8b967dc1f56fe47a9340612b2e9e2e
 SHA256: 79698472c65d6af10b42f2cf2a22886db8d35a134ef3da7c69118fc1bea8e6a3
 SHA512: 4ed57bfec83c505fdf6076d9f6a134de7b512d64fdb265b17dddebb84397dee14a097b0f1d6708b614a0bd890854a9e487ceb1751cda6faa12b2210b1ffe0715
 
+Package: featherpad
+Architecture: x86_64
+Installed-Size: 1900
+Maintainer: @termux
+Version: 1.6.4
+Homepage: https://github.com/tsujan/FeatherPad
+Depends: hunspell, libc++, libx11, qt6-qtbase, qt6-qtsvg
+Recommends: hicolor-icon-theme
+Description: Lightweight Qt Plain-Text Editor
+Filename: ../../../../releases/download/x86_64-f/featherpad_1.6.4_x86_64.deb
+Size: 532412
+MD5Sum: 1e3184eadeae8a7cb6d3bedf352a4808
+SHA1: 27f250584c156ecaf9486b6e95501a6e48861e70
+SHA256: 18bec656a7659be0e07ad252af4f99ca7d32c3ab2b282cb62d6ad9cef970e13c
+SHA512: a19ef8861bf92eca2c9ba93f9fca5a3746e5ae47313e78e0dc99de9d15066b7664b0be68cb62f8294c1c336d0b5e9b3310090dabdd950189e11c0337f4bc3242
+
