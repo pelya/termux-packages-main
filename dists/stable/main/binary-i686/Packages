@@ -32900,3 +32900,49 @@ SHA1: 7342c3258d8695a16d91daa6a685bbb3fd53b064
 SHA256: 8a11f95acb2ea83e97cb3392e41c0385590783cba7bcc94f421870aeb0fa42c0
 SHA512: bc091c85bbcc513150b3a9ade9dc534d4f6c438af0e9f32f9865c1b83e50a42b0461c54d288b81f91486cc8b3a90126ee6e6d438b0653d3e6f812e887a5cf224
 
+Package: libmnl-static
+Architecture: i686
+Installed-Size: 52
+Maintainer: @termux
+Version: 1.0.5-1
+Homepage: https://www.netfilter.org/projects/libmnl/
+Depends: libmnl (= 1.0.5-1)
+Description: Static libraries for libmnl
+Filename: ../../../../releases/download/i686-libm/libmnl-static_1.0.5-1_i686.deb
+Size: 6868
+MD5Sum: b577380f69df7cb1a59251999cf10b3e
+SHA1: 26e7b5a9617073a88495dcf724c67d5d8d65f2b0
+SHA256: b219b5174846485c519a3e1e51618c5287696dbc24890b95d11e0452eeb36611
+SHA512: 3ec572de4c8d056e852d053ae0eacb108e51b1151ab833b5e3badc59c023209d2918b934f8493c182829687845d71364ac3303b66426129a993b4f8961b737b8
+
+Package: libmnl
+Architecture: i686
+Installed-Size: 84
+Maintainer: @termux
+Version: 1.0.5-1
+Homepage: https://www.netfilter.org/projects/libmnl/
+Breaks: libmnl-dev
+Replaces: libmnl-dev
+Description: a minimalistic user-space library oriented to Netlink developers
+Filename: ../../../../releases/download/i686-libm/libmnl_1.0.5-1_i686.deb
+Size: 8912
+MD5Sum: 261a2aa198f5e2040c08cbf862a19cca
+SHA1: 2c532f028d05fb875b5dc3db3b6eb98d5a938fdd
+SHA256: 6c8ddcdf93b2c9162d2a18052d87bd67a3fb85bb5c5ac4e0baa644f040223780
+SHA512: 464d40c26e8a302de5f3f10657d9a915ec7383ae811457f913f9caac23adc9876b9c13e891a4c429e5515f4e60de0f8408a704f4c09a9e651b3ecfa8ad953f90
+
+Package: nala
+Architecture: all
+Installed-Size: 536
+Maintainer: @termux
+Version: 0.16.0-3
+Homepage: https://gitlab.com/volian/nala
+Depends: python-apt, python-pip
+Description: Commandline frontend for the apt package manager
+Filename: ../../../../releases/download/i686-n/nala_0.16.0-3_all.deb
+Size: 95336
+MD5Sum: e11b1d111429fc37715424ce96318d88
+SHA1: bb97f93ce2058e469f36b754e24676a7fd924547
+SHA256: 8cec6a04d66fadaf8bc0ab54e64ffd83f4689a45cc35d7d1bd80abbc8c8a1b99
+SHA512: a4763983e28dead592e453b954dbf9ecc10449d7f61baf6843801518b3a5ad31dc154d691f79dd9baf81f7a5177f62ec65fcb686c7e2c587ba584978eb3b3016
+

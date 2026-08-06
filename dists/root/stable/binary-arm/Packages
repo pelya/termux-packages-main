@@ -147,3 +147,33 @@ SHA1: 93044898dad70341c0dc1dd996db9b9209e33194
 SHA256: 561d8336bf13ba74b61f8c10356dc2c3769ff14c2e0c8f2d7cbcbcdb4418ea8a
 SHA512: 4f5b07c24e2b8492892e74e615a7c271c7e03e7f949537424d23489559283c0125d90f832fb4297b303f9bcde02f9dea652b4982a9203f3f4809cda35f9b197b
 
+Package: libnetfilter-queue-static
+Architecture: arm
+Installed-Size: 60
+Maintainer: @termux
+Version: 1.0.5-4
+Homepage: https://www.netfilter.org/projects/libnetfilter_queue/index.html
+Depends: libnetfilter-queue (= 1.0.5-4)
+Description: Static libraries for libnetfilter-queue
+Filename: ../../../../releases/download/arm-libn/libnetfilter-queue-static_1.0.5-4_arm.deb
+Size: 8712
+MD5Sum: aa42289908dbbd4773cf9796f9f89c6d
+SHA1: 5e1f8acee935b5ca9c2d502f14e8798b1d3c408e
+SHA256: 21e1ce74a10397c01fe69fcc4d6d936de1c6ddc930125de98364aced2b419b94
+SHA512: 30bc4846d329cf0cce63403d2d545a1bd5ac3152ecb388ad96c4212e7cd2749f09f71293d3c860b745d32723dd38eb9f5f4c4a55c09746c5b7b4fd9a94abccc0
+
+Package: libnetfilter-queue
+Architecture: arm
+Installed-Size: 104
+Maintainer: @termux
+Version: 1.0.5-4
+Homepage: https://www.netfilter.org/projects/libnetfilter_queue/index.html
+Depends: libnfnetlink, libmnl
+Description: libnetfilter_queue is a userspace library providing an API to packets that have been queued by the kernel packet filter.
+Filename: ../../../../releases/download/arm-libn/libnetfilter-queue_1.0.5-4_arm.deb
+Size: 10720
+MD5Sum: a8e270d83a8dac94d8fdfbf9a3742534
+SHA1: 7f181a546e7abdb4b9d060a6160367ee6a2c323f
+SHA256: 85a3e34a4ebc990d3c51d51f19b4b029d76dc785cc2d3549a4478288edcd694a
+SHA512: 211eaef178b5e2e665597e6734d1543369ac2049253e3463be5908dde55cebea615a2323e18629c2c43f0032f00ac4f7bed3950b848e5217ca27a6c637bd732b
+

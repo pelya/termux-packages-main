@@ -32283,3 +32283,49 @@ SHA1: 4adc61b8a1dc364296b41b87d561fb51887e1023
 SHA256: 4f848ad788673564b1e4b3a18f5d2996e5b710c41743e0e1142a575771b6bd0a
 SHA512: 5159c94f569989e83ca7f526aa696a229d2c0a9ca3c7db46bca4e35ee5da35cf862b7e24ddedef5614d9c8cd453e7c0cb5ecf20520e25fc63df15f4c39a126da
 
+Package: libmnl-static
+Architecture: arm
+Installed-Size: 48
+Maintainer: @termux
+Version: 1.0.5-1
+Homepage: https://www.netfilter.org/projects/libmnl/
+Depends: libmnl (= 1.0.5-1)
+Description: Static libraries for libmnl
+Filename: ../../../../releases/download/arm-libm/libmnl-static_1.0.5-1_arm.deb
+Size: 6116
+MD5Sum: 9147492ab22710c20b36f017ac6c6641
+SHA1: fffd1a40758d18b04bdb8b4b5ac2068c3779a6b6
+SHA256: dbfabd3e09d356d5627cd1150a2c49e8668f29a3f42096adf6f0df99b0242141
+SHA512: 750b3f4fd3c32b57b084d2371c2443a5a9870a7cdb81b9607a067c665d134164c49a90ff0e3710c67c973e431a82d08e9cdd4bb6bb7b9049b1a74dfd1fdbb9d0
+
+Package: libmnl
+Architecture: arm
+Installed-Size: 76
+Maintainer: @termux
+Version: 1.0.5-1
+Homepage: https://www.netfilter.org/projects/libmnl/
+Breaks: libmnl-dev
+Replaces: libmnl-dev
+Description: a minimalistic user-space library oriented to Netlink developers
+Filename: ../../../../releases/download/arm-libm/libmnl_1.0.5-1_arm.deb
+Size: 7572
+MD5Sum: bdb10e21170d7c3070d040548f5a0e7f
+SHA1: 375b9ffada82cc820610474771f3861f496dd378
+SHA256: e4ca31e1b7796ebbfec7b386c56337bc3255abd9905ea9d000e92c755f8fc683
+SHA512: 42b5afa46807e4d3382e057d1b46f1ba098e4ea20376a059bf8550346e2acf0d082be76671af805c229615f93a957ca1c98481132b85f85c6d21f182f29fc8ea
+
+Package: nala
+Architecture: all
+Installed-Size: 536
+Maintainer: @termux
+Version: 0.16.0-3
+Homepage: https://gitlab.com/volian/nala
+Depends: python-apt, python-pip
+Description: Commandline frontend for the apt package manager
+Filename: ../../../../releases/download/arm-n/nala_0.16.0-3_all.deb
+Size: 95336
+MD5Sum: e11b1d111429fc37715424ce96318d88
+SHA1: bb97f93ce2058e469f36b754e24676a7fd924547
+SHA256: 8cec6a04d66fadaf8bc0ab54e64ffd83f4689a45cc35d7d1bd80abbc8c8a1b99
+SHA512: a4763983e28dead592e453b954dbf9ecc10449d7f61baf6843801518b3a5ad31dc154d691f79dd9baf81f7a5177f62ec65fcb686c7e2c587ba584978eb3b3016
+

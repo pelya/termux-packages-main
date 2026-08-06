@@ -33616,3 +33616,49 @@ SHA1: 096de5bb4b48bd0abdd0e74eb4e02eeec2b6f446
 SHA256: feb04226c00b735edbf4f6987535262e6c1b3585799cef737ad337fd31777bfb
 SHA512: 7e458a3f2d0f9c847d8803fda113a6ddf762a15781706b47d8bc4e67d5757d0b00fa5fe5e5850d28d44797b604d238753053d0544a8831665350bf7a91ac310b
 
+Package: libmnl-static
+Architecture: aarch64
+Installed-Size: 56
+Maintainer: @termux
+Version: 1.0.5-1
+Homepage: https://www.netfilter.org/projects/libmnl/
+Depends: libmnl (= 1.0.5-1)
+Description: Static libraries for libmnl
+Filename: ../../../../releases/download/aarch64-libm/libmnl-static_1.0.5-1_aarch64.deb
+Size: 6980
+MD5Sum: e85a71ad2fe02bc7ddb719e231188224
+SHA1: 71541f87e15e8fb798b9dca89ea4c673ca936e97
+SHA256: b246edcf762c73198a4514a7ee68f65e00d5eb26706b55104d7ad164ce94391c
+SHA512: 653cfa63ebf306db44244b081c17bf7c2ce22a8a5d306897f22525be8b8444f49263de8266669cfd6332133a104aba0b2c1290e17a11b3b41df2499fd01290f4
+
+Package: libmnl
+Architecture: aarch64
+Installed-Size: 84
+Maintainer: @termux
+Version: 1.0.5-1
+Homepage: https://www.netfilter.org/projects/libmnl/
+Breaks: libmnl-dev
+Replaces: libmnl-dev
+Description: a minimalistic user-space library oriented to Netlink developers
+Filename: ../../../../releases/download/aarch64-libm/libmnl_1.0.5-1_aarch64.deb
+Size: 8628
+MD5Sum: 5f0830ad80de1209cb828ac105531639
+SHA1: 7ce9983c7fdca06bf96c0359be259b881e939958
+SHA256: d12f6055aec24d59f7c6bc939ed66479f7c7a44e3a3ca7f1b1f90c52db2ed9fd
+SHA512: fbe2a32656a42a95659d7fe3b6d4c25ac241b90a7ee95f2a657820c0cdb501698fa853a72192d4f8d5b7c6dacbd233f73e770f3ebe8964e881cd2b8ffa4a2c9a
+
+Package: nala
+Architecture: all
+Installed-Size: 536
+Maintainer: @termux
+Version: 0.16.0-3
+Homepage: https://gitlab.com/volian/nala
+Depends: python-apt, python-pip
+Description: Commandline frontend for the apt package manager
+Filename: ../../../../releases/download/aarch64-n/nala_0.16.0-3_all.deb
+Size: 95336
+MD5Sum: e11b1d111429fc37715424ce96318d88
+SHA1: bb97f93ce2058e469f36b754e24676a7fd924547
+SHA256: 8cec6a04d66fadaf8bc0ab54e64ffd83f4689a45cc35d7d1bd80abbc8c8a1b99
+SHA512: a4763983e28dead592e453b954dbf9ecc10449d7f61baf6843801518b3a5ad31dc154d691f79dd9baf81f7a5177f62ec65fcb686c7e2c587ba584978eb3b3016
+

@@ -195,3 +195,15 @@ data/data/greater.underscore/files/usr/share/man/man8/umount.nfs.8.gz           
 data/data/greater.underscore/files/usr/var/lib/nfs/etab                          nfs-utils
 data/data/greater.underscore/files/usr/var/lib/nfs/rmtab                         nfs-utils
 data/data/greater.underscore/files/usr/var/lib/nfs/state                         nfs-utils
+data/data/greater.underscore/files/usr/lib/libnetfilter_queue.a                  libnetfilter-queue-static
+data/data/greater.underscore/files/usr/lib/libnetfilter_queue.la                 libnetfilter-queue-static
+data/data/greater.underscore/files/usr/include/libnetfilter_queue/libnetfilter_queue.h libnetfilter-queue
+data/data/greater.underscore/files/usr/include/libnetfilter_queue/libnetfilter_queue_ipv4.h libnetfilter-queue
+data/data/greater.underscore/files/usr/include/libnetfilter_queue/libnetfilter_queue_ipv6.h libnetfilter-queue
+data/data/greater.underscore/files/usr/include/libnetfilter_queue/libnetfilter_queue_tcp.h libnetfilter-queue
+data/data/greater.underscore/files/usr/include/libnetfilter_queue/libnetfilter_queue_udp.h libnetfilter-queue
+data/data/greater.underscore/files/usr/include/libnetfilter_queue/linux_nfnetlink_queue.h libnetfilter-queue
+data/data/greater.underscore/files/usr/include/libnetfilter_queue/pktbuff.h      libnetfilter-queue
+data/data/greater.underscore/files/usr/lib/libnetfilter_queue.so                 libnetfilter-queue
+data/data/greater.underscore/files/usr/lib/pkgconfig/libnetfilter_queue.pc       libnetfilter-queue
+data/data/greater.underscore/files/usr/share/doc/libnetfilter-queue/copyright    libnetfilter-queue
