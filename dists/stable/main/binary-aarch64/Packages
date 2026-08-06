@@ -33237,3 +33237,32 @@ SHA1: a76019f3221fa4284f3eff25d810f1a2d601a6e2
 SHA256: d4ee57d4298d6b841651ec22c1d001fc9a0fef12131227e5fede75e026b082b6
 SHA512: ade8a534332cb09e00d7a76a0588bbadb6c4252de35618a1ce3e38749c795df5751bc2f64e1573f3caec1c85186751eedc4715e83ef881e0bbdf07484792ee64
 
+Package: entr
+Architecture: aarch64
+Installed-Size: 80
+Maintainer: @termux
+Version: 5.8
+Homepage: https://eradman.com/entrproject/
+Description: Event Notify Test Runner - run arbitrary commands when files change
+Filename: ../../../../releases/download/aarch64-e/entr_5.8_aarch64.deb
+Size: 12844
+MD5Sum: 005a0cf023004ba8632bb864f0f86463
+SHA1: 9a2d0fec5f75b85c736f2f0736a7b4e0cceaa902
+SHA256: fdd4b8dab0c28311010ee3b4ebb9d18e860340db14e748e0d9b02850733f24ed
+SHA512: ceae01ce6d009f5fc9c33dd564d9fb4bf5b3d1d0bbdb67f792b73028337d5edc5424d517596f464de0f4bfc7ed3d72c65f35db709a8fecd3b68cb34c3cb65d49
+
+Package: tudo
+Architecture: all
+Installed-Size: 404
+Maintainer: @agnostic-apollo
+Version: 1.2.0
+Homepage: https://github.com/agnostic-apollo/tudo
+Depends: bash
+Description: A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app
+Filename: ../../../../releases/download/aarch64-t/tudo_1.2.0_all.deb
+Size: 45484
+MD5Sum: 995c89a9b77f0fa7dcbc1cda4286a061
+SHA1: 8a18556e7d6088b3eb67d4f37896df96b3c784d1
+SHA256: 852ab17ae5a4850712afdfbcc2d4ff9ab5fb9b808d9ecb28fd939dbbc22b9ebd
+SHA512: 1ee9e1b0af9b8323899ca9cf7680bcd737f8fa84a453683d140ce76ae3b7394f1a0ff73e4c81d2cb7acf499f534eb60b509064187b77c2f7f7268ce09c0ec0ea
+
