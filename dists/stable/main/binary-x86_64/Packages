@@ -34177,3 +34177,32 @@ SHA1: ce6a501bc2867b6a0e67cd50a5c933a4871b8bed
 SHA256: c086e96ad2723130eb6ef28f4cc259493bdbec79bfe3f4391b7ebe5c949a40fb
 SHA512: 05c5513053313c7c586b2d6562967bd9e8521573cf00b29e94c761db28ff0d718f012102264cd7cb64862203267bb097ec703737fe27a4466223cca373070729
 
+Package: tergent
+Architecture: x86_64
+Installed-Size: 720
+Maintainer: @termux
+Version: 1.0.0-5
+Homepage: https://github.com/aeolwyr/tergent
+Depends: termux-api
+Description: A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend
+Filename: ../../../../releases/download/x86_64-t/tergent_1.0.0-5_x86_64.deb
+Size: 257296
+MD5Sum: 2010a46d523d8b48af141702964eecb1
+SHA1: a991ec422401ff8583a5bd1c12c36dfbaf7eaf93
+SHA256: dfa23be246661a48d29d16127d3f26cc5e15bf353376df32e16dafd1a8a3bc6a
+SHA512: bec1699ff8abd410885744a2f0938a9f172659932d0cbae24d8882c21e52ae66e5aa55ec3f1d21f9b2aee37ae58339a6ddea2757bb2259d61a19536ac12b302c
+
+Package: typstfmt
+Architecture: x86_64
+Installed-Size: 2980
+Maintainer: @termux
+Version: 0.2.10-1
+Homepage: https://github.com/astrale-sharp/typstfmt
+Description: basic formatter for the Typst language
+Filename: ../../../../releases/download/x86_64-t/typstfmt_0.2.10-1_x86_64.deb
+Size: 837728
+MD5Sum: 5e7e1a09614e2f8db8d8be9d38ee0349
+SHA1: 4f959dcea3b674972b864faad7aa9e90afa83184
+SHA256: 2f1a75a37d86d3e57d73bd8e93e0fad70972629cc88ee898b1756a050ba51fa4
+SHA512: f0b3882ea820b7310379325d3ae631de4c6e3fceebf80514ecc9faddf365e67846af7386f606bf9f5bbb778e7f97307c3fe5b79ce5aa89dc4f8d8ac300961713
+
