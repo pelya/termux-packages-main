@@ -13201,38 +13201,6 @@ SHA1: 1c43188c490b9ba21c7664426a3c0686b0a23fe4
 SHA256: 1916bd4f399ea40b79a4ab040b4945ec5b79941a9a349377793b22fcac976fde
 SHA512: 9700b03d27a41f41308c723fac5f9b77ee2da7795bcb24daa9ef1e7e347c876f33d855a9e5e225ea94d718e0765ca674d64de8eb57bdd7fe4f4c5b15611bfeb4
 
-Package: libgd-static
-Architecture: aarch64
-Installed-Size: 544
-Maintainer: @termux
-Version: 1:2.3.3-7
-Homepage: https://libgd.github.io/
-Depends: libgd (= 1:2.3.3-7)
-Description: Static libraries for libgd
-Filename: ../../../../releases/download/aarch64-libg/libgd-static_1.2.3.3-7_aarch64.deb
-Size: 102192
-MD5Sum: 7405643f6e5ce382cf0132d1357d8f9d
-SHA1: a259171bc97b0975798624479e8b4d2db83ecc64
-SHA256: 35d19a86af3303026b102e75d9a23e4ff546ae36c483ad5be9188fe0345a0351
-SHA512: b2b1b7ec556a6844b2dd71c49ea0d447063ec29a6d483e4a401c74dada98bdc07a80847645055ac7aef3d094367f93dd6cf84625ac58f166d6510bd6d087feb8
-
-Package: libgd
-Architecture: aarch64
-Installed-Size: 676
-Maintainer: @termux
-Version: 1:2.3.3-7
-Homepage: https://libgd.github.io/
-Breaks: libgd-dev
-Depends: fontconfig, freetype, libavif, libheif, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, zlib
-Replaces: libgd-dev
-Description: GD is an open source code library for the dynamic creation of images by programmers
-Filename: ../../../../releases/download/aarch64-libg/libgd_1.2.3.3-7_aarch64.deb
-Size: 126032
-MD5Sum: 712d0748590bd87c7a45ea2fc6f932af
-SHA1: 02c772e00fa95a653a021a090647315a27c79d2f
-SHA256: e4b74ece3509a32a310eeb65450562b34206a42df00fd6f849847ae6680673b1
-SHA512: f0253aa8b09b27809a820e178024ef46149cf924231da387126f8b23e73b7fccf27b35462cbe02f3e73e89c8b2d6ff8442218f850b6ed98aa228a2b636bfdbec
-
 Package: libgedit-gfls
 Architecture: aarch64
 Installed-Size: 268
@@ -33265,4 +33233,36 @@ MD5Sum: 995c89a9b77f0fa7dcbc1cda4286a061
 SHA1: 8a18556e7d6088b3eb67d4f37896df96b3c784d1
 SHA256: 852ab17ae5a4850712afdfbcc2d4ff9ab5fb9b808d9ecb28fd939dbbc22b9ebd
 SHA512: 1ee9e1b0af9b8323899ca9cf7680bcd737f8fa84a453683d140ce76ae3b7394f1a0ff73e4c81d2cb7acf499f534eb60b509064187b77c2f7f7268ce09c0ec0ea
+
+Package: libgd-static
+Architecture: aarch64
+Installed-Size: 544
+Maintainer: @termux
+Version: 1:2.3.3-7
+Homepage: https://libgd.github.io/
+Depends: libgd (= 1:2.3.3-7)
+Description: Static libraries for libgd
+Filename: ../../../../releases/download/aarch64-libg/libgd-static_1.2.3.3-7_aarch64.deb
+Size: 102164
+MD5Sum: ebff8bedb65dd90d2aa016d276761a8b
+SHA1: 43490bc4464d0dc0a5be9d30f3dccb06fdb31156
+SHA256: dcf43fd81a21d4fbad365fa5e51640491aa3c2b7d989ccb791646450a8c2632a
+SHA512: a4084b24c01f1cd274cc7f7349fbade05bfb01ce9de7ab2ba65e23b78281c4e1a9dd9a1ae07a85ee39c3fb93178a363298414daf05ae802004f71599648fd2f8
+
+Package: libgd
+Architecture: aarch64
+Installed-Size: 676
+Maintainer: @termux
+Version: 1:2.3.3-7
+Homepage: https://libgd.github.io/
+Breaks: libgd-dev
+Depends: fontconfig, freetype, libavif, libheif, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, zlib
+Replaces: libgd-dev
+Description: GD is an open source code library for the dynamic creation of images by programmers
+Filename: ../../../../releases/download/aarch64-libg/libgd_1.2.3.3-7_aarch64.deb
+Size: 125844
+MD5Sum: 895aedbb0442583318399bfba5674988
+SHA1: 9a86dce5f7219b64a2389320e20d1fdf04a77319
+SHA256: f0a7490874525fb64e4914e2abecba10075602625ab94e1258100d4995e89cb3
+SHA512: 07100fa3833fc9a86cfacd55e2c8708d9f56ce755b85d1e8597b978b184a306a2875de67c58eef98725f2bbb899b38e5014b7cc67957282ced9aed21f4a22f0f
 

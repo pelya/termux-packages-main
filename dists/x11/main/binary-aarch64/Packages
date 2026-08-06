@@ -11858,3 +11858,35 @@ SHA1: 3708767c95430412d8bf1ce096262c8f0777e6d4
 SHA256: 75e4671be9d50eb5053de3094c6f4b577a107e984dc2dfb4f623874f921708d5
 SHA512: 39c9ef4d98d984862a6460bf4b7ef732dbd87523feb4da2899ee4aaa209bcc4b2432bed9be56aab9a48ccfdd595cf0d4e53281e01b92a6b676bbf3c33440be15
 
+Package: mpv-x
+Architecture: aarch64
+Installed-Size: 5524
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.41.0-2
+Homepage: https://mpv.io/
+Depends: alsa-lib, ffmpeg, jack, libandroid-glob, libandroid-shmem, libarchive, libass, libbluray, libcaca, libdrm, libdvdnav, libiconv, libjpeg-turbo, libplacebo, libsixel, libuchardet, libx11, libxext, libxinerama, libxpresent, libxrandr, libxss, libzimg, littlecms, luajit, openal-soft, opengl, pipewire, pulseaudio, rubberband, vulkan-icd, zlib
+Conflicts: mpv
+Replaces: mpv
+Description: Command-line media player
+Filename: ../../../../releases/download/aarch64-m/mpv-x_0.41.0-2_aarch64.deb
+Size: 1146084
+MD5Sum: 01bf0ade7f9b51295e57f86cd77f66e5
+SHA1: 9511ed8f5d82a7cb205f78008c29bcf91602b01a
+SHA256: cb880924cbd840a5360defe42ea97b61733f210966f5c23b079e8b23a0f2adb5
+SHA512: 2ba360de874e3206139b8cf5ffc1f6a5bab4e8694a5b9e50a8708e0f82222b644a3620108da3218979a13e7cc98e38fdb64f9ff4531a3311b94b2f5085f460fc
+
+Package: xboard
+Architecture: aarch64
+Installed-Size: 2988
+Maintainer: @termux
+Version: 4.9.1-3
+Homepage: https://www.gnu.org/software/xboard/
+Depends: glib, libcairo, librsvg, libx11, libxaw, libxmu, libxt, pango
+Description: A graphical chessboard for the X Window System
+Filename: ../../../../releases/download/aarch64-x/xboard_4.9.1-3_aarch64.deb
+Size: 716524
+MD5Sum: 43819af4266b027f7d8fc25fea51755e
+SHA1: 543821adcf8ef5347964cfd6afb10c28b4323476
+SHA256: 9e4716552934e2b19fd0616045d36e82e421a8004499f366fd8b84eb0ecd3aa9
+SHA512: bc76619558b11a571d790b237e812bc7db0ccf9ee9d82188743624cb6de8622d10186bdcccf5cffe7504443288c60243cb0631d6aa64a9ae8dc28d2a27ca2849
+

@@ -12463,38 +12463,6 @@ SHA1: 2dccbf17b639db871804504b5c2bdf7324e4db42
 SHA256: d43d4afecc969b965d797dc684173fcd634a3776ecd571056f044b78f655bca2
 SHA512: 4ac5b00d3f684c4a46117bbc6ef40c73d0e38c01fd628d219ac92280a0d491048d93e6a0847c06beb570a8f345e0f4a296eba1ad8fe58e343f83d5d7f2e572e0
 
-Package: libgd-static
-Architecture: arm
-Installed-Size: 404
-Maintainer: @termux
-Version: 1:2.3.3-7
-Homepage: https://libgd.github.io/
-Depends: libgd (= 1:2.3.3-7)
-Description: Static libraries for libgd
-Filename: ../../../../releases/download/arm-libg/libgd-static_1.2.3.3-7_arm.deb
-Size: 93584
-MD5Sum: b8bf356b30634afd54becbe688831863
-SHA1: 6115979187b51344c338636715c7daebfc05cd9a
-SHA256: e7e5015343b1443c8b00ee23528841c8d8a3fcd88d8d5319cfbd16b2377d777a
-SHA512: 586b4bf77dfc9785ec2cfc78489101e87ca14ace273573049b3233d1a91ed0a08b71f434074e1af49d16f225749bfc9e6fa2a3b5281956b2021630f101541d49
-
-Package: libgd
-Architecture: arm
-Installed-Size: 556
-Maintainer: @termux
-Version: 1:2.3.3-7
-Homepage: https://libgd.github.io/
-Breaks: libgd-dev
-Depends: fontconfig, freetype, libavif, libheif, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, zlib
-Replaces: libgd-dev
-Description: GD is an open source code library for the dynamic creation of images by programmers
-Filename: ../../../../releases/download/arm-libg/libgd_1.2.3.3-7_arm.deb
-Size: 118152
-MD5Sum: 50bce9f518621c1f1c1be42bc3128886
-SHA1: aa7e5101ec3b4e132645b57a8e8366b324c170db
-SHA256: 1950b0c4fde440a7e3e45884816ad3e8462733dece9357b72ca7c25f0d2b969a
-SHA512: 196c7620ec93cbf129ecfa2026bd3e2b149cdac76c124c4b39f7a6a1c86441573fb0ae5bfcac3d711f2b356ce31342096b5f4a14b44db64bb3a6ad68194c9f19
-
 Package: libgedit-gfls
 Architecture: arm
 Installed-Size: 256
@@ -31948,4 +31916,36 @@ MD5Sum: 995c89a9b77f0fa7dcbc1cda4286a061
 SHA1: 8a18556e7d6088b3eb67d4f37896df96b3c784d1
 SHA256: 852ab17ae5a4850712afdfbcc2d4ff9ab5fb9b808d9ecb28fd939dbbc22b9ebd
 SHA512: 1ee9e1b0af9b8323899ca9cf7680bcd737f8fa84a453683d140ce76ae3b7394f1a0ff73e4c81d2cb7acf499f534eb60b509064187b77c2f7f7268ce09c0ec0ea
+
+Package: libgd-static
+Architecture: arm
+Installed-Size: 404
+Maintainer: @termux
+Version: 1:2.3.3-7
+Homepage: https://libgd.github.io/
+Depends: libgd (= 1:2.3.3-7)
+Description: Static libraries for libgd
+Filename: ../../../../releases/download/arm-libg/libgd-static_1.2.3.3-7_arm.deb
+Size: 93532
+MD5Sum: f592c947ee385a48e8d8b7d9229110fd
+SHA1: ef83482ef51813b870f428bc1eea8f263d4be0e2
+SHA256: ecd40a50778b87c24e8712697e24b61f178a64a30b3dff7838518c0d652aafbf
+SHA512: 2ac007b0eff546168152ca003794bc7e99030108c098f11106a5633fb48509f8e180d65bed4672bd594ace9651c62f9030aa93463f37f816e4d1a28ec5c7ac09
+
+Package: libgd
+Architecture: arm
+Installed-Size: 556
+Maintainer: @termux
+Version: 1:2.3.3-7
+Homepage: https://libgd.github.io/
+Breaks: libgd-dev
+Depends: fontconfig, freetype, libavif, libheif, libiconv, libjpeg-turbo, libpng, libtiff, libwebp, zlib
+Replaces: libgd-dev
+Description: GD is an open source code library for the dynamic creation of images by programmers
+Filename: ../../../../releases/download/arm-libg/libgd_1.2.3.3-7_arm.deb
+Size: 117264
+MD5Sum: 98aa0c790d8aa6b1339594bfaf1cb92e
+SHA1: 52e19ec5296a17e421ead2608ca5ea899b317d2e
+SHA256: 7c65361522c872b065eb16df29d4787947301dc8d30eb7efeadf43b81b550988
+SHA512: a91eb27e4ebed3ecad5ac069695421c09c7472515a537545ad2816cea5d8f484628f31b59de8363012f3a2504ef33c5ac775b1475df7eaa1ff4e6838596ceaf4
 
