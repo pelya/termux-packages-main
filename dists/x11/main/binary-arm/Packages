@@ -11918,3 +11918,18 @@ SHA1: 0a34372723dcf19eeacdcf066a90905a0fd0a3d3
 SHA256: 57cd62cd0d1b2738997a36c1208d4ec796928add356a27e1b499c255d194598e
 SHA512: 9183336a895b85f2a0f0386f83d95bb972cd67e0f0fd2a3eec9899f75a98d72c03fc1aa5c1e1fc5f19a409725cf7d7725373974cdbf25ec015fc8b72f94b2fa8
 
+Package: mate-calc
+Architecture: arm
+Installed-Size: 492
+Maintainer: @termux
+Version: 1.28.0-1
+Homepage: https://mate-desktop.org/
+Depends: glib, gtk3, libmpc, libxml2
+Description: This is the MATE calculator application
+Filename: ../../../../releases/download/arm-m/mate-calc_1.28.0-1_arm.deb
+Size: 108756
+MD5Sum: 0eb9826942d27282100a965709a3f096
+SHA1: 6f56a188284dd4a7941f75e6bd780184d56fdad8
+SHA256: 4f227dd76e2b67895f68623a472bae3f608b0db182d26264fade243519220007
+SHA512: c4c0de7f1a7eb978ad618fe870ce48068490677d099047a06851fad248ff8a9c9e949b7a8a751324930d6d87b515fbc22275ca169b5398c443f5835f343db037
+

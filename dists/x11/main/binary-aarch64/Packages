@@ -12087,3 +12087,18 @@ SHA1: e5244996977e331271b711e5e467e0a6fa104c40
 SHA256: 20abcf4f7764033bfc7927407560b061672d0bd41fd8b59e3ff2deb8db7855aa
 SHA512: 5bf145c7ea76802b112cc79b5078b6bf9ad820002b947cf3daa00fa101b3f6a049b34f332438debd665cba730bf255c64194a281782d57b37bc12ae5080abe44
 
+Package: mate-calc
+Architecture: aarch64
+Installed-Size: 636
+Maintainer: @termux
+Version: 1.28.0-1
+Homepage: https://mate-desktop.org/
+Depends: glib, gtk3, libmpc, libxml2
+Description: This is the MATE calculator application
+Filename: ../../../../releases/download/aarch64-m/mate-calc_1.28.0-1_aarch64.deb
+Size: 119132
+MD5Sum: 607eb50a2502ca856c3b927450240ce7
+SHA1: 5c71a2639cdd6c27560df6d5f84edd4ed3da6cc1
+SHA256: 99d33704ff3147b6084cefffb2aff12e2e2ff0ca5cd7290bc5a4aa6d2e00c5b6
+SHA512: c97ce940bdc497f35ec8c1ae11de5e4e7331eac3ec7c165d0becc41d984219926e9267e8dc4994fbf90e654b2bd2e1e3cc18503612f1186a55f874f63df39872
+

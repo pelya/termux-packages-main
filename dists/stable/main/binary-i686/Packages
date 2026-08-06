@@ -33214,3 +33214,19 @@ SHA1: d081083801337ac7b0cd072685589a566028e731
 SHA256: d088552adcfd4ce044858ee5edd8fa9881e4f29862b60f19304e68f59e8e84b9
 SHA512: 3ede6bcfb84b6b53eee3b98c059f1c752db89230b18a2bd62461e486711ee8dcf42d0adbcdfa529154a91fd54acbee0e1b371d33f6c3065224dfbd232c860e18
 
+Package: diff-so-fancy
+Architecture: all
+Installed-Size: 108
+Maintainer: @termux
+Version: 1.4.10
+Homepage: https://github.com/so-fancy/diff-so-fancy
+Depends: perl
+Recommends: git
+Description: Good-lookin' diffs. Actually... nah... The best-lookin' diffs
+Filename: ../../../../releases/download/i686-d/diff-so-fancy_1.4.10_all.deb
+Size: 17576
+MD5Sum: 1302cd8ed37fe315e18e051b64f9946a
+SHA1: 38719ba138223b6c3f7fa54c3872eaad9af35354
+SHA256: 00593c4ccd4aefaebaf018264173e8f6429159da4be3fa254355671e6336911b
+SHA512: 9f6e4f2c51a4a051342e5958ec02ee7aa5fa681d2dc9f1f1c7104bec2b3ba034ce429ab064415094def74b3b0892e7460993d40bd592a0c91d76808f5574444f
+
