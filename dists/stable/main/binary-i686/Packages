@@ -33109,3 +33109,18 @@ SHA1: 199c19a63b45f66cbea837b1a535c135c7dbe060
 SHA256: ea8cfc63a078194199b85a7d7b216f7f1e7f6b3c089e756881fe91104a0845fe
 SHA512: 3159764c207af575e0b512debca8d26033c07eba7192c7b7f8c64b91d1c208641cf0bdb2e15045351d9194f004833a4af0ffcef0d2c358c0da54f7c9e0011642
 
+Package: most
+Architecture: i686
+Installed-Size: 172
+Maintainer: @termux
+Version: 5.2.0-4
+Homepage: http://www.jedsoft.org/most/index.html
+Depends: slang
+Description: A terminal pager similar to 'more' and 'less'
+Filename: ../../../../releases/download/i686-m/most_5.2.0-4_i686.deb
+Size: 50032
+MD5Sum: a71ea7726f972da1b3a84d16cc71906c
+SHA1: 376a16d6f6c74a9f9024622121128b8fcb274881
+SHA256: 57703c8da5200ef43250051b3a0903fc8a993c93cb111f526f5b521ebb438394
+SHA512: f65bf98f03f9665a621c98b500824ca92a22cf4e3cbc643f595bf0bf02344ea871ef56d19b1f983fba20238c3457acf8ea54db694df44e0c97b0a4ba52384773
+

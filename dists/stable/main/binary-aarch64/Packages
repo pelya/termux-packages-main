@@ -33825,3 +33825,33 @@ SHA1: cc4663f37b55ed8140ea30545619b3fb82215fb2
 SHA256: d3d4ecdd506aecb763a6131b602b68cf50940721fb8a841f7dded0792e4d4c43
 SHA512: 7e487b527b6850ed6fc4a3c36cf6b1c7462bb410dd38bc16ec067763a0d3a1044154bd3fc5f15cec90b4c71da8c53d94eddd1b900da885913bd9aec5ca46cd35
 
+Package: most
+Architecture: aarch64
+Installed-Size: 180
+Maintainer: @termux
+Version: 5.2.0-4
+Homepage: http://www.jedsoft.org/most/index.html
+Depends: slang
+Description: A terminal pager similar to 'more' and 'less'
+Filename: ../../../../releases/download/aarch64-m/most_5.2.0-4_aarch64.deb
+Size: 47312
+MD5Sum: 41f05468f932a205a58e894268141a04
+SHA1: 9d514d338bcbcdcf5439c784c2f67201dae5a33e
+SHA256: a3b340494a301e2435aecdfb4e764024870a57599a2a4a5029794ce68ebf3a3e
+SHA512: c0993303c595bc71f2ea9096bb1746c1444f3943ed535059548d90effc7f0d2b6e5a282ebf81028c34c20a87cad446177cdaa88427880734727e6db1641a91ed
+
+Package: openpgl
+Architecture: aarch64
+Installed-Size: 1620
+Maintainer: @termux
+Version: 0.7.1-1
+Homepage: http://www.openpgl.org/
+Depends: libc++, libtbb
+Description: Intel(R) Open Path Guiding Library
+Filename: ../../../../releases/download/aarch64-o/openpgl_0.7.1-1_aarch64.deb
+Size: 244260
+MD5Sum: cfd133e31568cfac1b4a2f959e436ce7
+SHA1: b2fe2c89fde73035a89984a86a8c8f296a185da2
+SHA256: 6d7ae30aa55844faf1fe938db0d467745cda149360b39afc823212766fe70f67
+SHA512: 14a7d113856d31a2b687cfc3d23b47b77696bd37e78f5e69805ef8afdc81f80af3bdbd9ab703f396e050e9ef53a4229c3f752d1b8446fa206aff32b8ecc6a02d
+

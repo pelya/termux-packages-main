@@ -32492,3 +32492,18 @@ SHA1: ef668b017aa0f1cbe857aac23ce3467971e74734
 SHA256: 4840accb12bfc79d9450c4a830252f64fdef54cef81ce76c5021e234be936f70
 SHA512: e73f9a6e7e61a2a75780045efb829f6f3e58bbb7da667321bdb7d68746b9cd24d9a9f0d0e269b50af51ae6df8d2979ae0f7fd82f32d03db3b8ed7d0c79d2aed0
 
+Package: most
+Architecture: arm
+Installed-Size: 156
+Maintainer: @termux
+Version: 5.2.0-4
+Homepage: http://www.jedsoft.org/most/index.html
+Depends: slang
+Description: A terminal pager similar to 'more' and 'less'
+Filename: ../../../../releases/download/arm-m/most_5.2.0-4_arm.deb
+Size: 46392
+MD5Sum: f97caa238b7f1b4b0b82bcef876bdace
+SHA1: b1c8ef936ccdeff89fce0d3801aa4f0ab97c31fc
+SHA256: 98385c76c1f2cb06bc93c72597357e1031ff889c0ce38c9c039ca924b1b23a3f
+SHA512: cf48095a8e8690182e612040d56fac042a41062442f1c6040771979232939d88dc9403d30351269b59cbbb1342a7f4e5e7b72a1285d979691b1b56a63f2189f2
+
