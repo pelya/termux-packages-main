@@ -5281,7 +5281,7 @@ Version: 0.3+git20170516-23
 Homepage: https://www.yoctoproject.org/tools-resources/projects/matchbox
 Depends: libfakekey (= 0.3+git20170516-23)
 Description: Static libraries for libfakekey
-Filename: ../../../../releases/download/i686-libf/libfakekey-static_0.3.git20170516-23_i686.deb
+Filename: ../../../../releases/download/i686-libf/libfakekey-static_0.3+git20170516-23_i686.deb
 Size: 15908
 MD5Sum: a0281a2779d9d28b30def2577599352c
 SHA1: 7284573381d9210e81eadf6eabccd37b79e71bd6
@@ -5296,7 +5296,7 @@ Version: 0.3+git20170516-23
 Homepage: https://www.yoctoproject.org/tools-resources/projects/matchbox
 Depends: libx11, libxtst
 Description: X virtual keyboard library.
-Filename: ../../../../releases/download/i686-libf/libfakekey_0.3.git20170516-23_i686.deb
+Filename: ../../../../releases/download/i686-libf/libfakekey_0.3+git20170516-23_i686.deb
 Size: 4708
 MD5Sum: 4b13b3e91c740b2531bac1b8c4208f33
 SHA1: 9588239bf9f29b9a1e631f8054df908a63f035f1
@@ -6377,7 +6377,7 @@ Version: 2.42.2-3
 Homepage: https://libxmlplusplus.github.io/libxmlplusplus/
 Depends: libc++, libglibmm-2.4, libxml2
 Description: A C++ wrapper for the libxml2 XML parser library
-Filename: ../../../../releases/download/i686-libx/libxml..-2.6_2.42.2-3_i686.deb
+Filename: ../../../../releases/download/i686-libx/libxml++-2.6_2.42.2-3_i686.deb
 Size: 87072
 MD5Sum: 74c4e95a1d7ce4f53f310becebf6e586
 SHA1: 8e8c2d729c2bffcc816cf520d4e80904f13d53fd
@@ -6392,7 +6392,7 @@ Version: 5.6.1
 Homepage: https://libxmlplusplus.github.io/libxmlplusplus/
 Depends: libxml2, libiconv
 Description: A C++ wrapper for the libxml2 XML parser library (version 5.0)
-Filename: ../../../../releases/download/i686-libx/libxml..-5.0_5.6.1_i686.deb
+Filename: ../../../../releases/download/i686-libx/libxml++-5.0_5.6.1_i686.deb
 Size: 88964
 MD5Sum: 41b9a45454be40ffb19209321cfb8e18
 SHA1: 4e6657a9839702a11ab8f584cd98865c1bf000ed
@@ -6557,7 +6557,7 @@ Version: 0.2+git20231024-32
 Homepage: https://www.yoctoproject.org/software-item/matchbox/
 Depends: matchbox-keyboard (= 0.2+git20231024-32)
 Description: Static libraries for matchbox-keyboard
-Filename: ../../../../releases/download/i686-m/matchbox-keyboard-static_0.2.git20231024-32_i686.deb
+Filename: ../../../../releases/download/i686-m/matchbox-keyboard-static_0.2+git20231024-32_i686.deb
 Size: 106992
 MD5Sum: c846f027e532b117d0fc338d398594af
 SHA1: 71fb6dadd34f6b3798bae2fe28dddaabee01ef69
@@ -6573,7 +6573,7 @@ Homepage: https://www.yoctoproject.org/software-item/matchbox/
 Depends: libexpat, libfakekey, libpng, libx11, libxft, libxrender
 Recommends: ttf-dejavu
 Description: An on-screen virtual keyboard.
-Filename: ../../../../releases/download/i686-m/matchbox-keyboard_0.2.git20231024-32_i686.deb
+Filename: ../../../../releases/download/i686-m/matchbox-keyboard_0.2+git20231024-32_i686.deb
 Size: 32248
 MD5Sum: 6de6e50c3a1865d8f99c9155cd0203d9
 SHA1: bd903957eab9cc26e420aa4119c40f64a01ee76a
@@ -11459,21 +11459,6 @@ SHA1: 50391d5b8ee5afbd5d298d0498492df2fe4a1a54
 SHA256: 6b922246d45b8b8bdc5cdea7e93682482875c76db2d7354082b1d92a91e1459d
 SHA512: 4bb1c89c7e8eb4d080993cbf0006480e5d14c09c6eb3cdf2c228c0836967b54f7e6188bb6c4c86bb536da662cd4dddc0844683efdd44652d4f147cd4d1c7f829
 
-Package: 1oom
-Architecture: i686
-Installed-Size: 688
-Maintainer: @termux
-Version: 1.11.8
-Homepage: https://github.com/1oom-fork/1oom
-Depends: libandroid-shmem, libsamplerate, libx11, libxext, readline
-Description: A Master of Orion (1993) game engine recreation
-Filename: ../../../../releases/download/i686-1/1oom_1.11.8_i686.deb
-Size: 230916
-MD5Sum: 694f89b054229b7376a7f2f378dc2378
-SHA1: 40db44e78a46e343315b8883cbcff359778e4a44
-SHA256: f34a2b2a107490d09c9511ff0d5cb740961a83b50f798c25aec3f6725b989db6
-SHA512: f0a50875717769448f047559e3db54c43edd275c64c48cf41fd474162c8a338bb51973a8559d05adcf5e36ef30110b4bcf72ab398c6dab6c1a2fdc96989ed061
-
 Package: blinken
 Architecture: i686
 Installed-Size: 3160
@@ -11507,4 +11492,19 @@ MD5Sum: dbcce8c047550c833c2ab86bdba0387f
 SHA1: f78bc42b21068dd6072df11993aac6f38d4041a9
 SHA256: ddb64f12ddf26fe681bacfd667a66605b6d0e189ed5805fc71dbbd45bd47d248
 SHA512: 5fb410c17d78ab0ddb8f22fedc99aef638ea173644c2ba29590e9ac94f29b30098a0f9ad3538a44b8d38e2a957e3b0873aa05772a1ca325966c507d60c5d4ef2
+
+Package: 1oom
+Architecture: i686
+Installed-Size: 688
+Maintainer: @termux
+Version: 1.11.8
+Homepage: https://github.com/1oom-fork/1oom
+Depends: libandroid-shmem, libsamplerate, libx11, libxext, readline
+Description: A Master of Orion (1993) game engine recreation
+Filename: ../../../../releases/download/i686-1/1oom_1.11.8_i686.deb
+Size: 230916
+MD5Sum: 694f89b054229b7376a7f2f378dc2378
+SHA1: 40db44e78a46e343315b8883cbcff359778e4a44
+SHA256: f34a2b2a107490d09c9511ff0d5cb740961a83b50f798c25aec3f6725b989db6
+SHA512: f0a50875717769448f047559e3db54c43edd275c64c48cf41fd474162c8a338bb51973a8559d05adcf5e36ef30110b4bcf72ab398c6dab6c1a2fdc96989ed061
 

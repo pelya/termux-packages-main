@@ -5450,7 +5450,7 @@ Version: 0.3+git20170516-23
 Homepage: https://www.yoctoproject.org/tools-resources/projects/matchbox
 Depends: libfakekey (= 0.3+git20170516-23)
 Description: Static libraries for libfakekey
-Filename: ../../../../releases/download/aarch64-libf/libfakekey-static_0.3.git20170516-23_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libf/libfakekey-static_0.3+git20170516-23_aarch64.deb
 Size: 17548
 MD5Sum: d07f434c70b4d378a5048c977c001390
 SHA1: f06645ef51d9bca73fa60538689ea67ba9cb9965
@@ -5465,7 +5465,7 @@ Version: 0.3+git20170516-23
 Homepage: https://www.yoctoproject.org/tools-resources/projects/matchbox
 Depends: libx11, libxtst
 Description: X virtual keyboard library.
-Filename: ../../../../releases/download/aarch64-libf/libfakekey_0.3.git20170516-23_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libf/libfakekey_0.3+git20170516-23_aarch64.deb
 Size: 4752
 MD5Sum: 7ab017964c25cefd2240f27b9b18bf24
 SHA1: 1633799164438e21cfeb38837000a1a5b3ff13bd
@@ -6546,7 +6546,7 @@ Version: 2.42.2-3
 Homepage: https://libxmlplusplus.github.io/libxmlplusplus/
 Depends: libc++, libglibmm-2.4, libxml2
 Description: A C++ wrapper for the libxml2 XML parser library
-Filename: ../../../../releases/download/aarch64-libx/libxml..-2.6_2.42.2-3_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libx/libxml++-2.6_2.42.2-3_aarch64.deb
 Size: 85492
 MD5Sum: a7bc6331953583fefc09a085b9150656
 SHA1: 35b164d8aab26deba88deeced58e70310ee57e8c
@@ -6561,7 +6561,7 @@ Version: 5.6.1
 Homepage: https://libxmlplusplus.github.io/libxmlplusplus/
 Depends: libxml2, libiconv
 Description: A C++ wrapper for the libxml2 XML parser library (version 5.0)
-Filename: ../../../../releases/download/aarch64-libx/libxml..-5.0_5.6.1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libx/libxml++-5.0_5.6.1_aarch64.deb
 Size: 86616
 MD5Sum: e5b79f9f6a176d0f541047493da446ac
 SHA1: b47677f27b5a465dca4d01f6bdb15fe8ebb5ff04
@@ -6726,7 +6726,7 @@ Version: 0.2+git20231024-32
 Homepage: https://www.yoctoproject.org/software-item/matchbox/
 Depends: matchbox-keyboard (= 0.2+git20231024-32)
 Description: Static libraries for matchbox-keyboard
-Filename: ../../../../releases/download/aarch64-m/matchbox-keyboard-static_0.2.git20231024-32_aarch64.deb
+Filename: ../../../../releases/download/aarch64-m/matchbox-keyboard-static_0.2+git20231024-32_aarch64.deb
 Size: 119584
 MD5Sum: 2a928a63214b763e2d1471b08b44d2e5
 SHA1: 4e264c73a51477581dfb918157a84a19938dd2b2
@@ -6742,7 +6742,7 @@ Homepage: https://www.yoctoproject.org/software-item/matchbox/
 Depends: libexpat, libfakekey, libpng, libx11, libxft, libxrender
 Recommends: ttf-dejavu
 Description: An on-screen virtual keyboard.
-Filename: ../../../../releases/download/aarch64-m/matchbox-keyboard_0.2.git20231024-32_aarch64.deb
+Filename: ../../../../releases/download/aarch64-m/matchbox-keyboard_0.2+git20231024-32_aarch64.deb
 Size: 31116
 MD5Sum: e30a38faea03f0cdc5f7ac5a47006d14
 SHA1: 783fb0fe25a6582d0aa8b8b1f96a2a6fe1fe4724
@@ -11749,21 +11749,6 @@ SHA1: d21a0392c1e551d129d642eb03345da17d3bf1f2
 SHA256: 053828546bca1cb2e5d09d2265d84026058c894c6494aba54610a74e7862bb63
 SHA512: 89f5d6af38f8bd9a07553b39c364520b30964c49ea3dea745d3acaf5c7cf5185adf926bf281beed0af87bbd9d2fea5fa84bbe70969ab4e123f40ea11ab580053
 
-Package: 1oom
-Architecture: aarch64
-Installed-Size: 780
-Maintainer: @termux
-Version: 1.11.8
-Homepage: https://github.com/1oom-fork/1oom
-Depends: libandroid-shmem, libsamplerate, libx11, libxext, readline
-Description: A Master of Orion (1993) game engine recreation
-Filename: ../../../../releases/download/aarch64-1/1oom_1.11.8_aarch64.deb
-Size: 229792
-MD5Sum: fb6bd3c5f63588e528ee0feae1ea6d47
-SHA1: 020143cabd759ab76f2a275b6e73ba0e842275dd
-SHA256: d463b5acec2b58848273bdcb7f8646c4cf5de41a618c23f15b6e0e0bfc24a1d6
-SHA512: cc9dd6328247a2c07a86c68f18f49961ec7a632c1ed9aadd56afa55d4d89f2d4e95aeeccc1c0130acfe1b05f4bc87b16272be0f6ab0b46a3b4a14755b4fb0ed9
-
 Package: blinken
 Architecture: aarch64
 Installed-Size: 3176
@@ -11797,4 +11782,19 @@ MD5Sum: dbcce8c047550c833c2ab86bdba0387f
 SHA1: f78bc42b21068dd6072df11993aac6f38d4041a9
 SHA256: ddb64f12ddf26fe681bacfd667a66605b6d0e189ed5805fc71dbbd45bd47d248
 SHA512: 5fb410c17d78ab0ddb8f22fedc99aef638ea173644c2ba29590e9ac94f29b30098a0f9ad3538a44b8d38e2a957e3b0873aa05772a1ca325966c507d60c5d4ef2
+
+Package: 1oom
+Architecture: aarch64
+Installed-Size: 780
+Maintainer: @termux
+Version: 1.11.8
+Homepage: https://github.com/1oom-fork/1oom
+Depends: libandroid-shmem, libsamplerate, libx11, libxext, readline
+Description: A Master of Orion (1993) game engine recreation
+Filename: ../../../../releases/download/aarch64-1/1oom_1.11.8_aarch64.deb
+Size: 229792
+MD5Sum: fb6bd3c5f63588e528ee0feae1ea6d47
+SHA1: 020143cabd759ab76f2a275b6e73ba0e842275dd
+SHA256: d463b5acec2b58848273bdcb7f8646c4cf5de41a618c23f15b6e0e0bfc24a1d6
+SHA512: cc9dd6328247a2c07a86c68f18f49961ec7a632c1ed9aadd56afa55d4d89f2d4e95aeeccc1c0130acfe1b05f4bc87b16272be0f6ab0b46a3b4a14755b4fb0ed9
 

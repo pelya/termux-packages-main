@@ -2363,7 +2363,7 @@ Version: 0.0.0+g3c32e7d
 Homepage: https://github.com/yuri-xyz/chroma.git
 Depends: vulkan-icd, alsa-lib
 Description: Shader-based audio visualizer for the terminal
-Filename: ../../../../releases/download/arm-c/chroma-visualizer_0.0.0.g3c32e7d_arm.deb
+Filename: ../../../../releases/download/arm-c/chroma-visualizer_0.0.0+g3c32e7d_arm.deb
 Size: 1890888
 MD5Sum: 56e67a65c04b4855890d9bfbfc6e9cbc
 SHA1: 43c4c2fc77fb9a176e87b85bd30bce8a6ee5e148
@@ -4586,7 +4586,7 @@ Version: 1.2.2RC+really1.2.2
 Homepage: https://gitlab.com/ecodis/exhale
 Depends: libc++
 Description: Open source xHE-AAC encoder
-Filename: ../../../../releases/download/arm-e/exhale_1.2.2RC.really1.2.2_arm.deb
+Filename: ../../../../releases/download/arm-e/exhale_1.2.2RC+really1.2.2_arm.deb
 Size: 109812
 MD5Sum: ce3bc2a115786ffb50f2471e33481ba2
 SHA1: f50ed7023da5b3ed8aaa7af7999da958e0ea05a9
@@ -4664,7 +4664,7 @@ Version: 1.6.5-3
 Homepage: https://bitbucket.org/dtsarkov/factplusplus
 Depends: libc++
 Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
-Filename: ../../../../releases/download/arm-f/fact.._1.6.5-3_arm.deb
+Filename: ../../../../releases/download/arm-f/fact++_1.6.5-3_arm.deb
 Size: 285276
 MD5Sum: 7118f8130acb61962039e5bfcbb74a9b
 SHA1: ded5bdb55bfbcbb85697624b76efac9c59abc303
@@ -9591,7 +9591,7 @@ Version: 0.9.2+p20251219-2
 Homepage: https://github.com/lgi-devs/lgi
 Depends: glib, gobject-introspection, libcairo, libffi, lua54
 Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
-Filename: ../../../../releases/download/arm-l/lua-lgi_0.9.2.p20251219-2_arm.deb
+Filename: ../../../../releases/download/arm-l/lua-lgi_0.9.2+p20251219-2_arm.deb
 Size: 70168
 MD5Sum: f3d331c0d67b167d8ea04ea96a6110c1
 SHA1: a49c64e67cbfe1b3d8fcca21466351b9735ff6a2
@@ -9836,7 +9836,7 @@ Version: 1:2.1.1783773675+g3c4f9fe
 Homepage: https://luajit.org/
 Depends: luajit (= 1:2.1.1783773675+g3c4f9fe)
 Description: Static libraries for luajit
-Filename: ../../../../releases/download/arm-l/luajit-static_1.2.1.1783773675.g3c4f9fe_arm.deb
+Filename: ../../../../releases/download/arm-l/luajit-static_1.2.1.1783773675+g3c4f9fe_arm.deb
 Size: 196536
 MD5Sum: 9e1f76a6c98bcc4030f7140e66d5df4a
 SHA1: 11099bdf29a33d6f504bade62738ca5b9cd15d76
@@ -9852,7 +9852,7 @@ Homepage: https://luajit.org/
 Breaks: libluajit-dev, libluajit
 Replaces: libluajit-dev, libluajit
 Description: Just-In-Time Compiler for Lua
-Filename: ../../../../releases/download/arm-l/luajit_1.2.1.1783773675.g3c4f9fe_arm.deb
+Filename: ../../../../releases/download/arm-l/luajit_1.2.1.1783773675+g3c4f9fe_arm.deb
 Size: 246136
 MD5Sum: afa0cf2482e774ea5556a1bdf258730a
 SHA1: 85e63648dd13eea35c74e380960a168b5aa1b247
@@ -10939,7 +10939,7 @@ Version: 5.34.2
 Homepage: https://github.com/Martchus/cpp-utilities
 Depends: boost, libc++, libiconv
 Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
-Filename: ../../../../releases/download/arm-libc/libc..utilities_5.34.2_arm.deb
+Filename: ../../../../releases/download/arm-libc/libc++utilities_5.34.2_arm.deb
 Size: 145852
 MD5Sum: 696e48a56ad7751e91603af27c7c5c05
 SHA1: f2c537cc8489339c5a434adf2dbc4caf2c8773d1
@@ -16692,7 +16692,7 @@ Version: 2.12.1-1
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/arm-libs/libsigc..-2.0_2.12.1-1_arm.deb
+Filename: ../../../../releases/download/arm-libs/libsigc++-2.0_2.12.1-1_arm.deb
 Size: 62316
 MD5Sum: 35103f15d82ec17096a71d1cb21c8536
 SHA1: 0822df506b490d66d1ebf1e1998d1809e67e719c
@@ -16707,7 +16707,7 @@ Version: 3.6.0-2
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/arm-libs/libsigc..-3.0_3.6.0-2_arm.deb
+Filename: ../../../../releases/download/arm-libs/libsigc++-3.0_3.6.0-2_arm.deb
 Size: 44720
 MD5Sum: b8d813749271238f9460180f56027665
 SHA1: 9b2ae8dd45c183b7bc167dda050dfb2447e25b80
@@ -21132,7 +21132,7 @@ Breaks: neovim
 Depends: libandroid-support, libiconv, libmsgpack, libunibilium, libuv, libvterm (>= 1:0.3-0), lua51-lpeg, luajit, luv, tree-sitter, tree-sitter-parsers, utf8proc
 Conflicts: neovim
 Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
-Filename: ../../../../releases/download/arm-n/neovim-nightly_0.13.0.dev-980.g3a7989f4f4-0_arm.deb
+Filename: ../../../../releases/download/arm-n/neovim-nightly_0.13.0.dev-980+g3a7989f4f4-0_arm.deb
 Size: 6012552
 MD5Sum: 42f1e98f624036f5fd21528e58c9b081
 SHA1: 412a1c10aa4005857e78f81edafcfe658082b16a
@@ -26833,7 +26833,7 @@ Maintainer: @termux
 Version: 0.0.0+g31c1ad37
 Homepage: https://github.com/nothings/stb
 Description: Single-file public domain (or MIT licensed) libraries for C/C++
-Filename: ../../../../releases/download/arm-s/stb_0.0.0.g31c1ad37_arm.deb
+Filename: ../../../../releases/download/arm-s/stb_0.0.0+g31c1ad37_arm.deb
 Size: 347652
 MD5Sum: ce258ad15902c991d275b5ae0fd15fcf
 SHA1: 3721af7f31abf0c6c7c08f81612afa143a9f5063
@@ -27969,7 +27969,7 @@ Maintainer: @termux
 Version: 2.15.0-2
 Homepage: https://timidity.sourceforge.net/
 Description: MIDI-to-WAVE converter and player
-Filename: ../../../../releases/download/arm-t/timidity.._2.15.0-2_arm.deb
+Filename: ../../../../releases/download/arm-t/timidity++_2.15.0-2_arm.deb
 Size: 322924
 MD5Sum: 78cd57e3f0ad9d872c75659b1658d789
 SHA1: 048b391e87637bacca3c0bc8ed84aea5dd1a0420
@@ -27998,7 +27998,7 @@ Version: 2.02.61
 Homepage: https://tintin.mudhalla.net
 Depends: pcre, libgnutls, zlib
 Description: Classic text-based MUD client
-Filename: ../../../../releases/download/arm-t/tintin.._2.02.61_arm.deb
+Filename: ../../../../releases/download/arm-t/tintin++_2.02.61_arm.deb
 Size: 1365776
 MD5Sum: 194b26a2b6e720f67edfd1785f674e56
 SHA1: 2acd5de24ff8aceb2dc9bbecf1c1fbd4cd4dc248
@@ -31306,20 +31306,6 @@ SHA1: 58fa31e9aadfc4e052a71238fa83976e6924f0c5
 SHA256: 78575b30cbacf531b52717f76c6dcddfb13d1d75e51718ae87fc26e3d17b486e
 SHA512: f34b04c8ba284b9e16730c325447694e9a89f19958c34fb71a6249d9cb5ae188f56b97924bbd5d3f8f1a1847bda5934c952727bd6a20547e353ca3739c786247
 
-Package: 0verkill
-Architecture: arm
-Installed-Size: 3040
-Maintainer: @termux
-Version: 1:0.16-1
-Homepage: https://github.com/hackndev/0verkill
-Description: Bloody 2D action deathmatch-like game in ASCII-ART
-Filename: ../../../../releases/download/arm-0/0verkill_1.0.16-1_arm.deb
-Size: 156676
-MD5Sum: 4eb4f4b1e612c46cb464e8d2b2644d70
-SHA1: 0d84a746efd18dce1ec7c718567ed1b6c1a90355
-SHA256: c613cb10b23b05fa03d9ca548c628065037cc2ebf93847937b65b9716fd19637
-SHA512: 0ad6431ffb9975f60068abf27031a001a1ff686c69795478b2e740b219e3c31c0688363be8e5f070a888a867853a9f20ccf019b72d9e0947692f06ec0d03e8ec
-
 Package: libc++
 Architecture: arm
 Installed-Size: 984
@@ -31328,7 +31314,7 @@ Version: 29
 Homepage: https://libcxx.llvm.org/
 Essential: yes
 Description: C++ Standard Library
-Filename: ../../../../releases/download/arm-libc/libc.._29_arm.deb
+Filename: ../../../../releases/download/arm-libc/libc++_29_arm.deb
 Size: 318200
 MD5Sum: e7fbbe9613c1c1aa1163984dd152480d
 SHA1: c688726107b508134c90ba3eb676f3697d7a611a
@@ -31343,7 +31329,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Static libraries for libnettle
-Filename: ../../../../releases/download/arm-libn/libnettle-static_4.0.really3.10.2_arm.deb
+Filename: ../../../../releases/download/arm-libn/libnettle-static_4.0+really3.10.2_arm.deb
 Size: 622100
 MD5Sum: 253a0f05f077c1298571bf47c8780ff5
 SHA1: 528b0291fe4287657bdd10a1a8913d263fc31aaa
@@ -31360,7 +31346,7 @@ Breaks: libnettle-dev
 Depends: libgmp
 Replaces: libnettle-dev
 Description: Cryptographic library that is designed to fit easily in more or less any context
-Filename: ../../../../releases/download/arm-libn/libnettle_4.0.really3.10.2_arm.deb
+Filename: ../../../../releases/download/arm-libn/libnettle_4.0+really3.10.2_arm.deb
 Size: 399088
 MD5Sum: 1d37bc5d0f0a9507d7bd99664cedc31d
 SHA1: e506c6807f8fd422e53fb3de3ab6a2b4cb2ceb41
@@ -31438,7 +31424,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for ncurses
-Filename: ../../../../releases/download/arm-n/ncurses-static_6.6.20260307.really6.5.20250830_arm.deb
+Filename: ../../../../releases/download/arm-n/ncurses-static_6.6.20260307+really6.5.20250830_arm.deb
 Size: 139656
 MD5Sum: 31ab8ab63b9e2c42db378f06172824ef
 SHA1: 287afff84e40485d48a4db9b5bba4ad8a4b69c87
@@ -31453,7 +31439,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/arm-n/ncurses-ui-libs-static_6.6.20260307.really6.5.20250830_arm.deb
+Filename: ../../../../releases/download/arm-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_arm.deb
 Size: 34488
 MD5Sum: b7f4c3b2e80586e91d211b53ca9a853f
 SHA1: 7c4f43c892a0436fabd7f953a1bc21c42412bfec
@@ -31470,7 +31456,7 @@ Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Breaks: ncurses (<< 6.4)
 Replaces: ncurses (<< 6.4)
 Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/arm-n/ncurses-ui-libs_6.6.20260307.really6.5.20250830_arm.deb
+Filename: ../../../../releases/download/arm-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_arm.deb
 Size: 28388
 MD5Sum: e642c6f987013310154f2e1cd4f1341d
 SHA1: 011be4d4690176b494b01746266163690feb402b
@@ -31485,7 +31471,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Tools for working with terminals
-Filename: ../../../../releases/download/arm-n/ncurses-utils_6.6.20260307.really6.5.20250830_arm.deb
+Filename: ../../../../releases/download/arm-n/ncurses-utils_6.6.20260307+really6.5.20250830_arm.deb
 Size: 84352
 MD5Sum: accbf2d1c5edf1f65bef8b9fb5b76c36
 SHA1: cc69ee6b27182315805364bd978b7e668a35415d
@@ -31501,7 +31487,7 @@ Homepage: https://invisible-island.net/ncurses/
 Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/arm-n/ncurses_6.6.20260307.really6.5.20250830_arm.deb
+Filename: ../../../../releases/download/arm-n/ncurses_6.6.20260307+really6.5.20250830_arm.deb
 Size: 544928
 MD5Sum: 2d6c988ba8642feca18af1db3c28569a
 SHA1: 257df14eeba13cbd3b6dbffb9f91999c02efbc0d
@@ -31516,7 +31502,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Low level cryptographic tools
-Filename: ../../../../releases/download/arm-n/nettle_4.0.really3.10.2_arm.deb
+Filename: ../../../../releases/download/arm-n/nettle_4.0+really3.10.2_arm.deb
 Size: 16128
 MD5Sum: e9af692ef41893f10967f2e9c0fbdf89
 SHA1: 1da9126fd6a9ac295887390be5b4ba310220e362
@@ -31536,7 +31522,7 @@ Conflicts: procps (<< 3.3.15-2)
 Recommends: ed, dos2unix, inetutils, net-tools, patch, unzip
 Suggests: termux-api
 Description: Basic system tools for Termux
-Filename: ../../../../releases/download/arm-t/termux-tools_1.46.0.really1.45.0-1_arm.deb
+Filename: ../../../../releases/download/arm-t/termux-tools_1.46.0+really1.45.0-1_arm.deb
 Size: 33376
 MD5Sum: 61df6b7702f7f6d93ec937700030f25e
 SHA1: bf530d77b160d63762ffd07f39a5ffcde76963eb
@@ -31557,4 +31543,18 @@ MD5Sum: c445e257c68b4d85b5905f001ec0602e
 SHA1: 3c5d2a014fdcf9c50f336de58c05c6757d624f96
 SHA256: 3bbff7866a595a5a5cd4fa72a1bda444c58bc98e6b9c83cbbad314c600bf43d2
 SHA512: 7ea007396bf9f19004bfe3decb6c24c7dfc827f0a61594ab4dcbaa2eb54411dccb227bd1b080b1697759a9f58abba414997c0d4fcb545d6409524c3bb83b8350
+
+Package: 0verkill
+Architecture: arm
+Installed-Size: 3040
+Maintainer: @termux
+Version: 1:0.16-1
+Homepage: https://github.com/hackndev/0verkill
+Description: Bloody 2D action deathmatch-like game in ASCII-ART
+Filename: ../../../../releases/download/arm-0/0verkill_1.0.16-1_arm.deb
+Size: 156676
+MD5Sum: 4eb4f4b1e612c46cb464e8d2b2644d70
+SHA1: 0d84a746efd18dce1ec7c718567ed1b6c1a90355
+SHA256: c613cb10b23b05fa03d9ca548c628065037cc2ebf93847937b65b9716fd19637
+SHA512: 0ad6431ffb9975f60068abf27031a001a1ff686c69795478b2e740b219e3c31c0688363be8e5f070a888a867853a9f20ccf019b72d9e0947692f06ec0d03e8ec
 

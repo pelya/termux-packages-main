@@ -5405,7 +5405,7 @@ Version: 0.3+git20170516-23
 Homepage: https://www.yoctoproject.org/tools-resources/projects/matchbox
 Depends: libfakekey (= 0.3+git20170516-23)
 Description: Static libraries for libfakekey
-Filename: ../../../../releases/download/arm-libf/libfakekey-static_0.3.git20170516-23_arm.deb
+Filename: ../../../../releases/download/arm-libf/libfakekey-static_0.3+git20170516-23_arm.deb
 Size: 15700
 MD5Sum: ae1d51e7c49c91c0299d7cbc875f0403
 SHA1: cb865bdf674950264d591d84a70b897cc9db6bf4
@@ -5420,7 +5420,7 @@ Version: 0.3+git20170516-23
 Homepage: https://www.yoctoproject.org/tools-resources/projects/matchbox
 Depends: libx11, libxtst
 Description: X virtual keyboard library.
-Filename: ../../../../releases/download/arm-libf/libfakekey_0.3.git20170516-23_arm.deb
+Filename: ../../../../releases/download/arm-libf/libfakekey_0.3+git20170516-23_arm.deb
 Size: 4540
 MD5Sum: f8364a3470fb3521f997690e8d9990e7
 SHA1: 63b735c5d01cf0ba91ed0eec3a48013eb45d1a95
@@ -6501,7 +6501,7 @@ Version: 2.42.2-3
 Homepage: https://libxmlplusplus.github.io/libxmlplusplus/
 Depends: libc++, libglibmm-2.4, libxml2
 Description: A C++ wrapper for the libxml2 XML parser library
-Filename: ../../../../releases/download/arm-libx/libxml..-2.6_2.42.2-3_arm.deb
+Filename: ../../../../releases/download/arm-libx/libxml++-2.6_2.42.2-3_arm.deb
 Size: 68428
 MD5Sum: 91ac618a09b5c8a6abf3a321305382f5
 SHA1: 1f801b326320f8ce9a4d079c1a7e67f2fc4af6f2
@@ -6516,7 +6516,7 @@ Version: 5.6.1
 Homepage: https://libxmlplusplus.github.io/libxmlplusplus/
 Depends: libxml2, libiconv
 Description: A C++ wrapper for the libxml2 XML parser library (version 5.0)
-Filename: ../../../../releases/download/arm-libx/libxml..-5.0_5.6.1_arm.deb
+Filename: ../../../../releases/download/arm-libx/libxml++-5.0_5.6.1_arm.deb
 Size: 69460
 MD5Sum: 8ece09f694331c8fb3e09ebbd2bd021c
 SHA1: edb9dc8841d6009beb74acb5bc24a81bbd167f0d
@@ -6681,7 +6681,7 @@ Version: 0.2+git20231024-32
 Homepage: https://www.yoctoproject.org/software-item/matchbox/
 Depends: matchbox-keyboard (= 0.2+git20231024-32)
 Description: Static libraries for matchbox-keyboard
-Filename: ../../../../releases/download/arm-m/matchbox-keyboard-static_0.2.git20231024-32_arm.deb
+Filename: ../../../../releases/download/arm-m/matchbox-keyboard-static_0.2+git20231024-32_arm.deb
 Size: 101152
 MD5Sum: 0b92f4089b27a55c546cfb18e0bf57fc
 SHA1: 07446868c8d10d1597d6392b5c01bd07e72c62d3
@@ -6697,7 +6697,7 @@ Homepage: https://www.yoctoproject.org/software-item/matchbox/
 Depends: libexpat, libfakekey, libpng, libx11, libxft, libxrender
 Recommends: ttf-dejavu
 Description: An on-screen virtual keyboard.
-Filename: ../../../../releases/download/arm-m/matchbox-keyboard_0.2.git20231024-32_arm.deb
+Filename: ../../../../releases/download/arm-m/matchbox-keyboard_0.2+git20231024-32_arm.deb
 Size: 28196
 MD5Sum: 9d1800ebb467e0d558feb910e9f2aab9
 SHA1: 190848230e781885af2049048414314d27215a15
@@ -11580,21 +11580,6 @@ SHA1: e25e60e5512e2db2c7a7f0ca881942f670676b96
 SHA256: 117436a1b9906a877a0d806c658ce5f9fbb1de4cd672fd0f46a88d8e1bad15a1
 SHA512: 0df86c8fc74859a4b959ec82cc7d6f5d3a49e77bf59007e9947eeed290d65a57278c6cbad52849a93b169479d42f8ea2a9c8cbf10093231e8724579fee23100d
 
-Package: 1oom
-Architecture: arm
-Installed-Size: 516
-Maintainer: @termux
-Version: 1.11.8
-Homepage: https://github.com/1oom-fork/1oom
-Depends: libandroid-shmem, libsamplerate, libx11, libxext, readline
-Description: A Master of Orion (1993) game engine recreation
-Filename: ../../../../releases/download/arm-1/1oom_1.11.8_arm.deb
-Size: 206048
-MD5Sum: 43a2719027fe112a885335821aeef69d
-SHA1: 0610bd08a44bb85618e6c84c8d4bada138cc1995
-SHA256: b89a960b3670e6bb333cb5635085af6185822fec6c87856c9db07160fb3e9532
-SHA512: 7ec926836fabfab3b703f50ac0c64f5d84c8705f23665a5e5312c88622072f0ae47183c3d2536330da1dd9785292d228da7d23d61ed6562e8ba03b8f009ab59d
-
 Package: blinken
 Architecture: arm
 Installed-Size: 3136
@@ -11628,4 +11613,19 @@ MD5Sum: dbcce8c047550c833c2ab86bdba0387f
 SHA1: f78bc42b21068dd6072df11993aac6f38d4041a9
 SHA256: ddb64f12ddf26fe681bacfd667a66605b6d0e189ed5805fc71dbbd45bd47d248
 SHA512: 5fb410c17d78ab0ddb8f22fedc99aef638ea173644c2ba29590e9ac94f29b30098a0f9ad3538a44b8d38e2a957e3b0873aa05772a1ca325966c507d60c5d4ef2
+
+Package: 1oom
+Architecture: arm
+Installed-Size: 516
+Maintainer: @termux
+Version: 1.11.8
+Homepage: https://github.com/1oom-fork/1oom
+Depends: libandroid-shmem, libsamplerate, libx11, libxext, readline
+Description: A Master of Orion (1993) game engine recreation
+Filename: ../../../../releases/download/arm-1/1oom_1.11.8_arm.deb
+Size: 206048
+MD5Sum: 43a2719027fe112a885335821aeef69d
+SHA1: 0610bd08a44bb85618e6c84c8d4bada138cc1995
+SHA256: b89a960b3670e6bb333cb5635085af6185822fec6c87856c9db07160fb3e9532
+SHA512: 7ec926836fabfab3b703f50ac0c64f5d84c8705f23665a5e5312c88622072f0ae47183c3d2536330da1dd9785292d228da7d23d61ed6562e8ba03b8f009ab59d
 

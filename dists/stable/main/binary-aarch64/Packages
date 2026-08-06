@@ -2485,7 +2485,7 @@ Version: 0.0.0+g3c32e7d
 Homepage: https://github.com/yuri-xyz/chroma.git
 Depends: vulkan-icd, alsa-lib
 Description: Shader-based audio visualizer for the terminal
-Filename: ../../../../releases/download/aarch64-c/chroma-visualizer_0.0.0.g3c32e7d_aarch64.deb
+Filename: ../../../../releases/download/aarch64-c/chroma-visualizer_0.0.0+g3c32e7d_aarch64.deb
 Size: 1989828
 MD5Sum: bcd9b718e9ea33751dfde63b6ebbb8fe
 SHA1: e38ef731bee8270c9cf14a668f76d656fb86213c
@@ -5085,7 +5085,7 @@ Version: 1.2.2RC+really1.2.2
 Homepage: https://gitlab.com/ecodis/exhale
 Depends: libc++
 Description: Open source xHE-AAC encoder
-Filename: ../../../../releases/download/aarch64-e/exhale_1.2.2RC.really1.2.2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-e/exhale_1.2.2RC+really1.2.2_aarch64.deb
 Size: 123568
 MD5Sum: 764238b62551cb74cfa78e99bb0f4003
 SHA1: 05019409baa2045bb1744a750bf4f6d960016dbc
@@ -5163,7 +5163,7 @@ Version: 1.6.5-3
 Homepage: https://bitbucket.org/dtsarkov/factplusplus
 Depends: libc++
 Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
-Filename: ../../../../releases/download/aarch64-f/fact.._1.6.5-3_aarch64.deb
+Filename: ../../../../releases/download/aarch64-f/fact++_1.6.5-3_aarch64.deb
 Size: 316360
 MD5Sum: 1498d2cb9e2abc737bea1dd8fff0a4ad
 SHA1: 17c845fc153af785957fca752ecd89e3e77db077
@@ -10239,7 +10239,7 @@ Version: 0.9.2+p20251219-2
 Homepage: https://github.com/lgi-devs/lgi
 Depends: glib, gobject-introspection, libcairo, libffi, lua54
 Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
-Filename: ../../../../releases/download/aarch64-l/lua-lgi_0.9.2.p20251219-2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-l/lua-lgi_0.9.2+p20251219-2_aarch64.deb
 Size: 74028
 MD5Sum: fe5242db5fad3934978aca52e5a70f97
 SHA1: 728b97c54c442a691265c058cda1ffd3d7568922
@@ -10484,7 +10484,7 @@ Version: 1:2.1.1783773675+g3c4f9fe
 Homepage: https://luajit.org/
 Depends: luajit (= 1:2.1.1783773675+g3c4f9fe)
 Description: Static libraries for luajit
-Filename: ../../../../releases/download/aarch64-l/luajit-static_1.2.1.1783773675.g3c4f9fe_aarch64.deb
+Filename: ../../../../releases/download/aarch64-l/luajit-static_1.2.1.1783773675+g3c4f9fe_aarch64.deb
 Size: 221368
 MD5Sum: ad757bb48cea1ef10427feb2f5b435ef
 SHA1: 312443e5caccba3fc22c006e6311064b6f33271c
@@ -10500,7 +10500,7 @@ Homepage: https://luajit.org/
 Breaks: libluajit-dev, libluajit
 Replaces: libluajit-dev, libluajit
 Description: Just-In-Time Compiler for Lua
-Filename: ../../../../releases/download/aarch64-l/luajit_1.2.1.1783773675.g3c4f9fe_aarch64.deb
+Filename: ../../../../releases/download/aarch64-l/luajit_1.2.1.1783773675+g3c4f9fe_aarch64.deb
 Size: 289464
 MD5Sum: 9960bcdef4a3934a6e036cc978e5c05b
 SHA1: f71e40c4897a96b2d90ef98a69fd78633a6ee5cf
@@ -11602,7 +11602,7 @@ Version: 5.34.2
 Homepage: https://github.com/Martchus/cpp-utilities
 Depends: boost, libc++, libiconv
 Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
-Filename: ../../../../releases/download/aarch64-libc/libc..utilities_5.34.2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libc/libc++utilities_5.34.2_aarch64.deb
 Size: 158448
 MD5Sum: 375a78116e5cac66b492c510da2d2f00
 SHA1: b0a684a5f6569bd5d9c6945e3551cfb51a47e2bc
@@ -17490,7 +17490,7 @@ Version: 2.12.1-1
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/aarch64-libs/libsigc..-2.0_2.12.1-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libs/libsigc++-2.0_2.12.1-1_aarch64.deb
 Size: 73388
 MD5Sum: 066ba5e4d4fbfae028c36ad77780c819
 SHA1: 4a9dfffbf22341ea85b9bcc34b173ba88d641a58
@@ -17505,7 +17505,7 @@ Version: 3.6.0-2
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/aarch64-libs/libsigc..-3.0_3.6.0-2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libs/libsigc++-3.0_3.6.0-2_aarch64.deb
 Size: 56668
 MD5Sum: 80e53e97a45574b0d6d13b3e0ebc7e04
 SHA1: c496e3e2ecb69f67087aabf22e773d887ed71347
@@ -22006,7 +22006,7 @@ Breaks: neovim
 Depends: libandroid-support, libiconv, libmsgpack, libunibilium, libuv, libvterm (>= 1:0.3-0), lua51-lpeg, luajit, luv, tree-sitter, tree-sitter-parsers, utf8proc
 Conflicts: neovim
 Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
-Filename: ../../../../releases/download/aarch64-n/neovim-nightly_0.13.0.dev-980.g3a7989f4f4-0_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/neovim-nightly_0.13.0.dev-980+g3a7989f4f4-0_aarch64.deb
 Size: 6046672
 MD5Sum: c85800b07e6f7dc1363da200fd3ebdaa
 SHA1: a3474d9458179adb85694f98eccee6a7d644d5ae
@@ -27983,7 +27983,7 @@ Maintainer: @termux
 Version: 0.0.0+g31c1ad37
 Homepage: https://github.com/nothings/stb
 Description: Single-file public domain (or MIT licensed) libraries for C/C++
-Filename: ../../../../releases/download/aarch64-s/stb_0.0.0.g31c1ad37_aarch64.deb
+Filename: ../../../../releases/download/aarch64-s/stb_0.0.0+g31c1ad37_aarch64.deb
 Size: 347656
 MD5Sum: bd569273aa97a9f3e6f84797485cbf3a
 SHA1: 5b9b41192deffd548f409b7df7a68129078fde9b
@@ -29150,7 +29150,7 @@ Maintainer: @termux
 Version: 2.15.0-2
 Homepage: https://timidity.sourceforge.net/
 Description: MIDI-to-WAVE converter and player
-Filename: ../../../../releases/download/aarch64-t/timidity.._2.15.0-2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-t/timidity++_2.15.0-2_aarch64.deb
 Size: 350812
 MD5Sum: 4fdec3ea395d26b580cebd71818df265
 SHA1: a84368ec02bab4ece9c3d4834e8afce3e773fdeb
@@ -29179,7 +29179,7 @@ Version: 2.02.61
 Homepage: https://tintin.mudhalla.net
 Depends: pcre, libgnutls, zlib
 Description: Classic text-based MUD client
-Filename: ../../../../releases/download/aarch64-t/tintin.._2.02.61_aarch64.deb
+Filename: ../../../../releases/download/aarch64-t/tintin++_2.02.61_aarch64.deb
 Size: 1405316
 MD5Sum: 3f885e401986ef6ed0f1865296e96724
 SHA1: c4e89c9b944e273665792581abf3fb48a554744c
@@ -32623,20 +32623,6 @@ SHA1: 629dfd8ae67824a554c53e4b556d03021c5f3692
 SHA256: 3f3fa4ba87773cdf080c92ef3d2f26dadc3c6fae8c8f0b99704c279421188902
 SHA512: 72608cac35899b07693df4a95b1fb4197ab753ebebee0c3daa4535cc647afeb8f81c04c0664e89fdb54da5e8839498c04ce097bba54991bec216ec52863bbde3
 
-Package: 0verkill
-Architecture: aarch64
-Installed-Size: 3156
-Maintainer: @termux
-Version: 1:0.16-1
-Homepage: https://github.com/hackndev/0verkill
-Description: Bloody 2D action deathmatch-like game in ASCII-ART
-Filename: ../../../../releases/download/aarch64-0/0verkill_1.0.16-1_aarch64.deb
-Size: 162808
-MD5Sum: 178a2b614908bea6ab99147adc99a3bc
-SHA1: 8bb26bcef8528e4eaa15890ebaefb9687515d27e
-SHA256: a397b17c0144a40e9f8acd1865b1ab141810235654ddee1fdd06a57b89776575
-SHA512: 45e5d3f031a3c8ded7fec4faee7de440db1ab5a07bb9758c1ce02eda09195efa6a48b84a7461747fa1818b65f9de8bbe6c9f80fb5d1a864da56c72dc8de1e1a6
-
 Package: libc++
 Architecture: aarch64
 Installed-Size: 1384
@@ -32645,7 +32631,7 @@ Version: 29
 Homepage: https://libcxx.llvm.org/
 Essential: yes
 Description: C++ Standard Library
-Filename: ../../../../releases/download/aarch64-libc/libc.._29_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libc/libc++_29_aarch64.deb
 Size: 334592
 MD5Sum: d4a59b6a6237750126407017b20fb43f
 SHA1: 8bb7159ca8ff769752bed161b072010adce0aed2
@@ -32660,7 +32646,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Static libraries for libnettle
-Filename: ../../../../releases/download/aarch64-libn/libnettle-static_4.0.really3.10.2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libn/libnettle-static_4.0+really3.10.2_aarch64.deb
 Size: 683028
 MD5Sum: ee3941e89ca44f99b0bc008b5fb68e5e
 SHA1: af1d1ba34135ce5e16d7283cdd127c8f0091b1f4
@@ -32677,7 +32663,7 @@ Breaks: libnettle-dev
 Depends: libgmp
 Replaces: libnettle-dev
 Description: Cryptographic library that is designed to fit easily in more or less any context
-Filename: ../../../../releases/download/aarch64-libn/libnettle_4.0.really3.10.2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-libn/libnettle_4.0+really3.10.2_aarch64.deb
 Size: 405836
 MD5Sum: b232b5da02374fed2275a9a9875cf64c
 SHA1: 48ab627dc8be871b93ae51a730f99c39cd9cefc0
@@ -32755,7 +32741,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for ncurses
-Filename: ../../../../releases/download/aarch64-n/ncurses-static_6.6.20260307.really6.5.20250830_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/ncurses-static_6.6.20260307+really6.5.20250830_aarch64.deb
 Size: 154068
 MD5Sum: 434d4b8eae945ee304d5ffd20ad1aec1
 SHA1: f012dd05b981bc19a83e94ff376d5aa21501fa39
@@ -32770,7 +32756,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs-static_6.6.20260307.really6.5.20250830_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_aarch64.deb
 Size: 39572
 MD5Sum: c5e4975593414f87316c87f1f851a3d4
 SHA1: dad304c9125ab4e62ec110e5e29be31f2a42ea4c
@@ -32787,7 +32773,7 @@ Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Breaks: ncurses (<< 6.4)
 Replaces: ncurses (<< 6.4)
 Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs_6.6.20260307.really6.5.20250830_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_aarch64.deb
 Size: 32960
 MD5Sum: 457c00ea43b64ece63886a8db5a35fad
 SHA1: bc7ce45003fe2350f0f7df812cdb0ebf1bd19e3f
@@ -32802,7 +32788,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Tools for working with terminals
-Filename: ../../../../releases/download/aarch64-n/ncurses-utils_6.6.20260307.really6.5.20250830_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/ncurses-utils_6.6.20260307+really6.5.20250830_aarch64.deb
 Size: 89052
 MD5Sum: 0363419205941715b215ebfd27226a61
 SHA1: 9489e3efe84631e3d00344a2bc560f8ef987a1aa
@@ -32818,7 +32804,7 @@ Homepage: https://invisible-island.net/ncurses/
 Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/aarch64-n/ncurses_6.6.20260307.really6.5.20250830_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/ncurses_6.6.20260307+really6.5.20250830_aarch64.deb
 Size: 558360
 MD5Sum: c2100e17c301d87ac8adb6dc1d8e16c8
 SHA1: 3932ff59e8210588cac5f965bcae9f62604dbd7d
@@ -32833,7 +32819,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Low level cryptographic tools
-Filename: ../../../../releases/download/aarch64-n/nettle_4.0.really3.10.2_aarch64.deb
+Filename: ../../../../releases/download/aarch64-n/nettle_4.0+really3.10.2_aarch64.deb
 Size: 18180
 MD5Sum: 573c5f64a0d53d7599cf952c029679da
 SHA1: 8f5fb1fbd6df4103f6afb73b14e1ab2007165ed2
@@ -32853,7 +32839,7 @@ Conflicts: procps (<< 3.3.15-2)
 Recommends: ed, dos2unix, inetutils, net-tools, patch, unzip
 Suggests: termux-api
 Description: Basic system tools for Termux
-Filename: ../../../../releases/download/aarch64-t/termux-tools_1.46.0.really1.45.0-1_aarch64.deb
+Filename: ../../../../releases/download/aarch64-t/termux-tools_1.46.0+really1.45.0-1_aarch64.deb
 Size: 33596
 MD5Sum: 0eccbd08f5e51f72d43c63663947dc09
 SHA1: d6861cad761f1236677db4b318999cda50dc2ffe
@@ -32874,4 +32860,18 @@ MD5Sum: 117897d85d4d84ab6e16558b91b182ad
 SHA1: 43fab564304618c4c9adeb7aba361349d1e64a0c
 SHA256: 879bc669e5b5647cdfb40b7bb770110b514c468eafc48f7ac3597fc8840ecaab
 SHA512: cf677f83210d5cd2688f80d9b6f6df4861616a4f5c5310bc7da4ae4f72596ef01f6605db46b9c940adf69acc60a928a4d68a6dd62ee05f2d311d8aa381af8ade
+
+Package: 0verkill
+Architecture: aarch64
+Installed-Size: 3156
+Maintainer: @termux
+Version: 1:0.16-1
+Homepage: https://github.com/hackndev/0verkill
+Description: Bloody 2D action deathmatch-like game in ASCII-ART
+Filename: ../../../../releases/download/aarch64-0/0verkill_1.0.16-1_aarch64.deb
+Size: 162808
+MD5Sum: 178a2b614908bea6ab99147adc99a3bc
+SHA1: 8bb26bcef8528e4eaa15890ebaefb9687515d27e
+SHA256: a397b17c0144a40e9f8acd1865b1ab141810235654ddee1fdd06a57b89776575
+SHA512: 45e5d3f031a3c8ded7fec4faee7de440db1ab5a07bb9758c1ce02eda09195efa6a48b84a7461747fa1818b65f9de8bbe6c9f80fb5d1a864da56c72dc8de1e1a6
 

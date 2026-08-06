@@ -2485,7 +2485,7 @@ Version: 0.0.0+g3c32e7d
 Homepage: https://github.com/yuri-xyz/chroma.git
 Depends: vulkan-icd, alsa-lib
 Description: Shader-based audio visualizer for the terminal
-Filename: ../../../../releases/download/x86_64-c/chroma-visualizer_0.0.0.g3c32e7d_x86_64.deb
+Filename: ../../../../releases/download/x86_64-c/chroma-visualizer_0.0.0+g3c32e7d_x86_64.deb
 Size: 2324480
 MD5Sum: 0df8914a2533740511e255dc3bedefff
 SHA1: f682e5dc5ba281ff4ebd51715c081cf1bb60c52e
@@ -5069,7 +5069,7 @@ Version: 1.2.2RC+really1.2.2
 Homepage: https://gitlab.com/ecodis/exhale
 Depends: libc++
 Description: Open source xHE-AAC encoder
-Filename: ../../../../releases/download/x86_64-e/exhale_1.2.2RC.really1.2.2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-e/exhale_1.2.2RC+really1.2.2_x86_64.deb
 Size: 141552
 MD5Sum: 7ee9cce657841504e19a53f0d7c4834f
 SHA1: 490260a56dbbf8bb09b40cbea3ded10291639530
@@ -5147,7 +5147,7 @@ Version: 1.6.5-3
 Homepage: https://bitbucket.org/dtsarkov/factplusplus
 Depends: libc++
 Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
-Filename: ../../../../releases/download/x86_64-f/fact.._1.6.5-3_x86_64.deb
+Filename: ../../../../releases/download/x86_64-f/fact++_1.6.5-3_x86_64.deb
 Size: 349296
 MD5Sum: 35dfc9af7074f9a6bd987da661e0f8dd
 SHA1: b837e14c85a46162d18e4670db1ab867cc00c4cd
@@ -10223,7 +10223,7 @@ Version: 0.9.2+p20251219-2
 Homepage: https://github.com/lgi-devs/lgi
 Depends: glib, gobject-introspection, libcairo, libffi, lua54
 Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
-Filename: ../../../../releases/download/x86_64-l/lua-lgi_0.9.2.p20251219-2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-l/lua-lgi_0.9.2+p20251219-2_x86_64.deb
 Size: 74984
 MD5Sum: 205bdd865cdeaed1f184c1d6c852c44c
 SHA1: 994a7ca026c7495d86907f1ab933a274cca2db9f
@@ -10468,7 +10468,7 @@ Version: 1:2.1.1783773675+g3c4f9fe
 Homepage: https://luajit.org/
 Depends: luajit (= 1:2.1.1783773675+g3c4f9fe)
 Description: Static libraries for luajit
-Filename: ../../../../releases/download/x86_64-l/luajit-static_1.2.1.1783773675.g3c4f9fe_x86_64.deb
+Filename: ../../../../releases/download/x86_64-l/luajit-static_1.2.1.1783773675+g3c4f9fe_x86_64.deb
 Size: 233268
 MD5Sum: 00bc18293b3e5bdcbde7ba3e31214621
 SHA1: 2f148894973959d4fa1733a75b149405488bf77d
@@ -10484,7 +10484,7 @@ Homepage: https://luajit.org/
 Breaks: libluajit-dev, libluajit
 Replaces: libluajit-dev, libluajit
 Description: Just-In-Time Compiler for Lua
-Filename: ../../../../releases/download/x86_64-l/luajit_1.2.1.1783773675.g3c4f9fe_x86_64.deb
+Filename: ../../../../releases/download/x86_64-l/luajit_1.2.1.1783773675+g3c4f9fe_x86_64.deb
 Size: 307200
 MD5Sum: ebc4ff217c3abc66c7a8387eb01dec47
 SHA1: ea29537df517a81d08a641a796eabad052e02f08
@@ -11586,7 +11586,7 @@ Version: 5.34.2
 Homepage: https://github.com/Martchus/cpp-utilities
 Depends: boost, libc++, libiconv
 Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
-Filename: ../../../../releases/download/x86_64-libc/libc..utilities_5.34.2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libc/libc++utilities_5.34.2_x86_64.deb
 Size: 164372
 MD5Sum: 551b454715f1be0cae26c1aee9419ed4
 SHA1: 4c32ab02cf81dbaf0bb102300792f076af4be3f2
@@ -17474,7 +17474,7 @@ Version: 2.12.1-1
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/x86_64-libs/libsigc..-2.0_2.12.1-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libs/libsigc++-2.0_2.12.1-1_x86_64.deb
 Size: 73452
 MD5Sum: 0958934586557005c095753b45d7b8c3
 SHA1: e07660de443e0af0ca65d166ed510477880b1eff
@@ -17489,7 +17489,7 @@ Version: 3.6.0-2
 Homepage: https://libsigcplusplus.github.io/libsigcplusplus/
 Depends: libc++
 Description: Implements a typesafe callback system for standard C++
-Filename: ../../../../releases/download/x86_64-libs/libsigc..-3.0_3.6.0-2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libs/libsigc++-3.0_3.6.0-2_x86_64.deb
 Size: 56028
 MD5Sum: b798c991418bd7bf1d8101c2aec1c38f
 SHA1: e4c187181c2fce1e3c2ab92fe7d2466201cfdcf7
@@ -21990,7 +21990,7 @@ Breaks: neovim
 Depends: libandroid-support, libiconv, libmsgpack, libunibilium, libuv, libvterm (>= 1:0.3-0), lua51-lpeg, luajit, luv, tree-sitter, tree-sitter-parsers, utf8proc
 Conflicts: neovim
 Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
-Filename: ../../../../releases/download/x86_64-n/neovim-nightly_0.13.0.dev-980.g3a7989f4f4-0_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/neovim-nightly_0.13.0.dev-980+g3a7989f4f4-0_x86_64.deb
 Size: 6250520
 MD5Sum: 7028e69405e32a69824892b9e2addbf6
 SHA1: b3e85d60c270e9084354426a20b947c759123ff6
@@ -27967,7 +27967,7 @@ Maintainer: @termux
 Version: 0.0.0+g31c1ad37
 Homepage: https://github.com/nothings/stb
 Description: Single-file public domain (or MIT licensed) libraries for C/C++
-Filename: ../../../../releases/download/x86_64-s/stb_0.0.0.g31c1ad37_x86_64.deb
+Filename: ../../../../releases/download/x86_64-s/stb_0.0.0+g31c1ad37_x86_64.deb
 Size: 347656
 MD5Sum: 8374b33509952a9885aea978b0bb161a
 SHA1: 394a1d6e9b367a041fdf527d162e14ec2d947d15
@@ -29134,7 +29134,7 @@ Maintainer: @termux
 Version: 2.15.0-2
 Homepage: https://timidity.sourceforge.net/
 Description: MIDI-to-WAVE converter and player
-Filename: ../../../../releases/download/x86_64-t/timidity.._2.15.0-2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-t/timidity++_2.15.0-2_x86_64.deb
 Size: 368756
 MD5Sum: 53e5e0057b4a5cba1d4213d8ef724efc
 SHA1: 70e193782ce024292a608daa0d3a0a6d7b89dc54
@@ -29163,7 +29163,7 @@ Version: 2.02.61
 Homepage: https://tintin.mudhalla.net
 Depends: pcre, libgnutls, zlib
 Description: Classic text-based MUD client
-Filename: ../../../../releases/download/x86_64-t/tintin.._2.02.61_x86_64.deb
+Filename: ../../../../releases/download/x86_64-t/tintin++_2.02.61_x86_64.deb
 Size: 1417336
 MD5Sum: c3a14ce6a1c08e9dc541f9375a884441
 SHA1: 64778808cade11126eab2ddba8faf2b54d112b8e
@@ -32607,20 +32607,6 @@ SHA1: c3d2f3892af35b9bd7d16d971a7606e6729a160d
 SHA256: d27b6b9f1910fdf660dcfe17b03a8fa18425f69a93f1757554b7d165e24c360c
 SHA512: 117816fac5c3e2e4144abe1b8b8c81e5a0f9ebb6628a088456ac3f09a28d4496daae6118d6ea091dbf7b583ff7e368b383d6e9136e9a3c6b707099873c7cbcad
 
-Package: 0verkill
-Architecture: x86_64
-Installed-Size: 3160
-Maintainer: @termux
-Version: 1:0.16-1
-Homepage: https://github.com/hackndev/0verkill
-Description: Bloody 2D action deathmatch-like game in ASCII-ART
-Filename: ../../../../releases/download/x86_64-0/0verkill_1.0.16-1_x86_64.deb
-Size: 173336
-MD5Sum: d3fedf5651aa23104610bf6dc9364017
-SHA1: 2c7f558d4ff8ede339837e8e415c3bc9ebced38c
-SHA256: 76381f1d6290ca2e1d886aeae09523eeccee1a671b2a336da14c0aef9374684f
-SHA512: a0b7813be279ee522beb6d19874abd6e4ff8a7596eb7eac242874fc50b3bb74d3ea25d4b7abc67576c78d095db36d76dc03f647d9ea6f6c8dde4349e0bb39c9e
-
 Package: libc++
 Architecture: x86_64
 Installed-Size: 1348
@@ -32629,7 +32615,7 @@ Version: 29
 Homepage: https://libcxx.llvm.org/
 Essential: yes
 Description: C++ Standard Library
-Filename: ../../../../releases/download/x86_64-libc/libc.._29_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
 Size: 359688
 MD5Sum: 318aefea6a6a5f51a90b40346e6cda0d
 SHA1: d65d396e693e5c8a824e21d30a474d0113601869
@@ -32644,7 +32630,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Static libraries for libnettle
-Filename: ../../../../releases/download/x86_64-libn/libnettle-static_4.0.really3.10.2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libn/libnettle-static_4.0+really3.10.2_x86_64.deb
 Size: 634632
 MD5Sum: d37acdca94b61e09f7d9cf4814510fca
 SHA1: f6d70b7e68a21e0df3228c291651ac0f0641e58e
@@ -32661,7 +32647,7 @@ Breaks: libnettle-dev
 Depends: libgmp
 Replaces: libnettle-dev
 Description: Cryptographic library that is designed to fit easily in more or less any context
-Filename: ../../../../releases/download/x86_64-libn/libnettle_4.0.really3.10.2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-libn/libnettle_4.0+really3.10.2_x86_64.deb
 Size: 400932
 MD5Sum: 6512172ae71bc0b80c0095de2b954e99
 SHA1: a388a3ada7a405d4ec18a7464ab9d1449293be83
@@ -32739,7 +32725,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307.really6.5.20250830_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307+really6.5.20250830_x86_64.deb
 Size: 156752
 MD5Sum: 4fa418941c781b6db7a982ed56e800b4
 SHA1: 35d6bd1eadee708b5ea83ce6b2563725c174c6e9
@@ -32754,7 +32740,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307.really6.5.20250830_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_x86_64.deb
 Size: 39112
 MD5Sum: b6f0609f0d5fa192e58146304d88b010
 SHA1: ab8f4a222c8a3bfd6d8b648ca5e8c6accb4fe000
@@ -32771,7 +32757,7 @@ Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Breaks: ncurses (<< 6.4)
 Replaces: ncurses (<< 6.4)
 Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307.really6.5.20250830_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_x86_64.deb
 Size: 35420
 MD5Sum: e20c27720f3a5a7ba8556a7a7aa9453a
 SHA1: 0fd8bf9242055eee9ae9a5411a9f6b3e13b0ae6f
@@ -32786,7 +32772,7 @@ Version: 6.6.20260307+really6.5.20250830
 Homepage: https://invisible-island.net/ncurses/
 Depends: ncurses (= 6.6.20260307+really6.5.20250830)
 Description: Tools for working with terminals
-Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307.really6.5.20250830_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307+really6.5.20250830_x86_64.deb
 Size: 92648
 MD5Sum: 378bf8036ffed66ab8680e1131cdbc4f
 SHA1: d8f5b7660ccae4959dfffebda17ff93e179e84b4
@@ -32802,7 +32788,7 @@ Homepage: https://invisible-island.net/ncurses/
 Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307.really6.5.20250830_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307+really6.5.20250830_x86_64.deb
 Size: 570140
 MD5Sum: b3167e7fb7483e1b72d6c93c6bc534b7
 SHA1: d86a48074ee4d1e763d731d506f563322e19b2d9
@@ -32817,7 +32803,7 @@ Version: 4.0+really3.10.2
 Homepage: https://www.lysator.liu.se/~nisse/nettle/
 Depends: libnettle (= 4.0+really3.10.2)
 Description: Low level cryptographic tools
-Filename: ../../../../releases/download/x86_64-n/nettle_4.0.really3.10.2_x86_64.deb
+Filename: ../../../../releases/download/x86_64-n/nettle_4.0+really3.10.2_x86_64.deb
 Size: 19048
 MD5Sum: 65218b76c5ea3398668fa278d262c14c
 SHA1: 747ade5b8e18eb0e8e40721a6b6b7b431eedd056
@@ -32837,7 +32823,7 @@ Conflicts: procps (<< 3.3.15-2)
 Recommends: ed, dos2unix, inetutils, net-tools, patch, unzip
 Suggests: termux-api
 Description: Basic system tools for Termux
-Filename: ../../../../releases/download/x86_64-t/termux-tools_1.46.0.really1.45.0-1_x86_64.deb
+Filename: ../../../../releases/download/x86_64-t/termux-tools_1.46.0+really1.45.0-1_x86_64.deb
 Size: 33560
 MD5Sum: c75e1bf22be9bf74c002f15d338ae2c8
 SHA1: bd4a4d9a5398d591f7ab68b1ff62a7d66e06aea6
@@ -32858,4 +32844,18 @@ MD5Sum: ec624c25f147df9e787a040f3b69d356
 SHA1: 5eefae3d4ef034365a060df791993d45b7608dc1
 SHA256: bbfe83181a83fda650a56d25b09e34218759ff7fd58d4ad65b13ee598d7fa00b
 SHA512: c8f0ad237d020e4363b9c761807de9fddb43114c22aabb213a4cedffdafbcb94cd981fb05c54f539008fe8cf6fec71df24f53eb8655c2ca67facce09a9cc5c3c
+
+Package: 0verkill
+Architecture: x86_64
+Installed-Size: 3160
+Maintainer: @termux
+Version: 1:0.16-1
+Homepage: https://github.com/hackndev/0verkill
+Description: Bloody 2D action deathmatch-like game in ASCII-ART
+Filename: ../../../../releases/download/x86_64-0/0verkill_1.0.16-1_x86_64.deb
+Size: 173336
+MD5Sum: d3fedf5651aa23104610bf6dc9364017
+SHA1: 2c7f558d4ff8ede339837e8e415c3bc9ebced38c
+SHA256: 76381f1d6290ca2e1d886aeae09523eeccee1a671b2a336da14c0aef9374684f
+SHA512: a0b7813be279ee522beb6d19874abd6e4ff8a7596eb7eac242874fc50b3bb74d3ea25d4b7abc67576c78d095db36d76dc03f647d9ea6f6c8dde4349e0bb39c9e
 
