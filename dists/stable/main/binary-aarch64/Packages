@@ -33266,3 +33266,32 @@ SHA1: 9a86dce5f7219b64a2389320e20d1fdf04a77319
 SHA256: f0a7490874525fb64e4914e2abecba10075602625ab94e1258100d4995e89cb3
 SHA512: 07100fa3833fc9a86cfacd55e2c8708d9f56ce755b85d1e8597b978b184a306a2875de67c58eef98725f2bbb899b38e5014b7cc67957282ced9aed21f4a22f0f
 
+Package: et
+Architecture: aarch64
+Installed-Size: 5324
+Maintainer: @termux
+Version: 7.0.0
+Homepage: https://eternalterminal.dev
+Depends: abseil-cpp, libc++, libsodium, openssl, protobuf, zlib
+Description: A remote shell that automatically reconnects without interrupting the session
+Filename: ../../../../releases/download/aarch64-e/et_7.0.0_aarch64.deb
+Size: 782364
+MD5Sum: 2420dea81b93c12a9ca5c62f5b8d4eae
+SHA1: 6b70060e746cb2d7f310db0d97ce81729f10130e
+SHA256: 4d8efe747ae9ab1b64e1191e9aa86ff873a47b70c03c3c30b2b6b362a5abc4a0
+SHA512: 02b3352284d3f107f17dd1b154f3b980a09fd6a6e705c56f1a2a737760b77e36d394599e77739def363314e4aff430a9209d323fecaa7a4045bc9cc82d964331
+
+Package: fastfetch
+Architecture: aarch64
+Installed-Size: 3736
+Maintainer: @termux
+Version: 2.66.0
+Homepage: https://github.com/fastfetch-cli/fastfetch
+Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
+Filename: ../../../../releases/download/aarch64-f/fastfetch_2.66.0_aarch64.deb
+Size: 569212
+MD5Sum: 173c17d56101def93e24c573d9f3156b
+SHA1: 2690bd0a6bc554e0e93388511be4ea43a128edc2
+SHA256: 972d65a36c50a413ea5d714942fcdf8e1f4196e5e653506bd6cad5f2f8aa71ea
+SHA512: 71c4a2b4e6d6fd7788ea80949d05416a4c86750d7a7c8bbc99454c557abd9089409c5bbff6ca1dcc3e38d46e3ea7d3346dac2ce2d97db6b98b117a75ac32b521
+

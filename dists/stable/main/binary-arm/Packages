@@ -31949,3 +31949,32 @@ SHA1: 52e19ec5296a17e421ead2608ca5ea899b317d2e
 SHA256: 7c65361522c872b065eb16df29d4787947301dc8d30eb7efeadf43b81b550988
 SHA512: a91eb27e4ebed3ecad5ac069695421c09c7472515a537545ad2816cea5d8f484628f31b59de8363012f3a2504ef33c5ac775b1475df7eaa1ff4e6838596ceaf4
 
+Package: et
+Architecture: arm
+Installed-Size: 3516
+Maintainer: @termux
+Version: 7.0.0
+Homepage: https://eternalterminal.dev
+Depends: abseil-cpp, libc++, libsodium, openssl, protobuf, zlib
+Description: A remote shell that automatically reconnects without interrupting the session
+Filename: ../../../../releases/download/arm-e/et_7.0.0_arm.deb
+Size: 759548
+MD5Sum: 3f4aacb662f8b53cedb7b934bdec6d9e
+SHA1: 173ad8c517b349650534cdb23f82abcb56c02b53
+SHA256: c01ddddaa5c1d8db6792586664a8afc840427da8a726649b83e7d69d7a8bb9a9
+SHA512: fcba8f6f25b0c53704d53b7aa3b5d4b3102c827e0f26dd60523feaf909e7cfeb96161dcfea5518ffecd9bfeefc51eb14e34d9e46568aca05039459e013f1a185
+
+Package: fastfetch
+Architecture: arm
+Installed-Size: 2956
+Maintainer: @termux
+Version: 2.66.0
+Homepage: https://github.com/fastfetch-cli/fastfetch
+Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
+Filename: ../../../../releases/download/arm-f/fastfetch_2.66.0_arm.deb
+Size: 583460
+MD5Sum: 012200fa0f99c153c44e9e81e5df962d
+SHA1: 98f93a1af8ff000c9b5f4e390036cce47608d532
+SHA256: d9184feb89855addb44b4778debbac0ff89193f1fdc243ecca4fc6f27fae62f7
+SHA512: 917f118bc3e0ef3055d0fb21cada66f1fa77c7b7b3f2395c51d32d922c1c165f56e3f0f83023a31b4a53762bc67aa335db9477fcfd6cf48bcc9da6738a89c45f
+

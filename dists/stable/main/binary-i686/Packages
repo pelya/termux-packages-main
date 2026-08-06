@@ -32566,3 +32566,32 @@ SHA1: e20127bf1b8a254320cba099a68a124f56f396f6
 SHA256: ead5b330fd7e68c4fbeda80c874296e4636db4617ce17882080be13c90d4c05d
 SHA512: 0fb75d758a32f398983a7a74983507c57a67709f5d9abaa0ef5ae070e3cb7fd89274582a992343712678beb166005804b42ca11b544d87e009405bf1af3582b8
 
+Package: et
+Architecture: i686
+Installed-Size: 5632
+Maintainer: @termux
+Version: 7.0.0
+Homepage: https://eternalterminal.dev
+Depends: abseil-cpp, libc++, libsodium, openssl, protobuf, zlib
+Description: A remote shell that automatically reconnects without interrupting the session
+Filename: ../../../../releases/download/i686-e/et_7.0.0_i686.deb
+Size: 899456
+MD5Sum: 8ad72e6914e5d00276802a11ab73fde4
+SHA1: f9f8a55f4b295a409a33c0af0ed9cc0ace0b492b
+SHA256: 21d68329e9720fe2b24d82f90dc283fc96897c2081a12f4208f2e3930677c2e4
+SHA512: 8fc78bdbbe280e422cc30851c50b73d012cd205718bdeaabfa23d7d7cc35a54997d97c28f3fd9990dd1c6910c312885a5ad9197bc09e7d1844d4dd5fae17a25d
+
+Package: fastfetch
+Architecture: i686
+Installed-Size: 3964
+Maintainer: @termux
+Version: 2.66.0
+Homepage: https://github.com/fastfetch-cli/fastfetch
+Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
+Filename: ../../../../releases/download/i686-f/fastfetch_2.66.0_i686.deb
+Size: 640168
+MD5Sum: bc35320a907fc9c91260b301fda51b37
+SHA1: b2d3b9cbde2618637a3da73805d8b4174e2ac4c3
+SHA256: 1a81065385fd66a864b3a4743a49e18c3bfd6d865df0b5832879046341047dae
+SHA512: 616b09d127b0164d1d41963244df63c8e853820c2aad71de57b6fd0c3fe56df0c341783ee50c9cd72577cb8cc1860d45d9b2eff406c1bacad2ef278365771486
+
