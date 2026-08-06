@@ -33780,3 +33780,32 @@ SHA1: c8a39e16965ad4fd0c00837f59aeee06f9e09f65
 SHA256: 5025a6968b107565c5ac4b1fd8d479d262b4abde7ba5118a686af9e8e1b30481
 SHA512: a9e9dd59063bab9b00786e56596da5338e831e08ae5b64fab4dce8798125e39a5c80b0847e91f6efbe716ca82f195d46255c16f780e73b286cd61c476263d5a1
 
+Package: gbt
+Architecture: x86_64
+Installed-Size: 3048
+Maintainer: @termux
+Version: 2.0.0-6
+Homepage: https://github.com/jtyr/gbt
+Description: Highly configurable prompt builder for Bash and ZSH written in Go
+Filename: ../../../../releases/download/x86_64-g/gbt_2.0.0-6_x86_64.deb
+Size: 897740
+MD5Sum: b806ddcf305b0670ba37e47465f037b1
+SHA1: 823c4f4c99b4b43d1e9d9865354e72ad08015155
+SHA256: 11fd8de4e5130b77cd719a6bf8a5fd12a449b2c4cf54f107c951e411c8f5c6f2
+SHA512: 3f15be51895ee08d0bc7a99650882aab86f50549d12de0300af27db93a87ceaab0bae63bf41d5f043d8179583490aa7ca7844088ffe26e5d12434df490275b03
+
+Package: shaderc
+Architecture: x86_64
+Installed-Size: 5884
+Maintainer: @termux
+Version: 2026.2
+Homepage: https://github.com/google/shaderc
+Depends: glslang, spirv-tools, libc++
+Description: Collection of tools, libraries, and tests for Vulkan shader compilation
+Filename: ../../../../releases/download/x86_64-s/shaderc_2026.2_x86_64.deb
+Size: 1294840
+MD5Sum: be5c52bd32465666aa68d163fca7a820
+SHA1: 818a9c7fac5289162518d2ee3f2e20505b61388e
+SHA256: 81cca542925055e602ab28c24b9e213da7272d94d1a8e6a05fd3c1a86b53cca2
+SHA512: 00b1f6b39129f5f58cdc51b42dad91b39c0304b53d4442aa1ce689abde6e30e2af8d9dee6bc28f4b39e7a5214793e5fefb5f05647d4a7ce161aef32fa0056b4a
+
