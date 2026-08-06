@@ -33572,3 +33572,18 @@ SHA1: 6769cdbb5a654bee0d7e0ce5966f32f51ed98a00
 SHA256: bd411702fff60245ea105af814dcd48e5acd7d04e57dea6e695141ecbf540a3b
 SHA512: 8c34838ca0bfbcf6f0e2d23267eed2903d8b2e15f6121dd21df71db2758d99da5e84b392c9bac71851c84f9d0bfeef72c516266522ee82b675078cb1399d2ba2
 
+Package: xmake
+Architecture: aarch64
+Installed-Size: 15348
+Maintainer: Ruki Wang @waruqi
+Version: 3.0.9
+Homepage: https://xmake.io/
+Depends: ncurses
+Description: A cross-platform build utility based on Lua
+Filename: ../../../../releases/download/aarch64-x/xmake_3.0.9_aarch64.deb
+Size: 1104400
+MD5Sum: daccb2ab843ec093dad215ef638b4a09
+SHA1: 28029bf35be03dcc27b3765d1c3d3beedc8b0618
+SHA256: caa801e5da1ea12d96188a5641df11273b1ea106bab38a97e32e29082fedda6e
+SHA512: fe5a58cf90f4ce2f9a1fbe17db1012482857dbd15c77167584f51348343d83b28dfb8612cc01241a64f74ddba2fd7d99a645973188da216f451bd517d40ffc2e
+

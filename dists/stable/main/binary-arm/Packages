@@ -32239,3 +32239,18 @@ SHA1: 6769cdbb5a654bee0d7e0ce5966f32f51ed98a00
 SHA256: bd411702fff60245ea105af814dcd48e5acd7d04e57dea6e695141ecbf540a3b
 SHA512: 8c34838ca0bfbcf6f0e2d23267eed2903d8b2e15f6121dd21df71db2758d99da5e84b392c9bac71851c84f9d0bfeef72c516266522ee82b675078cb1399d2ba2
 
+Package: xmake
+Architecture: arm
+Installed-Size: 15028
+Maintainer: Ruki Wang @waruqi
+Version: 3.0.9
+Homepage: https://xmake.io/
+Depends: ncurses
+Description: A cross-platform build utility based on Lua
+Filename: ../../../../releases/download/arm-x/xmake_3.0.9_arm.deb
+Size: 1081252
+MD5Sum: 2d9c54e48ef28cc1467e41e6dca95d35
+SHA1: 1b0a11e8a5c83287e4a82f1aa0c59b09a7b119c7
+SHA256: 8dba0c77160aa39d8ff4563c02cdd67f3c4f9807fbd62538cda8f760c080644a
+SHA512: c9fd5dcd5725653ade68cf6009c23cec031f32a89d2c9f8cbf32abd4d1136f7cc28ccb967fa4dae891c83b2ce49e15a5da96e064b642c01d32de7786e11faadb
+

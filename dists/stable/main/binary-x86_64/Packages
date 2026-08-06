@@ -33556,3 +33556,18 @@ SHA1: 6769cdbb5a654bee0d7e0ce5966f32f51ed98a00
 SHA256: bd411702fff60245ea105af814dcd48e5acd7d04e57dea6e695141ecbf540a3b
 SHA512: 8c34838ca0bfbcf6f0e2d23267eed2903d8b2e15f6121dd21df71db2758d99da5e84b392c9bac71851c84f9d0bfeef72c516266522ee82b675078cb1399d2ba2
 
+Package: xmake
+Architecture: x86_64
+Installed-Size: 15340
+Maintainer: Ruki Wang @waruqi
+Version: 3.0.9
+Homepage: https://xmake.io/
+Depends: ncurses
+Description: A cross-platform build utility based on Lua
+Filename: ../../../../releases/download/x86_64-x/xmake_3.0.9_x86_64.deb
+Size: 1131912
+MD5Sum: 886ee27a367f9872c33a23a17b795a5a
+SHA1: db4ce76b13292ab7b9057fe36d83050befefc7b5
+SHA256: 86a65fe0906468485aab251dbaff095a2a3271fea8e699694df3851bc29073a6
+SHA512: 009da84aded68e93d02bcd96b4cd186340cba5916a325ab1e2f63a1fd13345c22b376bbe9ecb518121eae7bfa20e4f73971974c71e43a7118fbbfa8c1be695bd
+

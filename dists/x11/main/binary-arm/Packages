@@ -11828,3 +11828,18 @@ SHA1: 25d883985a0964e3fd60a6e7947fd8cd13fec262
 SHA256: a891b35cab01c8f3d271c654ffc863745f708296a2f71ed7ecdddd2a4d3c77cc
 SHA512: 1120dcbd4bfe951568b3f7de8838cb2a3df7ddd8ffbc8b3f086ca256d15a21cdc3d6ee802043c2c35e73059e71a6b315bf637fee77c5c60479a137bb3065a343
 
+Package: oxygen
+Architecture: arm
+Installed-Size: 53304
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/oxygen
+Depends: kf6-frameworkintegration, kf6-kcmutils, kf6-kcolorscheme, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kdecoration, kf6-kguiaddons, kf6-ki18n, kf6-kwidgetsaddons, kf6-kwindowsystem, kf6-oxygen-icons, libc++, libxcb, qt6-qtbase, qt6-qtdeclarative
+Description: KDE Oxygen style
+Filename: ../../../../releases/download/arm-o/oxygen_6.7.2_arm.deb
+Size: 33340776
+MD5Sum: 6573cd58ee4d1231cad5d075a82dcda5
+SHA1: e5bde9b6d67d9bd8cb5505e3b3cc630cc12252c1
+SHA256: ca7791b148802f0b01cc089090b6a6df18486b59704a0b5dfa3c67fb46ed4e11
+SHA512: 468b97d09e6f5ce5e72f4f24a6d20d9e5cc6dd76cf9c3a85b5eb96fd572aab7ce29ed0cab676a1f50b9d55a68431980cc05a51ab080eb6252fa7fc32ae3f6164
+
