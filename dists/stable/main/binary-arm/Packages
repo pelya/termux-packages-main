@@ -32078,3 +32078,32 @@ SHA1: 3aedaaa082e3f0a061ae371ae72e05f23f224c53
 SHA256: 60e83cfa8da29ec315eff982a00edf09b55230e370a76dddfcefe8a77d4b9bbb
 SHA512: bf7b16360bf079352ea8393334b023a32f1b9b42fcac9a0f3117033d883ed197279ddecd782f0443c499f31dd96ac426df4ea9af471c5049b714c5e8fe9581ad
 
+Package: bitlbee
+Architecture: arm
+Installed-Size: 628
+Maintainer: @termux
+Version: 3.6-1-2
+Homepage: https://www.bitlbee.org/
+Depends: ca-certificates, glib, libgcrypt, libgnutls
+Description: An IRC to other chat networks gateway
+Filename: ../../../../releases/download/arm-b/bitlbee_3.6-1-2_arm.deb
+Size: 173936
+MD5Sum: 57e6789776919194a5cd9a8e382c893a
+SHA1: 7853943f311fd0f712e22342d415013d64d4bde7
+SHA256: a710ac970790b8dab59c7bfcc5d7350fdf10b42299e469c94eccfc9901194d39
+SHA512: 4f3e31008a50a8a4f77f7240bd8793d5fe14a8885b66a32703df6c95f15d632f07f0452fdf2758463cb252e1a697dd9701aa45f77b32cb4c339295e0ed883879
+
+Package: v2ray
+Architecture: arm
+Installed-Size: 62512
+Maintainer: @termux
+Version: 5.51.2
+Homepage: https://www.v2fly.org/
+Description: A platform for building proxies to bypass network restrictions
+Filename: ../../../../releases/download/arm-v/v2ray_5.51.2_arm.deb
+Size: 11605316
+MD5Sum: 39725373c31a632d00e56cf0f04c8134
+SHA1: 80bc9d087923e1495636a9ee2888e90ce5d8055f
+SHA256: e49c20d17f32c915bfdd03fea795d64ffcfb56dd6cb4846b37bf7578bd01372e
+SHA512: e442864342bcc968706ca815ef29b952307b51884fae317ddde0f4888521041ca634504b120fe833e45ea030627c9e0aed1b143f64c5a1a8580b1361f1d06960
+
