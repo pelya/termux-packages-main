@@ -34222,3 +34222,33 @@ SHA1: 7e6a4d11c75edaa44a2bee9da1fb837b7e252324
 SHA256: 0415c5eef07ffc41be1e48225db6b55669e105e92bc1cb6c9b1d155924f4f3a8
 SHA512: 73f6b751ff8d5e79ada3668b1defafca9af716b6a6f7ce057b2a095353d81681928d0a08ef0392b8c2476b50595bfa9f90537a074a83a53ce22d0fa1b874d25a
 
+Package: catgirl
+Architecture: aarch64
+Installed-Size: 184
+Maintainer: @termux
+Version: 2.2a-1
+Homepage: https://git.causal.agency/catgirl
+Depends: libandroid-support, libretls, ncurses, openssl
+Description: A TLS-only terminal IRC client
+Filename: ../../../../releases/download/aarch64-c/catgirl_2.2a-1_aarch64.deb
+Size: 50836
+MD5Sum: 66cbf6242c0afe92cdad1e9869063da6
+SHA1: ee5faea0ae3800c5a219fce5fc4a1ea96779dbc5
+SHA256: f215a4a26f58e4fd4c5f15f0ad839a55d6c1210ac200bb7abfc27c8759c43b4b
+SHA512: d1a7eab56613dd4cdc8e4590700110545ea01fbaf48fa2d602f12e344c6ccab000cabeb7ea59aee6976d452f1e4d674129c6ce4f857c0bfc2b89f926271a13c4
+
+Package: qrsspig
+Architecture: aarch64
+Installed-Size: 1968
+Maintainer: @termux
+Version: 0.8.0-7
+Homepage: https://gitlab.com/hb9fxx/qrsspig
+Depends: boost, fftw, libc++, libcurl, libgd, libliquid-dsp, libssh, libyaml-cpp, pulseaudio
+Description: Headless QRSS grabber for Raspberry Pi's
+Filename: ../../../../releases/download/aarch64-q/qrsspig_0.8.0-7_aarch64.deb
+Size: 391696
+MD5Sum: 480d177e34386796c402d2ef8cc703b6
+SHA1: c88edb1094ccd8a84b3f4fcad57adeaf923777ec
+SHA256: ca427864bd108f28ab27e1dae521ffa0c1cc3468f2ca29b52f3929736a1b52de
+SHA512: 0524c8d7216bb80148b077da0d2f6b91811131579dec4995af352751e42384d173ed2672fffa166be2d55f009cd95d143d3aa6ced180b7849224c7ec7d3f612b
+

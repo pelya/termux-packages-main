@@ -32846,3 +32846,33 @@ SHA1: 340a93b92464c2fe16e681361494676accab5e63
 SHA256: 49de9eb1c58dfc92029dc0e234794d96ca84512a68ad9a9eaceece605c8f86dc
 SHA512: e5fe4a48cb49f4db812080d7928c2ac2cee45b5466bfbe6b67500b20882efc625dc086cf1ce38389fa05d32050744d1d1d25206e3156728e921f554bc673563b
 
+Package: catgirl
+Architecture: arm
+Installed-Size: 136
+Maintainer: @termux
+Version: 2.2a-1
+Homepage: https://git.causal.agency/catgirl
+Depends: libandroid-support, libretls, ncurses, openssl
+Description: A TLS-only terminal IRC client
+Filename: ../../../../releases/download/arm-c/catgirl_2.2a-1_arm.deb
+Size: 46380
+MD5Sum: 3c31c97deea90a323022804963f7b9a0
+SHA1: fb272fb0748db939af7ee897e583ae2262d0aaa8
+SHA256: 33415509b64859b8c103671f5189a85629c3bb00f81213fcde23e373c79cc5b8
+SHA512: 510dcbc04b744588ba06646591e41c8fadd4b95334332c9caed78230e24ce0b933e4fd17c49923cfb2a8cf32c49c7ba96f183076ce90c5b5a4cabb3e1fbc5572
+
+Package: qrsspig
+Architecture: arm
+Installed-Size: 1216
+Maintainer: @termux
+Version: 0.8.0-7
+Homepage: https://gitlab.com/hb9fxx/qrsspig
+Depends: boost, fftw, libc++, libcurl, libgd, libliquid-dsp, libssh, libyaml-cpp, pulseaudio
+Description: Headless QRSS grabber for Raspberry Pi's
+Filename: ../../../../releases/download/arm-q/qrsspig_0.8.0-7_arm.deb
+Size: 354116
+MD5Sum: b140062d6adff9732a2167388aac999e
+SHA1: 798c38bc1d34b7ef0ea43d97d1e7628b4d3ecdb6
+SHA256: 9bf12b6eff279d939fcf5bc51a3fff2abdf59a8c93d55c7612b626b146e12e2f
+SHA512: 8bfe4990be68c843a70432dd3ac40b4c9ab314d82851712505dea1aea507e4be79fa93593bff67228f883fb0c0aa627ba500f4116bfdb20778ebfa75ea8674d2
+
