@@ -11967,3 +11967,18 @@ SHA1: a714a618b3192f41e26e08546651c962cfdd194c
 SHA256: 8bbd3963ce841c0d823439f9b3cba5b68c243863d8be41a723176a54e66baf93
 SHA512: 7d24e23a8e179a20df1c2ec1f39fdbc20bf69df98038c5da47d53a3bbfe3de8780c26cc82a03227e41ae4a1763379a4dc149cada11b6eeaedd3dd904fa3ff77c
 
+Package: celluloid
+Architecture: aarch64
+Installed-Size: 544
+Maintainer: @termux
+Version: 0.30
+Homepage: https://celluloid-player.github.io/
+Depends: gdk-pixbuf, glib, gtk4, libadwaita, libepoxy, mpv-x
+Description: Simple GTK+ frontend for mpv
+Filename: ../../../../releases/download/aarch64-c/celluloid_0.30_aarch64.deb
+Size: 115376
+MD5Sum: c32bbaac45fab72efa652fd4b78ac919
+SHA1: 12d9b761e0607329ab316bf28a72f68b25cdc4e0
+SHA256: 3e6b7a768aeadedda67cf039184d1579728b780f4417138f044d2504dc2ed3c8
+SHA512: e4c7db5b3ad6fabb2a0150bdfbf8cf5107c4350389f631d527969ccd06b219f3b02112b39d13b6e920c1571332a183d8ab5c40496f9c5ba9a7e6074557dbfac3
+

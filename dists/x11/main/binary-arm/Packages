@@ -11798,3 +11798,18 @@ SHA1: b88f8066c19383cbed9b965d6048037919cc4ad6
 SHA256: 82167af913fdc96c6c16555b4389cf6d23cd33cbe0686032a8c5f2920530d7ac
 SHA512: 3875509036f760641926a9283bc0ea8e3cd112c64097e97e6e0e268d52a53518017687592d55678f7ffd04ca0612e34b7fb60691b6f045649467df5fbbe5a669
 
+Package: celluloid
+Architecture: arm
+Installed-Size: 428
+Maintainer: @termux
+Version: 0.30
+Homepage: https://celluloid-player.github.io/
+Depends: gdk-pixbuf, glib, gtk4, libadwaita, libepoxy, mpv-x
+Description: Simple GTK+ frontend for mpv
+Filename: ../../../../releases/download/arm-c/celluloid_0.30_arm.deb
+Size: 105412
+MD5Sum: d5517abf4ee7939953af5284dde65dcf
+SHA1: da537b1b3aa0fd551982fa1793f9c9c40da652bb
+SHA256: a678efa0773e6089ed8b4974ba32abd0adce40cd8b111f2fdcadd879c962473c
+SHA512: 5a29561b94db6370d8c81ae832217fe3484d94e3e30d23e75fc42e01c69455ebaf2cd3a33103b451064c64718abd471a1580fd2d01d9468095619e2d6f868aec
+

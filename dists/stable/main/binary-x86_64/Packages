@@ -33381,3 +33381,17 @@ SHA1: b9f5e2c1aa0ce28910c828eec08527031a9aa8fc
 SHA256: a4ba97b37a3a7eb1fa88b59896bddf4a9a3034bd3bd01b4ba06f4cfd9b7eabf5
 SHA512: cbfc8bea6f483fa7c5284e547bfe88c774f2bf1a25b6b60a4a6bf9eb846cdc6c97ef56462c04df2802a7fc9cd6a2a6e7a59057264572c6ac91f368d15bd5dbf4
 
+Package: ired
+Architecture: x86_64
+Installed-Size: 100
+Maintainer: @termux
+Version: 0.6-3
+Homepage: https://github.com/radare/ired
+Description: Minimalist hexadecimal editor
+Filename: ../../../../releases/download/x86_64-i/ired_0.6-3_x86_64.deb
+Size: 15776
+MD5Sum: f1ab9df883f5d16450f2e98cdd4626e5
+SHA1: 8a16a12a68470cffb281ad27e80c575017ecab99
+SHA256: da93fdc3d0b150843f0a628303941fa620f9a49497da3f16e35d7a8484933bcd
+SHA512: 1988c07e8bfea7b231bc87613d969968818a0de644efadf55f6023cd60b1c00dfc07b8056d6aa1239870b09e6643ee1bb0631a5c292f761144279d48a0e7a1c7
+
