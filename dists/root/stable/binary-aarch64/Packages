@@ -238,3 +238,18 @@ SHA1: b3cd3a91787f3e36369b27770a62db23fed1274c
 SHA256: 2db6420166c2c39a5985f06c82c9c45aa6799cc81780be40600e97067e20ba5d
 SHA512: ca99c4b93ef4c2de5df402330ae38e795f4844e3ce1dd7ebf7b831263ed5d71ac42d17e67396641e9451cb9698ea9ee60f82acd12fcd29e8d5d27b6bdd7c71c4
 
+Package: termshark
+Architecture: aarch64
+Installed-Size: 17608
+Maintainer: @termux
+Version: 2.4.0-5
+Homepage: https://termshark.io
+Depends: tshark
+Description: A terminal UI for tshark, inspired by Wireshark
+Filename: ../../../../releases/download/aarch64-t/termshark_2.4.0-5_aarch64.deb
+Size: 4571968
+MD5Sum: 5cecc0f970007ac88c2a2529106c5dec
+SHA1: b1918a2df7a93c7520972f9ae421d776448418bb
+SHA256: afe2599d61295f1e195814b811edb053b2c884712c92a26d982d1be7e4fddb83
+SHA512: ef28dba25c8b578f2dac8fc2f47382527998841af556774a7fb92378d982962fb68a8271f626d5da880d661e9033f2b7f42e86b26c4924a48cad96bc84f4910b
+

@@ -234,3 +234,5 @@ data/data/greater.underscore/files/usr/include/libavrdude.h                     
 data/data/greater.underscore/files/usr/lib/libavrdude.so                         avrdude
 data/data/greater.underscore/files/usr/share/doc/avrdude/copyright               avrdude
 data/data/greater.underscore/files/usr/share/man/man1/avrdude.1.gz               avrdude
+data/data/greater.underscore/files/usr/bin/termshark                             termshark
+data/data/greater.underscore/files/usr/share/doc/termshark/copyright             termshark

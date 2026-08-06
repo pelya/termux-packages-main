@@ -11827,3 +11827,18 @@ SHA1: 517d40fd0e8070f8de2a60a39fadba6f47d0f948
 SHA256: 138bec9bbb985d2cae82503a8ee8c53cd47a0081812d759c375d002e7c2073c0
 SHA512: eca956752c39bb7276dc6ca7c5019dce1aaf1a5b99486eaca590d60a9fc1864c266ac745d7fe56b75858c78cc478e42c3341591343900b7eb992f9d7820cce68
 
+Package: tageditor
+Architecture: i686
+Installed-Size: 1888
+Maintainer: @termux
+Version: 3.9.11
+Homepage: https://github.com/Martchus/tageditor
+Depends: libc++, libc++utilities, qt6-qtbase, qt6-qtdeclarative, qtutilities, tagparser
+Description: A tag editor with Qt GUI and command-line interface. Supports MP4 (iTunes), ID3, Vorbis, Opus, FLAC and Matroska
+Filename: ../../../../releases/download/i686-t/tageditor_3.9.11_i686.deb
+Size: 495736
+MD5Sum: d5fea534f2cc29f84b083db4f098d4f4
+SHA1: 6ed813308b9f20058862a5d58cc5f9cb71a77ce3
+SHA256: ab3c8c98635f93e8a51b42ff5fdf13c85d9fb1b4b5e06fc70e1a34eb76bca4f4
+SHA512: 43ff62e4d23c4c8df6b254b85552ef38dc31b7f240e287453632d65c24e2d587ef1ae1febcfae4261c185af7f4aa21d3b1965f440e05cfb6456d9b34cf590d88
+

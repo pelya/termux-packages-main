@@ -12132,3 +12132,18 @@ SHA1: 95763a6fd555e92ae5a66077cf22c0c2a2f1c43e
 SHA256: 1eac9d5380ed5006a001f8daa9bb55194164138157c3649de23a175c934b5120
 SHA512: 79bf525234e4d07e27dfdb2dfc8c5a831f67464d93bff34e691ab029ab7d0d8fcebf4294cc15a283956c0cd2b039e479189a51d9f85df025340bb1076d386338
 
+Package: tageditor
+Architecture: aarch64
+Installed-Size: 1776
+Maintainer: @termux
+Version: 3.9.11
+Homepage: https://github.com/Martchus/tageditor
+Depends: libc++, libc++utilities, qt6-qtbase, qt6-qtdeclarative, qtutilities, tagparser
+Description: A tag editor with Qt GUI and command-line interface. Supports MP4 (iTunes), ID3, Vorbis, Opus, FLAC and Matroska
+Filename: ../../../../releases/download/aarch64-t/tageditor_3.9.11_aarch64.deb
+Size: 427008
+MD5Sum: a7f6877a5e2563a32a02b71fda581342
+SHA1: a3ab8aaa056191caf497ba9e6efc5b9224f7c045
+SHA256: 7cdba23657f25d1dcd190c877e2641765f2c1c36babb9fcd4f9e2b7955f6856b
+SHA512: 2c6a7f639697d77edd6b71b22d662d3e7944e832c8849aa8857aa402d438e9ef17f60ac256a93cdc93cb202d5651119dd140b3729795990ebafaaddf77a8b479
+
