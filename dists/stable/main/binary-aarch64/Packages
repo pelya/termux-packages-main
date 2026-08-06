@@ -33009,3 +33009,47 @@ SHA1: f4bb1ff73f902ba7bbd57f61b4a0e7e182c8319f
 SHA256: 7fbf42f22422f5d36c7be20d219abb5e673e02b7a7e4562cf98083cad8237724
 SHA512: 5ab31c85e93a95d90443a8571ca58db00854f7c99eb9b5e78b3631e8f1174062449403dff97a7226015828409043375a68aeed23149ca75002f7269c30579400
 
+Package: helm
+Architecture: aarch64
+Installed-Size: 64188
+Maintainer: @termux
+Version: 4.2.3
+Homepage: https://helm.sh
+Description: Helm helps you manage Kubernetes applications
+Filename: ../../../../releases/download/aarch64-h/helm_4.2.3_aarch64.deb
+Size: 11722108
+MD5Sum: 2d10317bd37f0dc501c1d216fb935e31
+SHA1: 8fe7a1ae64e47a14f1938d5eedd0fb8958b1d280
+SHA256: 420c555317d818d9f6d033bcb2519c857cde1c590828d1b2e448834c126ff157
+SHA512: 0713ecc11ce1643b9a33ca03b033a7ead6a8993777af5e02d0a3b562e4e82f815c2c2432267b2b57a09eef471a941fb527c267440ef27772c338ef1087d5df4c
+
+Package: ptex-static
+Architecture: aarch64
+Installed-Size: 752
+Maintainer: @termux
+Version: 2.5.2
+Homepage: https://github.com/wdas/ptex
+Depends: ptex (= 2.5.2)
+Description: Static libraries for ptex
+Filename: ../../../../releases/download/aarch64-p/ptex-static_2.5.2_aarch64.deb
+Size: 114884
+MD5Sum: 3e67c1f6b20248f278915a8525c0b0b2
+SHA1: ac00fad28f88b5c7e38a6013f7edd21ddcc3b12d
+SHA256: 0ad21b96eae27b906cb4f082e280ac4bb4fe625fd35fd78fe2f80560edcd56c4
+SHA512: 945106f0d3ce60f5e3da842988a176f11a349b84e2e49a84148f03d5ce182fb631ad7a219b76f27a5b4c36ffa27b756d47f5c2e76d513302d64a65b7d532d5e1
+
+Package: ptex
+Architecture: aarch64
+Installed-Size: 1060
+Maintainer: @termux
+Version: 2.5.2
+Homepage: https://github.com/wdas/ptex
+Depends: libc++, libdeflate
+Description: Per-Face Texture Mapping for Production Rendering
+Filename: ../../../../releases/download/aarch64-p/ptex_2.5.2_aarch64.deb
+Size: 138424
+MD5Sum: 089c3d09a4c1caf0f8544c07ee1161ef
+SHA1: 8efb47ef097bede6391e9d9567ffc3fbc1578814
+SHA256: 4c6928e2455acc6d0f48a9fff1929cf4768bb5368335b5241ce1a8d3ce23e3d1
+SHA512: e25f302ddde194a5d7125c0f778de7f31b2ef93cdb4d66c324d8b386d48ece55235d65562a5bcf6945800fb6571beceb51909ee8b71ffc6d351ce583e5c87bdb
+

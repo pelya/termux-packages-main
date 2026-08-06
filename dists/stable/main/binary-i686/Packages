@@ -32309,3 +32309,47 @@ SHA1: d685ef3fd15945cc15062a9534325e4868b08da4
 SHA256: d044396a726734ed555aa5f95b13a6cb8eeb7b39e60309093725d59044ba1989
 SHA512: 270a921b85d6b1464ede12d5965451096ac02b3fb5b4e2209b582791d955c504a3cbc15f30ce5ec867ce1b5f3ccaf89d966e2b8f26f90643887a6b2453af6f39
 
+Package: helm
+Architecture: i686
+Installed-Size: 78720
+Maintainer: @termux
+Version: 4.2.3
+Homepage: https://helm.sh
+Description: Helm helps you manage Kubernetes applications
+Filename: ../../../../releases/download/i686-h/helm_4.2.3_i686.deb
+Size: 18438932
+MD5Sum: 2fb0ad920151f13b9077754a0814527a
+SHA1: af4d74969e460ee4c9056b4c50c56a126847d6e6
+SHA256: 2171c2c52966558c701961dc971666a2cf2cbdfd2a8bc7504129c5982c2b2a6e
+SHA512: ecff336727c8c148a562cbb7a1f05b2bb7f0e8fcdbb2db2d6d9ad48edce6f646b5a81a86d6294a529dee398f79ea9c5c2c45b7563e03a54412f412c85f8443e5
+
+Package: ptex-static
+Architecture: i686
+Installed-Size: 680
+Maintainer: @termux
+Version: 2.5.2
+Homepage: https://github.com/wdas/ptex
+Depends: ptex (= 2.5.2)
+Description: Static libraries for ptex
+Filename: ../../../../releases/download/i686-p/ptex-static_2.5.2_i686.deb
+Size: 127708
+MD5Sum: e13171c7134e910888d90b2bcafa6ed3
+SHA1: b06d4660f57961853ec373a26c9e8ee8b4e3edc3
+SHA256: e41d3983efa1c0b671ef483c6e495c150396cddb34fec21b75b9bb5778993fcf
+SHA512: cba3567395e04c2a0f5c9d309bb8af758b5826c495b1bbba8de454772de7decc5d72ffc2525b57df0d51ec5aa0452225580a34b5cfd0a4507399c401dc961d9a
+
+Package: ptex
+Architecture: i686
+Installed-Size: 1068
+Maintainer: @termux
+Version: 2.5.2
+Homepage: https://github.com/wdas/ptex
+Depends: libc++, libdeflate
+Description: Per-Face Texture Mapping for Production Rendering
+Filename: ../../../../releases/download/i686-p/ptex_2.5.2_i686.deb
+Size: 144772
+MD5Sum: cc70bcad81664b77686ca0d5084f4667
+SHA1: 5729d8967c6faab1abd181cb26972e9ab619fa41
+SHA256: 354e202bb460da88e13d7bbe5aae88d2cbe2d4eae3f54549a23d838acc2783b3
+SHA512: 0378ca075470aa6586d2ab6f0cb9faedba5bb528cf061b253f7c1bd339016742db764c620d93d02aa9987cddb9020e6300f2a6a2da80b426ca2da1ecf2b80ba4
+

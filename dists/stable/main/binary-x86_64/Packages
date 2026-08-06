@@ -32993,3 +32993,47 @@ SHA1: b2a415d454e8012c0cff268ffd328c39e805ea9a
 SHA256: a4c527b53add1c6d804a15aab58d1d09e9580e9e770bc01863a568a5ffdb1169
 SHA512: 84a33a3df587b869d5830baf361e7605f3502c9b0019350d4ec1c52b73fd6df962217f0fa0e7b533cb81841149d3fbc980f75bfcb123dccbc96655556a4b3a68
 
+Package: helm
+Architecture: x86_64
+Installed-Size: 86520
+Maintainer: @termux
+Version: 4.2.3
+Homepage: https://helm.sh
+Description: Helm helps you manage Kubernetes applications
+Filename: ../../../../releases/download/x86_64-h/helm_4.2.3_x86_64.deb
+Size: 17822316
+MD5Sum: 65d733f569e7462d1b9f4a13b1f6bc40
+SHA1: 179affa443ccfb3d6b94c916d761803515e91d83
+SHA256: 37694cf63a511b48861a273b30f71cf0c1a0b6825f71a63823e3a0130b004a43
+SHA512: e147bc3b91981b4297d5dcfdad3cc5f21b693301cb1b9e0241044305fd369bad93d58286f99ad0feedfc69e66ce8ae96a501b570de19b9715332ff6049d6dd92
+
+Package: ptex-static
+Architecture: x86_64
+Installed-Size: 768
+Maintainer: @termux
+Version: 2.5.2
+Homepage: https://github.com/wdas/ptex
+Depends: ptex (= 2.5.2)
+Description: Static libraries for ptex
+Filename: ../../../../releases/download/x86_64-p/ptex-static_2.5.2_x86_64.deb
+Size: 126544
+MD5Sum: ad6b4181210aeec5229c176e96866aed
+SHA1: d74d0b625f5875fd2fe16b9894b39294393d86f4
+SHA256: 1627fbfb6608c63a015a7cdcc380d67dfe43c22fc63ac1c78d7eab1cc6c1e84e
+SHA512: 1ac9f5aeb5d9ba33f1294d92b0a696adb694e62252fe836588c192ed27fd84e8e56ebd56b96a90bb20065b9846e0e3f646668128f1e1960997c106249f769d91
+
+Package: ptex
+Architecture: x86_64
+Installed-Size: 1084
+Maintainer: @termux
+Version: 2.5.2
+Homepage: https://github.com/wdas/ptex
+Depends: libc++, libdeflate
+Description: Per-Face Texture Mapping for Production Rendering
+Filename: ../../../../releases/download/x86_64-p/ptex_2.5.2_x86_64.deb
+Size: 150392
+MD5Sum: c0a95bf236ddc026e6cf5ca3d7e72e71
+SHA1: 3ad5cbec128d2e05f3a980d0c85f3a4b94803662
+SHA256: 0ee3c4f95aa21cdefe81c1e8d0967f4d43c4567e4b92d278a619a9ba880879b6
+SHA512: 80fda8edb933a36230a56b2de055238e8bd5cee130615c13ef1590d26f68bcdd67768a77f7b3c3154f9073194d9c163de9d260532d062a2c42486f4ef8007737
+

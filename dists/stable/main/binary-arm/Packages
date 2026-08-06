@@ -31692,3 +31692,47 @@ SHA1: a0d627fa0bfa4558f80fd07edd11ca40f323a4f6
 SHA256: 4622c40f57a4c5a98f72edca9fc3271a81ddb6387aaba052e002833c699d0f05
 SHA512: 7e53eb9318a9ef86f9e8c6660e861dcca9cbeac4ab54dc31b5534734d7803e2478262dd08260264fbe93c56dd67a4fddf9ede6d907818ad5cd52ec2c1c0b348e
 
+Package: helm
+Architecture: arm
+Installed-Size: 62096
+Maintainer: @termux
+Version: 4.2.3
+Homepage: https://helm.sh
+Description: Helm helps you manage Kubernetes applications
+Filename: ../../../../releases/download/arm-h/helm_4.2.3_arm.deb
+Size: 12184196
+MD5Sum: 830fc8ea9977d710a7f7a56c3628898e
+SHA1: 6b75c5f7a73310a8365113de0d92227d237173ac
+SHA256: 9b03b1425a06ebeb5f093c81c08bb9f1a1f8e04ea3e0cd3f1f789c894c1ebfeb
+SHA512: 39ccf42a2029b757505d818854bdf2931cadc7cc8c95f58f2ed177b3d18c85e099cff58059a812c8bebe35cd8379a5e763c261c09571518a9035d19544bf20dc
+
+Package: ptex-static
+Architecture: arm
+Installed-Size: 648
+Maintainer: @termux
+Version: 2.5.2
+Homepage: https://github.com/wdas/ptex
+Depends: ptex (= 2.5.2)
+Description: Static libraries for ptex
+Filename: ../../../../releases/download/arm-p/ptex-static_2.5.2_arm.deb
+Size: 114776
+MD5Sum: e1a1fb020659e44de539eb7ef331b865
+SHA1: 804d54115e3e93356a3cfb4d333eec35362eea2b
+SHA256: a41d4849b18799ab825451a3081630272290ad14f95bd49ac3c6498d3a39815c
+SHA512: 3b3e15f8c84eb162f8ed45bfbf2e305d82324f699b65a1a6cff80fea6335aa358fa806cd78278ba5f5c89f40aba1f531b1335bf1099f440f15dc3726bf95f2f9
+
+Package: ptex
+Architecture: arm
+Installed-Size: 896
+Maintainer: @termux
+Version: 2.5.2
+Homepage: https://github.com/wdas/ptex
+Depends: libc++, libdeflate
+Description: Per-Face Texture Mapping for Production Rendering
+Filename: ../../../../releases/download/arm-p/ptex_2.5.2_arm.deb
+Size: 109700
+MD5Sum: 0dd68427b55756dfabbd815f6642b7a8
+SHA1: dec06847fb244094c5b74682d2fecd8d283d8f37
+SHA256: 5b0e0fb2757b1992999965c9598865d066437339a8437077534eefad5898f40c
+SHA512: afe200710cb755f4f95642f1fc80b127de94c472b98f90cc4e9655c11d4af430385bf027fa416b3bf3fd5ca8bbababe44560cbe5548ce9bbd5bc03c48bf81bb7
+
