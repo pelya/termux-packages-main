@@ -32638,3 +32638,32 @@ SHA1: 4d4c4043fdc91dd956f7616070c133af7cbd368e
 SHA256: 61f8c3e95b97c7b3aa2428f2f3c437d60c292cf638d6ce486f217b77593e03d6
 SHA512: 5a88b438ccd3c6a6a5fa560daba9bd31ada94473573f42f9638e6a74ff78de6a6490ed6a37d56437308f82e63a9aad9a8594756b76c8553c95609c81693b3a0f
 
+Package: logo-ls
+Architecture: i686
+Installed-Size: 5868
+Maintainer: @termux
+Version: 2024.07.17-1
+Homepage: https://github.com/Yash-Handa/logo-ls
+Description: Modern ls command with vscode like File Icon and Git Integrations
+Filename: ../../../../releases/download/i686-l/logo-ls_2024.07.17-1_i686.deb
+Size: 1988440
+MD5Sum: 345d4b2d917f42e269845856f46b74f1
+SHA1: 4bab79957050ea3688be765e7daa9161e0c70b05
+SHA256: 0e399fcbca99b9b9e486e693d988bbfc651647f58337c69ec50d26ebf7cd281b
+SHA512: ebe4cc59a774126b106d04a342fac4deaa3b324cf0b83efd8df0db2208b0a4cb5d0ea10f63e92a102404272ba6d82cf7b62555230cea6486e9946ce7db1f288a
+
+Package: sccache
+Architecture: i686
+Installed-Size: 15024
+Maintainer: @termux
+Version: 0.16.0
+Homepage: https://github.com/mozilla/sccache
+Depends: openssl
+Description: sccache is ccache with cloud storage
+Filename: ../../../../releases/download/i686-s/sccache_0.16.0_i686.deb
+Size: 5026804
+MD5Sum: 20b73711478cf0c78a75437f0cb37263
+SHA1: 9cc86bd71c3ec9ad77efeafe7e5d66e3440a0600
+SHA256: 5d7f616a9717ca680672bb43f80280e8628c57e508ee593ff606830d02ecfb73
+SHA512: 5458841de42267cb08c05275b6fd8cfcd4644f718225ebf3c512eaa0a1aac0ddf8ac8ec08a47f7d43d7a83a4be6e985b971d3ccd3158a590f039638a350a91e3
+
