@@ -11737,3 +11737,48 @@ SHA1: 465c35718b4a0b3049c27b226b8abdf45b1b2155
 SHA256: 780afaa37fb14fc5797531648a52503f0840442ffbc7be23efd76183563a8125
 SHA512: 08d69f4668c8fb67322140788d38e49e9cc657e770e0d4583bd93c3b2fbce0cf6a51b89726b71725679a1f54a79beb75ba2625de732409f637cf564df7fd9a09
 
+Package: gtksourceview3-static
+Architecture: i686
+Installed-Size: 996
+Maintainer: @termux
+Version: 3.24.11-3
+Homepage: https://wiki.gnome.org/Projects/GtkSourceView
+Depends: gtksourceview3 (= 3.24.11-3)
+Description: Static libraries for gtksourceview3
+Filename: ../../../../releases/download/i686-g/gtksourceview3-static_3.24.11-3_i686.deb
+Size: 220040
+MD5Sum: 5eea9a480fa07e3fe27a2a78102c5d01
+SHA1: 0c3ba4aa5dfe5d166053e4b8eddea37cb6079a46
+SHA256: 5ea53d24fd590f93dd454e791ce1427049db22722014cc058251d5c9b0420a95
+SHA512: c8b49985833b7b4bb76c6e60f49b4191ac34b972e92fbe227b869c11938cb8bad6020d0f65d92cb1d3e6b56a43671f742a667a4313c029482a164c6d394ac8fb
+
+Package: gtksourceview3
+Architecture: i686
+Installed-Size: 4076
+Maintainer: @termux
+Version: 3.24.11-3
+Homepage: https://wiki.gnome.org/Projects/GtkSourceView
+Depends: atk, gdk-pixbuf, glib, gtk3, harfbuzz, libcairo, libxml2, pango, zlib
+Description: A GNOME library that extends GtkTextView
+Filename: ../../../../releases/download/i686-g/gtksourceview3_3.24.11-3_i686.deb
+Size: 474700
+MD5Sum: 6a46bff1c3d4567829fac2078239c820
+SHA1: 6d54141682c9700644ae62398ab8cf50f0aa4dd9
+SHA256: 5068cced246ec957884efa2f79510ecc374fc5e6ca9104cc08e192eaf91d9954
+SHA512: 52f111711f610a74e451f8f3e19a4c9311152b8405b376652eee2354a59b9b00bcef73d04bf8d28214e42eeccbe35567d6b1cff6254a0c8a8bf4997d9048505c
+
+Package: xfce4-screensaver
+Architecture: i686
+Installed-Size: 784
+Maintainer: @Yisus7u7
+Version: 4.20.2
+Homepage: https://docs.xfce.org/apps/screensaver/start
+Depends: dbus, dbus-glib, garcon, gdk-pixbuf, glib, gtk3, libcairo, libwnck, libx11, libxext, libxfce4ui, libxfce4util, libxklavier, libxss, opengl, pango, termux-auth, xfconf
+Description: Xfce Screensaver is a screen saver and locker that aims to have simple, sane, secure defaults and be well integrated with the desktop.
+Filename: ../../../../releases/download/i686-x/xfce4-screensaver_4.20.2_i686.deb
+Size: 128068
+MD5Sum: 93c9cbc76618a7ed1f969b1085dd2972
+SHA1: 795b8fe22a7cf6d55c26f99d97251c921df03335
+SHA256: 200530d15b4c4f64935e8d3abb3a35077eb69bbc6847972d8b9d46695ce83c02
+SHA512: dcd174562b67c60bd8db840d3f4e8e463266f8f462083dfacc8e9c54a59a35349a33f7968de3fd36475a6fb96b754ffb516c27692955477d025c88386d77a8c8
+

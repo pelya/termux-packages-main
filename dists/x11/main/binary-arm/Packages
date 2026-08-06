@@ -11873,3 +11873,48 @@ SHA1: cebe2f2f0b83bab0c1a46b5900d3ee8b157654e2
 SHA256: dab5d67d98f024a530a65947194ad9332679c162147b9200153c87a21f43550c
 SHA512: f22e7e848cff6e7083ab5bd1f14fc7e3d0c2195647128982b37062ccc883a9cbc0d5c03fa804d686d53446e86ca858442349402bf9ac4e1aec8544a0da39d8d1
 
+Package: gtksourceview3-static
+Architecture: arm
+Installed-Size: 896
+Maintainer: @termux
+Version: 3.24.11-3
+Homepage: https://wiki.gnome.org/Projects/GtkSourceView
+Depends: gtksourceview3 (= 3.24.11-3)
+Description: Static libraries for gtksourceview3
+Filename: ../../../../releases/download/arm-g/gtksourceview3-static_3.24.11-3_arm.deb
+Size: 212096
+MD5Sum: 04ebc0ef15998b2a74b34df98a35132c
+SHA1: 484f8e75b36f54c22d331243f11e917382aed960
+SHA256: 5224ed2b30c1c909620fd01954f02eac7048c537884b0849c7ff3c54a7641f0e
+SHA512: 07de9cc3d325c39d1c8a10dff309d206f87e413e5e3c6152748eb447c2eb6a4b763c56e41732cdb680bfb4eb66e491f97b6d58b1de80c21e94448e2662fcdf94
+
+Package: gtksourceview3
+Architecture: arm
+Installed-Size: 3924
+Maintainer: @termux
+Version: 3.24.11-3
+Homepage: https://wiki.gnome.org/Projects/GtkSourceView
+Depends: atk, gdk-pixbuf, glib, gtk3, harfbuzz, libcairo, libxml2, pango, zlib
+Description: A GNOME library that extends GtkTextView
+Filename: ../../../../releases/download/arm-g/gtksourceview3_3.24.11-3_arm.deb
+Size: 450168
+MD5Sum: bcd1f8382bd4158b4df64ebe2c1a2fcf
+SHA1: d47d1d711985c732073f1ccf715de06e282f9435
+SHA256: e96283f22998ce1d03181898fae73497563f9c75ecc3403607b7fe04151bfad8
+SHA512: 32a6d8765a3df0fe942d71fdfc8c61629d90905a55031b6623e35a2e41f9d0ecd8ac57b7ae81afaa861bf0115d3d14b5c8ed8865141241cfb94b3b180c986e53
+
+Package: xfce4-screensaver
+Architecture: arm
+Installed-Size: 720
+Maintainer: @Yisus7u7
+Version: 4.20.2
+Homepage: https://docs.xfce.org/apps/screensaver/start
+Depends: dbus, dbus-glib, garcon, gdk-pixbuf, glib, gtk3, libcairo, libwnck, libx11, libxext, libxfce4ui, libxfce4util, libxklavier, libxss, opengl, pango, termux-auth, xfconf
+Description: Xfce Screensaver is a screen saver and locker that aims to have simple, sane, secure defaults and be well integrated with the desktop.
+Filename: ../../../../releases/download/arm-x/xfce4-screensaver_4.20.2_arm.deb
+Size: 117616
+MD5Sum: d3dc70265128e3560a6dc052f638fef3
+SHA1: 0a34372723dcf19eeacdcf066a90905a0fd0a3d3
+SHA256: 57cd62cd0d1b2738997a36c1208d4ec796928add356a27e1b499c255d194598e
+SHA512: 9183336a895b85f2a0f0386f83d95bb972cd67e0f0fd2a3eec9899f75a98d72c03fc1aa5c1e1fc5f19a409725cf7d7725373974cdbf25ec015fc8b72f94b2fa8
+

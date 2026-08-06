@@ -12042,3 +12042,48 @@ SHA1: 5b3bbadc71274a474ff5f0784b80549ffcef874b
 SHA256: ed7654094b5b5884bf06ab520df0a4e757495022afcd060f09ec9a433710c74c
 SHA512: 67a47b9a92fae281349b2ac111764531e1017b27ca2427046dcfa4adeb5cae7702a20c9cb99abe3928818bd0074ace763a623c1dc9d3cbc40e47cc16e0655255
 
+Package: gtksourceview3-static
+Architecture: aarch64
+Installed-Size: 1364
+Maintainer: @termux
+Version: 3.24.11-3
+Homepage: https://wiki.gnome.org/Projects/GtkSourceView
+Depends: gtksourceview3 (= 3.24.11-3)
+Description: Static libraries for gtksourceview3
+Filename: ../../../../releases/download/aarch64-g/gtksourceview3-static_3.24.11-3_aarch64.deb
+Size: 225824
+MD5Sum: 4023abb3ad6a2cca6c0f50271b920dcd
+SHA1: 482e95c719c1e675c735e7091927884e149ac203
+SHA256: 5d69abba1567117e65f450c6795674818f65ef9618e211931dc1aeb280cdb5e7
+SHA512: 6e98b9d07da18e46278e95fc2359f41697be5abba7713acbe09a089a6b7e6868223ab7b3dc1f9bd029c6f1214a0d1eb17715d247be907220daf187422c1c488f
+
+Package: gtksourceview3
+Architecture: aarch64
+Installed-Size: 4120
+Maintainer: @termux
+Version: 3.24.11-3
+Homepage: https://wiki.gnome.org/Projects/GtkSourceView
+Depends: atk, gdk-pixbuf, glib, gtk3, harfbuzz, libcairo, libxml2, pango, zlib
+Description: A GNOME library that extends GtkTextView
+Filename: ../../../../releases/download/aarch64-g/gtksourceview3_3.24.11-3_aarch64.deb
+Size: 468996
+MD5Sum: caa82bd6fc1c6d66839a8707278b8fbf
+SHA1: ab5f48df3565052615e8fd26f5891df644e70e44
+SHA256: 59202fa3f0b478cf175f296b9ca0bd81072f939aea5f1a815bb1274b11fb7ca0
+SHA512: 01e919cd965dada46b07a4b28078c4dab860407542d21cf9303c6d75d5e1aed78c3513a333b07c170160e3387c68fe1c5baaa31c001d0a99163d3097ab46ccf4
+
+Package: xfce4-screensaver
+Architecture: aarch64
+Installed-Size: 828
+Maintainer: @Yisus7u7
+Version: 4.20.2
+Homepage: https://docs.xfce.org/apps/screensaver/start
+Depends: dbus, dbus-glib, garcon, gdk-pixbuf, glib, gtk3, libcairo, libwnck, libx11, libxext, libxfce4ui, libxfce4util, libxklavier, libxss, opengl, pango, termux-auth, xfconf
+Description: Xfce Screensaver is a screen saver and locker that aims to have simple, sane, secure defaults and be well integrated with the desktop.
+Filename: ../../../../releases/download/aarch64-x/xfce4-screensaver_4.20.2_aarch64.deb
+Size: 123780
+MD5Sum: ce61caae8cfec0573742ddd4ccaa6c26
+SHA1: e5244996977e331271b711e5e467e0a6fa104c40
+SHA256: 20abcf4f7764033bfc7927407560b061672d0bd41fd8b59e3ff2deb8db7855aa
+SHA512: 5bf145c7ea76802b112cc79b5078b6bf9ad820002b947cf3daa00fa101b3f6a049b34f332438debd665cba730bf255c64194a281782d57b37bc12ae5080abe44
+
