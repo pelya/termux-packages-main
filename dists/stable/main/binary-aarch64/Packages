@@ -33440,3 +33440,31 @@ SHA1: 5cc2fa60843422647472136f62c9f80e3bb49fc2
 SHA256: 7f69758b06dacbae94776bb30375e3b7952ff3e4fa533edb77310bb3a4d57b3f
 SHA512: dd5fdccda9ed5dc63dc15dfdd95357a5cf62bf48bf4dd725ce5eba63d991f077d29e3d6aade5450caa7d4ab7d6f97c4e6a1eaad6f419c5816aba3f531a894c69
 
+Package: posixvala
+Architecture: all
+Installed-Size: 104
+Maintainer: @termux
+Version: 0.2
+Homepage: https://github.com/radare/posixvala
+Description: Aims to bring back the posix profile for Vala
+Filename: ../../../../releases/download/aarch64-p/posixvala_0.2_all.deb
+Size: 4680
+MD5Sum: fd589826689f4ed6c02c5c782d50131d
+SHA1: ae71cb10f4c92715a04f6161f47ad4be051226b1
+SHA256: df9a7e3b8d43d5e9c20b4f97cfb13ff752fd7c5c86aed96cad5ce545e688eab1
+SHA512: 2ee09346be95280ab17b61c05f383bb2ef906ce4eea1a692be851c63520fabb75c82d2bc346f2ec7afc171cced5dd081a52f9c6b50dd3f074b44953a62eb088b
+
+Package: sensible-utils
+Architecture: all
+Installed-Size: 88
+Maintainer: @termux
+Version: 0.0.26
+Homepage: https://packages.debian.org/sid/sensible-utils
+Description: Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager
+Filename: ../../../../releases/download/aarch64-s/sensible-utils_0.0.26_all.deb
+Size: 6032
+MD5Sum: f9eacfb7525eca65c09dea36ecff4793
+SHA1: 0cc2cf4d3a252486924baffb4472f919945f64a7
+SHA256: 077008d7809e4ef1d3f101205b7de77885737b774eef5a186593103724dee01e
+SHA512: 4edbaad0f1cd5d57e1d71ae46da98f5bdbb8d7694aa4ef7f5755f27059585e36e205a637d1200aa2b5795588cafe489e1e495b7363fcd13ca2b64792bc27cc18
+
