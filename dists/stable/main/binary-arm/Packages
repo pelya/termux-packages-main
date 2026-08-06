@@ -32329,3 +32329,32 @@ SHA1: bb97f93ce2058e469f36b754e24676a7fd924547
 SHA256: 8cec6a04d66fadaf8bc0ab54e64ffd83f4689a45cc35d7d1bd80abbc8c8a1b99
 SHA512: a4763983e28dead592e453b954dbf9ecc10449d7f61baf6843801518b3a5ad31dc154d691f79dd9baf81f7a5177f62ec65fcb686c7e2c587ba584978eb3b3016
 
+Package: grap
+Architecture: arm
+Installed-Size: 360
+Maintainer: @xingguangcuican6666 <xingguangcuican666@foxmail.com>
+Version: 1.49
+Homepage: https://www.lunabase.org/~faber/Vault/software/grap/
+Description: Language for typesetting graphs
+Filename: ../../../../releases/download/arm-g/grap_1.49_arm.deb
+Size: 90444
+MD5Sum: c87b5179aafee50cbc3da188f9d0ffc4
+SHA1: f777854dafed833e9afc5f76c4be91c8c8547eb9
+SHA256: f6d3e661671249e9848e9a686890d1f1d619e01f04d8d19b33c0d4fb3c3026e9
+SHA512: 82707ba93fcfe8f0fb088c2ec5b4336ba684f79b559d92096b5d3a97f9c66208b9c9d437a862536ece550f08bc3b3759d778f15b23db4c3be2c1b6040b91bce2
+
+Package: simulavr
+Architecture: arm
+Installed-Size: 1552
+Maintainer: @termux
+Version: 1:1.1.0-3
+Homepage: https://www.nongnu.org/simulavr
+Depends: libc++
+Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
+Filename: ../../../../releases/download/arm-s/simulavr_1.1.1.0-3_arm.deb
+Size: 319360
+MD5Sum: 7569e2bef7f971f90c265c18827ac8be
+SHA1: 2f7733772076e72ce6486422bdb7252631193d99
+SHA256: ded4267b1542c1b4e9307def2926dca7354dbe90c7f3f103f01d63f537c64d19
+SHA512: 69ca217b8806c83513db6f2121a2adbdb542c4c55b1e077cf38dea2d7c0af4f7e84d815b6636fbe112cb758fde3dddf155ff72b83a2181d18a3231d9880a1fe3
+
