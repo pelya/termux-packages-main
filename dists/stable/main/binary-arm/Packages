@@ -32731,3 +32731,31 @@ SHA1: 0edd0b6c9cfc988152e11dcc0bdf77db2b6bfe06
 SHA256: 5fa98954fe7d6e88d05cd4d3b325e0dc62c557d8d43aceac1df424a2fe30e347
 SHA512: 4fdde8dd81b0e3a26f2ab0375e5c9728e5a26f8196f495d8b795d16c2209da18a44e20467103b7da116f52e19a0c2f788bbe971c203f7eec5d14d6169f0a9789
 
+Package: ncompress
+Architecture: arm
+Installed-Size: 68
+Maintainer: @termux
+Version: 5.0-1
+Homepage: https://github.com/vapier/ncompress
+Description: The classic unix compression utility which can handle the ancient .Z archive
+Filename: ../../../../releases/download/arm-n/ncompress_5.0-1_arm.deb
+Size: 11440
+MD5Sum: 4d51bf2f0c3387ba57e89a168b5bde4a
+SHA1: 3e2897b49fa3c7b8bfc15e080691ea00ea1e8363
+SHA256: 298005bbd751a6eec0a63fa73917e29040e59abf46ed8a3385c967e40dbb3490
+SHA512: 4b2459c4dbc12abfa5e7ddf57d827c32d75c853ce15e03755a3e1903ccb970249fdfeea1da1c188c136020db5f79e852dc60253330a23513eb60da0860ef5212
+
+Package: teleport-tsh
+Architecture: arm
+Installed-Size: 127748
+Maintainer: @termux
+Version: 18.10.0
+Homepage: https://github.com/gravitational/teleport
+Description: Secure Access for Developers that doesn't get in the way
+Filename: ../../../../releases/download/arm-t/teleport-tsh_18.10.0_arm.deb
+Size: 23335972
+MD5Sum: 0fd43b1759e20572da35aac5002339ed
+SHA1: 3abbefd2698f13e7ec19770b796924e2248a932e
+SHA256: 1c4a547fc8ad506f6eaaca8f462034a14b4b627bf3de08f0ac3f9714f7a27f79
+SHA512: 8d4882a3edf0ce964d7d5695bc14ccaa0323cab3fc36cdbc3571a2a472365bea8bbff8e1bee86c6a992dcece88b95d620eec2cc15a9372123be21c82b6b97dd1
+
