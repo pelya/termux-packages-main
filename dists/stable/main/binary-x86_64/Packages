@@ -33884,3 +33884,32 @@ SHA1: 2347ca9f93d54a8a1b1ed35515b7f914a5a6a769
 SHA256: 1627c7f45da01907a085d44b206edbfcdb79ec5e293cbf088c24fe86f379a039
 SHA512: 8cda10e0f833c4ec9c12821f65157ac6d861a45f3bcbdf1ffce9a15ad1460a43f3cadb6a401358d71172bd31d2ff73967d2a76934842539f18a644280f5b11f6
 
+Package: moria
+Architecture: x86_64
+Installed-Size: 796
+Maintainer: @termux
+Version: 5.7.15-7
+Homepage: https://umoria.org
+Depends: libc++, ncurses
+Description: Rogue-like game with an infinite dungeon
+Filename: ../../../../releases/download/x86_64-m/moria_5.7.15-7_x86_64.deb
+Size: 233836
+MD5Sum: adc4c8d911da8d4f78dcf728e3fb4f54
+SHA1: 4b8f9fa54f70ceb764f97dced9d889698ddd65fe
+SHA256: cbb4ee8b550b9c2481251e2502832418bad71a615a342baedef2b16a6c01c8e2
+SHA512: e73d1413223636dcc2b2725c50985613786634aeb9caa31387d0608badfaed180721af1d81ad99f677c6229c0360944bf2fd649debc463c9ed118892b10a6384
+
+Package: zellij
+Architecture: x86_64
+Installed-Size: 44412
+Maintainer: Jonathan Lei <me@xjonathan.dev>
+Version: 0.44.3
+Homepage: https://zellij.dev/
+Description: A terminal workspace with batteries included
+Filename: ../../../../releases/download/x86_64-z/zellij_0.44.3_x86_64.deb
+Size: 8613032
+MD5Sum: ea5fae7b907276791e0c878dfaf1b915
+SHA1: 1756ea5c85762504338a6c2536d2d07b6eb1c783
+SHA256: 14edb7ef3489c898d8cc8c24bcda3f0c9c360534df4286b7ed78a3442b15f844
+SHA512: 954e6b0ec3b6f161d37954afec4d0c6daed5e8fac9e8afe6f8692fc916d67b9abecdc305b61b3b53b9f0a608af8cb8da38739d08cccd8881673a4c19b3adde68
+

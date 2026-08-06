@@ -32538,3 +32538,18 @@ SHA1: 8fecc6b2d2d441a91ebb7e54f66e2d3543321447
 SHA256: 476b59008b995f85d16d545be4e05ed885eb000aa867179522f77600c82f4acb
 SHA512: e38e312ce4088ee42ac09c30232052fc0754e2074aebe1c139cc7f8680695beda6467bff3e6fff292b865c429ddded9b68c505486c0eb89dd0bf89de89ad24fc
 
+Package: moria
+Architecture: arm
+Installed-Size: 640
+Maintainer: @termux
+Version: 5.7.15-7
+Homepage: https://umoria.org
+Depends: libc++, ncurses
+Description: Rogue-like game with an infinite dungeon
+Filename: ../../../../releases/download/arm-m/moria_5.7.15-7_arm.deb
+Size: 206596
+MD5Sum: 62663e7163b4746d7772fae0f531a5c1
+SHA1: 72cee6ecf0ca1d062c3360982774a777552ce190
+SHA256: d882600ec8f343892fb87478a0b9b67c8d582cd8175e6cf2811acde6cdadc739
+SHA512: 4f2019148e0916879dce378e5e5f1c28044df18e5467a48501bcf5b52c3f20c6c81d59e4780becdd2bedd08551464f8c018bfe50bb5caa5b877022e544705b8e
+
