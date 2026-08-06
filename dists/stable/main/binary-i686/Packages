@@ -33124,3 +33124,19 @@ SHA1: 376a16d6f6c74a9f9024622121128b8fcb274881
 SHA256: 57703c8da5200ef43250051b3a0903fc8a993c93cb111f526f5b521ebb438394
 SHA512: f65bf98f03f9665a621c98b500824ca92a22cf4e3cbc643f595bf0bf02344ea871ef56d19b1f983fba20238c3457acf8ea54db694df44e0c97b0a4ba52384773
 
+Package: blackbox
+Architecture: all
+Installed-Size: 160
+Maintainer: @termux
+Version: 1:1.20220610
+Homepage: https://github.com/StackExchange/blackbox
+Depends: gnupg
+Suggests: git, subversion
+Description: Safely store secrets in Git/Mercurial/Subversion
+Filename: ../../../../releases/download/i686-b/blackbox_1.1.20220610_all.deb
+Size: 12452
+MD5Sum: df48e71efa5bf532dab7f9f5789c4b51
+SHA1: 2e7eb683b6b37b814175a60245676c7a0bd7643c
+SHA256: f651192d7cfb17ed0bb40dbd68551fb474832d54b80e72534987ffa532455f9d
+SHA512: 1c42c7e097f1ca246a08a9a2604f42543756977f0a128251051265eab1c02c7571fb0d97e592ea4a177e396635ac48c9dd3a5f67070e34d6449e8ce648d71da2
+
