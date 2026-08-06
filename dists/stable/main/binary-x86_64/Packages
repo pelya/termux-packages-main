@@ -34119,3 +34119,33 @@ SHA1: c105aaf31c2db4797b83a021a3e89931c6c7a178
 SHA256: dcaa2f29135e6138e28ffaabede284a7b6f04f9bd7dc45d2c25639284c7e46ef
 SHA512: 56f316d436b80eccf519122168d9b9fc083f82bfaef72fb8edddf66b995f608f67c4d95560730f3c2f6b6ce9191ea678f81862b4e5e7d97a9bf2c4f67a443427
 
+Package: enblend
+Architecture: x86_64
+Installed-Size: 5320
+Maintainer: @termux
+Version: 4.2.0p20161007-8
+Homepage: https://enblend.sourceforge.net/
+Depends: gsl, libandroid-glob, libc++, libtiff, libvigra, littlecms
+Description: A tool for compositing images using a Burt&Adelson multiresolution spline
+Filename: ../../../../releases/download/x86_64-e/enblend_4.2.0p20161007-8_x86_64.deb
+Size: 1012392
+MD5Sum: 4563617dcde8987d47f73c0092961f5d
+SHA1: 232f8ec5afa7a132c59314c373114a003bc4faaa
+SHA256: 397ca893096a1ce83428dc4887edc4e454df441e0b3b815c43c4a202e5579b81
+SHA512: d2033f804c211469a55dd42ac1c9ec38e53d48ada342fd44eb9f43032b380e0b004a8958baf5392d750290076d7042893e6fea02cc7424f40882d690462f9c69
+
+Package: hugo
+Architecture: x86_64
+Installed-Size: 69892
+Maintainer: @termux
+Version: 0.164.0
+Homepage: https://gohugo.io/
+Depends: libc++
+Description: A fast and flexible static site generator
+Filename: ../../../../releases/download/x86_64-h/hugo_0.164.0_x86_64.deb
+Size: 15706748
+MD5Sum: 8b135046a884bb4d335eb6c15b8f2fa7
+SHA1: d3deba54bce644ede84a4ead5cd15b308e3d314a
+SHA256: 8eff245ab7e73f2ffed9b5d7d2d16ec601746b578dc6ee189a14a192f621b0cd
+SHA512: 00348f5e5c2c50a006d2679a0ff510622373b1a447e7c6c398779894fe75503b74b4c62c4e028fe05804705c7eec17338520f36307aced60a6e832f583835715
+
