@@ -32277,3 +32277,35 @@ SHA1: 6af4001b30f444a07239181b9055359bd554b6bb
 SHA256: 55d5c0f8c129045e32b95c6a7f2a418873c3572fb4c1a93421665e030ec89dac
 SHA512: edc7b6ab266583d9a043fad1277a20e9995d9932cbe65098e39b2dd8c3ad4b560c357df7d76f79800bbc1c72cc57449a1ea20091fe32b479118e665b76dada1d
 
+Package: etsh
+Architecture: i686
+Installed-Size: 284
+Maintainer: @termux
+Version: 5.4.0-1
+Homepage: https://etsh.nl
+Description: An enhanced, backward-compatible port of Thompson Shell
+Filename: ../../../../releases/download/i686-e/etsh_5.4.0-1_i686.deb
+Size: 76068
+MD5Sum: eb8f32ae53e8296a5549f82045b6ada7
+SHA1: 1e740ef700abc9683005a9b71084939864092b98
+SHA256: aa3534933cbccf3761b386fe21e37a7b00367f886ac0de461a9e4eaf70256e50
+SHA512: 59d0087a7f6264f4c9e0f9634aed56938b49b8cd07aeef1193cf286e70154e8458f1b01aa37b5cbd02bd514bc2bf07e8885733e3a7cd68c943d9b87ea8e167b7
+
+Package: redis
+Architecture: i686
+Installed-Size: 3448
+Maintainer: @termux
+Version: 1:8.8.0
+Homepage: https://redis.io/
+Breaks: valkey
+Depends: libandroid-execinfo, libandroid-glob
+Conflicts: valkey
+Replaces: valkey
+Description: In-memory data structure store used as a database, cache and message broker
+Filename: ../../../../releases/download/i686-r/redis_1.8.8.0_i686.deb
+Size: 1124844
+MD5Sum: 04df6370390721d3dc1b8cc24ebb3d47
+SHA1: d685ef3fd15945cc15062a9534325e4868b08da4
+SHA256: d044396a726734ed555aa5f95b13a6cb8eeb7b39e60309093725d59044ba1989
+SHA512: 270a921b85d6b1464ede12d5965451096ac02b3fb5b4e2209b582791d955c504a3cbc15f30ce5ec867ce1b5f3ccaf89d966e2b8f26f90643887a6b2453af6f39
+
