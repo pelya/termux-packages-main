@@ -33452,3 +33452,48 @@ SHA1: 0cc2cf4d3a252486924baffb4472f919945f64a7
 SHA256: 077008d7809e4ef1d3f101205b7de77885737b774eef5a186593103724dee01e
 SHA512: 4edbaad0f1cd5d57e1d71ae46da98f5bdbb8d7694aa4ef7f5755f27059585e36e205a637d1200aa2b5795588cafe489e1e495b7363fcd13ca2b64792bc27cc18
 
+Package: iwyu
+Architecture: x86_64
+Installed-Size: 8600
+Maintainer: @termux
+Version: 0.25-2
+Homepage: https://include-what-you-use.org/
+Depends: clang (>= 21), clang (<< 22), libc++, python
+Description: A tool to analyze #includes in C and C++ source files
+Filename: ../../../../releases/download/x86_64-i/iwyu_0.25-2_x86_64.deb
+Size: 621584
+MD5Sum: 371c7a4c0eadd316546b25437888c1cd
+SHA1: 1f876ce0e69ef2b97fbe89e75faf139ae743bca7
+SHA256: 1a93b976229c85d4f9494513781f02b415accc483167564b3322650a7f321be5
+SHA512: 15a2af7b44c3848bdf5fd18097572cd87b87d73da9d3390508ef00d5245198608b26625524b12eddcbb73406ea3614bcb53848b60893e910db2cc989a12adc82
+
+Package: liblangtag-static
+Architecture: x86_64
+Installed-Size: 376
+Maintainer: @termux
+Version: 0.6.7-2
+Homepage: https://bitbucket.org/tagoh/liblangtag/wiki/Home
+Depends: liblangtag (= 0.6.7-2)
+Description: Static libraries for liblangtag
+Filename: ../../../../releases/download/x86_64-libl/liblangtag-static_0.6.7-2_x86_64.deb
+Size: 52024
+MD5Sum: 9101a86966b2253f1d3be031216b35de
+SHA1: 608f6487de2ffbf23c48d2d576241f24ba74558e
+SHA256: 785d0dd4a10a67c0c740aac1ea9c1dd6a6bcbc526ae9427c690ae234a6fc9eb7
+SHA512: 01c108d3eea0f4a590f859e60a0341c80bfe3711f15dda802398c7defea3e507a6da84845cf6dff7884b841b0ec50642b0051fc8a3214b1b1fb8b8f0532094ab
+
+Package: liblangtag
+Architecture: x86_64
+Installed-Size: 2572
+Maintainer: @termux
+Version: 0.6.7-2
+Homepage: https://bitbucket.org/tagoh/liblangtag/wiki/Home
+Depends: libxml2
+Description: interface library to access/deal with tags for identifying languages
+Filename: ../../../../releases/download/x86_64-libl/liblangtag_0.6.7-2_x86_64.deb
+Size: 246492
+MD5Sum: 6f1d24710c0eca959fe335adb376165e
+SHA1: 517800e9720e6e6310eaecb0c6e261dca5486866
+SHA256: bd5cf7b0bd1c00c78a9cee054aa9f11e21832bd6def701f0d12b43bdcac2b0f1
+SHA512: 83c56404bcb6f2d40f0c3ff5de9c4806c44e3452a23c27d186253a26f3cffd206e29067b28805086be6d28142f15d2668fb4d7ae3f686f28a74732caf059701b
+

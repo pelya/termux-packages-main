@@ -32135,3 +32135,48 @@ SHA1: 0cc2cf4d3a252486924baffb4472f919945f64a7
 SHA256: 077008d7809e4ef1d3f101205b7de77885737b774eef5a186593103724dee01e
 SHA512: 4edbaad0f1cd5d57e1d71ae46da98f5bdbb8d7694aa4ef7f5755f27059585e36e205a637d1200aa2b5795588cafe489e1e495b7363fcd13ca2b64792bc27cc18
 
+Package: iwyu
+Architecture: arm
+Installed-Size: 7780
+Maintainer: @termux
+Version: 0.25-2
+Homepage: https://include-what-you-use.org/
+Depends: clang (>= 21), clang (<< 22), libc++, python
+Description: A tool to analyze #includes in C and C++ source files
+Filename: ../../../../releases/download/arm-i/iwyu_0.25-2_arm.deb
+Size: 569976
+MD5Sum: ca4d8591f646486b9fc63fb5311a63cc
+SHA1: c74d19b7b33f75b00e3d8e1a94d39c05b30fe01f
+SHA256: 2c6055f6682e3147f14835c63d1ae9964721ffbc3a32966b721f7993ad7cb7c5
+SHA512: f3f811885a3143e607a79e11354e291c379bc20ebb2a1b4db517172e02f9f2d456df3de928f0ff52c82d18bcc8cd20777cf704ab5e58f9012e9ca42e3d9a0a51
+
+Package: liblangtag-static
+Architecture: arm
+Installed-Size: 264
+Maintainer: @termux
+Version: 0.6.7-2
+Homepage: https://bitbucket.org/tagoh/liblangtag/wiki/Home
+Depends: liblangtag (= 0.6.7-2)
+Description: Static libraries for liblangtag
+Filename: ../../../../releases/download/arm-libl/liblangtag-static_0.6.7-2_arm.deb
+Size: 49600
+MD5Sum: f4b9b4935128b694d479480e115263ee
+SHA1: 53d429634a21760ec1a2059aff1a3971825119e5
+SHA256: b0f9191714df435424e3d3ab86817ed599f100fbc7d57c37ad70ad3539fabf80
+SHA512: d5514533bf09b08b42f3a4def368eb70d43c12183508ea39864f0cd7cf0392a7d2bfe05c4b7c8a53e05458d8aea28f455bdeaca503b25daa2e1c2f59a777e073
+
+Package: liblangtag
+Architecture: arm
+Installed-Size: 2524
+Maintainer: @termux
+Version: 0.6.7-2
+Homepage: https://bitbucket.org/tagoh/liblangtag/wiki/Home
+Depends: libxml2
+Description: interface library to access/deal with tags for identifying languages
+Filename: ../../../../releases/download/arm-libl/liblangtag_0.6.7-2_arm.deb
+Size: 238516
+MD5Sum: cb4dae0f764575aad8c116cdb9625846
+SHA1: bfaf4f282947077c9844c20c58c27ee3a440f5ba
+SHA256: da90b37d751e8497d1dad1878189fc4b1c4cca9ffcf5501958b45a32e237c85e
+SHA512: bd97d46d67fbf0d2eb6fd30cff9f2d0ff0c552630aec173b69cb7a593932f12ff8f0e217ec2bf1259aacc4b63268a7cb2d9bc3c9b62ff6f2a2fcd32a2b3fe34c
+

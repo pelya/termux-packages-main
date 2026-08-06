@@ -33468,3 +33468,48 @@ SHA1: 0cc2cf4d3a252486924baffb4472f919945f64a7
 SHA256: 077008d7809e4ef1d3f101205b7de77885737b774eef5a186593103724dee01e
 SHA512: 4edbaad0f1cd5d57e1d71ae46da98f5bdbb8d7694aa4ef7f5755f27059585e36e205a637d1200aa2b5795588cafe489e1e495b7363fcd13ca2b64792bc27cc18
 
+Package: iwyu
+Architecture: aarch64
+Installed-Size: 8816
+Maintainer: @termux
+Version: 0.25-2
+Homepage: https://include-what-you-use.org/
+Depends: clang (>= 21), clang (<< 22), libc++, python
+Description: A tool to analyze #includes in C and C++ source files
+Filename: ../../../../releases/download/aarch64-i/iwyu_0.25-2_aarch64.deb
+Size: 583328
+MD5Sum: 37918e764b3aaa2debb9108cf792346b
+SHA1: e8b220dd90638e24dedd05d32a4372363826c52c
+SHA256: 93aecd6655850c4020fb4d67e88e6982d59a4ca42089fa5d59c5555b3a84b0f2
+SHA512: b2e4235b426d869edfc0415ec3e9d4be58eeb747086e7c5ce8d4a217945a0b1068b3a1c37ff140c64ee7fcfd48ad93eea62c42ba03c7830a707030fe81044b21
+
+Package: liblangtag-static
+Architecture: aarch64
+Installed-Size: 380
+Maintainer: @termux
+Version: 0.6.7-2
+Homepage: https://bitbucket.org/tagoh/liblangtag/wiki/Home
+Depends: liblangtag (= 0.6.7-2)
+Description: Static libraries for liblangtag
+Filename: ../../../../releases/download/aarch64-libl/liblangtag-static_0.6.7-2_aarch64.deb
+Size: 52172
+MD5Sum: 8f8e48d8a329c46c410eb277a0f5789e
+SHA1: 554803ff0cd68e5ab5908fab7cf4586631c61f6b
+SHA256: 7619e0804a7dbad6678e52c2170c3ef3ee0532427db24111d336ab62cd8534a3
+SHA512: 8e000a95e8e4b79dfb048287a6177c29a57766fcfd788965aecc0cd412db1f9ee499f9ba6efff34fec60d41ddb60e87c74b904c7939e941b875eac484359d4a2
+
+Package: liblangtag
+Architecture: aarch64
+Installed-Size: 2580
+Maintainer: @termux
+Version: 0.6.7-2
+Homepage: https://bitbucket.org/tagoh/liblangtag/wiki/Home
+Depends: libxml2
+Description: interface library to access/deal with tags for identifying languages
+Filename: ../../../../releases/download/aarch64-libl/liblangtag_0.6.7-2_aarch64.deb
+Size: 244252
+MD5Sum: 15aa5edcbeb4a18edc9e28bd07e1476c
+SHA1: 27b350849016bf5b847d9c27d91403475c673884
+SHA256: 54f6575761a02669eb638e1ef1a00717285d922d1b8cb85877525964c37eaf63
+SHA512: 323d548a36a7446d33b642a3edb0037e400326d6bd661957f0fc72f20e3b5cc9aada98ce1871e813e36612c098e67c4b70b4827e1a89ed8a229eb07fee3a296a
+

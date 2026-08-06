@@ -32752,3 +32752,48 @@ SHA1: 0cc2cf4d3a252486924baffb4472f919945f64a7
 SHA256: 077008d7809e4ef1d3f101205b7de77885737b774eef5a186593103724dee01e
 SHA512: 4edbaad0f1cd5d57e1d71ae46da98f5bdbb8d7694aa4ef7f5755f27059585e36e205a637d1200aa2b5795588cafe489e1e495b7363fcd13ca2b64792bc27cc18
 
+Package: iwyu
+Architecture: i686
+Installed-Size: 8836
+Maintainer: @termux
+Version: 0.25-2
+Homepage: https://include-what-you-use.org/
+Depends: clang (>= 21), clang (<< 22), libc++, python
+Description: A tool to analyze #includes in C and C++ source files
+Filename: ../../../../releases/download/i686-i/iwyu_0.25-2_i686.deb
+Size: 673748
+MD5Sum: 7761435de6bbd61e763ffa78ec0b459f
+SHA1: 588de858fa0a6993a2d8ba7413864e1c2bce9c4d
+SHA256: 7bb0c736c7e3d1ef651a47811c74d736f868e9d5a55d6f6870d466cccc56b6e4
+SHA512: 2ebf9daa56d8a332ca3a82db3266c45330f909f7c2f536044f763514174c6ea3b982af88db985bb8686daab2b627d5e267a7cc61c4d3d0c5c74de28a7396a03f
+
+Package: liblangtag-static
+Architecture: i686
+Installed-Size: 296
+Maintainer: @termux
+Version: 0.6.7-2
+Homepage: https://bitbucket.org/tagoh/liblangtag/wiki/Home
+Depends: liblangtag (= 0.6.7-2)
+Description: Static libraries for liblangtag
+Filename: ../../../../releases/download/i686-libl/liblangtag-static_0.6.7-2_i686.deb
+Size: 52032
+MD5Sum: 8a458af26a0074bba3b143702266f182
+SHA1: 9758880e0ba38da87b5ecb6a949552a0b4858d82
+SHA256: cc478a6161fbcbb771ef22f263bb8a5d34a1dc929a18bc92b5aa18ab0ad5bfdb
+SHA512: d0ad6619c1e2b4c9454a34178da9bd5b1a22b6f54e348e468033a66ad3097c3c2939f930bf3fbf84d060a52d1cef1567f562a4ac9a460fa60ed6ddb943fc9c83
+
+Package: liblangtag
+Architecture: i686
+Installed-Size: 2564
+Maintainer: @termux
+Version: 0.6.7-2
+Homepage: https://bitbucket.org/tagoh/liblangtag/wiki/Home
+Depends: libxml2
+Description: interface library to access/deal with tags for identifying languages
+Filename: ../../../../releases/download/i686-libl/liblangtag_0.6.7-2_i686.deb
+Size: 245440
+MD5Sum: f54fdec8a8619742dd3f1098a6afe1a6
+SHA1: 2eb71fb3d492f85fb4de7da8a54dea28de6f32e0
+SHA256: 97247ea8c4e9812152d16bcd9d2b5b9d975ffbdbd75144dbbb1342d2c339da3e
+SHA512: 0a7ceba22bb71c5343c7eff46ba1ff89711408e72fe2f3c8d509394bacf2755179be25338c918150c62b13a2a9ae8d843e86ca4b571c4cd0c1d8b8a830017893
+
