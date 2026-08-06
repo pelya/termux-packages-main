@@ -12012,3 +12012,18 @@ SHA1: e9f09f478d1d133a58801f58741142638ff7ee49
 SHA256: 6ede858d5f1b9f212b7658a124b3b9d08e698dea1392ebc73569a4034fc2eb59
 SHA512: 40e33b0dc1aaf327edc1bad37dc9a44d399831b7abec39069a2118f7b474e2ba142f798f973ed88cab3ceee929916fca51c2e82136f6f9cae5f41f28b89d2235
 
+Package: bochs
+Architecture: x86_64
+Installed-Size: 6120
+Maintainer: @termux
+Version: 3.0-1
+Homepage: http://bochs.sourceforge.net/
+Depends: glib, gtk3, libc++, libx11, libxpm, libxrandr, ncurses, pango, readline
+Description: Bochs is a highly portable open source IA-32 (x86) PC emulator and debugger written in C++.
+Filename: ../../../../releases/download/x86_64-b/bochs_3.0-1_x86_64.deb
+Size: 1570896
+MD5Sum: 39790ed4be4e59338134613e5a99bf17
+SHA1: be1e5994e8fee90d67ccba1b3bbc96b67829a09f
+SHA256: dab3d347ee7983c9016b464ded75e6083143c7534407164f4d38706fe6f3fd82
+SHA512: 618f8989c217d2b083d8537b3f151194c50ed2a258c671ca2e0254629bbe49ff7cf955060a4176f4ef43082f05b83f9b5e9f3ad88ddcee641c027c9a3d2f79d1
+

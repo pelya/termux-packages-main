@@ -32387,3 +32387,33 @@ SHA1: 02b2cb44d94aaf00ade42736176f5cf74a5d66b7
 SHA256: 693ea4db6c40bec838829de5f7a8bb87be9b4e80aa08247b2338283aeffb55b5
 SHA512: ccd28a6179c2f535970d5cc372a24d70beb3b4d06d1a66d57bc0fdddf0b9986ea2181aadb09c3651c1281d450e3c21035409f25d98b151774d75b1ec7e340cb6
 
+Package: librocksdb-static
+Architecture: arm
+Installed-Size: 28132
+Maintainer: @termux
+Version: 8.11.3-3
+Homepage: https://rocksdb.org/
+Depends: librocksdb (= 8.11.3-3)
+Description: Static libraries for librocksdb
+Filename: ../../../../releases/download/arm-libr/librocksdb-static_8.11.3-3_arm.deb
+Size: 4152448
+MD5Sum: 4c0fb04a2747964f0e877df83946bd99
+SHA1: 7116b5553754ff6d7406f797c36e2eb6b8dd3687
+SHA256: a434acb9b11c5f69e9668cbd0e938e56312d528759655b73c2031c0c89ef8cab
+SHA512: dad8f3a1c9cac4e4675d5b00c7b7e582b817ab24daa4dde423ea414660b386633e272b8d591044af861e691b097ea73bb931594d714996fbd73d98384dcde920
+
+Package: librocksdb
+Architecture: arm
+Installed-Size: 10504
+Maintainer: @termux
+Version: 8.11.3-3
+Homepage: https://rocksdb.org/
+Depends: gflags, libc++, libsnappy
+Description: A persistent key-value store for flash and RAM storage
+Filename: ../../../../releases/download/arm-libr/librocksdb_8.11.3-3_arm.deb
+Size: 2935904
+MD5Sum: 360048e02e08632a79c13837947a1019
+SHA1: 51256d368a12f8157c3d012ec392e80095c8ce7c
+SHA256: baa9f7dd1f5263880fbaea594ab27e87e375ee6d8511370c8d932faddd067afc
+SHA512: 07c5f9255b00a8a238aef3d46f7f235d988b725a6f776bd4148d8ca183b24eb90487a58baae916a631fac1aa9fb945467dc48669cf8959080ec29130b0aabf68
+
