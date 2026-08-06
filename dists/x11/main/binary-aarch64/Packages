@@ -11828,3 +11828,18 @@ SHA1: f714309b9463a1959104ed3eab438bc9841dc3c7
 SHA256: 848df6443eacf148ea1aa05951f6600a861d26beacb5d4791ea9862413791721
 SHA512: 9fba39ee766632221b9002ee34523df71a86b29c3cf731d370ed9542a47c82a6a6d1068c78b70d2b7b4ec341255eb6ff46ac1b23c6e6436b2633e3f37c7610b4
 
+Package: xdotool
+Architecture: aarch64
+Installed-Size: 236
+Maintainer: @termux
+Version: 3.20211022.1-1
+Homepage: https://github.com/jordansissel/xdotool
+Depends: libx11, libxtst, libxinerama, libxkbcommon
+Description: simulate (generate) X11 keyboard/mouse input events
+Filename: ../../../../releases/download/aarch64-x/xdotool_3.20211022.1-1_aarch64.deb
+Size: 57020
+MD5Sum: 7c2d4e7afcdb1145c1bcbe6a44708083
+SHA1: deb321938f35c19fe442983a13d2560f28dd4cef
+SHA256: df979cfb655fe119452051b2fbaadf740d44fd69555dea2823ddf3ddd0fac1fb
+SHA512: ca5781f616ccedf55d120b4c3c577c726cf720c911e197661fbc78eea6479b19821193b11f56aa4c93f55754276ec3da596417a4a21b1d2955731725e2c36884
+

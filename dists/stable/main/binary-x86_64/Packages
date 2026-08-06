@@ -32887,3 +32887,33 @@ SHA1: 0867a4e78f626e10fff2ad6a2203d3f2ad548e5d
 SHA256: 306cdb842717223beac884636da634987839a21458d0bdb1bc8e20b0728e11c0
 SHA512: 6448f1d8cf6ed1fed723ed4ec73dcb2fa1772e0f788f69e7e3abe804135d46f04d78ff8e20f5d313d74521a92cd41cad008a7eb20337eb4b56e2680d76d2fe6b
 
+Package: libminizip-ng-static
+Architecture: x86_64
+Installed-Size: 52
+Maintainer: @termux
+Version: 4.2.2
+Homepage: https://github.com/zlib-ng/minizip-ng
+Depends: libminizip-ng (= 4.2.2)
+Description: Static libraries for libminizip-ng
+Filename: ../../../../releases/download/x86_64-libm/libminizip-ng-static_4.2.2_x86_64.deb
+Size: 11068
+MD5Sum: dc90da245dafab6f76fa2a067c39aff8
+SHA1: 8ab757de9d621fbfc3cbafd32e41b1b59ce7ebbc
+SHA256: ff6ea3e72d369bed19186ea5d0bb5ee803887f303ad50fa4aff705d6654dceae
+SHA512: 3895bf2a994343b3f7e327feb08ea7e4bea853fc7ceccbe2e7adc4a47ce8b236d03172a9a492e241b4dfa4d49f914abf2060c0180a50de2a7692c97c53d94b0c
+
+Package: libminizip-ng
+Architecture: x86_64
+Installed-Size: 340
+Maintainer: @termux
+Version: 4.2.2
+Homepage: https://github.com/zlib-ng/minizip-ng
+Depends: libbz2, libiconv, liblzma, openssl, zlib
+Description: A zip manipulation library written in C
+Filename: ../../../../releases/download/x86_64-libm/libminizip-ng_4.2.2_x86_64.deb
+Size: 67588
+MD5Sum: 1bfece9328b3987387ce748453d9e2d3
+SHA1: b287e3656d1d101a1011d7d21baa2f8d4f745c94
+SHA256: d2aff87c009e8db5b2e62cc1b8c5bde6c4775af8c050c3c63776c61bc7d5c245
+SHA512: 223db1b1dfb03534f43710a430b4f8a3b330e5f97f06e248d0690470d309c05e3ea729e0b20da8c60aa018f3040d92e65f452b9437317dfb698fb3a2ebda87dd
+
