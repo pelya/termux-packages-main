@@ -33913,3 +33913,47 @@ SHA1: 1756ea5c85762504338a6c2536d2d07b6eb1c783
 SHA256: 14edb7ef3489c898d8cc8c24bcda3f0c9c360534df4286b7ed78a3442b15f844
 SHA512: 954e6b0ec3b6f161d37954afec4d0c6daed5e8fac9e8afe6f8692fc916d67b9abecdc305b61b3b53b9f0a608af8cb8da38739d08cccd8881673a4c19b3adde68
 
+Package: base16384
+Architecture: x86_64
+Installed-Size: 152
+Maintainer: @termux
+Version: 2.3.2-1
+Homepage: https://github.com/fumiama/base16384
+Description: Encode binary to printable utf16be
+Filename: ../../../../releases/download/x86_64-b/base16384_2.3.2-1_x86_64.deb
+Size: 18392
+MD5Sum: c171d9036ca82cf3174eba16f4fcf2b2
+SHA1: 2598c64b6fba80724f5adb09319ebe6e449f1757
+SHA256: a872da1be1ba7f2d58a1bae5d8a6b4736ee646dc07b7f330739f5c1132558e68
+SHA512: d0aadad2e31ba83c19a088cfe41a3fb59689321317bd9357f0fdc39641caabdec914ab130a1fe9d966dbfe287c219664813658a8013152fb4de5b3c106f3c330
+
+Package: racket-static
+Architecture: x86_64
+Installed-Size: 6272
+Maintainer: @termux
+Version: 9.2
+Homepage: https://racket-lang.org
+Depends: racket (= 9.2)
+Description: Static libraries for racket
+Filename: ../../../../releases/download/x86_64-r/racket-static_9.2_x86_64.deb
+Size: 1295036
+MD5Sum: 24ed297d3b9ccc06398ebaf1decb9b8f
+SHA1: f33441206a7822d45da14bea9dad7f5b8b964637
+SHA256: 47380d0fbbf18077bf26a87f17aacdd66c453cfb7e389263fa7e12034e20ccf9
+SHA512: 8f6db1f27937b7a4ef0e657a8e151676c8c6a2c4a615555febaa0e2f88e8281288cb3ef15b9cb01c9d96360cc00c337174c7fc272cd817beef7fdd6503db4d5f
+
+Package: racket
+Architecture: x86_64
+Installed-Size: 34968
+Maintainer: @termux
+Version: 9.2
+Homepage: https://racket-lang.org
+Depends: libffi, libiconv
+Description: Full-spectrum programming language going beyond Lisp and Scheme
+Filename: ../../../../releases/download/x86_64-r/racket_9.2_x86_64.deb
+Size: 6037268
+MD5Sum: 6c3f6afc4864607fb791d799230992c2
+SHA1: 12b3c3cb264d870d5f48ce89e0012a5183e5d03e
+SHA256: 4592db57aedab70e9c8c474d43b113c09811c3224cc7af9cd7ef9b7bc89ae7db
+SHA512: d3096dd8cae3f9e97b46e91e3c6e068c596188122f013927b3811de4e756e288b8dfa31d6fa2381bc62fc56d9dcbf466af4942903cd47b0b0760f4c137a4574b
+

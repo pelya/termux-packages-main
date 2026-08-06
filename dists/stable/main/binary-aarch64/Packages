@@ -33929,3 +33929,47 @@ SHA1: a246d650321e014704de478b880075ef67bb748f
 SHA256: 9394fc0ac74a85088808574121514290b5741dfc79edbb8e656618a56e1b41ac
 SHA512: b6d248c59e8ce560eacc85df5eb397056f8e03fef1ada4a6169d28eb4c0148cb29107053147b64829196ff62cf48e54fd23293e16852d8e9d94e03ac8de99c8a
 
+Package: base16384
+Architecture: aarch64
+Installed-Size: 148
+Maintainer: @termux
+Version: 2.3.2-1
+Homepage: https://github.com/fumiama/base16384
+Description: Encode binary to printable utf16be
+Filename: ../../../../releases/download/aarch64-b/base16384_2.3.2-1_aarch64.deb
+Size: 17172
+MD5Sum: 4ec304964cd6feb3338e6188b91aa908
+SHA1: fb74b899d0d64b8c9c6be868a16e38ce8335a688
+SHA256: a1302fce7965e2707baf015c5c69221a30c675e37b2e301725529d309e7e6c5b
+SHA512: 322420f45fdf43187890843d6341a326dcf1421bc59575dbd489415106851b7ffa76c3bf1bfa4efac8c5bd3b205653bb3a29d6bd83056d2c2df0c9e820cfc363
+
+Package: racket-static
+Architecture: aarch64
+Installed-Size: 4892
+Maintainer: @termux
+Version: 9.2
+Homepage: https://racket-lang.org
+Depends: racket (= 9.2)
+Description: Static libraries for racket
+Filename: ../../../../releases/download/aarch64-r/racket-static_9.2_aarch64.deb
+Size: 1080740
+MD5Sum: 602f5a4be296a517c87e8963fda51e2d
+SHA1: 3f6b98828e2ae2fccdfcb42eddb8fc9cb6beb9e6
+SHA256: a02b37d952b9c8ae47d3dc9562e4648facc0e3317bf555617eeb5874a9914f4b
+SHA512: 3d223e546645fa4dbe60200c8ed89067b21c7c22c0d75ce24f84cecd96c3fb654bfc55bb193478cc5e5b8c6d012454c830af6d364b2b738542a305f20f9a0fc0
+
+Package: racket
+Architecture: aarch64
+Installed-Size: 33932
+Maintainer: @termux
+Version: 9.2
+Homepage: https://racket-lang.org
+Depends: libffi, libiconv
+Description: Full-spectrum programming language going beyond Lisp and Scheme
+Filename: ../../../../releases/download/aarch64-r/racket_9.2_aarch64.deb
+Size: 5769896
+MD5Sum: 68844f8a16692419fce38490982baf22
+SHA1: 5f12288ca4f2193c1902ab5370895642c97a07d4
+SHA256: 37a964dc9cc91629208f6af2c01612d75c8e89c1b552ad5c1e0af707dc6aa7f5
+SHA512: a0a23e6bd533fc7001fc4bebd99b72d81ff78cb641871d82a8c614366a16959b895232de189c0d2991c0a217e4d3a7aa815d7ed1f755c4b5c2b75fdd98f72fb9
+

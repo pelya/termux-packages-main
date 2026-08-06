@@ -32553,3 +32553,47 @@ SHA1: 72cee6ecf0ca1d062c3360982774a777552ce190
 SHA256: d882600ec8f343892fb87478a0b9b67c8d582cd8175e6cf2811acde6cdadc739
 SHA512: 4f2019148e0916879dce378e5e5f1c28044df18e5467a48501bcf5b52c3f20c6c81d59e4780becdd2bedd08551464f8c018bfe50bb5caa5b877022e544705b8e
 
+Package: base16384
+Architecture: arm
+Installed-Size: 120
+Maintainer: @termux
+Version: 2.3.2-1
+Homepage: https://github.com/fumiama/base16384
+Description: Encode binary to printable utf16be
+Filename: ../../../../releases/download/arm-b/base16384_2.3.2-1_arm.deb
+Size: 15068
+MD5Sum: 1b974190b8a9f795ca4a9a5059d3fe50
+SHA1: f10339d154da407b014bbe53ed565e04d7273f82
+SHA256: b036481a0fb06a82601923e42ae34cba51a921503b855b94a2181751b4972c0e
+SHA512: 2b38874c1400738a062330a12f985dc9e9f7346768ca557c8aa6e1e3f794cbb8642fb81df266d11ca51d1ddaff43abdf0e4c11feabf20eebb8c96141769625e6
+
+Package: racket-static
+Architecture: arm
+Installed-Size: 3628
+Maintainer: @termux
+Version: 9.2
+Homepage: https://racket-lang.org
+Depends: racket (= 9.2)
+Description: Static libraries for racket
+Filename: ../../../../releases/download/arm-r/racket-static_9.2_arm.deb
+Size: 1101480
+MD5Sum: 50e8f676fd83b9db5be39385b918e7f1
+SHA1: 894314a3b5a69ffb67f6ca285491b40b6253d3ff
+SHA256: 15c9ebe71aa17c73678cb397cb6ddb4e458008f601d12e50475ebb6798b0aaf7
+SHA512: fa57c42a2e4b6174be1df7e49cafecca17ec19e4ef04a306086ab0fbfbe78772f17512b6ba27d33d8ef9cb3c8ae23d24d17c828a39c483cae923cbc3bf0df6e0
+
+Package: racket
+Architecture: arm
+Installed-Size: 33484
+Maintainer: @termux
+Version: 9.2
+Homepage: https://racket-lang.org
+Depends: libffi, libiconv
+Description: Full-spectrum programming language going beyond Lisp and Scheme
+Filename: ../../../../releases/download/arm-r/racket_9.2_arm.deb
+Size: 5775576
+MD5Sum: 67e87687b5d9d6baa41a90f0a1d4658b
+SHA1: ffdb3593e47a25c7efa7465d6c35272a609c2f9c
+SHA256: 865eea67684d2087ee93718997853c62bf3c2d5ff20015ae8820d8aee8117ed8
+SHA512: f2d4684654439ad2a63b9493ec1afce71287c20a13738724e2809bf5c164397c33c6dfe4a02d4fe5f93a38704add7a5b45ea2c37893f41ac893466a2d61e2d73
+
