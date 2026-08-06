@@ -11920,3 +11920,19 @@ SHA1: fd17ab119ec21e23543b0e21336b404846d5ca7c
 SHA256: 495bced0becce0f6fe12aa0b878b29dbee006b7697e761ab81675c989fe82ec3
 SHA512: 162fb8b1f9a111b5d4f9746c24155770a3e34769c4176b41f1e6db8fc9157a48ea981fd69501079efd34ac69064acadbf64b05a425296df95d50d4870c27757c
 
+Package: ristretto
+Architecture: aarch64
+Installed-Size: 468
+Maintainer: @termux
+Version: 0.14.0
+Homepage: https://docs.xfce.org/apps/ristretto/start
+Depends: exo, file, gdk-pixbuf, glib, gtk3, libcairo, libexif, libx11, libxfce4ui, libxfce4util, pango, xfconf
+Recommends: tumbler
+Description: The Ristretto Image Viewer is an application that can be used to view, and scroll through images.
+Filename: ../../../../releases/download/aarch64-r/ristretto_0.14.0_aarch64.deb
+Size: 109340
+MD5Sum: 250ef9181dc2e66e33c22f19f7303c3f
+SHA1: a3d8e3654243417d6eae9fc435e21f25c780dc51
+SHA256: 8914b4008a938a6dc27ad43baa0fbc55c9f233b511303a42dc8d037724d2fdd4
+SHA512: ae47f4aa73fa7a2f72c6cacd558f43a5f6a0284b603c04761300417f0f07fa2c262487d8744692b5bd05ea63376907b2b418c573933e9c0a3f79beecb59497a2
+
