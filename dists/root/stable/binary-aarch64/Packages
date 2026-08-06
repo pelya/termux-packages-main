@@ -102,3 +102,18 @@ SHA1: 15d95b2caa18e2b36b570f505d0cf5787440d29f
 SHA256: 2694f46fd7cf0a3dc3c9799e2c2cb5281bfe8ba9f9ffdedad800d8f8a3b7e7d4
 SHA512: 1caaf96ead46918f334d7d3064ed0ec78bdd2895a7f9aada7b0af24076be52c3124c0c280aed7c73f373fbee6816959333364d1cef68153de8e28c24a777c9b8
 
+Package: testdisk
+Architecture: aarch64
+Installed-Size: 1472
+Maintainer: @termux
+Version: 7.1-6
+Homepage: https://www.cgsecurity.org/wiki/TestDisk
+Depends: libuuid, zlib, libjpeg-turbo, libiconv, ncurses, libandroid-glob
+Description: Partition Recovery and File Undelete
+Filename: ../../../../releases/download/aarch64-t/testdisk_7.1-6_aarch64.deb
+Size: 332732
+MD5Sum: c4691b2aa7260779cbe5ccb57b729bdf
+SHA1: c12f59fd624e6dd1fa987010f277252ba4961231
+SHA256: 987e6f78d1e87841f4b7bfde39f0574d4e62b497be953bdf9471f1f28415d683
+SHA512: 84712af9699bcbb741b083bcbd33a9609d7d7a2e5e0358a59b5b0963b5b1c9b53e583d407f7c16167416e877fc386226a62ed93bd55734a0078519f996c0cb06
+

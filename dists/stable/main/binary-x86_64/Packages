@@ -33279,3 +33279,17 @@ SHA1: 5b7bf63c6297cfb9f9e174e5e2f3fa5db18e2b4c
 SHA256: ef9b47f9d7af7b947c238a99205ecdb80d4e10884aa0299cf27313d2bd2d367a
 SHA512: d7db52e43fe9d488ddea76688d8587d279e54d05ab6b37d5d2c534d88ba12d88a5ef1917e8442b278ca5f492b8cb140e29d9b1c5f50fe8b4649012a021a9dcbe
 
+Package: lr
+Architecture: x86_64
+Installed-Size: 144
+Maintainer: @termux
+Version: 2.0.1-1
+Homepage: https://git.vuxu.org/lr/about/
+Description: list files, recursively, includes the best features of ls, find, stat and du
+Filename: ../../../../releases/download/x86_64-l/lr_2.0.1-1_x86_64.deb
+Size: 25264
+MD5Sum: 54fb68c66f4666f04e4a201450f3531e
+SHA1: db572bd22654082d6ff95c7c3fc90caafd6dbe81
+SHA256: 3049010d5924d4f4d7a45797bd2caeb970a149e2196a82f3c2f16970a386ce22
+SHA512: be376c98bfb74dda91245079e81af57713cd1341313e70f606b52af7de699602b2bbfd806129f1361f61550b232e34c552d56cf5e09fbb1867a0a3c516306ee0
+

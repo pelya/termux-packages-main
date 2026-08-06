@@ -102,3 +102,18 @@ SHA1: 03e3793742cf40d6db1393af1e68a64f55b59751
 SHA256: dfcd662f274af67bda4932a283428dd9b18901f46ae97c1cb0c5dbbab2447ad9
 SHA512: d9cec6f6b41201a10ee9a2d9b5c5840f3ebe32e5cc8e744fe0fe462acc79f3bb89b56c027b3aa785e344273d3fd2a94657042113226576bb1ad70ac5003f5c30
 
+Package: testdisk
+Architecture: arm
+Installed-Size: 1084
+Maintainer: @termux
+Version: 7.1-6
+Homepage: https://www.cgsecurity.org/wiki/TestDisk
+Depends: libuuid, zlib, libjpeg-turbo, libiconv, ncurses, libandroid-glob
+Description: Partition Recovery and File Undelete
+Filename: ../../../../releases/download/arm-t/testdisk_7.1-6_arm.deb
+Size: 308264
+MD5Sum: c510ebad746cea102122fae71fa9b9a1
+SHA1: 282620b49fc02572129288de36e202e0d41815b5
+SHA256: e107eb6dba1527ddc28c12319004f1f0ee1dc2ba86ef3c651e4df11eab8515e5
+SHA512: 2048918f49baa8e6ce67f339d86eb29b3bce6c224a79ef63712ff1f8abfd8898d0a367d8f67c98a1a11976b5e103ad18923cd99eae1f3168df0263ad93c1ae91
+

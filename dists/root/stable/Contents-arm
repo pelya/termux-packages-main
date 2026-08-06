@@ -99,3 +99,16 @@ data/data/greater.underscore/files/usr/share/man/man5/containerd-config.toml.5.g
 data/data/greater.underscore/files/usr/share/man/man8/containerd-config.8.gz     containerd
 data/data/greater.underscore/files/usr/share/man/man8/containerd.8.gz            containerd
 data/data/greater.underscore/files/usr/share/man/man8/ctr.8.gz                   containerd
+data/data/greater.underscore/files/usr/bin/fidentify                             testdisk
+data/data/greater.underscore/files/usr/bin/photorec                              testdisk
+data/data/greater.underscore/files/usr/bin/testdisk                              testdisk
+data/data/greater.underscore/files/usr/share/doc/testdisk/AUTHORS                testdisk
+data/data/greater.underscore/files/usr/share/doc/testdisk/ChangeLog              testdisk
+data/data/greater.underscore/files/usr/share/doc/testdisk/NEWS                   testdisk
+data/data/greater.underscore/files/usr/share/doc/testdisk/README.md              testdisk
+data/data/greater.underscore/files/usr/share/doc/testdisk/THANKS                 testdisk
+data/data/greater.underscore/files/usr/share/doc/testdisk/copyright              testdisk
+data/data/greater.underscore/files/usr/share/doc/testdisk/documentation.html     testdisk
+data/data/greater.underscore/files/usr/share/man/man8/fidentify.8.gz             testdisk
+data/data/greater.underscore/files/usr/share/man/man8/photorec.8.gz              testdisk
+data/data/greater.underscore/files/usr/share/man/man8/testdisk.8.gz              testdisk
