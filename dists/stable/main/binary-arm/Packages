@@ -31992,3 +31992,32 @@ SHA1: 1a029ff1008d611f2a5367bfe79f3efa1cff1e69
 SHA256: 6b14924b89147d171af745cd14ca0115689659ae93ba38a5077f3472caaff6cb
 SHA512: b4a2a3fb7a0c64fea6f33a10de2bcfe0777aefbd1b65006a97038a5f34860813f4a66fae9bb5a1672182ace1acde130e8d5d25faffe77ecbf44702beb4b7da42
 
+Package: buf
+Architecture: arm
+Installed-Size: 51456
+Maintainer: @termux
+Version: 1.71.0
+Homepage: https://buf.build
+Description: A new way of working with Protocol Buffers
+Filename: ../../../../releases/download/arm-b/buf_1.71.0_arm.deb
+Size: 10504432
+MD5Sum: 3dc5bceffdf0279671bda7e38be5e896
+SHA1: 46bf101210fa537f6b0bee3bfd20b8c8dd690c48
+SHA256: 2505e6a94ce07ee59e189db151de4f2c050b1c35fe2ee4a93fc679026cf8dce5
+SHA512: d01e92d76e78db33d4e07d27fe7d7334aa3fc63df1ded1a043caf43fb69032b235d9d90cb7451caa7a166002e30a92c20f794b59edadb503189cff6d4a5c3c65
+
+Package: pngcrush
+Architecture: arm
+Installed-Size: 116
+Maintainer: @termux
+Version: 1.8.13-2
+Homepage: https://pmt.sourceforge.io/pngcrush/
+Depends: libpng, zlib
+Description: Recompresses png files
+Filename: ../../../../releases/download/arm-p/pngcrush_1.8.13-2_arm.deb
+Size: 33496
+MD5Sum: 0f7eac0a47e997052c66d390e3c8770a
+SHA1: 69ccb80069cb270e1ee7d286c99b6de627578249
+SHA256: 14f3c13c794e3d7fe9bcffa1ea998114378ab6de551542846aadd88a7077abce
+SHA512: 4c817a4beb4a88aa0282610794a21c60d21d348ab215a1f7aaaf0a4576f6a76af967d7757ea9734ca0e781b39e9ac0a7380b62dd3c4837a1ab7cd9a0e622866a
+

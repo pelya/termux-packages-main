@@ -33309,3 +33309,32 @@ SHA1: 086f4ca6b500ca8fa0f2a818aa75f2b3bf31088f
 SHA256: 513a53625b48a926f4157e6bf374cb8bb07891af45419f4ae10b4b03b68af66f
 SHA512: 0be7ac24d0dfcfc014858c089d19c6b204f24d762f378a4614b68929baec61a30bf971e596617391c33eb03df965d9c1b4e650f2d2d51a3a78791cd2daaca96d
 
+Package: buf
+Architecture: x86_64
+Installed-Size: 59432
+Maintainer: @termux
+Version: 1.71.0
+Homepage: https://buf.build
+Description: A new way of working with Protocol Buffers
+Filename: ../../../../releases/download/x86_64-b/buf_1.71.0_x86_64.deb
+Size: 11832296
+MD5Sum: 3dce7366b0cec5508a5b3adf752ddddd
+SHA1: 8ac0b46dde1f3e795fade2e0e24f3671d6178ec4
+SHA256: 730936feff11824e7ff0a5863b7b2203d1015313e388ca895b647d467efd0715
+SHA512: 0bbfafe146976ee1c28c2c69ff5206cbdf14350a4a899507093aeb46df15996e2199d70384cce9a1c9b86d704c19ce42340e5fadc31ca8d0c960491d21f5ea24
+
+Package: pngcrush
+Architecture: x86_64
+Installed-Size: 140
+Maintainer: @termux
+Version: 1.8.13-2
+Homepage: https://pmt.sourceforge.io/pngcrush/
+Depends: libpng, zlib
+Description: Recompresses png files
+Filename: ../../../../releases/download/x86_64-p/pngcrush_1.8.13-2_x86_64.deb
+Size: 37660
+MD5Sum: 6bd0c790f9afdf5d0fd2438faba19599
+SHA1: d655d4bef880849180b11facf09482552a08c699
+SHA256: 2daa80673dc5ab7603d3101fc5053c4b153626ff98baf9270ed36a75724b7251
+SHA512: 6e5fcf3e9ceb4d7ae5ef78ce3e497bbfa14eff2cee653a726d50498aefcc669cb891bfb5f972b4cf401f49dc396be015a0384e02f69456edbe3859c19a4800d3
+
