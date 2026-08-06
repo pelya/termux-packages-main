@@ -32859,3 +32859,31 @@ SHA1: 2c7f558d4ff8ede339837e8e415c3bc9ebced38c
 SHA256: 76381f1d6290ca2e1d886aeae09523eeccee1a671b2a336da14c0aef9374684f
 SHA512: a0b7813be279ee522beb6d19874abd6e4ff8a7596eb7eac242874fc50b3bb74d3ea25d4b7abc67576c78d095db36d76dc03f647d9ea6f6c8dde4349e0bb39c9e
 
+Package: heyu
+Architecture: x86_64
+Installed-Size: 896
+Maintainer: @termux
+Version: 1:2.10.3-2
+Homepage: https://www.heyu.org/
+Description: Program for remotely controlling lights and appliances
+Filename: ../../../../releases/download/x86_64-h/heyu_1.2.10.3-2_x86_64.deb
+Size: 401600
+MD5Sum: 1d71b194fbe58be5bbcec7071b637a71
+SHA1: 2b28c485f804125477a884f44b25101973c784cb
+SHA256: fe331659f9ee3779b1a60ca7f1d291ff8c072c9d5a95b8d0d4f63e5a85135fc7
+SHA512: 4cea703d6f7dadd7930178c5146db67243d40f377ea660465af45cbc69b558183d7ad139771686abc760a250f7144f90ac9bcac44c55bedcc6add35e1ea25a6a
+
+Package: texlab
+Architecture: x86_64
+Installed-Size: 14244
+Maintainer: @termux
+Version: 5.26.0
+Homepage: https://texlab.netlify.app/
+Description: A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system
+Filename: ../../../../releases/download/x86_64-t/texlab_5.26.0_x86_64.deb
+Size: 9071356
+MD5Sum: b0ee350900b8812faa1ea62ce7754d2c
+SHA1: 0867a4e78f626e10fff2ad6a2203d3f2ad548e5d
+SHA256: 306cdb842717223beac884636da634987839a21458d0bdb1bc8e20b0728e11c0
+SHA512: 6448f1d8cf6ed1fed723ed4ec73dcb2fa1772e0f788f69e7e3abe804135d46f04d78ff8e20f5d313d74521a92cd41cad008a7eb20337eb4b56e2680d76d2fe6b
+
