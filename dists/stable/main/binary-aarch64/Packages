@@ -35179,3 +35179,33 @@ SHA1: d4dd76afd94e84e0d9d2a8e5fa9e90859508cb0a
 SHA256: 14e3dc6a64e51999d79dff5b9c32f9b1f7f24150aeda9d45fcd75b2400884899
 SHA512: 662b84803ce6e1450a3a4e5522b2bcf6a7276e8ebec89517d14a5ba524b19102a952e4591364d84ace795c5cd38494cf7999c4854809c158cfc818ad96c4ca8c
 
+Package: libepubgen-static
+Architecture: aarch64
+Installed-Size: 2032
+Maintainer: @termux
+Version: 0.1.1-5
+Homepage: https://sourceforge.net/projects/libepubgen
+Depends: libepubgen (= 0.1.1-5)
+Description: Static libraries for libepubgen
+Filename: ../../../../releases/download/aarch64-libe/libepubgen-static_0.1.1-5_aarch64.deb
+Size: 187220
+MD5Sum: 6f37b86f35eff12ae63cadb1810fa197
+SHA1: 9b0ad3479abdc7976258e7683460fe639f298508
+SHA256: 080cf42cdf656426b035bfc9ce37e316b7c2ba0d9e5161c578fe18b4a751d13c
+SHA512: 09009578f36980273fe7380dbf9d1feda9991f1e7e366d170850c09cf39bd72a50257a6528f2e87581d950753eccac2ad6a718258f0a364f3429fac020564791
+
+Package: libepubgen
+Architecture: aarch64
+Installed-Size: 460
+Maintainer: @termux
+Version: 0.1.1-5
+Homepage: https://sourceforge.net/projects/libepubgen
+Depends: librevenge
+Description: an EPUB generator for librevenge
+Filename: ../../../../releases/download/aarch64-libe/libepubgen_0.1.1-5_aarch64.deb
+Size: 95544
+MD5Sum: 50fe6443ef8f935e68b83f081a58e0f9
+SHA1: 175cc42165294ad9e185aa6aada18f0f71e0be25
+SHA256: 42658a6a415dfcde84bcef76ee363e9a86c00111f01b76033605de48c6aa06ef
+SHA512: 8c7a0065095deeeacbdaf3ede247e59c739392ab8f26681bb69ef010b2f16aa7cbb4c24c3a4a02f0d58b2a59761a120849ed0a7cc6c7a18cdbac0e26df919f53
+
