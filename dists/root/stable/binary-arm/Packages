@@ -296,3 +296,18 @@ SHA1: 87dee6c6864ed434f4ac501808a5ca19c4560c02
 SHA256: 2bfb85176d50ae4c951e8894d2e42e1262ec36c9b70509f7eb12e2b7c323d3c7
 SHA512: 002e5b66a2bce56317c15c2be374ced334416ce6e9b813bdcdedf0b22cf947f8be174ca2256854eb49274e6822b181cfd5ceb96ba9eb6ab37560c8241e844dda
 
+Package: openvpn
+Architecture: arm
+Installed-Size: 1336
+Maintainer: @termux
+Version: 2.7.5
+Homepage: https://openvpn.net
+Depends: libcap-ng, liblz4, liblzo, net-tools, openssl
+Description: An easy-to-use, robust, and highly configurable VPN (Virtual Private Network)
+Filename: ../../../../releases/download/arm-o/openvpn_2.7.5_arm.deb
+Size: 464840
+MD5Sum: 62f134a84795dc2533314e2a431f7db7
+SHA1: f5909333bb318849b9e5930cce39e18aa50eba8e
+SHA256: 5fba68373f5c6b16ba858112e7a80a99038beeabc91a24820b244a9c94b9ab68
+SHA512: edb06ad3431c4c7da392e9146621895e7069e2498b7f417c688f4b3951e22b6cc5ea28c01eb2c24e9a7d9c358b27f75113617b3e553a4add8fc48265112fb465
+

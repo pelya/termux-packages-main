@@ -35074,3 +35074,18 @@ SHA1: c2be5855910d2a797480f4473f59eae29e37f27d
 SHA256: 33f301a06cc491aa054598d393e44989fcebabf22fad3f114d2bd9f478f9740d
 SHA512: ded7812a938241f3eb70ed98ac7a44bddb60fbca2a3cf619d1ed53fbe26e665b24c756511fbdee8be98e53e16b52cbd4a4d55e6ca76d8d07d3a5f35345a02fb6
 
+Package: btrfs-progs
+Architecture: aarch64
+Installed-Size: 5572
+Maintainer: @termux
+Version: 7.0
+Homepage: https://btrfs.readthedocs.io/en/latest/
+Depends: e2fsprogs, liblzo, libuuid, util-linux, zlib, zstd
+Description: Utilities for Btrfs filesystem
+Filename: ../../../../releases/download/aarch64-b/btrfs-progs_7.0_aarch64.deb
+Size: 987072
+MD5Sum: 6e71d7b877d8c9401bbd5637ff5f2534
+SHA1: fe477d8788ba7b6cdc4182330967f38eeaf787ab
+SHA256: 2ee70f1095ea7fa22e92c83d763481d6a444951cd4ca067b4a66ccb995e4c2a5
+SHA512: 900b2df3bea997b03b7dbfbd4f2144989a53ae1145ce35d1deaf5af7d59c948edc1bff994cfa2ac52acaeaba1290317d21fc8d0614755a19dc3868c1e98a60a7
+

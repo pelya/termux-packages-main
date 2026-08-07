@@ -34177,3 +34177,18 @@ SHA1: c2be5855910d2a797480f4473f59eae29e37f27d
 SHA256: 33f301a06cc491aa054598d393e44989fcebabf22fad3f114d2bd9f478f9740d
 SHA512: ded7812a938241f3eb70ed98ac7a44bddb60fbca2a3cf619d1ed53fbe26e665b24c756511fbdee8be98e53e16b52cbd4a4d55e6ca76d8d07d3a5f35345a02fb6
 
+Package: btrfs-progs
+Architecture: i686
+Installed-Size: 6104
+Maintainer: @termux
+Version: 7.0
+Homepage: https://btrfs.readthedocs.io/en/latest/
+Depends: e2fsprogs, liblzo, libuuid, util-linux, zlib, zstd
+Description: Utilities for Btrfs filesystem
+Filename: ../../../../releases/download/i686-b/btrfs-progs_7.0_i686.deb
+Size: 1095860
+MD5Sum: fa6ab0461eb47bacedd343e049799359
+SHA1: 940df5a2f2bad1a580af24461bc1f4bfaaaace3d
+SHA256: 4da01e31a2fc015a420562f020eaa230ccbbd8a0be06df423b9700a40faec778
+SHA512: 89685528336e657f33b77fc3c7a2c6381fb4f5a733c2bbc2d614db75d96b5f165496818ca12f598ebc1d6ea4b4c303aaca23c7a8bb4199b216fc9596bd80ec0a
+

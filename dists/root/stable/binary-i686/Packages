@@ -296,3 +296,18 @@ SHA1: 4772b5bda865ead79cc776d59ce1ec10659a4197
 SHA256: fceec0479f5689b93807e0393bc3d99afee2b1092cee3a1b5e74124e8bc4723c
 SHA512: 69e1bef3f861a8379c3c582b1669a34f13c89d5595bb528773e06b3c4dd9f615d76f11f3c29a4086092fdbd624f6455ac3caf448f68a2881e04f989f716b22f1
 
+Package: openvpn
+Architecture: i686
+Installed-Size: 1556
+Maintainer: @termux
+Version: 2.7.5
+Homepage: https://openvpn.net
+Depends: libcap-ng, liblz4, liblzo, net-tools, openssl
+Description: An easy-to-use, robust, and highly configurable VPN (Virtual Private Network)
+Filename: ../../../../releases/download/i686-o/openvpn_2.7.5_i686.deb
+Size: 503748
+MD5Sum: a35d167b5cfa21ef8a8102be833c7a9e
+SHA1: 815b083113b7f9a9482706b37fd3ab43fc8464ae
+SHA256: 8d922aa23eaad9b7d452e80abaf0a04a6406c36b6ccbe462ffd252a49ecb3426
+SHA512: e4d17a7f15c000c66bdce345a26f1d73a16c11540318f831f401e3e8d0c58605ab603cff7b87bd2a83372ed3d7efb3212b921f830edd2b950256c5bbd665b48a
+
