@@ -36280,3 +36280,32 @@ SHA1: a22c4ca301b160131f206590881a8a8bb9e8d2d8
 SHA256: 5361a8a558d617a12e203f4ddd0bae9abbb8a1192e93798c61c5b20ff94a01bb
 SHA512: e94bb8a85a155762c858acb90756ec6ebf0b388bdec945060172f0259d94f77816c4de48ea36cd4057c0b9cec56b68d35e06aae8345a2967c728c6486d02be08
 
+Package: wego
+Architecture: i686
+Installed-Size: 6980
+Maintainer: @termux
+Version: 2.4
+Homepage: https://github.com/schachmat/wego
+Description: weather app for the terminal
+Filename: ../../../../releases/download/i686-w/wego_2.4_i686.deb
+Size: 2379472
+MD5Sum: 772ce155bfdaf5430fbcf26804ee3f85
+SHA1: 669ce180409584a736a2a61ff22e94a972d859a6
+SHA256: f49c90551ec27bf7e1ab6a3f2eeb9d7dd38a94b69b77d698ecda7a2408d6eda6
+SHA512: 219eed3eb94f09a2ff24223854a9a234bfaadde63dcc98f888c3cee9325ee4259838cf16ac63d1901d46b1fcab3a23bbdd56783e19de8ae073f8305f40bb2283
+
+Package: wrk
+Architecture: i686
+Installed-Size: 156
+Maintainer: @termux
+Version: 4.2.0-1
+Homepage: https://github.com/wg/wrk
+Depends: openssl, luajit
+Description: Modern HTTP benchmarking tool
+Filename: ../../../../releases/download/i686-w/wrk_4.2.0-1_i686.deb
+Size: 29368
+MD5Sum: ec59257ea686a2d26e0d515d747b5109
+SHA1: 8348efa62e58ac5d0ecca1622be486003fd2d901
+SHA256: dde836dc1e3082de4934d37f7e9e06d7e6fcded1e9f62c5b98e38aa1371acba6
+SHA512: 13db1b4f6319b7af68a9f5b4872158630d7e6e499dab925a4c2baa96597046ba956184d46d44246b0b225dcbf942ecf3690d53ed4b50875654e6042df7d2a85b
+

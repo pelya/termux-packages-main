@@ -35725,3 +35725,32 @@ SHA1: 43449407d2d87ab2b75cdbb16c02456bb595b83b
 SHA256: 836b0ffaa9f6076e1a0f9fd039e38c4b1079ae80fffda7b3b6cbd96beb9847ed
 SHA512: dd2268a4a6f074ea89436f1714e29f1b1b83afbc4b29449231cf98ab7b04ed74f28f54a2c4f6ce61a4ffff563a12b04b0acde6a774b3b4b7c10c0e455d79acb3
 
+Package: wego
+Architecture: arm
+Installed-Size: 6884
+Maintainer: @termux
+Version: 2.4
+Homepage: https://github.com/schachmat/wego
+Description: weather app for the terminal
+Filename: ../../../../releases/download/arm-w/wego_2.4_arm.deb
+Size: 2066540
+MD5Sum: aa293042c06bd0ab48b947a34bb670a0
+SHA1: 1589b627e6c5e408d3a189a4b63810b2c9bfe069
+SHA256: a004005eb11c14fedf79ec3591fcc59d84d8a25e9d64f24e774ca68d43bb3d73
+SHA512: c8b727b9eeb799feaa833061313eb62d3a1ace3b936b762a01d2839c37e0b7fc4ea84cc5265dbec19d66f3d8737b336b885ad7907dfa81c09c1bde8b2e5d244d
+
+Package: wrk
+Architecture: arm
+Installed-Size: 140
+Maintainer: @termux
+Version: 4.2.0-1
+Homepage: https://github.com/wg/wrk
+Depends: openssl, luajit
+Description: Modern HTTP benchmarking tool
+Filename: ../../../../releases/download/arm-w/wrk_4.2.0-1_arm.deb
+Size: 26104
+MD5Sum: 71d6c5eb2c6f226f5548c45736a5130d
+SHA1: 82036513aee8a9f7553c0589f9b896e2c319ac76
+SHA256: 50274b47a3ba2a0791ce2dc31af2fa3e0cd550f1a2a5f25929d878ce63a639e9
+SHA512: 76c3875a1c355427d1f3ae2aff5c788650d939b8692b0f7e5bce5f4bf9c75cc7f10c5cb964c2ddb7681e8742d0977af4380b98d6c1f31bb040076de4832bcab8
+
