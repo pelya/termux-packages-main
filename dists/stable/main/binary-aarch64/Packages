@@ -36164,3 +36164,33 @@ SHA1: bf4549216489374249bb35b77e5ad6a9987ef833
 SHA256: 3444e02558c064a0a4a417020825fa90e50d07914e4879cf01d27ec788d16869
 SHA512: 55ac125db2ccca624d7bb64ca00c538032baf129143c1504ed0a07de10c392875571b93018b5110cba2fd71c7b1f5bd9ae71822c42b7fbd4fce1296c16d66058
 
+Package: git-crypt
+Architecture: aarch64
+Installed-Size: 220
+Maintainer: @termux
+Version: 0.8.0
+Homepage: https://www.agwa.name/projects/git-crypt/
+Depends: git, libc++, openssl
+Description: Enables transparent encryption and decryption of files for a git repository
+Filename: ../../../../releases/download/aarch64-g/git-crypt_0.8.0_aarch64.deb
+Size: 59932
+MD5Sum: caa72b9ee30c1eb0ebce2353c5671ac2
+SHA1: 12821e119dda881f537c212b4cf9f5bbdb8dae9f
+SHA256: 3f7c5f86ebabf4396a01b879b80c2314068d7dbd01946b30fcbcb863bd8c058f
+SHA512: 0326b9236644eb18d573f0e6bfaf7a6d77b946236127fac5d1300bfa169410244283ab70b08ec21a143db5717f1f0083ac34fc6a82647549a7590718820e3bbc
+
+Package: loksh
+Architecture: aarch64
+Installed-Size: 340
+Maintainer: @termux
+Version: 7.9
+Homepage: https://github.com/dimkr/loksh
+Depends: ncurses
+Description: A Linux port of OpenBSD's ksh
+Filename: ../../../../releases/download/aarch64-l/loksh_7.9_aarch64.deb
+Size: 144092
+MD5Sum: cfa95bd30890bf5dca84762a0fae5d29
+SHA1: 0bca51e5789607a2f16607316628c5a9ffcfba57
+SHA256: 9d28d15003d696a67ab0a4dc3b805bef33f2e0771b9032998c0b1d5e6e330187
+SHA512: 2926daa4990d13056110932ee3e03ad6b80e8554689b3a218115a23a610f50460bba9ed32d7e7ac7679f2b281a05f7933888bb719833528c5395f0de0ab1f092
+
