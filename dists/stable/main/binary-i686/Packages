@@ -34043,3 +34043,63 @@ SHA1: b7ef69393a2ef7af683da612df39fb7b81dd9558
 SHA256: ebd092dd3d9a406e796ab5b357e263e84d6d957d4aa300df86c28518dd1c7807
 SHA512: 64e7cb331851fbcb3c655e01d08dcacefbb3d48a912876f4114acaaf87e43896a6a6000b99efa049860db02960e43a05cfbd4978447dbadc0e9cfdc11b14f597
 
+Package: janet
+Architecture: i686
+Installed-Size: 792
+Maintainer: Komo @mbekkomo
+Version: 1.41.2
+Homepage: https://janet-lang.org
+Depends: libjanet (= 1.41.2)
+Description: Janet is a dialect of Lisp intended for embedding into programs and such
+Filename: ../../../../releases/download/i686-j/janet_1.41.2_i686.deb
+Size: 268676
+MD5Sum: b62bd2bb883ff7ae9aee807a36135c65
+SHA1: 169151cf49b8a54e0cfaaae662b9613e3a683145
+SHA256: 95fc4ba9031575bfd1a562665ae6680d748f4903a601dcf4bc196b960d3a64e1
+SHA512: 835776e431505ac1b2dcb8447e420d84cd623a1c4f625a92fde1c0fba493eca2bcc660670b2d3f01f33fc062de5f7047f10991239070a4ab0d2a5772127a7cc2
+
+Package: kakoune
+Architecture: i686
+Installed-Size: 3784
+Maintainer: @termux
+Version: 2026.05.21-1
+Homepage: https://kakoune.org/
+Depends: libc++
+Description: Code editor heavily inspired by Vim
+Filename: ../../../../releases/download/i686-k/kakoune_2026.05.21-1_i686.deb
+Size: 807892
+MD5Sum: 6a5c4b8704479dc6c5d5427c98836c1a
+SHA1: 366d636c9d9f559a781e8b5fd3fd2d860172cecf
+SHA256: 691cbb89b9347af3092f9b7f72405c3bdb36549e537a58487ff0db14d3ddd3fb
+SHA512: 854d850c2b4e9d3685328403b813f56f3df5594f12e8724bf7a39d840fd45ca6394a6b74840be47863dea4e5e307da78f82b0b8a12ac4ab6ecd4b7942e4cdba5
+
+Package: libjanet-static
+Architecture: i686
+Installed-Size: 956
+Maintainer: Komo @mbekkomo
+Version: 1.41.2
+Homepage: https://janet-lang.org
+Depends: libjanet (= 1.41.2)
+Description: Static libraries for libjanet
+Filename: ../../../../releases/download/i686-libj/libjanet-static_1.41.2_i686.deb
+Size: 285856
+MD5Sum: e3c667d9c092e0f51b26468ac8fd134b
+SHA1: db88c7e8177f29fdcf7fd2259876e68306ded132
+SHA256: c3510efd4594f9ed8a396a81e9e659464301b386121340f899d87d0a608cf4bc
+SHA512: 9b30fa4eb7cf32f6055c44a616563ccd5cede7b434cf58d268e8ca5cf3cc537d88d172c051037a3cce80c0f0c880cfcd61b2c7aa420af74c59d0b8df7450c788
+
+Package: libjanet
+Architecture: i686
+Installed-Size: 964
+Maintainer: Komo @mbekkomo
+Version: 1.41.2
+Homepage: https://janet-lang.org
+Depends: libandroid-spawn
+Description: Development library for Janet
+Filename: ../../../../releases/download/i686-libj/libjanet_1.41.2_i686.deb
+Size: 299772
+MD5Sum: 8af4e23f6ae091da64e101fddfccdb31
+SHA1: 2c8fb887afd6c57b1e8178f1f92c7c055e9ef4a7
+SHA256: 7031f0d54d12740b3755f8f79bd01c87336db357ea38e66c6602c9744ae33933
+SHA512: 232f636c3e9b1596b55316fb3d1cab921ea2e727b9a5f5aa4e885bdd83a92cbee37611acfcea067efd1c31f5e893fb391229b69ccc32ea06434810d566d56fd8
+
