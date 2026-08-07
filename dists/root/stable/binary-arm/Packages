@@ -597,3 +597,18 @@ SHA1: a527fc1ebfe529666994e146c00d09af725b85df
 SHA256: 1f40de511b60118d243e732a55c406907857c46ab7ce074eed66935f968ccab4
 SHA512: bfd86d0df9afa11c19ce414b4900813be542bb38ec6c071e8865cd5c48f2eaee749f47b97c7a20d210c51ec056a9c16cf7ff7c636c8a19515d7b405dab25c7e7
 
+Package: v4l-utils
+Architecture: arm
+Installed-Size: 2212
+Maintainer: @termux
+Version: 1.24.1-2
+Homepage: https://git.linuxtv.org/v4l-utils.git
+Depends: argp, libc++, libv4l
+Description: Linux utilities to handle media devices
+Filename: ../../../../releases/download/arm-v/v4l-utils_1.24.1-2_arm.deb
+Size: 537040
+MD5Sum: 0c7e3b80cd941a54ee50897c248f88d0
+SHA1: c536a2b778993d3c126f5bc7d79ce2b0af9f7b20
+SHA256: 431a40e356e824acfde2f4a7c3fc303631dedd003a0a443eb159c93c6ba5607c
+SHA512: 9109c3027b39843c3e5f41458bc2901b0000dc24a725cc70b38d6bc28ea42cac936da7f8668c0f39473e1e251da45bdaf0a8b2caf5687a2760485576c35cd085
+

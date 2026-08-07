@@ -12811,3 +12811,18 @@ SHA1: 3d857f6690b14b5da6bedc6d437b6c11fcb7d161
 SHA256: 849e2c8f161ec013498684cc91d52c8ca418d5a2f5c380c12c67aaed17805f23
 SHA512: 387d7c28fe44a709d45575337438d1dee3a15f36d12d6cdaead95f55d7d7440fb70b351dac3dae48d68501920a90b3ce5ae96e829578beb6666a2922e7cd5420
 
+Package: devilspie2
+Architecture: arm
+Installed-Size: 112
+Maintainer: @termux
+Version: 0.45-2
+Homepage: https://www.nongnu.org/devilspie2/
+Depends: glib, gtk3, lua54, libwnck, libx11, libxinerama, libxrandr
+Description: A window-matching utility
+Filename: ../../../../releases/download/arm-d/devilspie2_0.45-2_arm.deb
+Size: 18520
+MD5Sum: ad80e9dc0fa95f763d93443a64acd656
+SHA1: b671905e2a9a6f2f9f3595ec74ff6e99f6be3dd5
+SHA256: a7d0cc6bbc70f08998644926cc6d039827df2551264c940e4aeb068fa0346be0
+SHA512: 8eb88ca7c45dc074e0f3e04a0dffb512fecdce05e387d13ff0bd37d535a9a11913ed7485ae5a35682a2d536361b5c6fcce6ef4bd0a49790ae50533adf2073fa2
+
