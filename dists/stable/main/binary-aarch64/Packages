@@ -34564,3 +34564,18 @@ SHA1: f603085a2e437ad2cbbbc676958b6aded52b50d8
 SHA256: 3d9638b6e8e3e51cca810fa7ee06581ec461b3f1c4357ce0713d709dd4d4243c
 SHA512: f85ed859108c99bd07677b09dbe035ae9d1f6300d7a52f7e605e71a426c842c0bd559e8f50f00de4e503e514374156d42f0581d2eaa25d2078f6f6fb4b553156
 
+Package: kotlin
+Architecture: all
+Installed-Size: 92816
+Maintainer: @termux
+Version: 2.4.10
+Homepage: https://kotlinlang.org/
+Depends: openjdk-21
+Description: The Kotlin Programming Language
+Filename: ../../../../releases/download/aarch64-k/kotlin_2.4.10_all.deb
+Size: 85456868
+MD5Sum: 51d5153ba860d9a620511e9b83dd6e87
+SHA1: 67fdc221f27c7ffe62a9291df2892cadd7e853b4
+SHA256: 535c9c8ff334ab55edb49097663c45e8c469621f58ccee41db39a61e0c82d99c
+SHA512: ee0deb5587e76a3769b5966a88bd3aaceb95b817fe7494c103d3c71a67e5a30c360993f1ff14962af41b498067e87599c8e6dad76958c5cd231b0605735652ec
+

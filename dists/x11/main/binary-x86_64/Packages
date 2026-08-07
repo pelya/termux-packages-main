@@ -12224,3 +12224,17 @@ SHA1: d02fb72bffa6e0d0d41ad38223393194b38b944f
 SHA256: 3fead048c1aa161f887d3ae882a9c4748a1853c805cfd173883de626aad4f1b3
 SHA512: 7822cdf7a145e94c768f0d7cf737fd593d0d2c2f6797249e7845d0e904d4395c0b950a79ca25c4aed386d57ffe2c5b253802e7a441eab49e73c9d9b460e75681
 
+Package: gtk3-nocsd
+Architecture: x86_64
+Installed-Size: 96
+Maintainer: @termux
+Version: 3-1
+Homepage: https://github.com/PCMan/gtk3-nocsd
+Description: A small module used to disable the client side decoration of Gtk+ 3
+Filename: ../../../../releases/download/x86_64-g/gtk3-nocsd_3-1_x86_64.deb
+Size: 12376
+MD5Sum: 069ad5cfc850c627b05a17610a485acc
+SHA1: 4319624aeb2c69c8e269a86e4efe8f3a00a0580f
+SHA256: f903039e6e9b7dc463130fc6056c5efbba585e50f338f42a8345b9addb9771d8
+SHA512: ac920a60a18a74bf2538ee5b754390b7cc61b4834d1476ecc03eba9d8147d0388bc357f3843fd9b00b6c7b3ed9540e0c70f72d2261bf8e8558d736e0f3be38d5
+
