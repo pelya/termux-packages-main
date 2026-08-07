@@ -628,3 +628,19 @@ SHA1: 07e7b282883072d36ec59dc5f231a96cef12b382
 SHA256: 373386016167a3563be03b26a6fbf545092d0ce7c5857fcb869e2e06c6787eb5
 SHA512: 6f343b36762ac290463a2f8564620d7619fa80886987bda8b2bbc2bc268cfd767ae73111aea823e4b0e42ddb0a315be0cd891de40d83e953a80f495b93302408
 
+Package: nexttrace
+Architecture: i686
+Installed-Size: 28376
+Maintainer: @termux
+Version: 1.7.1
+Homepage: https://github.com/nxtrace/Ntrace-V1
+Breaks: nexttrace-enhanced
+Replaces: nexttrace-enhanced
+Description: An open source visual routing tool that pursues light weight
+Filename: ../../../../releases/download/i686-n/nexttrace_1.7.1_i686.deb
+Size: 7814752
+MD5Sum: a17fd2e4239f3c2606aec92d5cc932f9
+SHA1: b5ad04db3d0a441d9702a372e15a923feb546a54
+SHA256: 2c879801e973fbec2edc827df37f78ea8d663a04ac90eabbed6e009705380f31
+SHA512: eb122d09955c970abd0bb207496f3a55a246591cd730cdcb32942422bf92b23b0f49a2343ae6019506dae22f7d9eb53660f755f0b01d7573761a7306a71c18a9
+

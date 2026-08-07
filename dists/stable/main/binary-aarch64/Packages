@@ -37134,3 +37134,18 @@ SHA1: a21ec6ec5af2e4ca9de79dd640c21f81a60c152b
 SHA256: 3c811da108ef8e116657b5d183e247ab66ee465d30eccd8bc4887a7eff4fef86
 SHA512: 7029cc6638f03b0a376787ef20211d717e2d05869543e918a7e382219062045e3d0e5ebdca66bde647f155b8b0d6ad8fd009fcfb5970d546601ec6ab697aa486
 
+Package: python-apsw
+Architecture: aarch64
+Installed-Size: 3168
+Maintainer: @termux
+Version: 3.53.3.1
+Homepage: https://rogerbinns.github.io/apsw/
+Depends: libsqlite, python
+Description: Another Python SQLite Wrapper
+Filename: ../../../../releases/download/aarch64-p/python-apsw_3.53.3.1_aarch64.deb
+Size: 746396
+MD5Sum: 3651dbc99f27cd46107b8fcf022a1eb3
+SHA1: f8267c18b27fc89e67312c54ad7bd616fc0f902f
+SHA256: bd007dae13caa9db62dc337df5874b5f2afaacc68ccfe7340d89a778178dac57
+SHA512: 5dc7da76bb54155945b5eac3ccd23663ab63593e5e38f6fa5707360e8593179dad13bdd680845312625675815d334a06e6e9c1b983363c2fe31b999157f0d935
+

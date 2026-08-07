@@ -798,3 +798,5 @@ data/data/greater.underscore/files/usr/share/man/man5/rc_keymap.5.gz            
 data/data/greater.underscore/files/usr/bin/nwipe                                 nwipe
 data/data/greater.underscore/files/usr/share/doc/nwipe/copyright                 nwipe
 data/data/greater.underscore/files/usr/share/man/man8/nwipe.8.gz                 nwipe
+data/data/greater.underscore/files/usr/bin/nexttrace                             nexttrace
+data/data/greater.underscore/files/usr/share/doc/nexttrace/copyright             nexttrace
