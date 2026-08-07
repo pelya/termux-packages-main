@@ -37251,3 +37251,34 @@ SHA1: 43c58a2c0fe2d83934c866d45b299e59608da3ae
 SHA256: 719690cc7cfd5945eac418c84b18b2f3979195bc1981aec6b9907772a93969ef
 SHA512: 4159761547760a01fc2681fc4c54be532759d62fc7b8e2bdc5240cd0d7062d335cf8397697b4ac4bbea8e0829d08de40fd3dbc8ee9a9103b0ec573e388577a92
 
+Package: lfortran-static
+Architecture: aarch64
+Installed-Size: 18828
+Maintainer: @termux
+Version: 0.63.0
+Homepage: https://lfortran.org/
+Depends: lfortran (= 0.63.0)
+Description: Static libraries for lfortran
+Filename: ../../../../releases/download/aarch64-l/lfortran-static_0.63.0_aarch64.deb
+Size: 1672684
+MD5Sum: ca387ca24425dfa78ab4236251363e03
+SHA1: 1bf1d0f8ee89504027f8b5409a150c06731761fe
+SHA256: eb8d5f6c5feddfa427a3ee7f75032e29f1d81141661a68084a146c153e8ff975
+SHA512: a24cb99e7b0e14dfe7fb6f66913e39249061ffa45e2988d2b2022139ab6fd02984834150f4954177e5ef9f23c6a564c8c3084cc1c569da2f1de7b97d21a207ed
+
+Package: lfortran
+Architecture: aarch64
+Installed-Size: 64856
+Maintainer: @termux
+Version: 0.63.0
+Homepage: https://lfortran.org/
+Depends: clang, libandroid-complex-math, libc++, ncurses, zlib, zstd
+Suggests: libkokkos
+Description: A modern open-source interactive Fortran compiler
+Filename: ../../../../releases/download/aarch64-l/lfortran_0.63.0_aarch64.deb
+Size: 14594080
+MD5Sum: 221569e84fb2f11efe996a0b668f3487
+SHA1: 545d1b855de6476e715ea7241e8721cf5b5f4169
+SHA256: 6d5c0e20b4dd145a016cbb322c11629e676472e654795436f8d312be2af6a4a9
+SHA512: 579cbfd85afeb7ce851bc4b67d154c355bff7d6c412bd088dac6d8b1dc8455ad2ab253e90d0d66edaf20d887adf7dbc75c9c2c41ce75c358e7a96bf89632d3d9
+

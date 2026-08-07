@@ -597,21 +597,6 @@ SHA1: a7ece7d43b3f83019fa855bc86417d51f28d2778
 SHA256: 15ce9f9228c5b83bffcef7fc2d831dfbc37ce33c581af250279f0cca656cb499
 SHA512: 7dd85504ba1fdf70983679da23063a04b672d6e2687a575c19dd0e6da1842a106f936c863cd04eb859b51065acabd2fea8bd1f7dfdf3693ab860a19a33c264c6
 
-Package: v4l-utils
-Architecture: x86_64
-Installed-Size: 2844
-Maintainer: @termux
-Version: 1.24.1-2
-Homepage: https://git.linuxtv.org/v4l-utils.git
-Depends: argp, libc++, libv4l
-Description: Linux utilities to handle media devices
-Filename: ../../../../releases/download/x86_64-v/v4l-utils_1.24.1-2_x86_64.deb
-Size: 598760
-MD5Sum: 9f4012e40312c3af129b95c248c60a1f
-SHA1: 4e1eb964845ec5e552adf11db8454ddb1e577d9d
-SHA256: 92734689831acbe6a808b7a2b376ca0f4033e56cd4073deeb9e1185e922205a3
-SHA512: c1289f576bdcd19c54d8690653611fcbb4fac8f91a408f8c28885dcac96cbd3a05a0fbf0c8eb88f869977816be268d9a862ab437471b81aa8ca60b0e54c1f6c4
-
 Package: nwipe
 Architecture: x86_64
 Installed-Size: 492
@@ -658,4 +643,19 @@ MD5Sum: 30208ee1b2e8e0907dc35ac861a15637
 SHA1: 038e8b47c4de59cd18fbfa852d916aabdc8f754a
 SHA256: c83a09be93a48f623cc4a521a2d6c99a18b104baed87fa53e2856844380d2370
 SHA512: 5b7bc513a54ce6f0076a5ce7b98c6610d0c2a55daf86a4a664b79c44e479e7d2b1826a7953c5ea30ba5666b9cca129a04c6326f7970440a13ef9d90bd2752dbe
+
+Package: v4l-utils
+Architecture: x86_64
+Installed-Size: 2844
+Maintainer: @termux
+Version: 1.24.1-2
+Homepage: https://git.linuxtv.org/v4l-utils.git
+Depends: argp, libc++, libv4l
+Description: Linux utilities to handle media devices
+Filename: ../../../../releases/download/x86_64-v/v4l-utils_1.24.1-2_x86_64.deb
+Size: 598760
+MD5Sum: 9f4012e40312c3af129b95c248c60a1f
+SHA1: 4e1eb964845ec5e552adf11db8454ddb1e577d9d
+SHA256: 92734689831acbe6a808b7a2b376ca0f4033e56cd4073deeb9e1185e922205a3
+SHA512: c1289f576bdcd19c54d8690653611fcbb4fac8f91a408f8c28885dcac96cbd3a05a0fbf0c8eb88f869977816be268d9a862ab437471b81aa8ca60b0e54c1f6c4
 
