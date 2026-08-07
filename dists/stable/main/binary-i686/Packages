@@ -34223,3 +34223,32 @@ SHA1: 4e34e1da93e169af7eb4a83d37ba46d616f55a4e
 SHA256: 8f8e4fb9764fe06f3e5eff47a55d6d144317a62bbcb3f3d13097df8c996597b7
 SHA512: ae8b665d1e70a31b404595b85955ede5297525d56622963a7e707507a1a820c7a89354ac69be4a9a708353f5e0a5840c301133416e8175ba594f4a52d9517056
 
+Package: libexttextcat-static
+Architecture: i686
+Installed-Size: 52
+Maintainer: @termux
+Version: 3.4.8
+Homepage: https://wiki.documentfoundation.org/Libexttextcat
+Depends: libexttextcat (= 3.4.8)
+Description: Static libraries for libexttextcat
+Filename: ../../../../releases/download/i686-libe/libexttextcat-static_3.4.8_i686.deb
+Size: 7696
+MD5Sum: 66459e0eb1a3b94c0a0e99e386af50f9
+SHA1: 0eba2f35b536d3272d92723e7e737f04a4cd4461
+SHA256: 11008531d43716457d5edaf70d6ccaeb7ba27e5bebca2f68033b46e519b98e0f
+SHA512: 22f4a1c052c696c04aa8afc76ccb76a3cca10cd630684a05410384287d4016c14f20f25c603e2043473bafeca72e5335e4197da76599ee7ede5dfc6799264ce5
+
+Package: libexttextcat
+Architecture: i686
+Installed-Size: 144
+Maintainer: @termux
+Version: 3.4.8
+Homepage: https://wiki.documentfoundation.org/Libexttextcat
+Description: N-Gram-Based Text Categorization library primarily intended for language guessing
+Filename: ../../../../releases/download/i686-libe/libexttextcat_3.4.8_i686.deb
+Size: 14352
+MD5Sum: 857c76c742addc6a33a1815080b89f9c
+SHA1: f415ffc870443b722f1cb3eda1d76da34801ce83
+SHA256: 2ae6be572c977600cafb26c2a6f374969d2bec6f874ab4bbc6690ff8fb72b915
+SHA512: 4b798895335bbfdcea8c1d856719fdd5a74725db10833a9bf862b1530b51445b82c805e9fe574b66697fd7781d1e96a8549379486a974c29411771c9147ed79f
+
