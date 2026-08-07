@@ -12187,3 +12187,48 @@ SHA1: a5d59e260ca147e72a8f4c17d5971d732e479734
 SHA256: d875a542ef555cfade112f76c05aac8d6099e553c5d201256b6dba349568c641
 SHA512: 7a2e8cf15e86fac55a8d53156fc92a1445ddfe77bf7424fea30651fbd9fa39b307cbf89413a016e9dfdd8090e0bc25027fbed707fcb0acc970a90c85913c5f14
 
+Package: deadbeef-static
+Architecture: i686
+Installed-Size: 8332
+Maintainer: @termux
+Version: 1.10.3
+Homepage: https://deadbeef.sourceforge.io/
+Depends: deadbeef (= 1.10.3)
+Description: Static libraries for deadbeef
+Filename: ../../../../releases/download/i686-d/deadbeef-static_1.10.3_i686.deb
+Size: 2022764
+MD5Sum: 2f5cdf4294e442c5e42fdddd8bb94654
+SHA1: e3c10121774c6dc9698f080c4083f504b16e6bf5
+SHA256: 1a9e4ce9660103ce4a59b6e863d9c2b00b996d760504dec4ab8b28913a700138
+SHA512: 872706afda0104a2d059151ee1f572b55ea07d745dcd9b73e476ceda89beabf2e80a3ef5553657e8e722b9fc965259e4dce06108b9f2619d2101f68e0a264a4f
+
+Package: deadbeef
+Architecture: i686
+Installed-Size: 8556
+Maintainer: @termux
+Version: 1.10.3
+Homepage: https://deadbeef.sourceforge.io/
+Depends: atk, dbus, ffmpeg, gdk-pixbuf, glib, gtk3, harfbuzz, libblocksruntime, libc++, libcairo, libcurl, libdispatch, libflac, libiconv, libjansson, libmad, libogg, libsamplerate, libsndfile, libvorbis, libwavpack, libx11, libzip, libmpg123, opusfile, pango, pulseaudio, zlib
+Description: A modular cross-platform audio player
+Filename: ../../../../releases/download/i686-d/deadbeef_1.10.3_i686.deb
+Size: 2747324
+MD5Sum: f24139fe5b7631e494cb010b32f40afa
+SHA1: 677fa16595af75122529f5d83c4dbf05694fda09
+SHA256: 145f9ac1ec9cd3cff1eaa60c6b0bcc3590ebdc159d6659afa4cb6e6ea54501a9
+SHA512: 2362f8497b1c5e0ca8fd11889cb76c752e71fde2dbd7fe3cb16fd735bb84d77650379ec7506ca2c7c55b54e96d3f52d1c4b79f0b8b9469aec2bb90b0592b6f44
+
+Package: scrot
+Architecture: i686
+Installed-Size: 204
+Maintainer: @termux
+Version: 2.0.0
+Homepage: https://github.com/dreamer/scrot
+Depends: imlib2, libx11, libxcomposite, libxfixes, libxrandr
+Description: Simple command-line screenshot utility for X
+Filename: ../../../../releases/download/i686-s/scrot_2.0.0_i686.deb
+Size: 71956
+MD5Sum: 5a846fd6cc835aed499f51e704098eb4
+SHA1: 6f4fe331ad180d6afcf3c986426c3eec7d7663d8
+SHA256: 7c9570789e415c897e9339df3830b0eaad03de10110c74209d3fe90509315c18
+SHA512: caad8e0208d33180e6eb1268a81237fc38cc4cc201b039df84cdfb4fe2766ea26ef5858f8b05f0996fb2881d9ddcc623c3aa77125c5a2bf48d4e9be25602cc2c
+

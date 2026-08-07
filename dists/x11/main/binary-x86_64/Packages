@@ -12554,3 +12554,48 @@ SHA1: 2e8f9daa81d9c52c03b14128950fe49288487b6d
 SHA256: 88697e1dcbc627f37128dfcd819b5507b0c748d5bf89f24b8cb8d6b972cc72c5
 SHA512: 5e4d286af6d27447d3899e9b7ba2071d78d5784b129ffcd094d5d6510631d7442408f3c7529d53d7f65bf31faf936c93f4a7ad3c2b011fa523b4d3d1244b7a2a
 
+Package: deadbeef-static
+Architecture: x86_64
+Installed-Size: 10392
+Maintainer: @termux
+Version: 1.10.3
+Homepage: https://deadbeef.sourceforge.io/
+Depends: deadbeef (= 1.10.3)
+Description: Static libraries for deadbeef
+Filename: ../../../../releases/download/x86_64-d/deadbeef-static_1.10.3_x86_64.deb
+Size: 1999992
+MD5Sum: cf0dd4a7dc526e40f57c11257d24b05d
+SHA1: de3238379ca4c0aefdfc511f73310a450b7a8103
+SHA256: 778857f6ac886286b1e4a3ebdd25d5541b06d606a55857e0975ac4ab10b05a68
+SHA512: 8f5bb82334c9e5dd3af884f0c2a8ea394a344193b13a408de511d1005436464ea77509eb9f53bb67ebe7ae762c1cd49615dc37f3da9ae7ae9ba18bf7e91bbd6b
+
+Package: deadbeef
+Architecture: x86_64
+Installed-Size: 9156
+Maintainer: @termux
+Version: 1.10.3
+Homepage: https://deadbeef.sourceforge.io/
+Depends: atk, dbus, ffmpeg, gdk-pixbuf, glib, gtk3, harfbuzz, libblocksruntime, libc++, libcairo, libcurl, libdispatch, libflac, libiconv, libjansson, libmad, libogg, libsamplerate, libsndfile, libvorbis, libwavpack, libx11, libzip, libmpg123, opusfile, pango, pulseaudio, zlib
+Description: A modular cross-platform audio player
+Filename: ../../../../releases/download/x86_64-d/deadbeef_1.10.3_x86_64.deb
+Size: 2727724
+MD5Sum: 5e05eb4ff8985bb1aa17e15575694823
+SHA1: d3b869ea37e778b50aa7aee750c05afc0428fb2f
+SHA256: 7718fec6c8ffc246d49bfe7de587d05520ac639c3f0d1109a0bac171046bfa2d
+SHA512: d55252a65eafd650db9496d63773b6ea70f3749215375f874706eb9e26fbfd5f82c996afb72e6db5af673067bad5d17cbf3a768a5033ad76ab2b3548f04ee588
+
+Package: scrot
+Architecture: x86_64
+Installed-Size: 212
+Maintainer: @termux
+Version: 2.0.0
+Homepage: https://github.com/dreamer/scrot
+Depends: imlib2, libx11, libxcomposite, libxfixes, libxrandr
+Description: Simple command-line screenshot utility for X
+Filename: ../../../../releases/download/x86_64-s/scrot_2.0.0_x86_64.deb
+Size: 72280
+MD5Sum: 930ff7ccf2d17804c7eb11c652748ae8
+SHA1: fcdb604b3795ecb67544507c645a56b0ce3d6949
+SHA256: 1837a5b539c552efa9b5c3358a27ee55abb24209879f335f0322a7fb238e19af
+SHA512: 5805e08eaf0abe0b2b893ba498af011f2bc4a174c6d4fcb29a4c8168c8deb9119d2e90ca3c761da3ef8b2ff18bdd4bdc754c648a1313bcad3bae97b120ec7c00
+

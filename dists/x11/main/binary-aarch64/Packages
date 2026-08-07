@@ -12626,3 +12626,48 @@ SHA1: d07a696efb04acd60879f92ad6acdcaa4c61b614
 SHA256: 7f3a9559d5e2b0ccb46f2abf76ca2b48e22fd1c039093e17c7ba5d3e4c2d066a
 SHA512: 4a6f373e6a16e01ec12e084cfb9eb953c0614d5c9accf258e68b3b0d17f472a945c0016c91095c8932afb489a6d2b2af55ae49109021885ceb1b4d280d42fe4c
 
+Package: deadbeef-static
+Architecture: aarch64
+Installed-Size: 10320
+Maintainer: @termux
+Version: 1.10.3
+Homepage: https://deadbeef.sourceforge.io/
+Depends: deadbeef (= 1.10.3)
+Description: Static libraries for deadbeef
+Filename: ../../../../releases/download/aarch64-d/deadbeef-static_1.10.3_aarch64.deb
+Size: 2002020
+MD5Sum: 52e2e9013d44838f3938fe47c7582fad
+SHA1: 91287727e0fcc3b24e6bd204f0ff1b4bb30ba47b
+SHA256: 0e0b8bb12410b928b48619794ed0697c9f5889749aad06569eef608485c9ebaa
+SHA512: d13ac63de68d10763a0ddaa70cf08a499e078b555b85f4a2fae6ccf9eb1287e458391e1b535b624e73352c2f6cc57f226720a59f23b7c217a08fbe76b6f98388
+
+Package: deadbeef
+Architecture: aarch64
+Installed-Size: 9056
+Maintainer: @termux
+Version: 1.10.3
+Homepage: https://deadbeef.sourceforge.io/
+Depends: atk, dbus, ffmpeg, gdk-pixbuf, glib, gtk3, harfbuzz, libblocksruntime, libc++, libcairo, libcurl, libdispatch, libflac, libiconv, libjansson, libmad, libogg, libsamplerate, libsndfile, libvorbis, libwavpack, libx11, libzip, libmpg123, opusfile, pango, pulseaudio, zlib
+Description: A modular cross-platform audio player
+Filename: ../../../../releases/download/aarch64-d/deadbeef_1.10.3_aarch64.deb
+Size: 2640188
+MD5Sum: f6ccf11b72986ae5bec9df74dd28a889
+SHA1: 01e1b8874b42996f3f6b602c253456cacc945c2f
+SHA256: 12955cb4e4bca6854bd74910c03ae1d10bda84a55267152c2830607c5680ee36
+SHA512: 1a11056575f78bc6f3c402d290dd3d16df19b8f211bb2143d5e2ab47973f21023e580d9ebc35071f53bd84be2588a772cfe058c6fa759700e70adf4de686a598
+
+Package: scrot
+Architecture: aarch64
+Installed-Size: 212
+Maintainer: @termux
+Version: 2.0.0
+Homepage: https://github.com/dreamer/scrot
+Depends: imlib2, libx11, libxcomposite, libxfixes, libxrandr
+Description: Simple command-line screenshot utility for X
+Filename: ../../../../releases/download/aarch64-s/scrot_2.0.0_aarch64.deb
+Size: 71544
+MD5Sum: 1ac14240a2e2029f455ff8231fa85cf4
+SHA1: c3a56050b3c225a62d72098a99f12f0b9e95c85d
+SHA256: ae789e8c3cb4da21ee8466f208d49a588c7566d0fc5dbf295897da6ed711ebdf
+SHA512: 34cfac9c4fe8c2f083481218b6d8a198ba6714277ee1016088845c1fdeaee78e4a9e53d58ae5f3bb2e04e3a99ace92148c06dded9dd8c8f1b055b586456f381d
+

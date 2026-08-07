@@ -12338,3 +12338,48 @@ SHA1: fa3bb4ec956e3965203eb084c251da3513f47481
 SHA256: 5840e9c86176d057463d2b9c59df1df393dd3d8cf0a708255d31a0c5711a7714
 SHA512: c656573fcb14dc451616ea380537c45e2ddf60962e15da185cc5a2d5175f414051c65b99352446d2f9087dd8f298bd5e01fed76b645428c31132a068414eae99
 
+Package: deadbeef-static
+Architecture: arm
+Installed-Size: 7276
+Maintainer: @termux
+Version: 1.10.3
+Homepage: https://deadbeef.sourceforge.io/
+Depends: deadbeef (= 1.10.3)
+Description: Static libraries for deadbeef
+Filename: ../../../../releases/download/arm-d/deadbeef-static_1.10.3_arm.deb
+Size: 1882636
+MD5Sum: 556410a0feeebd744cbb62e1b036be20
+SHA1: 3029fe231dc6a95c334f77c1a3e04bb46324f45b
+SHA256: b69a6566b59136ee8ef26795120abc5c60fb8b26676b2cdbb1eab21f2dbc9bf5
+SHA512: 3a1b51cd5c1909066f0ea8a86307292c9923b0cc57f83a1bbfc63a61c54029a373f899b0421ac2c2fe648e62d28e045bde91d017767bf9ca8fe744fdafb2f81e
+
+Package: deadbeef
+Architecture: arm
+Installed-Size: 6928
+Maintainer: @termux
+Version: 1.10.3
+Homepage: https://deadbeef.sourceforge.io/
+Depends: atk, dbus, ffmpeg, gdk-pixbuf, glib, gtk3, harfbuzz, libblocksruntime, libc++, libcairo, libcurl, libdispatch, libflac, libiconv, libjansson, libmad, libogg, libsamplerate, libsndfile, libvorbis, libwavpack, libx11, libzip, libmpg123, opusfile, pango, pulseaudio, zlib
+Description: A modular cross-platform audio player
+Filename: ../../../../releases/download/arm-d/deadbeef_1.10.3_arm.deb
+Size: 2453896
+MD5Sum: 271fcd30a6c35e853af1a26378aaac6c
+SHA1: 1487bac58a2f540b0743b3be8976e7ec83ff6e04
+SHA256: a8b45c691f7664eda02c9c0a9340ad2e58ff4ad9dcad7b3f68223170aeb9d2cc
+SHA512: d957d0840256aa9de9f52ed668f36877ff91a65c0fc1d091e8930aa21729f60c721f71e154f87960649083bdf66890f25edacb5e8c854489e3721a5018d190db
+
+Package: scrot
+Architecture: arm
+Installed-Size: 200
+Maintainer: @termux
+Version: 2.0.0
+Homepage: https://github.com/dreamer/scrot
+Depends: imlib2, libx11, libxcomposite, libxfixes, libxrandr
+Description: Simple command-line screenshot utility for X
+Filename: ../../../../releases/download/arm-s/scrot_2.0.0_arm.deb
+Size: 70272
+MD5Sum: 4b525e1de7dec93028e93b9b22a7837d
+SHA1: 3252f1afb0f22b5624d6d5c923356bd9e7f7522f
+SHA256: 03d853f9bf843d1c13a8554e4080050f4d356f15e687b1de3cb94291f1fb213e
+SHA512: c9acb2d293578a35505d7095b927526f5b8551d17547080e4daaac15782edaa29c1781e9d11c28925885d7339b8e183d04cc4b99361257b346f5901731334ddb
+
