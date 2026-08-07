@@ -33158,3 +33158,33 @@ SHA1: f6afc4f1dd1def69ac4523a297117cc224aefc09
 SHA256: 41d3178f8c61fd814e52cef7133c978e6b413c4fd3009adc10b1d645275fe1f9
 SHA512: 6a03d39342bbd86f7fe8bf31ea2846af6016276a349863b6e52439d9e8b748b74393befc42cb328576461bd7a941dc61e64b099f038596a97c0d9e2d4ad5fc98
 
+Package: libmwaw-static
+Architecture: arm
+Installed-Size: 47172
+Maintainer: @termux
+Version: 0.3.22-1
+Homepage: https://sourceforge.net/projects/libmwaw/
+Depends: libmwaw (= 0.3.22-1)
+Description: Static libraries for libmwaw
+Filename: ../../../../releases/download/arm-libm/libmwaw-static_0.3.22-1_arm.deb
+Size: 4986560
+MD5Sum: e2e48d7c69b372934a7fc8e875618169
+SHA1: 0f3987efd6ed14a8a56bd0adba9c0008e1b023d3
+SHA256: 3090965f434eecb370bfd2a7dda814a4f19906e8c16120fe1bd6e9ac5e40f224
+SHA512: 7ad23881bf94efefe6a34e088c7d7e88b10a5352455ff2b0ef9dc30e43f723c2063fd12c168f894ec4b176c1eb8c1341a81c15072c2e8104f37330a2faf3f7e6
+
+Package: libmwaw
+Architecture: arm
+Installed-Size: 3808
+Maintainer: @termux
+Version: 0.3.22-1
+Homepage: https://sourceforge.net/projects/libmwaw/
+Depends: doxygen, librevenge
+Description: Import library for some old mac text documents.
+Filename: ../../../../releases/download/arm-libm/libmwaw_0.3.22-1_arm.deb
+Size: 1447032
+MD5Sum: f5a6c5366ba8f3e4f3666a2e0821d1d4
+SHA1: a6711e0537db664a2a2ed33b678788745a917958
+SHA256: dae85ab5b322177518322695434718ca5b04a3cda45cac2a320c1dda91ebc1e4
+SHA512: ca853f4f99fee835374c175cd9ea5a190cc07af9fa6b8935478b8c946740c285ffb1fd8ff2aef8fadc4aa2b08dbea9dc04bca56c3555d405e28d09e45ec23e05
+

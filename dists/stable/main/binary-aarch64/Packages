@@ -34534,3 +34534,33 @@ SHA1: 435726cc736370971fee5c2651b3a6c7561125c7
 SHA256: f48e97c6b5f1f49a9805939c80f7bd08b53b7f20321b625221c019588a970aa3
 SHA512: 96df204eb4ded80d3ef95df65b2894602fde4c6cb74ca165945e8329c48c0a2667e5ff066177c1e7f4c1b5e210d9df8901ee93449a2cfb78c18da8f4607935ee
 
+Package: libmwaw-static
+Architecture: aarch64
+Installed-Size: 46496
+Maintainer: @termux
+Version: 0.3.22-1
+Homepage: https://sourceforge.net/projects/libmwaw/
+Depends: libmwaw (= 0.3.22-1)
+Description: Static libraries for libmwaw
+Filename: ../../../../releases/download/aarch64-libm/libmwaw-static_0.3.22-1_aarch64.deb
+Size: 4290216
+MD5Sum: 403b8387966e14da2181a306f77b66cd
+SHA1: a65116b306d01a6d30b93c9f832d8362e8717317
+SHA256: d0e064c5bd5c635a48f4956ab990297e5c1783c914b71d96fd7f3c111901ecb0
+SHA512: b73b2265e2ab93cd7404d37403bf045425aad1cf2d08e620fdeeed95c55b90ae692b22f98fd72068a736a88e343ff86b7e0df2e1f549b40f3bc9c6f5cadda476
+
+Package: libmwaw
+Architecture: aarch64
+Installed-Size: 6064
+Maintainer: @termux
+Version: 0.3.22-1
+Homepage: https://sourceforge.net/projects/libmwaw/
+Depends: doxygen, librevenge
+Description: Import library for some old mac text documents.
+Filename: ../../../../releases/download/aarch64-libm/libmwaw_0.3.22-1_aarch64.deb
+Size: 1607424
+MD5Sum: 4a06d79d50762105aab0f7fc9b275c55
+SHA1: f603085a2e437ad2cbbbc676958b6aded52b50d8
+SHA256: 3d9638b6e8e3e51cca810fa7ee06581ec461b3f1c4357ce0713d709dd4d4243c
+SHA512: f85ed859108c99bd07677b09dbe035ae9d1f6300d7a52f7e605e71a426c842c0bd559e8f50f00de4e503e514374156d42f0581d2eaa25d2078f6f6fb4b553156
+

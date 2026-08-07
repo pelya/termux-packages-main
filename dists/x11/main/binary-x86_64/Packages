@@ -12208,3 +12208,19 @@ SHA1: 440ae2e1aacb5b8421984426e4aeeb2d83ba9691
 SHA256: 10de8a4b7c971cb2027409d5f9fb6bddb8c64b94282e933e4ba3d044de3acd02
 SHA512: c0a9c5d392c33f93e16aa6975eb72f7b2691154890a3d843ac6d9a0f9b13ac6b21ca3086b195134c6985e6e51e57c457fd5d6dc29490b2cd7fd6b104d80f896e
 
+Package: fluxbox
+Architecture: x86_64
+Installed-Size: 2416
+Maintainer: @termux
+Version: 1.3.7-38
+Homepage: http://www.fluxbox.org
+Depends: fontconfig, fribidi, imlib2, libc++, libiconv, libx11, libxext, libxft, libxinerama, libxpm, libxrandr, libxrender, xorg-xmessage
+Recommends: aterm, feh
+Description: A lightweight and highly-configurable window manager
+Filename: ../../../../releases/download/x86_64-f/fluxbox_1.3.7-38_x86_64.deb
+Size: 493404
+MD5Sum: 8505dd40132a7ff39b03ac08dfc7fe10
+SHA1: d02fb72bffa6e0d0d41ad38223393194b38b944f
+SHA256: 3fead048c1aa161f887d3ae882a9c4748a1853c805cfd173883de626aad4f1b3
+SHA512: 7822cdf7a145e94c768f0d7cf737fd593d0d2c2f6797249e7845d0e904d4395c0b950a79ca25c4aed386d57ffe2c5b253802e7a441eab49e73c9d9b460e75681
+
