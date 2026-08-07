@@ -33860,3 +33860,33 @@ SHA1: c7eb01c42bee7435f56a2ba035da84b6742b925b
 SHA256: 1ea1be60d45c4140583b7cb61764e769e91c7d41583fa159dae35d390bde7f1b
 SHA512: 84152d8aba445e5c94b39e3a7a03c27e070edebf13c5620ce02673d7c0f71ded13cb450b95aa95e8c84cdfe405a103a7a0470177aee8eb7b61727eb7874d2c1d
 
+Package: libqxp-static
+Architecture: arm
+Installed-Size: 1868
+Maintainer: @termux
+Version: 0.0.3
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libqxp
+Depends: libqxp (= 0.0.3)
+Description: Static libraries for libqxp
+Filename: ../../../../releases/download/arm-libq/libqxp-static_0.0.3_arm.deb
+Size: 196396
+MD5Sum: 6524eb0e3f53c7b21c9e0c24fa63efcf
+SHA1: 0208d5f841e65112724ba4e8d4233cdbe5f4a212
+SHA256: db79706c5923c19310db3b9408b0117c7760c939751fca73e39b5d7005b8a638
+SHA512: 603fc0b27561e9b5b0c4d8ce1bcb11ad475fb83173c5920f7b7001faafc9b1848e20baabd47c6c62e901692b3ee9937b228aa0660316f87f8ee4cb7443f94c01
+
+Package: libqxp
+Architecture: arm
+Installed-Size: 292
+Maintainer: @termux
+Version: 0.0.3
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libqxp
+Depends: libicu, librevenge
+Description: a library that parses the file format of QuarkXPress documents
+Filename: ../../../../releases/download/arm-libq/libqxp_0.0.3_arm.deb
+Size: 69792
+MD5Sum: 815e4fc1382da5615a9f55d8b23e2658
+SHA1: d194a6994c13affd1944ae59438eeb604d4e83be
+SHA256: 2ae4298c8d38ded60c048873e5eedea60e2ec7de9d0c4a8a731685ee0beeb539
+SHA512: 40bb4bd872290ae3a4eebdc716c6783b1d4c90f883f8f8f81d754de11cba2b0d12f9cf099ade1eeca9ce8afa3225e7a190a7d34ee673f4959a010761f23221d1
+
