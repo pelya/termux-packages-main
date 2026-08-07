@@ -36017,3 +36017,17 @@ SHA1: f21fce274dcb8df9da3a891c1fd262f51b72fb72
 SHA256: 6c6776e0582a19442a7f6e56f057f6a612b694b9ff34cc019a2e28601a3c17af
 SHA512: 6c6fc1b696035e61c44cc6e66628b0a67073fe3527c4e3d05fb38718c34d167f6a7fd1687b318e69979193303981bd6011e49f6c37413a8a7d6b903abae2a8c8
 
+Package: mop
+Architecture: aarch64
+Installed-Size: 8360
+Maintainer: @termux
+Version: 2025.03.17-1
+Homepage: https://github.com/mop-tracker/mop
+Description: Stock market tracker
+Filename: ../../../../releases/download/aarch64-m/mop_2025.03.17-1_aarch64.deb
+Size: 2311696
+MD5Sum: 79dd70f2fbce6893a0c0676351963581
+SHA1: bddaecc7f681b5ce5d30c547254b0f72757131fa
+SHA256: 30b3fe23c5abd70643737a8838a3d49e01a586a8c1946b5aba815f0fa7e92f7e
+SHA512: 2020c2c3303cb8b3a1fad79fedc9f22ca0f4b7caa4c910908241a42ca66faf0608d15f2223048ac43029f7950687fcc12dd2dc0b89efdc43c279ed0eeace2b23
+

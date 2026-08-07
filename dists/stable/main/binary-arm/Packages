@@ -34535,3 +34535,17 @@ SHA1: f21fce274dcb8df9da3a891c1fd262f51b72fb72
 SHA256: 6c6776e0582a19442a7f6e56f057f6a612b694b9ff34cc019a2e28601a3c17af
 SHA512: 6c6fc1b696035e61c44cc6e66628b0a67073fe3527c4e3d05fb38718c34d167f6a7fd1687b318e69979193303981bd6011e49f6c37413a8a7d6b903abae2a8c8
 
+Package: mop
+Architecture: arm
+Installed-Size: 8268
+Maintainer: @termux
+Version: 2025.03.17-1
+Homepage: https://github.com/mop-tracker/mop
+Description: Stock market tracker
+Filename: ../../../../releases/download/arm-m/mop_2025.03.17-1_arm.deb
+Size: 2418664
+MD5Sum: a87e0a96d986fef6b528e021e5119b70
+SHA1: d0c1287953db4047c80d1aa73541b5f07bae67a6
+SHA256: 18e2503e15f02c3b164b7f9b914f519c2ac8211a40d91278fb2900aa2e64963e
+SHA512: 0c6bf7c083f2e572c4837dc72ffec50d16dff0b7cc13b9f6a154e5eeabbac01cf65d2a5179536e1776839f6ddbed0e3cc5835ea1e76ec15a79d6babc15d0fa9b
+

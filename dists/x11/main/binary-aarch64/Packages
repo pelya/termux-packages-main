@@ -12731,3 +12731,18 @@ SHA1: d9dede60c6a05892b05211af4c45585c6a00d1a4
 SHA256: c18948db0ed74d28540a7db8dfdcb29c4725e6b74e31836d027d3d40f13ffd1d
 SHA512: 9dc8045a11364205bdcc8ba71ca0911441778ebcbc4efcbe8551d8df73ade6432402faa41da45d4345ccb51d53a373e4f58fd7ef0b3e6f8fd4029ef2efc027da
 
+Package: ksystemstats
+Architecture: aarch64
+Installed-Size: 684
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/ksystemstats
+Depends: kf6-kcoreaddons, kf6-kcrash, kf6-ki18n, kf6-kio, kf6-solid, libc++, libksysguard, qt6-qtbase
+Description: A plugin based system monitoring daemon
+Filename: ../../../../releases/download/aarch64-k/ksystemstats_6.7.2_aarch64.deb
+Size: 108584
+MD5Sum: 2f027bb011da7a5a9c79217387fa8a25
+SHA1: eb22a6a7a7f3d7e4930ed951943ba8f1911b8749
+SHA256: 0d3725369ef9f031683b8b744eb40ea9967dbfed127899afd86f873a2e7e731e
+SHA512: 201b9fadd89b8f1097b389ec3624b8817ee8766cb62f305b44edf2f48fa2bcf4dcd246c1a5b6a823ab32cf2c456165bc203f189122eb563f0a91a5552afe6798
+
