@@ -35788,3 +35788,33 @@ SHA1: 80b70e0383a02b0c20f91be9829fde92e233e014
 SHA256: 1549bc4a0eef9c6a9645b8d394071b886682f8bf742128ddc553ce8aecb4a32c
 SHA512: 65461bca6854eb5d440149e50f3aac22f406f74bf071414f3c4e93a8e5bae575015074965d3c973881daa8d77450d202872773695f9a9df28316c8d31c8a6670
 
+Package: matterbridge
+Architecture: arm
+Installed-Size: 60320
+Maintainer: @termux
+Version: 1.26.0-4
+Homepage: https://github.com/42wim/matterbridge
+Depends: libc++
+Description: A simple chat bridge
+Filename: ../../../../releases/download/arm-m/matterbridge_1.26.0-4_arm.deb
+Size: 11351884
+MD5Sum: 36abac8360cda853a54e6c08e5b8e5d1
+SHA1: c8abe733b968ec5a48494d5ba6ddf0a41334fa88
+SHA256: dc71e451404d14c9850412d0edae79b62ff41bd570088f9896b43bf6194a5fd7
+SHA512: b16fecbcc83c78986433f024f4d54925cc093bdf4e1812e9691b5f416c507e4809ae4e034de35f51717cf3519dae31f2ad96b39bf7bd8eaee492e186c4e8c5eb
+
+Package: proxmark3
+Architecture: arm
+Installed-Size: 44692
+Maintainer: Marlin Sööse <marlin.soose@esque.ca>
+Version: 1:4.21611-1
+Homepage: https://github.com/RfidResearchGroup/proxmark3
+Depends: libbz2, libc++, liblz4, readline, python
+Description: The Swiss Army Knife of RFID Research - RRG/Iceman repo
+Filename: ../../../../releases/download/arm-p/proxmark3_1.4.21611-1_arm.deb
+Size: 6429936
+MD5Sum: 84ff02c6bc0f7a300a7ca41e8bd5dd7b
+SHA1: 64eb11a71dba6155f8e0bac70654d892096ef95c
+SHA256: 9ed4a3385e6a973b7cc8c2b8329ad4221cf90855445d42db100328cbc67ad18c
+SHA512: e02ad147c7ff301b5633c449be74a53cfd3e1463a6580ba7f073dfd5c80c6f79e3d90f7adcfc908f8f563b6297763947cea677c058d037e2d19c2d452e43509f
+

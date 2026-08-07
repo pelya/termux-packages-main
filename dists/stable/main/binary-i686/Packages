@@ -36343,3 +36343,18 @@ SHA1: 348d2b2d06a49397aaf3fe8252835c3bbd2c9759
 SHA256: f700dd1c90cd8db1cf36febf2a184727276f561b347d605f05d4423fa0b106b4
 SHA512: 64a6aa8afcfa0723c6c71313e54d918b2c27ee790e63a6407c241b17860734abcfb7225a1d77386f076506217098f1d21f11ae1583bcc57b40df83322d14301a
 
+Package: matterbridge
+Architecture: i686
+Installed-Size: 61080
+Maintainer: @termux
+Version: 1.26.0-4
+Homepage: https://github.com/42wim/matterbridge
+Depends: libc++
+Description: A simple chat bridge
+Filename: ../../../../releases/download/i686-m/matterbridge_1.26.0-4_i686.deb
+Size: 12983496
+MD5Sum: 1772745b53a95bf580bbfd9d0687ee74
+SHA1: 1d7f6e2058e6dd2674b918e91dca0786353cd146
+SHA256: 0ef7c6253e3ea9e32806376d225e9824d4f3ddf0a3d615260414c82ccb84b73f
+SHA512: 5e02436328f7102551d4c6b0c0b2b351e92a8ad95c1f3d29c0a597771ae40420a4c946bc80d17ca762745fb06ab658f53b4f5f67c1b4af8559057cbb4b904255
+
