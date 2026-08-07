@@ -35209,3 +35209,33 @@ SHA1: 175cc42165294ad9e185aa6aada18f0f71e0be25
 SHA256: 42658a6a415dfcde84bcef76ee363e9a86c00111f01b76033605de48c6aa06ef
 SHA512: 8c7a0065095deeeacbdaf3ede247e59c739392ab8f26681bb69ef010b2f16aa7cbb4c24c3a4a02f0d58b2a59761a120849ed0a7cc6c7a18cdbac0e26df919f53
 
+Package: libfreehand-static
+Architecture: aarch64
+Installed-Size: 1808
+Maintainer: @termux
+Version: 0.1.2-5
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libfreehand
+Depends: libfreehand (= 0.1.2-5)
+Description: Static libraries for libfreehand
+Filename: ../../../../releases/download/aarch64-libf/libfreehand-static_0.1.2-5_aarch64.deb
+Size: 319444
+MD5Sum: 023dd64c6eeab95f096cbae63e281611
+SHA1: 7e1030dd64721be77766e061a39f5348b1ef8cee
+SHA256: 40215cbcba190e6fe1792b716b96aa6d7726e7fda7ec2cf20bbe9449099a4941
+SHA512: 9eee300b0ac15e68427dd2f3e6c513ae928bf44cc2dbe9049e603d98fc208892efaa167767288443938a23408ba9db75e27c6eba49af49dbe7f4d08066f39ab2
+
+Package: libfreehand
+Architecture: aarch64
+Installed-Size: 616
+Maintainer: @termux
+Version: 0.1.2-5
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libfreehand
+Depends: boost, littlecms, libicu, librevenge, zlib
+Description: a library for import of Aldus/Macromedia/Adobe FreeHand documents
+Filename: ../../../../releases/download/aarch64-libf/libfreehand_0.1.2-5_aarch64.deb
+Size: 241060
+MD5Sum: 9307ee728ec172b03d4d2976d412f585
+SHA1: 4ec3eb468f43e84fdd22bdee3c90b4d4cd52755e
+SHA256: df54c8d37c5e4d5b803ca63887ae1b68dd41a64599d740ad15ebca3a63dcbb89
+SHA512: 488e8bd5a26837ca6db61d792fbf3e28119d876f131d67500f7aadb194e31ef3c3cd154a99e1d27ddebd8d916a1cbf61f0cd7d209a7a116f413ce47a85fe4972
+
