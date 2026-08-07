@@ -33745,3 +33745,33 @@ SHA1: daadcbe6eae9c2d7b9abfa06785ccb94901d92e1
 SHA256: 52d4d095ba745d5300e467b69ed93924114f444b187c5aef3c726ec9163f62aa
 SHA512: 3b4d983754b38aa8cbb2c862cc6b1ba159b1732d17d91d74d29f077a8a626b101db0d371e8631d6c8faa1c7e7d1e7556f8aba8f6fcf8163feaef06328527eac0
 
+Package: fm
+Architecture: i686
+Installed-Size: 12408
+Maintainer: @termux
+Version: 1.2.0
+Homepage: https://github.com/knipferrc/fm
+Description: A terminal based file manager
+Filename: ../../../../releases/download/i686-f/fm_1.2.0_i686.deb
+Size: 3522452
+MD5Sum: 43ae055d57c10300e5e896e58566097f
+SHA1: ae6acba3e80c3c6913736a280e0e3755d91a9763
+SHA256: e9365911dc9c0295168e0f58f02757008dd34802fa8e4f0d5b6d2bd3dba07afd
+SHA512: 55c2ccef80d1e238fc9ecc210f1bf9642134d9071a2d87b0b66567811778cd4576daf373bf643b69751f66d269356e267f883be60017da2e395c8f4ea4780f5b
+
+Package: gleam
+Architecture: i686
+Installed-Size: 22960
+Maintainer: @termux
+Version: 1.17.0
+Homepage: https://gleam.run
+Depends: erlang
+Suggests: nodejs | nodejs-lts
+Description: A friendly language for building type-safe, scalable systems!
+Filename: ../../../../releases/download/i686-g/gleam_1.17.0_i686.deb
+Size: 6701704
+MD5Sum: cc3daccf8eb25cec826dd1c54820cbe4
+SHA1: be2b3de3dfa09fcf3277acbfdb9e47175edebe80
+SHA256: 3cd85007fc03ac9c58e2409363532d9f9b87753a49d0cd01de339c0bbce00f6f
+SHA512: 5af9e938357d618dc7152dc80482bb84f6da75d33dc8ceaabef9ea6ec8be7928f1c158f2e91f89594440f98779c30d49c8a0383672401ff419a9cabff4910fdb
+
