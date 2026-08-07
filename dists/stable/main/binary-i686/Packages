@@ -35638,3 +35638,32 @@ SHA1: e85bbab5197bb3a2c845957081966c49eb48258b
 SHA256: 442a318f2fe51945bb399cccacdc62f6918f07b37b21e0b7f3a1679c755190e5
 SHA512: 2f5bce07c4d997490a2b4ffce08765430cd4078b4ea592765b7b2efa037ffe44c61d32827f62bd3d62f42f17319f11194bdbeab2f21ef308a97d1f7f077c8057
 
+Package: germanium
+Architecture: i686
+Installed-Size: 6740
+Maintainer: @termux
+Version: 1.2.3-3
+Homepage: https://github.com/matsuyoshi30/germanium
+Description: Generate image from source code
+Filename: ../../../../releases/download/i686-g/germanium_1.2.3-3_i686.deb
+Size: 2136980
+MD5Sum: 69c4fe40cdc6323937cf09c888f85086
+SHA1: c6970f8ead22cb7f8153c1b390a1887c4b419067
+SHA256: 40c72559b0f91672ee47498f2fd3a9061d73e8f8707d497f554994229febb9da
+SHA512: d2a3fd3681d841fdb822883330f4cef3f9b4262c196b3f6f9336fac4ba9fa464d57bc27430becf771daddd1d12107f26a2f9a3afa97c6458591085f3905bc7f9
+
+Package: libt3widget
+Architecture: i686
+Installed-Size: 1700
+Maintainer: @termux
+Version: 1.2.2-3
+Homepage: https://os.ghalkes.nl/t3/libt3widget.html
+Depends: libc++, libt3config, libt3key, libt3window, libtranscript, libunistring, pcre2
+Description: A library of widgets and dialogs to facilitate construction of easy-to-use terminal-based programs
+Filename: ../../../../releases/download/i686-libt/libt3widget_1.2.2-3_i686.deb
+Size: 335816
+MD5Sum: ccccdcdfeb2c5be25b8e02d147b607b0
+SHA1: ddf830dcbca74fbc547dde2db0c64f731cad828a
+SHA256: 883f4adac87f8036c708a6fb0ba02980f4bcd9ef725c8b26964083bf0af5650f
+SHA512: bedc07cc06d15e7afaee3b0d09402ecb51103a278b83ac9c7b651b9b7634270525c6832a14753958f1b36079993f9f37bbfc8243b7c66b701996fd9bfa48e8f2
+
