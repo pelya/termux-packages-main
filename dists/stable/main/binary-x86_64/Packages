@@ -34563,3 +34563,32 @@ SHA1: 67fdc221f27c7ffe62a9291df2892cadd7e853b4
 SHA256: 535c9c8ff334ab55edb49097663c45e8c469621f58ccee41db39a61e0c82d99c
 SHA512: ee0deb5587e76a3769b5966a88bd3aaceb95b817fe7494c103d3c71a67e5a30c360993f1ff14962af41b498067e87599c8e6dad76958c5cd231b0605735652ec
 
+Package: librtmidi
+Architecture: x86_64
+Installed-Size: 192
+Maintainer: @termux
+Version: 5.0.0-3
+Homepage: https://www.music.mcgill.ca/~gary/rtmidi/
+Depends: libc++
+Description: A set of C++ classes that provides a common API for realtime MIDI input/output
+Filename: ../../../../releases/download/x86_64-libr/librtmidi_5.0.0-3_x86_64.deb
+Size: 34484
+MD5Sum: 75bf538757fc0d9f955be75be10095d2
+SHA1: f830e24bf6f8a1ee3399f52fe359790d7b6afdea
+SHA256: 048b8635a67aeecc754cecf6e0fe73b2fbe01a0db8d363cdd7222ab367395069
+SHA512: 5b4d907adefb2f7c5800fbeafae12aca248d08c5176b3324dac04eef913344bf6f313d39629f4b762ef16f5cc1e9ad1d39539db61f41f8ea648a8126c588111a
+
+Package: rnr
+Architecture: x86_64
+Installed-Size: 3684
+Maintainer: @flosnvjx
+Version: 0.5.1
+Homepage: https://github.com/ismaelgv/rnr
+Description: Batch rename files and directories using regular expression (rust)
+Filename: ../../../../releases/download/x86_64-r/rnr_0.5.1_x86_64.deb
+Size: 1094916
+MD5Sum: 1e06664756a469d05295456fb54d8c23
+SHA1: bf97d55074f9351d9be4940e03d6a1d2151001d7
+SHA256: d58636f301bec5ec4397b4bf6b008025fb724cf10d583d906f50bc6d77549655
+SHA512: 299986a0172abfe6630bbab5c9edce0f52694129ff31ec665d992542b38afac3bfbdefd9979dd0b5069a62112c30e795cc61a5ae95a0219311f0280d5f2cae60
+
