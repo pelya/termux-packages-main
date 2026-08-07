@@ -34491,3 +34491,47 @@ SHA1: aedc2a300b6396465c641934a4094efeb84ea664
 SHA256: 161bdd0ce11703629510a295d83c67e82012fdd3a86f56d2f485e5e7045ecead
 SHA512: 2adf390dcb2eaf0f3206a4bf390a5416778d338884e5151c5234a087e414b477ea4c4b3da0feba1c947ff0515f77927ebf25381ac58014272471a4047ab09241
 
+Package: dictd
+Architecture: arm
+Installed-Size: 376
+Maintainer: @termux
+Version: 1.13.3-1
+Homepage: https://sourceforge.net/projects/dict/
+Depends: libmaa, zlib
+Description: Online dictionary client and server
+Filename: ../../../../releases/download/arm-d/dictd_1.13.3-1_arm.deb
+Size: 113480
+MD5Sum: 97b65fc5db2b586b8ca9d21902f9fbf2
+SHA1: daf51bbc09910c6423af74137238dd0bfd413b41
+SHA256: fc2522ce84b035c9a5e2c4538e0c7a2d6456f96a8800721f10eef71fa7aae9c0
+SHA512: d244c1afd784df1c0c3712db47eb2557da0f8d0e45b924031328319c4addaa4b15ef930c2635833c2edf0fb2cc74ac89d8149b8b492a39d9aa678d9020fb2d8c
+
+Package: libmaa
+Architecture: arm
+Installed-Size: 120
+Maintainer: @termux
+Version: 1.4.7-1
+Homepage: https://sourceforge.net/projects/dict/
+Description: Provides many low-level data structures which are helpful for writing compilers
+Filename: ../../../../releases/download/arm-libm/libmaa_1.4.7-1_arm.deb
+Size: 26284
+MD5Sum: 9290ea0a7d9962b8850d2690483bf756
+SHA1: a92515a0de47fe1161f6389a24274f01243aac08
+SHA256: 8d1276780383fc8ab490a9e42d496b88f5975595e46955063c032cbe2166f37d
+SHA512: 1fcd127d6834b359dac56eac7ca6c85ddc68ef636d137fb20f02b9ac96bee2a91f94c05474badccf1e02ee1477f93b58b3b29b249602f781b3edea352b5aefef
+
+Package: python-xlib
+Architecture: all
+Installed-Size: 944
+Maintainer: @termux
+Version: 0.33-4
+Homepage: https://github.com/python-xlib/python-xlib
+Depends: python, python-pip
+Description: The Python X Library
+Filename: ../../../../releases/download/arm-p/python-xlib_0.33-4_all.deb
+Size: 122880
+MD5Sum: ddf2c417c3991bd0b2682c347d67e9d8
+SHA1: f21fce274dcb8df9da3a891c1fd262f51b72fb72
+SHA256: 6c6776e0582a19442a7f6e56f057f6a612b694b9ff34cc019a2e28601a3c17af
+SHA512: 6c6fc1b696035e61c44cc6e66628b0a67073fe3527c4e3d05fb38718c34d167f6a7fd1687b318e69979193303981bd6011e49f6c37413a8a7d6b903abae2a8c8
+
