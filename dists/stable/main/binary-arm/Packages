@@ -35039,3 +35039,32 @@ SHA1: c973699561b7703b1b94385336d764b0ed81a6b0
 SHA256: 4af5ad83ea781f9717bf9fa729730bc2280ea43fcd752905832f146105a63049
 SHA512: 98281cc62e38658ce9acbd00144d90588800ef95b4edcd65df394e2a4a8906866eee2028204ddce8343d77ac908c5d6dcb5b929fc0a3afa765ac55cdae095207
 
+Package: hilbish
+Architecture: arm
+Installed-Size: 7444
+Maintainer: @termux
+Version: 1:2.3.4-1
+Homepage: https://rosettea.github.io/Hilbish/
+Description: The Moon-powered shell! A comfy and extensible shell for Lua fans!
+Filename: ../../../../releases/download/arm-h/hilbish_1.2.3.4-1_arm.deb
+Size: 2001572
+MD5Sum: 3fa36670ed53c865fa6c098579ef9e67
+SHA1: 5dc57a9f7e4c2759f1d04022f43457936aa49c85
+SHA256: 8448d88a8d3c9bd17e6adf229134d9a3d1ee853a9ec3e4a91d937a972546d8a7
+SHA512: c92f946f5743bf8d432f55085af60faff12160073d4c08f966d024bf44adc7551868e45bf6b58a1c377ac5a11079604ad34839e11addb1e377bc5dff1e657559
+
+Package: moon-buggy
+Architecture: arm
+Installed-Size: 132
+Maintainer: @termux
+Version: 1.1.0
+Homepage: https://www.seehuhn.de/programs/moon-buggy
+Depends: ncurses
+Description: Simple game where you drive a car across the moon's surface
+Filename: ../../../../releases/download/arm-m/moon-buggy_1.1.0_arm.deb
+Size: 33752
+MD5Sum: bc4f49949f1bc3df5ace626a4e514c29
+SHA1: d846e310bc0f0bd3634b2835168eb5242f703bb7
+SHA256: 2dc8b1639a45e14fe1b522d97da87637012fff757068f2de15e0767878b7bee1
+SHA512: dec2eee84ae8159b1ef575971ae50ae890e4688d2dbc4e50b8a977ec4d27a2219ff80c1881b9f8869e9085acacd9f3f9a5de6c1f3a946ad13dca6d202e09ed50
+
