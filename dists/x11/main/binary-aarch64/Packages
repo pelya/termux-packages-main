@@ -13004,3 +13004,18 @@ SHA1: 8f165c10c8b18f77b54fc2768bc79ca4121c5359
 SHA256: b37feda531463aa60f60597a7664c470d993415724c6abd3cde5819769f9ac46
 SHA512: 89baa49089fa81cda97b4acb716980527c966c2f2552e59f048497f2db378dac835c4ec6cdc0ff68a655c50809e6013de7a2a2a382dc968356e933f6af40d23b
 
+Package: drawy
+Architecture: aarch64
+Installed-Size: 3004
+Maintainer: @termux
+Version: 1.0.2
+Homepage: https://invent.kde.org/graphics/drawy
+Depends: kf6-kcolorscheme, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-ki18n, kf6-kiconthemes, kf6-kwidgetsaddons, kf6-kxmlgui, kf6-syntax-highlighting, libc++, qt6-qtbase, zstd
+Description: Handy, infinite brainstorming tool
+Filename: ../../../../releases/download/aarch64-d/drawy_1.0.2_aarch64.deb
+Size: 796976
+MD5Sum: de112db84618907270520d99b5386a4d
+SHA1: 495756ce58867799fbf28d6435bc5bf914f4fa29
+SHA256: bf64951bf1221c43342b60cb685a8a10a2b5e5d012afed6645f9d13b462a9f09
+SHA512: 6cb021949bfbe79870f3494be7a2129c75d1d092a051749b064320923a34a6fccc658480fab7fb21734b3213934b9e88a008ecfb778d4f5427db7031a6f4513a
+

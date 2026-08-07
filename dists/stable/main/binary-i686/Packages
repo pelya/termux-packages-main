@@ -35594,3 +35594,18 @@ SHA1: 9dcfae0b28ff2cf718597bc40be0ffaaa8b45646
 SHA256: 8f22d96eb8d1257453d24a5eaf6fb945da665293e1cc90a9789255f82a4f3d3d
 SHA512: ba7d50891c5da73ac7408701b7a69e0a257b48af2b9d7e01fc6270e0fed62881fd8a412269b661f0d657ce87ebfae144ccdcd7397fa02d99b1a54b20e2534ca4
 
+Package: ircd-irc2
+Architecture: i686
+Installed-Size: 464
+Maintainer: @termux
+Version: 2.11.2p3-3
+Homepage: http://www.irc.org/
+Depends: libcrypt, resolv-conf
+Description: An Internet Relay Chat (IRC) daemon
+Filename: ../../../../releases/download/i686-i/ircd-irc2_2.11.2p3-3_i686.deb
+Size: 153348
+MD5Sum: 697755544cf86d785cb3732a564a2fdd
+SHA1: f17715a1b53dedda02e8e0fb6eef078851a1dab1
+SHA256: 8f16deb494c62564d71e237e62e07429da47d06ae0ebd33d7186e520ab6880c9
+SHA512: 1374e44f45ca85d8eb785350ae4fc098d19c87330b91f59a72f84090461d337d74d680ec41738710fa0081e0da1b44e08e3056c83534fb715f676facb923fc00
+
