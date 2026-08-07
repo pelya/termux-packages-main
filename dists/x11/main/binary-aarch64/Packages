@@ -12761,3 +12761,18 @@ SHA1: 62d3962c906446cfb778cc9cf4331357a0661690
 SHA256: c6e130e77b7eb5fc56631b2321269c4ae3724228a64a94ffa0ba0745128bc08b
 SHA512: be7cc9b8f7239223d8e6851ea05e8f9f8c02e1f05ac3811b7a59935b9b1edb831b6690ce8fd5a8c750763f8f0b0d1e356945bcad87949cc8f54eef3ae38f52ac
 
+Package: mate-media
+Architecture: aarch64
+Installed-Size: 1188
+Maintainer: @termux
+Version: 1.28.1
+Homepage: https://mate-desktop.org/
+Depends: libcanberra, libmatemixer, mate-desktop, mate-panel, gettext
+Description: MATE Media Tools
+Filename: ../../../../releases/download/aarch64-m/mate-media_1.28.1_aarch64.deb
+Size: 140812
+MD5Sum: 4d1429a7a021b9c1041481aa58323175
+SHA1: 8f81e50c82383960fd1781582c06490db64dbb5b
+SHA256: 28cc0177fef9d4228d535510820b56b1051e6399f90af21f1d1681dcc99ed1ad
+SHA512: 0ae4e1eb474666cb9b00a13a7244a84473680908eff6361756849d520b8e3227b5d32a05a67d3e374feb65a5cea4a4b5eb6f2cdb5e2e0b51bc6684bf294be0f3
+

@@ -35164,3 +35164,18 @@ SHA1: ee081816ca41007a6864082119c5a70f76f4870e
 SHA256: 44cc329f3cca68cc0129fa32c6f153d3bdbea519c6118c919905f77ecb9f8c1a
 SHA512: 77bb692694a4bcd1dc60fd09bd871221104766129ee8782716a40e18d5eb7f79e6b78fa340e37fe2519a9fc0b91525a06e2664d525e9c31c654be79d9f67314f
 
+Package: pdfgrep
+Architecture: i686
+Installed-Size: 172
+Maintainer: @termux
+Version: 2.2.0-5
+Homepage: https://pdfgrep.org/
+Depends: libc++, libgcrypt, libgpg-error, pcre2, poppler
+Description: Command line utility to search text in PDF files
+Filename: ../../../../releases/download/i686-p/pdfgrep_2.2.0-5_i686.deb
+Size: 40944
+MD5Sum: 7b06a4ce6d8618575a4242483a41d484
+SHA1: 87ebb61fb33afa8fc95c9bcfbd76103851bed4bc
+SHA256: 3f5ec065ef7361d5def29968f702cce424ac3cd5142417ec2456d841f31f2b70
+SHA512: e5e2d615828327048067667af60dae8db6658ea82676932f8da3bcd0fe3538bbcafda43e48646fe76d276f97e8f8688b83032617b2bb7d4d9603db4d6aba6444
+
