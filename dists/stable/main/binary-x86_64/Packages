@@ -34984,3 +34984,18 @@ SHA1: 32d208b71ae5f34c02542a55266358dd51017def
 SHA256: 6b781b5e8d8a525b211a0d2552efb45e21b263067b709b1084228eff54325c41
 SHA512: 3ba31ed13b7b62e49d7319a49e915f4c3837c45f801a0b8a14f995e90c376c986836e61531d55cd271bc4d4c754f84b1d18129360962fc773a5809a5f929c312
 
+Package: termux-apt-repo
+Architecture: all
+Installed-Size: 108
+Maintainer: @termux
+Version: 0.5-5
+Homepage: https://github.com/termux/termux-apt-repo
+Depends: llvm, python, tar
+Description: Script to create Termux apt repositories
+Filename: ../../../../releases/download/x86_64-t/termux-apt-repo_0.5-5_all.deb
+Size: 9312
+MD5Sum: 16f16288ce9da12e63e6b39abb0e543d
+SHA1: 04ab89e1b0036949f9b39e9b2989c92be96d34ab
+SHA256: 1e8ea3031f28012594b398a5027b770ba213dd1c844618dc27e4b14face7e367
+SHA512: 6880a7af79ddc66b8febf5f3e666f47f98b48807efff14c65115d75fd02f659d977898e765faf4616255709d7a2794e26277fa48d186e35092ec9439ff7cb548
+

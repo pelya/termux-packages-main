@@ -12419,3 +12419,18 @@ SHA1: 4033c882a0c6d2edc3b5c629315a40e41b1d9791
 SHA256: 14a7cac198c81dbfd9b19c0040118df94dc6411b09ff3fb9f937b09b0da021e7
 SHA512: 14f163e85a959629bc13cfad9cca720e387658ea777a14b76afc0695dc1525f658f70d2656543c3621b96bdee6feae05e21f207d93001eaff1f5b68b94be3226
 
+Package: kscreen
+Architecture: aarch64
+Installed-Size: 2936
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/kscreen
+Depends: kf6-kcmutils, kf6-kconfig, kf6-kcoreaddons, kf6-kdbusaddons, kf6-ki18n, kf6-kimageformats, kf6-kirigami, kf6-kitemmodels, kf6-ksvg, kf6-kwindowsystem, libc++, libwayland, layer-shell-qt, libkscreen, libplasma, libx11, libxcb, libxi, plasma5support, qt6-qtbase, qt6-qtdeclarative, qt6-qtsensors
+Description: KDE's screen management software
+Filename: ../../../../releases/download/aarch64-k/kscreen_6.7.2_aarch64.deb
+Size: 1725648
+MD5Sum: 33762238440259d27e8f2a8ab157e44d
+SHA1: d7cb0ca104e3c4217d7b8c9a5bdbf207231d5f56
+SHA256: 838ce2dd7daae826c53f04b98f0fbde3b9749ff6a9ae73d6a8ba9215d5cc55cd
+SHA512: 890c416d0bcdafed7021a8966ef3199f7a31b5be142e9415576d0226b8725627d670b090fa3dcb85a99a1068407811b5558e1ef0e00a8e3526817315aa7ba2ec
+
