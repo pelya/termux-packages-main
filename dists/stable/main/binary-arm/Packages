@@ -34725,3 +34725,33 @@ SHA1: 746c575bba5074e51f74d23aa54318a7253f6f27
 SHA256: 61238f588c864ae1f2a1afff0ec45716b7650f8bbd8ca722aa04fec8986c7f70
 SHA512: e1e923d79e0e1f51aed8b52c2f316422314a3e91357d8f0acad4296f6a7e06c9e1e37982d7c3ffda0cc7791947110a85ec8ec38026c7ed3d5cea3590a9f95a1b
 
+Package: mtools
+Architecture: arm
+Installed-Size: 412
+Maintainer: @termux
+Version: 4.0.49-1
+Homepage: https://www.gnu.org/software/mtools/
+Depends: libandroid-support, libiconv
+Description: Tool for manipulating FAT images
+Filename: ../../../../releases/download/arm-m/mtools_4.0.49-1_arm.deb
+Size: 132156
+MD5Sum: 243f876f8c4bc5c565757020618f6d56
+SHA1: c338d5b805e480fba2baf1b9b3510a1726e99316
+SHA256: 3b0cd6a2479c43fee20b2018eb04d589980e4b6184a9f607424b8c7566bde7f0
+SHA512: 93d154f552f59998504834ac8095cc65780dc85e3f18e93eac5b894e7407db5677f25e691522196b2cbe74ee105aaf2e05f937b661d4f2880c526c8e3627cee0
+
+Package: trurl
+Architecture: arm
+Installed-Size: 84
+Maintainer: @termux
+Version: 0.16.1-1
+Homepage: https://curl.se/trurl/
+Depends: libcurl
+Description: trurl is a command line tool that parses and manipulates URLs
+Filename: ../../../../releases/download/arm-t/trurl_0.16.1-1_arm.deb
+Size: 20716
+MD5Sum: 9649a827e30a5609fc9ba0e515e92e64
+SHA1: 789706c4e2d39a1678995bccae542febbefbd503
+SHA256: 2ad83f27fa82f4166420fb568bc836262a9a5f103ab7650cfa00e7358f69b852
+SHA512: 07946839f02a0285ee80c9e420e889db7941728a2dcb0a660764fa8c2a3d54d3a0c020e87a4c8607b266f5f85655055e94121c3002e4e0f2a75677fb335e522a
+
