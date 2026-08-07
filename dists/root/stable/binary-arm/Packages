@@ -447,3 +447,18 @@ SHA1: d9b60dd7a121eee70f66cb1a094ace89e58b6094
 SHA256: 60d35ad3acd18d79381c0669e235949bca3c6d3d85417e949bce4a013991ba8c
 SHA512: 8d5bfcc9ef503c4d92ad26819e255d78ef05fa00a7b8283b0bfc62e736d8af6262d28c157c1fb4ecb6b8a0c825ec441247c415b389e2f7c6e6f5452b5f13c181
 
+Package: usbutils
+Architecture: arm
+Installed-Size: 372
+Maintainer: @termux
+Version: 019
+Homepage: http://www.linux-usb.org/
+Depends: hwdata, libiconv, libusb
+Description: Collection of USB tools to query connected USB devices
+Filename: ../../../../releases/download/arm-u/usbutils_019_arm.deb
+Size: 88404
+MD5Sum: b61fe9eabbfccc45f04f74cb9345e80a
+SHA1: e5cca6338637e401c03eed1cb7ccb27c6b3fc440
+SHA256: 23eb1e70fd130659d4a96129d3aa83a09260ab2a2e7a2b62d11988f2dbfadade
+SHA512: 9018074dc975b66659798a36c981e1581bb18d20a7d2379bfffc070b89bb84d3f25ddae4a8bde252ebc46d0c3752f0e952825344e33c42bafb8e72b46f73cb40
+

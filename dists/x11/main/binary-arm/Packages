@@ -12428,3 +12428,18 @@ SHA1: 4d1a5ab01fc6205548e8fccb81ec1dc52f8fb5ce
 SHA256: 873c4dd33025058531f79cc00761f6602045ad8794bcfe1a546e413c69f34e58
 SHA512: 5956f5e554cd96106f345a0389f518699b25a23dc6533268d03d919b175c1dbdafb99701ef453cc285fd52f21a24742ead44885c530e0923f92fff5383eab446
 
+Package: xvkbd
+Architecture: arm
+Installed-Size: 916
+Maintainer: @termux
+Version: 4.1-2
+Homepage: http://t-sato.in.coocan.jp/xvkbd/
+Depends: libx11, libxaw, libxmu, libxt, libxtst
+Description: Virtual keyboard for X window system
+Filename: ../../../../releases/download/arm-x/xvkbd_4.1-2_arm.deb
+Size: 240748
+MD5Sum: b9f9208156325d47211f2740a8a01c81
+SHA1: 0f8540de065b08154ba03c213f4f4ad60ce1f3f5
+SHA256: 7980472aa3df424698f8d65ad9f8c764cc42053eba8619ddb8d1c737e10f12df
+SHA512: c7c54da1b188dc5d715d90a7530f141b0a8b2766b994587de9d2dbf713372cc71222e1bc1aa4393bb583ca80c0de950badbd479be740441acd85659c32add8f0
+

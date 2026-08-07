@@ -447,3 +447,18 @@ SHA1: 9d728f84ea7a8a0897ad168224b7777e37596e04
 SHA256: 4b67344b2d98834e0046a715207b72bedcab97b981fe8d4a6cc9a19996962087
 SHA512: f3a9d73bb563f09a5ab259035992e14f539ddb54ac7cae344bb746bddc1b973d8851d8a96b0beee128f6caa38b186e09f2eba0ccfa279ce87cb32d0aad62788e
 
+Package: usbutils
+Architecture: aarch64
+Installed-Size: 448
+Maintainer: @termux
+Version: 019
+Homepage: http://www.linux-usb.org/
+Depends: hwdata, libiconv, libusb
+Description: Collection of USB tools to query connected USB devices
+Filename: ../../../../releases/download/aarch64-u/usbutils_019_aarch64.deb
+Size: 91048
+MD5Sum: bf7ecbdb91d3899ab44d89fe621700f1
+SHA1: f4343d55a2bda325b848f408573246a74f404731
+SHA256: 822206b84c5d2f6c1be429d4da54dfb0102b63965f84a05e772b8c29a8cf77b0
+SHA512: f626d9930f0f16b1251eaec456cf711aedb3afc30fde6c65f0a656e92e1e6c079ef6dc42f9abd67ae46aa4c22ffde96330dbb26ba9920b57484d991d59732e95
+
