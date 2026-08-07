@@ -34443,3 +34443,18 @@ SHA1: 6e4a0f2946aa6f70dcb1218984588752f9b5e61a
 SHA256: 45aa7e3cf909f5c60bb2cb73fe23f92cc4bbd2414cba9c11cd196ecc01d1f2d1
 SHA512: 03ea008a966749886ff98dff7a5283d5ba30ffa38404537ccba34b7d0ec678b142d0788e55ac0c0d9ff06a28bbb5517b75c2e44b4adb91d7d61a4f5add7d2efe
 
+Package: mp3cat
+Architecture: arm
+Installed-Size: 72
+Maintainer: @termux
+Version: 0.5-2
+Homepage: https://tomclegg.ca/mp3cat
+Conflicts: mp3cat-go
+Description: Copies a byte stream, skipping everything except mp3 frames with valid headers
+Filename: ../../../../releases/download/arm-m/mp3cat_0.5-2_arm.deb
+Size: 6224
+MD5Sum: 82a68162db9a2e19b66db199ac8d8558
+SHA1: b7342880d85e8d95cef0bb7c6395a111f955aac1
+SHA256: 4b6535e43a8eab8e4497628f5d57c8d4aaf1a99092f38c8ad1543cc4ef235337
+SHA512: 54da8a659853a8e33cac01abbb8d5ac4e62645f6d8e1985244454b642787c8eceed4e37529d7b1a4b088a74086091882ce7904dedb61e1829b6cc0579666ef5f
+

@@ -12262,3 +12262,18 @@ SHA1: f34109a636ac5120a6c8305450209417a59ad0e1
 SHA256: 433247cd3e4cb1fd9326a830d9c52a7e29b406d2ee2eb02e04ea99ea8e70a768
 SHA512: fb2c5025150b4d16cd41c00f92446fb9490aa15dd8a6bd08c55a3f02237afc1a844664d5bb137091702bdcb5a7eceaf24ee963c653615093122b3fb3199a13d7
 
+Package: klettres
+Architecture: i686
+Installed-Size: 53576
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/education/klettres
+Depends: kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-ki18n, kf6-knewstuff, kf6-kwidgetsaddons, kf6-kxmlgui, libc++, qt6-qtbase, qt6-qtmultimedia, qt6-qtsvg
+Description: Learn The Alphabet
+Filename: ../../../../releases/download/i686-k/klettres_26.04.3_i686.deb
+Size: 39791364
+MD5Sum: befb5798c7ad2a90010094f37a5095ce
+SHA1: c70f3e57676f1bd77a0066eae8c300cd0aab4633
+SHA256: aff6c484e7e36c2e93a3203e52c4c40e9c4c6398f0d36bf63d0bff36c6a41dd3
+SHA512: fa816d812e499637c68c1c1c904cd396b62975f9bc43e4d89e2dc53c2faeea24a464a63d880de17d2733044ca2557d6799296b65422eade40ccec5f2f5cd1eb6
+
