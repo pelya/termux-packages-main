@@ -34386,3 +34386,33 @@ SHA1: a3308d834438309e70c842d435cb61b4ccd6f082
 SHA256: 7a3001fec7b922dabdda4e5deb2419dc36c2bca78e2a98fca52310281b67330f
 SHA512: 1210d8fb44fc742a213cfb6349db90092b4f5eaa23f442fcdd95a611992e7d61d35c482d2b903d9c757559d479757b1f4fcad44a9d2a2afd01cd9e55bccd5098
 
+Package: libpagemaker-static
+Architecture: i686
+Installed-Size: 556
+Maintainer: @termux
+Version: 0.0.4-4
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker
+Depends: libpagemaker (= 0.0.4-4)
+Description: Static libraries for libpagemaker
+Filename: ../../../../releases/download/i686-libp/libpagemaker-static_0.0.4-4_i686.deb
+Size: 80656
+MD5Sum: e7dca3f0965e759b5359afa89003baec
+SHA1: 45e7c2896eff01dc55fb5c4b3e00be3ef4f8e0c1
+SHA256: d1e66a9a54f020f138b223258bce625a43d4e9fa8da2e16b7851b3efbe4bf518
+SHA512: 9751d6cdbc38df85da0cfb3643cda95e561022756ddd101ed0c858db78712cb928c834c91e3323a33eb28d05f4106fa3e468961efdfb928e2712dddc3cbd407a
+
+Package: libpagemaker
+Architecture: i686
+Installed-Size: 344
+Maintainer: @termux
+Version: 0.0.4-4
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker
+Depends: librevenge
+Description: a library that parses the file format of Aldus/Adobe PageMaker documents
+Filename: ../../../../releases/download/i686-libp/libpagemaker_0.0.4-4_i686.deb
+Size: 67816
+MD5Sum: f24ba3c189b977d4b0dc3782f53bd638
+SHA1: 20d44738a98de4b7893a1d0ef4b5dfe79c833a8d
+SHA256: 2916c1ab38ae1634a3b5e5ed4e279b67be8ac62efa345a2b2a077c1ee3e744d6
+SHA512: 86928b0c828297b11f997862cc531d53d421127be26d758011c695c32e708274b8c8c50fa6fd16abcd61c50361d3c6f9d07bf877d9a68a0d7ab0322ec4cd452f
+
