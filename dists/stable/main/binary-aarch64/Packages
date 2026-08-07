@@ -15843,20 +15843,6 @@ SHA1: d2714708a9215b532c1013d10a615e4b8fb42aa9
 SHA256: 4bd30944472f6af4da5056f902bbfba21972f74588cbf30688ce7f8593f55152
 SHA512: 94d9c2d647e31999ee5c3ffb1cde3d7d5f65a984dbeb87b120473a3af8a9abb4b6b170979dfd114582c46b4c24250713a0674b4b584d67bbc06c8ec27a738a91
 
-Package: libolm
-Architecture: aarch64
-Installed-Size: 316
-Maintainer: @termux
-Version: 3.2.16-2
-Homepage: https://matrix.org/docs/projects/other/olm/
-Description: An implementation of the Double Ratchet cryptographic ratchet
-Filename: ../../../../releases/download/aarch64-libo/libolm_3.2.16-2_aarch64.deb
-Size: 93028
-MD5Sum: 37458c9641e2a23980f507291050aa15
-SHA1: c0bcd7ea7fb063db99d479453022d40e5b4872c8
-SHA256: 4d1a03f47b95d9c38a9d0669abb5b3575d493e4600a12731350535af69878c94
-SHA512: 126ff9483ac3befd1763f07194ab846a9733be008b21ccc54f91b5a5dae3f790a07bc71672d4eb47296558fd7ca96b3376c884cf3d582543b055a79184fe8451
-
 Package: libopenblas-static
 Architecture: aarch64
 Installed-Size: 23636
@@ -34228,35 +34214,6 @@ SHA1: 8f40499036746e5dbeafef9b920fd3153510c8b8
 SHA256: 99c9e414a8241cd340c55256925108b19cda1fe096052c17674842e14bb8a78b
 SHA512: 395e45f52c7c12030bfb21e23f2f5d991f4f6308367c05f1d04626ee90b85760ed68b0f6a4b42b2803ed5cb845265ff2f7ab43063594cf60f5b3a1aaa73f260d
 
-Package: ca-certificates-java
-Architecture: all
-Installed-Size: 184
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Depends: ca-certificates (= 1:2026.05.14)
-Description: Common CA certificates (java keystore format)
-Filename: ../../../../releases/download/aarch64-c/ca-certificates-java_1.2026.05.14_all.deb
-Size: 96492
-MD5Sum: ab2d044c0c792eb55ccdcebe286de1bf
-SHA1: 79b01fa3fcf9b4507374e126ce199b12cdc69276
-SHA256: a7c5aff5e3f7d59910f3f161abf87e6b058e579135826ecf4c19baac252ab176
-SHA512: c25d979e40948accabdaee8ad9d6a9412ff5848be779678dd7b498c5553990088f496df2867487ed66958f736f1b8f2229aca156dbf839692f51257978c26f1e
-
-Package: ca-certificates
-Architecture: all
-Installed-Size: 232
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Description: Common CA certificates
-Filename: ../../../../releases/download/aarch64-c/ca-certificates_1.2026.05.14_all.deb
-Size: 105744
-MD5Sum: 09696842331e64b8defbb996cddd3bbe
-SHA1: b2d0b9ca774aaa4c6c9a4a45bab4d3296ad3296a
-SHA256: d3a41801d1441cd2b03fc3189083a95e2e2056ca80ddced65c4378fd34b81bb8
-SHA512: 3b0cb891552cbc34c3e94d6833ae5fa1510b13fb8bc0212023d02592017950f3e8dd1adaaa443204b03d6e4bf9c1ba927208ab47ac055112c349c3e1d024d4c2
-
 Package: libcmis
 Architecture: aarch64
 Installed-Size: 1500
@@ -34651,21 +34608,6 @@ SHA1: 0385b2e79845a411b8ef798d0606043a8e3484dc
 SHA256: 52b13c7da2265403ea7bcd8b2e268323630b8eba167e888988307a9cc4a4e632
 SHA512: 3e94a9207ba1e817ba20ab3219b301d1190ba04e8f750156d63820d44e2094c903ffa37f2b67c95ebb4774d4a92db46429bf33465ca1edf21589829e3d0fb1f1
 
-Package: libc++
-Architecture: aarch64
-Installed-Size: 1384
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/aarch64-libc/libc++_29_aarch64.deb
-Size: 334784
-MD5Sum: 07276ceb4326c03c21aee50a7d86d9de
-SHA1: d673fcfe27e033c54350996ade1d8d28317c7585
-SHA256: 2412ef9017d91d60abe27bedc8efde6eb44d2b0676ef5cd2e1b079a83e3c0c44
-SHA512: 73e26bd201e87ffbf25243cf485d49c5b7824e602cfdd7501b85bd9dd7c7f0a9380baed70ec1db35e2ddbfca91ce8b243d576f928c9e0e57fc1fae8377b0bab2
-
 Package: minimodem
 Architecture: aarch64
 Installed-Size: 92
@@ -34999,4 +34941,62 @@ MD5Sum: 4780d814e66e993613263cd92ec98c37
 SHA1: 5ae20d581df1d7915a0d889b9d08b71b95a52ac8
 SHA256: 82dd505c9d5bd9bb6b20a764615358fa85072609c0530e4533be0ae9a1a00e2f
 SHA512: f8b853b8e279dd444860d6e56d5f79bb7a37a835bd9a063e822484e4181dc153da56641a677b6a74d53f765b87a6c76d1dbb3fb069926693415532746134aba3
+
+Package: ca-certificates-java
+Architecture: all
+Installed-Size: 184
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Depends: ca-certificates (= 1:2026.05.14)
+Description: Common CA certificates (java keystore format)
+Filename: ../../../../releases/download/aarch64-c/ca-certificates-java_1.2026.05.14_all.deb
+Size: 96492
+MD5Sum: 7e64b45adfc6822ba1b3251df6aed6fc
+SHA1: 48655f62f9be925c89c4c309fa46ac8d71825925
+SHA256: e6bb1aa69a0591e46534a361ddfe07ee0e62f10f8d2f62c4106c36adc4852daf
+SHA512: ee9f04d1c17e865db0353a7eb339cac3b2cceb7d507dac3cfb6764d51b83fa54b21d8887b4e29149ef65c4a263edb7a4dcd057d1d2ab455f5a54435d56980699
+
+Package: ca-certificates
+Architecture: all
+Installed-Size: 232
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Description: Common CA certificates
+Filename: ../../../../releases/download/aarch64-c/ca-certificates_1.2026.05.14_all.deb
+Size: 105744
+MD5Sum: b7905b654a42fa4a560c093839f8cf76
+SHA1: b810a5a677778477618c0e9bbe4a391113af395a
+SHA256: e6c552ca72cf0dd880d8646b272c7282d5bbf17b8ac8d6da8db39ccaafaae057
+SHA512: 5b5829015812cdd5150551749b4524f6caf0900855e4b3e1c3675c56046f1d83a29d5b851aa7065f4b99fc5a3e88e7bdd00f72492460d1bb432590b3340e3f52
+
+Package: libc++
+Architecture: aarch64
+Installed-Size: 1384
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/aarch64-libc/libc++_29_aarch64.deb
+Size: 334964
+MD5Sum: 590f499ad00703e975dd88ea12a5caa8
+SHA1: 5250f75ad49513be5c71353701ace354f8be3191
+SHA256: bdf50deed3496fc02a5ff6b56e72981117cc0f8fa79712c593dec0c52522aa26
+SHA512: 900557d61d8e55f3bf17a89e2cc94695e07c8c33adff1e19a93409632080bae90bb4582f74dffda388c0da7ef035c05f7203aa2c97d288fce098d64d52dc0bd4
+
+Package: libolm
+Architecture: aarch64
+Installed-Size: 316
+Maintainer: @termux
+Version: 3.2.16-2
+Homepage: https://matrix.org/docs/projects/other/olm/
+Description: An implementation of the Double Ratchet cryptographic ratchet
+Filename: ../../../../releases/download/aarch64-libo/libolm_3.2.16-2_aarch64.deb
+Size: 92956
+MD5Sum: 82966ac7fa731a5040c0211be9667912
+SHA1: 61068e6c39901b6a979d81414172e6ba10b68d72
+SHA256: fc0f26e91447043148b548d5736e4bb2fddc23cf19cffa5357e1af6644696ccf
+SHA512: 3855b55c16d2b8564c6cdc151a896d2fed0808cd982a110147b36e7febcda94fc6bdc8cf2bc2c244bb0cb3bf3a71cc9a3536c17fe66ff23418aeedc3bc23c379
 

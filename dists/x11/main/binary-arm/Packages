@@ -12114,3 +12114,92 @@ SHA1: e19c2663e0d4547725c0dd0dd1109f96e7801ab1
 SHA256: 8937a37a5117f7e76e8828dafef39745969ecce243f32409b413971c9860856c
 SHA512: 51e45b2adf34c7784d75e35bc588335a4b9710fc116c59bdf17eda13aaf1336bc24211e61a2dc7aa955fb66829d98ba61b9cd6c8023b34384b750e1372bb5fb9
 
+Package: libquotient-static
+Architecture: arm
+Installed-Size: 9564
+Maintainer: @termux
+Version: 0.9.6.1
+Homepage: https://quotient-im.github.io/libQuotient
+Depends: libquotient (= 0.9.6.1)
+Description: Static libraries for libquotient
+Filename: ../../../../releases/download/arm-libq/libquotient-static_0.9.6.1_arm.deb
+Size: 1101568
+MD5Sum: 71eb0b0201958761f09479e5275b564b
+SHA1: bac096c9d1370541cd81b3d4ef0cc61cf543a8b6
+SHA256: 6d26742db1c777af779edf47434c931980b0d53afc0a011f2ea8dfaf088bbe7a
+SHA512: 577e996a70785980766e863b783663f50f435851db27a711aafb364d76a2a65f6f860bad0dde56c3184137dbad0e19aa42c1790bed2eca79299900f0b3d08a20
+
+Package: libquotient
+Architecture: arm
+Installed-Size: 1264
+Maintainer: @termux
+Version: 0.9.6.1
+Homepage: https://quotient-im.github.io/libQuotient
+Depends: libc++, libolm, openssl, qt6-qtbase, qtkeychain
+Description: A Qt library to write cross-platform clients for Matrix
+Filename: ../../../../releases/download/arm-libq/libquotient_0.9.6.1_arm.deb
+Size: 143188
+MD5Sum: fae82d41eb9b1e1be3976a3482df4c88
+SHA1: 19cab7c135c3917d4b6e56b81fd6fb99a6f93b5f
+SHA256: 1594db2842788d29818e670512cdd0cbf96e1a9f25f120e195dd4fd70980ea36
+SHA512: 53ad4fc74ce6abd8ea6696cb2c550126f59727b7829c987727c99773e5d33af4a5f718dbc4bf069be5db53049dbc5d959d0d5e9ab6e18add1adc987b8ee2ed2a
+
+Package: sdl2-pango-static
+Architecture: arm
+Installed-Size: 44
+Maintainer: @termux
+Version: 2.1.5-3
+Homepage: https://github.com/markuskimius/SDL2_Pango
+Depends: sdl2-pango (= 2.1.5-3)
+Description: Static libraries for sdl2-pango
+Filename: ../../../../releases/download/arm-s/sdl2-pango-static_2.1.5-3_arm.deb
+Size: 5368
+MD5Sum: 98f89adac86df87c537094ae66b4060c
+SHA1: 7521aa44952adef1e0ba3116e3aafdf868efe570
+SHA256: a039150c334dced55959813bdf90ab4d4149762e73acdd6b46c8704955c95cd6
+SHA512: 25f343ab0847b5ecca9fd7912b0b02afde2c5e578c03e1e0e610e8000af64fb4e29dee558732288f7638423264ece62a36be1ba30cb4d1eb6efee95e381ba99e
+
+Package: sdl2-pango
+Architecture: arm
+Installed-Size: 80
+Maintainer: @termux
+Version: 2.1.5-3
+Homepage: https://github.com/markuskimius/SDL2_Pango
+Depends: glib, pango, sdl2 | sdl2-compat
+Description: SDL2 library for internationalized text rendering
+Filename: ../../../../releases/download/arm-s/sdl2-pango_2.1.5-3_arm.deb
+Size: 6988
+MD5Sum: 61e1d7697524220ceee436e53cd0d86b
+SHA1: 5d4a4495f6841574f2e75979d2f087a8021deca4
+SHA256: cefcb46d6993162764d86c1226227a3e99017a3378fa7de345acd2e7b24008e8
+SHA512: 72dcf0339d5c1171902c3fd64c4cb80b45a4f4bf1328a254b2dc3ec9bdd7e16a8085dfd1e7593c213455194bbe7edbff9cb556925bb651ebc4b2dcfb0a28e027
+
+Package: tuxpaint-data
+Architecture: all
+Installed-Size: 44508
+Maintainer: @termux
+Version: 0.9.35-1
+Homepage: https://tuxpaint.org/
+Description: Platform-independent data for tuxpaint
+Filename: ../../../../releases/download/arm-t/tuxpaint-data_0.9.35-1_all.deb
+Size: 25108328
+MD5Sum: 4c9955d71cd1d315549c7c2237c82d31
+SHA1: da6c0314c6993675729273c8c0abc97f02e359a1
+SHA256: 49161944b9defa0943f708690f7cf3b1565310189c3bc0687e6a8fbc4dc6cf1f
+SHA512: a6528a0b075df6596468f04dd60ee5da4c477cd4321be10cb7cdc146ef2be892b79dea0f0b5b010313a6e24de7939ebb9ba835bfd0b5bcc3bcb83ec60e2c4736
+
+Package: tuxpaint
+Architecture: arm
+Installed-Size: 1408
+Maintainer: @termux
+Version: 0.9.35-1
+Homepage: https://tuxpaint.org/
+Depends: fontconfig, fribidi, glib, libandroid-wordexp, libcairo, libimagequant, libpaper, libpng, librsvg, pango, sdl2 | sdl2-compat, sdl2-gfx, sdl2-image, sdl2-mixer, sdl2-pango, sdl2-ttf, zlib, tuxpaint-data
+Description: A free, award-winning drawing program for children ages 3 to 12
+Filename: ../../../../releases/download/arm-t/tuxpaint_0.9.35-1_arm.deb
+Size: 347632
+MD5Sum: 975dd7aebe480627f9ea8ad80c0ae060
+SHA1: c9fbf326b0e199c091346f0d17b976dfac900001
+SHA256: 6c611be4eb7a28a57ad01e82c8bd3f1bc1b953c316520937c6475154a7f31346
+SHA512: 6955c48c17d12425dcb9d88fafc598cda82bf529dbbd897ff8b05ec5405250e2a08bf8086c20a4775a11ead62d333f18f79e944100884df33c179ab52d27f435
+

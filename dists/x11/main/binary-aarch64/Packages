@@ -12330,3 +12330,92 @@ SHA1: bb2ae6c566ad8459e2959aba3189e0ffad1e11d2
 SHA256: 4881227ce23f6133b0a44386f73edc545d8378c696f8b658fa7d46ac437ffe1e
 SHA512: 0d9df60bbb2afbda5638641f633fe90af8f9d186fc81fccd658f4cd4316ce2a4feadb44f647c1031e317c5f88c4d1dc34a89ebb8921d3d9673579e5ad118c8dc
 
+Package: libquotient-static
+Architecture: aarch64
+Installed-Size: 12372
+Maintainer: @termux
+Version: 0.9.6.1
+Homepage: https://quotient-im.github.io/libQuotient
+Depends: libquotient (= 0.9.6.1)
+Description: Static libraries for libquotient
+Filename: ../../../../releases/download/aarch64-libq/libquotient-static_0.9.6.1_aarch64.deb
+Size: 1032520
+MD5Sum: 6e8a768399ea57552732d15ee9de3b64
+SHA1: b15d03b5f174d469b1b9eca3e2d4d5f1f20a21b8
+SHA256: f314ce919bc84e1c3f481591635556903634157603bed7e157a6a5683f144a94
+SHA512: b501dd6cbed66071bb7a8f3649a6710a5ce38dc080b37e7aa437a5fbfbc092325843682baf5b12237ae123282b6bab80cc2c3ed93b6500e86cc1cf159bdc1e17
+
+Package: libquotient
+Architecture: aarch64
+Installed-Size: 1264
+Maintainer: @termux
+Version: 0.9.6.1
+Homepage: https://quotient-im.github.io/libQuotient
+Depends: libc++, libolm, openssl, qt6-qtbase, qtkeychain
+Description: A Qt library to write cross-platform clients for Matrix
+Filename: ../../../../releases/download/aarch64-libq/libquotient_0.9.6.1_aarch64.deb
+Size: 143188
+MD5Sum: afc2629ec60f4e2e81abaab0dae938be
+SHA1: ae6e39bf4d7a41f8b5784c1905dc95fdb7f99514
+SHA256: f380cc230448eb49b5e0cbdbed0eafe828c1c2afca02e5e1799c8b7f26820cc6
+SHA512: 03ab73df00cab62413db1818e68ab9a67e206facac0c19efbae278215eae63a730947a81a4b365e801455dea858f80cd9aac42d51e5c6efb322fc9b95bc2f1d9
+
+Package: sdl2-pango-static
+Architecture: aarch64
+Installed-Size: 48
+Maintainer: @termux
+Version: 2.1.5-3
+Homepage: https://github.com/markuskimius/SDL2_Pango
+Depends: sdl2-pango (= 2.1.5-3)
+Description: Static libraries for sdl2-pango
+Filename: ../../../../releases/download/aarch64-s/sdl2-pango-static_2.1.5-3_aarch64.deb
+Size: 5860
+MD5Sum: bea1e98308bd71a9554f719353285ab1
+SHA1: 2d566a7f21b199ab912d762d30812e80e5a84218
+SHA256: da5ac837c96430a8b8b06ef7f497024731d203946d6d67926ff8d3af52d78588
+SHA512: 72ec74370b73534de1f71b55711fec1e051e4321bfe0563b4614cd7bf4e8efd1bf5fa10de9571e5d564a6ff3923d63e153c1594d5af862e90856bb887bb008a5
+
+Package: sdl2-pango
+Architecture: aarch64
+Installed-Size: 84
+Maintainer: @termux
+Version: 2.1.5-3
+Homepage: https://github.com/markuskimius/SDL2_Pango
+Depends: glib, pango, sdl2 | sdl2-compat
+Description: SDL2 library for internationalized text rendering
+Filename: ../../../../releases/download/aarch64-s/sdl2-pango_2.1.5-3_aarch64.deb
+Size: 7552
+MD5Sum: 5e506fab08a15b775ae2362bd0634808
+SHA1: f0529a14a6a34ea9ff1ad968034fbf461add1a2d
+SHA256: bb6543c81d1c27927c6997ac5f351e7b7a02f60c10d16036b43bbd704b96f815
+SHA512: 3a20f87934d4800968408c241cff03dfd4b3aaf699df8de3a05f02f71e08566583c65f13d341080cc779d0790b55f705ffde9d673aaf65985af6cfa7b9aa516a
+
+Package: tuxpaint-data
+Architecture: all
+Installed-Size: 44508
+Maintainer: @termux
+Version: 0.9.35-1
+Homepage: https://tuxpaint.org/
+Description: Platform-independent data for tuxpaint
+Filename: ../../../../releases/download/aarch64-t/tuxpaint-data_0.9.35-1_all.deb
+Size: 25108328
+MD5Sum: 4c9955d71cd1d315549c7c2237c82d31
+SHA1: da6c0314c6993675729273c8c0abc97f02e359a1
+SHA256: 49161944b9defa0943f708690f7cf3b1565310189c3bc0687e6a8fbc4dc6cf1f
+SHA512: a6528a0b075df6596468f04dd60ee5da4c477cd4321be10cb7cdc146ef2be892b79dea0f0b5b010313a6e24de7939ebb9ba835bfd0b5bcc3bcb83ec60e2c4736
+
+Package: tuxpaint
+Architecture: aarch64
+Installed-Size: 1700
+Maintainer: @termux
+Version: 0.9.35-1
+Homepage: https://tuxpaint.org/
+Depends: fontconfig, fribidi, glib, libandroid-wordexp, libcairo, libimagequant, libpaper, libpng, librsvg, pango, sdl2 | sdl2-compat, sdl2-gfx, sdl2-image, sdl2-mixer, sdl2-pango, sdl2-ttf, zlib, tuxpaint-data
+Description: A free, award-winning drawing program for children ages 3 to 12
+Filename: ../../../../releases/download/aarch64-t/tuxpaint_0.9.35-1_aarch64.deb
+Size: 365416
+MD5Sum: da0cfc3836a5a34c80390126ff13021e
+SHA1: 4033c882a0c6d2edc3b5c629315a40e41b1d9791
+SHA256: 14a7cac198c81dbfd9b19c0040118df94dc6411b09ff3fb9f937b09b0da021e7
+SHA512: 14f163e85a959629bc13cfad9cca720e387658ea777a14b76afc0695dc1525f658f70d2656543c3621b96bdee6feae05e21f207d93001eaff1f5b68b94be3226
+
