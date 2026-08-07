@@ -35489,3 +35489,33 @@ SHA1: 822cf22509e0294bb7b6bf0bd6a896fcd787e40a
 SHA256: 2ee6b3a12abe3b5dbecfcf194eef25929b1be68cb8c2b9ea8f4bfb26f2605c66
 SHA512: 07ecd6a2f2da8a400a7a877c8eec2f44a02fc039243db892a4ac429b54326e98bfa1fbb97f683feb515ce37c86aa1f43bf2e1e80837053ac2c06e048ef27c403
 
+Package: aspell-de
+Architecture: all
+Installed-Size: 2160
+Maintainer: @termux
+Version: 1:20161207.7.0
+Homepage: http://aspell.net/
+Depends: aspell
+Description: German dictionary for aspell
+Filename: ../../../../releases/download/arm-a/aspell-de_1.20161207.7.0_all.deb
+Size: 741812
+MD5Sum: ceebfb59d91a7e1642e005241121ce8e
+SHA1: 3b9d066b4c6e148c8c3741de782fe7fda7234006
+SHA256: 08958e3deeca4610f1a2a646ec829335ec9d6ce6644891947e5b666641bb7a58
+SHA512: 7a1a3205b8b6431996346ba61e78268c69677ce5b5219e3192ba7c9512c4f52e9b3be3d78ee31592568499aa5fb4df9032f821b4e7e67caeb6abac14f7e8c7fe
+
+Package: zpaq
+Architecture: arm
+Installed-Size: 304
+Maintainer: @termux
+Version: 7.15-1
+Homepage: http://mattmahoney.net/dc/zpaq.html
+Depends: libc++
+Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
+Filename: ../../../../releases/download/arm-z/zpaq_7.15-1_arm.deb
+Size: 136564
+MD5Sum: 5d3afff97a2ded32ffdcb778029e2710
+SHA1: 32bf5a2781f33f4a23307bebd43082f127688e54
+SHA256: 19b7959d80c4b73b12543d081bafebdf9c035fbbe71d34828a2b7e97fbddc96c
+SHA512: 769cb025b23ac68939c9f0795971c39bd42528e235791fa17575c79365bdc16e2cee3601ad7313561c578779ee7d00cc4aa4fb96176541fddf22b313b95e188b
+
