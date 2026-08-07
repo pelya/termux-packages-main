@@ -35356,3 +35356,33 @@ SHA1: 8e0991a29420f0daa6158877f271078ac405fbc3
 SHA256: 51d82ee0b124c5cafa29c26fa58c3a14d6b5958976e2dcd343f53ac1fcd6cdb4
 SHA512: 34a5d009802a37b6963ff2eb273f8eb0cf83d4a05752fc8c43bc054f15a3f903d2e9945ef66c3ed487611da485403e31ab08efc69d88966b5449822be785c1af
 
+Package: libzmf-static
+Architecture: x86_64
+Installed-Size: 808
+Maintainer: @termux
+Version: 0.0.2-5
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libzmf
+Depends: libzmf (= 0.0.2-5)
+Description: Static libraries for libzmf
+Filename: ../../../../releases/download/x86_64-libz/libzmf-static_0.0.2-5_x86_64.deb
+Size: 92648
+MD5Sum: e18dd2587ddfa8f8356b28500a514453
+SHA1: 8ce27738a50b7932a4fcd97b35e2c0cadb6cd493
+SHA256: eacfff1d9f6ad8506c4967dfa318958b834de2528c1b847200d95bdfac676fd8
+SHA512: a634d163ff7eac1af0d3c3ba0b4b903a003ae652c85f5c210a7396d3aba4c0d0c2c05478dcb25a866c33a22a61b71195b225795a05222157371978205b4b257c
+
+Package: libzmf
+Architecture: x86_64
+Installed-Size: 316
+Maintainer: @termux
+Version: 0.0.2-5
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libzmf
+Depends: libicu, libpng, librevenge, zlib
+Description: a library for import of Zoner drawing and bitmap files
+Filename: ../../../../releases/download/x86_64-libz/libzmf_0.0.2-5_x86_64.deb
+Size: 68220
+MD5Sum: 24397823ae825bf82398d0dda30c0f60
+SHA1: 778a95921b7e7eb00ec2d96202aa4d34aa00a311
+SHA256: 73b07510a7598880b40f6f4b94b0bad5e9174dd6e14f1c2336a1e3d104962c37
+SHA512: 8d6392c0209c21166d54c5101e2a5618393574c427881fce5aff807fd107384e2f08db14a9aba0f3d9805a820e32f276a0a6359c37f94dfbab4554ecf50dfbf2
+
