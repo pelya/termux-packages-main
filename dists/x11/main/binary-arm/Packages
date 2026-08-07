@@ -12761,3 +12761,21 @@ SHA1: 11a3afc39061b2988a0aa027fbcf9d7778e6b966
 SHA256: 5ebc1397f9818aae9424dddad2512f9ce78b7d53401f6d22ad69bbc96d5489f1
 SHA512: 7fd103e414e1841f5b70771ed2c468998852e97c3479079f7a94c07541a1efc5e9385a6f11b9bc782cb5c84405380359833dca3fb42f7ae72907e27aa3784716
 
+Package: wireshark-qt
+Architecture: arm
+Installed-Size: 101652
+Maintainer: @termux
+Version: 4.6.7
+Homepage: https://www.wireshark.org/
+Depends: brotli, c-ares, glib, krb5, libandroid-support, libc++, libgcrypt, libgnutls, lua52, liblz4, libmaxminddb, libminizip, libnghttp2, libnl, libopus, libpcap, libsnappy, libssh, libxml2, pcre2, qt6-qtbase, qt6-qtmultimedia, qt6-qt5compat, speexdsp, zlib, zstd
+Conflicts: tshark, wireshark, wireshark-cli, wireshark-gtk
+Replaces: tshark, wireshark, wireshark-cli, wireshark-gtk
+Provides: tshark, wireshark, wireshark-cli, wireshark-gtk
+Description: Network protocol analyzer
+Filename: ../../../../releases/download/arm-w/wireshark-qt_4.6.7_arm.deb
+Size: 29972816
+MD5Sum: 90b75a503df3ab55a77eb623fcf50a7e
+SHA1: dbc0e04860f1ad007565a016bc65d715510904e6
+SHA256: 28955800243092b2735e883aad642be320240b4205c88325da0fc97e8ce249f2
+SHA512: 0d95b9a202928411d2f348089c30fd1ba2d0ef08facd7efff819463a823a8d39bea1c801d277f5200f945b6b62d099b33612790e38ca3ad0616d906a28c13d00
+

@@ -567,3 +567,33 @@ SHA1: 1bc0e3bec47621b5862a05e250327aa2ce46d5fd
 SHA256: 70caa50f0cf9d488a77d8db8e4a00156393f17952c81790fab5f6f250ead2b9a
 SHA512: 94936787de3f5a20414beac9bc21cd62b3dfe0327c558548b8d5a48dcbd5888822393643e2ab12335f01e55689f13f53b4ca7cf8cb5356b48615adc6ad42d76c
 
+Package: iptables-static
+Architecture: aarch64
+Installed-Size: 192
+Maintainer: @termux
+Version: 1.8.13
+Homepage: https://www.netfilter.org/projects/iptables
+Depends: iptables (= 1.8.13)
+Description: Static libraries for iptables
+Filename: ../../../../releases/download/aarch64-i/iptables-static_1.8.13_aarch64.deb
+Size: 34340
+MD5Sum: 2234fc7c46bea5d3604a0f110beb08fa
+SHA1: d6f173b33f976f2c4965988a56ae9715ae1f3179
+SHA256: 3057e905ff89d6213f930f26ffb69b455d992b0623e6b576b94587292fd5f3a5
+SHA512: 0ee92257368e0ef0019fb345021c3bea340c89cd73e8079af740ecba1f7b34d16f4d4f279940a687c058140b499e8154696f4f68c022990b0757a8369cf0f45c
+
+Package: iptables
+Architecture: aarch64
+Installed-Size: 1496
+Maintainer: @termux
+Version: 1.8.13
+Homepage: https://www.netfilter.org/projects/iptables
+Depends: libmnl, libnftnl, libandroid-spawn
+Description: Program used to configure the Linux 2.4 and later kernel packet filtering ruleset
+Filename: ../../../../releases/download/aarch64-i/iptables_1.8.13_aarch64.deb
+Size: 325896
+MD5Sum: c7d1af1402500f448a947c921f30b90b
+SHA1: 8176179c8a7fc07033856465f3bf904d2e884786
+SHA256: 62bbfa3f6e203ec065d0b7dbf1bbd4cff04abfa601cd57f6a5649c2f7552c45d
+SHA512: aae0aadd5744d866fe198af379f8b7b2c78728a12fffc54925c0545273bee101ac2671f12500a2680353f34a54f7a203c5053bb52276111c1b667d817735d1ec
+

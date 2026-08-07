@@ -35216,3 +35216,35 @@ SHA1: ab8947b4da21d80a6cadec636738f72128d7bc0a
 SHA256: 68ccb826cbe2d281a8045324703584c306646c12a8e4fc0f3b7bed729abe644c
 SHA512: 3fc1fc627a103d79f7266ece137865f6e6d8a0319df5aed4ad966d82e225a5056775432a5f3865ef22ac8fc3ab8d0575f7dd13e8d867ffdee75bd1d292717116
 
+Package: libnftnl-static
+Architecture: arm
+Installed-Size: 328
+Maintainer: @termux
+Version: 1.3.1
+Homepage: https://www.netfilter.org/projects/libnftnl/
+Depends: libnftnl (= 1.3.1)
+Description: Static libraries for libnftnl
+Filename: ../../../../releases/download/arm-libn/libnftnl-static_1.3.1_arm.deb
+Size: 57372
+MD5Sum: c530031d561bc41a41bfc01917f9e9bd
+SHA1: 9d5a72eac6449004839d989b6221b5e759fdd998
+SHA256: 5bfa025a6e86e89614da601f583bca6fe9ae02c2b6e0273ddab1384710e79a6c
+SHA512: c4fb3d3c74631594e54115c5e8c63193d63d01324f20ea8b3c3a6413f36d57295f57282bf14850c912ea450ff15ebe663844ff29b018f3bc1c4073b29b54c0a5
+
+Package: libnftnl
+Architecture: arm
+Installed-Size: 240
+Maintainer: @termux
+Version: 1.3.1
+Homepage: https://www.netfilter.org/projects/libnftnl/
+Breaks: libnftnl-dev
+Depends: libmnl
+Replaces: libnftnl-dev
+Description: Netfilter library providing interface to the nf_tables subsystem
+Filename: ../../../../releases/download/arm-libn/libnftnl_1.3.1_arm.deb
+Size: 48740
+MD5Sum: 297e53e9cd1a99277d93c93979329780
+SHA1: 0c560d7ce6a525a91f6648d54dad17a77364e677
+SHA256: 98818f7f0a5a3752fdba86b8486b594427fbf4501395f7bef72e518ef5f0b3aa
+SHA512: 79abad82dfc014d0715c515a14b79c5c06cb80f3d0f5bc1b4d44e822fca28e8b8c0c749143c2259214a15f62ec665b1d4a34edc7b8d778d4bc0fbf7df345853c
+
