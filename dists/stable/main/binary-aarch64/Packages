@@ -35045,3 +35045,32 @@ SHA1: 5fd30f89c54b19e8f1e747f752336e7eab2e3d0d
 SHA256: 9a720c4ecdacbedba685584811d2f0e9b9a400cb2c08293548e9f7c8cefd9702
 SHA512: a58da89b881566c8d302142e6de18f5444a731bcd0020dc2f831bdf5e8e570b8b4eb796d9658c59235c112dcca0c702794d2c1b0a0f10f915294c78690ea9af5
 
+Package: mazter
+Architecture: aarch64
+Installed-Size: 1156
+Maintainer: @termux
+Version: 2022.08.13-1
+Homepage: https://github.com/Canop/mazter
+Description: Mazes in your terminal
+Filename: ../../../../releases/download/aarch64-m/mazter_2022.08.13-1_aarch64.deb
+Size: 401152
+MD5Sum: 4a1809350259e9b4d025620f2d369f16
+SHA1: ef0a1f5dd7611b0af9001836e44c1152aa05ad66
+SHA256: bbd2f5c141107711973a03e35db8e5b4ea6d7df216c2333192b3080938855243
+SHA512: bc37e1b5c992f8f4957e5875d2e5e42cb73ed8215f4e945b4d69c428007d8f243f425f08e754be3167f6a329d750ea5c68905ec2fe1fdb608955dd25b58c24fa
+
+Package: python-tldp
+Architecture: all
+Installed-Size: 324
+Maintainer: @termux
+Version: 0.7.5-8
+Homepage: https://github.com/tLDP/python-tldp
+Depends: python, python-pip
+Description: Tools for publishing from TLDP sources
+Filename: ../../../../releases/download/aarch64-p/python-tldp_0.7.5-8_all.deb
+Size: 34492
+MD5Sum: f648c065b465112259944d1624eb677b
+SHA1: c2be5855910d2a797480f4473f59eae29e37f27d
+SHA256: 33f301a06cc491aa054598d393e44989fcebabf22fad3f114d2bd9f478f9740d
+SHA512: ded7812a938241f3eb70ed98ac7a44bddb60fbca2a3cf619d1ed53fbe26e665b24c756511fbdee8be98e53e16b52cbd4a4d55e6ca76d8d07d3a5f35345a02fb6
+
