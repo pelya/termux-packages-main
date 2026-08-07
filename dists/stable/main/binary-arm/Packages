@@ -34037,3 +34037,18 @@ SHA1: 4678c60b2ddcd1d06f9f06384ace7b9e046fc0b7
 SHA256: ad58130e3b7334eef043018780025b6b52b1116470442c190a9e7835dad7724c
 SHA512: 3482ff628732349093563d9c7998881aaab4c33ff8c2cfb520947c68122e58f99804cfaf5671d0a6b699cdae66f9741190c423a0d8f15e297a252481e899644e
 
+Package: zug
+Architecture: arm
+Installed-Size: 452
+Maintainer: @termux
+Version: 0.1.2
+Homepage: https://sinusoid.es/zug/
+Depends: catch2, cmake
+Description: Transducers for C++
+Filename: ../../../../releases/download/arm-z/zug_0.1.2_arm.deb
+Size: 32008
+MD5Sum: 6bd5544b8296eb8d2eb5dc2d1fb5a4f7
+SHA1: 2e4643748ff2af41ad3682f0fe0acb80060da38e
+SHA256: 6bff20426c3713185312f0a82b7fd9287efb25f2e8b3bbc1fd50cad509d4f109
+SHA512: f234e74abfc763bdf69910f8022257338acfc373c502524fd385df4ef061ad328cc008c1af31cd92fcf6d5d0c2af992d0cb7c81cdbf590b91fe71f6ac3b63f6c
+

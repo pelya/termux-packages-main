@@ -34622,3 +34622,18 @@ SHA1: 948bca7b64508703d4bbbc9c95c0457b1a5390f0
 SHA256: 5bef9fd315b7daf01e5b390c58d2e77a7e106e8c576ad84e4832f5a35fb342df
 SHA512: 6053b463acaa684a6288ee0d238d796cc754c5f7b31e6f7b01990c47cb58be054e5c57a11d9910d0b054ce8e3bdac0a202eb1617ae2e8234824fb6f45e4469e0
 
+Package: zug
+Architecture: i686
+Installed-Size: 452
+Maintainer: @termux
+Version: 0.1.2
+Homepage: https://sinusoid.es/zug/
+Depends: catch2, cmake
+Description: Transducers for C++
+Filename: ../../../../releases/download/i686-z/zug_0.1.2_i686.deb
+Size: 32008
+MD5Sum: 26f8d70bb8f891db7d15c584f73ed317
+SHA1: b90b9b67ec57eadb70461acf005da27c14f9f6ba
+SHA256: ac1f71ac35bfc2f0b711dc9d6a539614ee586a212bfc0d5606a2eb69ef60a215
+SHA512: 9c356ec4bba9d4730bc3461d25c4ba6785c4c65b58caf14ccbf5516140ce2a114cb2052117b67251a8210cf6f3b06dbe0a6ff937c577d7e9ef72d0050a124a4d
+
