@@ -507,3 +507,18 @@ SHA1: 13f466b058fe1700d46795e8c0c5e309a648f4d5
 SHA256: 1640460830968b63a897509074f1e204586f29fa61a2aa20fe2f3aa040795089
 SHA512: dfdb60fcae0d3d8c7150b5f474ef1282b6c4dfe279c3fc12be8f215ae03aa3c0299890261455ef68a1cbc225d9019ca0a09739741e6fb9f442f52b39f221a348
 
+Package: wimlib
+Architecture: i686
+Installed-Size: 772
+Maintainer: @xingguangcuican6666
+Version: 1.14.4
+Homepage: https://wimlib.net/
+Depends: libandroid-glob, libandroid-utimes, libfuse3, liblzma, libxml2, ntfs-3g, openssl, zlib
+Description: A library and command-line tools to create, extract, and modify Windows Imaging (WIM ) files
+Filename: ../../../../releases/download/i686-w/wimlib_1.14.4_i686.deb
+Size: 276296
+MD5Sum: 06c835df5d401f1fb667cd2bc5bd5389
+SHA1: 23bf293620cb93e96a2afc2ac46e02d95860370d
+SHA256: 6df167b96dba36bc029b20ddb9e49324f3715a01baa328b67199f448b15971fd
+SHA512: 386d055ef782754da20049ced2f909091d6ca99946b800627b4ec4f164a9d339435749d5a18ddf028a8316273db97c08b80b6ce67f951905d2dc406951b1c0e1
+

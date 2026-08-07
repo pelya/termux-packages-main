@@ -35281,3 +35281,17 @@ SHA1: b889b265144c88e652ccf1f27d0c75eafcf52c50
 SHA256: 55000bcfaff1636b9afb9dbe3e332a41074c21d95a2567f1d99210b883971aa1
 SHA512: b29dd6a98c892def63f2c1714d9784d31394c2552f47ecc1c430d887f66b54d17e5f2df8763a5227f15fdee7c5072ebc34f4f84652a05e6078f2f4d87d573f35
 
+Package: libhiredis
+Architecture: i686
+Installed-Size: 376
+Maintainer: @termux
+Version: 1.4.0
+Homepage: https://redis.com/lp/hiredis
+Description: Hiredis is a minimalistic C client library for the Redis database
+Filename: ../../../../releases/download/i686-libh/libhiredis_1.4.0_i686.deb
+Size: 82636
+MD5Sum: c17a4603e716aee5d06d25c2b55a806c
+SHA1: 25571ba18dbdd5cd8f4649daeb5344dac49e0d40
+SHA256: 98e9f02dcfb43b6309baf99c34adc1414c27fe6f6951a04c754141659169ac3d
+SHA512: 855975436176f232d34d51287033ce503a1f2c3ad2e1071bdca0ea968f78ab4d4aa8bebfe201181f32a69880da7c6d6f81f6675e27f2d7ef9b8ba1ce7279cdcd
+
