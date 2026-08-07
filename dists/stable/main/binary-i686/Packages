@@ -36074,3 +36074,32 @@ SHA1: d35b805a525ecb7fd8b30d7995dc8305fd50713b
 SHA256: c0664f5335df8743d9b3354be3af05f3d21a36912387ace67010d5f45e87164d
 SHA512: 1ab2012dccc09c244df12fe2fd4ee748ae6cc6b2a9aeba0f2c8e8d56e04880d2b7bef1f9c05ed3d42016dfac6a105c36276d6f19ece43012f600a5e9d8cde114
 
+Package: jftui
+Architecture: i686
+Installed-Size: 172
+Maintainer: @termux
+Version: 0.7.5
+Homepage: https://github.com/Aanok/jftui
+Depends: libcurl, yajl, mpv
+Description: jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.
+Filename: ../../../../releases/download/i686-j/jftui_0.7.5_i686.deb
+Size: 47744
+MD5Sum: 35650ed89691c5d7c6ea7cdc7ba95716
+SHA1: c824592381dabc2ec117184e12f8488194c741aa
+SHA256: 532c5e33a118817d3e366e38397c01b672d17f007ba80c422c7e637ae60c5b8b
+SHA512: 122640dbef48fea175fad92921d4f6c9210ac1c0566e14847493f8cb1cb4a7b6062baa15c34209bd37021379786bb9b5d69caa22f7ec0ffa851f764885b99973
+
+Package: lipl
+Architecture: i686
+Installed-Size: 1244
+Maintainer: @termux
+Version: 0.1.3-1
+Homepage: https://github.com/yxdunc/lipl
+Description: A command line tool that is similar to watch but has extended functions for commands outputing a number
+Filename: ../../../../releases/download/i686-l/lipl_0.1.3-1_i686.deb
+Size: 442772
+MD5Sum: e057aae13e7f2cf446b4559faa29469d
+SHA1: b57b6908004f9e4ffb758422ebab8fcfb4ab84b1
+SHA256: a4a22222cecb4b855191c3324a994a91a7b90fb94e80c4c09e03e31074c0cbbf
+SHA512: cdde596eb683d38bb49f6cff786ee4f918b0d024fd3c985750c399ade9dc94d0bde777d12251b47c9388ffaeebb90e7652ff8c7b187a9b1e2e892e4d924eafa9
+
