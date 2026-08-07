@@ -388,3 +388,32 @@ SHA1: 48ff8a2b8591158eaec1d5e3a861fcc53bb5c049
 SHA256: 055f4b53d715ecbc38202a535e1bd9e21d54a56d251acd040baf553254a2ed8e
 SHA512: 752cd0be9c2e51afee6f44f0c331acb8f1673818642a31d48664c04afd7779bf18f2f142b9ccf74bdecf429e787d5019799d60e56cadbc0d02c5cda692f973ee
 
+Package: i2c-tools-static
+Architecture: x86_64
+Installed-Size: 36
+Maintainer: Henrik Grimler @Grimler91
+Version: 4.4-1
+Homepage: https://i2c.wiki.kernel.org/index.php/I2C_Tools
+Depends: i2c-tools (= 4.4-1)
+Description: Static libraries for i2c-tools
+Filename: ../../../../releases/download/x86_64-i/i2c-tools-static_4.4-1_x86_64.deb
+Size: 2168
+MD5Sum: 5d4a0e7ba3114168f3cc70ab3e5147e7
+SHA1: 43ca66ae241224299c1582d0d59e8a2de8b6c4e1
+SHA256: 7aa2fd169daa563c2bc47bdc72e07e96d0719f13875f358c46482f1e95a21768
+SHA512: 65a5146bc1b5c7c18b4e912e18566c5fbef0304c279f6d1b87728945bc81c1d5eb3ea2ac2d19dfd87d147292b55f2de0791a3970e020c3d76e6b7e28ae24c3eb
+
+Package: i2c-tools
+Architecture: x86_64
+Installed-Size: 360
+Maintainer: Henrik Grimler @Grimler91
+Version: 4.4-1
+Homepage: https://i2c.wiki.kernel.org/index.php/I2C_Tools
+Description: Tools for interacting with I2C devices
+Filename: ../../../../releases/download/x86_64-i/i2c-tools_4.4-1_x86_64.deb
+Size: 73940
+MD5Sum: 80f89388bc823647eecc5bdc372c53b8
+SHA1: 6c419313b34abbad0d37626deda39d596159d382
+SHA256: ec0bcb4d7f135ee2970c5dd13609d0b4f21a892b02cff17201e364832ef19537
+SHA512: 38c728a0ef3c2e48a10611baee4c725715fe8a621cbba7c92452fa06009f2da8f992bb6c3d2d86431111ac88893b898843bbda66399155d1a425c652e2908a9b
+

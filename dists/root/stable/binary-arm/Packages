@@ -388,3 +388,32 @@ SHA1: 631abcd7ffda1f7bb7adf0a3ac09ec46ba630661
 SHA256: 65a13383599c72d334af8b69a239eaf99644c7587399c7dbf232a5c486121084
 SHA512: 43d61df689a96fcf1428cb6c13715c8de9019bb640aab6a4ce95d7efa236b25b4812157fe102e22c805853e36f63927769e70298620f192baeb63c533bc5c5d7
 
+Package: i2c-tools-static
+Architecture: arm
+Installed-Size: 36
+Maintainer: Henrik Grimler @Grimler91
+Version: 4.4-1
+Homepage: https://i2c.wiki.kernel.org/index.php/I2C_Tools
+Depends: i2c-tools (= 4.4-1)
+Description: Static libraries for i2c-tools
+Filename: ../../../../releases/download/arm-i/i2c-tools-static_4.4-1_arm.deb
+Size: 2164
+MD5Sum: e59bca33ac7e0eaa8b657a07981dcfb1
+SHA1: 831e64d371041cef78284bedc330ac5184981463
+SHA256: 72b996a9225a9998e95f72984fa34ad9e822f6274238082330f7bf2cea4dbaa7
+SHA512: 0c6e6ac96c9b4ae1e0576b5b3a8b2eef3957325b74fede735c7b63cb745a588c8f811d3e970c34f4b152834be8043e7d2eb9b09712a92298f895bb2b40ffa9ee
+
+Package: i2c-tools
+Architecture: arm
+Installed-Size: 332
+Maintainer: Henrik Grimler @Grimler91
+Version: 4.4-1
+Homepage: https://i2c.wiki.kernel.org/index.php/I2C_Tools
+Description: Tools for interacting with I2C devices
+Filename: ../../../../releases/download/arm-i/i2c-tools_4.4-1_arm.deb
+Size: 70956
+MD5Sum: a2f28f157544bf2d8c77354d68c29f78
+SHA1: 98733254e284bd4fd2ea099f3ca2653383c49999
+SHA256: 99c238c68f1ba6d3e28aeced9e6d4e4d26e9a65bfed9cf331d3a92d53606ea1a
+SHA512: d481747f4f93fc5fea4bd629626296548e856604f8165c66cbc57ebe4ac32aabdf09f1999e9acc1f54ae01cbdf2fd5cff0b77854ed83a5ae11d06aa8f04ddbcd
+

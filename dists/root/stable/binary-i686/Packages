@@ -388,3 +388,32 @@ SHA1: 081482b14419faaf643cf067b578a2d319f8cfd1
 SHA256: 5a076e63f9f185d3927d846b02036c25fdefb1250aae0aa7657cfd5d1dcb5136
 SHA512: 7d60fe7d3b1bd07cddd466b5755212974cbc86ccb1d49b42ca8de413f10e8d5c457b086925b68bb106ca6c5c2d08404ed5f651e048b48a3e242c824487a29cbe
 
+Package: i2c-tools-static
+Architecture: i686
+Installed-Size: 36
+Maintainer: Henrik Grimler @Grimler91
+Version: 4.4-1
+Homepage: https://i2c.wiki.kernel.org/index.php/I2C_Tools
+Depends: i2c-tools (= 4.4-1)
+Description: Static libraries for i2c-tools
+Filename: ../../../../releases/download/i686-i/i2c-tools-static_4.4-1_i686.deb
+Size: 2236
+MD5Sum: 28eee88582fd2d6fe694795fe87474c7
+SHA1: c9e0c53b70597203b6a59043e923011776a84f12
+SHA256: 9e05ae9b768dd02c437ce0b75eee912da606892a5c556a2db979b33a7cd60670
+SHA512: 7d1132e144587a948164f005eae2c6c25e0ab2d9945ab3af4cef94dda1b093c8b111b152aa67726c53fd986b78428284c7ff6a4b6bd9f11b1174f1292064d0b3
+
+Package: i2c-tools
+Architecture: i686
+Installed-Size: 344
+Maintainer: Henrik Grimler @Grimler91
+Version: 4.4-1
+Homepage: https://i2c.wiki.kernel.org/index.php/I2C_Tools
+Description: Tools for interacting with I2C devices
+Filename: ../../../../releases/download/i686-i/i2c-tools_4.4-1_i686.deb
+Size: 72968
+MD5Sum: 730fab015c6027658af53ca3f3f1b620
+SHA1: 43370b42d0e7cfc7484c3c99ffffcec82584b09f
+SHA256: 41edf1f6f364d5dcfbe36dfa14cb9b86bc851da77b4e1ecadd4b757266f8dd3b
+SHA512: 8a5f4393de2c0c06c806c3a2363142e503933b4b14f48c1b3d85444d3cdab72059043ab3d94b69d86b0eac3778fee2e2f7cf72da09f970767445c857129f4679
+

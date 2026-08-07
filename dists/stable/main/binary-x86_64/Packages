@@ -35924,3 +35924,19 @@ SHA1: c73f08d81996fda4e3870bd1686c8e56ef246ff3
 SHA256: 705b5fa02a29fbe25711d85e8be2c914321c47432a89f7820a542f47ab5f505e
 SHA512: 03bddc00a2b230f0a68a7cefd2b9ed5a8f260ab6d9d846b226937abc00f0bd314234b3e59a3f8d45b229336644fad449acfc99afefae61d049b0afee81f94994
 
+Package: proot-distro
+Architecture: all
+Installed-Size: 1056
+Maintainer: @termux
+Version: 5.4.1
+Homepage: https://github.com/termux/proot-distro
+Depends: proot (>= 5.1.107-71), python, python-pip
+Suggests: bash-completion, termux-api, zsh-completions
+Description: Termux official utility for managing proot'ed Linux distributions
+Filename: ../../../../releases/download/x86_64-p/proot-distro_5.4.1_all.deb
+Size: 147476
+MD5Sum: eea85a6f0d250f02a4a14018bd813c81
+SHA1: 4b53e1c54341d30a3819c2cd75e22309ed571674
+SHA256: 0f6dfd1893d8e7ac4130c83a73fe0b35ba7927e6d22bbb2e0dfbb21c98d3f3a1
+SHA512: 249d053caf3f7a8de908cbf01e3813d21a3e72ffd4854b74458234345fc56f38085673da7093c001237238c1fc64fdebd0874e83382e435146341c41ddecb641
+
