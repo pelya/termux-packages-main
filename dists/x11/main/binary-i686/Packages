@@ -12415,3 +12415,33 @@ SHA1: 375dbb95caf5dce4911f4dc0bd36f39fcbb6ff21
 SHA256: 77996cd767aee9d828f9c220244fc1bea45d64a637817b41f559feb685cdc9bf
 SHA512: a6ba0ab9c781381acac2ecd762cf80f3137d576aa5dd204a2c4296b99a16f6fda58062ec848085dac39b03432f470840323e4969c5e1d3e223efc07605564017
 
+Package: abiword-static
+Architecture: i686
+Installed-Size: 22744
+Maintainer: @termux
+Version: 3.0.8-1
+Homepage: https://www.abisource.com/
+Depends: abiword (= 3.0.8-1)
+Description: Static libraries for abiword
+Filename: ../../../../releases/download/i686-a/abiword-static_3.0.8-1_i686.deb
+Size: 2994124
+MD5Sum: 84eaf91cbdf28ad46eea722fbd16d34c
+SHA1: d99e0442f275d5a1564e5a36331f3452f4453726
+SHA256: e16b570349b8139d9684676dcac0f6ef4a5b55a63003bc8bf239d835e2a371ec
+SHA512: 954c16c78412ad440280ea3595c633de76933e54f93204be39c98ec74ab0fc00f981fd98e9888ae3d73ea039d8ce44d7efd41170b98d57bbab80ba4cfdaa3021
+
+Package: abiword
+Architecture: i686
+Installed-Size: 21488
+Maintainer: @termux
+Version: 3.0.8-1
+Homepage: https://www.abisource.com/
+Depends: atk, enchant, fontconfig, fribidi, gdk-pixbuf, glib, goffice, gtk3, libc++, libcairo, libgsf, libical, libjpeg-turbo, libpng, librsvg, libwv, libx11, libxml2, libxslt, pango, readline, zlib
+Description: A free word processing program
+Filename: ../../../../releases/download/i686-a/abiword_3.0.8-1_i686.deb
+Size: 4301724
+MD5Sum: b082c3f2a33874cc83effa359ec36cda
+SHA1: fc62c658c3e4901b1c49f1452b7f099a33f53b34
+SHA256: 8fc850d613127d5a08f974368cb7417a9b93c31c69ee6da5cb282c667750685f
+SHA512: e930a322a30b1710f88b30bf7b79b82b9cb38cecd6964749b4048a1d6691e4e8cc7916f4717e498509905fc7b5a2a305c139e8005226a875edfa4ceb5e7812d6
+

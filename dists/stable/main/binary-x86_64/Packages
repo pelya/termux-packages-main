@@ -36311,3 +36311,63 @@ SHA1: 8d0c47968e43c877a632f3d3f5261dbf3fa69072
 SHA256: 95dcbda419f4c265dd59f95b8fc27a2aebe9f5c4431fcbb62fe06d54ed1e646f
 SHA512: 244a092e6be1b1464a96db1aff8774a8ddf146327ca11dc8a4190be93ca6cb6418ad1b1b038cd8738c8ba4bc3f8ba6e40446905119ce021d41558e3c415bcda6
 
+Package: lsd
+Architecture: x86_64
+Installed-Size: 3428
+Maintainer: Krishna Kanhaiya @kcubeterm
+Version: 1.2.0
+Homepage: https://github.com/lsd-rs/lsd
+Depends: zlib
+Description: Next gen ls command
+Filename: ../../../../releases/download/x86_64-l/lsd_1.2.0_x86_64.deb
+Size: 1129632
+MD5Sum: a9d3ba450138ecf4cbdea6cfddb3a163
+SHA1: 88f1208a49c75429e98f6f29a042eb010f3ea642
+SHA256: 8a288310bd9a349cf0af830197c395c6fac3b77adf46e5d07156bb927a277f91
+SHA512: 931800caa1be319e75a3212c895c62723c187dfe6ffcd5e9b5c3c0a900ed00d831a4ee64663bbb5a7323cfa587cbbe622c53910b626a6b25c2c6ce6514752341
+
+Package: libwv-static
+Architecture: x86_64
+Installed-Size: 632
+Maintainer: @termux
+Version: 1.2.9-6
+Homepage: https://wvware.sourceforge.net/
+Depends: libwv (= 1.2.9-6)
+Description: Static libraries for libwv
+Filename: ../../../../releases/download/x86_64-libw/libwv-static_1.2.9-6_x86_64.deb
+Size: 109624
+MD5Sum: 545cb200b84dfd3e94c3e16e60f8280d
+SHA1: 48d317bf652de45e7cdc323a7b57517bc09846f1
+SHA256: 360210c70907636fe1a920b4f02ee406581b84cb8aaff2e47f0150d562dc3287
+SHA512: 9547c5f8fb22be879791797fee5555630b236918f892a12f283363edbc91b74ac6132f4c67ce5c5b329f626dfaa3a6ddc7af680d0dd626aa42ae218bfd2561ea
+
+Package: libwv
+Architecture: x86_64
+Installed-Size: 2336
+Maintainer: @termux
+Version: 1.2.9-6
+Homepage: https://wvware.sourceforge.net/
+Depends: glib, libgsf, libpng, libxml2, zlib
+Description: A library which allows access to Microsoft Word files
+Filename: ../../../../releases/download/x86_64-libw/libwv_1.2.9-6_x86_64.deb
+Size: 153792
+MD5Sum: b22615959e2761665914058c0ec60a21
+SHA1: a688bf3ca3a6d8907e1d49f8b25b94c5f5f3c87c
+SHA256: e0e25d84fe931b24a4e3999b4b89cfe0eb8ba37664b6aac50041bfa72a146627
+SHA512: ffcae684bc9204d34b6ee00b57bc0238f0dd76fd4b74509b783880dab4dd14dcae8599f71d7591b2591945abf7b9db0f4e1809d2af384363ec7f4d0a2f43361f
+
+Package: wv-tools
+Architecture: x86_64
+Installed-Size: 228
+Maintainer: @termux
+Version: 1.2.9-6
+Homepage: https://wvware.sourceforge.net/
+Depends: libwv (= 1.2.9-6)
+Description: Command-line tools for libwv
+Filename: ../../../../releases/download/x86_64-w/wv-tools_1.2.9-6_x86_64.deb
+Size: 27348
+MD5Sum: 402dd628772f3d331a967ecc477f0e0a
+SHA1: 1ad8fd6f6ef2fcdf1df6468e47df21e0f28b1971
+SHA256: 77d172ec8beae8e2b4bff6b13eeadbc73a787bdf8d98128eeb5df3531e721b1d
+SHA512: b72a5dd3b1f68b5b3fe7e0aa5cc207c790883a97bd07a3a815a88d4e2c5854b42589947087e0889de744ad8ce514f2549134c1b4db9694a10b1c445d1a69c695
+
