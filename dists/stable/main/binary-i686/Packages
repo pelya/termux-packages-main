@@ -35223,3 +35223,17 @@ SHA1: 2beef3499ef2c1d4ae0b6b5205632219a47a113d
 SHA256: 15bd5624b56df377c59c4d09615db82bbbd01d362440a35acc87c8a04a817af6
 SHA512: 7c14978e94898021d2f775615d1ad63fabf0185bd7641afa49a69a0c62fd43663d525934060336fa8869d135a4c740b4822b5aa691bb80f0c4c75576442ba957
 
+Package: gifski
+Architecture: i686
+Installed-Size: 1468
+Maintainer: @termux
+Version: 1.34.0-1
+Homepage: https://gif.ski/
+Description: GIF encoder based on libimagequant
+Filename: ../../../../releases/download/i686-g/gifski_1.34.0-1_i686.deb
+Size: 605628
+MD5Sum: 1334025a2dc33980b6d09b7bce6224a7
+SHA1: 1fd54184f934951d44ff9972121b0a6b6fe13b02
+SHA256: 6059e20eccf1bf790e49f7d13f4e20659c504eeac82ea003603fb5c057f883e5
+SHA512: 9cb76bf23c8989d73cb59bd14aa9770d07d69bcfac85ce8f1f83eb7ed1efd3fabb6abf666c6bdc2bebbc537cba8cf4fc72aa2f6b7a6e6ce7d023c7f7ba5fc697
+

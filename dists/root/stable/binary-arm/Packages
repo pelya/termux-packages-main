@@ -477,3 +477,33 @@ SHA1: a0321a31dffc5356e765db773f1fd6e59dae3584
 SHA256: 5279212064d94b8c97fd54031a5ca9c8a75e66c58d126f9745c73f73ccdebde7
 SHA512: 58dca934303cac67135adc413e1d7947f886ea97ac7fb9e1446e020d009e58c2745cb9b5cac9a41bcf5d5a7187c6725c6ff16afc948833fb9c37c6e7d7f34af2
 
+Package: libfuse2-static
+Architecture: arm
+Installed-Size: 264
+Maintainer: Henrik Grimler @Grimler91
+Version: 2.9.9-2
+Homepage: https://github.com/libfuse/libfuse
+Depends: libfuse2 (= 2.9.9-2)
+Description: Static libraries for libfuse2
+Filename: ../../../../releases/download/arm-libf/libfuse2-static_2.9.9-2_arm.deb
+Size: 62996
+MD5Sum: 2636c118cbbec2ffa8ec7fb8dd6e19af
+SHA1: 1a1a5ffa6151766b4d15ee7b85635226d813359a
+SHA256: 2de908f58fe1074d07c5e363fcedb24daa74e8bb9435ffae7a7ccd754802fe72
+SHA512: 197d900546970887dd3b524234adb8301d88af36809d0ef97dfdd2134152a80e9b554f813d5307e1554a62fa8556792dcf4f20b9992158f6b37b7b3b301b08c9
+
+Package: libfuse2
+Architecture: arm
+Installed-Size: 416
+Maintainer: Henrik Grimler @Grimler91
+Version: 2.9.9-2
+Homepage: https://github.com/libfuse/libfuse
+Depends: libiconv
+Description: FUSE (Filesystem in Userspace) is an interface for userspace programs to export a filesystem to the Linux kernel
+Filename: ../../../../releases/download/arm-libf/libfuse2_2.9.9-2_arm.deb
+Size: 89496
+MD5Sum: 6655b26cf8c5cf00286c5f898af8f48f
+SHA1: b4d7bf2aee0adb003d6f2e7ee7a6879cdd4ac754
+SHA256: 5e7e77aa95d635cef4c6d8e2daa8abf0ddf0f9bf23026ae8f5875b50efbe88ef
+SHA512: 68a2b106028271ed5a2a93fa0a1bc181dda1ead6d5feaae56c5192137610540101ad3752303a5a3679669349af960ac65ff65e34a08661cca9df07b377988e05
+
