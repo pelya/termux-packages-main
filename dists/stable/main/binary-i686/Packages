@@ -36103,3 +36103,32 @@ SHA1: b57b6908004f9e4ffb758422ebab8fcfb4ab84b1
 SHA256: a4a22222cecb4b855191c3324a994a91a7b90fb94e80c4c09e03e31074c0cbbf
 SHA512: cdde596eb683d38bb49f6cff786ee4f918b0d024fd3c985750c399ade9dc94d0bde777d12251b47c9388ffaeebb90e7652ff8c7b187a9b1e2e892e4d924eafa9
 
+Package: sharutils
+Architecture: i686
+Installed-Size: 580
+Maintainer: @termux
+Version: 4.15.2-4
+Homepage: https://www.gnu.org/software/sharutils/
+Depends: libandroid-support
+Description: Utilities for packaging and unpackaging shell archives
+Filename: ../../../../releases/download/i686-s/sharutils_4.15.2-4_i686.deb
+Size: 119396
+MD5Sum: 25ad311efadc34ead1b5a3d322488dc6
+SHA1: 8f9475f7c344e6601502f29ce0d7e8037d904ce0
+SHA256: 71436fb5aa6845b67207db9c99c3bc658f1f4acf8a7f874849337e759ec0fc28
+SHA512: 859f1350cb23be72c9f06cd4a51547beada5d3a12e10b116d0e66fd6fbc100e6f4c3b9f183be4bc54ee9f97eca70aba17765c830a0725920860dbc9b2a639c80
+
+Package: tur-repo
+Architecture: all
+Installed-Size: 60
+Maintainer: @termux-user-repository
+Version: 1.0.1
+Homepage: https://github.com/termux-user-repository/tur
+Description: A single and trusted place for all unofficial/less popular termux packages
+Filename: ../../../../releases/download/i686-t/tur-repo_1.0.1_all.deb
+Size: 2908
+MD5Sum: 746f6a78bb34b534869869a22ede820b
+SHA1: f8c6ed2db38192a19fdeb94844f2e8f321326188
+SHA256: a3192b8f51b965acfa53ca6c681362b227efd0de0a78834f5034312d44160d0b
+SHA512: ce9dadac13f3d4057fbd07848b300fb9b72889e2730511093b5e81b29f23e93ea047a7866e8090a2022c2ee5cf7d56f50ae4261fbb5d8c097c3300d7c7c406a4
+
