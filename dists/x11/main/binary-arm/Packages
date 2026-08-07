@@ -12746,3 +12746,18 @@ SHA1: d488135deb64d241ec284efa2da8d2c02c9848f4
 SHA256: 1a9bedf5b98920bdc17ba50fd40afb8a3ca8955768cdb4e293097d05e0666e33
 SHA512: 6ee54c71a64f396c59d28fcc9dab131d27bb7cf14d9c55aacf261d3e057a6c2591a99badb5333fb9e54e7674d740c9247fa5de453971b93a22884d95778d9aee
 
+Package: kigo
+Architecture: arm
+Installed-Size: 5812
+Maintainer: 3ls-it <3ls-it@pm.me>
+Version: 26.04.3
+Homepage: https://invent.kde.org/games/kigo
+Depends: gnugo, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-kdoctools, kf6-ki18n, kf6-kiconthemes, kf6-kio, kf6-knewstuff, kf6-kwidgetsaddons, kf6-ktextwidgets, kf6-kxmlgui, libkdegames, libc++, qt6-qtbase
+Description: Kigo is an open-source implementation of the popular Go game.
+Filename: ../../../../releases/download/arm-k/kigo_26.04.3_arm.deb
+Size: 4941572
+MD5Sum: 30db350b689dda7dd6cbcb2ead0762cf
+SHA1: 11a3afc39061b2988a0aa027fbcf9d7778e6b966
+SHA256: 5ebc1397f9818aae9424dddad2512f9ce78b7d53401f6d22ad69bbc96d5489f1
+SHA512: 7fd103e414e1841f5b70771ed2c468998852e97c3479079f7a94c07541a1efc5e9385a6f11b9bc782cb5c84405380359833dca3fb42f7ae72907e27aa3784716
+

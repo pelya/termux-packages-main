@@ -523,3 +523,7 @@ data/data/greater.underscore/files/usr/share/man/man1/wimupdate.1.gz            
 data/data/greater.underscore/files/usr/share/man/man1/wimverify.1.gz             wimlib
 data/data/greater.underscore/files/usr/bin/runc                                  runc
 data/data/greater.underscore/files/usr/share/doc/runc/copyright                  runc
+data/data/greater.underscore/files/usr/include/x86emu.h                          libx86emu
+data/data/greater.underscore/files/usr/lib/libx86emu.so                          libx86emu
+data/data/greater.underscore/files/usr/share/doc/libx86emu/LICENSE               libx86emu
+data/data/greater.underscore/files/usr/share/doc/libx86emu/LICENSE_INFO          libx86emu

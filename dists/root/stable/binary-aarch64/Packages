@@ -536,3 +536,19 @@ SHA1: cf43e9a2255890329de7147e490a795f244d86e8
 SHA256: 6c992b9f21eb6c1347b2bcd41a951d8d1fcdacbf0930947d296beb4bda423cdc
 SHA512: 82cf913df76ffbff36882c36eb0ac05b4347585e6a0fcca185c67988f008a7132ffd3efceb03321f4b8e49c13487205d20b64fcf6906a12a00f35176ea900f2a
 
+Package: libx86emu
+Architecture: aarch64
+Installed-Size: 224
+Maintainer: @termux
+Version: 3.7
+Homepage: https://github.com/wfeldt/libx86emu
+Breaks: libx86emu-dev
+Replaces: libx86emu-dev
+Description: x86 emulation library
+Filename: ../../../../releases/download/aarch64-libx/libx86emu_3.7_aarch64.deb
+Size: 45004
+MD5Sum: 38a5b3707029efed0a1e062afed59f52
+SHA1: cd00d966efdbb82cb02d2ec67e570366a48d1829
+SHA256: ca1d2108b6e65ceb4a4737b92ac83ff4a2fc95c26a58f2e64842c0d079523bb0
+SHA512: bdbac2dfedec689effba99f6f4e318e66c532f3a922c872304c397449816bdc0e9690cde9dd429129886ee35724ebdac733d79bdd1a1765b3f6037623688518f
+
