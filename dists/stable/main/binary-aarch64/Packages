@@ -34296,3 +34296,18 @@ SHA1: 9e9f686f76ecb060aba539750ff4e55f2611a7cf
 SHA256: 242d03b5a08e00bcd3a3a632c26445594d23c2268106024f911868facf12d3db
 SHA512: e155be0844dab863f77a1f940d2ea71c4b15e84d8590db999ac96622c7eea7930628c24d74247c4b4077ef0e4e6ed7d98fd9b2f7a3201d9e8295c1c9f8729c3c
 
+Package: clucene
+Architecture: aarch64
+Installed-Size: 4604
+Maintainer: @termux
+Version: 2.3.3.4-8
+Homepage: http://clucene.sourceforge.net/
+Depends: boost, zlib
+Description: C++ port of the high-performance text search engine Lucene
+Filename: ../../../../releases/download/aarch64-c/clucene_2.3.3.4-8_aarch64.deb
+Size: 716776
+MD5Sum: a0ef1fb907aae71b330d0df6e5e632a7
+SHA1: ac365a3807403f3e481c53409fc0ff13e2214c95
+SHA256: 3f2d1992079bc469e5618ea32e6f979e347ea014f031503683408002713d0c00
+SHA512: 4c0de046de94b0980fa444153adf030c9c1d649c2aaa182d461da478f118d73d7e000123e3aba72c2cefedb6c1d8a766eee30b3017a1152bb083b2dc50bec16c
+
