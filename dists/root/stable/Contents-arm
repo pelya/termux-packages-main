@@ -800,3 +800,8 @@ data/data/greater.underscore/files/usr/share/doc/nwipe/copyright                
 data/data/greater.underscore/files/usr/share/man/man8/nwipe.8.gz                 nwipe
 data/data/greater.underscore/files/usr/bin/nexttrace                             nexttrace
 data/data/greater.underscore/files/usr/share/doc/nexttrace/copyright             nexttrace
+data/data/greater.underscore/files/usr/bin/ethtool                               ethtool
+data/data/greater.underscore/files/usr/share/bash-completion/completions/ethtool ethtool
+data/data/greater.underscore/files/usr/share/doc/ethtool/copyright               ethtool
+data/data/greater.underscore/files/usr/share/man/man8/ethtool.8.gz               ethtool
+data/data/greater.underscore/files/usr/share/metainfo/org.kernel.software.network.ethtool.metainfo.xml ethtool

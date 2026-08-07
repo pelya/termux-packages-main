@@ -36207,3 +36207,17 @@ SHA1: 4404992b9a3649586318e1b072d4c561bd4c7c92
 SHA256: e2bb9e6fda7409fb107381a9b11c8fb3e2a68b5f615452d50a8f091c2d5df5b0
 SHA512: 2baf8ff48ab8ec37600d57c6a4b350d4fbdf627ef56c906d1d6abeef9f5e584fde65452d913286e129658d28d8e04fd91a6632051e8c07aaaf0c65a40b6a6481
 
+Package: webtunnel
+Architecture: i686
+Installed-Size: 9732
+Maintainer: @termux
+Version: 0.0.5
+Homepage: https://torproject.org/
+Description: Pluggable Transport based on HTTP Upgrade(HTTPT)
+Filename: ../../../../releases/download/i686-w/webtunnel_0.0.5_i686.deb
+Size: 2331752
+MD5Sum: 98f94ed82d1e528d37c3fc3ee69def2b
+SHA1: 7cfcac72fde8d3ae089c75e4f3923fa5e02e846e
+SHA256: 1926c74be3c5bd29c8a0e4e1345298a7a1a6b630d62a2ad721fd7e8b403902e6
+SHA512: 5dc8ac50ee63d8ffdc2fdf1edb4c84c0b39f0c9ce22135b13a30483ecfdac3520adb797a0d42f9d85a4dae1c1508d28084ae4490aa1467af8cf5b6045a9d5aad
+

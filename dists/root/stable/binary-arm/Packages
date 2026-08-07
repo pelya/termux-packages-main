@@ -644,3 +644,18 @@ SHA1: 40dcd2cdf4da90214690fd06dbba6554ad526ac8
 SHA256: 091382d678ae0c8ab3719637f511a794acbe97651d75f2b871c6e56619f914d5
 SHA512: 577f0db8f3a5da5379dec1f8e2c998233b9b65a54c4484f6d443a02e217a6bba6863ddb6fdc5e17895b281d9e943cfb52461e3c07a08a3b3a73715a6271898c5
 
+Package: ethtool
+Architecture: arm
+Installed-Size: 772
+Maintainer: @termux
+Version: 7.1
+Homepage: https://mirrors.edge.kernel.org/pub/software/network/ethtool/
+Depends: libmnl
+Description: standard Linux utility for controlling network drivers and hardware, particularly for wired Ethernet devices
+Filename: ../../../../releases/download/arm-e/ethtool_7.1_arm.deb
+Size: 251276
+MD5Sum: 55b3f98b1edbd75f37dfbcb2dfe541da
+SHA1: 8217cf16b96dc671024a4db9e303745c29248c58
+SHA256: 052a1f063c76a0c7058f446924afb029282bf080581c7bd910f53256b86b8c42
+SHA512: b069b93dea9ecb464b3783960c8fadd0825e6339ff878703ffd9289e64a13d0f05fb24a254af8d1cdb5940882cfc728b5749f6810845087ad1a6d025dde7d420
+

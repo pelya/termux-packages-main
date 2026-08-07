@@ -35652,3 +35652,17 @@ SHA1: 0f549c70edc7e1c4a085b0779a182cf5cea7a2d6
 SHA256: 4fc9849cb9eaf7d25fd942fc5d34cac429615d435e762553418688ffe8548b3d
 SHA512: b30d589374d83da986083d230bc9b2e1a9c88f4f7c4e24db53b8fa9282fcf907ca78ee56d49ed3d3798d00a2f35d120c28ccf9b36aecddef38a0bebe886a896f
 
+Package: webtunnel
+Architecture: arm
+Installed-Size: 9576
+Maintainer: @termux
+Version: 0.0.5
+Homepage: https://torproject.org/
+Description: Pluggable Transport based on HTTP Upgrade(HTTPT)
+Filename: ../../../../releases/download/arm-w/webtunnel_0.0.5_arm.deb
+Size: 1990124
+MD5Sum: ff7f2fcd289bb7d78434953d2022f746
+SHA1: 50b1e18bd32b511a3334e0e2e67700664c897f56
+SHA256: f37b66ae82079188e34dd48e7a9c5f373fdc2d0560c7dc448e7321cac73601d4
+SHA512: c96ffbb7b8b0372dd453ca5b9b263f578d05d8a665dff390b07dc5cc38c02be6f2fdaec53d9aa46fa56516e9e8ba28716677b021aa73fcb1235deb83d17d6b02
+
