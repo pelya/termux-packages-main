@@ -311,3 +311,35 @@ SHA1: 815b083113b7f9a9482706b37fd3ab43fc8464ae
 SHA256: 8d922aa23eaad9b7d452e80abaf0a04a6406c36b6ccbe462ffd252a49ecb3426
 SHA512: e4d17a7f15c000c66bdce345a26f1d73a16c11540318f831f401e3e8d0c58605ab603cff7b87bd2a83372ed3d7efb3212b921f830edd2b950256c5bbd665b48a
 
+Package: lxc-static
+Architecture: i686
+Installed-Size: 2976
+Maintainer: @termux
+Version: 1:3.1.0-4
+Homepage: https://linuxcontainers.org/
+Depends: lxc (= 1:3.1.0-4)
+Description: Static libraries for lxc
+Filename: ../../../../releases/download/i686-l/lxc-static_1.3.1.0-4_i686.deb
+Size: 791104
+MD5Sum: a0b8efcbcf6af9cd8791ce4bf37504b5
+SHA1: d459a37eebbc7e3f8c98cbe5f999df7fbaf33da0
+SHA256: 89204d1ee8621702b000908da72f9f2066528002b16c03fd0643600c398e5ce4
+SHA512: 686bb9cdb9e7ed0bbabbfd0572a25b0f8103d4bcb4ec7ecfad6db8e92f81948e2333f86fb7863dd4793458099784e317db1382eabe2a46997d6ab43f9453d007
+
+Package: lxc
+Architecture: i686
+Installed-Size: 2024
+Maintainer: @termux
+Version: 1:3.1.0-4
+Homepage: https://linuxcontainers.org/
+Breaks: lxc-dev
+Depends: gnupg, libcap, libseccomp, rsync, wget
+Replaces: lxc-dev
+Description: Linux Containers
+Filename: ../../../../releases/download/i686-l/lxc_1.3.1.0-4_i686.deb
+Size: 439800
+MD5Sum: aafef2747f0eedb48fd1d83a9503dd16
+SHA1: 991015aa34cc8d60be77d45feee224646814e3a5
+SHA256: 166f0bccfc8bc9277d8f077b8a68605ecad5bb088eac7e3a61e7b0fecde1b45f
+SHA512: 2099541a01d855deec797391b9bc82dbca06297a1715ccb29dc3ed43d9f87533cdcc0d1f1fbf4cebbb2d68370105ccbd6ff7d9a4aa5c9caeba902db74837627f
+

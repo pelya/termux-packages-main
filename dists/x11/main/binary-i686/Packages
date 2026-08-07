@@ -12097,3 +12097,18 @@ SHA1: fac52f7ecbc2a00f33645d0b004c887b45d37335
 SHA256: f9ac28bd26530a3e5da1fa539f09d1bcdf5423f3491f8cdfd0a0d31c5e6f01d7
 SHA512: 6845aa11bd50fd50ccee8c0030e0c2ec5ba9c56ed468e7a6e7214190ffeceeb530cb6aad5687442c3a2295375fe25319cf1af504110e611cd5afd366fa9cabe0
 
+Package: mate-power-manager
+Architecture: i686
+Installed-Size: 7856
+Maintainer: @termux
+Version: 1.28.1
+Homepage: https://mate-desktop.org/
+Depends: dbus-glib, gettext, libc++, libcanberra, libnotify, libsecret, upower
+Description: Power management tool for the MATE desktop
+Filename: ../../../../releases/download/i686-m/mate-power-manager_1.28.1_i686.deb
+Size: 3847988
+MD5Sum: 0297c7167b9275d51af955a04980c439
+SHA1: f473dd672eda9e5b7e46ac6215b90558b9263179
+SHA256: f8e155519c850f0c1f80a18dead86de84f6f58b2c4bd18805b567931ae4ecbaa
+SHA512: 9c7695af91978dbb7db4fba879773e480473c025fcfca5e8fc15e0acffd6b407cd4a5865988fd21c3ad8f94cb35520cd46fa1c772538b79ab1d8f2c331e1b570
+
