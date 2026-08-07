@@ -11857,3 +11857,49 @@ SHA1: ef8752cf675b605347b0c82abadce181d6d61f07
 SHA256: 531ca56ff6a94935cd0c36c77018231419abc9d5d129ce63cf6f3eef37c301c3
 SHA512: 99038ff7a0b3ef51590b77fbbc4c8349fa5685706d215422abf0985a403c8af8f8a4c46291692f3da378e720ccddd5f4086ffd249cfa0d2811063a7d006cd3cd
 
+Package: lyx-data
+Architecture: all
+Installed-Size: 53868
+Maintainer: @termux
+Version: 2.5.1
+Homepage: https://www.lyx.org
+Breaks: lyx (<< 2.3.7)
+Replaces: lyx (<< 2.3.7)
+Description: Platform-independent data for lyx
+Filename: ../../../../releases/download/i686-l/lyx-data_2.5.1_all.deb
+Size: 9936044
+MD5Sum: 0f7e8b3c86bfee6daa2a7ef610fe20f7
+SHA1: 86a97ad96e67fb362b5d90f60d757911caa773dc
+SHA256: 71e5268c0d8285a9c0cc4321510e987ee16347a7e6cf42dfb1bb0773fca35c04
+SHA512: 7e40c277653029e7035eaeb7473b9b1bce8729388e773ff643929dd460598330ed5a155939daec455041e09864831b883901fdee90df1768cf1a383ada980848
+
+Package: lyx
+Architecture: i686
+Installed-Size: 13364
+Maintainer: @termux
+Version: 2.5.1
+Homepage: https://www.lyx.org
+Depends: file, ghostscript, hunspell, imagemagick, libandroid-execinfo, libc++, libiconv, libxcb, lyx-data, qt5-qtbase, qt5-qtsvg, qt5-qtx11extras, texlive-bin, zlib
+Description: WYSIWYM (What You See Is What You Mean) Document Processor
+Filename: ../../../../releases/download/i686-l/lyx_2.5.1_i686.deb
+Size: 3623780
+MD5Sum: 1ac156e95ed5e95cde03c7a5183a326e
+SHA1: a6b6daad54b92615519e548032486010d5a44f72
+SHA256: 64fd2163d2ed5c90180d14af0e4e22b2be4a531553b0f5778d6faa0b5ba9f8b3
+SHA512: 2ebba844519e1b6ad190b6ed8b03f35aae055336afe2b8fcca69fbaaa80f5f581440a4fe79390dd9cf644916b4fb1417d04aa0cef38867f63facb95da4676130
+
+Package: xfce4-cpugraph-plugin
+Architecture: i686
+Installed-Size: 384
+Maintainer: @knyipab
+Version: 1.3.0-1
+Homepage: https://docs.xfce.org/panel-plugins/xfce4-cpugraph-plugin/start
+Depends: glib, gtk3, libandroid-glob, libc++, libcairo, libxfce4ui, libxfce4util, xfce4-panel, xfconf
+Description: Graphical representation of the CPU load
+Filename: ../../../../releases/download/i686-x/xfce4-cpugraph-plugin_1.3.0-1_i686.deb
+Size: 71568
+MD5Sum: 0a96268dac09b902299201e38aaa2046
+SHA1: aef7b799733d309562d84d5c30d0bc217200f5ea
+SHA256: c4a55e18b43e0b738030bb86669c001e4602d2afdab4df3f4b425501c61fc956
+SHA512: 1569f49f4a58f981667434e239d10caa6de0983279df7c48d3231143bdce5eda15593513a09dc6e863d83ab697179c64988d85e95cab6f86b3db50c4f0d74628
+

@@ -11993,3 +11993,49 @@ SHA1: 99a27e7b07c1f8fbe20bf1675ce3043d9120ee5f
 SHA256: cf850f721df5e073e041c31e03a29907cfd43598e7814b357cf626082beb024d
 SHA512: 4c2f1f13f3b7131cbe1582a47df893c28d5893623d744d046f7d035f22f92d439dd1a4b92168742e7fce4f2a2d670407e30f336071fe3480a703bd910a04a971
 
+Package: lyx-data
+Architecture: all
+Installed-Size: 53868
+Maintainer: @termux
+Version: 2.5.1
+Homepage: https://www.lyx.org
+Breaks: lyx (<< 2.3.7)
+Replaces: lyx (<< 2.3.7)
+Description: Platform-independent data for lyx
+Filename: ../../../../releases/download/arm-l/lyx-data_2.5.1_all.deb
+Size: 9936044
+MD5Sum: 0f7e8b3c86bfee6daa2a7ef610fe20f7
+SHA1: 86a97ad96e67fb362b5d90f60d757911caa773dc
+SHA256: 71e5268c0d8285a9c0cc4321510e987ee16347a7e6cf42dfb1bb0773fca35c04
+SHA512: 7e40c277653029e7035eaeb7473b9b1bce8729388e773ff643929dd460598330ed5a155939daec455041e09864831b883901fdee90df1768cf1a383ada980848
+
+Package: lyx
+Architecture: arm
+Installed-Size: 8940
+Maintainer: @termux
+Version: 2.5.1
+Homepage: https://www.lyx.org
+Depends: file, ghostscript, hunspell, imagemagick, libandroid-execinfo, libc++, libiconv, libxcb, lyx-data, qt5-qtbase, qt5-qtsvg, qt5-qtx11extras, texlive-bin, zlib
+Description: WYSIWYM (What You See Is What You Mean) Document Processor
+Filename: ../../../../releases/download/arm-l/lyx_2.5.1_arm.deb
+Size: 2968084
+MD5Sum: 970fabe9511d25bf4040e20a97cb33af
+SHA1: b3574619a9e523b2187cffa4eded214096b0f7ba
+SHA256: 38ce23f63cc0893669216eae8cfb21d66b0f56fbd341333f61108e7a8ed4e3f4
+SHA512: 705af95b73114829a3a96525fdc639009b749aef0989d9fd76d1cbd9015e8a59ba4d3a07d6f76327cc31d1233a80f4254901b88234c4e823b8c866798e7b28e0
+
+Package: xfce4-cpugraph-plugin
+Architecture: arm
+Installed-Size: 284
+Maintainer: @knyipab
+Version: 1.3.0-1
+Homepage: https://docs.xfce.org/panel-plugins/xfce4-cpugraph-plugin/start
+Depends: glib, gtk3, libandroid-glob, libc++, libcairo, libxfce4ui, libxfce4util, xfce4-panel, xfconf
+Description: Graphical representation of the CPU load
+Filename: ../../../../releases/download/arm-x/xfce4-cpugraph-plugin_1.3.0-1_arm.deb
+Size: 50260
+MD5Sum: dbe2b08d7efd70259ce8adfef39c690d
+SHA1: 4bce0379f9bff298f4b7c4acadc429ea5271c2a5
+SHA256: d6731dc06a319354f1d224d0237a7516c2ee128db9ee68afae816157dd09ab2b
+SHA512: 0bda26d0f4aafa221e9292bb7ca025051a97c15a24d455aeefa79ab132b98b73040625dddc05211582c42aa38987e54536a8515b5b8b699fdc5831224a202581
+
