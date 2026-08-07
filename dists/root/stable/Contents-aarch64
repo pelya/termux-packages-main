@@ -521,3 +521,5 @@ data/data/greater.underscore/files/usr/share/man/man1/wimsplit.1.gz             
 data/data/greater.underscore/files/usr/share/man/man1/wimunmount.1.gz            wimlib
 data/data/greater.underscore/files/usr/share/man/man1/wimupdate.1.gz             wimlib
 data/data/greater.underscore/files/usr/share/man/man1/wimverify.1.gz             wimlib
+data/data/greater.underscore/files/usr/bin/runc                                  runc
+data/data/greater.underscore/files/usr/share/doc/runc/copyright                  runc

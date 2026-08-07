@@ -522,3 +522,17 @@ SHA1: 23bf293620cb93e96a2afc2ac46e02d95860370d
 SHA256: 6df167b96dba36bc029b20ddb9e49324f3715a01baa328b67199f448b15971fd
 SHA512: 386d055ef782754da20049ced2f909091d6ca99946b800627b4ec4f164a9d339435749d5a18ddf028a8316273db97c08b80b6ce67f951905d2dc406951b1c0e1
 
+Package: runc
+Architecture: i686
+Installed-Size: 11536
+Maintainer: @termux
+Version: 1.4.0
+Homepage: https://www.opencontainers.org/
+Description: A tool for spawning and running containers according to the OCI specification
+Filename: ../../../../releases/download/i686-r/runc_1.4.0_i686.deb
+Size: 3730076
+MD5Sum: c146fa4f669762999c0b7c02b4039580
+SHA1: d9e6de50b033b3640af95bb1ddae465b15a3a6a1
+SHA256: 7c904dcd2ee318a88998a114e8b159378edff3c686c9f6f8266391db73b41ba0
+SHA512: 10bffd6c5674451ecb9372344657d419945e8ceef37c6b0d080c44f81df5cdec057e51f05e2fe36a355294858802c7907e1ed10ee41ea128fbe05b25b11ba8e8
+

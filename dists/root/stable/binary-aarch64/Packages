@@ -522,3 +522,17 @@ SHA1: 35c55248e1014dd781ae0b88328bfe5c81b500d5
 SHA256: 434229e7020a81aebc1a132047e32687aba37b8ad19cd1dae85aeb6ff3918bd5
 SHA512: 11dde502285dba95b958cff0f050ffe35ae0913b7bf754444007b7a5a1fb28bf1808d85d11544f1c8e831207e6f4aa7ba1d96f933baf25bf3701b2c6e27951c2
 
+Package: runc
+Architecture: aarch64
+Installed-Size: 10580
+Maintainer: @termux
+Version: 1.4.0
+Homepage: https://www.opencontainers.org/
+Description: A tool for spawning and running containers according to the OCI specification
+Filename: ../../../../releases/download/aarch64-r/runc_1.4.0_aarch64.deb
+Size: 2985732
+MD5Sum: 5ffb20bbc939f6396a06314231373321
+SHA1: cf43e9a2255890329de7147e490a795f244d86e8
+SHA256: 6c992b9f21eb6c1347b2bcd41a951d8d1fcdacbf0930947d296beb4bda423cdc
+SHA512: 82cf913df76ffbff36882c36eb0ac05b4347585e6a0fcca185c67988f008a7132ffd3efceb03321f4b8e49c13487205d20b64fcf6906a12a00f35176ea900f2a
+

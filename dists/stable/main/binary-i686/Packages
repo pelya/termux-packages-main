@@ -35353,3 +35353,19 @@ SHA1: df3bb9ce062f34ecd5670fdd84adfe0f0fff7897
 SHA256: 2d163ab2ab54624f655a9280de01a628c86fe0980954b289329fd161918dec4a
 SHA512: 73ddf5350ffb57a1fb632430ff86ef11754235906d30063bd6c68e54f158fc49967ae7bda55c823856e8c2aea80922d97b44b656019689f95c75f4472e878304
 
+Package: keybase
+Architecture: i686
+Installed-Size: 131160
+Maintainer: @termux
+Version: 6.6.3
+Homepage: https://keybase.io
+Conflicts: kbfs
+Replaces: kbfs
+Description: Key directory that maps social media identities to encryption keys
+Filename: ../../../../releases/download/i686-k/keybase_6.6.3_i686.deb
+Size: 36231784
+MD5Sum: cf3192ac05fa508fb3a18b9ec0de1689
+SHA1: 01c1c3afe7ca9b2371ed2bc113c2546cb2a9693a
+SHA256: bdec7bfbe03529817d584e894544fc71b74f4086e9cb36875cdf71c27dee9475
+SHA512: e024ca4ebed4b4adfc61a7f21b1bc3c27b3f527df31f910da3bf2887ddddbd3010e9ea2d6a42b90c66c628c22227fcb394ee1a4a37bd775e4fc3ee7bca461055
+
