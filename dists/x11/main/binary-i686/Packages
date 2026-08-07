@@ -12385,3 +12385,18 @@ SHA1: a96350741c5ae80e9dddc55080c73b209a8dbd98
 SHA256: 76ba2d1840d5cfe0496b89412e1e1d6e4a43c78bc9ec998b61a2975114d149d3
 SHA512: b87d36d44c6463c32af3e0e63f05b817c1dde9b1bdb45bf0da40a98d0cd8385f11b7af228427e1a9ead154c36a1110721093c3a9c328ca4c18602f0a6d7cfc01
 
+Package: xfce4-panel-profiles
+Architecture: all
+Installed-Size: 372
+Maintainer: @termux
+Version: 1.1.1-3
+Homepage: https://docs.xfce.org/apps/xfce4-panel-profiles/start
+Depends: gtk3, libxfce4ui, libxfce4util, pygobject, python, python-pip, python-psutil, xfce4-panel
+Description: A simple application to manage Xfce panel layouts.
+Filename: ../../../../releases/download/i686-x/xfce4-panel-profiles_1.1.1-3_all.deb
+Size: 67192
+MD5Sum: e39e430257614287e5883e7334dc587c
+SHA1: a9e8ce20608ddec1238a722ce55d3ad6b75adf54
+SHA256: 3d25dd30c404f911cd4d66e421a276767378e3d0a161669982fb7a86eabfbf4d
+SHA512: 99f2591048463cc87c7ccec90d26c7464dfa3147a467f0d72f631fbdff2df81289e5af36c2f7da7e27567ba8ef295b18dfa6ff9a4001fa1042d1c11d52167dfd
+

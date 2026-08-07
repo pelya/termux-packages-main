@@ -36194,3 +36194,17 @@ SHA1: 0bca51e5789607a2f16607316628c5a9ffcfba57
 SHA256: 9d28d15003d696a67ab0a4dc3b805bef33f2e0771b9032998c0b1d5e6e330187
 SHA512: 2926daa4990d13056110932ee3e03ad6b80e8554689b3a218115a23a610f50460bba9ed32d7e7ac7679f2b281a05f7933888bb719833528c5395f0de0ab1f092
 
+Package: shiori
+Architecture: aarch64
+Installed-Size: 41772
+Maintainer: Krishna Kanhaiya @kcubeterm
+Version: 1.8.0
+Homepage: https://github.com/go-shiori/shiori
+Description: Simple bookmark manager built with Go
+Filename: ../../../../releases/download/aarch64-s/shiori_1.8.0_aarch64.deb
+Size: 14017648
+MD5Sum: 40dcb161ee3b0ceb064cc45c42578d49
+SHA1: 18763e1303ae052ccb9402d7eafed501b6992630
+SHA256: a365de1bf6a166c771e786aeefdd9eb9de15bba087a78ffe03af79a0e8b80900
+SHA512: 4a0aa12b6a0374233515bf267abcfee284fb779aaecbe5dd03ff899256bfefcb1c654f2cfbfc44fa6141e4fdfc7147673c68ddabb593087d769987a5af8315d1
+
