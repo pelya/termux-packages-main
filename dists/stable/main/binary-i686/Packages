@@ -35564,3 +35564,18 @@ SHA1: 8b152457ec0602feacf70807c9b33430d08774a5
 SHA256: 5ba9d8323e904adf875f802cb45cd4b7c2456177fb6d52389b91e3e0256a8f32
 SHA512: e80f5b215eb3d92e4dcc8260160a7520cc89defca32bd6ffe147139f0f33af129ef7205f5bdb5d3688f66362656e9ce541e63f1cea2f82d03e55ee8a5f8d174c
 
+Package: composer
+Architecture: all
+Installed-Size: 3600
+Maintainer: @termux
+Version: 2.10.2
+Homepage: https://getcomposer.org/
+Depends: php
+Description: Dependency Manager for PHP
+Filename: ../../../../releases/download/i686-c/composer_2.10.2_all.deb
+Size: 590560
+MD5Sum: 239e3ee4b7f440b5c2e6279eb86dc125
+SHA1: d11b2f04e089d57c1bf6cc1114e65577676d20d1
+SHA256: 105a15bddb6264b98487c7e647ccf8b7d6cad11049dc45cd245f9f04cea3fb22
+SHA512: 027e645acfe85098261788d267baa9fb70ef89d26601b68ae821ff401f58e389a66de7ff705bd15ce1be3bcf306e6463874a36e4f82334d4a2545cd0f4826ca1
+

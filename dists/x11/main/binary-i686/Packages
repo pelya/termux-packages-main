@@ -12445,3 +12445,18 @@ SHA1: fc62c658c3e4901b1c49f1452b7f099a33f53b34
 SHA256: 8fc850d613127d5a08f974368cb7417a9b93c31c69ee6da5cb282c667750685f
 SHA512: e930a322a30b1710f88b30bf7b79b82b9cb38cecd6964749b4048a1d6691e4e8cc7916f4717e498509905fc7b5a2a305c139e8005226a875edfa4ceb5e7812d6
 
+Package: jwm
+Architecture: i686
+Installed-Size: 296
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 2.4.6-1
+Homepage: http://joewing.net/projects/jwm/
+Depends: libcairo, libjpeg-turbo, libpng, librsvg, libxext, libxinerama, libxmu, libxpm, libxrender, pango
+Description: Joe's Window Manager is a light-weight X11 window manager
+Filename: ../../../../releases/download/i686-j/jwm_2.4.6-1_i686.deb
+Size: 100192
+MD5Sum: ba1260775810286b9357b1aa8eb2ac22
+SHA1: 96893c48446244b659fb7c6d969ee4b45ea99648
+SHA256: c5a561a8cadcfc4b161ee16a0d16e5fe0b7306d344f5e90d4d90a97f1fb0d718
+SHA512: e3ad6d7fc3a54d889c4513d1f7ec3d42ed69b3dd05c5059c1e46cbc8d6a2296eed96cce6b46e030809936df3351914be63191a3481cd44e80f27506809843271
+
