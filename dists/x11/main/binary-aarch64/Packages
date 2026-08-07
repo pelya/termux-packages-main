@@ -12746,3 +12746,18 @@ SHA1: eb22a6a7a7f3d7e4930ed951943ba8f1911b8749
 SHA256: 0d3725369ef9f031683b8b744eb40ea9967dbfed127899afd86f873a2e7e731e
 SHA512: 201b9fadd89b8f1097b389ec3624b8817ee8766cb62f305b44edf2f48fa2bcf4dcd246c1a5b6a823ab32cf2c456165bc203f189122eb563f0a91a5552afe6798
 
+Package: glade
+Architecture: aarch64
+Installed-Size: 6368
+Maintainer: @termux
+Version: 3.40.0-4
+Homepage: https://glade.gnome.org/
+Depends: gdk-pixbuf, glib, gtk3, libcairo, libxml2, pango
+Description: User interface designer for Gtk+ and GNOME
+Filename: ../../../../releases/download/aarch64-g/glade_3.40.0-4_aarch64.deb
+Size: 1193204
+MD5Sum: 8c5271286e0081a5d9ecd3a34954e547
+SHA1: 62d3962c906446cfb778cc9cf4331357a0661690
+SHA256: c6e130e77b7eb5fc56631b2321269c4ae3724228a64a94ffa0ba0745128bc08b
+SHA512: be7cc9b8f7239223d8e6851ea05e8f9f8c02e1f05ac3811b7a59935b9b1edb831b6690ce8fd5a8c750763f8f0b0d1e356945bcad87949cc8f54eef3ae38f52ac
+

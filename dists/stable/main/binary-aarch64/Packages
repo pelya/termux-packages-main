@@ -36061,3 +36061,18 @@ SHA1: acd6580f950c5b1b1dc1e77d49aeb26a841ffc73
 SHA256: b0a88cfe4c8a0c69968a76fbe8aea18c0900ca3b01d857bf8aeb35c310b82811
 SHA512: 2398ae9c126d2ad696aff91794f1ffc90555101d2af7a1a2b01a2ec028974f5d101ed58c0a8701b306022d092754f4379b8b0fbdc8891d3ff3352c11f3364259
 
+Package: mp3cat-go
+Architecture: aarch64
+Installed-Size: 2016
+Maintainer: @termux
+Version: 4.2.2-3
+Homepage: https://www.dmulholl.com/dev/mp3cat.html
+Conflicts: mp3cat
+Description: A command line utility for joining MP3 files.
+Filename: ../../../../releases/download/aarch64-m/mp3cat-go_4.2.2-3_aarch64.deb
+Size: 599360
+MD5Sum: b7867625738e0f7f9a430357d4739c77
+SHA1: 8d834892a4b04e7b8456912e5030dce9a223aff3
+SHA256: 00dc7f2948528317044b957c24e7fdec6dd3b8911c36bfd99827c8adab80b073
+SHA512: 3f50f5b5f936ae111f4e9c8e36f7fe69fd94ee33d4ac256178424109a8d1b2eca45f632f52badfc2856a6a080a8140ccaa2113ccdfefa683778030882c3f6086
+
