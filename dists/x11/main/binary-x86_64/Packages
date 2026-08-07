@@ -12947,3 +12947,18 @@ SHA1: 5377f367e0af071d1cb971ec91dfcad0dd015260
 SHA256: 9203bb9ff0f563d7a8b0afdb95d26261b977fe53aad95e5b2bbc1ab925a82c53
 SHA512: d0b5b1851bd471f8f41e8814800b3c0109f45169217dbbd853873d1f16e7b6f3565cf27b6331e65c71da66f39cd1e8bbde7e1fee161632c82e7dcad8c8959efc
 
+Package: x11vnc
+Architecture: x86_64
+Installed-Size: 1620
+Maintainer: @termux
+Version: 0.9.17-1
+Homepage: https://github.com/LibVNC/x11vnc
+Depends: libandroid-shmem, libcairo, libvncserver, libx11, libxcomposite, libxcursor, libxdamage, libxext, libxfixes, libxi, libxinerama, libxrandr, libxtst, openssl, xorg-xdpyinfo
+Description: VNC server for real X displays
+Filename: ../../../../releases/download/x86_64-x/x11vnc_0.9.17-1_x86_64.deb
+Size: 602720
+MD5Sum: b2ec080e696b7313fc0b08837e2acdb3
+SHA1: 42b5779319c5bc7194dc6abd266f4d72f3e93412
+SHA256: 5eaeb7c35312e3ec018411815ae7c6b5941df1277d2a944a9830133f05e8875d
+SHA512: 592cd56401e9c44b9611c61d904387cff0cfa8506eea135bad18f62e4df902b79fe9710ded29f653fff67819e533213f92685b62d535b61800015e05018082cd
+

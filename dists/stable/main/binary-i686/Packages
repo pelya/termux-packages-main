@@ -35682,3 +35682,18 @@ SHA1: dd1e63680a995840b176c20e43aa079014dba7a8
 SHA256: 90e2c454acc9a91d3ba119b86e597bbe6c009ba59ebc06578793c6f4b96fe94e
 SHA512: d87363dd5726e8a4e3ab7d3839b8a0dbd6fc15feb6a51b9f2634ace61777430a63f01983c6b48c7831fe3c3e322ec932e648b3273a18927aa9f68a9e9f283a92
 
+Package: maven
+Architecture: all
+Installed-Size: 10540
+Maintainer: @termux
+Version: 3.9.16
+Homepage: https://maven.apache.org/
+Depends: libjansi (>= 2.4.0-1), openjdk-21
+Description: A Java software project management and comprehension tool
+Filename: ../../../../releases/download/i686-m/maven_3.9.16_all.deb
+Size: 8934904
+MD5Sum: 8263658754e80fc94d2957b15aeb7545
+SHA1: e0fb42aa5142f94d2e067f10a3e40b3b613baaed
+SHA256: bd1ac1f4bd9216567ee5320603e4b9d98c73d6622de6c87d6d5ba650bc1fad54
+SHA512: f92f999aea03563d8865dfee881457be347f6d9ef38126b3dc5dac7eee81202d6505974410a2b7e797d9df9eb1f3164d4526453ec021cc02c3ad3979579a856b
+
