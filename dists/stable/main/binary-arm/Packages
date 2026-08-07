@@ -34145,6 +34145,35 @@ SHA1: 6d9eb0053d0d017b5f33eb013d1d43a55c62bffc
 SHA256: ceaaae917f8a9a1193a29640a9e523ab4f30ff7f7e6d1d509c6bd1f201e6091c
 SHA512: 9bbc583dbf7ac09daa3634a19638e23a7a2817171de4dc7598361fa623efb437bda7966819b253b215efcf0735980b760bfe0d94e3b991f633c97f033e706942
 
+Package: libhyphen-static
+Architecture: arm
+Installed-Size: 48
+Maintainer: @termux
+Version: 2.8.8-1
+Homepage: https://github.com/hunspell/hyphen
+Depends: libhyphen (= 2.8.8-1)
+Description: Static libraries for libhyphen
+Filename: ../../../../releases/download/arm-libh/libhyphen-static_2.8.8-1_arm.deb
+Size: 7524
+MD5Sum: f32b25e89a2f026c8bab6590d06ef1bd
+SHA1: 833f71ce29102509f845e40d2d276f495ad48959
+SHA256: fccb5929339b3fafb788824dab5e298f83d9229bcee87bf4a71599b546b77bbd
+SHA512: 92b324d860cbd2a4ff16568bfa35fd34ceba8fa56098334d0a5ed81100bbaa6d47c984d17aa39fe86e41eb3578bd02002daea569c604ba1d3626d3e7f1787851
+
+Package: libhyphen
+Architecture: arm
+Installed-Size: 184
+Maintainer: @termux
+Version: 2.8.8-1
+Homepage: https://github.com/hunspell/hyphen
+Description: hyphenation library to use converted TeX hyphenation patterns
+Filename: ../../../../releases/download/arm-libh/libhyphen_2.8.8-1_arm.deb
+Size: 48624
+MD5Sum: e8a31f488e3df40d3f83084a7cd86830
+SHA1: d702c77e91caa7146cab29e0425b38f3afccf9a7
+SHA256: 4aea11a3bf2e1e81fb2c1f47796f0351940c65007fc0e906d35cc046f062ce38
+SHA512: 9cd854177f4d41e601cc1f7b5a026524a222a1ffaf108e20904f5f3e49717b6622b6e3a89688d146575f36295dc4c4666f71ea43c8cbba1fd3b215965e27dfba
+
 Package: libetonyek-static
 Architecture: arm
 Installed-Size: 22412
@@ -34175,32 +34204,63 @@ SHA1: 3fd8fbffd5ddc84a1154deee1f3f1c92c60b20d0
 SHA256: 9a09df5bf2f9a1488eef5e35843c4ddbf83d24af3d25d50c57cddc6bc2e4e3b1
 SHA512: 9ec19d06bbbba89d5e6221cd465b394cc3f8ec92558fce77de50e430ca86c86bc8f1ffc314b65b93ec7c5bc5b712681651ad713d398dd106aa6142154da9582d
 
-Package: libhyphen-static
+Package: libodfgen-static
 Architecture: arm
-Installed-Size: 48
+Installed-Size: 3316
 Maintainer: @termux
-Version: 2.8.8-1
-Homepage: https://github.com/hunspell/hyphen
-Depends: libhyphen (= 2.8.8-1)
-Description: Static libraries for libhyphen
-Filename: ../../../../releases/download/arm-libh/libhyphen-static_2.8.8-1_arm.deb
-Size: 7524
-MD5Sum: f32b25e89a2f026c8bab6590d06ef1bd
-SHA1: 833f71ce29102509f845e40d2d276f495ad48959
-SHA256: fccb5929339b3fafb788824dab5e298f83d9229bcee87bf4a71599b546b77bbd
-SHA512: 92b324d860cbd2a4ff16568bfa35fd34ceba8fa56098334d0a5ed81100bbaa6d47c984d17aa39fe86e41eb3578bd02002daea569c604ba1d3626d3e7f1787851
+Version: 0.1.8-4
+Homepage: https://sourceforge.net/p/libwpd/wiki/libodfgen/
+Depends: libodfgen (= 0.1.8-4)
+Description: Static libraries for libodfgen
+Filename: ../../../../releases/download/arm-libo/libodfgen-static_0.1.8-4_arm.deb
+Size: 380972
+MD5Sum: 9118e7898fa492ddd21e24ec37fc7a28
+SHA1: 396b2f9fa90ca210c4987b0bb1534bed97d8f3d6
+SHA256: aeb14dc34ffccaa59f94fc8dea6ab012c43189af911e022487b1dbefa21c72a0
+SHA512: 06e23099fd6b15cd3579275c7045e1247071e4e533f5b7da43261c70cbe792317cddd5a37cc0a0e624ad37052532f4c9ef700cb51a8806ebc8cb0e7988083260
 
-Package: libhyphen
+Package: libodfgen
 Architecture: arm
-Installed-Size: 184
+Installed-Size: 584
 Maintainer: @termux
-Version: 2.8.8-1
-Homepage: https://github.com/hunspell/hyphen
-Description: hyphenation library to use converted TeX hyphenation patterns
-Filename: ../../../../releases/download/arm-libh/libhyphen_2.8.8-1_arm.deb
-Size: 48624
-MD5Sum: e8a31f488e3df40d3f83084a7cd86830
-SHA1: d702c77e91caa7146cab29e0425b38f3afccf9a7
-SHA256: 4aea11a3bf2e1e81fb2c1f47796f0351940c65007fc0e906d35cc046f062ce38
-SHA512: 9cd854177f4d41e601cc1f7b5a026524a222a1ffaf108e20904f5f3e49717b6622b6e3a89688d146575f36295dc4c4666f71ea43c8cbba1fd3b215965e27dfba
+Version: 0.1.8-4
+Homepage: https://sourceforge.net/p/libwpd/wiki/libodfgen/
+Depends: libxml2, librevenge, liblangtag, zlib
+Description: Library for generating documents in Open Document Format
+Filename: ../../../../releases/download/arm-libo/libodfgen_0.1.8-4_arm.deb
+Size: 170900
+MD5Sum: e90add3bd748225600260b40630fb7ea
+SHA1: afcb9d6a394163bcaa14c32ffdebd9ba62606ea1
+SHA256: e42190dffa80134c4b32c7d04ff44dcb11aafc1b06b6a18fd31f7b546d040597
+SHA512: 94cfe242e5aa00915a0c890d8ca133225ab637f1c3373b5bbe4e5d239a0bdb9841a42f7a407625c6d1a1a91ab8134ef43869dbbfd2084865189f14e58ecee604
+
+Package: liborcus-static
+Architecture: arm
+Installed-Size: 5592
+Maintainer: @termux
+Version: 0.21.0-2
+Homepage: https://gitlab.com/orcus/orcus/
+Depends: liborcus (= 0.21.0-2)
+Description: Static libraries for liborcus
+Filename: ../../../../releases/download/arm-libo/liborcus-static_0.21.0-2_arm.deb
+Size: 873132
+MD5Sum: ea967c00165aabe248f857b35a62c609
+SHA1: 3f6d5b2595dd02730f0cd987f2ceae63b12caece
+SHA256: 254400a06949790dc369bdf65341f227bcfc8f6dd33d8c919c99bf3db682dab4
+SHA512: 8ad0a3bedbeac944c951d82cdbaf8a6067a9ae83ef8d02cf11421f3322c8f16f2df97ef5ef127891dd905145706c0bbeca7c850058df4e503501051fa73db30c
+
+Package: liborcus
+Architecture: arm
+Installed-Size: 2684
+Maintainer: @termux
+Version: 0.21.0-2
+Homepage: https://gitlab.com/orcus/orcus/
+Depends: boost, libc++, libixion, zlib
+Description: File import filter library for spreadsheet documents.
+Filename: ../../../../releases/download/arm-libo/liborcus_0.21.0-2_arm.deb
+Size: 673176
+MD5Sum: 24b9b1e487c139102cb507cfe5e45cb6
+SHA1: 981be94ee44fdb50a21ddab32c0cf06cabfe94cb
+SHA256: d9b31d98a83e5cb9d6f8cf0f362225c2eda451a31603bd487830bdd06702b4ef
+SHA512: e6536654031caedb2d5fe7a00ca2264109c84c090281c62f6016fd845c874aaede5c3d23ca979a0067b6bf94bd33b607f21984d4a6d160fde96549dd4f047fc0
 

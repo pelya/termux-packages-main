@@ -35627,6 +35627,35 @@ SHA1: 4fc4579f4a5e48be9421734cc3bcbd6fc6c13e08
 SHA256: e496161281eff75e0434504c549723b515f5aba88c648c37764bc1b046eeb259
 SHA512: b3a551d3f96991e4aca0ab480124968a3daec5487d001c3186fd6b0bf6f0afa810d9558c9a501c9a8a02bf904f8c4ebb5bb73508ea1ee26c3ebcda80e2ed6c9c
 
+Package: libhyphen-static
+Architecture: aarch64
+Installed-Size: 52
+Maintainer: @termux
+Version: 2.8.8-1
+Homepage: https://github.com/hunspell/hyphen
+Depends: libhyphen (= 2.8.8-1)
+Description: Static libraries for libhyphen
+Filename: ../../../../releases/download/aarch64-libh/libhyphen-static_2.8.8-1_aarch64.deb
+Size: 8440
+MD5Sum: df5f62432bc21c512078b88149028f6d
+SHA1: 7d1ae962c7b5e1f301fa63ca61b3334782b4c0cd
+SHA256: 9a9cc30e5111c4b3e84f694b00f037712823cc743cbe765640fb69c4dc27b77e
+SHA512: 31ba45da7770c0b1351444ad8b0abb719ad36a9f9de71392a85422cf6ceb32cd1c802e329dd14ffed5c61f653d481cdfd2315be5cc42b69123ca1b929020e314
+
+Package: libhyphen
+Architecture: aarch64
+Installed-Size: 192
+Maintainer: @termux
+Version: 2.8.8-1
+Homepage: https://github.com/hunspell/hyphen
+Description: hyphenation library to use converted TeX hyphenation patterns
+Filename: ../../../../releases/download/aarch64-libh/libhyphen_2.8.8-1_aarch64.deb
+Size: 49488
+MD5Sum: 2d398919ba837541966565b93d8428f8
+SHA1: b5bae151ea0b31c7b5f89d369dd40f236f07dfc5
+SHA256: 4327f0835489cc50e4ea3275a6d852d65a11c242e6a1548e85c982184404c191
+SHA512: 183c668e8d35fb886c6809f0237c0979e4b0c3d1fb2528f620b61a4bb7e3914e7d9d64599195b66fbef2754aa21699b6bf30d8089d8f55ff72b4ec792bd02550
+
 Package: libetonyek-static
 Architecture: aarch64
 Installed-Size: 21052
@@ -35657,32 +35686,63 @@ SHA1: 5e4c4daab980b112cb103345ddc4b99e7ec275f2
 SHA256: 9b37c123a94923576ff30fd6663f4d01f0e12eff62a7bf198a249eb412c40aed
 SHA512: ee3d62d9475b5ea5c5f568b41a4b22b7191a4a5cea479a313aec902a012ecf13be016b9deb17b5103c8e9a218fe7299d583bbd7a6cfd0abdbc8e262b9f141f48
 
-Package: libhyphen-static
+Package: libodfgen-static
 Architecture: aarch64
-Installed-Size: 52
+Installed-Size: 3424
 Maintainer: @termux
-Version: 2.8.8-1
-Homepage: https://github.com/hunspell/hyphen
-Depends: libhyphen (= 2.8.8-1)
-Description: Static libraries for libhyphen
-Filename: ../../../../releases/download/aarch64-libh/libhyphen-static_2.8.8-1_aarch64.deb
-Size: 8440
-MD5Sum: df5f62432bc21c512078b88149028f6d
-SHA1: 7d1ae962c7b5e1f301fa63ca61b3334782b4c0cd
-SHA256: 9a9cc30e5111c4b3e84f694b00f037712823cc743cbe765640fb69c4dc27b77e
-SHA512: 31ba45da7770c0b1351444ad8b0abb719ad36a9f9de71392a85422cf6ceb32cd1c802e329dd14ffed5c61f653d481cdfd2315be5cc42b69123ca1b929020e314
+Version: 0.1.8-4
+Homepage: https://sourceforge.net/p/libwpd/wiki/libodfgen/
+Depends: libodfgen (= 0.1.8-4)
+Description: Static libraries for libodfgen
+Filename: ../../../../releases/download/aarch64-libo/libodfgen-static_0.1.8-4_aarch64.deb
+Size: 346864
+MD5Sum: cf0e25eb622f8c8c0f352dd27f122ab3
+SHA1: 83757427f0d4777fa264a1fc602878cddc60e123
+SHA256: 1684e77dc6527a1d76a05becb4b26977cdbdd4ac88f42b0932eca817394d10e8
+SHA512: 4d727000cb0fea45f4d59d573c0cd72875668361b757d0e656a2aecd5b20974bb5ea3aa0fe6ea7d4cfd8d53e1e01e9efc289a0ea835d91b855089f6ae30a0ccf
 
-Package: libhyphen
+Package: libodfgen
 Architecture: aarch64
-Installed-Size: 192
+Installed-Size: 824
 Maintainer: @termux
-Version: 2.8.8-1
-Homepage: https://github.com/hunspell/hyphen
-Description: hyphenation library to use converted TeX hyphenation patterns
-Filename: ../../../../releases/download/aarch64-libh/libhyphen_2.8.8-1_aarch64.deb
-Size: 49488
-MD5Sum: 2d398919ba837541966565b93d8428f8
-SHA1: b5bae151ea0b31c7b5f89d369dd40f236f07dfc5
-SHA256: 4327f0835489cc50e4ea3275a6d852d65a11c242e6a1548e85c982184404c191
-SHA512: 183c668e8d35fb886c6809f0237c0979e4b0c3d1fb2528f620b61a4bb7e3914e7d9d64599195b66fbef2754aa21699b6bf30d8089d8f55ff72b4ec792bd02550
+Version: 0.1.8-4
+Homepage: https://sourceforge.net/p/libwpd/wiki/libodfgen/
+Depends: libxml2, librevenge, liblangtag, zlib
+Description: Library for generating documents in Open Document Format
+Filename: ../../../../releases/download/aarch64-libo/libodfgen_0.1.8-4_aarch64.deb
+Size: 197436
+MD5Sum: ea339a4e3bdf6058ea7cc3ec2a9fdb19
+SHA1: 4110637bf0b14e62c428a0a5102ec3c51b630117
+SHA256: 929839754ef1eea55203b37784cc76175db9bcef1c3406524342cdfe404a1e50
+SHA512: 7aad63338c4e9b977136765fcfae03574e4aefed01da01a4d397c0b8bc32c6b4de76fe0b1826041813477f3b68ed018d1546c865961013d31efeb76ff47e41da
+
+Package: liborcus-static
+Architecture: aarch64
+Installed-Size: 7020
+Maintainer: @termux
+Version: 0.21.0-2
+Homepage: https://gitlab.com/orcus/orcus/
+Depends: liborcus (= 0.21.0-2)
+Description: Static libraries for liborcus
+Filename: ../../../../releases/download/aarch64-libo/liborcus-static_0.21.0-2_aarch64.deb
+Size: 831680
+MD5Sum: 9049c22c41005589e3ebb3a1d80927fd
+SHA1: 51fdf1ee49e6cd451ac14de3af64b8dfa6efae61
+SHA256: 34c037d221e32ee6ce59e781ea777b090bf322c6163132288ccaa8fa4b367081
+SHA512: deae6e30ad1c6dea7666606357b61d91fe4961e792728690b0b86e77372da001fef8ec2d0ef3c96f013583a7950350ee291067c060634584cb897801b03f4661
+
+Package: liborcus
+Architecture: aarch64
+Installed-Size: 4184
+Maintainer: @termux
+Version: 0.21.0-2
+Homepage: https://gitlab.com/orcus/orcus/
+Depends: boost, libc++, libixion, zlib
+Description: File import filter library for spreadsheet documents.
+Filename: ../../../../releases/download/aarch64-libo/liborcus_0.21.0-2_aarch64.deb
+Size: 730764
+MD5Sum: 23ef1dc7268f8494e2348910b671d9d7
+SHA1: 6b65cab21bf0695013f5376ed267bd5f4cb203ff
+SHA256: 6ae8891664ca4e487f1e8cfd37946d775af2b6f950a31b7cead3cef11672445f
+SHA512: 85a91e5e4afb292face7efc289897ef337e220a0b8062a4f25126e2dbb05fe9936c7b1fe894eee5cbd7d29f0c6b510851d9b71fd34ba4e7a3e99f771ed769a48
 
