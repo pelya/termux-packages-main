@@ -35666,3 +35666,32 @@ SHA1: 50b1e18bd32b511a3334e0e2e67700664c897f56
 SHA256: f37b66ae82079188e34dd48e7a9c5f373fdc2d0560c7dc448e7321cac73601d4
 SHA512: c96ffbb7b8b0372dd453ca5b9b263f578d05d8a665dff390b07dc5cc38c02be6f2fdaec53d9aa46fa56516e9e8ba28716677b021aa73fcb1235deb83d17d6b02
 
+Package: goresym
+Architecture: arm
+Installed-Size: 3916
+Maintainer: @termux
+Version: 3.4
+Homepage: https://github.com/mandiant/GoReSym
+Description: Go symbol recovery tool
+Filename: ../../../../releases/download/arm-g/goresym_3.4_arm.deb
+Size: 1083220
+MD5Sum: 0a62b0e660f829da104c9a461f9b8aa1
+SHA1: cbc314c104ce6525d5414e855b5ca11e78ad45df
+SHA256: 6e63bfe98cb3a5ce30401be8fa1cec98e5b5d4ed88d0cea588cba11776f078fb
+SHA512: 6c810764700fd933248567a2adcdd96a1b1ff44450155ca56d8749674eb9e1f30d1e3b8ae0ef554d5d52c63370812b079d7a3e8cab5d17d129052b5d66dac205
+
+Package: odt2txt
+Architecture: arm
+Installed-Size: 72
+Maintainer: @termux
+Version: 0.5-5
+Homepage: https://github.com/dstosberg/odt2txt
+Depends: libiconv, libzip, zlib
+Description: Simple converter from OpenDocument Text to plain text
+Filename: ../../../../releases/download/arm-o/odt2txt_0.5-5_arm.deb
+Size: 8752
+MD5Sum: a000b1be645afab5a4383d4c305be0bb
+SHA1: 176d77ab82b04aaafd9de2251346e350a409a9c0
+SHA256: 6c51425f9faed731b0b79a5223be91878bd69ec40d4b5cca5257edfd05b2aba1
+SHA512: 5f14f8c9742a96d6b1d65847f4086f73743bacaaff87e922e3d0521a2fae6eea81581972d429ca5c9a0ec7422d70277313e20c4ae1559c895096b2f692455a57
+

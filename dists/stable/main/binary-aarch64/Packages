@@ -37163,3 +37163,32 @@ SHA1: 6e1ff5e022bbe09bb4821709efba59cc662ea049
 SHA256: c8c5f2115f087392618339682c9a37f7a5563615300c0589d54c58b25db117df
 SHA512: f4d79e7c3e6352bc7a5083125ed15c0e76d04dcaaf496d496688e5532001faba34b18533ef9b8635e01dba4885f7f80c625954d9c11a2853b8f300b12fe59dae
 
+Package: goresym
+Architecture: aarch64
+Installed-Size: 4096
+Maintainer: @termux
+Version: 3.4
+Homepage: https://github.com/mandiant/GoReSym
+Description: Go symbol recovery tool
+Filename: ../../../../releases/download/aarch64-g/goresym_3.4_aarch64.deb
+Size: 1051192
+MD5Sum: 048db7ee8398124f71902f650a1b9e4c
+SHA1: 81fdb75fa804b35c99b8267f176ff949933fb7ab
+SHA256: 702383d001103e1d07d60c1b019d26b94e5788765bf9243fa35930d6afc77bc6
+SHA512: d4b96824a995fcac13a111f5b7d7f05beef65fb66e3214f4576ac3ef254b6d4c05448bcea5e677f2f25e99ebd25a96f44c4dfcb5227503cf4be703ed08feebf7
+
+Package: odt2txt
+Architecture: aarch64
+Installed-Size: 76
+Maintainer: @termux
+Version: 0.5-5
+Homepage: https://github.com/dstosberg/odt2txt
+Depends: libiconv, libzip, zlib
+Description: Simple converter from OpenDocument Text to plain text
+Filename: ../../../../releases/download/aarch64-o/odt2txt_0.5-5_aarch64.deb
+Size: 9532
+MD5Sum: 8ec7ef3f75a799bc2f5b2b6436603391
+SHA1: 82df56eadf4322bc36ee9478d98b72ec561de18f
+SHA256: c13e396ac02c01d2dc95bef7eebb806ab47994b8b73a770e5009ad2e2a512447
+SHA512: 513cdc403a138d75ff74c9c304f817b7789ae79441951d4dd03a064d9adc5cd1fe5291406e7f11e4f672efaf246417a3801f77a8fda3767bee3944cbdff4fd2f
+
