@@ -34236,3 +34236,32 @@ SHA1: fcf52fca87179c7d925b0b7662bac3c08a38eb30
 SHA256: 660fa55bc44c7fac28e92e26c8136abfb46f2790ee5b8920d407c3955c459fbf
 SHA512: 1d3ea003a0a5ac753883bf2b27c178dc75075141e37207f5ab590129481512287b341664d8710fe4642e61edb2d56e101e1cfdb298ae3a71ec53aa5c72e089e5
 
+Package: catch2-static
+Architecture: x86_64
+Installed-Size: 2504
+Maintainer: @termux
+Version: 3.15.3
+Homepage: https://github.com/catchorg/catch2
+Depends: catch2 (= 3.15.3)
+Description: Static libraries for catch2
+Filename: ../../../../releases/download/x86_64-c/catch2-static_3.15.3_x86_64.deb
+Size: 339768
+MD5Sum: 05d52a13f0bc5b28d11ddd1e6ffd7e2f
+SHA1: 39a1e2f3f86c4ea7349b0fb72f75d50e0f9e6ac0
+SHA256: b126e11a87c49b5a3ed7d410d3d654cfca56f72964d3bfb747c6b858935d5e92
+SHA512: eaf9960912de5ad42ee2667ba3075b299534a5cebcd98a1c715d89e154721cb0bc48a6aa874351fab0d461fe1ce2909ae3a65cd89688e9189f143fbc779a6f8a
+
+Package: catch2
+Architecture: x86_64
+Installed-Size: 1676
+Maintainer: @termux
+Version: 3.15.3
+Homepage: https://github.com/catchorg/catch2
+Description: A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
+Filename: ../../../../releases/download/x86_64-c/catch2_3.15.3_x86_64.deb
+Size: 201880
+MD5Sum: 221561c64270246ce52b847375d286d6
+SHA1: 71a9349bb9ed62699d9f1530c480d26c63e47851
+SHA256: 3d6d3ca45eccf911737233c285a0e05871a7676d1acb55623915029c6c04c541
+SHA512: 7355a6215830baa2a209e45c4a304e173aa394e8afae65f5ba3b0fc1399804845852a40e235ff5f5e39e2a66683ec10bb24bc9ac324fdf8d62d3fefc1f1f8ea8
+

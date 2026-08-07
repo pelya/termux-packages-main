@@ -32876,3 +32876,32 @@ SHA1: 798c38bc1d34b7ef0ea43d97d1e7628b4d3ecdb6
 SHA256: 9bf12b6eff279d939fcf5bc51a3fff2abdf59a8c93d55c7612b626b146e12e2f
 SHA512: 8bfe4990be68c843a70432dd3ac40b4c9ab314d82851712505dea1aea507e4be79fa93593bff67228f883fb0c0aa627ba500f4116bfdb20778ebfa75ea8674d2
 
+Package: catch2-static
+Architecture: arm
+Installed-Size: 2092
+Maintainer: @termux
+Version: 3.15.3
+Homepage: https://github.com/catchorg/catch2
+Depends: catch2 (= 3.15.3)
+Description: Static libraries for catch2
+Filename: ../../../../releases/download/arm-c/catch2-static_3.15.3_arm.deb
+Size: 348944
+MD5Sum: ef8b97a8ed202e588abf666fb376a383
+SHA1: a765764de8b477483c3e276dbb9a8db8e56070b1
+SHA256: 6ce19b810282beca6d211c5db99a9e8c2250fcbaa429cf4c885ca75f1527b8b7
+SHA512: ec79d3edecc56ddee3728076b901b576fa4af7e547b026b4c8ebd8dcbf8462b712c59ee5ac315aed42a762996c308815d2290af51e151c77959e07a48652cfc8
+
+Package: catch2
+Architecture: arm
+Installed-Size: 1676
+Maintainer: @termux
+Version: 3.15.3
+Homepage: https://github.com/catchorg/catch2
+Description: A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
+Filename: ../../../../releases/download/arm-c/catch2_3.15.3_arm.deb
+Size: 201868
+MD5Sum: 051c485bad29fab4f1d05a9358951ac2
+SHA1: 9b2a8e118e34f5bcd3b689227ca65bec7113fba6
+SHA256: 6c6ec04b469ffe49c44b1b00f3350f6503329adc5008e3dd2067f66296da2488
+SHA512: 7296305d85fa210ad103bad2b27a7fd51ebabaf939fbd2a60f05261d235cd589742ffea830d18a8dc255fdccf2b5f59484fa4373f63cab96669ed5d5b95ab977
+
