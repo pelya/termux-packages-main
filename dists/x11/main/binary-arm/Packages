@@ -12398,3 +12398,18 @@ SHA1: 5748a31d85dfca7e5a678b474992b10fa7c661b9
 SHA256: f7728ba2fbadb71d6a8be90bc662c5a74be406947902ec2ce918b4ec8f1516a8
 SHA512: 373d583a0c8d30fdd3dc027b123d0fd064060b83119ef3e91a9d1437733c6b622ae934537c9155ae9d32c8410a9a992998bf87fcde02e80f12dd054d9c588480
 
+Package: kpat
+Architecture: arm
+Installed-Size: 5208
+Maintainer: 3ls-it <3ls-it@pm.me>
+Version: 26.04.3
+Homepage: https://invent.kde.org/games/kpat
+Depends: black-hole-solver, freecell-solver, kf6-kcompletion, kf6-kconfig, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-kguiaddons, kf6-ki18n, kf6-kio, kf6-kwidgetsaddons, kf6-kxmlgui, libc++, libkdegames, qt6-qtbase
+Description: KPatience offers a selection of solitaire card games
+Filename: ../../../../releases/download/arm-k/kpat_26.04.3_arm.deb
+Size: 3744144
+MD5Sum: f9969ee215160e3597b931af34e0587d
+SHA1: ecac7ed534542b82b20027e2740f1ae2c1a045cf
+SHA256: af25a0ff4867126b738b00e2adc6d0213bd9761f2c90183138a555b06abc865e
+SHA512: 7d347e26ba9aa8f2ae91e2e5919b15886538594d5dce838b480eed64e6f522f39e71fbbfadd1694f88925d5f975bbf86c89f3334eb38c1081ef3ffe9fd7c282e
+

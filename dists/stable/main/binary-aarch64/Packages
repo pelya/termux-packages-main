@@ -35895,3 +35895,33 @@ SHA1: cf6874abbd1861dcf11a5030b4466e88d5e8ef58
 SHA256: 4b20e11c929099add37d245005e69dd4f2d944d72d4c98ef0a5a5c9494a58e44
 SHA512: e31aab085e06a38533ef606858241c6dbbc20eaf774a68d2653415640cbf4dfd41e480ce77c778ace61889cd338ffb2aca3a91a849c924ee8208b07187fdcd38
 
+Package: stoken-static
+Architecture: aarch64
+Installed-Size: 104
+Maintainer: @termux
+Version: 0.93-3
+Homepage: https://github.com/cernekee/stoken
+Depends: stoken (= 0.93-3)
+Description: Static libraries for stoken
+Filename: ../../../../releases/download/aarch64-s/stoken-static_0.93-3_aarch64.deb
+Size: 21324
+MD5Sum: 76ae4dc592a7e9ad13438b6a7961aafa
+SHA1: 0f3e2740f9909197d347921c6213a9b98b9484ae
+SHA256: be7ef23a2f4b4dc7e140fbbebe22c3c9b4f39077ebc877ccbca195d2fd4c0e42
+SHA512: 63752883ee5cd786b0a440afce4c00b335f6029e42d95576ee9d107e17a586668fe195b647b7d8b66e0dd09455b2191e014515db397f5a579ac71b6ec40a879d
+
+Package: stoken
+Architecture: aarch64
+Installed-Size: 176
+Maintainer: @termux
+Version: 0.93-3
+Homepage: https://github.com/cernekee/stoken
+Depends: libnettle, libxml2
+Description: Software Token for Linux/UNIX
+Filename: ../../../../releases/download/aarch64-s/stoken_0.93-3_aarch64.deb
+Size: 39208
+MD5Sum: 887778d53ae096c6dd85f5391ca208b6
+SHA1: 53f4decd824ac36f0d5ec809f6b40bd6a6021daa
+SHA256: 188329a72f5bee67d5c621e16243b3d08ec7ddf190efb1fd9a422ea92b8833c6
+SHA512: fa16857804b1a79dfe353181c2d1c37caf3cd31e1057c4f97c7ae348a70858156efc7417566f7405b50d3dda3fa8192bcecc40db570830742df0fc5d7ca214d4
+

@@ -35250,21 +35250,6 @@ SHA1: bd1bd02b30f0a4f22938464b53145593b588fdce
 SHA256: 82046444ba3343aae47e317a1aff588034f2d24987ee62867b500b7d8dd1b982
 SHA512: dbf92a3d9e9d2c500c26e8a1590a6e4fb354cedb70ad895e0ace97ab4b007660986694dfde149a14cf3b94a931415edf8920de89e4f0afc8d44a1c9a3a621b95
 
-Package: libc++
-Architecture: x86_64
-Installed-Size: 1348
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
-Size: 359628
-MD5Sum: 701f73a17f86b70a2c1661e4f6a65fca
-SHA1: 3aeec37465e9da2a520f1bd4bf16ec1d955db48e
-SHA256: d7b9644b0eaa934392f2e8d6376ff50b5deb1454f6963d9bc9bf0197f35576be
-SHA512: b8f405ccb541ca654b1bc58d02bcd775bb30607c459b3c04a56363b6fe080928d72679b345f8cb00fea1d542c20999c554ce1238d63e3d3e1a03065b30b37257
-
 Package: libiconv-static
 Architecture: x86_64
 Installed-Size: 1200
@@ -35878,4 +35863,49 @@ MD5Sum: 3c518643cde8edab8f9f357202d4bf96
 SHA1: cf6874abbd1861dcf11a5030b4466e88d5e8ef58
 SHA256: 4b20e11c929099add37d245005e69dd4f2d944d72d4c98ef0a5a5c9494a58e44
 SHA512: e31aab085e06a38533ef606858241c6dbbc20eaf774a68d2653415640cbf4dfd41e480ce77c778ace61889cd338ffb2aca3a91a849c924ee8208b07187fdcd38
+
+Package: libc++
+Architecture: x86_64
+Installed-Size: 1348
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
+Size: 359200
+MD5Sum: 489b540083721fc2b15b14692f4f7404
+SHA1: a1dc691b69e65cc3c3007ae7e8268ca50cb07937
+SHA256: 499ccf0ffd18462ae2e2bb8add0410bf96483badfb7b9f19e5452fd705d41098
+SHA512: d1fca151193f9fa1a55741e16e1db0da93e73503ee39db68f0c0f43d4e7513e94eaf30823e402d885486ab33b7940070f20bad6d96fe062c3d3c3df45903d4ad
+
+Package: stoken-static
+Architecture: x86_64
+Installed-Size: 100
+Maintainer: @termux
+Version: 0.93-3
+Homepage: https://github.com/cernekee/stoken
+Depends: stoken (= 0.93-3)
+Description: Static libraries for stoken
+Filename: ../../../../releases/download/x86_64-s/stoken-static_0.93-3_x86_64.deb
+Size: 20860
+MD5Sum: 458c349f8896e3eb5ef5adf11bdb4b80
+SHA1: d4c6cfd7e37a37fa79687ee09d513b43f875c779
+SHA256: 2711a05cf39d8d163e4ee5265c55f30e631a69fdfebe56b5e9c7de9a85b30fe9
+SHA512: f5ec0067f342c8f3140d04029e3af30fb6413b1872f00f3f4e3489a54587c1642896a281b05de37d1f5e98f5d55b190b8691b79b4f7e948e2c8ea361bd548a0d
+
+Package: stoken
+Architecture: x86_64
+Installed-Size: 176
+Maintainer: @termux
+Version: 0.93-3
+Homepage: https://github.com/cernekee/stoken
+Depends: libnettle, libxml2
+Description: Software Token for Linux/UNIX
+Filename: ../../../../releases/download/x86_64-s/stoken_0.93-3_x86_64.deb
+Size: 39644
+MD5Sum: c9eb8c831377ec011192ef44f98d9016
+SHA1: 9c9471c04b310a9b51d344321ff7727cf7931be2
+SHA256: 82f242ad9059b36391bfd5a46dbb5958b6c3e06321fd4c25fdf6e553bdca446d
+SHA512: 51571bd11c5c64afc8248ca81c19f9729f9394370cb4626e1cc2e3115f4f0088fb67a7a3af09c8a609db4792996a9b58e0196b94946309238ce2ab884f19b114
 
