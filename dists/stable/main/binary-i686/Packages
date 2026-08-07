@@ -36250,3 +36250,33 @@ SHA1: bb578d87696e36a6014542642ba97fbb93f8ef4a
 SHA256: fc4dc6b87239bbb9662dad7c3c2f7ed850921cbd2d7e00121d319a21e8fd00e9
 SHA512: d2cdbc8866892daf8efbb1024bdce797fc49104f92ec83e19d2537557b918209d79e66a2466c20187a92b1b1834d8b2f67cba0904c8554c55b397b508cb28126
 
+Package: dvdauthor
+Architecture: i686
+Installed-Size: 508
+Maintainer: @termux
+Version: 0.7.2-4
+Homepage: https://dvdauthor.sourceforge.net/
+Depends: fontconfig, freetype, fribidi, graphicsmagick, libdvdread, libpng, libxml2
+Description: Generates a DVD-Video movie from a valid MPEG-2 stream
+Filename: ../../../../releases/download/i686-d/dvdauthor_0.7.2-4_i686.deb
+Size: 153132
+MD5Sum: c3a277cf16a1976e7728d1739d76b595
+SHA1: cce6c28346e06cf6cb5f611c9d309a341e29aca9
+SHA256: 1634c74993f29fec2cd8abc736d4e9c7adb013f9669f5fb7736ca0b39da4d95c
+SHA512: 99cd385303dc87e9dd289278d99495571dab1a742f38fca6691cb9fd961b57e7cbf1792d2ac93655e1ef5a1c8883a9eb91c52c808e01c6a08e9e4621763d11f3
+
+Package: findomain
+Architecture: i686
+Installed-Size: 13284
+Maintainer: @termux
+Version: 10.0.1-1
+Homepage: https://findomain.app/
+Depends: resolv-conf, openssl
+Description: Findomain is the fastest subdomain enumerator and the only one written in Rust
+Filename: ../../../../releases/download/i686-f/findomain_10.0.1-1_i686.deb
+Size: 4188096
+MD5Sum: b8df26f470d3294a6f73d44de10187fa
+SHA1: a22c4ca301b160131f206590881a8a8bb9e8d2d8
+SHA256: 5361a8a558d617a12e203f4ddd0bae9abbb8a1192e93798c61c5b20ff94a01bb
+SHA512: e94bb8a85a155762c858acb90756ec6ebf0b388bdec945060172f0259d94f77816c4de48ea36cd4057c0b9cec56b68d35e06aae8345a2967c728c6486d02be08
+
