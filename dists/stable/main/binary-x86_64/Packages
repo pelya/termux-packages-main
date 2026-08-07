@@ -35760,3 +35760,35 @@ SHA1: f0658fe693b5b37afdd28ad24a6309061a2f1f2f
 SHA256: 4a2c0381fa348d465223a7288c12a0ff79ef97d214234bf6a7de4f754b98c2cf
 SHA512: a9e9c32969cbfa6ed9f067879dc8d48f26ffe583f84ecaa03b59bd19c59ec7c1f5fa76be0d28dd5b545d9679581ee1a51a41d3c2413a4105b01c4e91aea6bedc
 
+Package: libcroco-static
+Architecture: x86_64
+Installed-Size: 488
+Maintainer: @termux
+Version: 0.6.13-10
+Homepage: https://gitlab.gnome.org/Archive/libcroco
+Depends: libcroco (= 0.6.13-10)
+Description: Static libraries for libcroco
+Filename: ../../../../releases/download/x86_64-libc/libcroco-static_0.6.13-10_x86_64.deb
+Size: 81096
+MD5Sum: 4a7be52adb933b4d31dd4964acdfa24d
+SHA1: 0bcd1f0055e805fce722f0d9ba1adf8b346f058a
+SHA256: 004c3574a8de69860a834a8b7635c4df81a2a3dc79bc8c83d696bf524d8fef03
+SHA512: 18293248d0e8af8054605f1e65a6e130cb2c2f92825de76c1a1aac159b3caa18a0c1879505221e5aa12a2dcd072aa44176a9d233abdf66d07e6491ea02313dc4
+
+Package: libcroco
+Architecture: x86_64
+Installed-Size: 472
+Maintainer: @termux
+Version: 0.6.13-10
+Homepage: https://gitlab.gnome.org/Archive/libcroco
+Breaks: libcroco-dev
+Depends: glib,liblzma,libxml2
+Replaces: libcroco-dev
+Description: CSS parsing and manipulation library
+Filename: ../../../../releases/download/x86_64-libc/libcroco_0.6.13-10_x86_64.deb
+Size: 92380
+MD5Sum: 92d9b66309052528c05de97782365eb3
+SHA1: 36e1e440512cd42c9f694c5731ef55f12ee56455
+SHA256: 59bd7a6a76018d06aaf3a731ba78e8a1ac7f3944032dcd2249413095eabda82e
+SHA512: e0913b1e897d1a19f3a9adcf27d1ab22c793165098ff70ed18c14bb24b3d5e43696fcccd36ce7920d8cd0ca1577ca5240d1649306d2777db9782b71f149cf236
+

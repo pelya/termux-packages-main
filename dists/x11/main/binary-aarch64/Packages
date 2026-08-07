@@ -12538,3 +12538,75 @@ SHA1: 2ad0960b60d6cfffe097b0c7c795afa962e2b4ea
 SHA256: fbdb5d4009335b92f0f36b4bcfa9bb236adcc3aaa6b53a57e125c133f4f23865
 SHA512: 6c9207a070806e0f36aaf8d583deaf5884fb3ef13e872110156970978d30b22f9369d46c3ae095c062603226e4230db38c7a7ac2a57df3c7aa05b91cd71e3ded
 
+Package: hangover-libarm64ecfex
+Architecture: aarch64
+Installed-Size: 4656
+Maintainer: @termux
+Version: 11.9
+Homepage: https://github.com/AndreRH/hangover
+Description: FEX based x86-64 emulator library for Hangover
+Filename: ../../../../releases/download/aarch64-h/hangover-libarm64ecfex_11.9_aarch64.deb
+Size: 724644
+MD5Sum: 05d7eae96dd08b97773afa523b6b9c49
+SHA1: 7afe184c8626f7a755df9421e119692de2b3f5fb
+SHA256: a480c0b056f26d4acbdce9793f015950554af3ce57d8af6cef69bb288e5c0068
+SHA512: 789cf8079105635e432ea90eecb2044106dad2460c97b4ae5ea8babd49e0ad0e3e95b36f39044c7eecaac782b0d617f7b41e2253778bedaa6bdcb20aeada99b0
+
+Package: hangover-libwow64fex
+Architecture: aarch64
+Installed-Size: 4140
+Maintainer: @termux
+Version: 11.9
+Homepage: https://github.com/AndreRH/hangover
+Description: FEX based x86 emulator library for Hangover
+Filename: ../../../../releases/download/aarch64-h/hangover-libwow64fex_11.9_aarch64.deb
+Size: 646672
+MD5Sum: f0a5c14437603e54a219df9b44a2770e
+SHA1: 85bbda1e1f7442a8904746b9eacf19e9bb9c61a7
+SHA256: cf47c35362bc10db317f107e6bc6f694d81e4a114b7353896926c1be798bb97a
+SHA512: 06f6796160a5d578b447a65b54b1e2f86f83f41b040b72198880598f098f36af023d6800976f5a72de9c38c9be3579509ac3732d9b5ee86659dfc9b21395ed45
+
+Package: hangover-wine
+Architecture: aarch64
+Installed-Size: 2337844
+Maintainer: @termux
+Version: 11.9
+Homepage: https://github.com/AndreRH/hangover
+Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2, vulkan-loader, xorg-xrandr
+Description: A compatibility layer for running Windows programs (Hangover fork)
+Filename: ../../../../releases/download/aarch64-h/hangover-wine_11.9_aarch64.deb
+Size: 246186532
+MD5Sum: d0e6fd4bf6181eed7371d4a56b1a7231
+SHA1: d2d0c426c72d0fd2387598132737e1a58b0404fb
+SHA256: ad0bec8b3179d0817a07283b0a5c7319fadd6b4ee293fa635262b7f5c801d087
+SHA512: 6262c4fd976928cab4775d21f2b3d769bc50c043e4d27f4e3b9107efd7d83edd2741e2665de5c5b528bbdac0efde4b164c8cd159f0df8a29b58a0ae35399da28
+
+Package: hangover-wowbox64
+Architecture: aarch64
+Installed-Size: 4596
+Maintainer: @termux
+Version: 11.9
+Homepage: https://github.com/AndreRH/hangover
+Description: Box64 based x86-64 emulator library for Hangover
+Filename: ../../../../releases/download/aarch64-h/hangover-wowbox64_11.9_aarch64.deb
+Size: 899380
+MD5Sum: c0f75cc6e720c410a2321570d7e7322e
+SHA1: 340b6674cdfe499e2964970dc760dca6e26f574b
+SHA256: 4854ff5891a5eb3fe0fe8682b4e0ac0d78ae93617a08f30c55883d0835d1161c
+SHA512: 30b36d22e895a6d5185eccc34a171dc0f5b2bb2ccbca27f3bdd01fe2ef76bc9576a8c0d6046885e892eeafc6afc6b08d68ba42f5b908ef73d4135edd2b358f49
+
+Package: hangover
+Architecture: aarch64
+Installed-Size: 64
+Maintainer: @termux
+Version: 11.9
+Homepage: https://github.com/AndreRH/hangover
+Depends: hangover-libwow64fex, hangover-libarm64ecfex, hangover-wowbox64, hangover-wine (= 11.9)
+Description: Hangover runs simple Win64 and Win32 applications on arm64 Linux
+Filename: ../../../../releases/download/aarch64-h/hangover_11.9_aarch64.deb
+Size: 9700
+MD5Sum: 5c471f311c4596af10476408cde961e3
+SHA1: ede965fc992367f1d0197759802d172625f50e90
+SHA256: b2767b907f644b1743efccde18e976f0e163b4edd2f9ff0924ddee9c20f8895b
+SHA512: 1ce8f96d4b7dfc22752c5931ba926f9ab170873b9b6522ad3940b88a2fded95b8adde725f66247646707b111c60f7273a23938a7d0133021aa772e9e0e9cd9c2
+
