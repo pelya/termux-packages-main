@@ -5411,21 +5411,6 @@ SHA1: 1a743862e52f64c48cd8bad45bf7a0577dda9068
 SHA256: aaf4b159773f8c7b48402be40bf850a55f47395a8800b8d6787cb1a6a84cff19
 SHA512: f48b8e96727cbaad82e75b98ac560a5e4e5a5d6ff36546dd39c893d00696c41806c54aa69ad5dc189fdab4f6e3632bb2143ef9ad21bd5ff18343cccbbccbce8d
 
-Package: flac
-Architecture: x86_64
-Installed-Size: 336
-Maintainer: @termux
-Version: 1.5.0-1
-Homepage: https://xiph.org/flac/
-Depends: libflac (= 1.5.0-1)
-Description: FLAC (Free Lossless Audio Codec) command-line tool
-Filename: ../../../../releases/download/x86_64-f/flac_1.5.0-1_x86_64.deb
-Size: 110708
-MD5Sum: a332bbba70fe814078d6cf843214dd2a
-SHA1: ceb0dd0876083a826b24b39359938d881d3e3f91
-SHA256: 022bcb19a4236378147ae509f27ad68467e83d8a29973d11d916a9555f7e2487
-SHA512: aba5f83e6abbad0943fd859afd6af40b96e28dd147409df30a8cbdb807d82379bb579144ecb4399407a489dde5cc0e46329474b942de6011a5035b4250656332
-
 Package: flang
 Architecture: x86_64
 Installed-Size: 931116
@@ -12629,38 +12614,6 @@ SHA1: bfe894a8c6ed2fb66a222c5cf2d0e906a78545c9
 SHA256: 7303601caea66451f767b00f82db6266e5f0b19ad4ee58ee601cdb169cbc348e
 SHA512: 63a2ba9dee33e3746c64fcaa2623f39342b4b9c2b74515da8b2d9b93c53a47fbebb834ab7a4a5ec5a2f08cfd1b7e587893cb4f268cd84c6d73e72d4aeecf2398
 
-Package: libflac-static
-Architecture: x86_64
-Installed-Size: 564
-Maintainer: @termux
-Version: 1.5.0-1
-Homepage: https://xiph.org/flac/
-Depends: libflac (= 1.5.0-1)
-Description: Static libraries for libflac
-Filename: ../../../../releases/download/x86_64-libf/libflac-static_1.5.0-1_x86_64.deb
-Size: 116024
-MD5Sum: c7319c8dbc6934b329f5a2b3f2f92e96
-SHA1: f577f8c5652259d83f215390b5f557ebcd9f60be
-SHA256: dd2644b868e9f144b1642d51d5e170c2d85e5ce615cd0e970e5237ce42f9bed7
-SHA512: 2addf871161518d80aa50fae6550142feba3aaf4168a8065e3f93a31fff37188b970ec226be1f97c1333ac97f498efb4de044b46a2260cedb2f524800511a837
-
-Package: libflac
-Architecture: x86_64
-Installed-Size: 1056
-Maintainer: @termux
-Version: 1.5.0-1
-Homepage: https://xiph.org/flac/
-Breaks: libflac-dev
-Depends: libc++, libogg
-Replaces: libflac-dev
-Description: FLAC (Free Lossless Audio Codec) library
-Filename: ../../../../releases/download/x86_64-libf/libflac_1.5.0-1_x86_64.deb
-Size: 212692
-MD5Sum: d2b8c67ba67add30c2987108aa3860a6
-SHA1: f48dcc157064b488541d1943909d5e74747b77e7
-SHA256: 68ab9b87da6032bc42939456ba5712d1054c3694ecaa15b7f347527ea52e81ef
-SHA512: d15475ac2241c8333bc40716e7533ce4cab0c79e30a43d59bd836cb4240f3c510c381abd2df09aa4273feece5ec6c57148dd213fb9536f366d2f8e4df9da4ed7
-
 Package: libflann
 Architecture: x86_64
 Installed-Size: 8076
@@ -13496,23 +13449,6 @@ MD5Sum: bb6cff03359104f7603b4472aa595d0a
 SHA1: 35d9f15e7c23f8bd9fff258b460896b8545f1c7a
 SHA256: ddaed19a739bd88df918a37690a5ec2e6447994a60bbfbee1a990680ea03ce53
 SHA512: 958d625020f8577a5f66bbe4918040bf099d9ae12a058605a050b335ca5822902847ba6fc18293787524e26fe7bfa4412b758ed9f7690775e667ba451d834721
-
-Package: libid3tag
-Architecture: x86_64
-Installed-Size: 180
-Maintainer: @termux
-Version: 0.16.4
-Homepage: http://www.underbit.com/products/mad/
-Breaks: libid3tag-dev
-Depends: zlib
-Replaces: libid3tag-dev
-Description: MAD ID3 tag manipulation library
-Filename: ../../../../releases/download/x86_64-libi/libid3tag_0.16.4_x86_64.deb
-Size: 31988
-MD5Sum: 5accaa1badd15eb0e97662b6862aff9c
-SHA1: 83b44ebff6bbcc5ef3fb5758b7ce0eb87969388e
-SHA256: 5821c0692ed66df4818543096ecc7808a794408f1247d0a74c40f81ea2ec317c
-SHA512: 4fdc4f78e5788ac74f142f7d6aba5b8f4151a24b777200675ccfc5bac6f07e5a4a449acc64efae214bab0b92533550a019b05bf6d46b384e15066c30529feec0
 
 Package: libidn-static
 Architecture: x86_64
@@ -15559,37 +15495,6 @@ MD5Sum: 4214fff84ec30861925d3b9868a94a50
 SHA1: 820729a3fb74018515d1a0e39b5d0ef599fa4413
 SHA256: 897fa4bf3fb2e9740d6fe4cbcc4cd77367ff3a17985ec9fcd3be3b531f142e35
 SHA512: c14185cb8d82ff282e50bb44de2deb62460d137697e37a2f65dce8f8e7c679c2b3bf1a574641ebca82a28d078f63e43c961db0805b5c2f7a746fea1d226f041d
-
-Package: libogg-static
-Architecture: x86_64
-Installed-Size: 60
-Maintainer: @termux
-Version: 1.3.6-1
-Homepage: https://xiph.org/ogg/
-Depends: libogg (= 1.3.6-1)
-Description: Static libraries for libogg
-Filename: ../../../../releases/download/x86_64-libo/libogg-static_1.3.6-1_x86_64.deb
-Size: 16552
-MD5Sum: 4e38c31ffd13a4b04e94957687035c4e
-SHA1: 42af198cc3482d25ea439f3d6cd84085c07d7db8
-SHA256: 5cf7c6be1a7e9396840db3bfa88f6357c780b55234d84875b27a52ace4716070
-SHA512: 712a2be5bbc5aa56a1d8f6c19c27c4fe9d4655d6136a0b3b140783e7e50e047378de07b0ec99ad8d2376be0b5589e43bb1e2c6cfdf7961592b352803d1536d4d
-
-Package: libogg
-Architecture: x86_64
-Installed-Size: 684
-Maintainer: @termux
-Version: 1.3.6-1
-Homepage: https://xiph.org/ogg/
-Breaks: libogg-dev
-Replaces: libogg-dev
-Description: Library for working with the Ogg multimedia container format
-Filename: ../../../../releases/download/x86_64-libo/libogg_1.3.6-1_x86_64.deb
-Size: 188800
-MD5Sum: 282b46401a6132dd6a5f0260b5a63a26
-SHA1: 7c74451dd03751fe5c0d6b537816e4426e8ca41c
-SHA256: 8ae00ac4fc84c41d5e1fa063667bc20948a6ec3804a264af6f6ddb23dc72238d
-SHA512: 61a1645d055fd438650efb87e6d88f754e8a2f8ca8e72edf264a9738a9e158cb6144fa401bb1f5220cdaf87728a07d651af98366c7d727013d0ff7b317f9983d
 
 Package: liboggz
 Architecture: x86_64
@@ -34026,37 +33931,6 @@ SHA1: 384f6d18b1d5044b52f603613b239af324ca7021
 SHA256: eafc68eaba548461decfff71a5d27fe157df6cb120dd849e2cf3d0ae81043592
 SHA512: 32990f7591707c74eb42989c0fc94da4cb32392617e00a5187a7f978960da3f35ef5fb2ab0e964f2ff9f0ab817ee7c91af1d1794ed960f54f29038e4f3e960d6
 
-Package: zlib-static
-Architecture: x86_64
-Installed-Size: 144
-Maintainer: @termux
-Version: 1.3.2
-Homepage: https://www.zlib.net/
-Depends: zlib (= 1.3.2)
-Description: Static libraries for zlib
-Filename: ../../../../releases/download/x86_64-z/zlib-static_1.3.2_x86_64.deb
-Size: 44680
-MD5Sum: da5925e0d831b02bcc17ae6ee4521ace
-SHA1: 22372b0b89d4ab63fcbc03af9c5ad208bbe59fb2
-SHA256: 9663441024df52895d0d340a96b473e70c6449c40b379ace5900851b82a94aed
-SHA512: 598dc429951c6cf7e52bbb086d3bab3e43503a113228d87df1ed35298e6a9f224f8ce06dff099c45f80b46893b251de23a7ff4052a493a8bbf968a2c6dd8e257
-
-Package: zlib
-Architecture: x86_64
-Installed-Size: 272
-Maintainer: @termux
-Version: 1.3.2
-Homepage: https://www.zlib.net/
-Breaks: ndk-sysroot (<< 19b-3), zlib-dev
-Replaces: ndk-sysroot (<< 19b-3), zlib-dev
-Description: Compression library implementing the deflate compression method found in gzip and PKZIP
-Filename: ../../../../releases/download/x86_64-z/zlib_1.3.2_x86_64.deb
-Size: 73292
-MD5Sum: 9a4b427a3b1500e9becc5d568052dd0d
-SHA1: f9bbf34f05b21a94a0b009e6c6083e78b79c3647
-SHA256: a3e011c52302b31b965763c62389ce40d37c1be9f9affd84cab36886a7503b79
-SHA512: cd2e7e3a25861db317487d81f44b05f4eddbed95624dbd3d2ef69b3426dbac071ac21a48ef5ad3728883fb486f39d73f858c887f5436bbac30cc6cbd05d36333
-
 Package: fm
 Architecture: x86_64
 Installed-Size: 13840
@@ -34208,36 +34082,6 @@ MD5Sum: 90a5acf90833ff4d857cf94ba33cdd17
 SHA1: 69c0cd6932c68b1248986ae14a923e861a808a55
 SHA256: 5e0ab99ce0556eb9cea23c75b3ac04c60433ec7fe3cf1763640ef8e25b92cb9a
 SHA512: 3d17b282c7881e7340b554551195d81c8114ab979cd11261b41758121ba1b5645abf9f99bbf92d0107b38427da8db8544d4c06d66480d807b9a5f1d7d554f720
-
-Package: libandroid-support-static
-Architecture: x86_64
-Installed-Size: 72
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Depends: libandroid-support (= 29-1)
-Description: Static libraries for libandroid-support
-Filename: ../../../../releases/download/x86_64-liba/libandroid-support-static_29-1_x86_64.deb
-Size: 8564
-MD5Sum: a670bd1933468137e25a4b6aa4b7dbb2
-SHA1: 84cc480fdf421383a09754e44f2c51fc3f42f068
-SHA256: f5295f7e3696d5030edeca449a56cf0d6e8be813370165cc2c0a15b8ece889d8
-SHA512: f673a390441735407aeccbe962096d669a5e40226c11aaacd4bfd4c21d6a02e8419c5533947ec19c0c68af30e984e566e8fcd5ab2671513843a3e22770050652
-
-Package: libandroid-support
-Architecture: x86_64
-Installed-Size: 76
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Essential: yes
-Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
-Filename: ../../../../releases/download/x86_64-liba/libandroid-support_29-1_x86_64.deb
-Size: 11008
-MD5Sum: 6272ff6a5a19beb2379993f944cdb0e0
-SHA1: 81eaf25d5a5a4b7e4d0bf7997413d82d6fe11713
-SHA256: 0060389a5bbbe4bc19759c7f7c966f9f6e9130c87909ea5b7b9484322120e292
-SHA512: 7813accc4bb6aeb0c98ba4864d3cee9f9b9a7afd079e4a106d42ef50201812ba60a20bd67f53e00e5de0d06945f88e9da3d3864bb3986c4d21824d64576b4c8d
 
 Package: libcap-static
 Architecture: x86_64
@@ -35864,21 +35708,6 @@ SHA1: cf6874abbd1861dcf11a5030b4466e88d5e8ef58
 SHA256: 4b20e11c929099add37d245005e69dd4f2d944d72d4c98ef0a5a5c9494a58e44
 SHA512: e31aab085e06a38533ef606858241c6dbbc20eaf774a68d2653415640cbf4dfd41e480ce77c778ace61889cd338ffb2aca3a91a849c924ee8208b07187fdcd38
 
-Package: libc++
-Architecture: x86_64
-Installed-Size: 1348
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
-Size: 359200
-MD5Sum: 489b540083721fc2b15b14692f4f7404
-SHA1: a1dc691b69e65cc3c3007ae7e8268ca50cb07937
-SHA256: 499ccf0ffd18462ae2e2bb8add0410bf96483badfb7b9f19e5452fd705d41098
-SHA512: d1fca151193f9fa1a55741e16e1db0da93e73503ee39db68f0c0f43d4e7513e94eaf30823e402d885486ab33b7940070f20bad6d96fe062c3d3c3df45903d4ad
-
 Package: stoken-static
 Architecture: x86_64
 Installed-Size: 100
@@ -36667,4 +36496,204 @@ MD5Sum: bae5590ca81f9d16bdfb041ec5a971f6
 SHA1: 94a99e0021c0afad0327a3ad2bac95241232dff6
 SHA256: 9c48d249a090c3c5e490d19a6fa63b69da831402574e75c40b5bad13cdcebf28
 SHA512: 6f7c28dfdae1a6a3570f7bc195394ee472c662646b20bb9dd4c44fcd0c724acb1d415c64931eb1bc567bc56b51e7701d9886cc1c3d17bbbee238ce5971538067
+
+Package: flac
+Architecture: x86_64
+Installed-Size: 340
+Maintainer: @termux
+Version: 1.5.0-1
+Homepage: https://xiph.org/flac/
+Depends: libflac (= 1.5.0-1)
+Description: FLAC (Free Lossless Audio Codec) command-line tool
+Filename: ../../../../releases/download/x86_64-f/flac_1.5.0-1_x86_64.deb
+Size: 111692
+MD5Sum: f0bacc774112e3fc91f16fedf5de5b3c
+SHA1: eabd1aacca99537946cb3311b7c0b87b98aa057e
+SHA256: 32efecb0e11dc42d3f5c431f954a0969e7f34d6068b305b90c2aed81bbc76577
+SHA512: cd585ec7818f86d0657cecc9e9ac19c54732c433b332c3afb4eef27b161691c7b51d19f662c9c96f9dd05f0d2efae195f1c6b399007b4c07f5a431b4e1863cbc
+
+Package: libandroid-support-static
+Architecture: x86_64
+Installed-Size: 72
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Depends: libandroid-support (= 29-1)
+Description: Static libraries for libandroid-support
+Filename: ../../../../releases/download/x86_64-liba/libandroid-support-static_29-1_x86_64.deb
+Size: 8560
+MD5Sum: 5320528c1f228948d159078112362a69
+SHA1: 500984a98ccf9e82403cb2d7cc0e8e9880cfa778
+SHA256: fb1cafceac0c0361855817d769492989971668d8877dbfaa52c885ed53e615de
+SHA512: 7a64cf1578182c400dc4c16e02db470ee1acd9cadb5f3cc8b64756cf67e910234177ae725dd850bd7640dff87755363bd3fef9977ccdce656d58ec43f500cf72
+
+Package: libandroid-support
+Architecture: x86_64
+Installed-Size: 76
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Essential: yes
+Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
+Filename: ../../../../releases/download/x86_64-liba/libandroid-support_29-1_x86_64.deb
+Size: 11008
+MD5Sum: e0f10e58b67db475f2c34152c51e75b3
+SHA1: b95947fe962457a644f41f75493b58057f8829d2
+SHA256: f89829553434ab2863a205d4601ec3cbca70bdea5f90c5cd85300d248766fc31
+SHA512: 21725040f3b7b3cb329dcb6c7b0fb3357baaa725f3c53e045b16f4a648906d5608d290a93a7f638f2e4947556ceba3a70f5b52693ee17c2684c9e00ad0bae85d
+
+Package: libc++
+Architecture: x86_64
+Installed-Size: 1348
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
+Size: 359424
+MD5Sum: 8d297e1faa16096a399e90ae0e298212
+SHA1: 4633e4ab6d188cb3ff060f05f75fc4c922a6dee5
+SHA256: a7576f5f70c40547bcdb6427ad694d380310e15904dbe064611cf659a4a5f7a2
+SHA512: e5c58c6b2bd358d9df36e9edfc2b9e252f36d90be8cd44fa9c9a4b62700b8c2a1f3a0f3ff6743ee28d3222b8449d42e8f877613d91090f5f8d027248de8a2f1b
+
+Package: libflac-static
+Architecture: x86_64
+Installed-Size: 564
+Maintainer: @termux
+Version: 1.5.0-1
+Homepage: https://xiph.org/flac/
+Depends: libflac (= 1.5.0-1)
+Description: Static libraries for libflac
+Filename: ../../../../releases/download/x86_64-libf/libflac-static_1.5.0-1_x86_64.deb
+Size: 115580
+MD5Sum: 2802d78877b5e26b5c434c9e8226f615
+SHA1: c3ccd8c2d6eb096bb712a50d521bf1a1342c7a22
+SHA256: 2d30ba2d530bae9bd9d2db57da44204d1c7846181a7736fd68d94ebfb2c9c103
+SHA512: 31ca93ca471871f1c31506080104620d15b42c3ebb30eecc5b892dc4c87c5e2b456de91f1d9d712873abe4fafd7f472b40d527d9f97e122dafd73ea1740ce673
+
+Package: libflac
+Architecture: x86_64
+Installed-Size: 1056
+Maintainer: @termux
+Version: 1.5.0-1
+Homepage: https://xiph.org/flac/
+Breaks: libflac-dev
+Depends: libc++, libogg
+Replaces: libflac-dev
+Description: FLAC (Free Lossless Audio Codec) library
+Filename: ../../../../releases/download/x86_64-libf/libflac_1.5.0-1_x86_64.deb
+Size: 212860
+MD5Sum: 64229aa0946071fba8774e6e910f8268
+SHA1: a3ea1e9103f38b3220cf5e0bcf6576b119ab69a1
+SHA256: 6b74fc4a11c3cd699f05d699021dd39bbdeaa59a4c712a4e21cef39e0cbfa4ca
+SHA512: a3e6f2d81d062b6af7551a85d3d483026b5759431c6a6f0d3fd54ae2526db1b7a5268894f0fb45dd5edfada53518f74f5b97ed9a34905d46a608da02fd965edf
+
+Package: libid3tag
+Architecture: x86_64
+Installed-Size: 180
+Maintainer: @termux
+Version: 0.16.4
+Homepage: http://www.underbit.com/products/mad/
+Breaks: libid3tag-dev
+Depends: zlib
+Replaces: libid3tag-dev
+Description: MAD ID3 tag manipulation library
+Filename: ../../../../releases/download/x86_64-libi/libid3tag_0.16.4_x86_64.deb
+Size: 32024
+MD5Sum: 00f7e81cb4b902c56cbec6feebf47d17
+SHA1: 79f7ea2169e1f055c06491e23eabea592d01f1c4
+SHA256: 520a8aed1f40ce4c05782c54ab22c0fa6bd4b67a48bb6af875a0bd16acff5491
+SHA512: 4e473ab0315e64717f74c58db77fd127b59f437ce8f5d1ab81daa6dab5cc8f36c1099f2af8017029cfe7f275a06bc78d6d93360f81c0bb8e79314c0ce7b23f1a
+
+Package: libogg-static
+Architecture: x86_64
+Installed-Size: 60
+Maintainer: @termux
+Version: 1.3.6-1
+Homepage: https://xiph.org/ogg/
+Depends: libogg (= 1.3.6-1)
+Description: Static libraries for libogg
+Filename: ../../../../releases/download/x86_64-libo/libogg-static_1.3.6-1_x86_64.deb
+Size: 16548
+MD5Sum: e050cf0171448b3058e27c49850023e4
+SHA1: 07f772d5187b475c3ea974ccb8b57efacfa38c82
+SHA256: a51c332421ce6d777b8a2f4295eed5f9af093d587199b4568b518785ab5c98e8
+SHA512: a42f02e95aba3c92d17dc0b51654c770a45c678dd745338c34787492b14f0a99782dc5e6018d34f5b7743a018a548b6ef4b1d1b79372be02b1e346cd712f8075
+
+Package: libogg
+Architecture: x86_64
+Installed-Size: 684
+Maintainer: @termux
+Version: 1.3.6-1
+Homepage: https://xiph.org/ogg/
+Breaks: libogg-dev
+Replaces: libogg-dev
+Description: Library for working with the Ogg multimedia container format
+Filename: ../../../../releases/download/x86_64-libo/libogg_1.3.6-1_x86_64.deb
+Size: 188800
+MD5Sum: 6484091c32bbaeea233487fff5b21297
+SHA1: d96d9b4ced1d8c918c87e586c1927c0d79fa2a65
+SHA256: 176fccc14d9a87af73ceedb3d98e1bdc74d59637d9e2ae27557f87ec1f50f6ce
+SHA512: d027ac52ba8f1b3a7df9e70d2c43ec1a438bfe7c2c3317619d59c270b353013a435780ecf20b86e14d6be2e20a4b461d7165559d50904f0990425ea28bed374b
+
+Package: mympd
+Architecture: x86_64
+Installed-Size: 1572
+Maintainer: @termux
+Version: 25.3.0
+Homepage: https://jcorporation.github.io/myMPD/
+Depends: libflac, libid3tag, lua54, openssl, pcre2, resolv-conf
+Description: A standalone and lightweight web-based MPD client
+Filename: ../../../../releases/download/x86_64-m/mympd_25.3.0_x86_64.deb
+Size: 843020
+MD5Sum: 827aab3db9f3c621406eb06e2b5ac39e
+SHA1: 41e6666abb6ec0d2e551c9c4d4588671edde40e2
+SHA256: 4790691cbedae0eed1dd1a68a860cb7df7dad1ba26c51da3f859b593d82a3dd7
+SHA512: 10f0d2e0d7aa03f531bd34659469c6cdc8564d30bae700a102758fde22c83d7d2a47ac03706e57bd06656a7e658169423296657378d9156b29a196b7dfde3342
+
+Package: stdoutisatty
+Architecture: x86_64
+Installed-Size: 68
+Maintainer: @flosnvjx
+Version: 1.0-1
+Homepage: https://github.com/lilydjwg/stdoutisatty
+Description: Patch the isatty() calls for colored output in pipeline
+Filename: ../../../../releases/download/x86_64-s/stdoutisatty_1.0-1_x86_64.deb
+Size: 4788
+MD5Sum: c36838a86bc181b7aa360fd1dbb2e2a6
+SHA1: bebb374a148fcc8dac9f783133c2720b6bd12311
+SHA256: c39166c9e5ce2e6e30d3ec5418947a9aa954540acef30248b497dcd4dc71b66a
+SHA512: 4bb410d0d118c10fcbffe71e321bd061425f33ca54b14aec7298c903b16fff77a3ea4f1d77cd6dc58cf4d3a8fb4c4297a7015d8081f2006017d466065eae510d
+
+Package: zlib-static
+Architecture: x86_64
+Installed-Size: 144
+Maintainer: @termux
+Version: 1.3.2
+Homepage: https://www.zlib.net/
+Depends: zlib (= 1.3.2)
+Description: Static libraries for zlib
+Filename: ../../../../releases/download/x86_64-z/zlib-static_1.3.2_x86_64.deb
+Size: 44696
+MD5Sum: b3b69a66c35cace04ac9b01250567159
+SHA1: 3d3a56a9d90959713a081e1bd1da81ea947ad902
+SHA256: 6dd42b1246051fcf8040e8c728a7e76ad1717d6108de849719856e9b0086569c
+SHA512: 45e581c9440ba382d58c59d4b7bbd23cf7cb5d9cab1a35163d1fd755fb8059fcd3245d11854fe7fc687fc0c8873d9d5cc2ec270b4ae1626b307d5b4e41fafe56
+
+Package: zlib
+Architecture: x86_64
+Installed-Size: 272
+Maintainer: @termux
+Version: 1.3.2
+Homepage: https://www.zlib.net/
+Breaks: ndk-sysroot (<< 19b-3), zlib-dev
+Replaces: ndk-sysroot (<< 19b-3), zlib-dev
+Description: Compression library implementing the deflate compression method found in gzip and PKZIP
+Filename: ../../../../releases/download/x86_64-z/zlib_1.3.2_x86_64.deb
+Size: 73300
+MD5Sum: a0516287b706b12f5c39e08cb0571ecf
+SHA1: 8359243a037a95a8c1366185294e24f57980b1d5
+SHA256: d6b7f72225228991135aadf6682fccbc9b9b7d090bc73d280d50eb771f04353f
+SHA512: a889c39bbb4b53763a44e5fa8f4cafe0a42a5a98dec1156a133c26f066b68c1e803efef8124501bd5c01e6e23b3714bdbaed82e90c13814204c572abf8d2a3c8
 

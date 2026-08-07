@@ -35187,3 +35187,32 @@ SHA1: 94a99e0021c0afad0327a3ad2bac95241232dff6
 SHA256: 9c48d249a090c3c5e490d19a6fa63b69da831402574e75c40b5bad13cdcebf28
 SHA512: 6f7c28dfdae1a6a3570f7bc195394ee472c662646b20bb9dd4c44fcd0c724acb1d415c64931eb1bc567bc56b51e7701d9886cc1c3d17bbbee238ce5971538067
 
+Package: mympd
+Architecture: arm
+Installed-Size: 1284
+Maintainer: @termux
+Version: 25.3.0
+Homepage: https://jcorporation.github.io/myMPD/
+Depends: libflac, libid3tag, lua54, openssl, pcre2, resolv-conf
+Description: A standalone and lightweight web-based MPD client
+Filename: ../../../../releases/download/arm-m/mympd_25.3.0_arm.deb
+Size: 806968
+MD5Sum: 139045b507024ecdafbf197d1fb7a7d7
+SHA1: 554838c21494a5d8b2874d8a10028f8ceaa5cad1
+SHA256: a729702db47e5ef7c5f07e2d85e6c15975e7ead137fed66c9c50dedb442b8a42
+SHA512: 0a6f00e41ec627becf22165ff5cd484ddfabd793040147f943c11bd7b86bc6a0bbc7544f44491181e55735d5c9f0bbfb6fea8b8b9108b5832c7cff16579fdc95
+
+Package: stdoutisatty
+Architecture: arm
+Installed-Size: 60
+Maintainer: @flosnvjx
+Version: 1.0-1
+Homepage: https://github.com/lilydjwg/stdoutisatty
+Description: Patch the isatty() calls for colored output in pipeline
+Filename: ../../../../releases/download/arm-s/stdoutisatty_1.0-1_arm.deb
+Size: 4392
+MD5Sum: adf4fb3cd7f931939912d5e699d0f180
+SHA1: ab8947b4da21d80a6cadec636738f72128d7bc0a
+SHA256: 68ccb826cbe2d281a8045324703584c306646c12a8e4fc0f3b7bed729abe644c
+SHA512: 3fc1fc627a103d79f7266ece137865f6e6d8a0319df5aed4ad966d82e225a5056775432a5f3865ef22ac8fc3ab8d0575f7dd13e8d867ffdee75bd1d292717116
+

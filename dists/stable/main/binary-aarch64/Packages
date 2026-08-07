@@ -5458,21 +5458,6 @@ SHA1: e6612f6e00955397bb632715c79b198eaa210915
 SHA256: b35f69633ee25af5a79e893e1512ba076648132276988b9e2c37677c5aaf5229
 SHA512: bd7c59c1529be6b5197bd3c66f621da1bd3136f4db5b052440cc73ba3a864f877f29d54cb1b3ff4d02c23bf1827b98e9a24f94a5e9bb7ddf7fc22c399987c096
 
-Package: flac
-Architecture: aarch64
-Installed-Size: 328
-Maintainer: @termux
-Version: 1.5.0-1
-Homepage: https://xiph.org/flac/
-Depends: libflac (= 1.5.0-1)
-Description: FLAC (Free Lossless Audio Codec) command-line tool
-Filename: ../../../../releases/download/aarch64-f/flac_1.5.0-1_aarch64.deb
-Size: 104700
-MD5Sum: 68df031eb5e1fa26e333be7c74442b79
-SHA1: 98c8ef24a44c95663a69be302f07db080fb724f9
-SHA256: 65a7f1f8196ee933a79d8ea4821692b49a3590ecd0bb4c8f55b8cd7fdcbf3536
-SHA512: b6192108f5da84ad37629f9229ef16398168872a005bae1db9ee07c5e8108416765f3e745a061fdb5f427ebc292b3f28dac6836a7ada3701d1a595afc5a836d1
-
 Package: flang
 Architecture: aarch64
 Installed-Size: 942352
@@ -12801,38 +12786,6 @@ SHA1: 4b3300b6a338e3702d7c406333500ec73e6bcf65
 SHA256: d1d79c1b44b767bbc2f3493fd77e490bf209ee024f58a97afff361628e999879
 SHA512: ef623791f8da17b79fa623dac04a69ff149441c02396f61997fd1ac1180f6c36a9cf1a480ea2f61e3cc34bead05e9b0851c10cedd361a22e75b4f9e282f37f71
 
-Package: libflac-static
-Architecture: aarch64
-Installed-Size: 548
-Maintainer: @termux
-Version: 1.5.0-1
-Homepage: https://xiph.org/flac/
-Depends: libflac (= 1.5.0-1)
-Description: Static libraries for libflac
-Filename: ../../../../releases/download/aarch64-libf/libflac-static_1.5.0-1_aarch64.deb
-Size: 110168
-MD5Sum: c0727311f1c0a13646a5404d9858aaa5
-SHA1: 4912c27122774fac4d1412772673f97aad7bfd49
-SHA256: c1025db95d25feaa2ee4652ff090c13647c7794e2fc846663e3c5abf5fdabde3
-SHA512: 0d67f4692c9c9c4b65f6cd62b186e0d953bda93d79abaf3c9f70906176a81e8e676543441c2fd01b04c52ba655e6b601988e738cf4ed7b25dcd3796b154582d4
-
-Package: libflac
-Architecture: aarch64
-Installed-Size: 1044
-Maintainer: @termux
-Version: 1.5.0-1
-Homepage: https://xiph.org/flac/
-Breaks: libflac-dev
-Depends: libc++, libogg
-Replaces: libflac-dev
-Description: FLAC (Free Lossless Audio Codec) library
-Filename: ../../../../releases/download/aarch64-libf/libflac_1.5.0-1_aarch64.deb
-Size: 203196
-MD5Sum: aaf55e253b66ecec51f262d8646f34a2
-SHA1: 73885c01ed62aaeaa4d6a9a02004f93364454929
-SHA256: a562ec93ac3190463ee5ec194280ab62e0ffd638a8e85127624b4cd7acc9e001
-SHA512: d258b47efa97e320294ff22660dd3cf4fe00e759d2905c5e5c68fc0ed9658e36787029f9bca6afc51c60ab942bcd2200e27b699e0afa30e03c22c7561248d284
-
 Package: libflann
 Architecture: aarch64
 Installed-Size: 8164
@@ -15794,37 +15747,6 @@ MD5Sum: be27302b7d23bd256101e1645505dee4
 SHA1: 68e938e1efb3e4ee2c5da42a55c9ae15ab7d180d
 SHA256: b7819bc3296ebdfd52aecc4ce9b265123719bc5db549b7c4ed70f0506fd71876
 SHA512: 0e495e8ef46a15325464c39d95f44108d8abc3c74b51cc09ddd10d0f1283b34e0d1aeedd4a72c84673f50f393531afcd2c4684fe1f6bf4a27af9ce27d92d15ed
-
-Package: libogg-static
-Architecture: aarch64
-Installed-Size: 64
-Maintainer: @termux
-Version: 1.3.6-1
-Homepage: https://xiph.org/ogg/
-Depends: libogg (= 1.3.6-1)
-Description: Static libraries for libogg
-Filename: ../../../../releases/download/aarch64-libo/libogg-static_1.3.6-1_aarch64.deb
-Size: 16596
-MD5Sum: 43b303107b001027f9b0b98daf096c44
-SHA1: e8137863ce69a7ba52396a70052dc5a2ea64ab80
-SHA256: d98613df37947a0fd3694e036e17d1ad29d9054caa53625b47a2b4c79018b96e
-SHA512: 51a9e8724aee0dcf5ce870ac2429313809cab183748a1a95c71d038a97347edfc3c527deac7bd01aa9ab5ff5cca2dae0819e81160867278dc53a19e7070ba044
-
-Package: libogg
-Architecture: aarch64
-Installed-Size: 684
-Maintainer: @termux
-Version: 1.3.6-1
-Homepage: https://xiph.org/ogg/
-Breaks: libogg-dev
-Replaces: libogg-dev
-Description: Library for working with the Ogg multimedia container format
-Filename: ../../../../releases/download/aarch64-libo/libogg_1.3.6-1_aarch64.deb
-Size: 188604
-MD5Sum: 0d3ee1ee16c13af73470cd8056424215
-SHA1: b79c366d7d18c4aaf0fa11ed2a0d86cb452c1a0f
-SHA256: c59a5895d79e9dbcd20cf583ced93eb7d783e460972314d0c849be6ae3575787
-SHA512: 214c2080f69662864ebf80c58f817519602bfa0a1ce764ae9a7de1aa22ee4b1764b0fd839b50946165f38fa5881ea2474b0f86d19720b6b6f8bdbbe17019099e
 
 Package: liboggz
 Architecture: aarch64
@@ -31789,37 +31711,6 @@ SHA1: 7ec0303f197f13d830b859f472c275a1f270afba
 SHA256: ea1676830857c3f3c4d7a401c5b42ec603e7ac3e6d22edd5a405e598b3ca68ca
 SHA512: 80f1e0f6ce16cace35854ce2562416da1f6b93fc83b4b3366efbcf2434641b93c32b35961fb543fcc7890a04b3899a819e0eb84bbf4fe241ad7318edb9411ff9
 
-Package: zlib-static
-Architecture: aarch64
-Installed-Size: 140
-Maintainer: @termux
-Version: 1.3.2
-Homepage: https://www.zlib.net/
-Depends: zlib (= 1.3.2)
-Description: Static libraries for zlib
-Filename: ../../../../releases/download/aarch64-z/zlib-static_1.3.2_aarch64.deb
-Size: 35516
-MD5Sum: d32766ed08dd2494dc7ee5308d0e7b35
-SHA1: 7671231461e9b0a07f6562b780b6c3dcf94eeb45
-SHA256: 3e4b7fab04061c7ad676c5c603e48abd83343706431d4dbf7ded6da6b2bd4fe0
-SHA512: ed2d81e2b2066a55236943c4149cc40866355def4cd54158b8e3cd033c314d217c1d57136dab24ce57e5bf6cd5950903f37a7d9e0985e1971d58154219a931a0
-
-Package: zlib
-Architecture: aarch64
-Installed-Size: 264
-Maintainer: @termux
-Version: 1.3.2
-Homepage: https://www.zlib.net/
-Breaks: ndk-sysroot (<< 19b-3), zlib-dev
-Replaces: ndk-sysroot (<< 19b-3), zlib-dev
-Description: Compression library implementing the deflate compression method found in gzip and PKZIP
-Filename: ../../../../releases/download/aarch64-z/zlib_1.3.2_aarch64.deb
-Size: 62944
-MD5Sum: 98fef2b9bcda6c3ca6029e50139d9f3f
-SHA1: a4c15cb73d5510cbc3756a6d7bbda33d1297a6b5
-SHA256: deaba926c8bdc742aeb17103bf5ac21d8cffa3c225627f546a364cd404cb6922
-SHA512: 70454b6004b7b79276d0bdff58408befccd9ddd28d7f25982719108cc6b2272d79c728786a0c11193fea030097484f25c4a7d5c88bb584ddeaefab879107b680
-
 Package: zola
 Architecture: aarch64
 Installed-Size: 39720
@@ -34941,21 +34832,6 @@ SHA1: b810a5a677778477618c0e9bbe4a391113af395a
 SHA256: e6c552ca72cf0dd880d8646b272c7282d5bbf17b8ac8d6da8db39ccaafaae057
 SHA512: 5b5829015812cdd5150551749b4524f6caf0900855e4b3e1c3675c56046f1d83a29d5b851aa7065f4b99fc5a3e88e7bdd00f72492460d1bb432590b3340e3f52
 
-Package: libc++
-Architecture: aarch64
-Installed-Size: 1384
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/aarch64-libc/libc++_29_aarch64.deb
-Size: 334964
-MD5Sum: 590f499ad00703e975dd88ea12a5caa8
-SHA1: 5250f75ad49513be5c71353701ace354f8be3191
-SHA256: bdf50deed3496fc02a5ff6b56e72981117cc0f8fa79712c593dec0c52522aa26
-SHA512: 900557d61d8e55f3bf17a89e2cc94695e07c8c33adff1e19a93409632080bae90bb4582f74dffda388c0da7ef035c05f7203aa2c97d288fce098d64d52dc0bd4
-
 Package: libolm
 Architecture: aarch64
 Installed-Size: 316
@@ -36683,4 +36559,157 @@ MD5Sum: bae5590ca81f9d16bdfb041ec5a971f6
 SHA1: 94a99e0021c0afad0327a3ad2bac95241232dff6
 SHA256: 9c48d249a090c3c5e490d19a6fa63b69da831402574e75c40b5bad13cdcebf28
 SHA512: 6f7c28dfdae1a6a3570f7bc195394ee472c662646b20bb9dd4c44fcd0c724acb1d415c64931eb1bc567bc56b51e7701d9886cc1c3d17bbbee238ce5971538067
+
+Package: flac
+Architecture: aarch64
+Installed-Size: 332
+Maintainer: @termux
+Version: 1.5.0-1
+Homepage: https://xiph.org/flac/
+Depends: libflac (= 1.5.0-1)
+Description: FLAC (Free Lossless Audio Codec) command-line tool
+Filename: ../../../../releases/download/aarch64-f/flac_1.5.0-1_aarch64.deb
+Size: 105740
+MD5Sum: 584c3678c7bf2f516820ff30986493f9
+SHA1: 1b71d78ba63a8f833cb391958ada992bf3b816a7
+SHA256: fc3fb9145794fadc31d717a2442617b4d4f677061c92fcf021105b9ffea739b2
+SHA512: 62170c8337a2f54d49713a14f1153c90690e68e6ba0120b5b9ab3bfb87fe704190bfadb8f0fa5019582db720d7ff252c7e5745da939a4e6c045ef9970e52f6e1
+
+Package: libc++
+Architecture: aarch64
+Installed-Size: 1384
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/aarch64-libc/libc++_29_aarch64.deb
+Size: 334572
+MD5Sum: 1706718d162210fb6049efd333f18af4
+SHA1: 821145de55f97e93b2113ab814395154e9a1a461
+SHA256: ab8d262e1fd49bde9dba443ff8305b131466911c2a204c4a498ab25fd4f68647
+SHA512: 56458b7371d293d68d668cea0ca40848cfb4bd1e848dce0c9abdcb89877233231ccdb0e3b43ad7ebe1dabf64c18c8cb2f66100bb98d5f9e8bc68c4bc12d07037
+
+Package: libflac-static
+Architecture: aarch64
+Installed-Size: 548
+Maintainer: @termux
+Version: 1.5.0-1
+Homepage: https://xiph.org/flac/
+Depends: libflac (= 1.5.0-1)
+Description: Static libraries for libflac
+Filename: ../../../../releases/download/aarch64-libf/libflac-static_1.5.0-1_aarch64.deb
+Size: 110244
+MD5Sum: bf2ab548e24823def44771cab486fc4f
+SHA1: b08968198541677685854c5ecef86664ccf8646f
+SHA256: bd3a7720503b0ddf4cd2645f8593f765779eb41abbacffffaddeb7844c554492
+SHA512: 9e1eee50ac41441e6369a607ca7e03403eb10a3829df565b7170a0c2d2d6876a6df5e6d86f622b79ecc9b4a16ed1a369ec4015d0d7cdef40ebba1e4e3ffff07f
+
+Package: libflac
+Architecture: aarch64
+Installed-Size: 1044
+Maintainer: @termux
+Version: 1.5.0-1
+Homepage: https://xiph.org/flac/
+Breaks: libflac-dev
+Depends: libc++, libogg
+Replaces: libflac-dev
+Description: FLAC (Free Lossless Audio Codec) library
+Filename: ../../../../releases/download/aarch64-libf/libflac_1.5.0-1_aarch64.deb
+Size: 203264
+MD5Sum: 0de94ff9fd0b36b5a09e3a3532060ff2
+SHA1: bd01a94542a2690c29222e8211f332a49b5bf31a
+SHA256: dca8baefcce314e2445374bbaf333823e58472f761b2e8ec6c008c46ce0daf07
+SHA512: db0182c490f2c3b536c09abf027b12d1030b0a02b54ab0d02b56a552534a10f7eb2ae1fc0bd3e885b5688f333911725db544cb101ad6b5e1b8e07baee93a6882
+
+Package: libogg-static
+Architecture: aarch64
+Installed-Size: 64
+Maintainer: @termux
+Version: 1.3.6-1
+Homepage: https://xiph.org/ogg/
+Depends: libogg (= 1.3.6-1)
+Description: Static libraries for libogg
+Filename: ../../../../releases/download/aarch64-libo/libogg-static_1.3.6-1_aarch64.deb
+Size: 16628
+MD5Sum: 15203791974d5d5080cfd36efc916f36
+SHA1: 8b073c31551b5a75c05316aea38afbf0213139a1
+SHA256: 420f12985ac72c144a91f46fcafa046d0d866c7f2a6d50ab21d6eec054735bb0
+SHA512: 0c42ba39da86650c51a6a96b29b0ed652e8ed4daa0c1b36497fb718833dc243ad5668d4236268132d81c8b738b7e49ec740e29235840e7b0fc16144050b6560a
+
+Package: libogg
+Architecture: aarch64
+Installed-Size: 684
+Maintainer: @termux
+Version: 1.3.6-1
+Homepage: https://xiph.org/ogg/
+Breaks: libogg-dev
+Replaces: libogg-dev
+Description: Library for working with the Ogg multimedia container format
+Filename: ../../../../releases/download/aarch64-libo/libogg_1.3.6-1_aarch64.deb
+Size: 188640
+MD5Sum: fe51db06417967e4cb5872886f09e7ab
+SHA1: 13907f564e6d37fa6df175f05257aa407acf7ca0
+SHA256: cc542b25de226043d50aaa7250e51e3862ac59ab81265f88a4f7c149f00c77f6
+SHA512: b6ccb044bde0a84b88dbb5ced9960f90572b7d665c0f6427551db4bf689e088e3c4b51df6690d4a95543d39caa53391b6621f2458ee9f4fcbe37f16ca076de51
+
+Package: mympd
+Architecture: aarch64
+Installed-Size: 1664
+Maintainer: @termux
+Version: 25.3.0
+Homepage: https://jcorporation.github.io/myMPD/
+Depends: libflac, libid3tag, lua54, openssl, pcre2, resolv-conf
+Description: A standalone and lightweight web-based MPD client
+Filename: ../../../../releases/download/aarch64-m/mympd_25.3.0_aarch64.deb
+Size: 817772
+MD5Sum: a882603c7ad5ce360de112c450cfdbac
+SHA1: c649ea9ccd5a81174fa29f93e5b86d6fc1bd0a05
+SHA256: d4d747902015148e66cea20ad8906f58dd6b524aee77283ecae5212ccfe243a2
+SHA512: 6fc312aa563bba5f76292d2dd4a49cac0a0a89dc9147e9b6d58b5582b18ee9fe79958d698b1ce58759f6ea28db3b75c65177b166d5f815ee56b6430bcc4fd84e
+
+Package: stdoutisatty
+Architecture: aarch64
+Installed-Size: 68
+Maintainer: @flosnvjx
+Version: 1.0-1
+Homepage: https://github.com/lilydjwg/stdoutisatty
+Description: Patch the isatty() calls for colored output in pipeline
+Filename: ../../../../releases/download/aarch64-s/stdoutisatty_1.0-1_aarch64.deb
+Size: 4844
+MD5Sum: a0a0a9feb25c10c27f6aef3cda224b9b
+SHA1: 6a046d4b4a401f64c77c9bff277d019c00ed3344
+SHA256: bfcc02f4c5a987a2a810b0711369571665756085b99a2490e57cf0bc4b504809
+SHA512: e9123e4590677cda2590aebd4d886150a809b58e7916c1eb291f8ebb90d58f3f16d7f624c4499967678a53c94c6dfc45f41e75cc0574c2efb32a0042f7c735b8
+
+Package: zlib-static
+Architecture: aarch64
+Installed-Size: 140
+Maintainer: @termux
+Version: 1.3.2
+Homepage: https://www.zlib.net/
+Depends: zlib (= 1.3.2)
+Description: Static libraries for zlib
+Filename: ../../../../releases/download/aarch64-z/zlib-static_1.3.2_aarch64.deb
+Size: 35548
+MD5Sum: 317249db12719dcb5f5babb236b973af
+SHA1: d82b9f27b3732b8bf18ca698da1a14dd6dab4b52
+SHA256: 8e4a99a35032df5836eda75da2084d88437030346001bb0808133f24658e493d
+SHA512: 948386756bfd923d3ed8359bd83176b5580ee96dd24d7830ce0ff6558dd850787d6f7371750d4460838ba87bd0c4f385586f5a3527106122d4ef772a595c4b59
+
+Package: zlib
+Architecture: aarch64
+Installed-Size: 264
+Maintainer: @termux
+Version: 1.3.2
+Homepage: https://www.zlib.net/
+Breaks: ndk-sysroot (<< 19b-3), zlib-dev
+Replaces: ndk-sysroot (<< 19b-3), zlib-dev
+Description: Compression library implementing the deflate compression method found in gzip and PKZIP
+Filename: ../../../../releases/download/aarch64-z/zlib_1.3.2_aarch64.deb
+Size: 62976
+MD5Sum: 77c575eb824ecd2ce236e614f63d5ece
+SHA1: 879c6b1ab9e69f5e482a0eb137ab7196e96c2384
+SHA256: 6de3b4dd45bae61063fbfb88af55fdafc5d81b7d857470af64b4bfeadbf3e84a
+SHA512: ed9043e8807b9a02af948317806a37d3b75e65a2fc45b71dad75ef98e4f4586566c96986440c668168be76a6123135be7d0c6e9f70f32560063a03de8b286e73
 
