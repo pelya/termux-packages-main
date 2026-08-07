@@ -13083,3 +13083,19 @@ SHA1: 5e3e2d29bae077d442f2ce87b1bd56124c5de3d6
 SHA256: 638af4b5bc8b1eecd380b2d039297a25e79013fcd47f591d75e9c5015008b38d
 SHA512: 9ed93116bc6337e15f003f1930664648176cad61731107c2f1df17f33e8dc7fdb78dafb1b96aa24a6fcd8b761755ef6ca5c507e8fdd864457c07de38f0eb2495
 
+Package: xfce4-genmon-plugin
+Architecture: aarch64
+Installed-Size: 256
+Maintainer: @termux
+Version: 4.3.0-1
+Homepage: https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin
+Depends: glib, gtk3, pango, libxfce4ui, libxfce4util, xfce4-panel, xfconf
+Recommends: hicolor-icon-theme
+Description: Display cyclically run script or program output onto the panel
+Filename: ../../../../releases/download/aarch64-x/xfce4-genmon-plugin_4.3.0-1_aarch64.deb
+Size: 29348
+MD5Sum: 2832618f17cdd3bacec92f12b39f9584
+SHA1: d18b13692f1b7e14070249925f999c85bd913acc
+SHA256: 83ff22283bf4b3fd79f98d0500d28c1765403f04d324909f3f5ad3c0809bcb20
+SHA512: 8a126a5c19e22426ea8ec328379ca948fbc9acb59d2a64a0ca758ad83711938512f9cd93f5139eac5910af5dc47fc0728b451e98dca9f544fe7e5447149c5d8f
+

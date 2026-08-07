@@ -35430,3 +35430,18 @@ SHA1: 9e0b0389b3a83817c35b41d295f9699ee07e1456
 SHA256: 9810e0ace92dfea7b36b7ed71b190cc76a620078064ac0a565855bc006f3e186
 SHA512: 96470e5bd67fe7d0fd2b829519afa40aa48a1eca189914907da8b34760846bb52c1b001dac2cea57eea74ca9edc461ff2c0e0ee21a90097498c6da1cd88fd91c
 
+Package: vtm
+Architecture: arm
+Installed-Size: 4920
+Maintainer: @termux
+Version: 2026.07.11
+Homepage: https://github.com/directvt/vtm
+Depends: freetype, harfbuzz, libc++, lua54, lunasvg
+Description: Terminal multiplexer with TUI window manager and multi-party session sharing
+Filename: ../../../../releases/download/arm-v/vtm_2026.07.11_arm.deb
+Size: 1375600
+MD5Sum: 0326fa8fa08bade24d0f03a381940eb1
+SHA1: 5f5077ebfbbe09466576cee5576658e58c6732a0
+SHA256: fef0a3d618bdca64cce8abb1b54958d5e27c648a591e6308aa08f46f33461434
+SHA512: 626b21abcd452a6e0a306def393e693183564cdcc1f590acd51f12fec20977e3a78867b04281a4db85da90f9aeaa203d3fbd7363e19d2ebfb36eddc0186aa069
+
