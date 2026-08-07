@@ -12292,3 +12292,18 @@ SHA1: 758c62a4e666ee6daf1ff74b47f33de602ef5315
 SHA256: 9374509b7ac0122130da66ced2fcf7481424b82e351dbd2d2266cf11841602aa
 SHA512: a21ded4105c95cd53e16d536a0644fd79e791744c4c328daf38eae2827bc1da44b4bcdbb1e263b15313b5888f168158c11e75a14751554865e988d24334705d3
 
+Package: kseexpr
+Architecture: arm
+Installed-Size: 1308
+Maintainer: @termux
+Version: 6.0.0.0
+Homepage: https://krita.org
+Depends: kf6-ki18n, libc++, qt6-qtbase
+Description: An embeddable expression evaluation engine (Krita fork)
+Filename: ../../../../releases/download/arm-k/kseexpr_6.0.0.0_arm.deb
+Size: 303620
+MD5Sum: e837093224dc7e0a9b3999ffefd854d8
+SHA1: d49ddbf1dc177e9994276d4421c6f8273f8852df
+SHA256: 411cc398093aeec6a48320480b855207a4297a06392022f2859366fa77066349
+SHA512: a1119a1c0a517b7bd2c74b8a75c54825ca1bb2a1ca128d4dc55a6c2a373ccf84ab10c31cc333c1ea015c823364eae8aa8f0aa55f57673f08703753e48a2780f3
+

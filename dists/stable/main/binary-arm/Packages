@@ -8596,38 +8596,6 @@ SHA1: c707b3c84ccdc6b7750ad0a2d00c92bf3ecdcb29
 SHA256: 28d2f84ee236eefb8b290db0387f39f0a37aa2d718a3c460f52faa566dda1c61
 SHA512: 403408795852a069bee42f19b91d7cb78314915ce3be6cfbafe626cb7b76e93e8974279349de228c7ee7a9bc54d8a5abe6c45823c6bf682c2f5050e7c35942b7
 
-Package: jsoncpp-static
-Architecture: arm
-Installed-Size: 364
-Maintainer: @termux
-Version: 1.9.8
-Homepage: https://github.com/open-source-parsers/jsoncpp
-Depends: jsoncpp (= 1.9.8)
-Description: Static libraries for jsoncpp
-Filename: ../../../../releases/download/arm-j/jsoncpp-static_1.9.8_arm.deb
-Size: 75372
-MD5Sum: c55f34c19541d0d821ed6e89572923f0
-SHA1: bd2d4a1b997fc23fa9f0e74a18a656b7b9785fd9
-SHA256: c81d2ea707d164612e6cceda7c7f9ec56e3e6c7b054c853c11cc3c97480d35c6
-SHA512: 0d13f2d7835c9d63a389f5f36a42417b2e3500c5d3d689411ba5e226929d90c84e1d209bc41561a85235780e29dc99ed5a7942895c831958b62bbff003a501ea
-
-Package: jsoncpp
-Architecture: arm
-Installed-Size: 360
-Maintainer: @termux
-Version: 1.9.8
-Homepage: https://github.com/open-source-parsers/jsoncpp
-Breaks: jsoncpp-dev
-Depends: libc++
-Replaces: jsoncpp-dev
-Description: C++ library for interacting with JSON
-Filename: ../../../../releases/download/arm-j/jsoncpp_1.9.8_arm.deb
-Size: 84852
-MD5Sum: 278637ab56666e116af14ff38c70efb2
-SHA1: 6e1aa8bd08a71be7265cc60098fcc90645cf2866
-SHA256: c887c04394f390fb23cc5ee67582fcede71ab5b8c6394dca7a578f1a1c608dc8
-SHA512: aded82001f059a940865aa575c69748e145bab78a5df6fd9b703b771be27f7df35f32f7e40f49cb556860ac2b33b687d46dfecd589f2284d86ea9078b5c9e671
-
 Package: jump
 Architecture: arm
 Installed-Size: 3284
@@ -33784,21 +33752,6 @@ SHA1: 0845b0f0d4fff8a2226bf23d24882c33e3859504
 SHA256: 77fc2dd41c8c3180791b6ec805008efb66097f5a1dc6ddb249f9164e8215df62
 SHA512: 7d938e2e900e25fa54927eaac82f6fe0363070ceb9952a89bae4d4c939405e2a6bfa07967b4c647c8c9e954ca68a32ade94d7e3b4489811c1ca14a4e00ecfc0a
 
-Package: libc++
-Architecture: arm
-Installed-Size: 984
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/arm-libc/libc++_29_arm.deb
-Size: 318076
-MD5Sum: d0f7347ef98ec3ac42cbbbb190a24400
-SHA1: 5caeb37f872c4ad6229affae92cc40451b46b21b
-SHA256: ba36e9e23a6c93dc4c6c5e417f2789928c19884df845a0add5435ebf7fb01f1c
-SHA512: 11e6ee366262ebe8a3fb55783ca0420f2c89cd0589ffff16ac60130a498e4916e80b5001cceead61294e602bb42c20a80ff118e6b4c08e9da7510ac80f9eaa32
-
 Package: libiconv-static
 Architecture: arm
 Installed-Size: 1128
@@ -34051,4 +34004,51 @@ MD5Sum: 6bd5544b8296eb8d2eb5dc2d1fb5a4f7
 SHA1: 2e4643748ff2af41ad3682f0fe0acb80060da38e
 SHA256: 6bff20426c3713185312f0a82b7fd9287efb25f2e8b3bbc1fd50cad509d4f109
 SHA512: f234e74abfc763bdf69910f8022257338acfc373c502524fd385df4ef061ad328cc008c1af31cd92fcf6d5d0c2af992d0cb7c81cdbf590b91fe71f6ac3b63f6c
+
+Package: jsoncpp-static
+Architecture: arm
+Installed-Size: 364
+Maintainer: @termux
+Version: 1.9.8
+Homepage: https://github.com/open-source-parsers/jsoncpp
+Depends: jsoncpp (= 1.9.8)
+Description: Static libraries for jsoncpp
+Filename: ../../../../releases/download/arm-j/jsoncpp-static_1.9.8_arm.deb
+Size: 75460
+MD5Sum: e4dca7ee3e2fcf706640e96bb6981370
+SHA1: 4d631d08cf8e9ce47ab2b7253b92a14295cb4a07
+SHA256: 9f360caba584b6745f6363b4e3e4875b9dbd12f9d0157f480d9978ae590c3bc0
+SHA512: 406ca284591019a7bafa899ccca1022c5ded548e2bac93c65049d3325e619e4cedd109b1b48414caf168b2fdedfea95ce4c80991757a241ea65a52d03f6c6f31
+
+Package: jsoncpp
+Architecture: arm
+Installed-Size: 360
+Maintainer: @termux
+Version: 1.9.8
+Homepage: https://github.com/open-source-parsers/jsoncpp
+Breaks: jsoncpp-dev
+Depends: libc++
+Replaces: jsoncpp-dev
+Description: C++ library for interacting with JSON
+Filename: ../../../../releases/download/arm-j/jsoncpp_1.9.8_arm.deb
+Size: 84816
+MD5Sum: a1d257e9f470b71665e158b80f522fe1
+SHA1: f5f48bc4ad65b58fad0e13736070fbbac1430d94
+SHA256: dce5c272ea912b3ac2a822330bbfa093601433ae1e23d9f33d4bfc8b130b243e
+SHA512: a3c9a3f88638d95eca43fd2ee189beb602af694635c468a3565e893608ec5eac7e945ae5a8f00477450c7f522f76e7300f59505fbc4d8f8bda45e94eef1e29ea
+
+Package: libc++
+Architecture: arm
+Installed-Size: 984
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/arm-libc/libc++_29_arm.deb
+Size: 318076
+MD5Sum: d0f7347ef98ec3ac42cbbbb190a24400
+SHA1: 5caeb37f872c4ad6229affae92cc40451b46b21b
+SHA256: ba36e9e23a6c93dc4c6c5e417f2789928c19884df845a0add5435ebf7fb01f1c
+SHA512: 11e6ee366262ebe8a3fb55783ca0420f2c89cd0589ffff16ac60130a498e4916e80b5001cceead61294e602bb42c20a80ff118e6b4c08e9da7510ac80f9eaa32
 
