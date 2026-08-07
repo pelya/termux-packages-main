@@ -12720,3 +12720,18 @@ SHA1: ae097e040c85e11bb3fd43a20d11c0560657722f
 SHA256: 58617b5ab91c2b5606c2119879f9543b919c765eee60d78aaec00dbfb0d02aef
 SHA512: 65e192b326e5aa2d8d2948d15436df6f2c32693f1c8349ba035bb4a922b3841c0365476ca37451364a519d61483fffb4e3a73529d04a4d62ee441bcc9eaf764d
 
+Package: lximage-qt
+Architecture: x86_64
+Installed-Size: 1444
+Maintainer: @termux
+Version: 2.4.0
+Homepage: https://lxqt.github.io
+Depends: glib, libc++, libexif, libfm-qt, libx11, libxfixes, qt6-qtbase, qt6-qtsvg
+Description: LXQt Image Viewer
+Filename: ../../../../releases/download/x86_64-l/lximage-qt_2.4.0_x86_64.deb
+Size: 228012
+MD5Sum: b1bda6e40d6dd569f2a72df56da591f1
+SHA1: 37a3123bee41c92d2d8d6c0864c7cf1e9294df44
+SHA256: baef4ad58f2b94271931bfad71a49069b9ac84062c88d4f6138f1ec2e818ee2e
+SHA512: d881459ea75f51a09f3eea235bd0aa9640816c1c299e174fb72984aa400574e069799a437f34a1e640cd6d00b92d1affaa4c08bec5dd3147c2f1d31163b41022
+

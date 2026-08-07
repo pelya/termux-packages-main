@@ -35179,3 +35179,17 @@ SHA1: 87ebb61fb33afa8fc95c9bcfbd76103851bed4bc
 SHA256: 3f5ec065ef7361d5def29968f702cce424ac3cd5142417ec2456d841f31f2b70
 SHA512: e5e2d615828327048067667af60dae8db6658ea82676932f8da3bcd0fe3538bbcafda43e48646fe76d276f97e8f8688b83032617b2bb7d4d9603db4d6aba6444
 
+Package: mp3wrap
+Architecture: i686
+Installed-Size: 68
+Maintainer: @termux
+Version: 0.5-2
+Homepage: https://mp3wrap.sourceforge.net/
+Description: A command-line utility that wraps quickly two or more mp3 files in one single large playable mp3
+Filename: ../../../../releases/download/i686-m/mp3wrap_0.5-2_i686.deb
+Size: 10428
+MD5Sum: a3d5df1091cf990acca2311e32ed0b33
+SHA1: b677a7b27771d3308bc10472cef7fb11388f2b86
+SHA256: cee2670002506950275e898faace3df34a10bfd8ad3fe4a28a41a4e54601c0db
+SHA512: b1e2881bcd89c2ef7de8e8099aeab55227cd23cd82b629881a2ff2ff8dc07e77cd80d414e8a9a60f00dbeeb4f9c56188954cc7846811535bb566965ba8b4a97a
+

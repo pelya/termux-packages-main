@@ -36106,3 +36106,17 @@ SHA1: 927a4a337da5fb27229002152b7db1b945cef950
 SHA256: ef9500bb300d94685ca384c0bb57c058e57669ec947c2e3d37fd94d6e46d05ba
 SHA512: 86ca665c6dffa07448aad557fbeddb0286b07c738ea435c4ba2edd703ab55e61a4d89c6361973eecd64ad1b4afe8277724bb1d11b06263c595608c12e8fe0446
 
+Package: mp3wrap
+Architecture: aarch64
+Installed-Size: 64
+Maintainer: @termux
+Version: 0.5-2
+Homepage: https://mp3wrap.sourceforge.net/
+Description: A command-line utility that wraps quickly two or more mp3 files in one single large playable mp3
+Filename: ../../../../releases/download/aarch64-m/mp3wrap_0.5-2_aarch64.deb
+Size: 7064
+MD5Sum: f75e42bbb4de4a16e040eb3639a250e4
+SHA1: 86b116d09bcfb934582382f2586fab7fadb27bfc
+SHA256: a20b4f9b091161dcf70850e574a07a8b55b7b3be7c1efa3b084d890ef177eb3a
+SHA512: 9a70352c35016b69ef2d42f8422b85795987b11944fc2d18ad2bc21f86df3a1c58efe48de879f9bc8367d40b602b5384b11f34f6183c34b1c4afe7bd7ef9d328
+
