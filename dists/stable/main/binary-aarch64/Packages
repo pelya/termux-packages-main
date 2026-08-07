@@ -32347,35 +32347,6 @@ SHA1: 3f84583fa376db5c63e343cfb8959d6e83379420
 SHA256: 1ec2e1621f6a243d80653081131fb23d7a204d08f7f5a0ca414415c5c6ce8d7a
 SHA512: 202c73631f7f1ba8fcfb5bff5bab78b6e9b7c1e479dc738fe224d19b52b59762facf6a71e0b4b7f4a456b58f33ab7719dd3c4ce9a8a23b846d2f9605f991db47
 
-Package: ca-certificates-java
-Architecture: all
-Installed-Size: 184
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Depends: ca-certificates (= 1:2026.05.14)
-Description: Common CA certificates (java keystore format)
-Filename: ../../../../releases/download/aarch64-c/ca-certificates-java_1.2026.05.14_all.deb
-Size: 96488
-MD5Sum: 91f1b3eecfce4e346e980878a7e865c4
-SHA1: 8939487b8516cbbe79ba158e431ab56a9b45b002
-SHA256: 45738cf157d90b832c900786ea94c08f94c3f7cc85caa2643b2e97a017163f5e
-SHA512: 60f14c0c609c0cbe1110b2110bf50a3c4854574b489200c1de26b151f5a46427f2b464cf97a974681c824fc3a13471754bf9ca14cc435baa53400cb83fb5caa6
-
-Package: ca-certificates
-Architecture: all
-Installed-Size: 232
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Description: Common CA certificates
-Filename: ../../../../releases/download/aarch64-c/ca-certificates_1.2026.05.14_all.deb
-Size: 105736
-MD5Sum: d58491ffa01dcb00c1812689c62290e1
-SHA1: 434568e9960062580cfb2ea916a5a414e75b2e55
-SHA256: 7cad65dd2d1bbecf590285a35a18cbea07dd14aa1965c9c2e758ad2f36431ecc
-SHA512: 8fb9f9849ce5b0af7e5fd234e3edbfdca9d26c5ce8b6718825eccbd80b3b0a2be1dad0516e5f9d6e4a783a5464370d0667358586d7cf65ed7c1b8ada712e1bf9
-
 Package: nginx
 Architecture: aarch64
 Installed-Size: 1596
@@ -34488,4 +34459,48 @@ MD5Sum: 74499e36b7f9e8ed6d1e0afb57be74ff
 SHA1: 8f40499036746e5dbeafef9b920fd3153510c8b8
 SHA256: 99c9e414a8241cd340c55256925108b19cda1fe096052c17674842e14bb8a78b
 SHA512: 395e45f52c7c12030bfb21e23f2f5d991f4f6308367c05f1d04626ee90b85760ed68b0f6a4b42b2803ed5cb845265ff2f7ab43063594cf60f5b3a1aaa73f260d
+
+Package: ca-certificates-java
+Architecture: all
+Installed-Size: 184
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Depends: ca-certificates (= 1:2026.05.14)
+Description: Common CA certificates (java keystore format)
+Filename: ../../../../releases/download/aarch64-c/ca-certificates-java_1.2026.05.14_all.deb
+Size: 96492
+MD5Sum: ab2d044c0c792eb55ccdcebe286de1bf
+SHA1: 79b01fa3fcf9b4507374e126ce199b12cdc69276
+SHA256: a7c5aff5e3f7d59910f3f161abf87e6b058e579135826ecf4c19baac252ab176
+SHA512: c25d979e40948accabdaee8ad9d6a9412ff5848be779678dd7b498c5553990088f496df2867487ed66958f736f1b8f2229aca156dbf839692f51257978c26f1e
+
+Package: ca-certificates
+Architecture: all
+Installed-Size: 232
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Description: Common CA certificates
+Filename: ../../../../releases/download/aarch64-c/ca-certificates_1.2026.05.14_all.deb
+Size: 105744
+MD5Sum: 09696842331e64b8defbb996cddd3bbe
+SHA1: b2d0b9ca774aaa4c6c9a4a45bab4d3296ad3296a
+SHA256: d3a41801d1441cd2b03fc3189083a95e2e2056ca80ddced65c4378fd34b81bb8
+SHA512: 3b0cb891552cbc34c3e94d6833ae5fa1510b13fb8bc0212023d02592017950f3e8dd1adaaa443204b03d6e4bf9c1ba927208ab47ac055112c349c3e1d024d4c2
+
+Package: libcmis
+Architecture: aarch64
+Installed-Size: 1500
+Maintainer: @termux
+Version: 0.6.3-2
+Homepage: https://github.com/tdf/libcmis
+Depends: boost, curl, libxml2
+Description: a C/C++ client library for the CMIS protocol
+Filename: ../../../../releases/download/aarch64-libc/libcmis_0.6.3-2_aarch64.deb
+Size: 310344
+MD5Sum: c04ba3c175c287289b1420a21a185e65
+SHA1: 38ff2538604a5eaa77efbf5ccd304e50f4d1120c
+SHA256: d5b0f721855d94415c8dbd397796c751a0fe3646f58be63c7095ffea93828a62
+SHA512: 71382d10b6391afbf607c61d11348fff20bcd30385f98345828907a544e3cfe625ae2a40bebcf5161338f976ca3695b989e8f39776a8a00f8fde1361f8e2035d
 
