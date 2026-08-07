@@ -12479,3 +12479,17 @@ SHA1: 273faa7b2bbc1ab56f9b3606041c93305ff67415
 SHA256: 8c018529393d4c7d79bea6a13288e6b22da5675c4c2a9afd8a5f241e7a6a289d
 SHA512: efaab39fc9c14aa81accd41e6736439344e4fd91e1e02e89798046a2ef42bf840560756d4d613db6d6a650ac83101f7acc82455b1e922112995b9146e051a66b
 
+Package: box2d
+Architecture: aarch64
+Installed-Size: 648
+Maintainer: @termux
+Version: 3.1.1-1
+Homepage: http://www.box2d.org/
+Description: 2D rigid body simulation library for games
+Filename: ../../../../releases/download/aarch64-b/box2d_3.1.1-1_aarch64.deb
+Size: 145192
+MD5Sum: f1453640bdbfb9488cd385f629325aa4
+SHA1: eea00f3e4453cc915d220ad4c758e36c7097fe09
+SHA256: 6df255eb7d537fedb49274589a428a9b768623480f896e7028ec00e04e4bf1f8
+SHA512: e136d9d1f6333de87c93877600a65338f5234b52ae0f7c83b4361c4644b2926884c20ac9a93b7b664a66c9c787f6048a924e506057b1bef9ee4bf38d2af6824a
+
