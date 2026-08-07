@@ -12248,3 +12248,18 @@ SHA1: 6fb37ed1827433e1c9f2255c99879cfb7874e3dc
 SHA256: 90412b8eb3977e6bcebae9e1c1d276c0d5219fdf4df039e7600b2405b7f9e00f
 SHA512: d9ea2334c3a485a35522cc5cd940e0f199477c8b66fc677d4842d405f75c83339b9f44e986ae812dd88ebbc25753522483290ff52ead0dac1628626982df559a
 
+Package: xorg-luit
+Architecture: arm
+Installed-Size: 84
+Maintainer: @termux
+Version: 1.1.1-23
+Homepage: https://xorg.freedesktop.org/
+Depends: libfontenc
+Description: Filter that can be run between an arbitrary application and a UTF-8 terminal emulator
+Filename: ../../../../releases/download/arm-x/xorg-luit_1.1.1-23_arm.deb
+Size: 16296
+MD5Sum: b35861b82e36cdc446efad7433cc0f31
+SHA1: a83eeb993114d784305c0a328c499154ebb2fe51
+SHA256: b7d0b8aea6415363abd9817eab622c637fb96aa11ec075b265b6f30fcc12f9ab
+SHA512: 6a4921fa714c710940d4d62f598cc407eca32cc318244c11e69241f203427e91769f78f59e1c7b8bfe1ce8a12e94406a07e6063e84cc8d6c4f04f1059d41554d
+

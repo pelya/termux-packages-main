@@ -12112,3 +12112,18 @@ SHA1: f473dd672eda9e5b7e46ac6215b90558b9263179
 SHA256: f8e155519c850f0c1f80a18dead86de84f6f58b2c4bd18805b567931ae4ecbaa
 SHA512: 9c7695af91978dbb7db4fba879773e480473c025fcfca5e8fc15e0acffd6b407cd4a5865988fd21c3ad8f94cb35520cd46fa1c772538b79ab1d8f2c331e1b570
 
+Package: xorg-luit
+Architecture: i686
+Installed-Size: 92
+Maintainer: @termux
+Version: 1.1.1-23
+Homepage: https://xorg.freedesktop.org/
+Depends: libfontenc
+Description: Filter that can be run between an arbitrary application and a UTF-8 terminal emulator
+Filename: ../../../../releases/download/i686-x/xorg-luit_1.1.1-23_i686.deb
+Size: 18204
+MD5Sum: 3ce53ac08613ffca806772f88cc81f28
+SHA1: df0e0c4d5fb3ebc11bb96f92b03ef03d0a2d9183
+SHA256: 8a1797bc3293c9df73c55f95e51d5a68ae06442ed514a39c9c5b0775f03e2e29
+SHA512: 698280862a9c3ba5cc38a6b25a27f349c7274b8584576a396ee4bec11cf74fcaefdea6d64945142bc04f94c01f589070505e66e16a311837867b882cfd3ea439
+

@@ -35089,3 +35089,20 @@ SHA1: fe477d8788ba7b6cdc4182330967f38eeaf787ab
 SHA256: 2ee70f1095ea7fa22e92c83d763481d6a444951cd4ca067b4a66ccb995e4c2a5
 SHA512: 900b2df3bea997b03b7dbfbd4f2144989a53ae1145ce35d1deaf5af7d59c948edc1bff994cfa2ac52acaeaba1290317d21fc8d0614755a19dc3868c1e98a60a7
 
+Package: irssi
+Architecture: aarch64
+Installed-Size: 2908
+Maintainer: @termux
+Version: 1.4.5-4
+Homepage: https://irssi.org/
+Breaks: irssi-dev
+Depends: glib, libandroid-glob, libiconv, libotr, ncurses, openssl, perl, utf8proc
+Replaces: irssi-dev
+Description: Terminal based IRC client
+Filename: ../../../../releases/download/aarch64-i/irssi_1.4.5-4_aarch64.deb
+Size: 536992
+MD5Sum: 982ebdf0c00d5c6a06effba2268c4cef
+SHA1: fc4848564110922b315755fcf28506c0e2fd5012
+SHA256: 63042704b8227105331e35af5290b35a314eb123efa5fdfe1ce866314dd890df
+SHA512: 57e10e3ae56faeba08ae6236762983c76e301a408b9d83fa0b4b0e16affcc3fefae9cbfffe7a6f2a6e372e6253cb847c23372552aa4cdb440cacaf52a2a9289a
+
