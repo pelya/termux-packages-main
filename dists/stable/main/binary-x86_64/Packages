@@ -34773,3 +34773,32 @@ SHA1: 1873d3b9e8d1a74ab8acc2b4be7287cd06da05e6
 SHA256: f4e207450b24000023df1f2f45dad0e53215d2f03f45e7c6473740a07c2fa208
 SHA512: 4838323b7d0b4e2b2c947589484aa41418b0286629578ab0d25ab3ad32620dd0064df1d4be5c9951e3782980a58a9d3b4ba3f0fa1dda90234c3ad10572711ea6
 
+Package: gobang
+Architecture: x86_64
+Installed-Size: 6836
+Maintainer: @termux
+Version: 0.1.0-alpha.5-4
+Homepage: https://github.com/TaKO8Ki/gobang
+Description: A cross-platform TUI database management tool written in Rust
+Filename: ../../../../releases/download/x86_64-g/gobang_0.1.0-alpha.5-4_x86_64.deb
+Size: 2367372
+MD5Sum: 58da377cd09ff792881c4765b4a237b3
+SHA1: cdda5de60e2ecff7b6d3dcc383f4d0b4c8ce2586
+SHA256: 17d0165fc5df5400b6c8085bb1ee58597e0656ddd10a778fbefb0eb455a6b2d7
+SHA512: 117ba5496735daf2799ca1cecd21b218b9181e866367e8fd95bdd2464cf2c8c1159579f7bd1e86ff2aa0e52735f29b4265b71e48c05fa9955600364d5a9b051b
+
+Package: python-torchvision
+Architecture: x86_64
+Installed-Size: 3580
+Maintainer: @termux
+Version: 0.27.0-1
+Homepage: https://github.com/pytorch/vision
+Depends: libc++, ffmpeg, python, python-numpy, python-pillow, python-pip, python-torch, libjpeg-turbo, libpng, libwebp, zlib
+Description: Datasets, Transforms and Models specific to Computer Vision
+Filename: ../../../../releases/download/x86_64-p/python-torchvision_0.27.0-1_x86_64.deb
+Size: 511968
+MD5Sum: 70a3a61851e16ed1c9af31dcf523752b
+SHA1: 66d6e37614ccd1a18172c9a55673b93e63600918
+SHA256: 7450cf52ace4bb90a8012762a6f8a4d5e1955d875526a05e9cd70b25349db914
+SHA512: 0c73af5e555a8735338aee1ed9b437c095652a13b7e7647e06594ccd943f9b3f3a592670d38b875fe5e07bf2643d687113e9b3d4bd17b91289087eddf664b4dc
+
