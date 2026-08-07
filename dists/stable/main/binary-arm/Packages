@@ -34814,3 +34814,19 @@ SHA1: 46b142c52e3d36d48996b84abe4945fc0392c54f
 SHA256: 6879f7c74aa9eef3207a80a2f2ef3bd6a18404a06677c51d87dc2dda532ebc4a
 SHA512: c63b63040759a6e48d3119f66e32034d0e31bfc7425ec0c6c56b2903fb1e249358ae4c35411b3fc746030073543aa998ae9e82af5a72666cb4645518d944a5a2
 
+Package: corrosion
+Architecture: all
+Installed-Size: 232
+Maintainer: @termux
+Version: 0.6.1
+Homepage: https://github.com/corrosion-rs/corrosion
+Depends: libc++
+Recommends: cmake, rust
+Description: Tool for integrating Rust into an existing CMake project
+Filename: ../../../../releases/download/arm-c/corrosion_0.6.1_all.deb
+Size: 35192
+MD5Sum: 71eec76ef3c6328e26b931060348e304
+SHA1: 8d0c47968e43c877a632f3d3f5261dbf3fa69072
+SHA256: 95dcbda419f4c265dd59f95b8fc27a2aebe9f5c4431fcbb62fe06d54ed1e646f
+SHA512: 244a092e6be1b1464a96db1aff8774a8ddf146327ca11dc8a4190be93ca6cb6418ad1b1b038cd8738c8ba4bc3f8ba6e40446905119ce021d41558e3c415bcda6
+

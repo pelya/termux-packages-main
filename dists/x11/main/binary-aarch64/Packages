@@ -12854,3 +12854,48 @@ SHA1: 375dbb95caf5dce4911f4dc0bd36f39fcbb6ff21
 SHA256: 77996cd767aee9d828f9c220244fc1bea45d64a637817b41f559feb685cdc9bf
 SHA512: a6ba0ab9c781381acac2ecd762cf80f3137d576aa5dd204a2c4296b99a16f6fda58062ec848085dac39b03432f470840323e4969c5e1d3e223efc07605564017
 
+Package: angelfish
+Architecture: aarch64
+Installed-Size: 5796
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/angelfish
+Depends: futuresql, kf6-kconfig, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-ki18n, kf6-kirigami, kf6-knotifications, kf6-kwindowsystem, kf6-purpose, kf6-qqc2-desktop-style, kirigami-addons, libc++, qcoro, qt6-qt5compat, qt6-qtbase, qt6-qtdeclarative, qt6-qtwebengine
+Description: Web browser for Plasma Mobile
+Filename: ../../../../releases/download/aarch64-a/angelfish_26.04.3_aarch64.deb
+Size: 1259256
+MD5Sum: 57b3ef58b9bedb1cedf4561bbc17180f
+SHA1: 47276947a1ca0279f6ff47c4a17c853cac68c2ae
+SHA256: 2bdaa067911bc2eaa209f9ba0d1ca9560af518c567c3034d1c5c7b297228ade7
+SHA512: 9ee0b1d6dbe6dd67f9614c1ade3b245ad1078a8f308a9b4f08b62a030bf7d0efb55f6afdb31fa1252f0667def5a2e1d13f1552ffc68e49193df68432e63bd40a
+
+Package: qt6-qtwebview
+Architecture: aarch64
+Installed-Size: 864
+Maintainer: @termux
+Version: 6.11.1
+Homepage: https://www.qt.io/
+Depends: libc++, qt6-qtbase, qt6-qtdeclarative, qt6-qtwebengine
+Description: Provides a way to display web content in a QML application
+Filename: ../../../../releases/download/aarch64-q/qt6-qtwebview_6.11.1_aarch64.deb
+Size: 59304
+MD5Sum: 50c0dc1e3d2322ac0772b765b42e1d76
+SHA1: 77736950e3d96227c6037e07e9b3408e4318b119
+SHA256: 65cbcb91933c1d874a5eee06d734922b310d61c1c6f10c8e410ee3cad4a80926
+SHA512: 85a3c64bd1cd8428a57eddd7e289a19c01cd0e9b91313a6332b888b9947c9f14414192d263f40b90d3b768c80b88ac47736cbee2b380503f3aba2a17e9921a30
+
+Package: tokodon
+Architecture: aarch64
+Installed-Size: 6600
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/tokodon/
+Depends: kf6-kcolorscheme, kf6-kconfig, kf6-kcoreaddons, kf6-kdbusaddons, kf6-kdeclarative, kf6-ki18n, kf6-kio, kf6-kirigami, kf6-kitemmodels, kf6-knotifications, kf6-kservice, kf6-kwindowsystem, kf6-prison, kf6-purpose, kf6-qqc2-desktop-style, kirigami-addons, kunifiedpush, libc++, qt6-qtbase, qt6-qtdeclarative, qt6-qtmultimedia, qt6-qtwebsockets, qt6-qtwebview, qtkeychain
+Description: A Mastodon client for Plasma
+Filename: ../../../../releases/download/aarch64-t/tokodon_26.04.3_aarch64.deb
+Size: 1102564
+MD5Sum: 9d5c51b32870d4144f452ce3c5100ee2
+SHA1: a66e2f5e02d4a64012ff0c099e9ec96b29e40fc4
+SHA256: c66262e4726533b780bfbb3e8af44f82cd8d23af43c6d635ca3e48c48f6f6861
+SHA512: 2445b2647e35a01f8066d7e6941528edd6d07f48dfd50bca22c895ac70dbc4b9a8b1a5b5175d061528a96adc464eeb5ca3abbac3df6ac060f0b0ce142f22e6f2
+
