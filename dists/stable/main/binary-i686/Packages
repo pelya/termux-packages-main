@@ -35667,3 +35667,18 @@ SHA1: ddf830dcbca74fbc547dde2db0c64f731cad828a
 SHA256: 883f4adac87f8036c708a6fb0ba02980f4bcd9ef725c8b26964083bf0af5650f
 SHA512: bedc07cc06d15e7afaee3b0d09402ecb51103a278b83ac9c7b651b9b7634270525c6832a14753958f1b36079993f9f37bbfc8243b7c66b701996fd9bfa48e8f2
 
+Package: multitail
+Architecture: i686
+Installed-Size: 424
+Maintainer: @termux
+Version: 7.1.5-2
+Homepage: http://www.vanheusden.com/multitail/
+Depends: libandroid-glob, ncurses, ncurses-ui-libs
+Description: Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge
+Filename: ../../../../releases/download/i686-m/multitail_7.1.5-2_i686.deb
+Size: 127196
+MD5Sum: c94197bcc0891cbaf1420e344c1636e0
+SHA1: dd1e63680a995840b176c20e43aa079014dba7a8
+SHA256: 90e2c454acc9a91d3ba119b86e597bbe6c009ba59ebc06578793c6f4b96fe94e
+SHA512: d87363dd5726e8a4e3ab7d3839b8a0dbd6fc15feb6a51b9f2634ace61777430a63f01983c6b48c7831fe3c3e322ec932e648b3273a18927aa9f68a9e9f283a92
+

@@ -35097,3 +35097,33 @@ SHA1: 8eb0f4270b78ade6353654cae6f995b8f6cfefba
 SHA256: f91728b0365cb61bc0a9e317ec3c7e1c26f559f7a6b4b90e828fc3866999a827
 SHA512: b69f8668fe606dc889491b8bd1d8cdb285295f509742f0623b47b234fa91535449bfde79f3f5c5a25e56beb3c15ab95ed79c6e5f684e939e8d9acd6711cef34e
 
+Package: gomuks
+Architecture: arm
+Installed-Size: 20648
+Maintainer: @termux
+Version: 26.06
+Homepage: https://go.mau.fi/gomuks
+Depends: libolm, resolv-conf
+Description: A terminal Matrix client written in Go
+Filename: ../../../../releases/download/arm-g/gomuks_26.06_arm.deb
+Size: 5319584
+MD5Sum: 8bfa1b36ff0b0756e2ca7d6ad3c04fb4
+SHA1: 954a3c85d8753f094a5303576073d50cf84b0c6b
+SHA256: d4b50ad90025f1d8db9c056bcb092d2c75e44a16e5781fac6e512c12cb9b9b23
+SHA512: 3223300058c2d2b96b24c4c652f6eef8a308026fa10ef10fad1ca2bf37f5fb2cf870c6c31dc3fbb3e6263b2a2a117acf44baeb88f8479d5c3438207ad4116b0d
+
+Package: multitail
+Architecture: arm
+Installed-Size: 356
+Maintainer: @termux
+Version: 7.1.5-2
+Homepage: http://www.vanheusden.com/multitail/
+Depends: libandroid-glob, ncurses, ncurses-ui-libs
+Description: Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge
+Filename: ../../../../releases/download/arm-m/multitail_7.1.5-2_arm.deb
+Size: 116952
+MD5Sum: b8ef268619a3121bba9e47c4184bbdc7
+SHA1: 66e5a3ed5c7e16b83ca239a4558d2d8411612e49
+SHA256: 9c154d25a413403db4288e21903f7b1603118544e4c30464cee3968d33955a0a
+SHA512: 77a4231b17d3355e803d90f7d20099999eecb301a00417220dfb64aa097473108dbbd28d3150f23892dbfe6ddf2ddfa4185768c4209c95887f50d5f546ecaa75
+
