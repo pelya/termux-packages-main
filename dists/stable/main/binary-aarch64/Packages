@@ -36942,3 +36942,33 @@ SHA1: a11d74093c10c59a7898221ce232aee8f04227f1
 SHA256: 9e0cc4a40c7e6b738f52ff6ccab6929e47812cb67f52b780de3ceff4be3914be
 SHA512: e7edf0abfce22d70e6e97654662d00565121457c2dcfb4cce2a304919c64bd73c2e165200d6aeea67d837832e3f7922197022cb62bc3acba4856e4dd7c5e5bb0
 
+Package: gatling
+Architecture: aarch64
+Installed-Size: 424
+Maintainer: @termux
+Version: 0.16-2
+Homepage: https://www.fefe.de/gatling/
+Depends: libcrypt, libiconv, openssl, zlib
+Description: A high performance http, ftp and smb server
+Filename: ../../../../releases/download/aarch64-g/gatling_0.16-2_aarch64.deb
+Size: 107572
+MD5Sum: 012acc9e8b9ea97f8fa25893518312e9
+SHA1: 731b583da2461b5acc7e221cb32828a6fe7fae89
+SHA256: 919a93ff5658dac60918f35ce6ead322167e6d02622adc407e4a3039a455c689
+SHA512: 5144b56048d2aa41b4df5bef036ab4633c92e616dbb002518cb0f2a7c9ef6fad95a21c48fec407f2a119eac5454c941a0e5ae28569a92bac9378ad30f5d05201
+
+Package: tig
+Architecture: aarch64
+Installed-Size: 1120
+Maintainer: @termux
+Version: 2.6.1
+Homepage: https://jonas.github.io/tig/
+Depends: git, libandroid-support, libiconv, ncurses, pcre2
+Description: Ncurses-based text-mode interface for git
+Filename: ../../../../releases/download/aarch64-t/tig_2.6.1_aarch64.deb
+Size: 228252
+MD5Sum: 9048986280c1c3de4bc3333941e5f950
+SHA1: 6496398112a706399acf6a61e01828db423f89db
+SHA256: 43f73f7037e80ab32b9f8260ebf5cedf51381f963211c56da3ee8138849505c7
+SHA512: adb4d6ae78f4db4b04bce0fc251950d1d15e20ecb57481694833c973a58259c7bcd87ec408c7ff7e491350540f076ddae02c617901b365d9ce2b767d8ced1346
+

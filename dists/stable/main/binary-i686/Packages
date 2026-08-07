@@ -36000,3 +36000,33 @@ SHA1: 51a36454b0d3afcf67c326bebaef89d56bb67647
 SHA256: 0146158425b71bfb8b6c53e8b019878a111a890ff3a0cd646bc7c8432dde39f2
 SHA512: e7834b03fee99b1c497def48ae1e78af5f65ff7bcca959f52cd9e47bd1b7b18e52ece4b4bdd50dcc0c69175197c2b346a336bc5b9b79eba581b8400541dad978
 
+Package: gatling
+Architecture: i686
+Installed-Size: 412
+Maintainer: @termux
+Version: 0.16-2
+Homepage: https://www.fefe.de/gatling/
+Depends: libcrypt, libiconv, openssl, zlib
+Description: A high performance http, ftp and smb server
+Filename: ../../../../releases/download/i686-g/gatling_0.16-2_i686.deb
+Size: 114160
+MD5Sum: fda5d64b2607cf22566a99ff16f76741
+SHA1: 532791341fa882c2c7ea37b225d457fbe0d73898
+SHA256: c6c5fb00ac751844c42ddc6383eb99ecc1493654ac476f792e2b837464c4fece
+SHA512: 795bb3d4aa5ac44471d54c8cd735399a0c61cf9ed4b885f25516e8248b7dfc7ae374959509f01c9473744058e4a58fb976e742c7304361e88777c796762c14c2
+
+Package: tig
+Architecture: i686
+Installed-Size: 1088
+Maintainer: @termux
+Version: 2.6.1
+Homepage: https://jonas.github.io/tig/
+Depends: git, libandroid-support, libiconv, ncurses, pcre2
+Description: Ncurses-based text-mode interface for git
+Filename: ../../../../releases/download/i686-t/tig_2.6.1_i686.deb
+Size: 233032
+MD5Sum: 397882434ee992a1c430cfdfa653bb9c
+SHA1: 8cec54cb4aff35625b14ba5fcb10e38fb0379089
+SHA256: 7016411b0e8f0033df90187f577ac84348111ec7d66a7386e6216b40770b3d58
+SHA512: 6422bb8ba0589e5e62b21599fd7d5450611f740494133eec3332c0f9817407db77739944f78e0c9a91b5d7dbf91530a91e1814b4beed0783e7546a201551f7ed
+
