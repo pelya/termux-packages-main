@@ -462,3 +462,18 @@ SHA1: f4343d55a2bda325b848f408573246a74f404731
 SHA256: 822206b84c5d2f6c1be429d4da54dfb0102b63965f84a05e772b8c29a8cf77b0
 SHA512: f626d9930f0f16b1251eaec456cf711aedb3afc30fde6c65f0a656e92e1e6c079ef6dc42f9abd67ae46aa4c22ffde96330dbb26ba9920b57484d991d59732e95
 
+Package: below
+Architecture: aarch64
+Installed-Size: 10920
+Maintainer: @termux
+Version: 0.11.0
+Homepage: https://github.com/facebookincubator/below
+Depends: libelf, zlib
+Description: An interactive tool to view and record historical system data
+Filename: ../../../../releases/download/aarch64-b/below_0.11.0_aarch64.deb
+Size: 2625704
+MD5Sum: e41fda01d32344588b6a4ef94a4c9d63
+SHA1: 8a2e0405e58aecb7d5330266b55a6e468208f4f2
+SHA256: f54adf0f9283548f3857ce344a11799bffb04cd6567253c7b0c7aa6eafa57bf0
+SHA512: cbcfee9bea4f92a81c111d7ad067105046c3489b5e285109b2b9cf56ee1e6521801567fe822b7fb1f7f3a4738ecb12cdc1f004abd44b7006e6e57130bd9f1d04
+

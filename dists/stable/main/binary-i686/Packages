@@ -35149,3 +35149,18 @@ SHA1: a9b111d9473178e2df583c6ed95f42061a91e48a
 SHA256: bfd46aefb7d2620289d42b0eb7eb4153976dc936a6847600170e5c5a08a38354
 SHA512: aacd0c5631ed2404a7dd1d37021d03afbf70c9c1a18f88c1320937e92bc5658b97ac22b02b224f58b3cee983f25cfaf0341d30ed76d24f6422d37368cc7b36c8
 
+Package: scala
+Architecture: all
+Installed-Size: 182092
+Maintainer: @termux
+Version: 3.8.4
+Homepage: https://www.scala-lang.org
+Depends: openjdk-21, which
+Description: Scala 3 compiler and standard library.
+Filename: ../../../../releases/download/i686-s/scala_3.8.4_all.deb
+Size: 171729300
+MD5Sum: e603d6d7a4c378bf76cb9e40e2c4a2b5
+SHA1: ee081816ca41007a6864082119c5a70f76f4870e
+SHA256: 44cc329f3cca68cc0129fa32c6f153d3bdbea519c6118c919905f77ecb9f8c1a
+SHA512: 77bb692694a4bcd1dc60fd09bd871221104766129ee8782716a40e18d5eb7f79e6b78fa340e37fe2519a9fc0b91525a06e2664d525e9c31c654be79d9f67314f
+
