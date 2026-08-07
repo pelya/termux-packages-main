@@ -34876,3 +34876,67 @@ SHA1: 6d87ec255cfde29cc59018bacc6e9d2e83f45b42
 SHA256: 5408d1a3f949d0adbaf37f95aa3a624ef7032b76d184fa727abc51d9e1947a7b
 SHA512: 270bdcbf3f967686493d355b00ad8042c502c4917f19e24f1dcc10c3450b6d114cc8dce60d87fcdc1373da40a250a8f59a75db806124760047f756a39b007938
 
+Package: lyrebird
+Architecture: aarch64
+Installed-Size: 17100
+Maintainer: @termux
+Version: 0.8.1
+Homepage: https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports
+Breaks: obfs4proxy
+Depends: tor
+Replaces: obfs4proxy
+Provides: obfs4proxy
+Description: A pluggable transport plugin for Tor
+Filename: ../../../../releases/download/aarch64-l/lyrebird_0.8.1_aarch64.deb
+Size: 4282844
+MD5Sum: c98b7cdc0b8125135f5495bb86106252
+SHA1: 1f257ad5bdb8fc625c35074c6e68a6f723c3ca00
+SHA256: c072979ddb56bebde74a673e91c2e28f4abc063d0af4c56241ec35855fbb34a0
+SHA512: dd142626204df609ff2d4a9b8cd4f39f5c50e730674ded3d9453dd6ab69bf64f0d9781b8044a3a707d397b20f3c47f6c5dfca35cca7eea9e5ed6098b7a226ae0
+
+Package: openjdk-25-source
+Architecture: all
+Installed-Size: 51812
+Maintainer: @termux
+Version: 25.0.3
+Homepage: https://openjdk.java.net
+Description: Source files for openjdk-25
+Filename: ../../../../releases/download/aarch64-o/openjdk-25-source_25.0.3_all.deb
+Size: 48622792
+MD5Sum: f2b30ed1d8fe0a0c30f3a6c008388300
+SHA1: b7ef69393a2ef7af683da612df39fb7b81dd9558
+SHA256: ebd092dd3d9a406e796ab5b357e263e84d6d957d4aa300df86c28518dd1c7807
+SHA512: 64e7cb331851fbcb3c655e01d08dcacefbb3d48a912876f4114acaaf87e43896a6a6000b99efa049860db02960e43a05cfbd4978447dbadc0e9cfdc11b14f597
+
+Package: openjdk-25-x
+Architecture: aarch64
+Installed-Size: 14948
+Maintainer: @termux
+Version: 25.0.3
+Homepage: https://openjdk.java.net
+Depends: freetype, giflib, libandroid-shmem, libjpeg-turbo, libpng, libx11, libxext, libxi, libxrender, libxtst, openjdk-25 (= 25.0.3)
+Description: Portion of openjdk-25 requiring X11 functionality
+Filename: ../../../../releases/download/aarch64-o/openjdk-25-x_25.0.3_aarch64.deb
+Size: 12761408
+MD5Sum: 1ff371c0d102669ae476778cd4c5133a
+SHA1: 5865a8c9373b6b945fbc0a8761e417606307d6fa
+SHA256: 53ac2454411c204fb1259876ac116c127cb87fd772dbfa503b2c0a010b505191
+SHA512: cfa4620c5ec05f47f74d254734f6d7d53ae56cb40edd38356c8e21427fb761a08372ec595f730035c4fb58f3ea996ef14d0d0fa519cdd6af5f0c2ae200ea96a7
+
+Package: openjdk-25
+Architecture: aarch64
+Installed-Size: 259304
+Maintainer: @termux
+Version: 25.0.3
+Homepage: https://openjdk.java.net
+Depends: libandroid-shmem, libandroid-spawn, libiconv, libjpeg-turbo, zlib, littlecms, alsa-plugins
+Recommends: ca-certificates-java, openjdk-25-x, resolv-conf
+Suggests: cups
+Description: Java development kit and runtime
+Filename: ../../../../releases/download/aarch64-o/openjdk-25_25.0.3_aarch64.deb
+Size: 116809508
+MD5Sum: 8f91d7d7ed38314823236b4580e1dfc0
+SHA1: 9313a5b214b4d577dbec1fa9dfcfc6e90b1f0665
+SHA256: 6e844f53a408f18ba4016f9f1004fc78d46c3a6fe13f8beddba5538ad5341845
+SHA512: 99bffb15d3e8bc0d8a43a2b2ef323014d71abb8fbf620c074fc8beab0239be8ec6ede5de5f0f4b4643bdfdb11d2df34eb15f0fcf6802d842f9c0d6246bdc1bac
+

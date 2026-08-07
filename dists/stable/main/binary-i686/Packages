@@ -34011,3 +34011,35 @@ SHA1: f1f13d3e5b867d951a925b60eac6570271da1695
 SHA256: 87d22999a6e69b3efbb8cd5cb0aa2ec3ec5456df5c243cb4afa2ddcdb6e5fc65
 SHA512: beb67fe7f69aba0bc412f2ab461a7f2a1e0942bc7d3f1d5e4f63debeb5d6135a6965e77562d73ca75dc711e89b1d52b927dad9710379f84dd2fe2a40af4ebc06
 
+Package: lyrebird
+Architecture: i686
+Installed-Size: 16640
+Maintainer: @termux
+Version: 0.8.1
+Homepage: https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports
+Breaks: obfs4proxy
+Depends: tor
+Replaces: obfs4proxy
+Provides: obfs4proxy
+Description: A pluggable transport plugin for Tor
+Filename: ../../../../releases/download/i686-l/lyrebird_0.8.1_i686.deb
+Size: 5119032
+MD5Sum: 2c3c5c5b9791eb458dde48e3a7fe359a
+SHA1: 134ac36868a9963ae36510a7463b4ba506a5978f
+SHA256: e8c0e2f083bbe77d74e00af32115827a64bb70664091be0ad6c09270c121a043
+SHA512: 95e50ed05d92e9722eb907e567da7664861934109421f1a05d2d6583ecf12e7840252b95312deebec3a42dec0df4f5fd3854c0d3e4249f28da05df17e98f202c
+
+Package: openjdk-25-source
+Architecture: all
+Installed-Size: 51812
+Maintainer: @termux
+Version: 25.0.3
+Homepage: https://openjdk.java.net
+Description: Source files for openjdk-25
+Filename: ../../../../releases/download/i686-o/openjdk-25-source_25.0.3_all.deb
+Size: 48622792
+MD5Sum: f2b30ed1d8fe0a0c30f3a6c008388300
+SHA1: b7ef69393a2ef7af683da612df39fb7b81dd9558
+SHA256: ebd092dd3d9a406e796ab5b357e263e84d6d957d4aa300df86c28518dd1c7807
+SHA512: 64e7cb331851fbcb3c655e01d08dcacefbb3d48a912876f4114acaaf87e43896a6a6000b99efa049860db02960e43a05cfbd4978447dbadc0e9cfdc11b14f597
+
