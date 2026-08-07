@@ -34371,3 +34371,31 @@ SHA1: 28dfa5a18c8b74b94acbcd7aeb3261c8ffafd17f
 SHA256: f3de7f07b85ad8f511b45bf00561a610e8a08e7ce7b40adb2a4489282bcd40a3
 SHA512: 05e6cd247a89dd2fccf53c59b511f15c02fc83320f8a8287b97636f8f8c2e9d7d51624268946b15d1e1cd30c533ba17314a0b6304c7af762ffa723f50581af09
 
+Package: agate
+Architecture: arm
+Installed-Size: 1360
+Maintainer: @termux
+Version: 3.3.23
+Homepage: https://github.com/mbrubeck/agate
+Description: Very simple server for the Gemini hypertext protocol
+Filename: ../../../../releases/download/arm-a/agate_3.3.23_arm.deb
+Size: 635648
+MD5Sum: d9f21d36964b60ee6435446e63cd265a
+SHA1: 50327b72ea3cd83e76f396e44ca83eed9d65981c
+SHA256: 5db03970dfabb08f73b715a3336019b7afd875eb8e3788fc17977cd209ee1a00
+SHA512: a3e0432a15a417d12e1c5af2deb698f140e2872457fa5bc2edf1436d2ffb3b6bc65012531cee3a4ee917297a15e6f977d63ff4a63f7d2060752d93306bb980ea
+
+Package: websocketd
+Architecture: arm
+Installed-Size: 7060
+Maintainer: @termux
+Version: 0.4.1-4
+Homepage: http://websocketd.com/
+Description: Turn any program that uses STDIN/STDOUT into a WebSocket server
+Filename: ../../../../releases/download/arm-w/websocketd_0.4.1-4_arm.deb
+Size: 2128868
+MD5Sum: d148c27851ddf6dd325a70feb0e4b0fa
+SHA1: da0693989100f53a82f889079c7818ba775d4c7f
+SHA256: 326b7e65d1e43ca6532bae869f0d11d8898b5e57c38a9fd73ce5a01ab0cc47ac
+SHA512: 541c3d21d7dcc5696feabb89df74d8a83d3c3db758e96047e6ab83de926a0ffd917ce88ae4edfdd7d168cd00e3f80ad555940a41cb5d8dc51b6afd7ac783933c
+
