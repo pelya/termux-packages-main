@@ -12872,3 +12872,63 @@ SHA1: 38f30c0f309ed53fc29867a0e34587c3e02f6849
 SHA256: 84375def58244de40a959d081df7a9ee31414584734bd456e5507e1c29ba900d
 SHA512: 3e51c1d106f2a8c6ad4d85da0631a112bbb8cd9965f2928721c1c0c272aaa6b7c09735ba86b7f777f6ce5e799acb37e9c4bc2700e070a98ad6823f0be9369c70
 
+Package: plasma-desktop
+Architecture: x86_64
+Installed-Size: 23072
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/plasma-desktop
+Depends: glib, ibus, kf6-attica, kf6-baloo, kf6-kauth, kf6-kbookmarks, kf6-kcmutils, kf6-kcodecs, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-kdeclarative, kf6-kglobalaccel, kf6-kguiaddons, kf6-ki18n, kf6-kiconthemes, kf6-kio, kf6-kirigami, kf6-kitemmodels, kf6-kitemviews, kf6-kjobwidgets, kf6-knewstuff, kf6-knotifications, kf6-knotifyconfig, kf6-kpackage, kf6-krunner, kf6-kservice, kf6-ksvg, kf6-kwidgetsaddons, kf6-kwindowsystem, kf6-kxmlgui, kf6-solid, kf6-sonnet, kirigami-addons, kmenuedit, kscreen, libc++, libcanberra, libksysguard, libplasma, libwayland, libx11, libxcb, libxcursor, libxi, libxkbcommon, libxkbfile, powerdevil, plasma-activities, plasma-activities-stats, plasma-pa, plasma-workspace, plasma5support, qt6-qt5compat, qt6-qtbase, qt6-qtdeclarative, sdl2, xcb-util-keysyms, xdg-user-dirs
+Description: KDE Plasma Desktop
+Filename: ../../../../releases/download/x86_64-p/plasma-desktop_6.7.2_x86_64.deb
+Size: 12036420
+MD5Sum: 1ab33939e247285c472a9ef296939b93
+SHA1: 4cc4838816ca047579df49c9813d8955b254534a
+SHA256: 1cb96e51d5c6daf4e9499e667b2c3bc94c0545020624c0dcd860150e10989c3c
+SHA512: 3f1807fc64041560ce52ade8ef8dd9cf3d908ad05188e9c3d47300a9e131a5ac8d1c0bc8d3590d8f6a2f67f9d23dc5545dc4e68bfc02df303c70dc9ce0dd28ff
+
+Package: plasma-pa
+Architecture: x86_64
+Installed-Size: 1576
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/plasma-pa
+Depends: glib, kf6-kcmutils, kf6-kconfig, kf6-kcoreaddons, kf6-kdbusaddons, kf6-kdeclarative, kf6-kglobalaccel, kf6-ki18n, kf6-kirigami, kf6-kitemmodels, kf6-kstatusnotifieritem, kf6-ksvg, libc++, libcanberra, libplasma, plasma-workspace, pulseaudio, pulseaudio-qt, qt6-qtbase, qt6-qtdeclarative
+Description: Plasma applet for audio volume management using PulseAudio
+Filename: ../../../../releases/download/x86_64-p/plasma-pa_6.7.2_x86_64.deb
+Size: 285900
+MD5Sum: c49d0bbf93ae9ae93b03eabf6dde8d93
+SHA1: 3fc1b0927fcc48436a2434dbc6a28e6d85d31a3a
+SHA256: b904d988b5300069c9d052fd5f4c5bc2694c182aa042a2e0f8dd69965884e55b
+SHA512: e3a9d752bf723d7def247b842bc97fec2c5ad3f54ef429eedf45c8dbd188eba22ddff50d28dde45d432a3c6a1e5fdcecdbedd9e2c9488255a04efb2aa0c14fa7
+
+Package: powerdevil
+Architecture: x86_64
+Installed-Size: 4420
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/powerdevil
+Depends: libc++, plasma-activities, kf6-kauth, kf6-kcmutils, kf6-kconfig, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-kglobalaccel, kf6-ki18n, kf6-kidletime, kf6-kirigami, kf6-kitemmodels, kf6-knotifications, kf6-kservice, kf6-kxmlgui, kinfocenter, libkscreen, libplasma, libxcb, plasma-workspace, qcoro, qt6-qtbase, qt6-qtdeclarative, kf6-solid, libwayland
+Description: Manages the power consumption settings of a Plasma Shell
+Filename: ../../../../releases/download/x86_64-p/powerdevil_6.7.2_x86_64.deb
+Size: 1216084
+MD5Sum: fafbbb1f6e5beb7c34e086e72bb2bd0c
+SHA1: d41d29831b85f60a3e8918ecebfaf142d1ca9ab5
+SHA256: 56229aa6dea1b8f661f67d420e1b017aa705ac77f12cf46dc480f208d1b5c6c9
+SHA512: d0e0e0e9b77ebfd9169113e22bc36b45e2fa0636edae57f9b972b1467ea4fc147f2bf8c05dcbffef3f0233d03157445ef532878f859e916ed76a811abc343093
+
+Package: pulseaudio-qt
+Architecture: x86_64
+Installed-Size: 792
+Maintainer: @termux
+Version: 1.8.1
+Homepage: https://invent.kde.org/libraries/pulseaudio-qt
+Depends: libc++, pulseaudio, pulseaudio-glib, qt6-qtbase
+Description: Qt bindings for libpulse
+Filename: ../../../../releases/download/x86_64-p/pulseaudio-qt_1.8.1_x86_64.deb
+Size: 99148
+MD5Sum: ead2608887f3c3dd4b433eb13c1ab717
+SHA1: c064ccd4110107e860be14fb7e21f060b18d4ecb
+SHA256: f1ee8f78cb46fba6c797e2e26bff52c1ff1ee463408d13d189dab90b3d944aaf
+SHA512: 9e3489e1094aefe30895ab53132e3c3b20914a9271de43393e8040da7bc1be57d5bbfc1d28f7ae733118de97b10871604c27b0854008c2efda887a5657fdd6bf
+

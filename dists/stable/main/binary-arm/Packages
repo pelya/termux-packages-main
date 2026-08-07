@@ -35009,3 +35009,18 @@ SHA1: d11b2f04e089d57c1bf6cc1114e65577676d20d1
 SHA256: 105a15bddb6264b98487c7e647ccf8b7d6cad11049dc45cd245f9f04cea3fb22
 SHA512: 027e645acfe85098261788d267baa9fb70ef89d26601b68ae821ff401f58e389a66de7ff705bd15ce1be3bcf306e6463874a36e4f82334d4a2545cd0f4826ca1
 
+Package: webp-pixbuf-loader
+Architecture: arm
+Installed-Size: 80
+Maintainer: @termux
+Version: 0.2.7-1
+Homepage: https://github.com/aruiz/webp-pixbuf-loader
+Depends: gdk-pixbuf, glib, libwebp
+Description: WebM GDK Pixbuf Loader library
+Filename: ../../../../releases/download/arm-w/webp-pixbuf-loader_0.2.7-1_arm.deb
+Size: 7120
+MD5Sum: 0cf4ff7fa1591b56e5193d13645f9b7e
+SHA1: adb06b50695198f92729386be7977269b4fdbde9
+SHA256: 260d527cf788e02adfd4dd0edeb890a65d2d8f7decc7080ffb728a4213b01b50
+SHA512: 08a2a902a7107e5d340ed4504b7c4ed0894bdb27e3bd0b5ebeff8d16ce13d1ecff2ba17c049cdb3ab8073d97ecfecc440ca84463248e4689d0531b2c3e9ead4b
+
