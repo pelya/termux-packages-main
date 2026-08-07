@@ -34549,3 +34549,18 @@ SHA1: d0c1287953db4047c80d1aa73541b5f07bae67a6
 SHA256: 18e2503e15f02c3b164b7f9b914f519c2ac8211a40d91278fb2900aa2e64963e
 SHA512: 0c6bf7c083f2e572c4837dc72ffec50d16dff0b7cc13b9f6a154e5eeabbac01cf65d2a5179536e1776839f6ddbed0e3cc5835ea1e76ec15a79d6babc15d0fa9b
 
+Package: step-cli
+Architecture: arm
+Installed-Size: 38752
+Maintainer: @termux
+Version: 0.30.6-1
+Homepage: https://smallstep.com/cli
+Depends: termux-tools
+Description: An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows
+Filename: ../../../../releases/download/arm-s/step-cli_0.30.6-1_arm.deb
+Size: 9313576
+MD5Sum: 8cee313f3c8ed63a5147f94dd0ffbb35
+SHA1: 3bd4eea3634b3a12ff11a459a5915cc2d149646e
+SHA256: eef9bfe2a90594e616267c4acae51dbd340c180e9899dda3de0c2efd93e4ebe0
+SHA512: 5ea8ee838177c81ed5859d3bd9443805d76025982fb535d313af709d2495e58ababa32c595e24877d79b41c2e09066198c45acea8e6de4cb75f09836b28402b1
+

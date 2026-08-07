@@ -36015,3 +36015,33 @@ SHA1: ee3d6c3e139f4d8bf9714893fc7f2b753ad7fdeb
 SHA256: e3f406662d86c112a4d94f58bfbf4d136c52d5074edd854a70129e5cfbe527aa
 SHA512: 7448a7d021b4d1eb145c8dfb05fcbc062e0312fd280a3e8f9ee8ee6dcf8f3f7a407e35e6f17d383f82486921d4ca9d3d7069d5a7030d3dac1a6777c258bfd748
 
+Package: binwalk
+Architecture: x86_64
+Installed-Size: 4384
+Maintainer: @xingguangcuican6666
+Version: 3.1.0
+Homepage: https://github.com/ReFirmLabs/binwalk
+Depends: fontconfig, freetype, libexpat, ttf-dejavu
+Description: An Binwalk firmware analysis tool.
+Filename: ../../../../releases/download/x86_64-b/binwalk_3.1.0_x86_64.deb
+Size: 1521500
+MD5Sum: fc4458e3f130a05649c99a20a6e1ec36
+SHA1: 67be3a36c7864b7dd0387023e794edcd4698e226
+SHA256: 86a323893d10e6d98519a21e6bbeba35b07dfc4e1917c44e46afccf4353732c3
+SHA512: 9844e7e352e1f8108f6d3a25ba56d873843c443ee5a6722f6128d23ba885f412fafbbd1788d73d050f959e7bc4c1b69d663d2d547ac7e640f16c7b881fcdb689
+
+Package: step-cli
+Architecture: x86_64
+Installed-Size: 43056
+Maintainer: @termux
+Version: 0.30.6-1
+Homepage: https://smallstep.com/cli
+Depends: termux-tools
+Description: An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows
+Filename: ../../../../releases/download/x86_64-s/step-cli_0.30.6-1_x86_64.deb
+Size: 10281084
+MD5Sum: 2f245a4f107d6ced27c89d5d9e30849c
+SHA1: 2f8310af4a55a37c8bfaa71e2fa98933afb703e9
+SHA256: ee2624bb8e09bcad98db1648f80053018e3e5e88b9757ec5821e3e889dcfea4b
+SHA512: aadfab1ececba46102f566b8117b0105b47e792ce3fe1a8b56a72731e958dc2c66d4ef3220e1f0ad576981a4f69e17c4a145528c887298ec53fb7a47844f1309
+
