@@ -12776,3 +12776,19 @@ SHA1: 8f81e50c82383960fd1781582c06490db64dbb5b
 SHA256: 28cc0177fef9d4228d535510820b56b1051e6399f90af21f1d1681dcc99ed1ad
 SHA512: 0ae4e1eb474666cb9b00a13a7244a84473680908eff6361756849d520b8e3227b5d32a05a67d3e374feb65a5cea4a4b5eb6f2cdb5e2e0b51bc6684bf294be0f3
 
+Package: libreoffice
+Architecture: aarch64
+Installed-Size: 358716
+Maintainer: @termux
+Version: 26.8.0.2
+Homepage: https://www.libreoffice.org/
+Depends: abseil-cpp, argon2, bison, boost, box2d, clucene, cups, curl, dbus, desktop-file-utils, doxygen, fontconfig, freetype, glib, glm, gpgme, gst-plugins-base, gstreamer, harfbuzz-icu, hicolor-icon-theme, hunspell, libabw, libatomic-ops, libcairo, libcdr, libcmis, libcurl, libe-book, libeot, libepoxy, libepubgen, libetonyek, libexpat, libexttextcat, libfreehand, libglvnd, libgraphite, libhyphen, libicu, libjpeg-turbo, liblangtag, libmspub, libmwaw, libneon, libnspr, libnss, libnumbertext, libodfgen, liborcus, libpagemaker, libpng, libqxp, libraptor2, librevenge, libstaroffice, libtiff, libtommath, libvisio, libwebp, libwpd, libwpg, libwps, libx11, libxext, libxinerama, libxml2, libxrandr, libxslt, libzmf, libzxing-cpp, littlecms, lpsolve, mdds, openjpeg, openldap, openssl, pango, poppler, python, redland, shared-mime-info, which, xdg-utils, xmlsec, zlib
+Recommends: gtk3, kf6-kconfig, kf6-kcoreaddons, kf6-ki18n, kf6-kio, kf6-kwindowsystem, openjdk-21, openjdk-21-x, qt6-qtbase, qt6-qtmultimedia
+Description: Free and open source cross-platform office suite
+Filename: ../../../../releases/download/aarch64-libr/libreoffice_26.8.0.2_aarch64.deb
+Size: 124282572
+MD5Sum: 045982727cc393f2bb9381e820d59358
+SHA1: 7c05186066c6c1690dcbdeb368fd55c7372d5dae
+SHA256: cabca18f16b61be40548e733152afcc67bc363d9ec09efc36af3ae1a0641f63c
+SHA512: 2def630e940a8c6ca22aa2594be7be7585f183b824b700fe54cb044231e15d7e4de9cfd3e3316d8fcf2754377330434a35ce7ca317240f387bd38c12ec4a6418
+
