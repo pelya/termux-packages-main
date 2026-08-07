@@ -35803,3 +35803,34 @@ SHA1: 2547c116cddd72b1ae75fd561ec8e4a013d70111
 SHA256: f3369f81aae06ae61111ded2bac4010dfb62b461e934ce77d24d3331657598dc
 SHA512: 8b4a711f70b299a5dc21ccf0aae01e9c4b73241322bca95a82a9d19063a319b66de46abff994ed4cba55057c576fba0d908235d23ecd5ffbe28af3d1cdee4269
 
+Package: doge
+Architecture: i686
+Installed-Size: 1156
+Maintainer: @termux
+Version: 0.2.8-2
+Homepage: https://github.com/Dj-Codeman/dog_community
+Depends: openssl, resolv-conf
+Replaces: dog
+Description: A command-line DNS client
+Filename: ../../../../releases/download/i686-d/doge_0.2.8-2_i686.deb
+Size: 358660
+MD5Sum: b254a3595a2ce41e8194278eabd2cb9d
+SHA1: 47852fa7054009e49df24fa631aa60596c548dbc
+SHA256: c0687f0bf3c7ae87a05683b74884bba8b5f97bf2817345d1ca0b5f4752445a5b
+SHA512: 3716d517f3c70f7ad01e196514405a32bea979545f73c4310a08f6d9b74ffe5d2565d4fa81ad04df2bd3a7f4cd8358b82106a3f93d096a161ac6978fdb91d551
+
+Package: gnushogi
+Architecture: i686
+Installed-Size: 560
+Maintainer: @termux
+Version: 1.4.2-p20141119-1
+Homepage: https://www.gnu.org/software/gnushogi/
+Depends: ncurses
+Description: Program that plays the game of Shogi, also known as Japanese Chess
+Filename: ../../../../releases/download/i686-g/gnushogi_1.4.2-p20141119-1_i686.deb
+Size: 144308
+MD5Sum: 669e224540296e838c6948b04dcccd05
+SHA1: 52d9843159afa8d6ed1f5274719ce490f424503d
+SHA256: 5ef467bbf598148f5e261c68a2d6cb519da4062633577b519a6eaa1ad3c17d8a
+SHA512: f59eee0ae67536e0277608eeb9e702a3c11ad732bfcbfe1c6aaeefc11a59eba10be4146e54e27764d3c2abfa11f64b973fccea7003771ca7caf130ac58bcff99
+
