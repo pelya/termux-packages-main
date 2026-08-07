@@ -267,3 +267,32 @@ SHA1: 9070f9ae0476b94516e6b00ce72ec195ed6e06a2
 SHA256: ab6a66180e9d74135c27dff5274f6f8191e77d5e2aa67b1ed22b4da52b81fc7a
 SHA512: d08f4d6a812f06ec1aca41b3923f4f5571d6a7f14e3fb2f5b54232d85c2f823398924d4527f842f679fbc6a1fcb4449a08a96006b5c81043a5ea07bb39334a39
 
+Package: libnfnetlink-static
+Architecture: x86_64
+Installed-Size: 76
+Maintainer: @termux
+Version: 1.0.2-1
+Homepage: https://www.netfilter.org/projects/libnfnetlink/index.html
+Depends: libnfnetlink (= 1.0.2-1)
+Description: Static libraries for libnfnetlink
+Filename: ../../../../releases/download/x86_64-libn/libnfnetlink-static_1.0.2-1_x86_64.deb
+Size: 11048
+MD5Sum: bb3f25a212158ad6f2ae1b0fde03888b
+SHA1: da329e1dad2e70cb63f7c4b828258b54efcf4700
+SHA256: 13f64430a16e8762e5cfa45d699d21a35ba68136470ddec7c139a22811a3480f
+SHA512: 6fb1f44efd231067bb5c61dbee46ff5b7251756c156caa7842ca8e7eb4711e2382523d1db712c66ceb54e73985127042ded35eea3ca8d0e085046cd321374b1e
+
+Package: libnfnetlink
+Architecture: x86_64
+Installed-Size: 104
+Maintainer: @termux
+Version: 1.0.2-1
+Homepage: https://www.netfilter.org/projects/libnfnetlink/index.html
+Description: libnfnetlink is the low-level library for netfilter related kernel/userspace communication.
+Filename: ../../../../releases/download/x86_64-libn/libnfnetlink_1.0.2-1_x86_64.deb
+Size: 14048
+MD5Sum: b68415b38dc084efb9e7ed63357f779f
+SHA1: ac419ae4205f8850bcd854c42db21dac98b777e8
+SHA256: 64f662e32f14538ce1b4b6d215fc5b158a256c452fd8c0b8b54657d26865045e
+SHA512: 08a4a2dc1dc42e66dd34c7cdb1ac6c605552e97d599e4117f69b32ea31a46c46aa69ba4de082fb01dc71cf0ac44316895337022cf407b31e2b3ef2e4da56e657
+

@@ -240,3 +240,11 @@ data/data/greater.underscore/files/usr/bin/dnsmasq                              
 data/data/greater.underscore/files/usr/share/doc/dnsmasq/copyright               dnsmasq
 data/data/greater.underscore/files/usr/share/doc/dnsmasq/copyright.1             dnsmasq
 data/data/greater.underscore/files/usr/share/man/man8/dnsmasq.8.gz               dnsmasq
+data/data/greater.underscore/files/usr/lib/libnfnetlink.a                        libnfnetlink-static
+data/data/greater.underscore/files/usr/lib/libnfnetlink.la                       libnfnetlink-static
+data/data/greater.underscore/files/usr/include/libnfnetlink/libnfnetlink.h       libnfnetlink
+data/data/greater.underscore/files/usr/include/libnfnetlink/linux_nfnetlink.h    libnfnetlink
+data/data/greater.underscore/files/usr/include/libnfnetlink/linux_nfnetlink_compat.h libnfnetlink
+data/data/greater.underscore/files/usr/lib/libnfnetlink.so                       libnfnetlink
+data/data/greater.underscore/files/usr/lib/pkgconfig/libnfnetlink.pc             libnfnetlink
+data/data/greater.underscore/files/usr/share/doc/libnfnetlink/copyright          libnfnetlink

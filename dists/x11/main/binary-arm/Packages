@@ -12218,3 +12218,18 @@ SHA1: 8fb863573ac32f67a876604102f42ddc54fdf268
 SHA256: 447da444b1ed4374a39833d1d8b34e46641b824b8f2d7ff86b0412a0ab4c08f4
 SHA512: fe40390497cccbab972dd67717a1411da1f3b740944ec80191684bda61dc1f68d615e5e4ed82ff51d96abd27db7b605d822361842dd3ab3e1ab6147013da4688
 
+Package: handbrake
+Architecture: arm
+Installed-Size: 4916
+Maintainer: @termux
+Version: 1.11.2
+Homepage: https://handbrake.fr/
+Depends: ffmpeg, gdk-pixbuf, gst-plugins-base, gstreamer, gtk4, libass, libbluray, libcairo, libdav1d, libdvdnav, libdvdread, libiconv, libjansson, libjpeg-turbo, libtheora, libvorbis, libvpx, libx264, libx265, libxml2, pango
+Description: A GPL-licensed, multiplatform, multithreaded video transcoder
+Filename: ../../../../releases/download/arm-h/handbrake_1.11.2_arm.deb
+Size: 979116
+MD5Sum: 793903021848adc5e272b41718157da2
+SHA1: d63b677f3fe24b42e2c64af9b3183a41fc02bce1
+SHA256: e5fe3a15a737527c56da34bc9dbf590ffcc52d633edf4ca27da55461d0a287ba
+SHA512: 4e4feeae1a271687d2854018630bb129f57d09efc103475d4c7f2901a56fe311ec4ae9e5ff4e7f166c383aa4d06ebdcdbd906b7ae9f1ca2e37c1324ee21b60c9
+

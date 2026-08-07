@@ -267,3 +267,32 @@ SHA1: fb2c80e306231508ffe42df0f7a3deba9a75045b
 SHA256: de5789aea5d4920969ac47d68f344dfc53574b7dc97b0b166b69ece4346e5635
 SHA512: e1e7540432a952a70587b24dba56829ed0ea3696d97ee73e1a5b7c6f4349e7ac6918a10cf44a6773ef1090d9f52f709137046078811327d545145629c470c3e6
 
+Package: libnfnetlink-static
+Architecture: arm
+Installed-Size: 64
+Maintainer: @termux
+Version: 1.0.2-1
+Homepage: https://www.netfilter.org/projects/libnfnetlink/index.html
+Depends: libnfnetlink (= 1.0.2-1)
+Description: Static libraries for libnfnetlink
+Filename: ../../../../releases/download/arm-libn/libnfnetlink-static_1.0.2-1_arm.deb
+Size: 10744
+MD5Sum: 4709b379d6cf3c676af7fe8a0a380866
+SHA1: 9faf2129c523f81263ab8262c2af8665018f4d7b
+SHA256: 837d096c1c8ada79ab56e1955076dc41971fc7534ec9702da38c7bef9da055c1
+SHA512: 7e5d667f3fa87582663b8f3986bb1f0f43dde190fc09d448edb6dd2105e90b0f1da589ff7ae8b86e105a2da0a3e0cb9d8efcd990ef6908796d4f50cf9c628baf
+
+Package: libnfnetlink
+Architecture: arm
+Installed-Size: 96
+Maintainer: @termux
+Version: 1.0.2-1
+Homepage: https://www.netfilter.org/projects/libnfnetlink/index.html
+Description: libnfnetlink is the low-level library for netfilter related kernel/userspace communication.
+Filename: ../../../../releases/download/arm-libn/libnfnetlink_1.0.2-1_arm.deb
+Size: 12840
+MD5Sum: 37e6a47585cdd9d402cdc02bbdd6841a
+SHA1: 87dee6c6864ed434f4ac501808a5ca19c4560c02
+SHA256: 2bfb85176d50ae4c951e8894d2e42e1262ec36c9b70509f7eb12e2b7c323d3c7
+SHA512: 002e5b66a2bce56317c15c2be374ced334416ce6e9b813bdcdedf0b22cf947f8be174ca2256854eb49274e6822b181cfd5ceb96ba9eb6ab37560c8241e844dda
+
