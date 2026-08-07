@@ -34281,3 +34281,18 @@ SHA1: 5c56ae3691daaabf683d6e89c42e84a28f80537f
 SHA256: 3df51e5a928533f9005a868c554e16e53a426778bff70d90e9b5e5681facce3a
 SHA512: 78bb91bc6ae49814cda22c4eea6614fb150d90987f09b0d70a614e4438cdaafabc312a4cb875812ec5f9e3d6c074db9538f73a8af5fe0a6ad3b4cd2b28824e2b
 
+Package: immer
+Architecture: aarch64
+Installed-Size: 1144
+Maintainer: @termux
+Version: 0.9.1
+Homepage: https://sinusoid.es/immer
+Depends: catch2, cmake
+Description: Postmodern immutable and persistent data structures for C++
+Filename: ../../../../releases/download/aarch64-i/immer_0.9.1_aarch64.deb
+Size: 87804
+MD5Sum: 37b0636e1b1e2236a9fbdaf4f614f4b0
+SHA1: 9e9f686f76ecb060aba539750ff4e55f2611a7cf
+SHA256: 242d03b5a08e00bcd3a3a632c26445594d23c2268106024f911868facf12d3db
+SHA512: e155be0844dab863f77a1f940d2ea71c4b15e84d8590db999ac96622c7eea7930628c24d74247c4b4077ef0e4e6ed7d98fd9b2f7a3201d9e8295c1c9f8729c3c
+
