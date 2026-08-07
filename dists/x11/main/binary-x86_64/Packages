@@ -13071,3 +13071,32 @@ SHA1: 51c9c10a21d3e3049efcfdfbf78a083a9a6c3d74
 SHA256: 1bbdbbe270631843dbc3d250afc173e8affc7b769e1d1473dfd20378bff03a02
 SHA512: 779a6996c788c6933a9913dfca78815ed8bf861b2a15b4501e27b810ed85580a19e96c09c26b605410b56ba76eddc54ff7fff5301743e4eb1abdabdd7c481e15
 
+Package: breeze-gtk
+Architecture: all
+Installed-Size: 3232
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/breeze-gtk
+Description: Breeze widget theme for GTK 2 and 3
+Filename: ../../../../releases/download/x86_64-b/breeze-gtk_6.7.2_all.deb
+Size: 171260
+MD5Sum: f14795a06d7775fe20bb9a0f231bedb0
+SHA1: 3de13e3c23c324bc33fc3df8de86aea64736d2b4
+SHA256: d755d1969c3bbb28e36fade1e5303e10fcab889cb5ace855ba8e0e07d4446b13
+SHA512: d2e56cd7b63b8956c7b701f0962f5b1ed2dc18729f28bff4501c2a898bd4426f1a779d29f49e195e2d8caa578184cfd22722a1d10ab4a7e78cb31febe5b4db02
+
+Package: libspelling
+Architecture: x86_64
+Installed-Size: 316
+Maintainer: @termux
+Version: 0.4.10
+Homepage: https://gitlab.gnome.org/chergert/libspelling/
+Depends: enchant, glib, gtk4, gtksourceview5, libicu, pango
+Description: Spellcheck library for GTK 4
+Filename: ../../../../releases/download/x86_64-libs/libspelling_0.4.10_x86_64.deb
+Size: 50088
+MD5Sum: f8422a670d5fc0ca685cd5ba0c68acd6
+SHA1: c8098020f710601e7774a9803417d9a113b535f9
+SHA256: b42f841b6b3b550cd3cc2d7e627a62430f03ca4416b98b75c37a8c50c1deb16b
+SHA512: 3b3f83df3b48c968b79163a0f3fdd6c4c10c40ffdd53319d65603786055201418c9eb8aac310c0befa2bb79387653de2f8fdb35a5ed25a55e68776e0f885a197
+
