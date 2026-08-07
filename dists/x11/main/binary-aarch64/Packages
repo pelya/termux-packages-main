@@ -13114,3 +13114,32 @@ SHA1: 74328cb42a3e7fddbd58adf0d51394f43b457b49
 SHA256: 9ceb7b3db83a78eacdaed36eb5b184cf18dd34efc3b6aa1ecb66e672a2eac705
 SHA512: 6757b00a7b2de0a00bab32dc066d6f560c23ad3a1e2f5e95e2f5f138026bfb4dcf8ababfc193d8438c0df1ac3068699a982c0e25a4037b6b5630b032b8f93adc
 
+Package: mtdev-static
+Architecture: aarch64
+Installed-Size: 56
+Maintainer: @termux
+Version: 1.1.7
+Homepage: https://bitmath.org/code/mtdev/
+Depends: mtdev (= 1.1.7)
+Description: Static libraries for mtdev
+Filename: ../../../../releases/download/aarch64-m/mtdev-static_1.1.7_aarch64.deb
+Size: 8088
+MD5Sum: 73a7b7133df8247cf1c2acb9e6a0e6b8
+SHA1: 8480c103cab9e21d5bfdad4728686a9557309945
+SHA256: b2c415019ce1e8f924c5392e55e50a256f5ae09ca53b99f67c2b5c6e6e4d7f7a
+SHA512: e8caf60e863c1d3850d60e616c2448cd2955fe83a1d4b555c06e7a8acad85b6baa9399dffc4895edf336a2e68deeb238c271163ec22f3685291b21ab9f59eaf6
+
+Package: mtdev
+Architecture: aarch64
+Installed-Size: 92
+Maintainer: @termux
+Version: 1.1.7
+Homepage: https://bitmath.org/code/mtdev/
+Description: A stand-alone library which transforms all variants of kernel MT events to the slotted type B protocol
+Filename: ../../../../releases/download/aarch64-m/mtdev_1.1.7_aarch64.deb
+Size: 11152
+MD5Sum: 1070165375e7d5b4ec1340adf714bad1
+SHA1: c2731f93e7c2373efcef854f87c52b44c713e5b2
+SHA256: 0095750a8b8a621e3e78bf71e4dd52f4b3a6dedd8dbfd8815d1951d6b2c647c4
+SHA512: 6a61277b7e944f7d4755af1c542120c52f55158c66ace98b7ad577ce0898381b2969fb32dc4f94df94dc3fae260b3181f10d7c7f6ff4757d481430254a73c531
+

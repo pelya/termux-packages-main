@@ -12826,3 +12826,32 @@ SHA1: b671905e2a9a6f2f9f3595ec74ff6e99f6be3dd5
 SHA256: a7d0cc6bbc70f08998644926cc6d039827df2551264c940e4aeb068fa0346be0
 SHA512: 8eb88ca7c45dc074e0f3e04a0dffb512fecdce05e387d13ff0bd37d535a9a11913ed7485ae5a35682a2d536361b5c6fcce6ef4bd0a49790ae50533adf2073fa2
 
+Package: mtdev-static
+Architecture: arm
+Installed-Size: 48
+Maintainer: @termux
+Version: 1.1.7
+Homepage: https://bitmath.org/code/mtdev/
+Depends: mtdev (= 1.1.7)
+Description: Static libraries for mtdev
+Filename: ../../../../releases/download/arm-m/mtdev-static_1.1.7_arm.deb
+Size: 7272
+MD5Sum: 57063511d70d8d83b8cfde7f6ce333bb
+SHA1: b20bf637f06a5c79eb2ec245e8ba89b3c8c3425c
+SHA256: 508eca2a625b1a634038b4d02ee9b78d2a94d482007bfb57310574999e7d77aa
+SHA512: 9e538d9d465a3cbf08051128147d32520001c846245a353609a067cedfa7ef1c75e600fd7ef1d45c868a0ad17cfb78902887b747c0a990c60b0993b9dcfb1c0b
+
+Package: mtdev
+Architecture: arm
+Installed-Size: 88
+Maintainer: @termux
+Version: 1.1.7
+Homepage: https://bitmath.org/code/mtdev/
+Description: A stand-alone library which transforms all variants of kernel MT events to the slotted type B protocol
+Filename: ../../../../releases/download/arm-m/mtdev_1.1.7_arm.deb
+Size: 10444
+MD5Sum: 1e82deef3696feb1e43d3ea484d10292
+SHA1: ff07fc7c3cd93718c50770f91aa91a63159366d8
+SHA256: ab715dcef71e9de713bf63ad7b9a8cf33c2e4aa34a1a1a8a1a3d99e568a4017e
+SHA512: 33d95ecbf1f7bd8388fcd7d995c12ec37541773640cabae0edfd41a370192b799fd3d5167bdd7350ab0083a5586fc88fef3892588b678904e2093cc2941d0552
+

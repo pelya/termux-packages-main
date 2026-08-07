@@ -35577,3 +35577,63 @@ SHA1: f8c6ed2db38192a19fdeb94844f2e8f321326188
 SHA256: a3192b8f51b965acfa53ca6c681362b227efd0de0a78834f5034312d44160d0b
 SHA512: ce9dadac13f3d4057fbd07848b300fb9b72889e2730511093b5e81b29f23e93ea047a7866e8090a2022c2ee5cf7d56f50ae4261fbb5d8c097c3300d7c7c406a4
 
+Package: freeimage-static
+Architecture: arm
+Installed-Size: 8904
+Maintainer: @termux
+Version: 3.18.0-7
+Homepage: https://freeimage.sourceforge.io
+Depends: freeimage (= 3.18.0-7)
+Description: Static libraries for freeimage
+Filename: ../../../../releases/download/arm-f/freeimage-static_3.18.0-7_arm.deb
+Size: 2122984
+MD5Sum: 60dfce5175b185460da052524d133772
+SHA1: e34c7e4eb1960e3a74c6d201633fa0aa5cc06e65
+SHA256: 86d61224968eee3ab95fd4957eabc78ff2d1d38bc997eaf347f56f7657358927
+SHA512: a484bcc6d89a4fb8b708e2248ea7ae62012219529b8426b4b91b0f9e1d5bca74a0e2912c492ead2d8ec7a21dc6add48ad9be31aee256e839c172ddfe093952e5
+
+Package: freeimage
+Architecture: arm
+Installed-Size: 5744
+Maintainer: @termux
+Version: 3.18.0-7
+Homepage: https://freeimage.sourceforge.io
+Depends: libc++
+Description: The library project for developers who would like to support popular graphics image formats
+Filename: ../../../../releases/download/arm-f/freeimage_3.18.0-7_arm.deb
+Size: 1760404
+MD5Sum: a3c4959001b0f6774b7da206a1838823
+SHA1: 31ff4f339c8de923b263a8a8728de623cfdb00b1
+SHA256: 818690b78b716e3fe11b97d822f74bb9aab84962fb9c936be5506bece734e4b7
+SHA512: 5c2bda3ffc834f6d0190d8eab66f44f04d7d5320b12a12151244d4e3f74297b3a45aa71d530173e86835c203e1adeeac7e33136968b5bff86999428176319406
+
+Package: mediainfo
+Architecture: arm
+Installed-Size: 92
+Maintainer: @termux
+Version: 26.05
+Homepage: https://mediaarea.net/en/MediaInfo
+Depends: libandroid-support, libc++, libmediainfo, libzen
+Description: Command-line utility for reading information from media files
+Filename: ../../../../releases/download/arm-m/mediainfo_26.05_arm.deb
+Size: 17452
+MD5Sum: 0e0faa09e2c8cdd0b9004e2128f0e184
+SHA1: 6cee3c6d864047a318a1e98548c0fddf84bbbfa3
+SHA256: 88d15ca1c71d8cbe6f067ca39c61be312a3fe31b3f58aa72707591604325f36e
+SHA512: 143dca7d3b4bbfb2457ba6fa0ec1029b558bffce8eb4b81b9890f14f49bebb5d2ecc3c6b670bd285ea598dccbcb20906c0b5896bcf8cb618725d8ce9372ff6b8
+
+Package: megacmd
+Architecture: arm
+Installed-Size: 6780
+Maintainer: @termux
+Version: 2.5.2
+Homepage: https://mega.io/
+Depends: c-ares, cryptopp, dbus, ffmpeg, freeimage, libandroid-glob, libc++, libcurl, libicu, libsodium, libsqlite, libuv, mediainfo, openssl, pcre, readline, zlib
+Description: Provides non UI access to MEGA services
+Filename: ../../../../releases/download/arm-m/megacmd_2.5.2_arm.deb
+Size: 2544212
+MD5Sum: 463048d236f3331cfdee4cecfb3f73a1
+SHA1: 279f2ac96e28d9d4a3552cc5c03019a49d5c9e21
+SHA256: 6b7d6ca4733a07b36909f6a8aeb9e6d68765fa26e0de848fc57a8ae23a6639f8
+SHA512: 10198436954a1c06cd750a01ae52756a02082ed95b953555b474af8381b2e29f36bff4b88fec1d95290210844bf24908e736350290a074bf3e7377e1b7b7846a
+

@@ -37074,3 +37074,63 @@ SHA1: f8c6ed2db38192a19fdeb94844f2e8f321326188
 SHA256: a3192b8f51b965acfa53ca6c681362b227efd0de0a78834f5034312d44160d0b
 SHA512: ce9dadac13f3d4057fbd07848b300fb9b72889e2730511093b5e81b29f23e93ea047a7866e8090a2022c2ee5cf7d56f50ae4261fbb5d8c097c3300d7c7c406a4
 
+Package: freeimage-static
+Architecture: aarch64
+Installed-Size: 11628
+Maintainer: @termux
+Version: 3.18.0-7
+Homepage: https://freeimage.sourceforge.io
+Depends: freeimage (= 3.18.0-7)
+Description: Static libraries for freeimage
+Filename: ../../../../releases/download/aarch64-f/freeimage-static_3.18.0-7_aarch64.deb
+Size: 2173488
+MD5Sum: 2934eb7da0d602c5f8156d5e281d7b1c
+SHA1: bbeb9ad8c2d002f7411c30c29a54018de9f6066c
+SHA256: 959ed23193687d958a2a10a4354cf32921db9dcb74d76c673aa17eb35f32f136
+SHA512: d2b79f47c072e496b583faad11154751eaa5343935b181d437417c66bfba4c1c7ac21238713df6f7de0f6d547a90e196ed72e02c29fdac07efc0446239f0cd7b
+
+Package: freeimage
+Architecture: aarch64
+Installed-Size: 7060
+Maintainer: @termux
+Version: 3.18.0-7
+Homepage: https://freeimage.sourceforge.io
+Depends: libc++
+Description: The library project for developers who would like to support popular graphics image formats
+Filename: ../../../../releases/download/aarch64-f/freeimage_3.18.0-7_aarch64.deb
+Size: 1838576
+MD5Sum: afb47e80807ed112152f01f1b8d2e63d
+SHA1: 775ae1d37a43fcd24c067f41de7da617697fc563
+SHA256: e1040c3e54c74a247cf31c53a1021e73dd93edb73152ad2da0bd5e9c43fa9941
+SHA512: 7931fa0b4b7af5141d773d43c669f4501ec3767522b301672b3c5472f14ca98dd2741560dd4f4872623e3e5d9c1cfaaa0a9baeae4e4f8bbcab30ad249bc33eb8
+
+Package: mediainfo
+Architecture: aarch64
+Installed-Size: 136
+Maintainer: @termux
+Version: 26.05
+Homepage: https://mediaarea.net/en/MediaInfo
+Depends: libandroid-support, libc++, libmediainfo, libzen
+Description: Command-line utility for reading information from media files
+Filename: ../../../../releases/download/aarch64-m/mediainfo_26.05_aarch64.deb
+Size: 29216
+MD5Sum: 44390aa6f9177377eb4eea259fbbeb8e
+SHA1: 6a6ef57dbda88e92c25166ce08542dad0d1d98b5
+SHA256: 9642cb6c9f5838cd3962650fd00d31917c554b20a003b30d6e073065013f0ea9
+SHA512: 6ab33054941acd138d9a006f26889ffe8bbb55404dabbc861ae2e306c6bf182949385308577e286305367bca5bbf40158e0fb6cdb4144b2b070b5eb3bf543942
+
+Package: megacmd
+Architecture: aarch64
+Installed-Size: 9684
+Maintainer: @termux
+Version: 2.5.2
+Homepage: https://mega.io/
+Depends: c-ares, cryptopp, dbus, ffmpeg, freeimage, libandroid-glob, libc++, libcurl, libicu, libsodium, libsqlite, libuv, mediainfo, openssl, pcre, readline, zlib
+Description: Provides non UI access to MEGA services
+Filename: ../../../../releases/download/aarch64-m/megacmd_2.5.2_aarch64.deb
+Size: 2569148
+MD5Sum: 8b790e68b91c007ea5c9268ab14d9567
+SHA1: a21ec6ec5af2e4ca9de79dd640c21f81a60c152b
+SHA256: 3c811da108ef8e116657b5d183e247ab66ee465d30eccd8bc4887a7eff4fef86
+SHA512: 7029cc6638f03b0a376787ef20211d717e2d05869543e918a7e382219062045e3d0e5ebdca66bde647f155b8b0d6ad8fd009fcfb5970d546601ec6ab697aa486
+
