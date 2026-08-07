@@ -11978,3 +11978,18 @@ SHA1: f395fae97140096d6bcde604a53e96e511393095
 SHA256: 69cd4804eda0620b096a4ba5d65e11137d531f00f259a7beaff3c5b08dc74ed9
 SHA512: 3ec1a012b8f86915d92afe8aadf1b24e642c7152c49c27ba7179b9543947184372b6bd972ba176bd4cff9fe87964c54795bfe998ad5f0dd1f47e2ada45374be9
 
+Package: kimageannotator
+Architecture: arm
+Installed-Size: 1492
+Maintainer: @termux
+Version: 0.7.2
+Homepage: https://github.com/ksnip/kImageAnnotator
+Depends: libc++, kcolorpicker, libx11, qt6-qtbase, qt6-qtsvg
+Description: Tool for annotating images
+Filename: ../../../../releases/download/arm-k/kimageannotator_0.7.2_arm.deb
+Size: 321816
+MD5Sum: b5ad003642f46cd791f74ce3615381b8
+SHA1: 99a27e7b07c1f8fbe20bf1675ce3043d9120ee5f
+SHA256: cf850f721df5e073e041c31e03a29907cfd43598e7814b357cf626082beb024d
+SHA512: 4c2f1f13f3b7131cbe1582a47df893c28d5893623d744d046f7d035f22f92d439dd1a4b92168742e7fce4f2a2d670407e30f336071fe3480a703bd910a04a971
+

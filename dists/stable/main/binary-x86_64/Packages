@@ -34324,3 +34324,48 @@ SHA1: 704bca3184a997dfb894ddc764881dd782bcc0af
 SHA256: 57427cc4c1336050a1c1e433ad71c7c58ddfb996c5c0a0e65640c5220b314115
 SHA512: 6bc9ab0b8b0afcde57a09fc86762595d2c7a406230c85d808380fd6879f0020faacba92ac2df92fb8f76c27b1c3af388b381071479b31bcc5a3368daac33cc6c
 
+Package: faust-static
+Architecture: x86_64
+Installed-Size: 37952
+Maintainer: @termux
+Version: 2.85.9
+Homepage: https://github.com/grame-cncm/faust
+Depends: faust (= 2.85.9)
+Description: Static libraries for faust
+Filename: ../../../../releases/download/x86_64-f/faust-static_2.85.9_x86_64.deb
+Size: 4642752
+MD5Sum: 7fa7098fae3b1601bb4c75b95c6981e2
+SHA1: 714300210c6a8e74e3186bce7677f791694f20a2
+SHA256: 19372c83744c9fa50f5bbd6c130f9e8dc856a5d98515979c2e940476bc342f8f
+SHA512: 8d073f6def1cd3f891148e4f88fb59ed4f699f71c7155acfff6fdb4405a3fecf31e1dc0dd9c6e58db5aa23a9e99d5b298114170cc8735cfb5b99134cfca0ed5b
+
+Package: faust
+Architecture: x86_64
+Installed-Size: 65752
+Maintainer: @termux
+Version: 2.85.9
+Homepage: https://github.com/grame-cncm/faust
+Depends: libc++
+Description: A functional programming language for signal processing and sound synthesis
+Filename: ../../../../releases/download/x86_64-f/faust_2.85.9_x86_64.deb
+Size: 26243804
+MD5Sum: e3023a8f4c5b6380dc5b0d0489fd26f5
+SHA1: 53ad6d2c5ce6156cb0d5af1fc47726744e112b02
+SHA256: 2475075ac7c7b37b7c9331adb50654f3e15a58b2648223b0a5554fb35b426a73
+SHA512: f10bc14cbc7f7240953469b6c6aef1cb8bcbe3be02a20591f545957c13fff50d2049de6070abd24113680800b442c525b8b456078e7f3abb50dafb96c0112dff
+
+Package: faustlibraries
+Architecture: all
+Installed-Size: 2328
+Maintainer: @termux
+Version: 2.85.9
+Homepage: https://github.com/grame-cncm/faust
+Depends: faust
+Description: Faust DSP libraries
+Filename: ../../../../releases/download/x86_64-f/faustlibraries_2.85.9_all.deb
+Size: 404852
+MD5Sum: 5d228b455cb73f957ac37759990f99a3
+SHA1: 0286826d38ef4efd94d64b296533853704d840e3
+SHA256: 756c1f8dee38beb67680b5ecaf275cda2a039881f604a82ccadbc892cb7c6e71
+SHA512: 3f47df915861a7fb3a6fff9145d5024dba34a1a440320e8bfc577b07c0e8285aa85489c44fcf37ba76eaf883c169a3b5ab0a363518c4899e4c0271130caa4f67
+
