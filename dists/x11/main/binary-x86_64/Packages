@@ -12493,3 +12493,18 @@ SHA1: 04820ab227d49ef0720fea69472f660903a8b346
 SHA256: 31c8aa505bc322d5a5d57dcd3444632cb34f835b59186ba2606d746f49c4f392
 SHA512: b57bc0ec15d8f2506b85ed215671ce86e418f67c4e7bfc5d9736308780c126efd47367608f9ff215b9fc36f23867fd2509df662f15ab24f120e1353762d66b69
 
+Package: kunifiedpush
+Architecture: x86_64
+Installed-Size: 728
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/libraries/kunifiedpush
+Depends: kf6-kcmutils, kf6-kcoreaddons, kf6-ki18n, kf6-kservice, kf6-solid, libc++, openssl, qt6-qtbase, qt6-qtdeclarative, qt6-qtwebsockets
+Description: UnifiedPush client components
+Filename: ../../../../releases/download/x86_64-k/kunifiedpush_26.04.3_x86_64.deb
+Size: 133008
+MD5Sum: 42186491efe50b9a41d8942ae5251193
+SHA1: f5468de956fb087a8f305c26b3a0332748b5ca93
+SHA256: c39c91a2864e06c556a8401e93dd78079957b73be0bfec46c873e58a4e665cce
+SHA512: b3168e69ebd4b0f55f22e6cdbc713d7c42b507318cdb651142a50e7f75358fcf9b0ff907c2a90fd2faa1a838fa9c71bc6fcd9616cc1fc4e6ee192dcd2f68f274
+

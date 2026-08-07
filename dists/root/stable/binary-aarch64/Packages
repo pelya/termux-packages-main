@@ -358,3 +358,18 @@ SHA1: 195f764d81529b74df58a7d2de4b5e53b0111758
 SHA256: 5da2c1df9951a633679f8b1aa0dee07e6bb0bb35fc85cba76c76ce7d5ec63930
 SHA512: 7b554516bcf924ddca456f8cd23c06c4000b058722f863ffb6dbde37621c658b5059127e81907dc3893ac1a267624095bb1b1bb4f639ddb4f776c2ca8590a714
 
+Package: tcpdump
+Architecture: aarch64
+Installed-Size: 1148
+Maintainer: @termux
+Version: 4.99.4-1
+Homepage: https://www.tcpdump.org/
+Depends: libcap-ng, libpcap, openssl
+Description: A powerful command-line packet analyzer
+Filename: ../../../../releases/download/aarch64-t/tcpdump_4.99.4-1_aarch64.deb
+Size: 345636
+MD5Sum: 46addc10561bb2d29cb3c09623743733
+SHA1: 35674ecedd7eefeeb7abd10ab9d16ea4c61640e5
+SHA256: 717932ffc3ddf8090711bdc29f7840e80c100021941f9b16f84897c3d2071c54
+SHA512: ae81ec480c082afcb1563aa8e3413e1b90271a072bfa3467009137a40f7c424bc35892fdd5687e59f456ee52dd47d9bb0b18fb620e4881145947f72bfdb0ad8b
+

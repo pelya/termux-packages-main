@@ -358,3 +358,18 @@ SHA1: f6f6765a73ce19b02ae3abf67916183aa659ea15
 SHA256: dc8b2a64a9ab845840231efdea3d6a21e7e4ef020cd3b7131ab045ce4406403c
 SHA512: 931a1875660101199d3dcd818bdc2b9e1103b8505691ecad010d7a75fc285bf4db1612a8e666c8631ecda04c6331128ae2688d67d7ff3d47eac3d4a04ed45cd2
 
+Package: tcpdump
+Architecture: i686
+Installed-Size: 1000
+Maintainer: @termux
+Version: 4.99.4-1
+Homepage: https://www.tcpdump.org/
+Depends: libcap-ng, libpcap, openssl
+Description: A powerful command-line packet analyzer
+Filename: ../../../../releases/download/i686-t/tcpdump_4.99.4-1_i686.deb
+Size: 363452
+MD5Sum: 31dd40e935a58addbd0510bab5a9ada9
+SHA1: c0559aa9a914f20f69dff318b5cbdec02b270ab1
+SHA256: 0c11df8124ba781165b9a7adf9a9e77d1254468e792485ce439d95600caa81ea
+SHA512: 52d0fdb4a8926d12d98886cb04f46fe080ecb67b0828aa29cbd95348fb4c351f3f203fb220da0e0ef9ac008a4444ea5b8621de920f139ff15185c1abcb3f5808
+
