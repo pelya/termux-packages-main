@@ -35157,3 +35157,33 @@ SHA1: 6b45c405f86051beead18ede92f3a9705d884659
 SHA256: b62b5f3d583a7195f1ab22e0dd9c605c2349cfea92a902c38e475680b4b6ece3
 SHA512: 7357a67ca38b501a9e2b996d54f21eb4eb967d2ba45d7f4c22cfe7a95b7a7da814de213ad1199ad2fc0db38c7a2953edda66e4f46fd69645d9dd54f0c03e122c
 
+Package: root-repo
+Architecture: all
+Installed-Size: 52
+Maintainer: Henrik Grimler @Grimler91
+Version: 2.4-2
+Homepage: https://github.com/termux/termux-root-packages
+Depends: termux-keyring
+Description: Package repository containing programs for rooted devices
+Filename: ../../../../releases/download/arm-r/root-repo_2.4-2_all.deb
+Size: 1228
+MD5Sum: 2e005ce4b7a91b555f73782ba4c3ce3d
+SHA1: cab3996e523c3f107b425fdf510cd46f1f4123a7
+SHA256: ce05d5815f11e3e41d916433e4415e2ff197340433fe2d572d46d1325e285b37
+SHA512: cc1f2105135467c083a9e677a75c923c44a43e3e5f32fe82699d96c32b7ea426baab6f1c7c652e939b72af8ad18b98afb823715fcb2ccb8c88ab4e7e04d5bea2
+
+Package: snmptt
+Architecture: all
+Installed-Size: 388
+Maintainer: @termux
+Version: 1.5
+Homepage: http://www.snmptt.org/
+Depends: net-snmp, perl
+Description: SNMP trap translator
+Filename: ../../../../releases/download/arm-s/snmptt_1.5_all.deb
+Size: 53236
+MD5Sum: bae5590ca81f9d16bdfb041ec5a971f6
+SHA1: 94a99e0021c0afad0327a3ad2bac95241232dff6
+SHA256: 9c48d249a090c3c5e490d19a6fa63b69da831402574e75c40b5bad13cdcebf28
+SHA512: 6f7c28dfdae1a6a3570f7bc195394ee472c662646b20bb9dd4c44fcd0c724acb1d415c64931eb1bc567bc56b51e7701d9886cc1c3d17bbbee238ce5971538067
+
