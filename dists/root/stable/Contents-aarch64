@@ -373,3 +373,6 @@ data/data/greater.underscore/files/usr/share/man/man5/lxc.conf.5.gz             
 data/data/greater.underscore/files/usr/share/man/man5/lxc.container.conf.5.gz    lxc
 data/data/greater.underscore/files/usr/share/man/man5/lxc.system.conf.5.gz       lxc
 data/data/greater.underscore/files/usr/share/man/man7/lxc.7.gz                   lxc
+data/data/greater.underscore/files/usr/bin/bindfs                                bindfs
+data/data/greater.underscore/files/usr/share/doc/bindfs/copyright                bindfs
+data/data/greater.underscore/files/usr/share/man/man1/bindfs.1.gz                bindfs

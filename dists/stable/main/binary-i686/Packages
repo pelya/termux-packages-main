@@ -34209,3 +34209,17 @@ SHA1: 2faa956996593d024945e4999ab2975d7375f440
 SHA256: e0a2375915ed1790d6d4d580da2c97eefeef27b66c91a0ce44a9faa9b6aa7e60
 SHA512: 2e58dcdb25809fec22dd0b8bd91afc3c6c894eb76ff08ee6a15df95df8e8ecd06579eea7b994371a33bdb2cfc8794e561efd2be5d4fa54f3465c738e9233a6e8
 
+Package: mdbook-mermaid
+Architecture: i686
+Installed-Size: 6136
+Maintainer: @termux
+Version: 0.17.0
+Homepage: https://github.com/badboy/mdbook-mermaid
+Description: A preprocessor for mdbook to add mermaid support
+Filename: ../../../../releases/download/i686-m/mdbook-mermaid_0.17.0_i686.deb
+Size: 1701876
+MD5Sum: d7562dadcb990f9064744777d0584f4a
+SHA1: 4e34e1da93e169af7eb4a83d37ba46d616f55a4e
+SHA256: 8f8e4fb9764fe06f3e5eff47a55d6d144317a62bbcb3f3d13097df8c996597b7
+SHA512: ae8b665d1e70a31b404595b85955ede5297525d56622963a7e707507a1a820c7a89354ac69be4a9a708353f5e0a5840c301133416e8175ba594f4a52d9517056
+

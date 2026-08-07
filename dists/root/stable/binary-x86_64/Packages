@@ -343,3 +343,18 @@ SHA1: e8ad33ac7c145109f493bf854973af565f580e8b
 SHA256: c53b07e461c458ff4d51e45b22f3cd97cdbe1d6c2cce4f046c69139abd813e28
 SHA512: d8ad8c8860b95f60bb9dde6e0f5ba26de83e68e21f390bc4cee6c399cbc4560b7fcd01aef5b844abc7b4ecb6e7fd315137d5d08534890f4b49a17db68651765d
 
+Package: bindfs
+Architecture: x86_64
+Installed-Size: 108
+Maintainer: @termux
+Version: 1.18.4
+Homepage: https://bindfs.org/
+Depends: libfuse3
+Description: A FUSE filesystem for mirroring a directory to another directory.
+Filename: ../../../../releases/download/x86_64-b/bindfs_1.18.4_x86_64.deb
+Size: 25592
+MD5Sum: 43ab6b5e53dbb4b2e5307c53024c8028
+SHA1: 77c4be9d9521bba5d7e06915fdae141e7bb0e910
+SHA256: b00ca98637e1bc5b30c9ac5d2711e5d6fec8dd6696ca04b7b44b04293733cfc0
+SHA512: c6b724a2a02cd1d29e02414bff3ffcc96c994955f104baf6f94802255ea3a48c7ee42c6b417310792060d7d3479394b01ed32b860f22933780540f6760606b5a
+
