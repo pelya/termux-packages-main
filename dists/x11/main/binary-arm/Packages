@@ -12779,3 +12779,19 @@ SHA1: dbc0e04860f1ad007565a016bc65d715510904e6
 SHA256: 28955800243092b2735e883aad642be320240b4205c88325da0fc97e8ce249f2
 SHA512: 0d95b9a202928411d2f348089c30fd1ba2d0ef08facd7efff819463a823a8d39bea1c801d277f5200f945b6b62d099b33612790e38ca3ad0616d906a28c13d00
 
+Package: thunar-archive-plugin
+Architecture: arm
+Installed-Size: 112
+Maintainer: @Yisus7u7
+Version: 0.6.0-1
+Homepage: https://docs.xfce.org/xfce/thunar/archive
+Depends: glib, gtk3, libxfce4util, thunar
+Recommends: file-roller
+Description: This plugin allows one to extract and create archive from inside the Thunar file manager.
+Filename: ../../../../releases/download/arm-t/thunar-archive-plugin_0.6.0-1_arm.deb
+Size: 9832
+MD5Sum: 10167abceb092c2f6f48bed92d94c715
+SHA1: 3d3f385521dafd0ecb8e2097bc378a82cadc6cba
+SHA256: 1a8c8d08260fe51579cf685c712080bcb58a788dd5b20a625f51e70c69f7703f
+SHA512: 796ee90f690c368814f292ebb770bc95215f04f1570d17dfb5a7a5e7bee7193f2d43976994d84a6dc282ebba9e85e746fc6626a9847f224b8e8933b63984d3dd
+

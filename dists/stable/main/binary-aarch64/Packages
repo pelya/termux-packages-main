@@ -36836,3 +36836,19 @@ SHA1: c8c1dccd7c483598687bde330dcbb24ee62681f0
 SHA256: 314a0fe0d8dbdc6ec0c30d32c8fa4bbed0f3ee44e80ea981d6e2e8192a0a4df6
 SHA512: ae20d297e537f1333b89b283f255fef244eabce0218cdfe3c29853064c81a4f90fce8c46e7e0453e19ef815eecb59023f65e772b46670cd5ac333aa79690ef3e
 
+Package: luvit
+Architecture: aarch64
+Installed-Size: 616
+Maintainer: @termux
+Version: 2.18.1-1
+Homepage: https://luvit.io
+Depends: luvi
+Suggests: lit
+Description: Asynchronous I/O for Lua
+Filename: ../../../../releases/download/aarch64-l/luvit_2.18.1-1_aarch64.deb
+Size: 167676
+MD5Sum: e3f662251570ce691d19a3d2f2bc9bbb
+SHA1: 1a1634b123775fceaf5b0bff7fa091dc882913dd
+SHA256: 197d1a40f0179e0dae7bc2a70190e3bf44f51a5c4ca6bf7e01654469e63b94b7
+SHA512: f23b78176cbdf2dfa841f1cd8701671607b577442e1ba684ed650324e001371de644cbc42376ad2bb1838a2c26906ea0efabcc51e520ae1220f9dba7a7bef115
+
