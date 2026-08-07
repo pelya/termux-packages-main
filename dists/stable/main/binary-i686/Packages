@@ -33671,3 +33671,33 @@ SHA1: ab427acd47324260dc68555de09bbfcebeff1d4e
 SHA256: 045b8ad179fe3e60cc4bb905d8fa91b92da7b23cf7f51adb090f7c17da5ae503
 SHA512: e693944205dfb398d3c6d795a33ed46f852b3ab16952c0f28ad098553de58387eccb4e8f9ec532603a787875a0cdb5c8bb078f6af9c157e6078a2d62c6a94f74
 
+Package: libcdr-static
+Architecture: i686
+Installed-Size: 2068
+Maintainer: @termux
+Version: 0.1.8-5
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libcdr
+Depends: libcdr (= 0.1.8-5)
+Description: Static libraries for libcdr
+Filename: ../../../../releases/download/i686-libc/libcdr-static_0.1.8-5_i686.deb
+Size: 430776
+MD5Sum: ec1268bdccfe8114f365111bd8c1162c
+SHA1: a6f00658612b5746e83ad1610c46cebbb74f8c6e
+SHA256: b1453b92c5bbdcddf59d6fcc2b822aad5cfdbb45690b77773508ee3b09d2abd8
+SHA512: 692c310110164a6624a56fad924e3dca879f8cf088ecdcd45d41a2d8dc4c012e718254e83296dd103e4bece58d35b63520d81883110427a6ee0ecc989c577056
+
+Package: libcdr
+Architecture: i686
+Installed-Size: 980
+Maintainer: @termux
+Version: 0.1.8-5
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libcdr
+Depends: libicu, librevenge, libxml2, littlecms, zlib
+Description: CorelDraw file format importer library for LibreOffice
+Filename: ../../../../releases/download/i686-libc/libcdr_0.1.8-5_i686.deb
+Size: 350228
+MD5Sum: 06fde91307f1f886cfbc816c8ca4792f
+SHA1: 07e70ddf57d95b925ffcd885349598528ab63fce
+SHA256: 20bc6e70ae9c04874c2ef57ab6faa80957d88663984fb7cd982841f7907c9425
+SHA512: f72a3c99522fac6dd6af8bea62bb695b456bedd671c4808f5c437b15baa1325e5e8c5396a78a27233050c9cf9c0a956114f5c2c5a85ecc73472d96b5b46a4503
+
