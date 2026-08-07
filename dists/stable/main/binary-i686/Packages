@@ -34118,3 +34118,33 @@ SHA1: 04ab89e1b0036949f9b39e9b2989c92be96d34ab
 SHA256: 1e8ea3031f28012594b398a5027b770ba213dd1c844618dc27e4b14face7e367
 SHA512: 6880a7af79ddc66b8febf5f3e666f47f98b48807efff14c65115d75fd02f659d977898e765faf4616255709d7a2794e26277fa48d186e35092ec9439ff7cb548
 
+Package: 8086tiny
+Architecture: i686
+Installed-Size: 1524
+Maintainer: @termux
+Version: 1.25-5
+Homepage: https://github.com/adriancable/8086tiny
+Depends: bash, coreutils, ncurses
+Description: A PC XT-compatible emulator/virtual machine
+Filename: ../../../../releases/download/i686-8/8086tiny_1.25-5_i686.deb
+Size: 1200096
+MD5Sum: f45adbd32a3eebca62e0423bb2df890d
+SHA1: c04e7e843855d333f19565b10601204c33676d22
+SHA256: 9fb821e7d8e16f443142bc92e530d4d45c2618f22b7ad12059ed53be4a1e6cc1
+SHA512: b7c8f5a3b10627292b8110972a64eef374914a49d0870daa3662ab6f303b1d713702ba655c3d2a43773d0566d105da4eeefa832f94010f595fb7b058b35a8594
+
+Package: tome2
+Architecture: i686
+Installed-Size: 15268
+Maintainer: @termux
+Version: 2025.12.13-1
+Homepage: https://github.com/tome2/tome2
+Depends: boost, libc++, libx11, ncurses
+Description: An open world roguelike adventure set in middle earth
+Filename: ../../../../releases/download/i686-t/tome2_2025.12.13-1_i686.deb
+Size: 1865628
+MD5Sum: 459e6cc76286ea15f8782b4712f2de3d
+SHA1: e71d196195459acdd69369ef064991d6d3fea1fe
+SHA256: ec14159fa20bb8a1f191cd43339a223fd5d891deb8900cf09c3cdc7e722382c2
+SHA512: e797e43799ec3fe167304cd2497fc0a376f7c1e9de9c8cdf6639bf2ba1074bf5e0b8e6ca1bdef4b2bf1f2c6832ef226a329412ab32c9cd3b4475bc52931b9899
+
