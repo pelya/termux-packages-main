@@ -35518,3 +35518,81 @@ SHA1: 0478d6b8722e4854e8f00ef630ccf2a0eaac0f84
 SHA256: 572896890816e5fc90a1d3d6380cd4175e81637700ec6604a29fdc3e3eb98b15
 SHA512: efe8c1586797ad12b4f8f5f12775401744bc0bed15af635d5229708455242a8fb3386d9a3b42bd51d6954aadf909242045f38e2c5e46eebc2b58c4157521e9c3
 
+Package: mariadb-static
+Architecture: x86_64
+Installed-Size: 592
+Maintainer: @termux
+Version: 2:12.3.2
+Homepage: https://mariadb.org
+Depends: mariadb (= 2:12.3.2)
+Description: Static libraries for mariadb
+Filename: ../../../../releases/download/x86_64-m/mariadb-static_2.12.3.2_x86_64.deb
+Size: 116164
+MD5Sum: de9b4660cc2ea680fd8dec269b53228c
+SHA1: a6b840651a88be9cb44401f4486181b40b3678d2
+SHA256: c27797c9225a28304221811092dc3725fcda95f45417c27d1e42430eccd0087f
+SHA512: a8f295eda0103c96d5cc318c0a32063230c2814901d50c755870c86e8355c2110ccf9f95df1013718c811ea227ee852760bf5db5731cbba4038214d838805747
+
+Package: mariadb
+Architecture: x86_64
+Installed-Size: 202520
+Maintainer: @termux
+Version: 2:12.3.2
+Homepage: https://mariadb.org
+Breaks: mariadb-dev
+Depends: libandroid-support, libbz2, libc++, libcrypt, libedit, liblz4, libxml2, liblzma, ncurses, openssl, pcre2, zlib, zstd
+Conflicts: mysql
+Replaces: mariadb-dev
+Description: A drop-in replacement for mysql server
+Filename: ../../../../releases/download/x86_64-m/mariadb_2.12.3.2_x86_64.deb
+Size: 17202380
+MD5Sum: 12489faf825e47c3f2e8b7929d9fd941
+SHA1: 6eb9230d6c248c4bc3f473c38517bb1155cf02e9
+SHA256: 0e370874e8ca56bccbfdd93d977e440bc0dcfff94500356aeac1dc39c6af8f5a
+SHA512: 364b0bb0e1f2785d8d857185c7757da613423b00e3eae4a0ede662e3b2961136e451f30e8adb111cd783fc3c15291888a6a4d6f69a2834455f64b6f2fe083515
+
+Package: redland
+Architecture: x86_64
+Installed-Size: 692
+Maintainer: @termux
+Version: 1.0.17-1
+Homepage: http://librdf.org/
+Depends: libltdl, libraptor2, librasqal, mariadb, postgresql, sqlite, unixodbc
+Description: Library that provides a high-level interface to RDF data
+Filename: ../../../../releases/download/x86_64-r/redland_1.0.17-1_x86_64.deb
+Size: 143420
+MD5Sum: a76200ca5d931701508c9e00c66c5e03
+SHA1: 9d35eae4d86f813125a96b0be0ff8ba92cc13c5e
+SHA256: 1d0f047bd4ab412b6bb7c3279f049a74877f9e782cf6d427728b80010e123ebb
+SHA512: 492c5a8dd7bb75c20562814b02ca18ed3152816d67037d0dd7222eb52c8c5bc463a87a05e794a3555ce851371609a036ada4f09879558b5630684c0e4432f6c8
+
+Package: unixodbc-static
+Architecture: x86_64
+Installed-Size: 1500
+Maintainer: @termux
+Version: 2.3.14
+Homepage: https://www.unixodbc.org/
+Depends: unixodbc (= 2.3.14)
+Description: Static libraries for unixodbc
+Filename: ../../../../releases/download/x86_64-u/unixodbc-static_2.3.14_x86_64.deb
+Size: 175524
+MD5Sum: 649d39f8ea9d65672c1672b3bf28c6c6
+SHA1: 306447c7c3731cfbd24db44ce422ceca95df75c9
+SHA256: 09766bee7c7daf40e3e101ce0121621acfce68b6e6dc321d71d2fd9380eb4c1c
+SHA512: 0c6f3cee0e9a4073a74dce4a014ceb40db569c65f1effaf4dfc6f88d2119af42a92f7463fef540d466946303e4494831b300d09ea01c16bfb14b1b7b0ef852a9
+
+Package: unixodbc
+Architecture: x86_64
+Installed-Size: 924
+Maintainer: @termux
+Version: 2.3.14
+Homepage: https://www.unixodbc.org/
+Depends: libiconv, libltdl, readline
+Description: An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX
+Filename: ../../../../releases/download/x86_64-u/unixodbc_2.3.14_x86_64.deb
+Size: 212532
+MD5Sum: 720894c1d732d72bedfea20b7724fabc
+SHA1: abcafb7d70919b57ebd3ae2f901e1811fb894ec7
+SHA256: 4ee099a6bfcf4691da1a36ae4e04da8f4daf95627fafd7a8e3c9d063b3cd9b66
+SHA512: 0c21e7ef335caf46d311226a0222eee97c8047b3e0a53efc99d44fc20d69e4ddda5a51975be07e6c23b90981b1fb1a87c7de90b97e9dfd7ce3137b10ae2bf60d
+
