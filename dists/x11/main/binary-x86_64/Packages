@@ -12767,3 +12767,18 @@ SHA1: a9e8ce20608ddec1238a722ce55d3ad6b75adf54
 SHA256: 3d25dd30c404f911cd4d66e421a276767378e3d0a161669982fb7a86eabfbf4d
 SHA512: 99f2591048463cc87c7ccec90d26c7464dfa3147a467f0d72f631fbdff2df81289e5af36c2f7da7e27567ba8ef295b18dfa6ff9a4001fa1042d1c11d52167dfd
 
+Package: xfce4-goodies
+Architecture: all
+Installed-Size: 4
+Maintainer: @Yisus7u7
+Version: 4.20.0
+Homepage: https://goodies.xfce.org/
+Depends: xfce4-terminal, xfce4-appfinder, xfce4-calculator-plugin, xfce4-clipman-plugin, xfce4-datetime-plugin, xfce4-dict, xfce4-eyes-plugin, xfce4-mailwatch-plugin, xfce4-netload-plugin, xfce4-notes-plugin, xfce4-notifyd, xfce4-panel-profiles, xfce4-screensaver, xfce4-taskmanager, xfce4-timer-plugin, xfce4-wavelan-plugin, xfce4-screenshooter, xfce4-whiskermenu-plugin, thunar-archive-plugin, parole, mousepad, file-roller, galculator, ristretto, gigolo
+Description: this meta-package will install various utilities and programs for the XFCE desktop environment (incomplete!)
+Filename: ../../../../releases/download/x86_64-x/xfce4-goodies_4.20.0_all.deb
+Size: 932
+MD5Sum: 65ecc70cd9e5df2e9a34bf8656f06272
+SHA1: 375dbb95caf5dce4911f4dc0bd36f39fcbb6ff21
+SHA256: 77996cd767aee9d828f9c220244fc1bea45d64a637817b41f559feb685cdc9bf
+SHA512: a6ba0ab9c781381acac2ecd762cf80f3137d576aa5dd204a2c4296b99a16f6fda58062ec848085dac39b03432f470840323e4969c5e1d3e223efc07605564017
+

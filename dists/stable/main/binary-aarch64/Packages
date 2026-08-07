@@ -36296,3 +36296,18 @@ SHA1: e1f01e82b37e8e4c31aa314b3df56786881d0b33
 SHA256: 1864a4671963c58fbcce8b15c67458b096f176d091a966ae7e4beb4ba735b5c9
 SHA512: c791eb5062704e94ece309c8f1894c601e0c2de6a573b0817a65640f8a6f7b26c2d83b5685b6339cb4c1ff0424698fdaca339c7c9a38880ef68432adc67c846e
 
+Package: weggli
+Architecture: aarch64
+Installed-Size: 4196
+Maintainer: @termux
+Version: 0.2.4-3
+Homepage: https://github.com/googleprojectzero/weggli
+Depends: libc++
+Description: A fast and robust semantic search tool for C and C++ codebases
+Filename: ../../../../releases/download/aarch64-w/weggli_0.2.4-3_aarch64.deb
+Size: 752020
+MD5Sum: 9129175da171b2e7d3dad961902e4cca
+SHA1: a50e7c4276a82f3b9fd70f741c16194832c0a743
+SHA256: e6a38167d483047dc278f9ad45e5cb61d9b5f3d82a5f6c1268b6d8a8f74c4af4
+SHA512: b180399d4977041c75bf32c9c96e9206962953a01631ac0471f06f67cba18017e6a260f9a5782b5686691695b453545bdec2f689d802edbe9fdf4b6115204134
+
