@@ -35473,3 +35473,33 @@ SHA1: 207a9a0f69413857eaebc7fd4c26e1436dc6d198
 SHA256: 1b31c0fa304dfeeb08b19edc42c61b005c3b759aa93f0176eadf1caebb7e6fff
 SHA512: d961ac431c607f4094722b781435a4b990021f5f46a1a427777efb32e6a59f1129068e985b1734f20642d24e088d9dc66e2da842dc646125b817f1484a517cce
 
+Package: libmspub-static
+Architecture: x86_64
+Installed-Size: 1788
+Maintainer: @termux
+Version: 0.1.4-5
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libcdr
+Depends: libmspub (= 0.1.4-5)
+Description: Static libraries for libmspub
+Filename: ../../../../releases/download/x86_64-libm/libmspub-static_0.1.4-5_x86_64.deb
+Size: 201168
+MD5Sum: 9a9707ec96f83191f917518540ebba66
+SHA1: 2363710f83411fc648124d8403a1ffa76112a1ef
+SHA256: b79a56a26e006c99a7d3328143e517bf7de9d112182a1b8c785a16afe0955d54
+SHA512: a8f32e5d89eeabc25bea35432530fd1aa1db4d847639d1f9f223edf9286d64a525655513415791e2e05aef1d35b2b6c409a329e1837697e5ca6ed95997b7a971
+
+Package: libmspub
+Architecture: x86_64
+Installed-Size: 548
+Maintainer: @termux
+Version: 0.1.4-5
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libcdr
+Depends: libwpd, libicu, libxml2, librevenge, zlib
+Description: Microsoft Publisher file format parser library (latest snapshot)
+Filename: ../../../../releases/download/x86_64-libm/libmspub_0.1.4-5_x86_64.deb
+Size: 122588
+MD5Sum: d5b0ca597db80bdb07493c2f00362186
+SHA1: 5e9e355e4a99b7103d481e8685911c13ba61d8c1
+SHA256: 8e79021b47c83ca3b980f44971a1bfdf26668a26b45e03e1bd1ee16e5c4cfce6
+SHA512: 50ec1fc2849d8129f17fce60014e95e0105e035d291f678fdb7eff35889388dba2e6162ff4dcde4d64b2f8747b1ddf76517cbffd29edd5183a4ec8cf0fbc262f
+
