@@ -4623,21 +4623,6 @@ SHA1: 799d3cba76362b4cd390becc594a89ee69ef6503
 SHA256: 59d478b70baa9713113ac4a1e0ce4db6e34545b5526cd375b9bbc0a849bff9fb
 SHA512: 27e9b12ac9c75b2f056bf256129c1afabf50e8cd18f0c8bef29bc97e0a7a45602925ba986fcdcb6918688d81152682b33a579b01a124475cd7447110926ec364
 
-Package: dvtm
-Architecture: x86_64
-Installed-Size: 136
-Maintainer: @termux
-Version: 0.15-4
-Homepage: https://github.com/martanne/dvtm
-Depends: ncurses
-Description: Terminal tiling window manager
-Filename: ../../../../releases/download/x86_64-d/dvtm_0.15-4_x86_64.deb
-Size: 26380
-MD5Sum: 47382dc1068dcb45327b1b89484258ec
-SHA1: 654e66a9909a825f112f19a4f43f86d07b75fa13
-SHA256: 9f5c368ce81b48fb450a31ba375f5e1275b1b836902890c07d38da5ee8cd83d8
-SHA512: cf1ab89296b5da0e187f301a63a0d8ad56161f03cbcdef8ea802b568969622347d5be5c92262628ae42da34d4c4f6c89d38f5a097e30d5870a8e306660eddf7d
-
 Package: dwarves
 Architecture: x86_64
 Installed-Size: 1084
@@ -5362,37 +5347,6 @@ MD5Sum: 135ed2f8b99e24317a5c7f416802148e
 SHA1: 33768080b556b83fa3b08ae437511ce0c0a2039c
 SHA256: 1bc368f60a049104b5ac751ecd8aa395aa8934ef02e03793c5d63e2e977b8e27
 SHA512: 9a461816d1004e40369d154ba13a4e1e07415a295ff5f9640749ff6cd8824c14f24bdf64f925d958dd9c839a6493d3df01bbebe7659e5ddf868508fb15363d7e
-
-Package: fftw-static
-Architecture: x86_64
-Installed-Size: 7960
-Maintainer: @termux
-Version: 3.3.11
-Homepage: http://www.fftw.org/
-Depends: fftw (= 3.3.11)
-Description: Static libraries for fftw
-Filename: ../../../../releases/download/x86_64-f/fftw-static_3.3.11_x86_64.deb
-Size: 1027304
-MD5Sum: 3de1a79e01b391e3bd671ce30b760798
-SHA1: 5f9a8cd241379663efc9ec7bc9a329138bd705e6
-SHA256: 3d26a874c3ef3c3c752ef4a62ea1b24fffa1fe2676bd02816c84e28bd8f1d7ab
-SHA512: b5395900eb985a5edce93b93158de964848c177aded95ddc8c5d7b7dd08f3b9b70fa95bd6d26248960636999690510f2f6edb1109ade6a7898fa76c54dff3ba3
-
-Package: fftw
-Architecture: x86_64
-Installed-Size: 4240
-Maintainer: @termux
-Version: 3.3.11
-Homepage: http://www.fftw.org/
-Breaks: fftw-dev
-Replaces: fftw-dev
-Description: Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions
-Filename: ../../../../releases/download/x86_64-f/fftw_3.3.11_x86_64.deb
-Size: 1125024
-MD5Sum: 4e5d2a67dfcbfab4c6729f0c575144cc
-SHA1: f05eb697d47aa448f87b2b90b067a0c714d6af13
-SHA256: e6318a2a8a4bb8a190e74314c06e7cfdb639f9a736711c29b80c2aaa796f4263
-SHA512: fc13ddd238b48b19b7117a5dda147294c0b0f686f2e8bc5c08ae740b089035910c9de71ce414df525496d959808cba59b8ccb1ddfa98815218190ed8977beb1f
 
 Package: figlet
 Architecture: x86_64
@@ -34001,21 +33955,6 @@ SHA1: c53835482ed9f59a5701860e10a0df36beab254f
 SHA256: 067a0e7166adb48396babbe35ed8a3c38b554798910a9d50c80413b0b1ac93a8
 SHA512: e48bc3261a55d7831fc2d67facb161186a56f4913bc81ff1e1c7abfcd6a9ee7a7f932b6842bbff9783278f2a180a4c6c1ebb5dad0554138c3bb79e3f687cf27d
 
-Package: libc++
-Architecture: x86_64
-Installed-Size: 1348
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
-Size: 359372
-MD5Sum: 50a61276bfad2a9424baa969f22c57fd
-SHA1: 3c5e8ff60862b53574a8df519eee505d00fece9c
-SHA256: b62cdd9d076a28661a67cb550a258b8f984690d76f43e2b563cba46fb0c2a9a0
-SHA512: 26c242c4699f10745342e0f599280224b5d5bdd5f1a6c569f221d6746a2592c8cfc63d1a2cea462c4a5550e21853a6597cc114fe36769ab3dd28302161a98233
-
 Package: libcmis
 Architecture: x86_64
 Installed-Size: 1464
@@ -34515,84 +34454,6 @@ SHA1: f94d4e23cf5f785fe68a9ed22cecbd01761f7ad1
 SHA256: 6cd32c14c546256cae65c8b333c516a12dc290f2ac75d6ff79c572f6b5fd548e
 SHA512: 933e0743925bf599768796fc6e2927a889db5ccbee727c4e1090f1c67a0a28fa90b76c9868f49b18d34692d5eb03769ea65e2c21f74a0cdc545c67d819b6ccda
 
-Package: ncurses-static
-Architecture: x86_64
-Installed-Size: 752
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 156788
-MD5Sum: 2212bff834d3a777488cce491b647cf3
-SHA1: fc38ec6f3588a42d7b1a95676cfff3d082cdb074
-SHA256: b0a0ecb59f9ba4bd0e24918fc951094edfca843ae00d8f13682bec93e1a33155
-SHA512: 67d44e7402f7e3e0a9c4b0db324affc3640c5e2e7c69fea40fecb8c48b1c337a423938f694a3a7f2f0a3dc220b7db574c252af1449c842760211c99bd5281769
-
-Package: ncurses-ui-libs-static
-Architecture: x86_64
-Installed-Size: 240
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 39120
-MD5Sum: 594bdbb5cd5fcb883269897bccf4e209
-SHA1: 647a202cd2e783b27c9f693d7bbceceaefccf9e7
-SHA256: 0afee04ac6e282fc690a0e2b4611b83cebc8de315e19f37a1d5dd5ac28ed3e85
-SHA512: bd48dd08ec8a46a2dff06eb65f15814f1721b2cd5092bc4f775d8a5d2fded4a95ef0e6fc8c968789e2b4e2c104e9594a72b26aadf505ac7e2819db1e0c5e691d
-
-Package: ncurses-ui-libs
-Architecture: x86_64
-Installed-Size: 144
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Breaks: ncurses (<< 6.4)
-Replaces: ncurses (<< 6.4)
-Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 35392
-MD5Sum: df780420e781c4ca5b1a05413f9a58e6
-SHA1: b16a3db5b43ae56d5a300a673ae3860a37d41cfb
-SHA256: 7776a8a9a9fab960294c88d536314bdbc222e61ec9b099754642c7deb20b67e4
-SHA512: bee3490a4c5a7eca8e27f51a463115f06ebe51ffc4a5bb01db8f28dfab09903250df3395cbb6aac9552f97810cbba3d11270201c53322ca4314052aa430c712c
-
-Package: ncurses-utils
-Architecture: x86_64
-Installed-Size: 272
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Tools for working with terminals
-Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 92624
-MD5Sum: 7022cfbdce02f2c4ad203f1d7975b54b
-SHA1: 807bb0ed1dab2cee1a5d4ca8d013c367bd6b41cf
-SHA256: 7a935b5b645ddb027fab6b17c5667cd91bec3d63375f55b38961411efc942c1d
-SHA512: 280aae2cc0ac46fee9b4fdd2506a7057fc0b750bf5b21b9d1ed7ece534557ca36f9dfba711dc19dadfb6c01bd2bacdecc2e314fd421994aace5dceded5a7f264
-
-Package: ncurses
-Architecture: x86_64
-Installed-Size: 1604
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 570160
-MD5Sum: 258efb14e2c8b66262b6b998e63306ce
-SHA1: 5b1bbb5827f6ec8fd29b61363d512ea4a272b7d0
-SHA256: 7c2ec934e63aec305e0b20c914d4479e954828c79053e31b3a14e0264afd8f80
-SHA512: f7cbca68f6229dfbf6b5f6c38a9f5412f5b7e7f938942bd3aa6be736dd1738c7576ea027afbf0494b5c2c6548e90cd63d3c55b6360da9033af03adfc201ccc79
-
 Package: pcre2-static
 Architecture: x86_64
 Installed-Size: 2120
@@ -34712,4 +34573,173 @@ MD5Sum: 6666c07f34b2f422d37a0dbb170f8bfc
 SHA1: f6b04587c66e9744cfd21e691374b5f8b754b10f
 SHA256: b221588730f11e071f8a68107e6a3e7b506892ac7b716c192dd025b750a3e7a6
 SHA512: 2cab69a4b4d49a5b7a3ba76c38e9132a49848568f7787786556ae8fbdacde96e9a3f8a509f6dca146731d349300d07a84359a49f5e57d8ae5e3340fd38384b85
+
+Package: abduco
+Architecture: x86_64
+Installed-Size: 80
+Maintainer: @termux
+Version: 0.6-4
+Homepage: https://www.brain-dump.org/projects/abduco/
+Depends: dvtm
+Description: Clean and simple terminal session manager
+Filename: ../../../../releases/download/x86_64-a/abduco_0.6-4_x86_64.deb
+Size: 10476
+MD5Sum: 7e8b27601c1cd0c9f2a08cebb2f9aa03
+SHA1: 32d37b3a0dde48fb7635fc570a1af5dd92d26641
+SHA256: c3bad110bfd9ec5dfa01dc4b7b58c48e48f3cb537bbf848bbc0b4880c4ba2f5e
+SHA512: 4112b3c4cbc5ecbeba7e9a2debd7c39871aa8f5fe5d434185efb8c18a135e9e538db16847857632d6fd485c7a41adbc2920087c0e5074868d2f02e8a53d67d96
+
+Package: dvtm
+Architecture: x86_64
+Installed-Size: 136
+Maintainer: @termux
+Version: 0.15-4
+Homepage: https://github.com/martanne/dvtm
+Depends: ncurses
+Description: Terminal tiling window manager
+Filename: ../../../../releases/download/x86_64-d/dvtm_0.15-4_x86_64.deb
+Size: 26360
+MD5Sum: 583f218dc7092780379182f91980b3bd
+SHA1: 27e244f921c631318bddd39bf7876e07c0bc6bfa
+SHA256: 288193a155ca9a2638474df31a9fc89118ea377a5159786d32dd149e677c679a
+SHA512: 6ac34df103866e58b69251736f28fd72104e9fe9af19ceb670a8c6ba25f85ce3b11b9fab83af06b2b657abb73eef6fa25141cf0db83e99d93d32bd18296df6bf
+
+Package: fftw-static
+Architecture: x86_64
+Installed-Size: 7960
+Maintainer: @termux
+Version: 3.3.11
+Homepage: http://www.fftw.org/
+Depends: fftw (= 3.3.11)
+Description: Static libraries for fftw
+Filename: ../../../../releases/download/x86_64-f/fftw-static_3.3.11_x86_64.deb
+Size: 1026720
+MD5Sum: 0ac63ca1faccaefe071172b74e948673
+SHA1: afea9ee49ab65ea8168ec10f1f8da50c3c0c662d
+SHA256: 474cdc0d3855b6ca24244c52d278411b0f327e962b11e1b14ae371e42f4394e2
+SHA512: ad75c2820a924aa1da8756d0959d7ffaecdbe8259beaaccb983a62fcf1ebe7d67e1d6f9afaf8273c65897dfc669200ce4f45483182da0780885d0dc664534ec3
+
+Package: fftw
+Architecture: x86_64
+Installed-Size: 4240
+Maintainer: @termux
+Version: 3.3.11
+Homepage: http://www.fftw.org/
+Breaks: fftw-dev
+Replaces: fftw-dev
+Description: Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions
+Filename: ../../../../releases/download/x86_64-f/fftw_3.3.11_x86_64.deb
+Size: 1125528
+MD5Sum: 82b93b5b54120587ea0f00d16a30e498
+SHA1: f61aa611ed24f8d84a5b83f989580f5bfa54d3cc
+SHA256: d5a934768b9799c18a2770bda25b37f16772ca0fcc02a67ef88e91bbfd3c755d
+SHA512: 6bb2e8bdf6fa540eec102437b2bcc753dfe9b6992f4b20429ffe66d0f0875e7c95b50af424a743c889f8a36272abc67eeb25e9eb33e0bca259e37d95eecab8d5
+
+Package: libc++
+Architecture: x86_64
+Installed-Size: 1348
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
+Size: 359372
+MD5Sum: 50a61276bfad2a9424baa969f22c57fd
+SHA1: 3c5e8ff60862b53574a8df519eee505d00fece9c
+SHA256: b62cdd9d076a28661a67cb550a258b8f984690d76f43e2b563cba46fb0c2a9a0
+SHA512: 26c242c4699f10745342e0f599280224b5d5bdd5f1a6c569f221d6746a2592c8cfc63d1a2cea462c4a5550e21853a6597cc114fe36769ab3dd28302161a98233
+
+Package: minimodem
+Architecture: x86_64
+Installed-Size: 92
+Maintainer: @termux
+Version: 0.24-1-2
+Homepage: http://www.whence.com/minimodem/
+Depends: fftw, libsndfile, pulseaudio
+Description: General-purpose software audio FSK modem
+Filename: ../../../../releases/download/x86_64-m/minimodem_0.24-1-2_x86_64.deb
+Size: 20500
+MD5Sum: 6726ff7c63878d848244b6347f492cf4
+SHA1: 55fe5b18cef6cb099392cc0bb0449867dca1c833
+SHA256: 9898c3bc67e993d8d6b5ac11f4ecd5eb8efc98406a9ab5772a6d8a9edaf334d5
+SHA512: 21a4b1b29abadc0c2387803672e252d7b6f82cf479bb4a6ef957d3e45e50482f61b0ea6c7b62106bf8f84e9660ad1a6e19d820fd99e3ed79b8a3453ac6db2d8c
+
+Package: ncurses-static
+Architecture: x86_64
+Installed-Size: 752
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 156616
+MD5Sum: eee5278d04e7555a4cd076c4a4dfafe0
+SHA1: 9912484168754f324d106a049e95ade7f4a31fb0
+SHA256: 47a12ebb358abbd5c8af0a355a467130a7f3a3427e3c12e151d40ed8980ba7f4
+SHA512: f63eb174e2e4e532a1bca2a8d5aa2082e3b4785f88fa720ace88a10d405dd3e0e765415bf1c5a0f452c08883cdbe8852b0e0220b8db1c645a975cf091e2add6c
+
+Package: ncurses-ui-libs-static
+Architecture: x86_64
+Installed-Size: 240
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 39152
+MD5Sum: c9d4aba671e182f9e732ee40f71de8b3
+SHA1: 461ea39c2cc7b51ae43fa36af672757493cc11a1
+SHA256: b263f19b6cdb59fe6d73b17b66e11f7632fcac9354621691bd1055a957a11ba7
+SHA512: 1138ea9cb946a8fc1b8854e5cef31afeb37a4978e9c35e378d341240e42968340f2850e6a03b73f77d5dd7b9523b90ce30ffc5a735878bccc549cc2f35a0d3b8
+
+Package: ncurses-ui-libs
+Architecture: x86_64
+Installed-Size: 144
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Breaks: ncurses (<< 6.4)
+Replaces: ncurses (<< 6.4)
+Description: Libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 35392
+MD5Sum: df780420e781c4ca5b1a05413f9a58e6
+SHA1: b16a3db5b43ae56d5a300a673ae3860a37d41cfb
+SHA256: 7776a8a9a9fab960294c88d536314bdbc222e61ec9b099754642c7deb20b67e4
+SHA512: bee3490a4c5a7eca8e27f51a463115f06ebe51ffc4a5bb01db8f28dfab09903250df3395cbb6aac9552f97810cbba3d11270201c53322ca4314052aa430c712c
+
+Package: ncurses-utils
+Architecture: x86_64
+Installed-Size: 272
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Tools for working with terminals
+Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 92624
+MD5Sum: 7022cfbdce02f2c4ad203f1d7975b54b
+SHA1: 807bb0ed1dab2cee1a5d4ca8d013c367bd6b41cf
+SHA256: 7a935b5b645ddb027fab6b17c5667cd91bec3d63375f55b38961411efc942c1d
+SHA512: 280aae2cc0ac46fee9b4fdd2506a7057fc0b750bf5b21b9d1ed7ece534557ca36f9dfba711dc19dadfb6c01bd2bacdecc2e314fd421994aace5dceded5a7f264
+
+Package: ncurses
+Architecture: x86_64
+Installed-Size: 1604
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Description: Library for text-based user interfaces in a terminal-independent manner
+Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 570160
+MD5Sum: 258efb14e2c8b66262b6b998e63306ce
+SHA1: 5b1bbb5827f6ec8fd29b61363d512ea4a272b7d0
+SHA256: 7c2ec934e63aec305e0b20c914d4479e954828c79053e31b3a14e0264afd8f80
+SHA512: f7cbca68f6229dfbf6b5f6c38a9f5412f5b7e7f938942bd3aa6be736dd1738c7576ea027afbf0494b5c2c6548e90cd63d3c55b6360da9033af03adfc201ccc79
 

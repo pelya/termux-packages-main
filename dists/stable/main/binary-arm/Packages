@@ -33247,3 +33247,33 @@ SHA1: f6b04587c66e9744cfd21e691374b5f8b754b10f
 SHA256: b221588730f11e071f8a68107e6a3e7b506892ac7b716c192dd025b750a3e7a6
 SHA512: 2cab69a4b4d49a5b7a3ba76c38e9132a49848568f7787786556ae8fbdacde96e9a3f8a509f6dca146731d349300d07a84359a49f5e57d8ae5e3340fd38384b85
 
+Package: abduco
+Architecture: arm
+Installed-Size: 72
+Maintainer: @termux
+Version: 0.6-4
+Homepage: https://www.brain-dump.org/projects/abduco/
+Depends: dvtm
+Description: Clean and simple terminal session manager
+Filename: ../../../../releases/download/arm-a/abduco_0.6-4_arm.deb
+Size: 9192
+MD5Sum: 728a33bdce0bdc682fa4298f1b026263
+SHA1: 3a8683ae8acfd930e3e1df79eaa54e4597a00ba2
+SHA256: f1ba78ff7f7662ac07e2c9b40deb88914cebaa9830759f8e06fadd64f638ca3c
+SHA512: 448fa7fe42fb4228d88ecbfdf67b54e5dd931ba4b393d1fcaf05dae28ede05c8e12409580ee35c5a2ef653dda09ae289a525858f6aa2fb4ca24e2e581f547f6a
+
+Package: minimodem
+Architecture: arm
+Installed-Size: 84
+Maintainer: @termux
+Version: 0.24-1-2
+Homepage: http://www.whence.com/minimodem/
+Depends: fftw, libsndfile, pulseaudio
+Description: General-purpose software audio FSK modem
+Filename: ../../../../releases/download/arm-m/minimodem_0.24-1-2_arm.deb
+Size: 19084
+MD5Sum: e90eef273545671c0d89b9c569730907
+SHA1: 79843af9c1572494a47d5b33e2a63dbaed8f980e
+SHA256: e3a5d47562e17bb8019760eb9dd22e3ad9e4cd33e902ed51b592cd656ab40515
+SHA512: 59a3db928511e0c10ef3b455b44a07bd42c744d0f989dac42a1ae4584f355077ccc60672a76eebdb6ecf1f8330037aee851e975a1a276c655ee16742d3933495
+
