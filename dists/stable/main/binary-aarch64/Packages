@@ -36387,3 +36387,107 @@ SHA1: b03b362e82ea254d94d093faea9b9cb4cef5f7b8
 SHA256: 52e20290bf5a1db26875b13d17de9e47abea861f67d4401494639c3aeb954522
 SHA512: a229a49720201225a019f846e3f6fd2e89b5dbd1528bc82476e142d2b48bc70dd2b178cd89e697d3d01cabf631f53cb50a6e9b3487f369a1d5131d01756c390b
 
+Package: libtsduck-static
+Architecture: aarch64
+Installed-Size: 47548
+Maintainer: @termux
+Version: 3.44.4676
+Homepage: https://tsduck.io/
+Depends: libtsduck (= 3.44.4676)
+Description: Static libraries for libtsduck
+Filename: ../../../../releases/download/aarch64-libt/libtsduck-static_3.44.4676_aarch64.deb
+Size: 4365104
+MD5Sum: 6db6497688a1b0c3356fc1d03922e566
+SHA1: d7678a99483dd44a9a2c0d198f89b76961e48730
+SHA256: 87489879c62e49fe385c2615200c6cc7fe853e4583ae96e9c0ffb09aacf6dc33
+SHA512: 2f6620ae08fe79b696da3ccccce33aafdb36aafe5dbfb80376e0bf188acc89e378125879cec6fbbbaf43a65a576002148c6d382efdf7c8bca41a29b89ef2a8cf
+
+Package: libtsduck
+Architecture: aarch64
+Installed-Size: 22884
+Maintainer: @termux
+Version: 3.44.4676
+Homepage: https://tsduck.io/
+Depends: libandroid-glob, libc++, libcurl, libedit
+Description: An extensible toolkit for MPEG transport streams
+Filename: ../../../../releases/download/aarch64-libt/libtsduck_3.44.4676_aarch64.deb
+Size: 3900184
+MD5Sum: 9a251d3809bb1ec5a5b19cc59049cb67
+SHA1: 79f248c8fe8e470d0cc85142e8e110381bc14290
+SHA256: e046151a327bf0cd0acdaa8b3a8d6d2f6ae2604794ddefd039230f1211cbcd84
+SHA512: 94fc227fe8bd5d0dfaae88635a4797ae02b92b9af1a8bb167e25c5369fd79f44f9be7a8d2965b402cb36c59554d9c5c8d3f41ea59e0f313b60239dfdfbe71b32
+
+Package: tree-sitter-go
+Architecture: aarch64
+Installed-Size: 308
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.25.0-1
+Homepage: https://github.com/tree-sitter/tree-sitter-go
+Description: Golang grammar for tree-sitter
+Filename: ../../../../releases/download/aarch64-t/tree-sitter-go_0.25.0-1_aarch64.deb
+Size: 29892
+MD5Sum: 73666779b659c22518b0e7f1a1b471e7
+SHA1: 7ef624fd55bbfb983ab4d6658467af57023bf48a
+SHA256: 8a76fd233316d956bad8841a1e3a0980f7d8d3e3e53205e49245b5ce5f7c8b94
+SHA512: 804dce63c98398f975d2325cc81e23f38e607815bee76f2a315340a25130659e5bc007d37f8517c421dc34eb8d0197a9564c4a485b2abfc9f7f7523bc3e58edd
+
+Package: tsduck-java
+Architecture: aarch64
+Installed-Size: 48
+Maintainer: @termux
+Version: 3.44.4676
+Homepage: https://tsduck.io/
+Depends: openjdk-21, libtsduck (= 3.44.4676)
+Description: Java bindings for TSDuck
+Filename: ../../../../releases/download/aarch64-t/tsduck-java_3.44.4676_aarch64.deb
+Size: 10100
+MD5Sum: 6506dca252dedc67e5869c0c8cc69664
+SHA1: 4052c86e0953525949d12298c18690f9f6f305bc
+SHA256: a15fd8e81cbeffbaf0d2d4d4b7a17202992d4d9b48c3c2b04648075ead27d175
+SHA512: fe1e65f6c94efd522c4c9dc22606d22c1281ba495b62fb654357ba5425fb9030884bfc6cfea6b7ac8c9ebe7ae86531fbe713316b4eae290f0805fcebf1de8a16
+
+Package: tsduck-plugins
+Architecture: aarch64
+Installed-Size: 7176
+Maintainer: @termux
+Version: 3.44.4676
+Homepage: https://tsduck.io/
+Depends: libtsduck (= 3.44.4676)
+Description: Plugins for TSDuck
+Filename: ../../../../releases/download/aarch64-t/tsduck-plugins_3.44.4676_aarch64.deb
+Size: 850568
+MD5Sum: fc5c7793f1a33b0928e21959b654e375
+SHA1: 3f701e01ed9951a409ac9427ff81dc6550cddcb6
+SHA256: a1e1d3815726ace62db9cc641fb896289759bc0edc050768f61708405afbb83f
+SHA512: 539967fc96f8f66e52136361da65897651e786a311f8768aa3bef8e39f70465cea41bff0b422d6011ba4abc68d33dce992002cc4b9d7175fc96c2d01a6471c3c
+
+Package: tsduck-python
+Architecture: aarch64
+Installed-Size: 108
+Maintainer: @termux
+Version: 3.44.4676
+Homepage: https://tsduck.io/
+Depends: python, libtsduck (= 3.44.4676)
+Description: Python bindings for TSDuck
+Filename: ../../../../releases/download/aarch64-t/tsduck-python_3.44.4676_aarch64.deb
+Size: 13416
+MD5Sum: ae393b22af04112dd0450067d39fc092
+SHA1: a42a5f1d95a05e81d2c2644dacbe08c384664ce0
+SHA256: a1be162707e139c9242c4bc4a9c5d72d2442651f9f98f58f1101b7210081710e
+SHA512: 9365ebd1f7f9427a548a02c0dd2efa32cc4d28b4cbf7dd26e44878b8b6ea707cbe0a72e8505881be472b46e9bdcada2b2060d8e521cac869fa0c9a5294e26f5f
+
+Package: tsduck-tools
+Architecture: aarch64
+Installed-Size: 2916
+Maintainer: @termux
+Version: 3.44.4676
+Homepage: https://tsduck.io/
+Depends: libtsduck (= 3.44.4676)
+Description: Command line tools for TSDuck
+Filename: ../../../../releases/download/aarch64-t/tsduck-tools_3.44.4676_aarch64.deb
+Size: 378496
+MD5Sum: 3dafaac9c9d657ab6dd9db5eb367b451
+SHA1: bc82e73a72e75f29002972b9cf46d5ac8f613336
+SHA256: 0b98e1d5fd7255e5b645d1e19733719a22853d4613b11de1e59fa45c2e58724f
+SHA512: af6aec6f667df4b6d69edce75ffa666ef339b8aeb882e43eee95397f42de180eda96705077083c57e9360d6cab9e0bc0104a00ef9046ad046b7c00be91c47cef
+

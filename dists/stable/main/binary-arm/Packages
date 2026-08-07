@@ -34890,3 +34890,107 @@ SHA1: b348848e9ccc1143073be43e5d9652d4776a2bc1
 SHA256: ffb3ef945dd8212edbaf23ee9f7e2cd8d077851ff4e7d9f570c38b8de09647ca
 SHA512: 8636daa1f3ea99ecfe327ed93d5a5589a72ceeade019b7ec80df076ce681e5d3a3af1a1eab3bc57837df51b3eed777de69522c83ddc82f76774fa3d5c126b001
 
+Package: libtsduck-static
+Architecture: arm
+Installed-Size: 44000
+Maintainer: @termux
+Version: 3.44.4676
+Homepage: https://tsduck.io/
+Depends: libtsduck (= 3.44.4676)
+Description: Static libraries for libtsduck
+Filename: ../../../../releases/download/arm-libt/libtsduck-static_3.44.4676_arm.deb
+Size: 4788792
+MD5Sum: 896b1a4da6f12ba8ff29f01fb4513272
+SHA1: f4985005108ffd9ebc85c8fb162bb5cfa481642c
+SHA256: 1a0867f34d15d230d0d0ea74660dc8e192bde1d8fd3c3936974a5b62df036c62
+SHA512: b60e61f8149975ac06b751a969a266ef3cb1950e88220428a9c16875e934365123d953a81c351c690509358a2ece6cef0aaf28b05fc2aba319dd59d617691bf5
+
+Package: libtsduck
+Architecture: arm
+Installed-Size: 19864
+Maintainer: @termux
+Version: 3.44.4676
+Homepage: https://tsduck.io/
+Depends: libandroid-glob, libc++, libcurl, libedit
+Description: An extensible toolkit for MPEG transport streams
+Filename: ../../../../releases/download/arm-libt/libtsduck_3.44.4676_arm.deb
+Size: 3744044
+MD5Sum: f19ee779bdf634f04d5719f7d5b140e1
+SHA1: 01237800cce24638cb2979090ade85be62bbd6c4
+SHA256: 7c1c995ab90f03a69ccf75108923327d86c127a252352fbf8daaf5494d61f935
+SHA512: 5d8e6be2383dbc62f8b0d46fe570c9a4f84cbae55ebb0798290a28c43df8f3639de3442a8c4008df5805b9b82f3afa8908e37e1defdcd830a08026a843fde08b
+
+Package: tree-sitter-go
+Architecture: arm
+Installed-Size: 300
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.25.0-1
+Homepage: https://github.com/tree-sitter/tree-sitter-go
+Description: Golang grammar for tree-sitter
+Filename: ../../../../releases/download/arm-t/tree-sitter-go_0.25.0-1_arm.deb
+Size: 29056
+MD5Sum: f59fb22d4517cf94d8682c2b26ce3ec2
+SHA1: 7ad46bd361d3b49491191fb02a5633df2831171b
+SHA256: 3f938101268a76a5f9fbccf7abb44853e8739fa6d77ec5860ea57c47edc76baf
+SHA512: f0dceeef3cc50d8ccbc4fdc7bf05e47c155979881b847ef40206035d4644e461de4b1c098a775407c7d24999ecc4612cfe1f75f9f82967b8dcd85d6c16b5d6b5
+
+Package: tsduck-java
+Architecture: arm
+Installed-Size: 48
+Maintainer: @termux
+Version: 3.44.4676
+Homepage: https://tsduck.io/
+Depends: openjdk-21, libtsduck (= 3.44.4676)
+Description: Java bindings for TSDuck
+Filename: ../../../../releases/download/arm-t/tsduck-java_3.44.4676_arm.deb
+Size: 10096
+MD5Sum: fbc78e1c9dabf6b91664c439cfc200e9
+SHA1: fc7b079bdca0fdb1cba1bfd973c87408aada581c
+SHA256: f131b2ffa7f1bc7cd6583a37cadca8a3f22dd31ad649e66162e7f487ca97a795
+SHA512: 1d6507c89884b1f711f167944864655f2c7298819d89d92def55c6bf7dbe0d1b92e482a638b99eca713f12c764eeef38566bc1f329c7669dd8b9b38f483b87ab
+
+Package: tsduck-plugins
+Architecture: arm
+Installed-Size: 3580
+Maintainer: @termux
+Version: 3.44.4676
+Homepage: https://tsduck.io/
+Depends: libtsduck (= 3.44.4676)
+Description: Plugins for TSDuck
+Filename: ../../../../releases/download/arm-t/tsduck-plugins_3.44.4676_arm.deb
+Size: 631456
+MD5Sum: 622f57cff8f9e421a87c1f866be433a1
+SHA1: eaae6ba4a5aa6f9d6ea71bec686f7b2e6fa62161
+SHA256: 2d30433312d94a34c42a8a80a42ed625fbed91d04614f1be2dd1749053ed0f77
+SHA512: facc359168945e132469c76c8df20a10635d09f95f3eb35856812cc50b907e171b2752460e42131ada3865bdb068b73ee2ee5abc13c28f39e69575135be78393
+
+Package: tsduck-python
+Architecture: arm
+Installed-Size: 108
+Maintainer: @termux
+Version: 3.44.4676
+Homepage: https://tsduck.io/
+Depends: python, libtsduck (= 3.44.4676)
+Description: Python bindings for TSDuck
+Filename: ../../../../releases/download/arm-t/tsduck-python_3.44.4676_arm.deb
+Size: 13412
+MD5Sum: aed0de793faa70ecf80b2f542c92b2ad
+SHA1: 12b0bc47a8645ff6f146ca0cba6410e90d453684
+SHA256: 8a58998df0fd2046e6f6264f9ad03c9bfc159472ab801b5f6ed87502bdb999d9
+SHA512: cade9cc5b85d7ff454a729a4ea9a0529b4510ffc63f690437ab2a6c0b33a49003b14c68575dba4cd3d2bfb690a95402587a69c561d3930a0bd96441e9b8dd91a
+
+Package: tsduck-tools
+Architecture: arm
+Installed-Size: 1388
+Maintainer: @termux
+Version: 3.44.4676
+Homepage: https://tsduck.io/
+Depends: libtsduck (= 3.44.4676)
+Description: Command line tools for TSDuck
+Filename: ../../../../releases/download/arm-t/tsduck-tools_3.44.4676_arm.deb
+Size: 274000
+MD5Sum: 3c6f96068275e1db03930f22f4389949
+SHA1: 7e7b90ab2dcab579b390a127256b148acc57a8de
+SHA256: fdb9f3a09055e4554ad8eafdbca4e1378a6a07a6f2685c8f9ffc2f1af2895ed0
+SHA512: b68d6d7d9cf8a25889cd13efe94356a8b6c6e6afceddb04ab8d8e63d5b59f39737418d7470bb3c183d905ddb6cbe36c2b625c45190696280e0f507f67e90832f
+
