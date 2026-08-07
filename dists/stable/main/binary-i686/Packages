@@ -33982,3 +33982,32 @@ SHA1: 958ceb9748df32f727519abcda5351abd77c7c47
 SHA256: c0738cf147ede82601bda0a39a6bb898c1d48292ee6eb05392d7451ee1dd348c
 SHA512: 74e29a131bec4f4b5e2892d91e7c4de7df29e8564d89ad5e1a55294376bcba8dbaeedf96d0dc9400b194c13a3b14baf0389e3460691f2cf3cf2487334269a371
 
+Package: cpufetch
+Architecture: i686
+Installed-Size: 216
+Maintainer: @termux
+Version: 1.07-1
+Homepage: https://github.com/Dr-Noob/cpufetch
+Description: Simple yet fancy CPU architecture fetching tool
+Filename: ../../../../releases/download/i686-c/cpufetch_1.07-1_i686.deb
+Size: 44556
+MD5Sum: 118bc2a6062100be1da7224a6b7318a5
+SHA1: 69fb08c39058a42b5c72314810883083501f2399
+SHA256: 1cc1b252ad47495e7e4855ac020b647e549c5229388ad1a392baf98d115f68a5
+SHA512: 30c4048fc9e153bbfce3fb8b7b371fe3aae68a66cf09bade740d08a26c7f05f3ece2dac149f53bbb3ad1e6c3e8d7aae72e524ca16c1c70fab202bde5b1393fdb
+
+Package: wdiff
+Architecture: i686
+Installed-Size: 100
+Maintainer: @termux
+Version: 1.2.2-2
+Homepage: https://www.gnu.org/software/wdiff/
+Depends: ncurses
+Description: Display word differences between text files
+Filename: ../../../../releases/download/i686-w/wdiff_1.2.2-2_i686.deb
+Size: 16684
+MD5Sum: 1b27b96bc0eee5ccbc1aa5967a86fcaa
+SHA1: f1f13d3e5b867d951a925b60eac6570271da1695
+SHA256: 87d22999a6e69b3efbb8cd5cb0aa2ec3ec5456df5c243cb4afa2ddcdb6e5fc65
+SHA512: beb67fe7f69aba0bc412f2ab461a7f2a1e0942bc7d3f1d5e4f63debeb5d6135a6965e77562d73ca75dc711e89b1d52b927dad9710379f84dd2fe2a40af4ebc06
+
