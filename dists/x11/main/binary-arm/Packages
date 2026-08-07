@@ -12307,3 +12307,18 @@ SHA1: d49ddbf1dc177e9994276d4421c6f8273f8852df
 SHA256: 411cc398093aeec6a48320480b855207a4297a06392022f2859366fa77066349
 SHA512: a1119a1c0a517b7bd2c74b8a75c54825ca1bb2a1ca128d4dc55a6c2a373ccf84ab10c31cc333c1ea015c823364eae8aa8f0aa55f57673f08703753e48a2780f3
 
+Package: lxqt-openssh-askpass
+Architecture: arm
+Installed-Size: 260
+Maintainer: @termux
+Version: 2.4.0
+Homepage: https://lxqt.github.io
+Depends: libc++, liblxqt, qt6-qtbase
+Description: GUI to query passwords on behalf of SSH agents
+Filename: ../../../../releases/download/arm-l/lxqt-openssh-askpass_2.4.0_arm.deb
+Size: 11560
+MD5Sum: ca639f1f8f83cdcce4d8a379719736b5
+SHA1: 8c092c569cfa628eb6ac2a42c36e1cc8978e1064
+SHA256: 45e58f64c235e672e8ab4209b74f9c22a60ba89b10abd5ee6acf0193d77e3df6
+SHA512: efb1b7fa0dd7baf0b17aa3ea89bc2bea694fe9e8e2e81b947e15915507e10cf7232b1011ca48a11e6aad1abb9056d8cbe9ec1328de11a127930fdea77827d1fa
+

@@ -35730,3 +35730,33 @@ SHA1: 7631c54b37f5909493c3caf878a17855f5c3d19b
 SHA256: 58b272517eb5cdae249eddd7dba3e6e1d443391a53617804726981c3c0c84e1a
 SHA512: cda81c7ea536c68146a398f7f836a6cfdc9c464f47ee7f6f180a77618856c39784e21195957388170f48a5cf1f59f522bbe7d34508cbcb0a78fcedd27d110680
 
+Package: libblosc-static
+Architecture: x86_64
+Installed-Size: 132
+Maintainer: @termux
+Version: 1.21.6-2
+Homepage: https://www.blosc.org
+Depends: libblosc (= 1.21.6-2)
+Description: Static libraries for libblosc
+Filename: ../../../../releases/download/x86_64-libb/libblosc-static_1.21.6-2_x86_64.deb
+Size: 33404
+MD5Sum: a08752b599a89cfd5754f01c1146ec35
+SHA1: 3f4eff48190f78ee2c562797dd93c06339f26bd9
+SHA256: 0819f88288a7347663cb24f305705e232fd6ad9a85c3d53b448d24e70fb43955
+SHA512: 7ee995053caaa5debf10086bd3a12ed9ac2435c4d3236c655d75e4a556c0db19c3da1afab43be50f2b3456a67270aa68df7083f4c5cc535f65ab025b0dc8dfdf
+
+Package: libblosc
+Architecture: x86_64
+Installed-Size: 172
+Maintainer: @termux
+Version: 1.21.6-2
+Homepage: https://www.blosc.org
+Depends: liblz4, libsnappy, zlib, zstd
+Description: A blocking, shuffling and loss-less compression library
+Filename: ../../../../releases/download/x86_64-libb/libblosc_1.21.6-2_x86_64.deb
+Size: 38764
+MD5Sum: acfb28f711565c37888dc52f66bd7b77
+SHA1: f0658fe693b5b37afdd28ad24a6309061a2f1f2f
+SHA256: 4a2c0381fa348d465223a7288c12a0ff79ef97d214234bf6a7de4f754b98c2cf
+SHA512: a9e9c32969cbfa6ed9f067879dc8d48f26ffe583f84ecaa03b59bd19c59ec7c1f5fa76be0d28dd5b545d9679581ee1a51a41d3c2413a4105b01c4e91aea6bedc
+
