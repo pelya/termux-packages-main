@@ -236,3 +236,7 @@ data/data/greater.underscore/files/usr/share/doc/avrdude/copyright              
 data/data/greater.underscore/files/usr/share/man/man1/avrdude.1.gz               avrdude
 data/data/greater.underscore/files/usr/bin/termshark                             termshark
 data/data/greater.underscore/files/usr/share/doc/termshark/copyright             termshark
+data/data/greater.underscore/files/usr/bin/dnsmasq                               dnsmasq
+data/data/greater.underscore/files/usr/share/doc/dnsmasq/copyright               dnsmasq
+data/data/greater.underscore/files/usr/share/doc/dnsmasq/copyright.1             dnsmasq
+data/data/greater.underscore/files/usr/share/man/man8/dnsmasq.8.gz               dnsmasq

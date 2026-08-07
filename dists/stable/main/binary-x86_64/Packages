@@ -34802,3 +34802,18 @@ SHA1: 66d6e37614ccd1a18172c9a55673b93e63600918
 SHA256: 7450cf52ace4bb90a8012762a6f8a4d5e1955d875526a05e9cd70b25349db914
 SHA512: 0c73af5e555a8735338aee1ed9b437c095652a13b7e7647e06594ccd943f9b3f3a592670d38b875fe5e07bf2643d687113e9b3d4bd17b91289087eddf664b4dc
 
+Package: fcgiwrap
+Architecture: x86_64
+Installed-Size: 76
+Maintainer: @termux
+Version: 1.1.0+g99c942c
+Homepage: https://github.com/gnosek/fcgiwrap
+Depends: fcgi
+Description: A simple server for running CGI applications over FastCGI
+Filename: ../../../../releases/download/x86_64-f/fcgiwrap_1.1.0+g99c942c_x86_64.deb
+Size: 9688
+MD5Sum: 393dace5868ecd4fb2bd0d606a92dfde
+SHA1: c533e79e1c8a133134090b97510fbeca3d7a3d21
+SHA256: 28c4566cd79ba837b3015b9752af47e01ddbc780e39a9c79870958b0ca1e0738
+SHA512: be77209af37ce6aa0eac98417d19b5aa858e593dc7f3745ceb3368d827994080b51f284487d269052b634020a1e0fc191e3cb5627ab9afe6e2024528b2829e44
+

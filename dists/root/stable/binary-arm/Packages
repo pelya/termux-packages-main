@@ -253,3 +253,17 @@ SHA1: fe4d3b9228903a59e9b9086657ca3b848d8c74b4
 SHA256: 36df15ed3b925b111ccbad63b2e96bbc032bc3eb5d6cc16d2b6cbd894b4cac76
 SHA512: 56074ea78c680d0dc1ced8af1e9867e5f45d6a4014aa6150971b65cb131b12ba687c5a027649f15914e90de916deee75c5dcde2a86504914304cb2e13eb12d97
 
+Package: dnsmasq
+Architecture: arm
+Installed-Size: 328
+Maintainer: @termux
+Version: 2.93
+Homepage: http://www.thekelleys.org.uk/dnsmasq/doc.html
+Description: Dnsmasq provides network infrastructure for small networks
+Filename: ../../../../releases/download/arm-d/dnsmasq_2.93_arm.deb
+Size: 184240
+MD5Sum: 456f19270f9102d3f0f1170ecf558bd2
+SHA1: fb2c80e306231508ffe42df0f7a3deba9a75045b
+SHA256: de5789aea5d4920969ac47d68f344dfc53574b7dc97b0b166b69ece4346e5635
+SHA512: e1e7540432a952a70587b24dba56829ed0ea3696d97ee73e1a5b7c6f4349e7ac6918a10cf44a6773ef1090d9f52f709137046078811327d545145629c470c3e6
+
