@@ -33979,3 +33979,17 @@ SHA1: 29c040cf318da6fe7fcd274bda430bbe9a719972
 SHA256: 10a521acd79d8b6345fa8446138dea82212c0379675722923b7d8aad6a6a1d8d
 SHA512: e0b359e30ea2071de14501c77063bf103ff24165e84f31d3c11b11487df40b54ef11b994c684959e2149e5ab0e263be9533a773390a3566c640122ffe88fff4a
 
+Package: lpsolve
+Architecture: arm
+Installed-Size: 1292
+Maintainer: @termux
+Version: 5.5.2.11-1
+Homepage: http://lpsolve.sourceforge.net/
+Description: a Mixed Integer Linear Programming (MILP) solver
+Filename: ../../../../releases/download/arm-l/lpsolve_5.5.2.11-1_arm.deb
+Size: 327932
+MD5Sum: 0c154e5acde80e0049076371be77a0bf
+SHA1: 4d9c3a42b72f7df36b9bc0e212f0c9fc8335e02a
+SHA256: 9c932836943823071dce9e078708bcecf5d21c015a6a1aaa7d4a4e1e2a1480ed
+SHA512: 4b45e1a4d36bf07a249ef43a1b66f0e6c3b3949828a6f9d70485ec7c7a9659870d786ce43f6f9d5d131015602447da763e36144eb2e979a4b992dbcd5e93c9a6
+

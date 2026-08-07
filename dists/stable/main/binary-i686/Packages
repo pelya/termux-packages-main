@@ -34564,3 +34564,17 @@ SHA1: 2985bb4654005524f25216eee21c892c6db412a4
 SHA256: ac97ac083e071bdf0fe2e6bdc7f68378284f643962a9d36e8d699f1e05cf021b
 SHA512: 45951182dc68afba23d32816a4e166fa022b50e833e89b943bed07a26ac9f55c04aa38e7223b89aa14fc2c68d192c80fd58dff4357a3b53d79aea2615783e9d2
 
+Package: lpsolve
+Architecture: i686
+Installed-Size: 1780
+Maintainer: @termux
+Version: 5.5.2.11-1
+Homepage: http://lpsolve.sourceforge.net/
+Description: a Mixed Integer Linear Programming (MILP) solver
+Filename: ../../../../releases/download/i686-l/lpsolve_5.5.2.11-1_i686.deb
+Size: 382432
+MD5Sum: 0ad9292cb87f782c55a389997b602b2c
+SHA1: 53fca9c650bf6c3e96d9498c1bfdd2172e0bcd04
+SHA256: 2eace9d99062e8bce8d040762b71e2b7abb5f79f7478bf4fb7d61c93f59fc17d
+SHA512: f145f6adfa43d1ca2b37a6ed924bdcc89f6f0e398b09846e75ed757843a4059ad4f1e5d1beb61103fb482d0202443bbe22c8be53bbb82caa265446a93241973b
+
