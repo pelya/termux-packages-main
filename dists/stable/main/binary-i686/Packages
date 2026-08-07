@@ -36309,3 +36309,37 @@ SHA1: 8348efa62e58ac5d0ecca1622be486003fd2d901
 SHA256: dde836dc1e3082de4934d37f7e9e06d7e6fcded1e9f62c5b98e38aa1371acba6
 SHA512: 13db1b4f6319b7af68a9f5b4872158630d7e6e499dab925a4c2baa96597046ba956184d46d44246b0b225dcbf942ecf3690d53ed4b50875654e6042df7d2a85b
 
+Package: gdb
+Architecture: i686
+Installed-Size: 14568
+Maintainer: @termux
+Version: 16.3-4
+Homepage: https://www.gnu.org/software/gdb/
+Breaks: gdb-dev
+Depends: guile, libc++, libexpat, libgmp, libiconv, liblzma, libmpfr, libthread-db, ncurses, python, readline, zlib, zstd
+Replaces: gdb-dev
+Description: The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages
+Filename: ../../../../releases/download/i686-g/gdb_16.3-4_i686.deb
+Size: 3924032
+MD5Sum: b3b4afe8322ffbc208f44d913379cb90
+SHA1: 001ed8d342a42b0044b0ddc9f727670c821fb77e
+SHA256: 4b93ce0739edc146730422b70fb4e82d0957cca22a010797a664f66936f7f5ef
+SHA512: 78713916f3b9a650b636c8e20ce6c8e9828629a24211d7e8c910b781e7f473af121594ccd0fb9e679b7f4393b1a41d5f03c3335048525ec0db0513e8da311a9b
+
+Package: gdbserver
+Architecture: i686
+Installed-Size: 640
+Maintainer: @termux
+Version: 16.3-4
+Homepage: https://www.gnu.org/software/gdb/
+Depends: libc++, libthread-db
+Breaks: gdb (<< 13.1)
+Replaces: gdb (<< 13.1)
+Description: The gdbserver program
+Filename: ../../../../releases/download/i686-g/gdbserver_16.3-4_i686.deb
+Size: 226960
+MD5Sum: 605b22d29e10e88f300c6b409bf073c3
+SHA1: 348d2b2d06a49397aaf3fe8252835c3bbd2c9759
+SHA256: f700dd1c90cd8db1cf36febf2a184727276f561b347d605f05d4423fa0b106b4
+SHA512: 64a6aa8afcfa0723c6c71313e54d918b2c27ee790e63a6407c241b17860734abcfb7225a1d77386f076506217098f1d21f11ae1583bcc57b40df83322d14301a
+

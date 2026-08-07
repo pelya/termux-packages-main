@@ -34037,21 +34037,6 @@ SHA1: f5f48bc4ad65b58fad0e13736070fbbac1430d94
 SHA256: dce5c272ea912b3ac2a822330bbfa093601433ae1e23d9f33d4bfc8b130b243e
 SHA512: a3c9a3f88638d95eca43fd2ee189beb602af694635c468a3565e893608ec5eac7e945ae5a8f00477450c7f522f76e7300f59505fbc4d8f8bda45e94eef1e29ea
 
-Package: libc++
-Architecture: arm
-Installed-Size: 984
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/arm-libc/libc++_29_arm.deb
-Size: 318076
-MD5Sum: d0f7347ef98ec3ac42cbbbb190a24400
-SHA1: 5caeb37f872c4ad6229affae92cc40451b46b21b
-SHA256: ba36e9e23a6c93dc4c6c5e417f2789928c19884df845a0add5435ebf7fb01f1c
-SHA512: 11e6ee366262ebe8a3fb55783ca0420f2c89cd0589ffff16ac60130a498e4916e80b5001cceead61294e602bb42c20a80ff118e6b4c08e9da7510ac80f9eaa32
-
 Package: mariadb-static
 Architecture: arm
 Installed-Size: 364
@@ -35753,4 +35738,53 @@ MD5Sum: 71d6c5eb2c6f226f5548c45736a5130d
 SHA1: 82036513aee8a9f7553c0589f9b896e2c319ac76
 SHA256: 50274b47a3ba2a0791ce2dc31af2fa3e0cd550f1a2a5f25929d878ce63a639e9
 SHA512: 76c3875a1c355427d1f3ae2aff5c788650d939b8692b0f7e5bce5f4bf9c75cc7f10c5cb964c2ddb7681e8742d0977af4380b98d6c1f31bb040076de4832bcab8
+
+Package: gdb
+Architecture: arm
+Installed-Size: 11212
+Maintainer: @termux
+Version: 16.3-4
+Homepage: https://www.gnu.org/software/gdb/
+Breaks: gdb-dev
+Depends: guile, libc++, libexpat, libgmp, libiconv, liblzma, libmpfr, libthread-db, ncurses, python, readline, zlib, zstd
+Replaces: gdb-dev
+Description: The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages
+Filename: ../../../../releases/download/arm-g/gdb_16.3-4_arm.deb
+Size: 3373752
+MD5Sum: afd2c1a0e64a74b1cc47a30d9f495cf9
+SHA1: 01ed100e8979f2a6d93410aaf748064328bb92ad
+SHA256: 0c0dd807c32dc458eb543fe3d07b76246704161924488b53f19545f29f7b1fe7
+SHA512: 511218829392a125868c2605a5e4195dc865df678a5eb31a91062afb81a7122fe403e3839c19c8cb815d9c3a29a120b257d79fc9600c0c854e414fdb6c479b5b
+
+Package: gdbserver
+Architecture: arm
+Installed-Size: 412
+Maintainer: @termux
+Version: 16.3-4
+Homepage: https://www.gnu.org/software/gdb/
+Depends: libc++, libthread-db
+Breaks: gdb (<< 13.1)
+Replaces: gdb (<< 13.1)
+Description: The gdbserver program
+Filename: ../../../../releases/download/arm-g/gdbserver_16.3-4_arm.deb
+Size: 177240
+MD5Sum: 70852b772fdfe9b875bd6b0a6c30b288
+SHA1: 5d96dd7497c8e4f9b6e0aff65c71e9ba97518ff3
+SHA256: 050e5e783b60945f7cd40eefaa5ce84408f8fa992da4a7688a8ba1b22a01ba4b
+SHA512: d7c8cd4289ce8ee7adb0eeb8e8dcddf05f5297652196b0438c49d5960cf196400b973efb8f23b13c35f78193ea4c04819f51f2d1f7fb4786b5b43112f37271c1
+
+Package: libc++
+Architecture: arm
+Installed-Size: 984
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/arm-libc/libc++_29_arm.deb
+Size: 318048
+MD5Sum: 7f35eb1dee4c241c15aa69a2016d7695
+SHA1: 80b70e0383a02b0c20f91be9829fde92e233e014
+SHA256: 1549bc4a0eef9c6a9645b8d394071b886682f8bf742128ddc553ce8aecb4a32c
+SHA512: 65461bca6854eb5d440149e50f3aac22f406f74bf071414f3c4e93a8e5bae575015074965d3c973881daa8d77450d202872773695f9a9df28316c8d31c8a6670
 

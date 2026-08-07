@@ -36542,21 +36542,6 @@ SHA1: b95947fe962457a644f41f75493b58057f8829d2
 SHA256: f89829553434ab2863a205d4601ec3cbca70bdea5f90c5cd85300d248766fc31
 SHA512: 21725040f3b7b3cb329dcb6c7b0fb3357baaa725f3c53e045b16f4a648906d5608d290a93a7f638f2e4947556ceba3a70f5b52693ee17c2684c9e00ad0bae85d
 
-Package: libc++
-Architecture: x86_64
-Installed-Size: 1348
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
-Size: 359424
-MD5Sum: 8d297e1faa16096a399e90ae0e298212
-SHA1: 4633e4ab6d188cb3ff060f05f75fc4c922a6dee5
-SHA256: a7576f5f70c40547bcdb6427ad694d380310e15904dbe064611cf659a4a5f7a2
-SHA512: e5c58c6b2bd358d9df36e9edfc2b9e252f36d90be8cd44fa9c9a4b62700b8c2a1f3a0f3ff6743ee28d3222b8449d42e8f877613d91090f5f8d027248de8a2f1b
-
 Package: libflac-static
 Architecture: x86_64
 Installed-Size: 564
@@ -37265,4 +37250,53 @@ MD5Sum: 214231507960c769f8f57c65548dc4b2
 SHA1: 5f1c661f117588f78d9afbc7cd2e9494aae59f98
 SHA256: bd87102ea4eac11d0c6ab04976204eded4d43ffd752ae45544c0b45f269ca0c4
 SHA512: 8178823bdf559bdc560511448f4257c856391eeeab7478fb049d41cec45c40f5732da0fc9e4ace96b34c55aa7b7757fb9c5af4dae062dd8b501e6acbce4e3192
+
+Package: gdb
+Architecture: x86_64
+Installed-Size: 15016
+Maintainer: @termux
+Version: 16.3-4
+Homepage: https://www.gnu.org/software/gdb/
+Breaks: gdb-dev
+Depends: guile, libc++, libexpat, libgmp, libiconv, liblzma, libmpfr, libthread-db, ncurses, python, readline, zlib, zstd
+Replaces: gdb-dev
+Description: The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages
+Filename: ../../../../releases/download/x86_64-g/gdb_16.3-4_x86_64.deb
+Size: 3852176
+MD5Sum: 33aea081bfe2500c42e1a9643a97e710
+SHA1: e6d695f08bc01f778f2b7446f5ae1b98d54cff9a
+SHA256: ecbbabba19da1b0603969ab0160382f4f97b584c3865316ed4f93efc30efd404
+SHA512: 0166d3b0ecdd2d5eab766ae27e9575c8400f978c5e7b2a2f02a2ee285f0c217da19ab63c21740b13c21af944921807e9ac8af31982a867012fe9c10eac433236
+
+Package: gdbserver
+Architecture: x86_64
+Installed-Size: 624
+Maintainer: @termux
+Version: 16.3-4
+Homepage: https://www.gnu.org/software/gdb/
+Depends: libc++, libthread-db
+Breaks: gdb (<< 13.1)
+Replaces: gdb (<< 13.1)
+Description: The gdbserver program
+Filename: ../../../../releases/download/x86_64-g/gdbserver_16.3-4_x86_64.deb
+Size: 223276
+MD5Sum: dd681482992ca50d1d65b2fdd15cd63e
+SHA1: 17e66da02057984379c011f17a72e5cd06a746be
+SHA256: f0ee6969442d6f8ee4fc2ddf9f9da3debfd2b46adb19828ada8c6cea663b503e
+SHA512: c3a7c7cb812f368e822c12abee9e7e9ff1ecb6e62723824f49a612d1f7729503f6262696ca8ff1ea2c9a4a578bf66a6c5a19a25333e882b5732d2d9e6bd33afc
+
+Package: libc++
+Architecture: x86_64
+Installed-Size: 1348
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
+Size: 359524
+MD5Sum: 61a4442ee2233dca7346b58d20806aa3
+SHA1: 2ac32315f025760d34caee5e655f3312c57beccc
+SHA256: dcff42fcf45331e7348f9e0753abc322f9451f43aa4d6c08274a0de38516a9ec
+SHA512: fdf16836aa22eb7252e39b9b8e2c623a6b02ebf0e670f4e13165af46cd4174ea4f2534a8539a6275a6d37c998e25fee1110e1c6f2716c60353c014be948d2bfa
 

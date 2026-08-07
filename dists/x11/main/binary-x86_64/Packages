@@ -13100,3 +13100,18 @@ SHA1: c8098020f710601e7774a9803417d9a113b535f9
 SHA256: b42f841b6b3b550cd3cc2d7e627a62430f03ca4416b98b75c37a8c50c1deb16b
 SHA512: 3b3f83df3b48c968b79163a0f3fdd6c4c10c40ffdd53319d65603786055201418c9eb8aac310c0befa2bb79387653de2f8fdb35a5ed25a55e68776e0f885a197
 
+Package: gsound
+Architecture: x86_64
+Installed-Size: 204
+Maintainer: @termux
+Version: 1.0.3-2
+Homepage: https://gitlab.gnome.org/GNOME/gsound
+Depends: glib, libcanberra, gobject-introspection
+Description: Small gobject library for playing system sounds
+Filename: ../../../../releases/download/x86_64-g/gsound_1.0.3-2_x86_64.deb
+Size: 20432
+MD5Sum: 00b72a02f43575aaa0854c0de0be7bc9
+SHA1: 1b1816ac94bbf0b255cbd2363a6a50743491a6f3
+SHA256: fe4ea7467d21dbae0b9e8ccd31a29c78859fd6e6841c3d6f05c75b56679b729a
+SHA512: 710b72ce085afcfd68b00ce8aba89ddf4cf0594803bac02084b6d9baa3e3fee4e0a06205bff62babdb5ab362c9c05e98c88e4c94907624349ad24cca033fff9e
+

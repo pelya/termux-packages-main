@@ -12884,3 +12884,18 @@ SHA1: 7d41e0b2222bb3fe3f23bba8283b6e66652a7ce2
 SHA256: b815d37441bcf5ab7b1562e59a352431d13e9b94d1d5fe7cd244bbd659442fa6
 SHA512: e4af6b98754998565533b277b20edd6d1796c842fdf16f27f1f6bda0a99178221ef699a92b903c666b39e45172b402e6c632bbdabdf3a2852ed661d4a605c2b5
 
+Package: gsound
+Architecture: arm
+Installed-Size: 196
+Maintainer: @termux
+Version: 1.0.3-2
+Homepage: https://gitlab.gnome.org/GNOME/gsound
+Depends: glib, libcanberra, gobject-introspection
+Description: Small gobject library for playing system sounds
+Filename: ../../../../releases/download/arm-g/gsound_1.0.3-2_arm.deb
+Size: 19180
+MD5Sum: 58e8097ea6878891b4591aebf235bd0b
+SHA1: d462a3416c0dcdc986d13f997cb89ff172869616
+SHA256: e35a38678f012bc9d616fc2dc2b618249c9eefab4f099e8938f85814f07de219
+SHA512: 35bdd17cb276f1f2dde0ba2bb40eff7f7eeb48289f0217f1b5087cbe59889a71094a27af8f6834041222cda85e60c1bf82010faadc046eead08d4ed0b7f5c220
+
