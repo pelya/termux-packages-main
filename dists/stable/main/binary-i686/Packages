@@ -35697,3 +35697,18 @@ SHA1: e0fb42aa5142f94d2e067f10a3e40b3b613baaed
 SHA256: bd1ac1f4bd9216567ee5320603e4b9d98c73d6622de6c87d6d5ba650bc1fad54
 SHA512: f92f999aea03563d8865dfee881457be347f6d9ef38126b3dc5dac7eee81202d6505974410a2b7e797d9df9eb1f3164d4526453ec021cc02c3ad3979579a856b
 
+Package: kiwix-tools
+Architecture: i686
+Installed-Size: 224
+Maintainer: @termux
+Version: 3.8.2
+Homepage: https://github.com/kiwix/kiwix-tools
+Depends: docopt, libc++, libkiwix, libzim
+Description: A collection of Kiwix related command line tools
+Filename: ../../../../releases/download/i686-k/kiwix-tools_3.8.2_i686.deb
+Size: 41620
+MD5Sum: 720a1917334b69b941c2816002333987
+SHA1: bc2ee5e39ae7fd6b27cbbd8bb69237e91f37a2f4
+SHA256: 1fe05c98125a52ac849799abd626a1ac200670992dff774f564029c76e9ce1d6
+SHA512: a6c80dda6b63292182091e39ddfb6a47fcd37375df7d69aface85d0a2e2f60ef90652561be71144853213402af6b5b0119424112356f9cfdd4b1bf84f1ad74f4
+

@@ -552,3 +552,18 @@ SHA1: f16d3250ae4ecde2de090dd6d7a66a174182afb3
 SHA256: 7ce03cbde98d414586f6530e6dc816cbb6260b87f68bfe749140bd02295b5c6c
 SHA512: 14478494c00282404047ffee2cbe455a83df84296b5f90f64834f0c8a1beeae934c7258f27849c19c385c97eeab029638707de05f5a03928648add57e1a531a1
 
+Package: nethogs
+Architecture: i686
+Installed-Size: 140
+Maintainer: @termux
+Version: 0.8.7-1
+Homepage: https://github.com/raboof/nethogs
+Depends: libc++, ncurses, libpcap
+Description: Net top tool grouping bandwidth per process
+Filename: ../../../../releases/download/i686-n/nethogs_0.8.7-1_i686.deb
+Size: 36056
+MD5Sum: a59c5349467feb9d2f87d4e431ee41b2
+SHA1: e3d2712a5f119470f24b6f4e99fb6ed962e8001b
+SHA256: ef8b22e4dc88251d6c3ad2a4c9ace7a2e77eba8506723e7916a09954474418ca
+SHA512: 3830681bb42c492a254739eaf3aa38a65d7005b77c612b465e671724da72d188d3dde304411515e65acbf50d1e32b169206282e3391ad2da12a7dacd133c82d8
+
