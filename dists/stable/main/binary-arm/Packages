@@ -33949,3 +33949,33 @@ SHA1: 1a23e5c4ed857ca39424d5857a17f8909eca31d3
 SHA256: 92f42b5dc63ed4088e88c153219fecd7f170fd7d10ce6732c4ed5b11537725c9
 SHA512: d4b0ff68e25d6780ea2bbf9e200509db7653c5da996a38057be8655fff58a0fa9316daa6999c0d2cb81ecea2a842068df2f051bd6f4e3ce45ae6e0a03239712d
 
+Package: libstaroffice-static
+Architecture: arm
+Installed-Size: 10420
+Maintainer: @termux
+Version: 0.0.8-1
+Homepage: https://github.com/fosnola/libstaroffice
+Depends: libstaroffice (= 0.0.8-1)
+Description: Static libraries for libstaroffice
+Filename: ../../../../releases/download/arm-libs/libstaroffice-static_0.0.8-1_arm.deb
+Size: 1161596
+MD5Sum: 7e1191402ecf7a2d17fc7072cf18dc85
+SHA1: 534cbe2a2cf7c2a7a2e8b742ccd834847dff6d36
+SHA256: 8ffb9796006c98f4be76a3123d1e4837ff90afa9846b34109c96f57cf57c0481
+SHA512: 65c1d1893dd3b37e41fd6388fa7223e5439cb22ef8f3f6db307a49277f6f6000ee0da8dd1da90914ee6023d13a9284c282b6336e4bad3a7f2f91e078ac00cfd4
+
+Package: libstaroffice
+Architecture: arm
+Installed-Size: 1556
+Maintainer: @termux
+Version: 0.0.8-1
+Homepage: https://github.com/fosnola/libstaroffice
+Depends: librevenge, zlib
+Description: filter for old StarOffice documents(.sdc, .sdw, ...) based on librevenge
+Filename: ../../../../releases/download/arm-libs/libstaroffice_0.0.8-1_arm.deb
+Size: 463440
+MD5Sum: 195b55821e906a87117ea0a0b7569adc
+SHA1: 29c040cf318da6fe7fcd274bda430bbe9a719972
+SHA256: 10a521acd79d8b6345fa8446138dea82212c0379675722923b7d8aad6a6a1d8d
+SHA512: e0b359e30ea2071de14501c77063bf103ff24165e84f31d3c11b11487df40b54ef11b994c684959e2149e5ab0e263be9533a773390a3566c640122ffe88fff4a
+
