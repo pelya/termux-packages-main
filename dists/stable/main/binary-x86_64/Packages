@@ -35133,3 +35133,33 @@ SHA1: cffe604299ab0de40a02784db33a57e91f3c9928
 SHA256: 4198d2af841e480893c190bf7b09a166d36cab84baf4ed65d0d835924f246ccf
 SHA512: b65ee558e3d95ff22ef7da88537f036406240b2b9b102bbbc9994f5f67bbe5dce38b0ac43a7e678f0061d055dcc0e94924b32d57a36449129490439e002969be
 
+Package: libe-book-static
+Architecture: x86_64
+Installed-Size: 2496
+Maintainer: @termux
+Version: 0.1.3-5
+Homepage: https://sourceforge.net/projects/libebook/
+Depends: libe-book (= 0.1.3-5)
+Description: Static libraries for libe-book
+Filename: ../../../../releases/download/x86_64-libe/libe-book-static_0.1.3-5_x86_64.deb
+Size: 242516
+MD5Sum: 5f90a1a83ace8e77bf004f60f97ba545
+SHA1: 969a36cf89d71fc37856731ea5558c29ce7dc2b8
+SHA256: db6c8f4f802e4b2cb0f4a46b6517a78ab666546045d678b1df98b570140c4da8
+SHA512: a0a0404ad15c1bb8b3e5f3e865c0e34aab9cbe0e3b9103642368de50c41a4b4840ffeacc1ce4df363174b974ce196a895fcee3461670cf59166065a5b6b57457
+
+Package: libe-book
+Architecture: x86_64
+Installed-Size: 700
+Maintainer: @termux
+Version: 0.1.3-5
+Homepage: https://sourceforge.net/projects/libebook/
+Depends: libicu, liblangtag, librevenge, libxml2, zlib
+Description: Library for import of reflowable e-book formats.
+Filename: ../../../../releases/download/x86_64-libe/libe-book_0.1.3-5_x86_64.deb
+Size: 135836
+MD5Sum: 8f3bf15dd2ed2c6ba1c47c6e2be96d4a
+SHA1: 95117cc9da5047c732e5cddf567560aad61fcbd6
+SHA256: 9d8ad2151e53d6137337a6d6b360359137a7f2f0baae16c3da0b8450b2aa86da
+SHA512: d553cd37d9711a228885185388454812b2467354f66b51d7f41b8ba0a5268bf80fbc4612dd19a6cbaae2f49c4413d233eaeda87e5d97efab36ddb7c65a5cf9ad
+
