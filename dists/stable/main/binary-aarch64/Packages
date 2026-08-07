@@ -35881,3 +35881,17 @@ SHA1: e221426f68bd596f2304f8c503682b1f0bede16c
 SHA256: ed222732ee96b8fb3e81e2564592d98d6899b5ce911c9f5d2c56805d5acc0fad
 SHA512: 2553a5f952823b8868df0255f00c800b4417ce7978d3d23b79bb343d977acfbe21429feacfd823d46fde538f303fa8bd69c1f9c7ffd9b9f618c52a54ff0da0c2
 
+Package: ovmf
+Architecture: all
+Installed-Size: 609292
+Maintainer: @termux
+Version: 20231122-16.fc40-0
+Homepage: https://www.tianocore.org/
+Description: Open Virtual Machine Firmware
+Filename: ../../../../releases/download/aarch64-o/ovmf_20231122-16.fc40-0_all.deb
+Size: 39481624
+MD5Sum: 3c518643cde8edab8f9f357202d4bf96
+SHA1: cf6874abbd1861dcf11a5030b4466e88d5e8ef58
+SHA256: 4b20e11c929099add37d245005e69dd4f2d944d72d4c98ef0a5a5c9494a58e44
+SHA512: e31aab085e06a38533ef606858241c6dbbc20eaf774a68d2653415640cbf4dfd41e480ce77c778ace61889cd338ffb2aca3a91a849c924ee8208b07187fdcd38
+

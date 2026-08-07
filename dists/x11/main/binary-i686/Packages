@@ -12232,3 +12232,18 @@ SHA1: 6f4fe331ad180d6afcf3c986426c3eec7d7663d8
 SHA256: 7c9570789e415c897e9339df3830b0eaad03de10110c74209d3fe90509315c18
 SHA512: caad8e0208d33180e6eb1268a81237fc38cc4cc201b039df84cdfb4fe2766ea26ef5858f8b05f0996fb2881d9ddcc623c3aa77125c5a2bf48d4e9be25602cc2c
 
+Package: picom
+Architecture: i686
+Installed-Size: 828
+Maintainer: @termux
+Version: 13
+Homepage: https://github.com/yshui/picom
+Depends: dbus, libconfig, libepoxy, libev, libpixman, libx11, libxcb, opengl, pcre2, xcb-util-image, xcb-util-renderutil
+Description: A lightweight compositor for X11
+Filename: ../../../../releases/download/i686-p/picom_13_i686.deb
+Size: 228164
+MD5Sum: f54024427ef818fd4c65844591ba9081
+SHA1: df4632d26b11aa262f36a01e3558437718e342d1
+SHA256: 86377242d475ebf3fbed5328cc85652bcb96b7288e707c2db5c6e7bf55ccb826
+SHA512: a41f95fcda5b07fe5d636cb55a02f75c9bc62413b3aff81bc856e4e872b7a4318b165228afa5124b12744d5caab33b2f06bc7e2c1272a6d8d826123e8d4ee467
+
