@@ -34623,3 +34623,33 @@ SHA1: 36aa507f05972c690e2116acf90e26e484f0e510
 SHA256: 00034631d94b1bef31db26d918152e541aaa5cfa34ce4d8158c3faeee519dd57
 SHA512: 25e223e78e0f811abfc5e3c42e0f2ba51dcfae1641cca6579bcccf9930c8c57cd33d4b225622f09490b93618d207deec4f384eab2a313b00dde92befef1b324d
 
+Package: fdkaac
+Architecture: arm
+Installed-Size: 112
+Maintainer: @termux
+Version: 1.0.7
+Homepage: https://github.com/nu774/fdkaac
+Depends: libfdk-aac
+Description: command line encoder frontend for libfdk-aac
+Filename: ../../../../releases/download/arm-f/fdkaac_1.0.7_arm.deb
+Size: 30824
+MD5Sum: b5d5ba2151093212eb5ce70764dccbd7
+SHA1: a4271ae33dc07266691e273329b3d2052870a9b5
+SHA256: 365068d52e81c5604604a5c14dfe134362ae94c24e7af082bb4ab2ff2f3c620d
+SHA512: fa644ce59fc365161f4bb747435011295a6d9103bf5e6392ddf78c38d978b85e4009cfb87c891df4ce40b0659754ce88317bd7e1c4e39cf5b2d7087d5cf96013
+
+Package: luajit-lgi
+Architecture: arm
+Installed-Size: 396
+Maintainer: @termux
+Version: 0.9.2+p20251219-3
+Homepage: https://github.com/lgi-devs/lgi
+Depends: glib, gobject-introspection, libcairo, libffi, luajit
+Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
+Filename: ../../../../releases/download/arm-l/luajit-lgi_0.9.2+p20251219-3_arm.deb
+Size: 69920
+MD5Sum: 09c721a9f8434ef7e66de357c85e9323
+SHA1: b7c9325eb1902638e379979fef1e6ff135e35f1c
+SHA256: 58b1bad1ef8c7825b52f0236d057ff230daa17029042223903e759e30b0bc70d
+SHA512: 95d987cdc1418fe6f36cea34ff8bfd3c7ce9c1c94c7d6ba5c505e88e63ca88a7d98f75d20bb9d79a5c2d510c30da392ff6f443e6b384b870f1bb30e0c08d5a91
+

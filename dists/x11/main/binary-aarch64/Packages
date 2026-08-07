@@ -12807,3 +12807,20 @@ SHA1: 9de37feaa55f2c196886d000bf880253e58d56da
 SHA256: 99d21e625d7377fae36d3208f736b068156cca5ca6d72b1136a410efdb7312e5
 SHA512: d03cf93ae88b305df640f9931ada46e6fad27ebfa89f77033eb96ceac65754e9be42fa8a06d5870f46d167f04cd64e107878df58f4be0ca98cc74989070d22cc
 
+Package: awesome-luajit
+Architecture: aarch64
+Installed-Size: 35336
+Maintainer: @termux
+Version: 2026.03.31-2
+Homepage: https://github.com/awesomeWM/awesome
+Breaks: awesome
+Depends: dbus, gdk-pixbuf, glib, libcairo, luajit, libx11, libxcb, libxdg-basedir, libxkbcommon, luajit-lgi, pango, startup-notification, xcb-util, xcb-util-cursor, xcb-util-keysyms, xcb-util-wm, xcb-util-xrm
+Conflicts: awesome
+Description: A highly configurable, next generation framework window manager for X (built with luajit)
+Filename: ../../../../releases/download/aarch64-a/awesome-luajit_2026.03.31-2_aarch64.deb
+Size: 2408072
+MD5Sum: c119b0172cae2d42970f34558f099a1b
+SHA1: f0e2d154dc07744f2310ed1e61c43cb84d34c33b
+SHA256: 919d572bfd8baef4313a590b6a71f98d9822068d5c8c34da8c949602cf2a2eb1
+SHA512: 27b32193ea2a48282c6524d73ca7afd385b81d6cb4cf29491ccebd3e3ff3ef886b62128857d3f337b64dc99dee38e86ae7c59eb230eebcf3540a7750ce4bdda9
+
