@@ -34743,3 +34743,33 @@ SHA1: 5b1bbb5827f6ec8fd29b61363d512ea4a272b7d0
 SHA256: 7c2ec934e63aec305e0b20c914d4479e954828c79053e31b3a14e0264afd8f80
 SHA512: f7cbca68f6229dfbf6b5f6c38a9f5412f5b7e7f938942bd3aa6be736dd1738c7576ea027afbf0494b5c2c6548e90cd63d3c55b6360da9033af03adfc201ccc79
 
+Package: moreutils
+Architecture: x86_64
+Installed-Size: 220
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.70-1
+Homepage: https://joeyh.name/code/moreutils/
+Depends: perl
+Description: A growing collection of the unix tools that nobody thought to write thirty years ago
+Filename: ../../../../releases/download/x86_64-m/moreutils_0.70-1_x86_64.deb
+Size: 40432
+MD5Sum: fad7b4c88aa68039d0d53ff54e6d01fd
+SHA1: 35643ccf6d9ac0931d01419a1523bdb2cb26ac89
+SHA256: 6204aa3fca3ee0db06a698f09f92a9948611f7d5bbd1066b1c2d93f39d7a7aaa
+SHA512: a1ce1445954926df86848690ec39851517f63cc7d39c60a2a58cab1327cdfa74cfe9f7073cb7afecae5008b70613f4fa731973ed7a8ec0abb86a39f5245f6da8
+
+Package: nim
+Architecture: x86_64
+Installed-Size: 25504
+Maintainer: @termux
+Version: 2.2.6
+Homepage: https://nim-lang.org/
+Depends: clang, git, libandroid-glob, openssl, libandroid-spawn
+Description: Nim programming language compiler
+Filename: ../../../../releases/download/x86_64-n/nim_2.2.6_x86_64.deb
+Size: 6274652
+MD5Sum: b6401beaa1f2047092e966029429072b
+SHA1: 1873d3b9e8d1a74ab8acc2b4be7287cd06da05e6
+SHA256: f4e207450b24000023df1f2f45dad0e53215d2f03f45e7c6473740a07c2fa208
+SHA512: 4838323b7d0b4e2b2c947589484aa41418b0286629578ab0d25ab3ad32620dd0064df1d4be5c9951e3782980a58a9d3b4ba3f0fa1dda90234c3ad10572711ea6
+
