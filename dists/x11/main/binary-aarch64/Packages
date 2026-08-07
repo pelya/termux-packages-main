@@ -12610,3 +12610,19 @@ SHA1: ede965fc992367f1d0197759802d172625f50e90
 SHA256: b2767b907f644b1743efccde18e976f0e163b4edd2f9ff0924ddee9c20f8895b
 SHA512: 1ce8f96d4b7dfc22752c5931ba926f9ab170873b9b6522ad3940b88a2fded95b8adde725f66247646707b111c60f7273a23938a7d0133021aa772e9e0e9cd9c2
 
+Package: krita
+Architecture: aarch64
+Installed-Size: 185712
+Maintainer: @termux
+Version: 6.0.3
+Homepage: https://krita.org
+Depends: exiv2, ffmpeg, fftw, fontconfig, freetype, fribidi, giflib, gsl, harfbuzz, imath, kf6-kcolorscheme, kf6-kcompletion, kf6-kconfig, kf6-kcoreaddons, kf6-kguiaddons, kf6-ki18n, kf6-kitemviews, kf6-kwidgetsaddons, kf6-kcrash, libjpeg-turbo, libkdcraw, libpng, libtiff, libunibreak, libwebp, libx11, libxkbcommon, littlecms, mlt, opencolorio, openexr, openjpeg, qt6-qt5compat, qt6-qtbase, qt6-qtdeclarative, qt6-qtsvg, quazip, zlib
+Recommends: kf6-kimageformats, kseexpr, libheif, libjxl, libmypaint, poppler-qt
+Description: Edit and paint images
+Filename: ../../../../releases/download/aarch64-k/krita_6.0.3_aarch64.deb
+Size: 74593344
+MD5Sum: 84543bc01cf67f34d8798e1f98b0142d
+SHA1: d07a696efb04acd60879f92ad6acdcaa4c61b614
+SHA256: 7f3a9559d5e2b0ccb46f2abf76ca2b48e22fd1c039093e17c7ba5d3e4c2d066a
+SHA512: 4a6f373e6a16e01ec12e084cfb9eb953c0614d5c9accf258e68b3b0d17f472a945c0016c91095c8932afb489a6d2b2af55ae49109021885ceb1b4d280d42fe4c
+

@@ -12322,3 +12322,19 @@ SHA1: 8c092c569cfa628eb6ac2a42c36e1cc8978e1064
 SHA256: 45e58f64c235e672e8ab4209b74f9c22a60ba89b10abd5ee6acf0193d77e3df6
 SHA512: efb1b7fa0dd7baf0b17aa3ea89bc2bea694fe9e8e2e81b947e15915507e10cf7232b1011ca48a11e6aad1abb9056d8cbe9ec1328de11a127930fdea77827d1fa
 
+Package: krita
+Architecture: arm
+Installed-Size: 156896
+Maintainer: @termux
+Version: 6.0.3
+Homepage: https://krita.org
+Depends: exiv2, ffmpeg, fftw, fontconfig, freetype, fribidi, giflib, gsl, harfbuzz, imath, kf6-kcolorscheme, kf6-kcompletion, kf6-kconfig, kf6-kcoreaddons, kf6-kguiaddons, kf6-ki18n, kf6-kitemviews, kf6-kwidgetsaddons, kf6-kcrash, libjpeg-turbo, libkdcraw, libpng, libtiff, libunibreak, libwebp, libx11, libxkbcommon, littlecms, mlt, opencolorio, openexr, openjpeg, qt6-qt5compat, qt6-qtbase, qt6-qtdeclarative, qt6-qtsvg, quazip, zlib
+Recommends: kf6-kimageformats, kseexpr, libheif, libjxl, libmypaint, poppler-qt
+Description: Edit and paint images
+Filename: ../../../../releases/download/arm-k/krita_6.0.3_arm.deb
+Size: 73925608
+MD5Sum: 60da8051a21babf4bab040142945231a
+SHA1: fa3bb4ec956e3965203eb084c251da3513f47481
+SHA256: 5840e9c86176d057463d2b9c59df1df393dd3d8cf0a708255d31a0c5711a7714
+SHA512: c656573fcb14dc451616ea380537c45e2ddf60962e15da185cc5a2d5175f414051c65b99352446d2f9087dd8f298bd5e01fed76b645428c31132a068414eae99
+

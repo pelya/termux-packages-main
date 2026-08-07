@@ -34356,3 +34356,18 @@ SHA1: 53e0ae76b7db937234ce6e9b7531f7e769fb6193
 SHA256: 1d90fa94e727adf232c5f52479fe81fe0eeb67e9678f66369981ece6af3ac79c
 SHA512: 7b43170b2a26dd47b5d4135072c78a8b8fde4142c08b9a7434f73d2f75fe2c3624b89008dbf153be7ae26b1dfe845d8f9e4043bb9969687a01f6419d7c585a46
 
+Package: opencolorio
+Architecture: arm
+Installed-Size: 4256
+Maintainer: @termux
+Version: 2.5.2
+Homepage: https://opencolorio.org
+Depends: imath, libc++, libexpat, libminizip-ng, libyaml-cpp, pystring
+Description: A color management framework for visual effects and animation
+Filename: ../../../../releases/download/arm-o/opencolorio_2.5.2_arm.deb
+Size: 1126284
+MD5Sum: 559ee76e288e3df24ad5054cd838129f
+SHA1: 28dfa5a18c8b74b94acbcd7aeb3261c8ffafd17f
+SHA256: f3de7f07b85ad8f511b45bf00561a610e8a08e7ce7b40adb2a4489282bcd40a3
+SHA512: 05e6cd247a89dd2fccf53c59b511f15c02fc83320f8a8287b97636f8f8c2e9d7d51624268946b15d1e1cd30c533ba17314a0b6304c7af762ffa723f50581af09
+
