@@ -34369,3 +34369,18 @@ SHA1: 0286826d38ef4efd94d64b296533853704d840e3
 SHA256: 756c1f8dee38beb67680b5ecaf275cda2a039881f604a82ccadbc892cb7c6e71
 SHA512: 3f47df915861a7fb3a6fff9145d5024dba34a1a440320e8bfc577b07c0e8285aa85489c44fcf37ba76eaf883c169a3b5ab0a363518c4899e4c0271130caa4f67
 
+Package: lager
+Architecture: x86_64
+Installed-Size: 496
+Maintainer: @termux
+Version: 0.1.3
+Homepage: https://sinusoid.es/lager/
+Depends: cmake
+Description: C++ library for value-oriented design
+Filename: ../../../../releases/download/x86_64-l/lager_0.1.3_x86_64.deb
+Size: 43704
+MD5Sum: 33ead6abb5388ece577911430b9812c8
+SHA1: 4c5c2c833990539a4bb20495c9cd0404b37ba34a
+SHA256: 11b88b44fe04bbc520487d2b79845fc14dd0e9be76630f4245d5eef72efe1371
+SHA512: 80373c00b24295f8797a0fc5106f49a79d2d099ac16f8122004114592ebd7188c4ab51fb5b947060ae8f95290e8716cff72b0b3f307e1b2ef3f85b8761611d1f
+
