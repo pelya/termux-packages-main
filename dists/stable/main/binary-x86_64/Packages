@@ -35940,3 +35940,20 @@ SHA1: 4b53e1c54341d30a3819c2cd75e22309ed571674
 SHA256: 0f6dfd1893d8e7ac4130c83a73fe0b35ba7927e6d22bbb2e0dfbb21c98d3f3a1
 SHA512: 249d053caf3f7a8de908cbf01e3813d21a3e72ffd4854b74458234345fc56f38085673da7093c001237238c1fc64fdebd0874e83382e435146341c41ddecb641
 
+Package: go-findimagedupes
+Architecture: x86_64
+Installed-Size: 5240
+Maintainer: @termux
+Version: 2023.01.29-4
+Homepage: https://gitlab.com/opennota/findimagedupes
+Depends: file, libc++, libheif, libjpeg-turbo, libpng, libtiff
+Conflicts: findimagedupes
+Replaces: findimagedupes
+Description: Find visually similar or duplicate images
+Filename: ../../../../releases/download/x86_64-g/go-findimagedupes_2023.01.29-4_x86_64.deb
+Size: 1676588
+MD5Sum: d308b6cd8859c4b5cd43746366505c6a
+SHA1: 984a592c8cafdb69b8e6400de1edf2d1a15bd303
+SHA256: e4bfab2488110512b5f4d2318902088d4d0b58e3d3d2edc1917df36474168070
+SHA512: 084c0c718ce59d9751dc045ccb4db60fde9ccc7613f6292601cb73e1b5c76a70672f038c18fe9854a8a1c54a9ba807c875a440bf3940a7d4d5729bb6a72753bb
+

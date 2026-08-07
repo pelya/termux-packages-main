@@ -417,3 +417,33 @@ SHA1: a1464deab1d8c5b0d914de30f9dbfff536a66b96
 SHA256: 8930f548be8b9ff07b70b4c71709911d20576ab2afb223b6222299c85427b19c
 SHA512: 6c8f1d8c8667473ce91e018e6cf8553aab2762c10ade990f94fbad2f5dae6181e11113c365bc43ade5952fa73cba92d7c0b906962601883b272b362a3aa66857
 
+Package: vnstat
+Architecture: aarch64
+Installed-Size: 372
+Maintainer: @Denzy7
+Version: 2.13-2
+Homepage: https://github.com/vergoh/vnstat
+Depends: libsqlite
+Description: A console-based network traffic monitor
+Filename: ../../../../releases/download/aarch64-v/vnstat_2.13-2_aarch64.deb
+Size: 96448
+MD5Sum: 03e3a8f751ad6b8841676b5b9309b700
+SHA1: 81a1e3c6c848e0b4cfff414d895f7806a8da3629
+SHA256: 027be2ff2127ea0b9b308dc5e63319bb69bf1a353c2988d9388ec678ec2903a4
+SHA512: 21fca369d19d3247182c545d9ddacc387912b7d1ee743ed47e0116f057f5a370d236d741ca3c2b65b9600c8750ea9ffd22e34a6f9cc1f03ea43daa6c03dc80c2
+
+Package: vnstati
+Architecture: aarch64
+Installed-Size: 140
+Maintainer: @Denzy7
+Version: 2.13-2
+Homepage: https://github.com/vergoh/vnstat
+Depends: libgd, vnstat (= 2.13-2)
+Description: Image output for vnstat
+Filename: ../../../../releases/download/aarch64-v/vnstati_2.13-2_aarch64.deb
+Size: 41232
+MD5Sum: d4d149ca86672b996861396057fbaa43
+SHA1: 9d728f84ea7a8a0897ad168224b7777e37596e04
+SHA256: 4b67344b2d98834e0046a715207b72bedcab97b981fe8d4a6cc9a19996962087
+SHA512: f3a9d73bb563f09a5ab259035992e14f539ddb54ac7cae344bb746bddc1b973d8851d8a96b0beee128f6caa38b186e09f2eba0ccfa279ce87cb32d0aad62788e
+

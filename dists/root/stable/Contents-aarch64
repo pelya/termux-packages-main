@@ -409,3 +409,16 @@ data/data/greater.underscore/files/usr/share/man/man8/i2cdump.8.gz              
 data/data/greater.underscore/files/usr/share/man/man8/i2cget.8.gz                i2c-tools
 data/data/greater.underscore/files/usr/share/man/man8/i2cset.8.gz                i2c-tools
 data/data/greater.underscore/files/usr/share/man/man8/i2ctransfer.8.gz           i2c-tools
+data/data/greater.underscore/files/usr/bin/vnstat                                vnstat
+data/data/greater.underscore/files/usr/bin/vnstatd                               vnstat
+data/data/greater.underscore/files/usr/etc/vnstat.conf                           vnstat
+data/data/greater.underscore/files/usr/share/doc/vnstat/copyright                vnstat
+data/data/greater.underscore/files/usr/share/man/man1/vnstat.1.gz                vnstat
+data/data/greater.underscore/files/usr/share/man/man1/vnstati.1.gz               vnstat
+data/data/greater.underscore/files/usr/share/man/man5/vnstat.conf.5.gz           vnstat
+data/data/greater.underscore/files/usr/share/man/man8/vnstatd.8.gz               vnstat
+data/data/greater.underscore/files/usr/var/service/vnstat/down                   vnstat
+data/data/greater.underscore/files/usr/var/service/vnstat/finish                 vnstat
+data/data/greater.underscore/files/usr/var/service/vnstat/log/run                vnstat
+data/data/greater.underscore/files/usr/var/service/vnstat/run                    vnstat
+data/data/greater.underscore/files/usr/bin/vnstati                               vnstati

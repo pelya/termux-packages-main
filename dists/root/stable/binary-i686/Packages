@@ -417,3 +417,33 @@ SHA1: 43370b42d0e7cfc7484c3c99ffffcec82584b09f
 SHA256: 41edf1f6f364d5dcfbe36dfa14cb9b86bc851da77b4e1ecadd4b757266f8dd3b
 SHA512: 8a5f4393de2c0c06c806c3a2363142e503933b4b14f48c1b3d85444d3cdab72059043ab3d94b69d86b0eac3778fee2e2f7cf72da09f970767445c857129f4679
 
+Package: vnstat
+Architecture: i686
+Installed-Size: 376
+Maintainer: @Denzy7
+Version: 2.13-2
+Homepage: https://github.com/vergoh/vnstat
+Depends: libsqlite
+Description: A console-based network traffic monitor
+Filename: ../../../../releases/download/i686-v/vnstat_2.13-2_i686.deb
+Size: 103000
+MD5Sum: 7e5b19217a45c7133cf0e36a385d4aa2
+SHA1: 385518c6dcf842e89753271b4bce1c7b8d107fd9
+SHA256: 2844d1c13aee84c9b1ce72f8a65c7ca28fcf512cc5ff938544053585a1fd693a
+SHA512: 60bbf4782dffbaf23f9df33680bd0bf1f12108cae11cbf575d4e164a8a0fbe3565e3b63e528c4dc5d76aaf962850985d4466dd36cf53bacb725643b5f2e30932
+
+Package: vnstati
+Architecture: i686
+Installed-Size: 140
+Maintainer: @Denzy7
+Version: 2.13-2
+Homepage: https://github.com/vergoh/vnstat
+Depends: libgd, vnstat (= 2.13-2)
+Description: Image output for vnstat
+Filename: ../../../../releases/download/i686-v/vnstati_2.13-2_i686.deb
+Size: 45588
+MD5Sum: dc14c8ce60932b3b08a95cbcd41fd07b
+SHA1: e3e7c6f84cbda17405b4dfd9bc0f361502d1b80f
+SHA256: cb978b7227ff2daaad687c3916b8297363db6d6e6622ff2f55e122f29f3d44a8
+SHA512: 5f79ba2d52f0fcc927e0a9891c6801a174f12ede2a4a03722cfda15b678c4c408f81078c4afd15b4b3957d6356b796e57e253a105b619a38be47bde770ec453e
+
