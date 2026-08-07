@@ -34730,3 +34730,62 @@ SHA1: bd41eff0fdaa5bed1626cc3174b9efbd872ffa08
 SHA256: 576f90757090c55173a4bac91427a53a62864e6587b1afce6d2817dfec06f5f6
 SHA512: c193725d20d5d61728b026f08240c805a9f7881bea7da60ebb0fa1d2338ad7964c959fba900b25a4309aa6edc1a67615ccd7be9702bbc2da54138f6bbcc39bd7
 
+Package: libetonyek-static
+Architecture: i686
+Installed-Size: 16808
+Maintainer: @termux
+Version: 0.1.13
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libetonyek
+Depends: libetonyek (= 0.1.13)
+Description: Static libraries for libetonyek
+Filename: ../../../../releases/download/i686-libe/libetonyek-static_0.1.13_i686.deb
+Size: 1470796
+MD5Sum: 65c8d04151900f3d51cbedd2616cf5c4
+SHA1: ffeecdc229f11776e3800d6accbd2b2968da1efc
+SHA256: bfa7528176dee671b20000a9a56a3fd3deb11182245a148618a55ceae7fa8ad1
+SHA512: e4a8b04a4488bfdf3ff2d23cca4a5d6481617b613e801240dbf131d946e86c6295e88dd8a6c98b1d1977235d9ad2f147078d53b08f449d10fd030a8d7df30bdf
+
+Package: libetonyek
+Architecture: i686
+Installed-Size: 3020
+Maintainer: @termux
+Version: 0.1.13
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libetonyek
+Depends: libxml2, libwpd, librevenge, liblangtag, zlib
+Description: CorelDraw file format importer library for LibreOffice
+Filename: ../../../../releases/download/i686-libe/libetonyek_0.1.13_i686.deb
+Size: 559484
+MD5Sum: 74420c83ffb091901eafa63ec53e5945
+SHA1: 4a3b5413f7a2eb37c955dba0dddd789f883c5bae
+SHA256: 30fa6aeb4480af09cfd54afb32430c7efde09a6284ab3521d3e3a60e357716ff
+SHA512: b7edac605e191426eb50851d2e71634d6f57bfe1c31fa97d9b3ffe980d791d42aa516582622a6f0adef425658cebb144d78f499b9d6d52dcfd7bc764a2a1d749
+
+Package: libhyphen-static
+Architecture: i686
+Installed-Size: 48
+Maintainer: @termux
+Version: 2.8.8-1
+Homepage: https://github.com/hunspell/hyphen
+Depends: libhyphen (= 2.8.8-1)
+Description: Static libraries for libhyphen
+Filename: ../../../../releases/download/i686-libh/libhyphen-static_2.8.8-1_i686.deb
+Size: 7948
+MD5Sum: fb961c9eb5df44eb8c20afb225b7eb14
+SHA1: 3becba9e5a50d995f9029ed2fb5be06cea25fef7
+SHA256: 645d69eee36b99d517be9836effac651c0067e43929c1e428554e3b87516b6a0
+SHA512: 283900e05255ecc62b9a0d0f2a88f9f7275ec6d64edbfe63e80aef506c9d3c17af8d0a3515a0b5d57060b78b0d0702ebcba9f4a60a8086d18e7ebdbbd9f04902
+
+Package: libhyphen
+Architecture: i686
+Installed-Size: 188
+Maintainer: @termux
+Version: 2.8.8-1
+Homepage: https://github.com/hunspell/hyphen
+Description: hyphenation library to use converted TeX hyphenation patterns
+Filename: ../../../../releases/download/i686-libh/libhyphen_2.8.8-1_i686.deb
+Size: 49272
+MD5Sum: b4cfa59305e935fc77957657108955f3
+SHA1: be83aa0d8fa47d39de0d9d7eac2cee8621a4749a
+SHA256: 46d0ab7b8d86a9423f64d63adf67c69966fce244c470c307e240313b847034db
+SHA512: 943e6b1841f94afde1fb7626e91042039df6449fd77b49b537bf4498f8d8a1fd236a56ae29d2d18f9efd52810c2e43ce4b01a82a98e121bd53423ebd120725a9
+

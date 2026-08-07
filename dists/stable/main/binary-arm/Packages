@@ -34145,3 +34145,62 @@ SHA1: 6d9eb0053d0d017b5f33eb013d1d43a55c62bffc
 SHA256: ceaaae917f8a9a1193a29640a9e523ab4f30ff7f7e6d1d509c6bd1f201e6091c
 SHA512: 9bbc583dbf7ac09daa3634a19638e23a7a2817171de4dc7598361fa623efb437bda7966819b253b215efcf0735980b760bfe0d94e3b991f633c97f033e706942
 
+Package: libetonyek-static
+Architecture: arm
+Installed-Size: 22412
+Maintainer: @termux
+Version: 0.1.13
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libetonyek
+Depends: libetonyek (= 0.1.13)
+Description: Static libraries for libetonyek
+Filename: ../../../../releases/download/arm-libe/libetonyek-static_0.1.13_arm.deb
+Size: 1801220
+MD5Sum: 1bf321602c0c2612bc9b1a333971414c
+SHA1: ae82add8214ea4740d47691650ab51df4970853f
+SHA256: 9c2e128c204a53243a7d0461ccf41a22a2059643e817ba63d2651be6476589e3
+SHA512: 0223c28865ed434af9f9408c6d5df6ee1149248e2cee51aec48a26e51b7219efc5087c83d3a9d6b75d2e63d6daa5bc9045b45ba770089a68ce08d0422141562a
+
+Package: libetonyek
+Architecture: arm
+Installed-Size: 1676
+Maintainer: @termux
+Version: 0.1.13
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libetonyek
+Depends: libxml2, libwpd, librevenge, liblangtag, zlib
+Description: CorelDraw file format importer library for LibreOffice
+Filename: ../../../../releases/download/arm-libe/libetonyek_0.1.13_arm.deb
+Size: 402576
+MD5Sum: 37702321c8177e1e6b07a84e8c7afede
+SHA1: 3fd8fbffd5ddc84a1154deee1f3f1c92c60b20d0
+SHA256: 9a09df5bf2f9a1488eef5e35843c4ddbf83d24af3d25d50c57cddc6bc2e4e3b1
+SHA512: 9ec19d06bbbba89d5e6221cd465b394cc3f8ec92558fce77de50e430ca86c86bc8f1ffc314b65b93ec7c5bc5b712681651ad713d398dd106aa6142154da9582d
+
+Package: libhyphen-static
+Architecture: arm
+Installed-Size: 48
+Maintainer: @termux
+Version: 2.8.8-1
+Homepage: https://github.com/hunspell/hyphen
+Depends: libhyphen (= 2.8.8-1)
+Description: Static libraries for libhyphen
+Filename: ../../../../releases/download/arm-libh/libhyphen-static_2.8.8-1_arm.deb
+Size: 7524
+MD5Sum: f32b25e89a2f026c8bab6590d06ef1bd
+SHA1: 833f71ce29102509f845e40d2d276f495ad48959
+SHA256: fccb5929339b3fafb788824dab5e298f83d9229bcee87bf4a71599b546b77bbd
+SHA512: 92b324d860cbd2a4ff16568bfa35fd34ceba8fa56098334d0a5ed81100bbaa6d47c984d17aa39fe86e41eb3578bd02002daea569c604ba1d3626d3e7f1787851
+
+Package: libhyphen
+Architecture: arm
+Installed-Size: 184
+Maintainer: @termux
+Version: 2.8.8-1
+Homepage: https://github.com/hunspell/hyphen
+Description: hyphenation library to use converted TeX hyphenation patterns
+Filename: ../../../../releases/download/arm-libh/libhyphen_2.8.8-1_arm.deb
+Size: 48624
+MD5Sum: e8a31f488e3df40d3f83084a7cd86830
+SHA1: d702c77e91caa7146cab29e0425b38f3afccf9a7
+SHA256: 4aea11a3bf2e1e81fb2c1f47796f0351940c65007fc0e906d35cc046f062ce38
+SHA512: 9cd854177f4d41e601cc1f7b5a026524a222a1ffaf108e20904f5f3e49717b6622b6e3a89688d146575f36295dc4c4666f71ea43c8cbba1fd3b215965e27dfba
+

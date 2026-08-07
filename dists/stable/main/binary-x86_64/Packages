@@ -35611,3 +35611,62 @@ SHA1: b21f9fc0f1acc5e08548224258f745079667ff6b
 SHA256: 30eb50b6c769972c8f9b95b9db011ef17370fbbaab559ef246d0237baf819a6e
 SHA512: 71ec0460f946826ce95643f48a7cde9507eb549c5b3cb50305f24dd24af6bb6280fed171b454386c3613e3e47216eff93bfcce20d5403045f8d86b2461ec0b88
 
+Package: libetonyek-static
+Architecture: x86_64
+Installed-Size: 19888
+Maintainer: @termux
+Version: 0.1.13
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libetonyek
+Depends: libetonyek (= 0.1.13)
+Description: Static libraries for libetonyek
+Filename: ../../../../releases/download/x86_64-libe/libetonyek-static_0.1.13_x86_64.deb
+Size: 1478512
+MD5Sum: 9632d543bea353af76bd1ae30b444c54
+SHA1: b40f3ad030572dd2a226a62ecd1910b7c8735c41
+SHA256: 91409c6f5cecde306e7cd62d42d7466262ea681fbeb697be5ac20e74fb596a98
+SHA512: 803e73120c65904cfd3bf21b44edd9c5e505501c86c47effe0e71bf2687e49aee480e8a06cc7409fb7af290c20b3f68691e206eedb66e62a66a29afbdfd5bfbe
+
+Package: libetonyek
+Architecture: x86_64
+Installed-Size: 2884
+Maintainer: @termux
+Version: 0.1.13
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libetonyek
+Depends: libxml2, libwpd, librevenge, liblangtag, zlib
+Description: CorelDraw file format importer library for LibreOffice
+Filename: ../../../../releases/download/x86_64-libe/libetonyek_0.1.13_x86_64.deb
+Size: 515212
+MD5Sum: ddf35805a6e2cff6e1103797a2437ecd
+SHA1: d0f0ba3d6bab70a030521c1ce269aa8f2d7fc67f
+SHA256: b01b2f1fb5a5d28e48dee99d98489eb83d3ca8c8f1d6f1e478df6e23d105cf13
+SHA512: 21f2b7140b34e5af18593d5192ca738b48c3f874a0f81097741f3b8da2a085ed5a4f27b0d577801e9c0031401962645df61e468c5957c072b75f33b0056a1a75
+
+Package: libhyphen-static
+Architecture: x86_64
+Installed-Size: 52
+Maintainer: @termux
+Version: 2.8.8-1
+Homepage: https://github.com/hunspell/hyphen
+Depends: libhyphen (= 2.8.8-1)
+Description: Static libraries for libhyphen
+Filename: ../../../../releases/download/x86_64-libh/libhyphen-static_2.8.8-1_x86_64.deb
+Size: 8492
+MD5Sum: 24403dda9c23e02dc98016c72b1cec80
+SHA1: b1f7e970bfd1a49a283d1e8bac6542ddd3fe0a45
+SHA256: 1a94078e4b53c30e6ad62e939a98579666faa49b52c096fb936136fe79890981
+SHA512: a31cb16f8c29797eaef5158d301fee79d2ee1b6109bbadd2385b34bd2a28ea11eca1037effd9e5707ccfd55d105d1aa8ee7d26dd97acb9d904e059a088f299c3
+
+Package: libhyphen
+Architecture: x86_64
+Installed-Size: 192
+Maintainer: @termux
+Version: 2.8.8-1
+Homepage: https://github.com/hunspell/hyphen
+Description: hyphenation library to use converted TeX hyphenation patterns
+Filename: ../../../../releases/download/x86_64-libh/libhyphen_2.8.8-1_x86_64.deb
+Size: 49832
+MD5Sum: 13f4a05a2c8b5271fa174af3c968236d
+SHA1: 806dbe42b94f441aa3fd84aaac29ec92d6787630
+SHA256: 7cd76c930049614f346dc5afbaf137e207a7ff78ba80feecaac2248fcd7a3765
+SHA512: 528720401b1935a0f666a2e5dccf83e260fd3f25e2b7a1875b3b21b01201a2d4cd5b776027fec2012578d6457846c1df068bdb2e6cfd195e492d66c0b09c8beb
+
