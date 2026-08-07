@@ -35355,3 +35355,78 @@ SHA1: b170744e9496ce3c740a6473b5f5c9385fa4e1b6
 SHA256: 1c57dc8b24ebd6901df11ea01d0cfc414fcf524ff93b42cdbae82695dace9cd8
 SHA512: d47c0dcf817d995c560668909a6baef46d34afab15975c7788567e1876c913f6e86a714f9b99db84442106f25860f660b77a0a33c3d629325bf7b78256c227bb
 
+Package: matplotlib
+Architecture: arm
+Installed-Size: 20640
+Maintainer: @termux
+Version: 3.11.0-1
+Homepage: https://matplotlib.org/
+Depends: freetype, libc++, libraqm, patchelf, qhull, ninja, python, python-contourpy, python-numpy, python-pillow, python-pip
+Description: A comprehensive library for creating static, animated, and interactive visualizations in Python
+Filename: ../../../../releases/download/arm-m/matplotlib_3.11.0-1_arm.deb
+Size: 4803240
+MD5Sum: ddbd1d99c30a9d48f40f6496169603d6
+SHA1: c04de664e0b25f8bdd949e8a7f4c4a20a862d926
+SHA256: 776995f950f76af63ecfa90b68cbd983552a806b9d0c0f18723368ba2ab96a69
+SHA512: 5f54f000f995b90720e1f0d913e2c8f2451fc0a380fd26769561d34f052cfef22851fa69ad22c0f9cc805a01eb1b0aae57b0fb8eef32ba160bead0855866404d
+
+Package: notcurses-data
+Architecture: all
+Installed-Size: 6500
+Maintainer: @termux
+Version: 3.0.17-2
+Homepage: https://notcurses.com/
+Depends: notcurses (= 3.0.17-2)
+Description: Platform-independent data for notcurses
+Filename: ../../../../releases/download/arm-n/notcurses-data_3.0.17-2_all.deb
+Size: 5903612
+MD5Sum: 23887cad41e9ae188480844f2f26d534
+SHA1: 382e20ab62efdac94c8495bdaff960da62b9b9d5
+SHA256: 6fcd81dbd6ea54502b92b71c1eaca9cd15827fada4d2333daf7c3d5aeba3f39a
+SHA512: f0f22cdbd884026fe1aa36c35564edbab972268195c3e9dc7be28937099c6699ddf40f8e6117dbdfd4c1b0b5c0f2ca2013cd0ced1dd96c09c5771b97dc093105
+
+Package: notcurses-tools
+Architecture: arm
+Installed-Size: 956
+Maintainer: @termux
+Version: 3.0.17-2
+Homepage: https://notcurses.com/
+Depends: notcurses-data, notcurses (= 3.0.17-2)
+Description: Tools and demos for notcurses
+Filename: ../../../../releases/download/arm-n/notcurses-tools_3.0.17-2_arm.deb
+Size: 396384
+MD5Sum: 120f6f30b3fc932a6f10865702572be6
+SHA1: 8a9c85ea1bbce534fbb2ec81e9831a5b775dc103
+SHA256: 1d51ca32b90e414b4a16aec8c5141d3f9cd276a3b980d48a92269bf9f2a6548e
+SHA512: fa6edb6eb8eff221f433e7f454ccf6d1d6f4488bf684f4cd92f25dcee2df05138b09fdbc366523571d77ed7354b33e5fdeeaa9e9bd681c3103d7f301b1cc37a3
+
+Package: notcurses
+Architecture: arm
+Installed-Size: 1240
+Maintainer: @termux
+Version: 3.0.17-2
+Homepage: https://notcurses.com/
+Depends: ffmpeg, libandroid-spawn, libc++, libunistring, ncurses, zlib
+Description: blingful TUIs and character graphics
+Filename: ../../../../releases/download/arm-n/notcurses_3.0.17-2_arm.deb
+Size: 301956
+MD5Sum: ebaa2112e8d4e3e2f357411bde689b9e
+SHA1: 8bd2d34235ff059d4a839b9699cfce0434dddccf
+SHA256: 735247b4354d962709bd974b014012ed2e86234a73c094c1e96fd49ec6937593
+SHA512: 0dd6f4743c48cef40f2a0f7c46f8a25695e793ad1ac0edde6359dfab722c5b8074856dc19b99fd211d4446813f423db4dbcc0d40928d32a6d49397bda7da8a4c
+
+Package: python-contourpy
+Architecture: arm
+Installed-Size: 604
+Maintainer: @termux
+Version: 1.3.3-5
+Homepage: https://contourpy.readthedocs.io/
+Depends: python, python-numpy, python-pip
+Description: Python library for calculating contours in 2D quadrilateral grids
+Filename: ../../../../releases/download/arm-p/python-contourpy_1.3.3-5_arm.deb
+Size: 147800
+MD5Sum: 537b7e4fa15a0682ee635e9e2c15890a
+SHA1: 9e0b0389b3a83817c35b41d295f9699ee07e1456
+SHA256: 9810e0ace92dfea7b36b7ed71b190cc76a620078064ac0a565855bc006f3e186
+SHA512: 96470e5bd67fe7d0fd2b829519afa40aa48a1eca189914907da8b34760846bb52c1b001dac2cea57eea74ca9edc461ff2c0e0ee21a90097498c6da1cd88fd91c
+
