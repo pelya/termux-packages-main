@@ -35475,3 +35475,17 @@ SHA1: c3acd5214930a7b261ef1c01f5e9963c45a29e23
 SHA256: 901b4b38e1f2c3421c0e8bd81fb49f7405ed2b5ea37bf61ed5258747570e5c69
 SHA512: 8460be25859e34296e615d347fca22f3805bf7e25323e6e57cf2df5b5ce8623111bf34ae234edb1ff124be3d4a45a859d453721e04f69fd5b15fb7e33e7f1519
 
+Package: q-dns-client
+Architecture: arm
+Installed-Size: 11204
+Maintainer: kay9925@outlook.com
+Version: 0.19.12
+Homepage: https://github.com/natesales/q
+Description: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
+Filename: ../../../../releases/download/arm-q/q-dns-client_0.19.12_arm.deb
+Size: 3096516
+MD5Sum: f89cc77e40fab085ac85410f0c344a76
+SHA1: 822cf22509e0294bb7b6bf0bd6a896fcd787e40a
+SHA256: 2ee6b3a12abe3b5dbecfcf194eef25929b1be68cb8c2b9ea8f4bfb26f2605c66
+SHA512: 07ecd6a2f2da8a400a7a877c8eec2f44a02fc039243db892a4ac429b54326e98bfa1fbb97f683feb515ce37c86aa1f43bf2e1e80837053ac2c06e048ef27c403
+

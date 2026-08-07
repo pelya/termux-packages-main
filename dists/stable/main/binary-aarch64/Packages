@@ -36972,3 +36972,17 @@ SHA1: 6496398112a706399acf6a61e01828db423f89db
 SHA256: 43f73f7037e80ab32b9f8260ebf5cedf51381f963211c56da3ee8138849505c7
 SHA512: adb4d6ae78f4db4b04bce0fc251950d1d15e20ecb57481694833c973a58259c7bcd87ec408c7ff7e491350540f076ddae02c617901b365d9ce2b767d8ced1346
 
+Package: q-dns-client
+Architecture: aarch64
+Installed-Size: 11452
+Maintainer: kay9925@outlook.com
+Version: 0.19.12
+Homepage: https://github.com/natesales/q
+Description: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
+Filename: ../../../../releases/download/aarch64-q/q-dns-client_0.19.12_aarch64.deb
+Size: 2951532
+MD5Sum: 7182eb7d0dd29fbcd719485da01a3f58
+SHA1: 0e36a81ec4b67049f75786da360361489b4f7c76
+SHA256: d18d98bc2b9da2466a7628e6df7f486e283d6b3fcf0952305366898b4a625cdb
+SHA512: 754690ade944b2317b8e116c3bf9004ec357315c846fcc890c22ae7ab6a9d9e7acd4fa831524672131436dbddc0a50039bfb75ddebed7d62c37607f3378a4d63
+

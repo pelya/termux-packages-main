@@ -612,3 +612,19 @@ SHA1: c536a2b778993d3c126f5bc7d79ce2b0af9f7b20
 SHA256: 431a40e356e824acfde2f4a7c3fc303631dedd003a0a443eb159c93c6ba5607c
 SHA512: 9109c3027b39843c3e5f41458bc2901b0000dc24a725cc70b38d6bc28ea42cac936da7f8668c0f39473e1e251da45bdaf0a8b2caf5687a2760485576c35cd085
 
+Package: nwipe
+Architecture: arm
+Installed-Size: 440
+Maintainer: @termux
+Version: 0.40
+Homepage: https://github.com/martijnvanbrummelen/nwipe
+Depends: ncurses, ncurses-ui-libs, parted, libconfig, hdparm
+Suggests: smartmontools
+Description: A program that will securely erase the entire contents of disks
+Filename: ../../../../releases/download/arm-n/nwipe_0.40_arm.deb
+Size: 266804
+MD5Sum: 7cda99cd8e4d466e9ae2cfaec110b114
+SHA1: a87bcccfa80fbcc17cb0dbc375427aec8a5793ff
+SHA256: ff499de3d6f47495d42ac305e133d1b22c820d3dbbbcba388c824c0605f9c96c
+SHA512: 9594bc3fabf6a2a86abfe14ad204f7197582a08ef0461ec34542890b1fccdd87078ad3bda7f634fdab4d4d01fdcb812d7e3b3ac8ea4ef029b7a9ee3987fd698e
+

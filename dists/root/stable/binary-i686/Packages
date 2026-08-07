@@ -612,3 +612,19 @@ SHA1: 1b359ead70612e7627135f964ae639145e41f476
 SHA256: 0bbdff9fde68aa745e3c978feb874f1e35d5723bc5511a8e2ae20d92051ecfc1
 SHA512: 14b2ac83584cf6674e778530821de6ead22e20344aeabc7ac3108dd4d780439debe45426c27371169c3a95071637f5ece90879e640874d72d138b5d55af877c9
 
+Package: nwipe
+Architecture: i686
+Installed-Size: 492
+Maintainer: @termux
+Version: 0.40
+Homepage: https://github.com/martijnvanbrummelen/nwipe
+Depends: ncurses, ncurses-ui-libs, parted, libconfig, hdparm
+Suggests: smartmontools
+Description: A program that will securely erase the entire contents of disks
+Filename: ../../../../releases/download/i686-n/nwipe_0.40_i686.deb
+Size: 273792
+MD5Sum: 804ef77a3d9b34d9245e952db902cee5
+SHA1: 07e7b282883072d36ec59dc5f231a96cef12b382
+SHA256: 373386016167a3563be03b26a6fbf545092d0ce7c5857fcb869e2e06c6787eb5
+SHA512: 6f343b36762ac290463a2f8564620d7619fa80886987bda8b2bbc2bc268cfd767ae73111aea823e4b0e42ddb0a315be0cd891de40d83e953a80f495b93302408
+
