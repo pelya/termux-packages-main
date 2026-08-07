@@ -34295,3 +34295,32 @@ SHA1: 0e1db3cada3baeedfe3d6d321f4fe166d2513c8e
 SHA256: 125959f8863b65f05c5540e7682833bab290fbb073b2163a4ef3f97323977107
 SHA512: 52f9d202af972a04c4031c866e844dcefe6e930faa210118a24c819e6757c0ef3476c6caffcf13ed5baeefa94b214e1aaf8bb31c9c34531a4b7e181dca9f1267
 
+Package: cargo-binstall
+Architecture: x86_64
+Installed-Size: 19016
+Maintainer: @termux
+Version: 1.21.0
+Homepage: https://github.com/cargo-bins/cargo-binstall
+Depends: resolv-conf
+Description: Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem
+Filename: ../../../../releases/download/x86_64-c/cargo-binstall_1.21.0_x86_64.deb
+Size: 5663548
+MD5Sum: 75682eb97e28c60b5f8381dd1fa69c4e
+SHA1: b55fcc205352db5b904d0f32b85f77935c8f64f8
+SHA256: ae84231aa1ce67015bb73fddeff82ebf8aad64f9d028f0768583fa15b07ad4f5
+SHA512: 2e12a3532887576ed4116eeb70dfce031e129577aa41340097d39cfcb7fce11abac3d7b2d203c7edeb0a7fa9082db382834b8d8c633e1d560c1856f65096718d
+
+Package: pyrefly
+Architecture: x86_64
+Installed-Size: 24616
+Maintainer: @AhmadNaruto
+Version: 1.1.1
+Homepage: https://github.com/facebook/pyrefly.git
+Description: A fast type checker and language server for Python
+Filename: ../../../../releases/download/x86_64-p/pyrefly_1.1.1_x86_64.deb
+Size: 9759708
+MD5Sum: f8b6c7fa70e1d1b572f881ea07f272a6
+SHA1: 704bca3184a997dfb894ddc764881dd782bcc0af
+SHA256: 57427cc4c1336050a1c1e433ad71c7c58ddfb996c5c0a0e65640c5220b314115
+SHA512: 6bc9ab0b8b0afcde57a09fc86762595d2c7a406230c85d808380fd6879f0020faacba92ac2df92fb8f76c27b1c3af388b381071479b31bcc5a3368daac33cc6c
+
