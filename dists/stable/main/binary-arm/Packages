@@ -34755,3 +34755,31 @@ SHA1: 789706c4e2d39a1678995bccae542febbefbd503
 SHA256: 2ad83f27fa82f4166420fb568bc836262a9a5f103ab7650cfa00e7358f69b852
 SHA512: 07946839f02a0285ee80c9e420e889db7941728a2dcb0a660764fa8c2a3d54d3a0c020e87a4c8607b266f5f85655055e94121c3002e4e0f2a75677fb335e522a
 
+Package: magic-wormhole-rs
+Architecture: arm
+Installed-Size: 6464
+Maintainer: @termux
+Version: 0.7.6-1
+Homepage: https://github.com/magic-wormhole/magic-wormhole.rs
+Description:  Rust implementation of Magic Wormhole, with new features and enhancements
+Filename: ../../../../releases/download/arm-m/magic-wormhole-rs_0.7.6-1_arm.deb
+Size: 2502644
+MD5Sum: 67b06b3b8495713f200f84883552ac5b
+SHA1: 19440be1891ec19c7412080148127d669187e3a5
+SHA256: a129d7fd3f24900578b9007738f9f32dd8e778c9648d84c8520c5febae5846b6
+SHA512: afce9648e53358aa96b12cbcc2c06d9ac6f0e94d79bd546f18990dd1e64be261ebe6a99ee1dfd4530f734d79fc37768b518f1061d299ebc8d2602774335ee2ae
+
+Package: wol
+Architecture: arm
+Installed-Size: 76
+Maintainer: @termux
+Version: 0.7.1-4
+Homepage: https://sourceforge.net/projects/wake-on-lan/
+Description: Program implementing Wake On LAN functionality
+Filename: ../../../../releases/download/arm-w/wol_0.7.1-4_arm.deb
+Size: 12672
+MD5Sum: 2af5081fd2d23b41f7a691eb16bf1cc6
+SHA1: 3ba1b5944c700c6423e1ca15515b66223ca51ea2
+SHA256: 5562dbbdce2b052dd709c357c44f98f9de7d4c5e8ded1234cd6ce5bd212d4626
+SHA512: f3efd0c36e246ba5e7ddeded3f8f47b430aa18fbd7adc42afbb271469d69f2ebaa31e8f9d94ddeac8b2ffc02c382e9913ee4915c780b07afc42fe62b393bb53b
+
