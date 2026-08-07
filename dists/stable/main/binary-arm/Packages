@@ -33084,3 +33084,32 @@ SHA1: dd48737e98f7d4b557f65a0210cfa0bb8a1340d9
 SHA256: 497070da28be6cc1d7bdeac3056e6398cd16f112003b6c1c76de10aa2f4b1bbe
 SHA512: e0ffd598422befb4441153273d46d84a54ae087226a9b690e35648bf4362d6d0eb73399cb6fe7ae3611026751f0523c2992e5b1fbc089f1b14581bed8fb09d9a
 
+Package: libeot-static
+Architecture: arm
+Installed-Size: 84
+Maintainer: @termux-user-repository
+Version: 0.01
+Homepage: https://github.com/umanwizard/libeot
+Depends: libeot (= 0.01)
+Description: Static libraries for libeot
+Filename: ../../../../releases/download/arm-libe/libeot-static_0.01_arm.deb
+Size: 17508
+MD5Sum: 3a7cd3d7b7d3778f0509f791a4ab5c39
+SHA1: 6a4c4d74b56661e37e5e96b7b08cf68cfb1196eb
+SHA256: a525cc968393db066fa85deb0889c72fc9b6103750757c1be3ddc4aa020e7611
+SHA512: 3153d8d88487213c78f87b1ede11079cb6cdb06178175ef951c12cc96d1f6f04914973a71dcc9523fb8b697a90c151b58463b48e7caed2b14416cc6c31529fde
+
+Package: libeot
+Architecture: arm
+Installed-Size: 112
+Maintainer: @termux-user-repository
+Version: 0.01
+Homepage: https://github.com/umanwizard/libeot
+Description: Library for parsing Embedded OpenType font files
+Filename: ../../../../releases/download/arm-libe/libeot_0.01_arm.deb
+Size: 17896
+MD5Sum: 3b50ab6c7c3c8413e15ada4603c06d20
+SHA1: f5d775d48758020a6b45040f3e894083e4fe56c4
+SHA256: 622e78c1d1dd955be2a3a7ee985f9138b1a571469d1ee4b98eca21e290342334
+SHA512: 136783e6ff3fe08efedb851f5a4497839ab4f064b0acfffb03bab4d7abb33d1d1ecf7cece4351bf0b3c189778143c8866b8b727864d8ac74ef5a1ebfdebb0442
+
