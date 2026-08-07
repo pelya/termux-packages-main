@@ -33831,3 +33831,32 @@ SHA1: 6654d740e95266d261419d8c1536025f6b8cde52
 SHA256: cd3a032d986c207a01498f156614a377e34a7d3ac7239f97edc7cbc6ecdef1ad
 SHA512: 0a4062129781fa010f62c06a733221974f34827c0619ce622ee49810331f66e0e570a4ead19dc444ae3edbc9744e4dcaab41af1769f073a067485bce705161ab
 
+Package: libnumbertext-static
+Architecture: arm
+Installed-Size: 1052
+Maintainer: @termux
+Version: 1.0.11-1
+Homepage: https://github.com/Numbertext/libnumbertext
+Depends: libnumbertext (= 1.0.11-1)
+Description: Static libraries for libnumbertext
+Filename: ../../../../releases/download/arm-libn/libnumbertext-static_1.0.11-1_arm.deb
+Size: 123852
+MD5Sum: 7d0463aa76ad475da1f487973499c5ba
+SHA1: 55fee4c394ba3fc2324cf072bd5f89ba80e1fa04
+SHA256: d51559640d2e82a4038c5e501554d96c691b78cb8aed20ba2baca5cba968dd8d
+SHA512: 492d60a7d0486a6a7aaefbd59de00f8ea49bf8b847ac1d02f1f3b5931ca1816c20e286c163fc8b8826fd0b063f88accb7ef32bfccc3a612085294519e6950d6b
+
+Package: libnumbertext
+Architecture: arm
+Installed-Size: 372
+Maintainer: @termux
+Version: 1.0.11-1
+Homepage: https://github.com/Numbertext/libnumbertext
+Description: Number to number name and money text conversion library
+Filename: ../../../../releases/download/arm-libn/libnumbertext_1.0.11-1_arm.deb
+Size: 77648
+MD5Sum: f66b4a9fe691d967feaeb338bf743168
+SHA1: bbeed2f5ffb0ae93646fd8b8e8f33c58f90f8181
+SHA256: d2f11c3b4653fcad281a854446c630414273e14f86d33b955d1323bfd121ba4a
+SHA512: 96944904c59b642c980a717929acfdf8c992086ee702bc35627a0175a521733dd63b13601afd5c8eed7399856d984a5e6ec5493f06106134aac162cca3849c59
+

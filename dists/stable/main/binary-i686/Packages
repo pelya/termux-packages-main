@@ -34416,3 +34416,32 @@ SHA1: 20d44738a98de4b7893a1d0ef4b5dfe79c833a8d
 SHA256: 2916c1ab38ae1634a3b5e5ed4e279b67be8ac62efa345a2b2a077c1ee3e744d6
 SHA512: 86928b0c828297b11f997862cc531d53d421127be26d758011c695c32e708274b8c8c50fa6fd16abcd61c50361d3c6f9d07bf877d9a68a0d7ab0322ec4cd452f
 
+Package: libnumbertext-static
+Architecture: i686
+Installed-Size: 804
+Maintainer: @termux
+Version: 1.0.11-1
+Homepage: https://github.com/Numbertext/libnumbertext
+Depends: libnumbertext (= 1.0.11-1)
+Description: Static libraries for libnumbertext
+Filename: ../../../../releases/download/i686-libn/libnumbertext-static_1.0.11-1_i686.deb
+Size: 110976
+MD5Sum: cde35aaf399bb2bc3703f4209de5ab08
+SHA1: c353a512fff294cc9a2d5473c0d27421977d0fc1
+SHA256: 6af6083029e6637432a248015b6c70266e12ccca817220730cd471bd87a6d4bb
+SHA512: 044bc731cd22544ea0620b0fc2f054d275c98351ec775cb8199594d862db91bbdae205aa8c5a4ec5012aa3f91bc14e87790fff3bae838b9d04b2748805a742f8
+
+Package: libnumbertext
+Architecture: i686
+Installed-Size: 556
+Maintainer: @termux
+Version: 1.0.11-1
+Homepage: https://github.com/Numbertext/libnumbertext
+Description: Number to number name and money text conversion library
+Filename: ../../../../releases/download/i686-libn/libnumbertext_1.0.11-1_i686.deb
+Size: 114092
+MD5Sum: 22855e24d4c9c66ad4efb9febec43b1d
+SHA1: bbacd3a3c4369baf7b145b8159d6377930951df2
+SHA256: a13e7191594ca8d915ecea47aee4152e5f41ea75370e950a7409bcc2622d02a7
+SHA512: f8062366df33fe996e71d470f669be3f81af6a229c266d3c0725ef2086ff143c786d91593fa03d27a094310aa28871ef7137d0f94304f33fd0f13a615624a851
+
