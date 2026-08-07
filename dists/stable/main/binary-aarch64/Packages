@@ -35402,3 +35402,32 @@ SHA1: 36bf486220e0870e33afa931215d4ef09ef37d45
 SHA256: 66020941031dbfc03170f51483b63326dbd8c1c3b1fa9cd9cc5622b9c2b579fe
 SHA512: 161cec6d88f6e284fc3e0006850cdace646070eff0b9125c753d554307c614cc1900098329c6157620c5ce50af14569430867a763472730b7759056e51754d00
 
+Package: libunibreak-static
+Architecture: aarch64
+Installed-Size: 176
+Maintainer: @termux
+Version: 7.0
+Homepage: https://github.com/adah1972/libunibreak
+Depends: libunibreak (= 7.0)
+Description: Static libraries for libunibreak
+Filename: ../../../../releases/download/aarch64-libu/libunibreak-static_7.0_aarch64.deb
+Size: 18448
+MD5Sum: f92c6976566dd83fad9dbb315f802e67
+SHA1: a2a53d852f57a2c93bbaab77e60d804c80369672
+SHA256: 0e0c9288d12735ab5ec6dcf4e30c5c40a8f8ad84ce1cd77209d40afd492287f9
+SHA512: ddc6e05320ca380ca884f0f19e172cd261051699627b34ef4cb5f452f34201b9cabb27a482355c75023a855eb0fe39458153f7462bd35c2217e60f95a7e52375
+
+Package: libunibreak
+Architecture: aarch64
+Installed-Size: 216
+Maintainer: @termux
+Version: 7.0
+Homepage: https://github.com/adah1972/libunibreak
+Description: Unicode line-breaking library
+Filename: ../../../../releases/download/aarch64-libu/libunibreak_7.0_aarch64.deb
+Size: 21228
+MD5Sum: fef9d57525224a74a79a26e28acc7752
+SHA1: d8ee1f2aac0dc4dd50455238623e4665d989b2ee
+SHA256: ebcc1c350c3f30460653076a0c2c334a5124157319fd4ab0efcb20c7b822cf27
+SHA512: dbd6b480e071b541c8609aeae8b98b1b9ce425d9ac31e5130a7f1f128924a3cd605adcfa5b4b23ca432c1cb01ddaa743ecd0006823588ed8e221c148a172be66
+
