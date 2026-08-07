@@ -12069,3 +12069,48 @@ SHA1: e6541d2b7c82e1db6e1a221f7250d4f6d281b539
 SHA256: 5cf0fbfcf65c4e7c819087181fe21b005381ce9982dd9258d86e154ab6ce97a8
 SHA512: 2ee2eff145fc3d6c9f337cba45190e2023fb7b4cef7c307d372864f810d3bcc06f5e485d06ebeba09ce92eb6d710a76bab9807f60cc731a91b0ff5f273696e50
 
+Package: sdl2-mixer-static
+Architecture: arm
+Installed-Size: 268
+Maintainer: @termux
+Version: 2.8.2
+Homepage: https://github.com/libsdl-org/SDL_mixer
+Depends: sdl2-mixer (= 2.8.2)
+Description: Static libraries for sdl2-mixer
+Filename: ../../../../releases/download/arm-s/sdl2-mixer-static_2.8.2_arm.deb
+Size: 86160
+MD5Sum: a83dab640d1a09e28caaf017f2429ff3
+SHA1: d486d6d9659f63df5a69fcd2c2ac380284889684
+SHA256: 2cc5bb0820c0b05b48e0ecbfdda01c37d99028c542fbfbdcf0af417cc5ac8c1f
+SHA512: 64d0c3790eb363f3c4c279538930e68a739ad740f7b594c9de132690170c1051b14ce991afbd0690a5a7849d2fefd74336436858e1bc4d280c03a9becc0ac3d6
+
+Package: sdl2-mixer
+Architecture: arm
+Installed-Size: 372
+Maintainer: @termux
+Version: 2.8.2
+Homepage: https://github.com/libsdl-org/SDL_mixer
+Depends: fluidsynth, libxmp, libflac, libmodplug, libvorbis, libmpg123, opusfile, sdl2 | sdl2-compat
+Description: A simple multi-channel audio mixer
+Filename: ../../../../releases/download/arm-s/sdl2-mixer_2.8.2_arm.deb
+Size: 93540
+MD5Sum: 6832842be1faa0f6c40fb5e483187ae6
+SHA1: cbca49618864f7dd20327c69cae250c41c3c4537
+SHA256: 1384dd18c5ead1a67747d8b45ca82eb164afdcdbb080322a3903c9bc155796cd
+SHA512: cb9c442ff3245770165cd3cd7bb4fad0c217ea89da5c35d7b350ed90c0ecafc11b26d4ea028d8bd72da7687f899562f8d3a10f4389de6807f0be5c60870db731
+
+Package: xmoto
+Architecture: arm
+Installed-Size: 69172
+Maintainer: @IntinteDAO
+Version: 0.6.3-2
+Homepage: https://xmoto.tuxfamily.org/
+Depends: bzip2, game-music-emu, glu, libcurl, libjpeg-turbo, libpng, libwavpack, libx11, libxdg-basedir, lua54, sdl2 | sdl2-compat, sdl2-mixer, sdl2-net, sdl2-ttf
+Description: A challenging 2D motocross platform game
+Filename: ../../../../releases/download/arm-x/xmoto_0.6.3-2_arm.deb
+Size: 33857608
+MD5Sum: f33728848108133c1e3baa943091f7c5
+SHA1: e19c2663e0d4547725c0dd0dd1109f96e7801ab1
+SHA256: 8937a37a5117f7e76e8828dafef39745969ecce243f32409b413971c9860856c
+SHA512: 51e45b2adf34c7784d75e35bc588335a4b9710fc116c59bdf17eda13aaf1336bc24211e61a2dc7aa955fb66829d98ba61b9cd6c8023b34384b750e1372bb5fb9
+

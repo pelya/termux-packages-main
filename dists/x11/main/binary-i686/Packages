@@ -11933,3 +11933,48 @@ SHA1: 9e758510f7af416d244595cb448bb512f8008062
 SHA256: afa78fdc3c87807f1dd67734b9f2e4082db8f83ff424a8ead57a47f1850bcf22
 SHA512: 6ff616cbff7e39c51e8c60e6fccd7ef2ab10e3c45caf432755593b8a673d23d32f80d5e8b89263e45348c3753ddbacf0ef7f981f7754473963a75072b8a4dec0
 
+Package: sdl2-mixer-static
+Architecture: i686
+Installed-Size: 320
+Maintainer: @termux
+Version: 2.8.2
+Homepage: https://github.com/libsdl-org/SDL_mixer
+Depends: sdl2-mixer (= 2.8.2)
+Description: Static libraries for sdl2-mixer
+Filename: ../../../../releases/download/i686-s/sdl2-mixer-static_2.8.2_i686.deb
+Size: 98640
+MD5Sum: 4db0abe746cea7fbc430d8fcb8c0ec21
+SHA1: 7f1e2430f7835da8287feed4fe78f25eb17687d9
+SHA256: 31a262227317bd90d4a8c8562277529f001aa1b24f1b1eaa2ff0df09132ba34c
+SHA512: 8b913142bdba3677ad0c2172b62407897b0437280b7223e1679a531e538204401e0e6ab8b594e292f812fbfd31b57bc659605131ea9113da28ae99f312613483
+
+Package: sdl2-mixer
+Architecture: i686
+Installed-Size: 428
+Maintainer: @termux
+Version: 2.8.2
+Homepage: https://github.com/libsdl-org/SDL_mixer
+Depends: fluidsynth, libxmp, libflac, libmodplug, libvorbis, libmpg123, opusfile, sdl2 | sdl2-compat
+Description: A simple multi-channel audio mixer
+Filename: ../../../../releases/download/i686-s/sdl2-mixer_2.8.2_i686.deb
+Size: 107400
+MD5Sum: 1c60ea0b1755177e28d168534422b87e
+SHA1: 951272cd3574071bf30080e92940a645a67ab0a0
+SHA256: 970f1ed1cc87905dfc62fe9f1d0fcb92ef6ab8509d83f90216817eafb513c0b6
+SHA512: db7aba5dbe28124101267ccf28e9fa669c7c7aefac4336a4d00ddb6b368e0d732b2dea5e0fedd7d51d4610ce9fff516ddba045d663a8ab9bd4ebb84a1f861a7f
+
+Package: xmoto
+Architecture: i686
+Installed-Size: 70588
+Maintainer: @IntinteDAO
+Version: 0.6.3-2
+Homepage: https://xmoto.tuxfamily.org/
+Depends: bzip2, game-music-emu, glu, libcurl, libjpeg-turbo, libpng, libwavpack, libx11, libxdg-basedir, lua54, sdl2 | sdl2-compat, sdl2-mixer, sdl2-net, sdl2-ttf
+Description: A challenging 2D motocross platform game
+Filename: ../../../../releases/download/i686-x/xmoto_0.6.3-2_i686.deb
+Size: 34022868
+MD5Sum: 75150eec8004c7f8c8adf4d30045d95a
+SHA1: c388bd2c01c469710604289876b1eed89fcd32e7
+SHA256: cee3a52b93a77071faf83707680134fa3aeb98f7ad1e0381b46eb925cf020dc0
+SHA512: 67da54bcda03983657c21bf52a43fdb8006d65b3c4722655145dd1d799a70e70b635a71641595fa23351f62dd913619e17a12eee9d6bc0c84ef324a5a0e5beeb
+

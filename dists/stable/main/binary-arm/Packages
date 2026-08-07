@@ -33351,3 +33351,17 @@ SHA1: 6f2d45d0158d1e08da982cfb45ad712d13c3368a
 SHA256: 3bf1510d3b4f9abe3237f05a8acb1ea889e31fe158467d71c52f9062c1368ea8
 SHA512: 038a53a6e6c513f588c561a1dd226f1ac68892c51c12d3f0962a7e12af6364a851b99e0b242b0a4918b91be20de2783eeb063e45092fb0eef7856ec074c15902
 
+Package: tree-sitter-json
+Architecture: arm
+Installed-Size: 92
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.24.8-1
+Homepage: https://github.com/tree-sitter/tree-sitter-json
+Description: JSON grammar for tree-sitter
+Filename: ../../../../releases/download/arm-t/tree-sitter-json_0.24.8-1_arm.deb
+Size: 4596
+MD5Sum: f53692b512977cdd5c5b8d5c71709bd7
+SHA1: 9ca0eb2db45a9ee0a8b3a835d815fc8290ef8308
+SHA256: 5506c3bc9d4d46e7b04aa8e7442d7b9996a6f8344f44cec405d56e8e600ef7ae
+SHA512: 7d2f9ca4ff191ff70b51a47b405b16d48cb829df87f3514f7ba805c67ed39fa1ecefb2b64e3662af06bd846b2d9dc8c106537f031c3ef7d1d12aec044ebe64ba
+

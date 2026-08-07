@@ -12285,3 +12285,48 @@ SHA1: e09eefc4a3dd87b28d88c1814dc0e72adf5c790a
 SHA256: b2a78a0d6ef0a3cb5ec6c78feb3bd8521d1816f80dd5855a2439309c346ea820
 SHA512: 165263af013dcdc86d2af670a9f167225df2ef9976ffdd7d5c92056e2759db6098d48642ae67f0b8bb9ca5164bd231f3149c3e2d23efcbde869e1a19de8248a9
 
+Package: sdl2-mixer-static
+Architecture: x86_64
+Installed-Size: 384
+Maintainer: @termux
+Version: 2.8.2
+Homepage: https://github.com/libsdl-org/SDL_mixer
+Depends: sdl2-mixer (= 2.8.2)
+Description: Static libraries for sdl2-mixer
+Filename: ../../../../releases/download/x86_64-s/sdl2-mixer-static_2.8.2_x86_64.deb
+Size: 95024
+MD5Sum: efb08fa3a100755b74ccb5ef6fb8e472
+SHA1: 230077370e83ccd192317b845e95b8cdf8bcf8fa
+SHA256: 5f1402ef810780bba922796dd3e8e07c771f3d113f94e25d6157f295b71c8b22
+SHA512: ae9a7bff6b38d804ff6864a21a126794fdaed5b6e07b4b1d9a07b1686bb12ed8928e6cc32743be44c2f016939bf44a4d51c54d639011f6d1741b7c497cc350a7
+
+Package: sdl2-mixer
+Architecture: x86_64
+Installed-Size: 424
+Maintainer: @termux
+Version: 2.8.2
+Homepage: https://github.com/libsdl-org/SDL_mixer
+Depends: fluidsynth, libxmp, libflac, libmodplug, libvorbis, libmpg123, opusfile, sdl2 | sdl2-compat
+Description: A simple multi-channel audio mixer
+Filename: ../../../../releases/download/x86_64-s/sdl2-mixer_2.8.2_x86_64.deb
+Size: 105128
+MD5Sum: 6504cb16430b37a05a1b7dcd7f6045bc
+SHA1: 3bb0d772cd30839d96ab2cf8f533b8deae3ffa2a
+SHA256: 20038462512d16b706d8842b69618482057832176f16ca1d6c245abc40d9dcb8
+SHA512: 292248ec32dfe13c26515e96ad4e13748a6afe3740f9f3a0a867d8eba9b898e94fe94f7f88946f54cd8cecc8fb637a7da6616a66b9f04a15c5a0f76dfc2cc1dc
+
+Package: xmoto
+Architecture: x86_64
+Installed-Size: 70348
+Maintainer: @IntinteDAO
+Version: 0.6.3-2
+Homepage: https://xmoto.tuxfamily.org/
+Depends: bzip2, game-music-emu, glu, libcurl, libjpeg-turbo, libpng, libwavpack, libx11, libxdg-basedir, lua54, sdl2 | sdl2-compat, sdl2-mixer, sdl2-net, sdl2-ttf
+Description: A challenging 2D motocross platform game
+Filename: ../../../../releases/download/x86_64-x/xmoto_0.6.3-2_x86_64.deb
+Size: 34063888
+MD5Sum: 1efda358e0a3577edb0553fc5b2e99f7
+SHA1: 7517ae9253e73e35779cfe8f532a05ad15618466
+SHA256: 6bf8abccc340633431b561a87fb73883c25c1e43557301aaa282570cd2215b09
+SHA512: 57a3338c66a0d0b89a180cf328225ae1fa1ae6edeb1f017fe441242816c4d634cc157eb9ae12ce0c723a9c5dc15e39578f3cbd737465a81d95d23456a1298164
+

@@ -12285,3 +12285,48 @@ SHA1: 9a0f4b5147ec124e75fb60a78f34bacbaac78fdb
 SHA256: 685ad63fb11255e40636e353f2c25bdd6e28bdd0d50de5202014111a3bd0290e
 SHA512: 37a4780b28c6fbb9d9be1b653b59e1bd2fbacfbfcf4bf545593cb2777ca3176e9998714d1b1cb93923780df6f6d9a5edef881fb1b0f1707d29165777b1e7e446
 
+Package: sdl2-mixer-static
+Architecture: aarch64
+Installed-Size: 392
+Maintainer: @termux
+Version: 2.8.2
+Homepage: https://github.com/libsdl-org/SDL_mixer
+Depends: sdl2-mixer (= 2.8.2)
+Description: Static libraries for sdl2-mixer
+Filename: ../../../../releases/download/aarch64-s/sdl2-mixer-static_2.8.2_aarch64.deb
+Size: 92912
+MD5Sum: 085183d602dc789781066102f659a5a7
+SHA1: 4ebd6fc1a0ceba6c19dc31cd2e6f439531170863
+SHA256: c2a2e1510a978507d26213659033ef8c2f2af19d13e3b8e1e976750f98cdcd8a
+SHA512: abf1992c52e3357cbcdb2b2b40031774ca1e3203589e15f93867269b6bc2d09b73beb49ac7ffaff23839b6553e0cd09e7abc9c5deed738142b6c055a274d378e
+
+Package: sdl2-mixer
+Architecture: aarch64
+Installed-Size: 424
+Maintainer: @termux
+Version: 2.8.2
+Homepage: https://github.com/libsdl-org/SDL_mixer
+Depends: fluidsynth, libxmp, libflac, libmodplug, libvorbis, libmpg123, opusfile, sdl2 | sdl2-compat
+Description: A simple multi-channel audio mixer
+Filename: ../../../../releases/download/aarch64-s/sdl2-mixer_2.8.2_aarch64.deb
+Size: 100228
+MD5Sum: 14186610f95d7894da870f932206d464
+SHA1: 6816f7076895b4d2ee08aaf61547141d1c18297d
+SHA256: ffa6a9c9586d65c06ec4169f6235a37a227622fd75b4cf550b095842f6c8e698
+SHA512: 76e909588510b6b99205b4cf0e36ea46b9630793d4514bb623b50b5c230d2b3dd1fbac25a6cd9bfab263a457452e14a686199098c0ecc39e3618f7bc9005889f
+
+Package: xmoto
+Architecture: aarch64
+Installed-Size: 70152
+Maintainer: @IntinteDAO
+Version: 0.6.3-2
+Homepage: https://xmoto.tuxfamily.org/
+Depends: bzip2, game-music-emu, glu, libcurl, libjpeg-turbo, libpng, libwavpack, libx11, libxdg-basedir, lua54, sdl2 | sdl2-compat, sdl2-mixer, sdl2-net, sdl2-ttf
+Description: A challenging 2D motocross platform game
+Filename: ../../../../releases/download/aarch64-x/xmoto_0.6.3-2_aarch64.deb
+Size: 33904972
+MD5Sum: c268b13b2bf2cccf4e503c1c0e94af75
+SHA1: bb2ae6c566ad8459e2959aba3189e0ffad1e11d2
+SHA256: 4881227ce23f6133b0a44386f73edc545d8378c696f8b658fa7d46ac437ffe1e
+SHA512: 0d9df60bbb2afbda5638641f633fe90af8f9d186fc81fccd658f4cd4316ce2a4feadb44f647c1031e317c5f88c4d1dc34a89ebb8921d3d9673579e5ad118c8dc
+
