@@ -379,3 +379,8 @@ data/data/greater.underscore/files/usr/share/man/man1/bindfs.1.gz               
 data/data/greater.underscore/files/usr/bin/tcpdump                               tcpdump
 data/data/greater.underscore/files/usr/share/doc/tcpdump/copyright               tcpdump
 data/data/greater.underscore/files/usr/share/man/man1/tcpdump.1.gz               tcpdump
+data/data/greater.underscore/files/usr/bin/mount.fuse.sshfs                      sshfs
+data/data/greater.underscore/files/usr/bin/mount.sshfs                           sshfs
+data/data/greater.underscore/files/usr/bin/sshfs                                 sshfs
+data/data/greater.underscore/files/usr/share/doc/sshfs/copyright                 sshfs
+data/data/greater.underscore/files/usr/share/man/man1/sshfs.1.gz                 sshfs

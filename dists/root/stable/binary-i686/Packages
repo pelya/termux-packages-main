@@ -373,3 +373,18 @@ SHA1: c0559aa9a914f20f69dff318b5cbdec02b270ab1
 SHA256: 0c11df8124ba781165b9a7adf9a9e77d1254468e792485ce439d95600caa81ea
 SHA512: 52d0fdb4a8926d12d98886cb04f46fe080ecb67b0828aa29cbd95348fb4c351f3f203fb220da0e0ef9ac008a4444ea5b8621de920f139ff15185c1abcb3f5808
 
+Package: sshfs
+Architecture: i686
+Installed-Size: 116
+Maintainer: @termux
+Version: 3.7.6
+Homepage: https://github.com/libfuse/sshfs
+Depends: libfuse3, glib, openssh | dropbear
+Description: FUSE client based on the SSH File Transfer Protocol
+Filename: ../../../../releases/download/i686-s/sshfs_3.7.6_i686.deb
+Size: 31344
+MD5Sum: 23d1591897ca080570ef27cfa4a71b95
+SHA1: 081482b14419faaf643cf067b578a2d319f8cfd1
+SHA256: 5a076e63f9f185d3927d846b02036c25fdefb1250aae0aa7657cfd5d1dcb5136
+SHA512: 7d60fe7d3b1bd07cddd466b5755212974cbc86ccb1d49b42ca8de413f10e8d5c457b086925b68bb106ca6c5c2d08404ed5f651e048b48a3e242c824487a29cbe
+

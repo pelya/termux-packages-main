@@ -35612,3 +35612,18 @@ SHA1: fc4d392e2d3c29493dd7373594998c9d5a2c2bbf
 SHA256: f520bc7bfc91a011d2804b8de21bf93e2bb7981872da1b83a6dd9106c1560712
 SHA512: d94c7f5c86a5c4e38ea8002da667e5c5f93f49a0b7d5bf1b4a3e17d8bedfaa6ffdd7e39e007ba386a47c553e391ce172c5fde7b3bb106c3939207bffd515d4cf
 
+Package: apkeep
+Architecture: aarch64
+Installed-Size: 10976
+Maintainer: @termux
+Version: 1.0.0
+Homepage: https://github.com/EFForg/apkeep
+Depends: openssl (>= 3.0.3)
+Description: A command-line tool for downloading APK files from various sources
+Filename: ../../../../releases/download/aarch64-a/apkeep_1.0.0_aarch64.deb
+Size: 2967532
+MD5Sum: 24e6c09effaa443e5be65bde1015f203
+SHA1: 4fc4579f4a5e48be9421734cc3bcbd6fc6c13e08
+SHA256: e496161281eff75e0434504c549723b515f5aba88c648c37764bc1b046eeb259
+SHA512: b3a551d3f96991e4aca0ab480124968a3daec5487d001c3186fd6b0bf6f0afa810d9558c9a501c9a8a02bf904f8c4ebb5bb73508ea1ee26c3ebcda80e2ed6c9c
+
