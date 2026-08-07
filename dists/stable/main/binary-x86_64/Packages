@@ -1142,37 +1142,6 @@ SHA1: 46592b0fa576b3b3191284ad5b1c4ea79de3bfc5
 SHA256: ab1c1a3d983947bf9f4399bac9c618acbb8312b8d9a8006cb273d2d105b8dd93
 SHA512: d5bea8bfac31041024054abdac255d46bcae6f11996d8f629e0dd45f6537dd679902acbd9283a265d0432f1e4aa3df898968d8c1cc480b53ab73ea2d50dc2eab
 
-Package: attr-static
-Architecture: x86_64
-Installed-Size: 60
-Maintainer: @termux
-Version: 2.5.2-1
-Homepage: http://savannah.nongnu.org/projects/attr/
-Depends: attr (= 2.5.2-1)
-Description: Static libraries for attr
-Filename: ../../../../releases/download/x86_64-a/attr-static_2.5.2-1_x86_64.deb
-Size: 6588
-MD5Sum: d314b67ad9a8a9e888d2d2789e76d16c
-SHA1: 002f825d08f32d1282d278ec33d35da591192a3b
-SHA256: a29660042f7aa0dd3b33ce749383f86296023919a60c07443f4542d74f0d8ede
-SHA512: 0bf88e266d489ae566d69a1141d3c941164501b3e2610b7783f73e4326807f8e909dcb11646cae16e4391bbcc346ad51b12cd4c2102ab7ce5a3f055560676955
-
-Package: attr
-Architecture: x86_64
-Installed-Size: 256
-Maintainer: @termux
-Version: 2.5.2-1
-Homepage: http://savannah.nongnu.org/projects/attr/
-Breaks: attr-dev
-Replaces: attr-dev
-Description: Utilities for manipulating filesystem extended attributes
-Filename: ../../../../releases/download/x86_64-a/attr_2.5.2-1_x86_64.deb
-Size: 52944
-MD5Sum: b9e87ddf9af1c391e67c0ef44cbd3c4f
-SHA1: a40b272e0ff91da6a97467f7c8947f952cf63c79
-SHA256: 8acad43b2d60b14948777c006f0962cf655f7f52194de8f587523ba7c17ff121
-SHA512: 265534a1365ae701a2680d699f19bb32c119b7c0d129d430a78b21c175ec2e4c5722c928b751c36b3e2873e1c37af54766b9b050f2a8b4a7f897e7d84ad7a2b7
-
 Package: aubio-static
 Architecture: x86_64
 Installed-Size: 1008
@@ -11439,38 +11408,6 @@ MD5Sum: 45a840b1ec984dbdec78aa04841a83a7
 SHA1: 01c401d59e853a152e9c31aa6adfa3173e8d57b9
 SHA256: acae7069565d94d771cec35d0a345f45e4125a9055727ce4aedf1e8c663b9167
 SHA512: 32973c76081bfd08972cf68a95417d1db87b987b98ca67ee55856f51f18d2fe5e84141d6453d316f1e97f4e0e5dc825a69970fb925570281f980d71896d61565
-
-Package: libcap-static
-Architecture: x86_64
-Installed-Size: 80
-Maintainer: @termux
-Version: 2.69-1
-Homepage: https://sites.google.com/site/fullycapable/
-Depends: libcap (= 2.69-1)
-Description: Static libraries for libcap
-Filename: ../../../../releases/download/x86_64-libc/libcap-static_2.69-1_x86_64.deb
-Size: 13984
-MD5Sum: 2cf6a61c001f6899ba1321ea4e934353
-SHA1: 893078dcd6b766f3abc6ee0cc727e5e367067a8d
-SHA256: 393409beb0022c951500cc7d4e5193cccac64e52fab8bf62418c227458ca06c3
-SHA512: 8c99c8511c2bdf7df48adb5c53e9d29878f907fb7560445aaddbeabb7022227f7ff7f1a3368fb63e5ff5b58bc6c9fe47016f30e10dc0a76cb2705527154397ac
-
-Package: libcap
-Architecture: x86_64
-Installed-Size: 536
-Maintainer: @termux
-Version: 2.69-1
-Homepage: https://sites.google.com/site/fullycapable/
-Breaks: libcap-dev
-Depends: attr
-Replaces: libcap-dev
-Description: POSIX 1003.1e capabilities
-Filename: ../../../../releases/download/x86_64-libc/libcap_2.69-1_x86_64.deb
-Size: 74556
-MD5Sum: 47b4cd93a2b920b76736d8910641e46b
-SHA1: 141d5a7a4f0255d128bbeb166bd327d08f1cbaad
-SHA256: ecfa8df8457c9e16f1d1616476caebd5358d67c395ac64c6170dac459e7b0f35
-SHA512: 4b4eae44c4f9823fd51761be0d08582e5503a7f1cf896cc3dcea1b6f426da7abb437036e23f375f8bed1eed7b64090aae93e2aa3ab1e165da6ba76b6aca110b6
 
 Package: libccd
 Architecture: x86_64
@@ -23290,52 +23227,6 @@ SHA1: 42e0997026d5eddc9d992646942cd0d7170b6516
 SHA256: 2e774bac3ce9959bb5a1d0d46900442a05b56608a964e37615dac7cb9bc1b7cc
 SHA512: 64bb73bf961f4fddffd14dc047a14dae076d09c3d41d3ab292eb6b6b8213365b2b8f80a61a2e4e34f8f2b7f7b82d3c7950b0407b563afd3899a6677e4fd87e69
 
-Package: pcre2-static
-Architecture: x86_64
-Installed-Size: 2120
-Maintainer: @termux
-Version: 10.47
-Homepage: https://pcre2project.github.io/pcre2/
-Depends: pcre2 (= 10.47)
-Description: Static libraries for pcre2
-Filename: ../../../../releases/download/x86_64-p/pcre2-static_10.47_x86_64.deb
-Size: 429672
-MD5Sum: daf0494a2889d3de4255b8e5af9e1523
-SHA1: 76289c848020e27245ac663ae7e8e0e484a1351a
-SHA256: 3739dfc2c00dc751255b057c7217807ba25f268d731bf2bbc527fb97827c7719
-SHA512: 8e9633159f29188a2957065434bd463e8e3bf6890c637fa72aa2929de4b84947cfbe159b243f050d574f5ca8b0e1b28a0db3e231446ea282715c7b94ce8583cb
-
-Package: pcre2
-Architecture: x86_64
-Installed-Size: 4524
-Maintainer: @termux
-Version: 10.47
-Homepage: https://pcre2project.github.io/pcre2/
-Breaks: pcre2-dev
-Replaces: pcre2-dev
-Description: Perl 5 compatible regular expression library
-Filename: ../../../../releases/download/x86_64-p/pcre2_10.47_x86_64.deb
-Size: 1019524
-MD5Sum: 4c225d07ee05fe922b1a3892cabcc037
-SHA1: 852d3a9bbef3a98e4e2e468ce71856dcee5d9647
-SHA256: 4a6dd9316d60efdbbc0749a257f707bcbc5e557294cd3ecb76233e8aef7f61c8
-SHA512: 5e6a113569f6da6c69d67f65d0b5ff3fc3982d37298d79f2b45203e63b3905dfc394cb21d4afbe9b2c470671704aa3e89325ba464e1d7bd86e327041f5ec5ee0
-
-Package: pcre2grep
-Architecture: x86_64
-Installed-Size: 100
-Maintainer: @termux
-Version: 10.47
-Homepage: https://pcre2project.github.io/pcre2/
-Depends: pcre2 (= 10.47)
-Description: A grep with Perl-compatible regular expressions
-Filename: ../../../../releases/download/x86_64-p/pcre2grep_10.47_x86_64.deb
-Size: 34864
-MD5Sum: 5fc0f5fd492bc4399770e99f066b5e6a
-SHA1: f3a190a132bcac76fc4f5dc6b54c7ce1b3552068
-SHA256: db7d405c3d6120021d4d6c5b7172d59a9f154989b2228a6cc780423463ff36e7
-SHA512: 30b6c1dc77abce318b2df01c9d8ae4632fa3a06a0199be87f208c3d20a89cfe7723cbd5e7edc875e640566c15c86b646e1dcc7bbc8ef3665c581002056017080
-
 Package: pcre
 Architecture: x86_64
 Installed-Size: 2760
@@ -33976,22 +33867,6 @@ SHA1: f8908ee3d795ce3cd90e4b76919407717742ec9d
 SHA256: 40607c5750bd6da99022d6ff41857b0880430331f180b23b0bcd209806c73800
 SHA512: ba2759ae3cb623a873ea715b2686eb1d2cf2a3950be630c25945a1b14e2456af4d5f385afc68dea31b9da1516640635b23f15e46e5112a74cb2d14d0d592913d
 
-Package: bzip2
-Architecture: x86_64
-Installed-Size: 120
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Essential: yes
-Depends: libbz2 (= 1.0.8-8)
-Description: Tools for working with bzip2 compression
-Filename: ../../../../releases/download/x86_64-b/bzip2_1.0.8-8_x86_64.deb
-Size: 26780
-MD5Sum: a49983da01781aa9b21aa9c2a4f92b85
-SHA1: 0e2cd0d01a57c8645e2e3ae5819de75b1969f31f
-SHA256: 213b7ec9fc55ddf7b027e38fa607a1903e76cdb3b3657c81cd99fdcacb57dc38
-SHA512: e67746b5745a8ffdf745b48049f13171bd5e2364999712fbadbf4ed74fa697bdb20da20d1a21e70a6f429bcba3e92ae994410f56465a9200bb9c2187f11da7cc
-
 Package: ca-certificates-java
 Architecture: all
 Installed-Size: 184
@@ -34097,36 +33972,6 @@ SHA1: 52f403d8030126175b5aba093e769b081e1ed000
 SHA256: 81f28c6063ab7593a1e2123463d27182302b5cbf73ce4f0bb9c786c26e9a8069
 SHA512: fce6afa432fa755f8c3f72df3b0df3bb6f13b2bd57503c9fc083e133b3fc893c6089efd65f2f3dd8cd3bef1ca0c7b84749642f21b98d6567c2cc70a0c4dc4558
 
-Package: libandroid-support-static
-Architecture: x86_64
-Installed-Size: 72
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Depends: libandroid-support (= 29-1)
-Description: Static libraries for libandroid-support
-Filename: ../../../../releases/download/x86_64-liba/libandroid-support-static_29-1_x86_64.deb
-Size: 8564
-MD5Sum: a670bd1933468137e25a4b6aa4b7dbb2
-SHA1: 84cc480fdf421383a09754e44f2c51fc3f42f068
-SHA256: f5295f7e3696d5030edeca449a56cf0d6e8be813370165cc2c0a15b8ece889d8
-SHA512: f673a390441735407aeccbe962096d669a5e40226c11aaacd4bfd4c21d6a02e8419c5533947ec19c0c68af30e984e566e8fcd5ab2671513843a3e22770050652
-
-Package: libandroid-support
-Architecture: x86_64
-Installed-Size: 76
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Essential: yes
-Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
-Filename: ../../../../releases/download/x86_64-liba/libandroid-support_29-1_x86_64.deb
-Size: 11008
-MD5Sum: 6272ff6a5a19beb2379993f944cdb0e0
-SHA1: 81eaf25d5a5a4b7e4d0bf7997413d82d6fe11713
-SHA256: 0060389a5bbbe4bc19759c7f7c966f9f6e9130c87909ea5b7b9484322120e292
-SHA512: 7813accc4bb6aeb0c98ba4864d3cee9f9b9a7afd079e4a106d42ef50201812ba60a20bd67f53e00e5de0d06945f88e9da3d3864bb3986c4d21824d64576b4c8d
-
 Package: libandroid-wordexp-static
 Architecture: x86_64
 Installed-Size: 36
@@ -34155,23 +34000,6 @@ MD5Sum: 899e1328cb3f4cf12a09fd0d2b9dc820
 SHA1: c53835482ed9f59a5701860e10a0df36beab254f
 SHA256: 067a0e7166adb48396babbe35ed8a3c38b554798910a9d50c80413b0b1ac93a8
 SHA512: e48bc3261a55d7831fc2d67facb161186a56f4913bc81ff1e1c7abfcd6a9ee7a7f932b6842bbff9783278f2a180a4c6c1ebb5dad0554138c3bb79e3f687cf27d
-
-Package: libbz2
-Architecture: x86_64
-Installed-Size: 112
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Breaks: libbz2-dev
-Essential: yes
-Replaces: libbz2-dev
-Description: BZ2 format compression library
-Filename: ../../../../releases/download/x86_64-libb/libbz2_1.0.8-8_x86_64.deb
-Size: 27600
-MD5Sum: a9869062349ab1794f127724f56b6865
-SHA1: b727876d46d674c81f6a26e686ab2e33e0a34eb4
-SHA256: 95ddd018625872dd08b270e346895cd16b763a59faed8189d022594f4ab1b5d7
-SHA512: 0b61403355b92da83f41a65d1a6189e3fac92af14f0b94d779416b2863b64930b8ce4ac4962ae43ae060d2469827cee8a9dde4fa309084cb4f811ad4f27dada3
 
 Package: libc++
 Architecture: x86_64
@@ -34282,84 +34110,6 @@ MD5Sum: 9f4a0779ed62795f38cbc4fcfd24136e
 SHA1: 6d0de060de42d6f29926d9e72011399bd7372249
 SHA256: 5f1b1e4e75a1de34c4b37a6588dfe5633d5bbde6d41cdc9ec9f7e2dbe2dcafec
 SHA512: 45f0aa0faeb7c15c696b66853ac9a1ca0694eac23734caad0037ceba61ed7b9a7f31f61f2a1c35357cba28dfb395e26f4d17f0b36dfc0b9b20f579eacf2e0fe1
-
-Package: ncurses-static
-Architecture: x86_64
-Installed-Size: 752
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 156720
-MD5Sum: feec8e0ab75bec9420bcf810af375049
-SHA1: 1ebd9c7a8d242cdbb7fcdfe6a2c590a3ed2c4d74
-SHA256: 6d62553335b82c4630a01a6236f188fefcad7ab4fe00efc0c9abb42d82fd03b6
-SHA512: 1e23f098d2e38de25b047ffafe48ab37898b5822f18cf3c321cd4db77f625a47be18a2ea985fc324a480be1968ec3f76fa68bff9c6375831abec9b700ab955d3
-
-Package: ncurses-ui-libs-static
-Architecture: x86_64
-Installed-Size: 240
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 39112
-MD5Sum: 35ea3d807393064a78e5ae3a8b9f428b
-SHA1: 8175ed8b7ac4e48476b3300ecab4aa696c44e0d3
-SHA256: fd762899abf1d0d3566f07244f37819d247e9b06ccfcdded64035c400b45ccf0
-SHA512: 9060d676b264d986c226e02657fa0e712b5e821f019ea137bc8b553b435e0137f188259eb47bf6b71245cc256b5693978b00a1daf4c4afd98f78853b638c16be
-
-Package: ncurses-ui-libs
-Architecture: x86_64
-Installed-Size: 144
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Breaks: ncurses (<< 6.4)
-Replaces: ncurses (<< 6.4)
-Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 35392
-MD5Sum: df780420e781c4ca5b1a05413f9a58e6
-SHA1: b16a3db5b43ae56d5a300a673ae3860a37d41cfb
-SHA256: 7776a8a9a9fab960294c88d536314bdbc222e61ec9b099754642c7deb20b67e4
-SHA512: bee3490a4c5a7eca8e27f51a463115f06ebe51ffc4a5bb01db8f28dfab09903250df3395cbb6aac9552f97810cbba3d11270201c53322ca4314052aa430c712c
-
-Package: ncurses-utils
-Architecture: x86_64
-Installed-Size: 272
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Tools for working with terminals
-Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 92624
-MD5Sum: 7022cfbdce02f2c4ad203f1d7975b54b
-SHA1: 807bb0ed1dab2cee1a5d4ca8d013c367bd6b41cf
-SHA256: 7a935b5b645ddb027fab6b17c5667cd91bec3d63375f55b38961411efc942c1d
-SHA512: 280aae2cc0ac46fee9b4fdd2506a7057fc0b750bf5b21b9d1ed7ece534557ca36f9dfba711dc19dadfb6c01bd2bacdecc2e314fd421994aace5dceded5a7f264
-
-Package: ncurses
-Architecture: x86_64
-Installed-Size: 1604
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 570160
-MD5Sum: 258efb14e2c8b66262b6b998e63306ce
-SHA1: 5b1bbb5827f6ec8fd29b61363d512ea4a272b7d0
-SHA256: 7c2ec934e63aec305e0b20c914d4479e954828c79053e31b3a14e0264afd8f80
-SHA512: f7cbca68f6229dfbf6b5f6c38a9f5412f5b7e7f938942bd3aa6be736dd1738c7576ea027afbf0494b5c2c6548e90cd63d3c55b6360da9033af03adfc201ccc79
 
 Package: openssl-static
 Architecture: x86_64
@@ -34591,4 +34341,375 @@ MD5Sum: 1e06664756a469d05295456fb54d8c23
 SHA1: bf97d55074f9351d9be4940e03d6a1d2151001d7
 SHA256: d58636f301bec5ec4397b4bf6b008025fb724cf10d583d906f50bc6d77549655
 SHA512: 299986a0172abfe6630bbab5c9edce0f52694129ff31ec665d992542b38afac3bfbdefd9979dd0b5069a62112c30e795cc61a5ae95a0219311f0280d5f2cae60
+
+Package: attr-static
+Architecture: x86_64
+Installed-Size: 60
+Maintainer: @termux
+Version: 2.5.2-1
+Homepage: http://savannah.nongnu.org/projects/attr/
+Depends: attr (= 2.5.2-1)
+Description: Static libraries for attr
+Filename: ../../../../releases/download/x86_64-a/attr-static_2.5.2-1_x86_64.deb
+Size: 6596
+MD5Sum: 5e130b43d6e97f5d768574d2ba09afe0
+SHA1: dc64ff1f8b25282f650d2a4005e30ebc565da262
+SHA256: caf886743e557d1e9c91ed975997097dab2549310714f868307f7d82ba6d44f2
+SHA512: fa822282ad4f1328a2dd7c4c0bb6fd6bbee76ab702c1189a13ad85232af2889f0a449d7c5cc42b29cf2dc5597a0fe587f074a3909a123850d8639b417487ae86
+
+Package: attr
+Architecture: x86_64
+Installed-Size: 256
+Maintainer: @termux
+Version: 2.5.2-1
+Homepage: http://savannah.nongnu.org/projects/attr/
+Breaks: attr-dev
+Replaces: attr-dev
+Description: Utilities for manipulating filesystem extended attributes
+Filename: ../../../../releases/download/x86_64-a/attr_2.5.2-1_x86_64.deb
+Size: 52932
+MD5Sum: d74a8064b1a6821d0477ef9461fc90f1
+SHA1: 559e7c49c8a5f0e276ca4b6079084ba07643cc6b
+SHA256: 269a81dbe0dafa2e2e10c1fcc41d575cfa87bfcd4b7cc295bb7a8f59794e6760
+SHA512: 8b8f1dfd8117d2a4870e447eb6d601ef5d3030a26a56f55aa6e8fa9bbac4661814d985e939c84344343ec89c48b9f7cbe9d7715892d70de06230ddec4c3590c2
+
+Package: bzip2
+Architecture: x86_64
+Installed-Size: 120
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Essential: yes
+Depends: libbz2 (= 1.0.8-8)
+Description: Tools for working with bzip2 compression
+Filename: ../../../../releases/download/x86_64-b/bzip2_1.0.8-8_x86_64.deb
+Size: 26780
+MD5Sum: a49983da01781aa9b21aa9c2a4f92b85
+SHA1: 0e2cd0d01a57c8645e2e3ae5819de75b1969f31f
+SHA256: 213b7ec9fc55ddf7b027e38fa607a1903e76cdb3b3657c81cd99fdcacb57dc38
+SHA512: e67746b5745a8ffdf745b48049f13171bd5e2364999712fbadbf4ed74fa697bdb20da20d1a21e70a6f429bcba3e92ae994410f56465a9200bb9c2187f11da7cc
+
+Package: glpk-static
+Architecture: x86_64
+Installed-Size: 1876
+Maintainer: @termux
+Version: 5.0-2
+Homepage: https://www.gnu.org/software/glpk/
+Depends: glpk (= 5.0-2)
+Description: Static libraries for glpk
+Filename: ../../../../releases/download/x86_64-g/glpk-static_5.0-2_x86_64.deb
+Size: 404260
+MD5Sum: ce538f7bbc1ae339bc6f50ab0fb94196
+SHA1: b20c5a06acf8279f6210368d09882fbb3d8825e4
+SHA256: e37f7dbda4a8cb4189cefb4f8e46c4e69b787832e0d2d96e8f37284c2584e428
+SHA512: 8771eccfdf9928d0a00f66bf34d0560f12e4e7ff2d187c8d017ef7cafc3d33a3e94d893a38fd438e6b05aa7deb4865340077b81c6e92a5b02aade4748f077ee4
+
+Package: glpk
+Architecture: x86_64
+Installed-Size: 900
+Maintainer: @termux
+Version: 5.0-2
+Homepage: https://www.gnu.org/software/glpk/
+Depends: libgmp
+Description: GNU Linear Programming Kit: solve LP, MIP and other problems
+Filename: ../../../../releases/download/x86_64-g/glpk_5.0-2_x86_64.deb
+Size: 350420
+MD5Sum: efd14b0fc685d618584c916f3f5bc9a3
+SHA1: 1f35b06a070729bf7551d058c90618c92b04cc3e
+SHA256: 67ba259050f21f78961ef1bbb36596b61db528b679ccdca91a75aa8ccde9c049
+SHA512: a2029f8beeff91e572ccee20c402a6ecf22f1b0c68d5d5fb54a0ccb59dd4d9ba9f04a08517c0ebcdade3803d4c07de67ee9bc4af85a6b563864a675bafa0e14f
+
+Package: gnuplot
+Architecture: x86_64
+Installed-Size: 2844
+Maintainer: @termux
+Version: 6.0.4
+Homepage: http://gnuplot.info/
+Breaks: gnuplot-x
+Depends: glib, libandroid-support, libcairo, libgd, libiconv, libx11, pango, readline
+Replaces: gnuplot-x
+Description: Command-line driven graphing utility
+Filename: ../../../../releases/download/x86_64-g/gnuplot_6.0.4_x86_64.deb
+Size: 915760
+MD5Sum: 90a5acf90833ff4d857cf94ba33cdd17
+SHA1: 69c0cd6932c68b1248986ae14a923e861a808a55
+SHA256: 5e0ab99ce0556eb9cea23c75b3ac04c60433ec7fe3cf1763640ef8e25b92cb9a
+SHA512: 3d17b282c7881e7340b554551195d81c8114ab979cd11261b41758121ba1b5645abf9f99bbf92d0107b38427da8db8544d4c06d66480d807b9a5f1d7d554f720
+
+Package: libandroid-support-static
+Architecture: x86_64
+Installed-Size: 72
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Depends: libandroid-support (= 29-1)
+Description: Static libraries for libandroid-support
+Filename: ../../../../releases/download/x86_64-liba/libandroid-support-static_29-1_x86_64.deb
+Size: 8564
+MD5Sum: a670bd1933468137e25a4b6aa4b7dbb2
+SHA1: 84cc480fdf421383a09754e44f2c51fc3f42f068
+SHA256: f5295f7e3696d5030edeca449a56cf0d6e8be813370165cc2c0a15b8ece889d8
+SHA512: f673a390441735407aeccbe962096d669a5e40226c11aaacd4bfd4c21d6a02e8419c5533947ec19c0c68af30e984e566e8fcd5ab2671513843a3e22770050652
+
+Package: libandroid-support
+Architecture: x86_64
+Installed-Size: 76
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Essential: yes
+Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
+Filename: ../../../../releases/download/x86_64-liba/libandroid-support_29-1_x86_64.deb
+Size: 11008
+MD5Sum: 6272ff6a5a19beb2379993f944cdb0e0
+SHA1: 81eaf25d5a5a4b7e4d0bf7997413d82d6fe11713
+SHA256: 0060389a5bbbe4bc19759c7f7c966f9f6e9130c87909ea5b7b9484322120e292
+SHA512: 7813accc4bb6aeb0c98ba4864d3cee9f9b9a7afd079e4a106d42ef50201812ba60a20bd67f53e00e5de0d06945f88e9da3d3864bb3986c4d21824d64576b4c8d
+
+Package: libbz2
+Architecture: x86_64
+Installed-Size: 112
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Breaks: libbz2-dev
+Essential: yes
+Replaces: libbz2-dev
+Description: BZ2 format compression library
+Filename: ../../../../releases/download/x86_64-libb/libbz2_1.0.8-8_x86_64.deb
+Size: 27600
+MD5Sum: a9869062349ab1794f127724f56b6865
+SHA1: b727876d46d674c81f6a26e686ab2e33e0a34eb4
+SHA256: 95ddd018625872dd08b270e346895cd16b763a59faed8189d022594f4ab1b5d7
+SHA512: 0b61403355b92da83f41a65d1a6189e3fac92af14f0b94d779416b2863b64930b8ce4ac4962ae43ae060d2469827cee8a9dde4fa309084cb4f811ad4f27dada3
+
+Package: libcap-static
+Architecture: x86_64
+Installed-Size: 80
+Maintainer: @termux
+Version: 2.69-1
+Homepage: https://sites.google.com/site/fullycapable/
+Depends: libcap (= 2.69-1)
+Description: Static libraries for libcap
+Filename: ../../../../releases/download/x86_64-libc/libcap-static_2.69-1_x86_64.deb
+Size: 13996
+MD5Sum: a74fe095787c942c020e54f992ecedeb
+SHA1: 8b3aff6c6378719444be3594cf445c2e5ab5835b
+SHA256: 33632c7b7ad7c072246535ab4a3a36182bad969ec227315d7aac0f572c33833d
+SHA512: 301f1d825a46a1ac536affa82e0c811e43d4a465e45fad83efb21969c2b0c893ff609663b5956623b1d39e1eb6a711cfb98ff213dd47143becf6e2ee8dec692a
+
+Package: libcap
+Architecture: x86_64
+Installed-Size: 536
+Maintainer: @termux
+Version: 2.69-1
+Homepage: https://sites.google.com/site/fullycapable/
+Breaks: libcap-dev
+Depends: attr
+Replaces: libcap-dev
+Description: POSIX 1003.1e capabilities
+Filename: ../../../../releases/download/x86_64-libc/libcap_2.69-1_x86_64.deb
+Size: 74520
+MD5Sum: 74e5cb0b5bc3e86dea45f6534567f65a
+SHA1: f94d4e23cf5f785fe68a9ed22cecbd01761f7ad1
+SHA256: 6cd32c14c546256cae65c8b333c516a12dc290f2ac75d6ff79c572f6b5fd548e
+SHA512: 933e0743925bf599768796fc6e2927a889db5ccbee727c4e1090f1c67a0a28fa90b76c9868f49b18d34692d5eb03769ea65e2c21f74a0cdc545c67d819b6ccda
+
+Package: ncurses-static
+Architecture: x86_64
+Installed-Size: 752
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 156788
+MD5Sum: 2212bff834d3a777488cce491b647cf3
+SHA1: fc38ec6f3588a42d7b1a95676cfff3d082cdb074
+SHA256: b0a0ecb59f9ba4bd0e24918fc951094edfca843ae00d8f13682bec93e1a33155
+SHA512: 67d44e7402f7e3e0a9c4b0db324affc3640c5e2e7c69fea40fecb8c48b1c337a423938f694a3a7f2f0a3dc220b7db574c252af1449c842760211c99bd5281769
+
+Package: ncurses-ui-libs-static
+Architecture: x86_64
+Installed-Size: 240
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 39120
+MD5Sum: 594bdbb5cd5fcb883269897bccf4e209
+SHA1: 647a202cd2e783b27c9f693d7bbceceaefccf9e7
+SHA256: 0afee04ac6e282fc690a0e2b4611b83cebc8de315e19f37a1d5dd5ac28ed3e85
+SHA512: bd48dd08ec8a46a2dff06eb65f15814f1721b2cd5092bc4f775d8a5d2fded4a95ef0e6fc8c968789e2b4e2c104e9594a72b26aadf505ac7e2819db1e0c5e691d
+
+Package: ncurses-ui-libs
+Architecture: x86_64
+Installed-Size: 144
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Breaks: ncurses (<< 6.4)
+Replaces: ncurses (<< 6.4)
+Description: Libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 35392
+MD5Sum: df780420e781c4ca5b1a05413f9a58e6
+SHA1: b16a3db5b43ae56d5a300a673ae3860a37d41cfb
+SHA256: 7776a8a9a9fab960294c88d536314bdbc222e61ec9b099754642c7deb20b67e4
+SHA512: bee3490a4c5a7eca8e27f51a463115f06ebe51ffc4a5bb01db8f28dfab09903250df3395cbb6aac9552f97810cbba3d11270201c53322ca4314052aa430c712c
+
+Package: ncurses-utils
+Architecture: x86_64
+Installed-Size: 272
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Tools for working with terminals
+Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 92624
+MD5Sum: 7022cfbdce02f2c4ad203f1d7975b54b
+SHA1: 807bb0ed1dab2cee1a5d4ca8d013c367bd6b41cf
+SHA256: 7a935b5b645ddb027fab6b17c5667cd91bec3d63375f55b38961411efc942c1d
+SHA512: 280aae2cc0ac46fee9b4fdd2506a7057fc0b750bf5b21b9d1ed7ece534557ca36f9dfba711dc19dadfb6c01bd2bacdecc2e314fd421994aace5dceded5a7f264
+
+Package: ncurses
+Architecture: x86_64
+Installed-Size: 1604
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Description: Library for text-based user interfaces in a terminal-independent manner
+Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 570160
+MD5Sum: 258efb14e2c8b66262b6b998e63306ce
+SHA1: 5b1bbb5827f6ec8fd29b61363d512ea4a272b7d0
+SHA256: 7c2ec934e63aec305e0b20c914d4479e954828c79053e31b3a14e0264afd8f80
+SHA512: f7cbca68f6229dfbf6b5f6c38a9f5412f5b7e7f938942bd3aa6be736dd1738c7576ea027afbf0494b5c2c6548e90cd63d3c55b6360da9033af03adfc201ccc79
+
+Package: pcre2-static
+Architecture: x86_64
+Installed-Size: 2120
+Maintainer: @termux
+Version: 10.47
+Homepage: https://pcre2project.github.io/pcre2/
+Depends: pcre2 (= 10.47)
+Description: Static libraries for pcre2
+Filename: ../../../../releases/download/x86_64-p/pcre2-static_10.47_x86_64.deb
+Size: 429960
+MD5Sum: 8c28ca1cb50dead081b8b04475aae013
+SHA1: 0f78f27c5705c5e37a7628d45f9ba69d876f2f86
+SHA256: 68708af5db0ecad630de025e953ab0cdb151d1417c017277f269460fcfa93c5b
+SHA512: 4241ab1bd0be2f57e68f2065f5f5ba4aab6da53137123b6fbb1682aa5f359f72719e3568bc66bb5a682368b2593b006e34effc78338c27d4c39d421e611efa7c
+
+Package: pcre2
+Architecture: x86_64
+Installed-Size: 4524
+Maintainer: @termux
+Version: 10.47
+Homepage: https://pcre2project.github.io/pcre2/
+Breaks: pcre2-dev
+Replaces: pcre2-dev
+Description: Perl 5 compatible regular expression library
+Filename: ../../../../releases/download/x86_64-p/pcre2_10.47_x86_64.deb
+Size: 1019400
+MD5Sum: db196ed1254d4082b6bac1016b5b4f34
+SHA1: f5db309175ec17acf9588ccb74eb56b629c4b7a6
+SHA256: 8a9fe45a775407ef909882f676bc7e971cc32ac36ae90e8239633996b37e084d
+SHA512: 780d18f87945521a0534bb1328dc838a11abf033e7e4f61d075442eb84bc0ea5ab81ea2d0cea431f814696fe842a9d5a77ea2888a8de85680117b686e55e9e2c
+
+Package: pcre2grep
+Architecture: x86_64
+Installed-Size: 100
+Maintainer: @termux
+Version: 10.47
+Homepage: https://pcre2project.github.io/pcre2/
+Depends: pcre2 (= 10.47)
+Description: A grep with Perl-compatible regular expressions
+Filename: ../../../../releases/download/x86_64-p/pcre2grep_10.47_x86_64.deb
+Size: 34844
+MD5Sum: 339699f2a68e2e8e5f837f5d51daaca8
+SHA1: f0fdab439e29d92d679632955538a033d0a13119
+SHA256: b2f5674479b61de98736e7562b28223f84df1b636a4aab7bf560d15fca87f9e7
+SHA512: c43f959469fdef551d3b528c26c826281cef8e023fb24a49b78dabdcf7353e6dcd2a205e76659aea8c0362f0a4ee9739a8d515d07e87fc931fc706e12223b3d2
+
+Package: qhull-static
+Architecture: x86_64
+Installed-Size: 1992
+Maintainer: @termux
+Version: 8.1-alpha3-2
+Homepage: http://www.qhull.org
+Depends: qhull (= 8.1-alpha3-2)
+Description: Static libraries for qhull
+Filename: ../../../../releases/download/x86_64-q/qhull-static_8.1-alpha3-2_x86_64.deb
+Size: 386228
+MD5Sum: 3ee72212f8472d1316fd3a4542ec6c7e
+SHA1: 585a897fbd263a77ff765338b5cef793afdf25d0
+SHA256: 2ad5e35f736c10d498076043c2157ce090e3c0bcaace80585432abf8fefe5ca3
+SHA512: 63ac53d660061417d8f0cfc8da0e19f1e69a91a87af44ceeb8f749b29b4f6fa5bec33f8b7f6913a0d018237bf90970eaa29d1c6ddcfe6cfdacb504ed0a5168ff
+
+Package: qhull
+Architecture: x86_64
+Installed-Size: 4892
+Maintainer: @termux
+Version: 8.1-alpha3-2
+Homepage: http://www.qhull.org
+Description: Calculate convex hulls and related structures
+Filename: ../../../../releases/download/x86_64-q/qhull_8.1-alpha3-2_x86_64.deb
+Size: 715132
+MD5Sum: ee720442e8eba35974640607673f56eb
+SHA1: 683dca016fbc9d2957f812bd445589b3c6f1e8fa
+SHA256: 1271fbf68d83d601d6a85fbf6a4a11f0c80e117d16cec6fdc957eaf52365ea24
+SHA512: 46b0c55168e8ff7b0499073f2e60147159f78f72ce1129e1d26bf9280e411925774bad97da2a6b5edc6cc5f2dc24b32a04090a3501246617796c9a9e3522a3a4
+
+Package: sundials-static
+Architecture: x86_64
+Installed-Size: 4376
+Maintainer: @termux
+Version: 2:7.8.0
+Homepage: https://computing.llnl.gov/projects/sundials
+Depends: sundials (= 2:7.8.0)
+Description: Static libraries for sundials
+Filename: ../../../../releases/download/x86_64-s/sundials-static_2.7.8.0_x86_64.deb
+Size: 557572
+MD5Sum: 822e66c01aaa5f9d4ca80afa722a84e0
+SHA1: c5c10b23083e30603777ec7784ac641a9043469e
+SHA256: 87f9f0ce8d15e2fd9c8925ef6b3e08c12418aefb3f03015d0cd8e7172e087a96
+SHA512: 267262d8e2d92f2d1a18416ccb8aa2776ebf97f6586dc34789399fd2056e9060963bc86e4698a6819b01460ac89e4a15345b8aafa9b76637e7fed89d5d11827e
+
+Package: sundials
+Architecture: x86_64
+Installed-Size: 4684
+Maintainer: @termux
+Version: 2:7.8.0
+Homepage: https://computing.llnl.gov/projects/sundials
+Depends: suitesparse
+Description: SUite of Nonlinear and DIfferential/ALgebraic equation Solvers.
+Filename: ../../../../releases/download/x86_64-s/sundials_2.7.8.0_x86_64.deb
+Size: 940020
+MD5Sum: 7dd7efdd4e819dc55d2448f4a7f5b305
+SHA1: 03a090b180ff404c69e6581023546552ed65c2b7
+SHA256: fb572da6ae26806a6ac7ba7342629d55d0714805240dd1be280a466eb4ceafe4
+SHA512: 4879e180dbd35baea75da44950dad9f4cef60a838f646475a96ff3f52122481cea8f268c781d1ad37e7794953f5099f160c7ce7d5b3bb37ca94739fa2a53773f
+
+Package: zsh-completions
+Architecture: all
+Installed-Size: 1976
+Maintainer: @termux
+Version: 0.36.0
+Homepage: https://github.com/zsh-users/zsh-completions
+Depends: zsh
+Description: Additional completion definitions for Zsh
+Filename: ../../../../releases/download/x86_64-z/zsh-completions_0.36.0_all.deb
+Size: 299140
+MD5Sum: 6666c07f34b2f422d37a0dbb170f8bfc
+SHA1: f6b04587c66e9744cfd21e691374b5f8b754b10f
+SHA256: b221588730f11e071f8a68107e6a3e7b506892ac7b716c192dd025b750a3e7a6
+SHA512: 2cab69a4b4d49a5b7a3ba76c38e9132a49848568f7787786556ae8fbdacde96e9a3f8a509f6dca146731d349300d07a84359a49f5e57d8ae5e3340fd38384b85
 

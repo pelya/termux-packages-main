@@ -33232,3 +33232,18 @@ SHA1: dbd0a88cfe8f4a64bc64ae98294bda3fbf00c3ab
 SHA256: e3f1f874784d81fd06a72286241b56dbeab793dffebc7b6c0469040b2fbd0113
 SHA512: f73c8ab383435b78cfca234aafb8b9ac50aac4cc37d47cc000342b4aa5b1fab807a8df317c81722bb8ca16718ea5d1632660770d82a6f423b7219d17e5f15b9e
 
+Package: zsh-completions
+Architecture: all
+Installed-Size: 1976
+Maintainer: @termux
+Version: 0.36.0
+Homepage: https://github.com/zsh-users/zsh-completions
+Depends: zsh
+Description: Additional completion definitions for Zsh
+Filename: ../../../../releases/download/arm-z/zsh-completions_0.36.0_all.deb
+Size: 299140
+MD5Sum: 6666c07f34b2f422d37a0dbb170f8bfc
+SHA1: f6b04587c66e9744cfd21e691374b5f8b754b10f
+SHA256: b221588730f11e071f8a68107e6a3e7b506892ac7b716c192dd025b750a3e7a6
+SHA512: 2cab69a4b4d49a5b7a3ba76c38e9132a49848568f7787786556ae8fbdacde96e9a3f8a509f6dca146731d349300d07a84359a49f5e57d8ae5e3340fd38384b85
+

@@ -12238,3 +12238,50 @@ SHA1: 4319624aeb2c69c8e269a86e4efe8f3a00a0580f
 SHA256: f903039e6e9b7dc463130fc6056c5efbba585e50f338f42a8345b9addb9771d8
 SHA512: ac920a60a18a74bf2538ee5b754390b7cc61b4834d1476ecc03eba9d8147d0388bc357f3843fd9b00b6c7b3ed9540e0c70f72d2261bf8e8558d736e0f3be38d5
 
+Package: octave-x-static
+Architecture: x86_64
+Installed-Size: 117128
+Maintainer: @termux
+Version: 2:11.3.0
+Homepage: https://octave.org
+Depends: octave-x (= 2:11.3.0)
+Description: Static libraries for octave-x
+Filename: ../../../../releases/download/x86_64-o/octave-x-static_2.11.3.0_x86_64.deb
+Size: 10148864
+MD5Sum: 537ab791d33fd971cd1f6b3ad5919e7f
+SHA1: 38a88bd9df93940a13f8067344e15d3bf330dbd9
+SHA256: be592cb31ff2e483c8615e440c4f9fba02527b5b2baf8362c4cf804d11ad3601
+SHA512: ae0dae2511b067e2329ae163f7e8c68ae60986ce77da5f29b9d9ce1d0503f4ce1b9f6021b0f3c5648d928b61fc9b64d01288578d278be9ceaeb40ff66aaa8f49
+
+Package: octave-x
+Architecture: x86_64
+Installed-Size: 71808
+Maintainer: @termux
+Version: 2:11.3.0
+Homepage: https://octave.org
+Depends: arpack-ng, clang, fftw, fltk, fontconfig, freetype, ghostscript, glpk, glu, graphicsmagick, libandroid-complex-math, libbz2, libc++, libcurl, libhdf5, libiconv, libopenblas, libsndfile, libx11, libxcursor, libxext, libxfixes, libxft, libxinerama, libxrender, make, opengl, openssl, pcre2, portaudio, qhull, qrupdate-ng, qscintilla-qt6, qt6-qt5compat, qt6-qtbase, qt6-qttools, readline, suitesparse, sundials, zlib
+Conflicts: octave
+Recommends: gnuplot, less
+Description: GNU Octave is a high-level language, primarily intended for numerical computations
+Filename: ../../../../releases/download/x86_64-o/octave-x_2.11.3.0_x86_64.deb
+Size: 15170744
+MD5Sum: b66e83a2fde41d368a2df4eaa01014fe
+SHA1: adba0f27a2406fbae9c1b82e213b05f2ec3044b5
+SHA256: 14b70822e37f2bf25bf35b965b9a62305c4e74c8dfc8defeb08a337bd1cdf3f1
+SHA512: 3984681f08d5019742f7081fb1059e577dc60f90f5d2e54331f4df754115436dacd2879e991dc82385ad23454d0c3623c5a197ef2651e95f2244f34e7fd23d16
+
+Package: qscintilla-qt6
+Architecture: x86_64
+Installed-Size: 6984
+Maintainer: @termux
+Version: 2.14.1
+Homepage: https://riverbankcomputing.com/software/qscintilla
+Depends: libc++, opengl, qt6-qtbase
+Description: Qt6 port of the Scintilla editing component
+Filename: ../../../../releases/download/x86_64-q/qscintilla-qt6_2.14.1_x86_64.deb
+Size: 996908
+MD5Sum: 99805ca778ae2a0a8c660f08007a77aa
+SHA1: e09eefc4a3dd87b28d88c1814dc0e72adf5c790a
+SHA256: b2a78a0d6ef0a3cb5ec6c78feb3bd8521d1816f80dd5855a2439309c346ea820
+SHA512: 165263af013dcdc86d2af670a9f167225df2ef9976ffdd7d5c92056e2759db6098d48642ae67f0b8bb9ca5164bd231f3149c3e2d23efcbde869e1a19de8248a9
+

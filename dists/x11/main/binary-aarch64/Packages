@@ -12238,3 +12238,50 @@ SHA1: fa1f3fc12ef44b75cfcf4c0ee3a1009d93a221e5
 SHA256: 06dcd6a7318a878334f04537bca49684591d4156e509cb273f115654915cab00
 SHA512: 46f70caef158885054fa90ed0ce5e4ad56c00f8156b05463b80f231c39c746ee421643edb24d59d1c43cf0c2869e9db5376ab05e3295f32233ff65985e22a750
 
+Package: octave-x-static
+Architecture: aarch64
+Installed-Size: 120472
+Maintainer: @termux
+Version: 2:11.3.0
+Homepage: https://octave.org
+Depends: octave-x (= 2:11.3.0)
+Description: Static libraries for octave-x
+Filename: ../../../../releases/download/aarch64-o/octave-x-static_2.11.3.0_aarch64.deb
+Size: 10616436
+MD5Sum: ccaabf7af40f6f7d8546d40b8d37d98d
+SHA1: e713224c97781af8b28e181561e5abfff0e2301a
+SHA256: 8a6c12e1515ef605c5e0e93540cea9ad3933b402f17d3a8c144d393235cc8816
+SHA512: 99446444b4d04ca2e1bc4df3719e82772783c1abf31b27a7311e82da8b7997410bc9fc4559b1a0e176d7067c64ceddfa7b3b28633392f11d8d09539333bea444
+
+Package: octave-x
+Architecture: aarch64
+Installed-Size: 70116
+Maintainer: @termux
+Version: 2:11.3.0
+Homepage: https://octave.org
+Depends: arpack-ng, clang, fftw, fltk, fontconfig, freetype, ghostscript, glpk, glu, graphicsmagick, libandroid-complex-math, libbz2, libc++, libcurl, libhdf5, libiconv, libopenblas, libsndfile, libx11, libxcursor, libxext, libxfixes, libxft, libxinerama, libxrender, make, opengl, openssl, pcre2, portaudio, qhull, qrupdate-ng, qscintilla-qt6, qt6-qt5compat, qt6-qtbase, qt6-qttools, readline, suitesparse, sundials, zlib
+Conflicts: octave
+Recommends: gnuplot, less
+Description: GNU Octave is a high-level language, primarily intended for numerical computations
+Filename: ../../../../releases/download/aarch64-o/octave-x_2.11.3.0_aarch64.deb
+Size: 14767108
+MD5Sum: 851c284a869ecaff3421dce9ee7578ef
+SHA1: 3cc03cdd96194a47e8d5a9f821a49c8c36e4d8b9
+SHA256: 55b4b60a3c47c8a10430939331f3c8fc54b2f1a3d169e3bd756f44a0319e61fa
+SHA512: 3c80b8b981308bde7c79739564d5eb7c9abe9b3b0382f61046c5a71e11a8a5f891ebaaa8f2365ef365ce5801ba56ae7d5abe828a237218d44c09f48c80b23e8f
+
+Package: qscintilla-qt6
+Architecture: aarch64
+Installed-Size: 6872
+Maintainer: @termux
+Version: 2.14.1
+Homepage: https://riverbankcomputing.com/software/qscintilla
+Depends: libc++, opengl, qt6-qtbase
+Description: Qt6 port of the Scintilla editing component
+Filename: ../../../../releases/download/aarch64-q/qscintilla-qt6_2.14.1_aarch64.deb
+Size: 917060
+MD5Sum: e9e0641eea6f8f267cef8cf975a3ef37
+SHA1: 9a0f4b5147ec124e75fb60a78f34bacbaac78fdb
+SHA256: 685ad63fb11255e40636e353f2c25bdd6e28bdd0d50de5202014111a3bd0290e
+SHA512: 37a4780b28c6fbb9d9be1b653b59e1bd2fbacfbfcf4bf545593cb2777ca3176e9998714d1b1cb93923780df6f6d9a5edef881fb1b0f1707d29165777b1e7e446
+
