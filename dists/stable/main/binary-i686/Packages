@@ -33641,3 +33641,33 @@ SHA1: 56242d4e69be7d95615638cb456dd28fa72bce51
 SHA256: 7cf1bed0405eb9a16eb709e7cc5925833d6177c80768a21ae937a3bcd8d3cb80
 SHA512: 99a1b46c7b47e5131d3cee48ab0e625c7f231e036c7cd3c6a865289dea2f9f475e60f299680ce478d905a9244945ffcf9aaa0683975be549c22f7726441c7ce7
 
+Package: libabw-static
+Architecture: i686
+Installed-Size: 1040
+Maintainer: @termux
+Version: 0.1.3-5
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libabw
+Depends: libabw (= 0.1.3-5)
+Description: Static libraries for libabw
+Filename: ../../../../releases/download/i686-liba/libabw-static_0.1.3-5_i686.deb
+Size: 137428
+MD5Sum: e988abbe837da33cfa8a41c62deed3db
+SHA1: 2d6db1d480c8f63e8de8f4ccf06cb7fb9fae5ff0
+SHA256: b3d9304f6081031ffe0e3a36222af467adcefb824b467ca73f2ab460d2601044
+SHA512: ced190c6a4346cc689ff172b1bc51a781ed86450082c3622f69f8a45bf26817d197afc037cf413bc7d63491b426309a84a6cda371b9c9b13b28199633965666c
+
+Package: libabw
+Architecture: i686
+Installed-Size: 444
+Maintainer: @termux
+Version: 0.1.3-5
+Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libabw
+Depends: librevenge, libxml2, zlib
+Description: a library that parses the file format of AbiWord documents
+Filename: ../../../../releases/download/i686-liba/libabw_0.1.3-5_i686.deb
+Size: 92444
+MD5Sum: 1542b4da7c902a5ba753a4ffa3781056
+SHA1: ab427acd47324260dc68555de09bbfcebeff1d4e
+SHA256: 045b8ad179fe3e60cc4bb905d8fa91b92da7b23cf7f51adb090f7c17da5ae503
+SHA512: e693944205dfb398d3c6d795a33ed46f852b3ab16952c0f28ad098553de58387eccb4e8f9ec532603a787875a0cdb5c8bb078f6af9c157e6078a2d62c6a94f74
+
