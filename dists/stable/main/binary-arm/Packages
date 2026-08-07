@@ -3915,21 +3915,6 @@ SHA1: df78c84743f247f26950565793e75575cc4c168e
 SHA256: 84403a97b96c6ce6d889eaa33f012f82af166020ad27a8b31aece379e28cd6ac
 SHA512: 0bebe0a520cc448f269bedcbf96d73b37348216784de1504af6114129cc5949ed8e8fcaf6401df6a7d6b936a1b1ecf787a55532c42688a00b0b08ea8eb105173
 
-Package: doxygen
-Architecture: arm
-Installed-Size: 37764
-Maintainer: @termux
-Version: 1.17.0
-Homepage: http://www.doxygen.org
-Depends: libc++, libiconv
-Description: A documentation system for C++, C, Java, IDL and PHP
-Filename: ../../../../releases/download/arm-d/doxygen_1.17.0_arm.deb
-Size: 9773424
-MD5Sum: b85de6dcd29dd1b5e86dc283b9e9988e
-SHA1: 61552bc3b5c1014d428116cad55d4e88c2712c0b
-SHA256: e8a08297a98bf7e1d33f6a9fe342247a219dfa9c2c0656d4799d61882e869643
-SHA512: 8b2db1e2f52d967894193a0b51396fbbe4a40b2773e9ea78b1121d3d65ac8b6dc90af27f7aeb17e29ad13582265e72365d4441e4ff72df66f11010012a6d8eb0
-
 Package: dpkg-perl
 Architecture: all
 Installed-Size: 940
@@ -7898,21 +7883,6 @@ MD5Sum: a850c7be36c4a1090cd054519c8f721e
 SHA1: 1c7c09415300da8a9e0b3f3e0a622a55ab17f621
 SHA256: 397df5adde2d57ed74fe825540925f23c2d4d3c914ea1cfdffa9edd41797445a
 SHA512: 94fbe7abcab1fa96fb62f50b148c2cf059162b8545cd08748ee52d4d26505abd40a0be8e68b3a581ade13a8304d224c667c5398f028d880dbe81529272144c51
-
-Package: iconv
-Architecture: arm
-Installed-Size: 52
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Utility converting between different character encodings
-Filename: ../../../../releases/download/arm-i/iconv_1.18-1_arm.deb
-Size: 8992
-MD5Sum: 202b215e435f179dc58efc8d7df5afe9
-SHA1: 7bc507279ae3be0513087447a67d7bf110731df9
-SHA256: 461cd9fd89f19af7fab4b32c85b05ef5782e2cb7f10363212d5473063ab675d1
-SHA512: 2b6a4198a656ac2c4bc07fb2056fa385f9ff25ca4006fb5911377a5b75b50579c4e7dff84c0a064cd5c0c5756934566586e9e4fbc8d7ec19adaf197bdf166565
 
 Package: icoutils
 Architecture: arm
@@ -13099,37 +13069,6 @@ MD5Sum: ee740cb29fa8aeb8db7eb6f638d9d9c0
 SHA1: f4a4908f8f6c9b79b2878880bfa5bad416c05551
 SHA256: 1efc78368e1f28f4f154548d9b2af2daeb1f90caf79ee37951420db83511700c
 SHA512: db7c0f7b4d68a68dc8e88a60bcc5455a133f2274a8e1ecccb87f2b2e2e39bcb7019a3b1d3b376c965be6f377c0936b359f0fecc3c0740a5c06813cd43da30edd
-
-Package: libiconv-static
-Architecture: arm
-Installed-Size: 1128
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Static libraries for libiconv
-Filename: ../../../../releases/download/arm-libi/libiconv-static_1.18-1_arm.deb
-Size: 550452
-MD5Sum: ba23ebf62cff8ff9ad8af6b268e4d7b8
-SHA1: 27e91d3f5bcf36bd748bd0201e8d490384629a69
-SHA256: e46f5da1e82b4078e264eb0deee29ccf978ec8917160e73dc3fb652226214503
-SHA512: 6c80096d280585bd4f6299e962ce6dc6be6956b2776ada3042948e934723e93b583f2c290436574ee5a9f5c07d20e2aa48a5a67543d74793281dab0fe0264bfd
-
-Package: libiconv
-Architecture: arm
-Installed-Size: 1168
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Description: An implementation of iconv()
-Filename: ../../../../releases/download/arm-libi/libiconv_1.18-1_arm.deb
-Size: 554240
-MD5Sum: 94656c6e36f38fc9f58ba0651f36e1a4
-SHA1: be8fa3dc12b704a8566b45bfc69ac24097ef6e50
-SHA256: b2aa858a9866aa25aeada594fb5a75a7afeac337272deadf954d90e70295f0de
-SHA512: 2158c8a459ad56e2b296958a90e32905565a06a42a61d4fb726c3b664d717c2c046ba08cf4f68a70133bb056daf916c3d7c916c27e61695d24b3301c80692c96
 
 Package: libicu-static
 Architecture: arm
@@ -31183,21 +31122,6 @@ SHA1: 58fa31e9aadfc4e052a71238fa83976e6924f0c5
 SHA256: 78575b30cbacf531b52717f76c6dcddfb13d1d75e51718ae87fc26e3d17b486e
 SHA512: f34b04c8ba284b9e16730c325447694e9a89f19958c34fb71a6249d9cb5ae188f56b97924bbd5d3f8f1a1847bda5934c952727bd6a20547e353ca3739c786247
 
-Package: libc++
-Architecture: arm
-Installed-Size: 984
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/arm-libc/libc++_29_arm.deb
-Size: 318200
-MD5Sum: e7fbbe9613c1c1aa1163984dd152480d
-SHA1: c688726107b508134c90ba3eb676f3697d7a611a
-SHA256: b89b198857a0e613eb1f72147504757ab45712151fa3536d07ecb42d18aa1237
-SHA512: 516495f84aaf6dda75c545cbbf8b76427753555a489cc2da1b9e61adc3ca1964779a768f5077685cef6e1dce7e134040d65a9c98813f79240e45eaf1a5e2caab
-
 Package: libnettle-static
 Architecture: arm
 Installed-Size: 2620
@@ -33129,36 +33053,6 @@ SHA1: f6afc4f1dd1def69ac4523a297117cc224aefc09
 SHA256: 41d3178f8c61fd814e52cef7133c978e6b413c4fd3009adc10b1d645275fe1f9
 SHA512: 6a03d39342bbd86f7fe8bf31ea2846af6016276a349863b6e52439d9e8b748b74393befc42cb328576461bd7a941dc61e64b099f038596a97c0d9e2d4ad5fc98
 
-Package: libmwaw-static
-Architecture: arm
-Installed-Size: 47172
-Maintainer: @termux
-Version: 0.3.22-1
-Homepage: https://sourceforge.net/projects/libmwaw/
-Depends: libmwaw (= 0.3.22-1)
-Description: Static libraries for libmwaw
-Filename: ../../../../releases/download/arm-libm/libmwaw-static_0.3.22-1_arm.deb
-Size: 4986560
-MD5Sum: e2e48d7c69b372934a7fc8e875618169
-SHA1: 0f3987efd6ed14a8a56bd0adba9c0008e1b023d3
-SHA256: 3090965f434eecb370bfd2a7dda814a4f19906e8c16120fe1bd6e9ac5e40f224
-SHA512: 7ad23881bf94efefe6a34e088c7d7e88b10a5352455ff2b0ef9dc30e43f723c2063fd12c168f894ec4b176c1eb8c1341a81c15072c2e8104f37330a2faf3f7e6
-
-Package: libmwaw
-Architecture: arm
-Installed-Size: 3808
-Maintainer: @termux
-Version: 0.3.22-1
-Homepage: https://sourceforge.net/projects/libmwaw/
-Depends: doxygen, librevenge
-Description: Import library for some old mac text documents.
-Filename: ../../../../releases/download/arm-libm/libmwaw_0.3.22-1_arm.deb
-Size: 1447032
-MD5Sum: f5a6c5366ba8f3e4f3666a2e0821d1d4
-SHA1: a6711e0537db664a2a2ed33b678788745a917958
-SHA256: dae85ab5b322177518322695434718ca5b04a3cda45cac2a320c1dda91ebc1e4
-SHA512: ca853f4f99fee835374c175cd9ea5a190cc07af9fa6b8935478b8c946740c285ffb1fd8ff2aef8fadc4aa2b08dbea9dc04bca56c3555d405e28d09e45ec23e05
-
 Package: kotlin
 Architecture: all
 Installed-Size: 92816
@@ -33859,4 +33753,110 @@ MD5Sum: f66b4a9fe691d967feaeb338bf743168
 SHA1: bbeed2f5ffb0ae93646fd8b8e8f33c58f90f8181
 SHA256: d2f11c3b4653fcad281a854446c630414273e14f86d33b955d1323bfd121ba4a
 SHA512: 96944904c59b642c980a717929acfdf8c992086ee702bc35627a0175a521733dd63b13601afd5c8eed7399856d984a5e6ec5493f06106134aac162cca3849c59
+
+Package: doxygen
+Architecture: arm
+Installed-Size: 37764
+Maintainer: @termux
+Version: 1.17.0
+Homepage: http://www.doxygen.org
+Depends: libc++, libiconv
+Description: A documentation system for C++, C, Java, IDL and PHP
+Filename: ../../../../releases/download/arm-d/doxygen_1.17.0_arm.deb
+Size: 9772192
+MD5Sum: a008a2ade68c04f47e2670754c70611e
+SHA1: fddea5b5c10e4e5466e22e39dad650dfa719b40b
+SHA256: 222aac9a95fc72564a188e8a3d19428a13fbb7e6adc50e2ccec5cc28f82c4e41
+SHA512: 3e01f98712163f88f4cf87f1666312415f4daccba68af36f86d7467ed88b83ee54ef6189a7f4397042ed6a87dab1d7d566a7cdea5db46c5c2efdf98cefa2ce8b
+
+Package: iconv
+Architecture: arm
+Installed-Size: 52
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Utility converting between different character encodings
+Filename: ../../../../releases/download/arm-i/iconv_1.18-1_arm.deb
+Size: 9000
+MD5Sum: 691bcbbce56fbf95e3c063dc3ba5861e
+SHA1: 0845b0f0d4fff8a2226bf23d24882c33e3859504
+SHA256: 77fc2dd41c8c3180791b6ec805008efb66097f5a1dc6ddb249f9164e8215df62
+SHA512: 7d938e2e900e25fa54927eaac82f6fe0363070ceb9952a89bae4d4c939405e2a6bfa07967b4c647c8c9e954ca68a32ade94d7e3b4489811c1ca14a4e00ecfc0a
+
+Package: libc++
+Architecture: arm
+Installed-Size: 984
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/arm-libc/libc++_29_arm.deb
+Size: 318076
+MD5Sum: d0f7347ef98ec3ac42cbbbb190a24400
+SHA1: 5caeb37f872c4ad6229affae92cc40451b46b21b
+SHA256: ba36e9e23a6c93dc4c6c5e417f2789928c19884df845a0add5435ebf7fb01f1c
+SHA512: 11e6ee366262ebe8a3fb55783ca0420f2c89cd0589ffff16ac60130a498e4916e80b5001cceead61294e602bb42c20a80ff118e6b4c08e9da7510ac80f9eaa32
+
+Package: libiconv-static
+Architecture: arm
+Installed-Size: 1128
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Static libraries for libiconv
+Filename: ../../../../releases/download/arm-libi/libiconv-static_1.18-1_arm.deb
+Size: 550188
+MD5Sum: d9facd7a4717722851db2fad7c98936d
+SHA1: 587087ce8ff807985ed804f082cb4eec56fbe5c7
+SHA256: 62fdaf760b12da962dacb125441c69ee099755545732cccbc14465e70258640b
+SHA512: a891ac5416948fea10e109a5a3a6733a2d47fd004922de482e9bbda328f378727555cfd4b6af79d4c9d8a5cb5abc70ec9dec721bc1d74beecd5d6c20397094a7
+
+Package: libiconv
+Architecture: arm
+Installed-Size: 1168
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Description: An implementation of iconv()
+Filename: ../../../../releases/download/arm-libi/libiconv_1.18-1_arm.deb
+Size: 555784
+MD5Sum: 90f01c5ea0f0653e349f2c8d877dc290
+SHA1: 25656c1617e383ea4305b923e4c90645feb6de59
+SHA256: 4fc4d6f35e62b63c31dad02a9ab8bd7df67f41e66e1074d5dd03b80fb0063d90
+SHA512: f3bdcc984ac28d6c0e921208b707180978f4ac4b8b485cd3634a1c52e57ef2a66433d5c86e7c22dcfaf3af920cc8d52d1d3bfd4867374290b8febb5edb0b7e53
+
+Package: libmwaw-static
+Architecture: arm
+Installed-Size: 47172
+Maintainer: @termux
+Version: 0.3.22-1
+Homepage: https://sourceforge.net/projects/libmwaw/
+Depends: libmwaw (= 0.3.22-1)
+Description: Static libraries for libmwaw
+Filename: ../../../../releases/download/arm-libm/libmwaw-static_0.3.22-1_arm.deb
+Size: 4984628
+MD5Sum: 3ac8c693fb53b44b8cc9fcf8c8199577
+SHA1: c79d5da8af684be5fc509b3e011c266bdfa78442
+SHA256: f6b4a4aa455957f78306c866d68481df50a579ffbfd51eb3407cb850385dbeea
+SHA512: ff94bc5b58118466510b60d96bd39c73d5e66d61677d08a8d6048afee140b46040c8a9dc3c915ceeb26c8f1a9497cb6540df4968556be0c4781c06540bb5d81f
+
+Package: libmwaw
+Architecture: arm
+Installed-Size: 3808
+Maintainer: @termux
+Version: 0.3.22-1
+Homepage: https://sourceforge.net/projects/libmwaw/
+Depends: doxygen, librevenge
+Description: Import library for some old mac text documents.
+Filename: ../../../../releases/download/arm-libm/libmwaw_0.3.22-1_arm.deb
+Size: 1446896
+MD5Sum: ba24708637d32211eb36e2fff636d4ab
+SHA1: c7eb01c42bee7435f56a2ba035da84b6742b925b
+SHA256: 1ea1be60d45c4140583b7cb61764e769e91c7d41583fa159dae35d390bde7f1b
+SHA512: 84152d8aba445e5c94b39e3a7a03c27e070edebf13c5620ce02673d7c0f71ded13cb450b95aa95e8c84cdfe405a103a7a0470177aee8eb7b61727eb7874d2c1d
 

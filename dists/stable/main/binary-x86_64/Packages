@@ -4351,21 +4351,6 @@ SHA1: cbc05cb3c98ea9d55f55d27c0b34b73e6612e0cc
 SHA256: 31f2bcc0c66516042f3f9bd4ab94fc61782450e8134f94e02e802f6f0543eb27
 SHA512: 9cd16faa54ba56ea6c953721a880d25a8353888624da28886f5b2eae7465ea2592522f58e5cd6c2e2965a17830689e5292046424dbda7c20d772eceea42b9a9d
 
-Package: doxygen
-Architecture: x86_64
-Installed-Size: 48508
-Maintainer: @termux
-Version: 1.17.0
-Homepage: http://www.doxygen.org
-Depends: libc++, libiconv
-Description: A documentation system for C++, C, Java, IDL and PHP
-Filename: ../../../../releases/download/x86_64-d/doxygen_1.17.0_x86_64.deb
-Size: 10760044
-MD5Sum: 5c04dfbce02fb63b6f5254707a13dc80
-SHA1: efe6cd7c2e222bda656c8c8775eb42b8f2659679
-SHA256: 345912ab8cc03c88d2cc7f6eda1b9c6b50f40b091ad7d3caf914ca2f7aa97718
-SHA512: 3a635897081267003f2b7caab227d8a2a3dad855215166a0096e6f4981f171aa23b538dc942786f3f429efd19fce56db688a36c252cc57af12dfb1afc83e74fb
-
 Package: dpkg-perl
 Architecture: all
 Installed-Size: 940
@@ -33823,21 +33808,6 @@ SHA1: 5b6cdd5014bdb98aea6cb563f557b5c3ce45d40b
 SHA256: 6ba6a6722fc99fad93cd95ed15f5b24768b137dc8652bf792e1559fe7b07cb82
 SHA512: d2b37caefb813f42f4e1f9817e86db60a69b8e69c4991df1ce71780e4b06814f2f743df895c5f44c0ad3bfc1f1c819bd061a9a2da983b7f7089f31305e3ec5f1
 
-Package: iconv
-Architecture: x86_64
-Installed-Size: 56
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Utility converting between different character encodings
-Filename: ../../../../releases/download/x86_64-i/iconv_1.18-1_x86_64.deb
-Size: 10176
-MD5Sum: d3aed2ff4567072eb0f8f6affe1c9915
-SHA1: 09da2c61d6f72bd574fc31bdcb5e7e9d1b55a22c
-SHA256: f3949ac088191164aba10cf3ae37661584056dcc8fa90d081c122a1c1430c7b0
-SHA512: 82dd9887020252b5c3c7fdc8e6074e8365f4be3f97b887bce6211ca29b60add7d9f5c6c8789f502bcf1e1ee2e4829adeaccf709fd349cba6289f1d6488672cec
-
 Package: libandroid-posix-semaphore-static
 Architecture: x86_64
 Installed-Size: 36
@@ -33927,37 +33897,6 @@ MD5Sum: 4be8953a597b9592b91c06da36a7b95a
 SHA1: ef309b61d30b0aaa52d53da650c58b8b2d92f6c8
 SHA256: e81eae91d3459c3e588c63c926666301989dc22a14ace6abece46ec921beeeb2
 SHA512: 950eac0ff9f0dba4d9a203c28f91870c021acafedc9bdc55c9a97ba4be303aa5b1ca13728dcc865bb9e18cbecbfc5632ed9b8e72cf68d9e67a0fb35378114c4f
-
-Package: libiconv-static
-Architecture: x86_64
-Installed-Size: 1200
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Static libraries for libiconv
-Filename: ../../../../releases/download/x86_64-libi/libiconv-static_1.18-1_x86_64.deb
-Size: 554884
-MD5Sum: 2562c01639ba8d1e26c179b1c2a46e72
-SHA1: 5d436fde3eb4d54e60b4213f01478a0b96cde937
-SHA256: 7a6b879008b73a7ceaebac2c788f37b9cc4490cee4db0f8f1e038a012e20661d
-SHA512: 096000b9d708f76ddae39c1a70701aa78079fd0533322ad3ddaf1000bdb187af8d4d90c3145265b1af62b3e701df4a66021dddb378f81e01a01a911fd82bf137
-
-Package: libiconv
-Architecture: x86_64
-Installed-Size: 1216
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Description: An implementation of iconv()
-Filename: ../../../../releases/download/x86_64-libi/libiconv_1.18-1_x86_64.deb
-Size: 565144
-MD5Sum: 641c31f928281a9ceb0eb12591203022
-SHA1: 06fa99faeee30d448cf25720714e7b417bf495bc
-SHA256: e95ab15168f2ed2aafd98115622117ab60f1b98f8743a89acc101fc7dac67cdb
-SHA512: cfe27e507e962f1b7771527215884002761e1a2be975b9896148a91408a2b5795e73e89a395e84b66d078bec94fc667988de1917d8021eecd7f1311b0029698c
 
 Package: liblzma-static
 Architecture: x86_64
@@ -34147,36 +34086,6 @@ MD5Sum: 512aa645a235ca01cc143beb024ea525
 SHA1: 36ff35ba3808075e0f439fb20dc2828248313e9c
 SHA256: ac274b900d9444b25c261b53c2c53a5a24ffdde35e3cdb3ff7077dae9f491b45
 SHA512: 15a92c8c7b4f4448f2130ca28ddacf7885a74b50fb8ea0c0c545eac758f399c3016e3d72a68bbada1ae462e45617cfd92b02c9208ca78036542f7300ede2d468
-
-Package: libmwaw-static
-Architecture: x86_64
-Installed-Size: 44552
-Maintainer: @termux
-Version: 0.3.22-1
-Homepage: https://sourceforge.net/projects/libmwaw/
-Depends: libmwaw (= 0.3.22-1)
-Description: Static libraries for libmwaw
-Filename: ../../../../releases/download/x86_64-libm/libmwaw-static_0.3.22-1_x86_64.deb
-Size: 4237856
-MD5Sum: 6f0c3b2e62ab75f03a18c44cefda8586
-SHA1: 896d7b6ec40de6b3cce94f17bf36001eb8fc5eb4
-SHA256: 5eb575434f07b53fc1206be07a3b6c966da6638fc985da55f58ef0938f048aa2
-SHA512: 8afe596d691bfb3f7590b550c4c29d29f08bf31b11c3e46bc85f2c6e196ead2a6c61e1de0910beeff77c3f07600d31296360d07238e2dcc65968a4ba31159c70
-
-Package: libmwaw
-Architecture: x86_64
-Installed-Size: 6036
-Maintainer: @termux
-Version: 0.3.22-1
-Homepage: https://sourceforge.net/projects/libmwaw/
-Depends: doxygen, librevenge
-Description: Import library for some old mac text documents.
-Filename: ../../../../releases/download/x86_64-libm/libmwaw_0.3.22-1_x86_64.deb
-Size: 1776012
-MD5Sum: cf413dab41d006ec7e344b60b8fa2850
-SHA1: 7cd64f4df6b89a99ee1c3c192728d4ccdc06f103
-SHA256: b50a89ae0983f15250ffa6d524a13f27511a32f57499228e7f2fd48e3ac6909e
-SHA512: 5039264b788bb7eb2f5764ca3f82281024a977f349307bf9de1fc362192e2303afa82878e8fd3662c5f043165d7c9e97f9fb99b0c21cb4423429922a9b19106d
 
 Package: kotlin
 Architecture: all
@@ -34906,21 +34815,6 @@ SHA1: b810a5a677778477618c0e9bbe4a391113af395a
 SHA256: e6c552ca72cf0dd880d8646b272c7282d5bbf17b8ac8d6da8db39ccaafaae057
 SHA512: 5b5829015812cdd5150551749b4524f6caf0900855e4b3e1c3675c56046f1d83a29d5b851aa7065f4b99fc5a3e88e7bdd00f72492460d1bb432590b3340e3f52
 
-Package: libc++
-Architecture: x86_64
-Installed-Size: 1348
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
-Size: 359532
-MD5Sum: 7f6addf41731af3fc870e14fa7bc5774
-SHA1: f8b6f8d3250d64a471d8edc698f813f8f296b163
-SHA256: 1c3374fe8bc8cbe3cd44d53411227e895f40c3f49e5890fdf6a74868194b7f5e
-SHA512: 14505d12f2ff89a0ca68db9e0812d62c9d4b0e4a110f674ad15f9fb7f9b509718eb0006397a10348c2a0ac3a20b67b687656a5cf4dc56dc51a4bfb541c7bf087
-
 Package: libolm
 Architecture: x86_64
 Installed-Size: 336
@@ -35325,4 +35219,110 @@ MD5Sum: 2f074541d304abd2e880d86371361b9f
 SHA1: 9bb0ed3398b4131a4ae3b797806233cfa318989a
 SHA256: 38ab6611afe2084399c915fc3e2e6d5a9eb294480699cb16ef46a176cfe50141
 SHA512: 696fcad701f9562c5ec66bb894f023c71369c74a2b4ee15843f75d7c489ad2b1fc03d9f7fc2d74ed4119699dc6ebc5bb9551ff9882246f4647271591bf3d2aa3
+
+Package: doxygen
+Architecture: x86_64
+Installed-Size: 48508
+Maintainer: @termux
+Version: 1.17.0
+Homepage: http://www.doxygen.org
+Depends: libc++, libiconv
+Description: A documentation system for C++, C, Java, IDL and PHP
+Filename: ../../../../releases/download/x86_64-d/doxygen_1.17.0_x86_64.deb
+Size: 10766876
+MD5Sum: 54fc846f95fe2283b0e2c31208c5c1d0
+SHA1: eacbe5033b9f44b0a117b186641d690637753e37
+SHA256: aa647e44457b35af8fd70101b31c38221dd047c8a86ecf36e227f6d6466f9355
+SHA512: e54b3b8b664c433eaad65e50a7c11dbcaadb088f831cb38a06899485d62057d3614edf1143d0692a98d243c192b6358dd141e64ba72dea35968ab6c0515a415b
+
+Package: iconv
+Architecture: x86_64
+Installed-Size: 56
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Utility converting between different character encodings
+Filename: ../../../../releases/download/x86_64-i/iconv_1.18-1_x86_64.deb
+Size: 10176
+MD5Sum: 3b14ecd218ca56e6d4c5fb8b14f3c354
+SHA1: bd1bd02b30f0a4f22938464b53145593b588fdce
+SHA256: 82046444ba3343aae47e317a1aff588034f2d24987ee62867b500b7d8dd1b982
+SHA512: dbf92a3d9e9d2c500c26e8a1590a6e4fb354cedb70ad895e0ace97ab4b007660986694dfde149a14cf3b94a931415edf8920de89e4f0afc8d44a1c9a3a621b95
+
+Package: libc++
+Architecture: x86_64
+Installed-Size: 1348
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
+Size: 359628
+MD5Sum: 701f73a17f86b70a2c1661e4f6a65fca
+SHA1: 3aeec37465e9da2a520f1bd4bf16ec1d955db48e
+SHA256: d7b9644b0eaa934392f2e8d6376ff50b5deb1454f6963d9bc9bf0197f35576be
+SHA512: b8f405ccb541ca654b1bc58d02bcd775bb30607c459b3c04a56363b6fe080928d72679b345f8cb00fea1d542c20999c554ce1238d63e3d3e1a03065b30b37257
+
+Package: libiconv-static
+Architecture: x86_64
+Installed-Size: 1200
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Static libraries for libiconv
+Filename: ../../../../releases/download/x86_64-libi/libiconv-static_1.18-1_x86_64.deb
+Size: 555540
+MD5Sum: fb516f4f44f4aa3b667d0f5a769b0fd9
+SHA1: 91fc1f50418e50f94f6bd144f6253881c4d62dfe
+SHA256: 2855c33d37719830cbdbe88b43fcef71ae9fdb8e7053d0b526cd2f18314267a3
+SHA512: 8d0ceb600dc9fc10515ba4dd0094b30dfc044855def0412b33f2fd96e5e155cc11b3c303d48f028302c4938cbe06326e1748b905bb1b0efcf4ec59334a397744
+
+Package: libiconv
+Architecture: x86_64
+Installed-Size: 1216
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Description: An implementation of iconv()
+Filename: ../../../../releases/download/x86_64-libi/libiconv_1.18-1_x86_64.deb
+Size: 562620
+MD5Sum: ec25efae70760fc30a280e311b63d015
+SHA1: 0b710740c11521bf0fc445c619dd1cd4bce0b8e7
+SHA256: 3beff461efd2ef55200af63e81fa87db4a36a184cf0f855a4a7b0bee43992f70
+SHA512: 6a0635b81976c2674d5daee5299f2dcd6a2b622737882f3cb469f1479ae85fb10846f8fdf658f7aedde1e552615fed28aa2288f24d4d16a96df66fb26f45d24b
+
+Package: libmwaw-static
+Architecture: x86_64
+Installed-Size: 44552
+Maintainer: @termux
+Version: 0.3.22-1
+Homepage: https://sourceforge.net/projects/libmwaw/
+Depends: libmwaw (= 0.3.22-1)
+Description: Static libraries for libmwaw
+Filename: ../../../../releases/download/x86_64-libm/libmwaw-static_0.3.22-1_x86_64.deb
+Size: 4239296
+MD5Sum: d83afa4a08cadd10679ba7ae1b55132b
+SHA1: 5600f943f738b1b4d5e6b666967213634bd26f54
+SHA256: 0bd3db587b7552c4c80062dea129554f1d2ea516eb8d1902f5c34e2f76a2707f
+SHA512: d8a69147acb1278f48d94aa9d76a5c446c0329825acdd5e4cdaefe59d64a7bfd6ea9d42ee690247c8b3a149c046d71532f91d8c5afc909b63b605fa895131b25
+
+Package: libmwaw
+Architecture: x86_64
+Installed-Size: 6036
+Maintainer: @termux
+Version: 0.3.22-1
+Homepage: https://sourceforge.net/projects/libmwaw/
+Depends: doxygen, librevenge
+Description: Import library for some old mac text documents.
+Filename: ../../../../releases/download/x86_64-libm/libmwaw_0.3.22-1_x86_64.deb
+Size: 1774600
+MD5Sum: 808c189ed1ab049f5464d18137d23838
+SHA1: 0e5f7a1a1e589a0b60f0685f70cdb6b256ccdff5
+SHA256: c4c8a67a7da70fe6bdfd0eb29021a974a08847434804c37d840a5d7c15b4f3f4
+SHA512: d038ffaa5cf947c2cae61e1a352049977106345b8d845f74330506845e26384bf9625701c1db5b6ceff9a8e808e7cf05513eb292df20eea99b2ae787e4c9cbad
 
