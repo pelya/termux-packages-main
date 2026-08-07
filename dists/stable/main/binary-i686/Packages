@@ -34578,3 +34578,17 @@ SHA1: 53fca9c650bf6c3e96d9498c1bfdd2172e0bcd04
 SHA256: 2eace9d99062e8bce8d040762b71e2b7abb5f79f7478bf4fb7d61c93f59fc17d
 SHA512: f145f6adfa43d1ca2b37a6ed924bdcc89f6f0e398b09846e75ed757843a4059ad4f1e5d1beb61103fb482d0202443bbe22c8be53bbb82caa265446a93241973b
 
+Package: xsimd
+Architecture: i686
+Installed-Size: 2412
+Maintainer: @termux
+Version: 14.3.0
+Homepage: https://github.com/xtensor-stack/xsimd
+Description: C++ wrappers for SIMD intrinsics
+Filename: ../../../../releases/download/i686-x/xsimd_14.3.0_i686.deb
+Size: 177188
+MD5Sum: a44376f1c8728723df1f54f6ed37dbba
+SHA1: 8095094ce0ad7e123a030a7ae8d97ffb3bb6ec2c
+SHA256: 641c174389ae9a12ecd0a8a1e34f0947a1cde6c006303d64d273dee020a53efe
+SHA512: 5249b13e8e2ce1632614ce162cb368e3fde9cee0529317a629eacf8566ab5f4eaa1d6cbaf3f3c2f370a0d7efc281267d1396930a52a58d44356356fcae51f815
+
