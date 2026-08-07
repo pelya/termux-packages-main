@@ -35792,3 +35792,33 @@ SHA1: 36e1e440512cd42c9f694c5731ef55f12ee56455
 SHA256: 59bd7a6a76018d06aaf3a731ba78e8a1ac7f3944032dcd2249413095eabda82e
 SHA512: e0913b1e897d1a19f3a9adcf27d1ab22c793165098ff70ed18c14bb24b3d5e43696fcccd36ce7920d8cd0ca1577ca5240d1649306d2777db9782b71f149cf236
 
+Package: monetdb
+Architecture: x86_64
+Installed-Size: 19032
+Maintainer: @termux
+Version: 11.55.5-1
+Homepage: https://www.monetdb.org/
+Depends: libandroid-sysv-semaphore, libbz2, libcurl, libiconv, liblz4, liblzma, libxml2, netcdf-c, pcre2, readline, zlib
+Description: A high-performance database kernel for query-intensive applications
+Filename: ../../../../releases/download/x86_64-m/monetdb_11.55.5-1_x86_64.deb
+Size: 4066672
+MD5Sum: 6d2f16fbdd40a6d6deedfb4e53a21160
+SHA1: 01092f0b99911716d0c61e6a95130a8310a2ea45
+SHA256: 934c77b6646054e3a9bf2d5ef5d07e0a7389aea13c75f916fceed74b7c947efa
+SHA512: 2bbf7bd8066cebdd4fe61c10611b64f30f4a5a42d067cdc1d71e66fd06995d592c26c06515f166793aee58db0f4e6ca856605bb964fcaab68af113f80d82892c
+
+Package: termux-elf-cleaner
+Architecture: x86_64
+Installed-Size: 84
+Maintainer: @termux
+Version: 3.0.1-1
+Homepage: https://github.com/termux/termux-elf-cleaner
+Depends: libc++
+Description: Cleaner of ELF files for Android
+Filename: ../../../../releases/download/x86_64-t/termux-elf-cleaner_3.0.1-1_x86_64.deb
+Size: 17488
+MD5Sum: 01a77d03164d840d1fb6a7e4099b582d
+SHA1: cce9750c481eb730091ed3e6b06b890ccbd564c8
+SHA256: 5ae9a1630a35f8206fd666df717d48e599ae53cfbdbe137bb867a29811bcf47a
+SHA512: 46aa4929be6e51d5083e59f70344d5bf08cab7a8e77d505a456101c5be82d9744a9f6abeb9729e36acbc6b8e9a3db3f6a792ddd17878827dd80c815050180c95
+

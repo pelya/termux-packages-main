@@ -34911,3 +34911,18 @@ SHA1: 0631eeff62d046b59ed675ffa3717b94094baec8
 SHA256: fcc5be053d5a6fceba7a40ed6753ba39381c75f55c190509431a76676b243c95
 SHA512: 68e9bb0b92179276a6606fc6429a59576c20151d6d8f6d55d4def5e41ca68d0d93106a6f7f09ba4dc218cf21be2caef130007b78c5d55d859aa91278018ef2be
 
+Package: termux-elf-cleaner
+Architecture: i686
+Installed-Size: 80
+Maintainer: @termux
+Version: 3.0.1-1
+Homepage: https://github.com/termux/termux-elf-cleaner
+Depends: libc++
+Description: Cleaner of ELF files for Android
+Filename: ../../../../releases/download/i686-t/termux-elf-cleaner_3.0.1-1_i686.deb
+Size: 17160
+MD5Sum: 807aa903256d7d6454585a837640cef4
+SHA1: c70fc6f40c44a72a3ae288c19044231acb6322fc
+SHA256: 3014f26e2ebe7c242c4ab5c5c4fecf297026bb5099d5e2f3deec81f554237806
+SHA512: 66a8072cae63c881569be68a3e861cb97b6d8425d523677ae52aa1fb2093314d093ee5323559fe7ecf600efb43beb488c422fd27c2a5c9c49ac14b6b3f1a191d
+
