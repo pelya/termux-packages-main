@@ -35279,3 +35279,63 @@ SHA1: e4d744ffa4a1e3551b5db4deb8e2e78159294887
 SHA256: b4e35a2393873eea8b40a70c8972350a733add59b764ad75d27934fad9fbe770
 SHA512: 5de52f63efbaacf7426c1a31f52a8808fde5bdd8b08801460b33d00a9b0eb103cb1fd0e8c4d8d9854a9fad09a8ecd418d85596a41bbefd878544b08a16eaf5ed
 
+Package: python-greenlet
+Architecture: arm
+Installed-Size: 956
+Maintainer: @termux
+Version: 3.5.3-1
+Homepage: https://github.com/python-greenlet/greenlet
+Depends: libc++, python, python-pip
+Description: Lightweight coroutines for in-process concurrent programming
+Filename: ../../../../releases/download/arm-p/python-greenlet_3.5.3-1_arm.deb
+Size: 155604
+MD5Sum: 892728386b980856b9e9943088ef5fd8
+SHA1: 2ce8a2642e726656ed717f884a9baa8a11951b46
+SHA256: 6e258fbd35ea71f56644986eff3c196d7c3a951896c268b535b9d6541c214988
+SHA512: 2e9e2e17e5eda263ec8860ec4acb4cb6a28e4c12fbcfa26eb71230d6d608d9ccfaacce192b2029ca223db2f6775b25646c934e51a00faef3f9f8692bc11c02b5
+
+Package: python-msgpack
+Architecture: arm
+Installed-Size: 244
+Maintainer: @termux
+Version: 1.2.1-2
+Homepage: https://github.com/msgpack/msgpack-python
+Depends: libc++, python
+Description: MessagePack serializer implementation for Python
+Filename: ../../../../releases/download/arm-p/python-msgpack_1.2.1-2_arm.deb
+Size: 54236
+MD5Sum: 65e9a7026ecebc116cfbfc51180c606a
+SHA1: 16dc5feb58096d882963ac8f23479084ccf41052
+SHA256: eeccd4ff34a1e53255c03cc9da42ae44126659709609786e2448b3c4421de706
+SHA512: f06489f515682e0bb8808e0bb3fa2142f3efd4244ed30cd2edda92c7f67931a8ba8ed3295c759d6635af2329c3be2581f19e12f254749c527dd2a8cafddb93b9
+
+Package: python-pynvim
+Architecture: all
+Installed-Size: 316
+Maintainer: @termux
+Version: 0.6.0-3
+Homepage: https://github.com/neovim/pynvim
+Depends: python-pip, python-greenlet, python-msgpack
+Description: Python client for Neovim
+Filename: ../../../../releases/download/arm-p/python-pynvim_0.6.0-3_all.deb
+Size: 35016
+MD5Sum: a1d1b351bdc1c3188bbb7f758ba2aff6
+SHA1: d3f665bc70bd683e6a24367a2a40d20c26bcd9e8
+SHA256: 798ea67a52e60d57aad9859d8054cab27c6dd5b8209224b06d6c33ff6b6033e5
+SHA512: bc0caa48ecdd59a805ca62cb71095f96c2815f9b618a46545b335a9adfac3bd06e2190f86da5d258c4ecc3293f2acc3353e36bcb2b098172fbc92709c8346f2c
+
+Package: znc
+Architecture: arm
+Installed-Size: 5780
+Maintainer: @termux
+Version: 1.10.2
+Homepage: https://znc.in/
+Depends: libc++, libicu, libsasl, openssl, zlib
+Description: An advanced IRC bouncer
+Filename: ../../../../releases/download/arm-z/znc_1.10.2_arm.deb
+Size: 1499104
+MD5Sum: 0925810eae175bd4c33570945a222d82
+SHA1: 2177f1018f2a3afc06a9546b971fe0d98c690f84
+SHA256: 41eb6fbc40cfc2e554cf4506b802c2a3f5729b5c5259b7cd5081e4ed40e336fb
+SHA512: 352c78e33c81f740aa317e0731f498bd8fdfd573f4f0350fd95f2a52a8a9c3f2dda372f834c281b9dbddfe0830be41c7f7149c7b0afb5e503d1fdb9c95fe54fa
+

@@ -36760,3 +36760,63 @@ SHA1: 835f168b0ac3d9001b49315e148a888177300a8c
 SHA256: aa0aa6cd21edd26b365c2c86c352d4c5de355737505b3cee3fc3bd31137fcbd1
 SHA512: ea435ada4cb4caa0dd8089c14578edba86024dfc63eb39a3778b819a00aaf6323fb781295709b47b6dc5a24abcf918acb24cf6274113d494428e931e13db3532
 
+Package: python-greenlet
+Architecture: x86_64
+Installed-Size: 1048
+Maintainer: @termux
+Version: 3.5.3-1
+Homepage: https://github.com/python-greenlet/greenlet
+Depends: libc++, python, python-pip
+Description: Lightweight coroutines for in-process concurrent programming
+Filename: ../../../../releases/download/x86_64-p/python-greenlet_3.5.3-1_x86_64.deb
+Size: 173532
+MD5Sum: 3ab61f862d5f9e876f30f61fe29020d7
+SHA1: a9d6cb989d6b3f72248837a928e2d24c14c37e74
+SHA256: f195a0fc3964e92df5f202f469dfae1a12e28437f8d6bf9373315d6d592393fd
+SHA512: 7411e7a6d1fd1ce955b66afd7975d0b62c1aad5f70ba34b88d926481e26ce83d3190ee4455ff87372e81d7f9215f44fdf8a0bcf1b141caaa00eed40d116bff69
+
+Package: python-msgpack
+Architecture: x86_64
+Installed-Size: 284
+Maintainer: @termux
+Version: 1.2.1-2
+Homepage: https://github.com/msgpack/msgpack-python
+Depends: libc++, python
+Description: MessagePack serializer implementation for Python
+Filename: ../../../../releases/download/x86_64-p/python-msgpack_1.2.1-2_x86_64.deb
+Size: 59148
+MD5Sum: 47df0d263ba89adf93d1baa98687d7f4
+SHA1: fe20876ef0c7105e6095a795797c918fead29205
+SHA256: 80fbe28a5d67d6a572586129126f046c79fa14c9629f9a337683b2ed53b9afda
+SHA512: 20723ccb128690307916a409bd9144cfae1bce94f64e8f923844294a9d16fff3d025dff8ad56e8559c2bfccca1b92fcb39f3ebc4203330b1886d22c06fa64bc9
+
+Package: python-pynvim
+Architecture: all
+Installed-Size: 316
+Maintainer: @termux
+Version: 0.6.0-3
+Homepage: https://github.com/neovim/pynvim
+Depends: python-pip, python-greenlet, python-msgpack
+Description: Python client for Neovim
+Filename: ../../../../releases/download/x86_64-p/python-pynvim_0.6.0-3_all.deb
+Size: 35016
+MD5Sum: a1d1b351bdc1c3188bbb7f758ba2aff6
+SHA1: d3f665bc70bd683e6a24367a2a40d20c26bcd9e8
+SHA256: 798ea67a52e60d57aad9859d8054cab27c6dd5b8209224b06d6c33ff6b6033e5
+SHA512: bc0caa48ecdd59a805ca62cb71095f96c2815f9b618a46545b335a9adfac3bd06e2190f86da5d258c4ecc3293f2acc3353e36bcb2b098172fbc92709c8346f2c
+
+Package: znc
+Architecture: x86_64
+Installed-Size: 8964
+Maintainer: @termux
+Version: 1.10.2
+Homepage: https://znc.in/
+Depends: libc++, libicu, libsasl, openssl, zlib
+Description: An advanced IRC bouncer
+Filename: ../../../../releases/download/x86_64-z/znc_1.10.2_x86_64.deb
+Size: 1775228
+MD5Sum: 8709640d596290d4cb0fba3503d595a2
+SHA1: 0fcad268a67d2b23d18027ce916fc4b070b9bafe
+SHA256: 7acf212f1caa09e278cda86d204016472378a9da73ac5c690e9398eeb1d72222
+SHA512: a73822987e07584f7125dcd07b2d47a26f4636a84c9f72657e65a1791de9580f4e7b5d7d1751b332300ab18034d4d0f5c8cffea726aa1e8cf8487091eea192e2
+
