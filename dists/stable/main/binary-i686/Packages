@@ -34342,3 +34342,47 @@ SHA1: a8906c80726c7ca753b49e26ade12b525e9fbe51
 SHA256: 473efc676b9c09ad15c5b094340f75efdedf3ef02c4f4dca5f47a575c835e4c9
 SHA512: 658242ac6af386d8787597c2a7a58ae3c2783ee07cbd0ebb70977922c2b1c1e9d4e7526e2bd3f2d7e7650aa8c7f58ecd6c5dda6bd581caefbc7a5e5c7600233f
 
+Package: libixion-static
+Architecture: i686
+Installed-Size: 2544
+Maintainer: @termux
+Version: 0.20.0-3
+Homepage: https://gitlab.com/ixion/ixion/blob/master/README.md
+Depends: libixion (= 0.20.0-3)
+Description: Static libraries for libixion
+Filename: ../../../../releases/download/i686-libi/libixion-static_0.20.0-3_i686.deb
+Size: 371768
+MD5Sum: 72293fa1ef94046fa4f4bd061a334be0
+SHA1: bdbfaa71dff0ffe6bdeb3bafc6361883d0d9be24
+SHA256: 115afbca1498a131bc41b65e793ff2b8173a6f3b6c4765c1bf7519a7819757be
+SHA512: 7751c116854e3e92c8199d9883da93b11381470893e058008d9fc699fa13bd4691cb276e21f08c32714f0bb5360977e32ecaa45ca47e4591cd97e2a087c1b1be
+
+Package: libixion
+Architecture: i686
+Installed-Size: 1496
+Maintainer: @termux
+Version: 0.20.0-3
+Homepage: https://gitlab.com/ixion/ixion/blob/master/README.md
+Depends: boost, libc++
+Description: A general purpose formula parser & interpreter
+Filename: ../../../../releases/download/i686-libi/libixion_0.20.0-3_i686.deb
+Size: 354840
+MD5Sum: f8258eb36163751f415df8dea82a364e
+SHA1: 72c3b71823e420bef7605cde150dfc9c14376202
+SHA256: a16d69487aa989dd314c869dd889d4dd05e754b8bae4340c3e2eeb4df6648c65
+SHA512: dbb54129f410155cc7ac124ef19fc113254aa4fde65f9b4c3cee24183d72710cc2e0eef5b1bb59cd414ebc941bc881196a7d2328384bcdc5ceef288960ac76d7
+
+Package: mdds
+Architecture: all
+Installed-Size: 1272
+Maintainer: @termux
+Version: 3.2.1
+Homepage: https://gitlab.com/mdds/mdds
+Description: A collection of multi-dimensional data structures and indexing algorithms
+Filename: ../../../../releases/download/i686-m/mdds_3.2.1_all.deb
+Size: 126644
+MD5Sum: 813ce10933ff08c5ebae9c7fd9a1f7fb
+SHA1: a3308d834438309e70c842d435cb61b4ccd6f082
+SHA256: 7a3001fec7b922dabdda4e5deb2419dc36c2bca78e2a98fca52310281b67330f
+SHA512: 1210d8fb44fc742a213cfb6349db90092b4f5eaa23f442fcdd95a611992e7d61d35c482d2b903d9c757559d479757b1f4fcad44a9d2a2afd01cd9e55bccd5098
+

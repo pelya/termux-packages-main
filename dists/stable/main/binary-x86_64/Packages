@@ -35223,3 +35223,47 @@ SHA1: 62cd90db118b7686b3ce78890d666d1253a6cd76
 SHA256: 136a9846c7dc11fed8e2bf6733fdf038344c4e8d221db99dbde2fcaaad20ccdc
 SHA512: da585bec8e8757dbdb948bfac6411dafed0be321513bfd036de1f6cd1f6271c24b066279de34a9ea8f7a23672a1274599484eaade80000616c1ce2996a26a26b
 
+Package: libixion-static
+Architecture: x86_64
+Installed-Size: 3028
+Maintainer: @termux
+Version: 0.20.0-3
+Homepage: https://gitlab.com/ixion/ixion/blob/master/README.md
+Depends: libixion (= 0.20.0-3)
+Description: Static libraries for libixion
+Filename: ../../../../releases/download/x86_64-libi/libixion-static_0.20.0-3_x86_64.deb
+Size: 359612
+MD5Sum: 71724de5745c864d96ea07ae3e889b40
+SHA1: b72f82cd5713cb295319d5e8c1ed1328641025c0
+SHA256: 53a979797da33955b53287960862970b87e5f19494cf26defcfb14e646d7f10c
+SHA512: 87d81d568e4a8eab14b3d978c85403aa25455aa4a2cb67c38300d593365386328991dda1b6f532e161585452bd41467d7808cef6b94ad405f89a628556ed2836
+
+Package: libixion
+Architecture: x86_64
+Installed-Size: 1484
+Maintainer: @termux
+Version: 0.20.0-3
+Homepage: https://gitlab.com/ixion/ixion/blob/master/README.md
+Depends: boost, libc++
+Description: A general purpose formula parser & interpreter
+Filename: ../../../../releases/download/x86_64-libi/libixion_0.20.0-3_x86_64.deb
+Size: 341996
+MD5Sum: 370f8bbcbc94b95be3863ad9052f82ec
+SHA1: 260ffebbd36cf08fb44488b9f65ca759fa479d79
+SHA256: 39e2b88bff1fb655d3aeadda37ea9c05d69fe82b132e00b5f915d4bdabd05eb0
+SHA512: 3269a618fcfb7b906209f6b91c1aba76940c66eac13dc2ce844487016607a8a8492016807b1bc8a538729d79b3dac6c4d1c7018ecc660518bd86838443653620
+
+Package: mdds
+Architecture: all
+Installed-Size: 1272
+Maintainer: @termux
+Version: 3.2.1
+Homepage: https://gitlab.com/mdds/mdds
+Description: A collection of multi-dimensional data structures and indexing algorithms
+Filename: ../../../../releases/download/x86_64-m/mdds_3.2.1_all.deb
+Size: 126644
+MD5Sum: 813ce10933ff08c5ebae9c7fd9a1f7fb
+SHA1: a3308d834438309e70c842d435cb61b4ccd6f082
+SHA256: 7a3001fec7b922dabdda4e5deb2419dc36c2bca78e2a98fca52310281b67330f
+SHA512: 1210d8fb44fc742a213cfb6349db90092b4f5eaa23f442fcdd95a611992e7d61d35c482d2b903d9c757559d479757b1f4fcad44a9d2a2afd01cd9e55bccd5098
+

@@ -33757,3 +33757,47 @@ SHA1: e7769439bcc3c3454890a8404d1dcd9f476dbf93
 SHA256: 17b2cb49eb43c15ef513fd7c8b3955415192812b61479f5d4032674b1035c314
 SHA512: 59e0440ed93998b2145085f825cf93aca9624e3dabfe7be113823991d0c892d1779d27bf0c7c3f19e2effc6f0ab61b036d7a4a2a6f5c6b909ad54b599fc57dba
 
+Package: libixion-static
+Architecture: arm
+Installed-Size: 2736
+Maintainer: @termux
+Version: 0.20.0-3
+Homepage: https://gitlab.com/ixion/ixion/blob/master/README.md
+Depends: libixion (= 0.20.0-3)
+Description: Static libraries for libixion
+Filename: ../../../../releases/download/arm-libi/libixion-static_0.20.0-3_arm.deb
+Size: 378428
+MD5Sum: 574520d3c0829c74305f172e1a6a7861
+SHA1: 5b8fe50b382b69d8b58ce80ade804a60a1fc0ad7
+SHA256: 812c031bf856dc0694343c910522131b3c419630a536067a381941234d69e357
+SHA512: 20a8f2572c692b3e5623f514a947f21567abaf0a74dea31d4fc1938839dcfb42d84ce8957f637a955e04299e335489deed9bb89b4b9629248d8e8bb95d2606cf
+
+Package: libixion
+Architecture: arm
+Installed-Size: 996
+Maintainer: @termux
+Version: 0.20.0-3
+Homepage: https://gitlab.com/ixion/ixion/blob/master/README.md
+Depends: boost, libc++
+Description: A general purpose formula parser & interpreter
+Filename: ../../../../releases/download/arm-libi/libixion_0.20.0-3_arm.deb
+Size: 287984
+MD5Sum: dca3b4206a406199df86287bd7b12249
+SHA1: b4b8cfc2f698083da4fbddeb70aeb9429e86b372
+SHA256: 8515090df6a383f9083a18d1b7728799ddd0f81eac89971c883df95251f0afe2
+SHA512: 32416d120ede9f1165c4056acb24e980c589a895afbf7b15310c5db1e42b6ba0e2cc72c43d5f40dd01e7be8c218770c57f1287b3d6e4de5f26ba3091a78c7eae
+
+Package: mdds
+Architecture: all
+Installed-Size: 1272
+Maintainer: @termux
+Version: 3.2.1
+Homepage: https://gitlab.com/mdds/mdds
+Description: A collection of multi-dimensional data structures and indexing algorithms
+Filename: ../../../../releases/download/arm-m/mdds_3.2.1_all.deb
+Size: 126644
+MD5Sum: 813ce10933ff08c5ebae9c7fd9a1f7fb
+SHA1: a3308d834438309e70c842d435cb61b4ccd6f082
+SHA256: 7a3001fec7b922dabdda4e5deb2419dc36c2bca78e2a98fca52310281b67330f
+SHA512: 1210d8fb44fc742a213cfb6349db90092b4f5eaa23f442fcdd95a611992e7d61d35c482d2b903d9c757559d479757b1f4fcad44a9d2a2afd01cd9e55bccd5098
+

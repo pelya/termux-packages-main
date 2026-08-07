@@ -35239,3 +35239,47 @@ SHA1: 4ec3eb468f43e84fdd22bdee3c90b4d4cd52755e
 SHA256: df54c8d37c5e4d5b803ca63887ae1b68dd41a64599d740ad15ebca3a63dcbb89
 SHA512: 488e8bd5a26837ca6db61d792fbf3e28119d876f131d67500f7aadb194e31ef3c3cd154a99e1d27ddebd8d916a1cbf61f0cd7d209a7a116f413ce47a85fe4972
 
+Package: libixion-static
+Architecture: aarch64
+Installed-Size: 3084
+Maintainer: @termux
+Version: 0.20.0-3
+Homepage: https://gitlab.com/ixion/ixion/blob/master/README.md
+Depends: libixion (= 0.20.0-3)
+Description: Static libraries for libixion
+Filename: ../../../../releases/download/aarch64-libi/libixion-static_0.20.0-3_aarch64.deb
+Size: 342860
+MD5Sum: 52716ae5665830f6f7e6941026729e03
+SHA1: fa3fe25390a9712d841d7cc3758a62b5f19dd558
+SHA256: 760fac5ce568b91a562cb0d2d91ff49aeb9790485ab2c98ee865bc91a78ffd90
+SHA512: 9d566f185e0335a54e1fe4beb93b8faed84ed811d7e3e43742c90516aa08d8bf4cf4ceddf4b7a8036e1d1165e2e1b41aa59c234eb595022efa3d652942f9144a
+
+Package: libixion
+Architecture: aarch64
+Installed-Size: 1476
+Maintainer: @termux
+Version: 0.20.0-3
+Homepage: https://gitlab.com/ixion/ixion/blob/master/README.md
+Depends: boost, libc++
+Description: A general purpose formula parser & interpreter
+Filename: ../../../../releases/download/aarch64-libi/libixion_0.20.0-3_aarch64.deb
+Size: 307984
+MD5Sum: 4e8df199ebf4e72c2fbc426f238cf04f
+SHA1: 771fe146c95496abc9f67447a4ae0a057cf2d6c5
+SHA256: 76191998eb518d357b3ecc6441aa3b8c356053fdaf2de50362c00ae883916572
+SHA512: 89f0540105dc258856012048a0eda72875fb6c111c8118fd2cc61470b2eac6ec765b10fc2025ac7cebdacee04b2609c73dbd0628fb0605af8c6dec709dea6d0e
+
+Package: mdds
+Architecture: all
+Installed-Size: 1272
+Maintainer: @termux
+Version: 3.2.1
+Homepage: https://gitlab.com/mdds/mdds
+Description: A collection of multi-dimensional data structures and indexing algorithms
+Filename: ../../../../releases/download/aarch64-m/mdds_3.2.1_all.deb
+Size: 126644
+MD5Sum: 813ce10933ff08c5ebae9c7fd9a1f7fb
+SHA1: a3308d834438309e70c842d435cb61b4ccd6f082
+SHA256: 7a3001fec7b922dabdda4e5deb2419dc36c2bca78e2a98fca52310281b67330f
+SHA512: 1210d8fb44fc742a213cfb6349db90092b4f5eaa23f442fcdd95a611992e7d61d35c482d2b903d9c757559d479757b1f4fcad44a9d2a2afd01cd9e55bccd5098
+
