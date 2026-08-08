@@ -659,3 +659,17 @@ SHA1: 70a86c619fbbf5ac92fdd1baae876c1743c2e973
 SHA256: ca3289ee1c2da5bec54ae923d3d1eb8bfbf67dba6cb2eb08f3d6d6fb16061649
 SHA512: ad2c7e7dfb30da244e5ac1a9f3852a5a4e5ccda08eb1d3ce5df0b40b13782abd32c01585aaa21d5e33b9fff4ac65764a0b833532b45a811a9ca621f0ba3370af
 
+Package: authbind
+Architecture: aarch64
+Installed-Size: 108
+Maintainer: @termux
+Version: 2.2.0-1
+Homepage: https://www.chiark.greenend.org.uk/ucgi/~ian/git/authbind.git
+Description: Bind sockets to privileged ports without root
+Filename: ../../../../releases/download/aarch64-a/authbind_2.2.0-1_aarch64.deb
+Size: 14488
+MD5Sum: b6ce70aa61a9150b8de74c100debfe2d
+SHA1: a5b219290a8e1c1a42205e23d4ec44a3c686d4a8
+SHA256: 60675252be714fc8bb4e4a388482a4944cd63d83b8f212a19c3394aa3ea75fe6
+SHA512: 64edcc83fd22b4193b4efbb5e99f465c0d6becb73ee63e011b3603e52aeab8789a536d267d7be98a193b368012ee1cc3fbef38689e5c148895eedfb85f636946
+

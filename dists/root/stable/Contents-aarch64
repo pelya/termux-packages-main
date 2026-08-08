@@ -805,3 +805,10 @@ data/data/greater.underscore/files/usr/share/man/man1/ir-keytable.1.gz          
 data/data/greater.underscore/files/usr/share/man/man1/v4l2-compliance.1.gz       v4l-utils
 data/data/greater.underscore/files/usr/share/man/man1/v4l2-ctl.1.gz              v4l-utils
 data/data/greater.underscore/files/usr/share/man/man5/rc_keymap.5.gz             v4l-utils
+data/data/greater.underscore/files/usr/bin/authbind                              authbind
+data/data/greater.underscore/files/usr/lib/libauthbind.so.1                      authbind
+data/data/greater.underscore/files/usr/lib/libauthbind.so.1.0                    authbind
+data/data/greater.underscore/files/usr/libexec/authbind/helper                   authbind
+data/data/greater.underscore/files/usr/share/doc/authbind/copyright              authbind
+data/data/greater.underscore/files/usr/share/man/man1/authbind.1.gz              authbind
+data/data/greater.underscore/files/usr/share/man/man8/authbind-helper.8.gz       authbind

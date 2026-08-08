@@ -37642,3 +37642,18 @@ SHA1: 65bc80f89d2f976ba526ba6b1e42799fb62faac6
 SHA256: 16c7586f9263a6b499dc3115c1922eb7b8a520b4c2325df5301990dd96546469
 SHA512: 5e3ad7448e423930c98161e0a0f2e4731c5b0f245f6d2d0f31d92cf6029aacfa48f89af6deeec225953a43834733c6db285645ba189c505888f5e03dd3ec47e6
 
+Package: ansifilter
+Architecture: x86_64
+Installed-Size: 316
+Maintainer: @termux
+Version: 2.22
+Homepage: http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php
+Depends: libc++
+Description: Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode
+Filename: ../../../../releases/download/x86_64-a/ansifilter_2.22_x86_64.deb
+Size: 79624
+MD5Sum: d47d733d2befc985d54d35df6a7b1c0d
+SHA1: 60ba4ebd5c313e2d514fa270664ae1bf408d504e
+SHA256: 658b4e36dc731445b3e59cd8d919c8a04a56994841e04c5a725537d31e3551b2
+SHA512: 1fea90c993ad9449772654ccca3ebd354797fb8e6c24ce826e4c0da158c8096389a24b283f3d91686e31dbd3b9f5a49b29cf24666deb935b954f281868dfd75f
+
