@@ -38347,3 +38347,33 @@ SHA1: 6b497e9f4189f5261b9fe7dd6073489d5e768c79
 SHA256: 9d1bcc7c2c4cf5d27633755edb773c1620ef0219f029b47b664eded9b44a0b40
 SHA512: 42d8d6a35445d1b0c73764563dd66b1880b163f9842fa3960b8fa66047dd827cbc9b62f1b14108dd904770c6432bf49395cd42c63d1a6d1b15a2859897bab296
 
+Package: rcm
+Architecture: all
+Installed-Size: 124
+Maintainer: @termux
+Version: 1.3.6
+Homepage: https://github.com/thoughtbot/rcm
+Depends: bash
+Description: Dotfiles management
+Filename: ../../../../releases/download/i686-r/rcm_1.3.6_all.deb
+Size: 20204
+MD5Sum: 5741ed389303017134ba6c78f307db27
+SHA1: 88a90f29b1d1fecdddf28241a847d0f08ce91d4d
+SHA256: c3faa57595e9d316beb310109b0bc30379eaf9053e47fcc684f2347acaed68ad
+SHA512: af7acffa10d15d45fc25f530a9e32863d63b97b6eadc21a2eba35efba478f7218951b67ef04a616ae2ad98dff4d53268830dfde485fc6a6d08653a6c714c33db
+
+Package: termplay
+Architecture: i686
+Installed-Size: 2324
+Maintainer: @termux
+Version: 2.0.6-1
+Homepage: https://gitlab.com/jD91mZM2/termplay
+Depends: glib, gst-plugins-base, gstreamer, libsixel
+Description: Plays an image/video in your terminal
+Filename: ../../../../releases/download/i686-t/termplay_2.0.6-1_i686.deb
+Size: 806340
+MD5Sum: 4d020a4bd7170b944ecae5bae94f8e2c
+SHA1: bedd43041b61d163826c8f92679e0db36b07e507
+SHA256: d9a18c8fc7f3a440541186b49b3f04c736909dcad09552c64a4e3a6b88c02fbe
+SHA512: bc17e4b60852c532c8c8571d9aee9ee093d6e900568ecf976e8f12065805ec961badea28261a36ac0beb2758ac09c93dd9b02d2ff54530b8286577d5a94ced37
+
