@@ -13399,3 +13399,19 @@ SHA1: b3528d1c333ae654495d5789b64b7a0838bea739
 SHA256: 5fce2f95bb7d2df8f0e8761ae9f680b1a0c237104cec1dbc8cc21c81aa48d9d6
 SHA512: 698a20c1f793f43924ad6471375d0705bf74cc1a490c2aa0548f9f957cb00d863d0f037616837de3dee5d7d44bc96ef0643ba0ce29950fb7bde9b9c8be78ea71
 
+Package: xfce4-terminal
+Architecture: aarch64
+Installed-Size: 552
+Maintainer: @termux
+Version: 1.2.0
+Homepage: https://docs.xfce.org/apps/terminal/start
+Depends: atk, gdk-pixbuf, glib, gtk3, gtk-layer-shell, libcairo, libvte, libx11, libxfce4ui, libxfce4util, pango, pcre2, xfconf
+Recommends: desktop-file-utils, hicolor-icon-theme
+Description: Terminal Emulator for the XFCE environment
+Filename: ../../../../releases/download/aarch64-x/xfce4-terminal_1.2.0_aarch64.deb
+Size: 112432
+MD5Sum: 49d5839da14591c909c9bc4b5187b203
+SHA1: db6e709829f1a9cb7d1b151ac2a476a3e35cf0fb
+SHA256: cff37a3f52634b4b29fd8398055b176b52f9d3ce6a306735d0a2ecc04f2fb2eb
+SHA512: 377ee84975909b6728262a7d81899653c4ad744d275e0dc7f2eb25b25402e1f43bbca8b637389bf6d343f969f83de9fb7627550cd07aff5e357631ceb5012000
+

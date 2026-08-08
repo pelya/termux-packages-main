@@ -37100,3 +37100,17 @@ SHA1: 12b53e719f90328f9b7ffeb24bc9c6f43e1ec379
 SHA256: 7ce8e1027d403a0188fec577880876b70ef4e0d86317a5131f19ea873f184612
 SHA512: 85d550f37f771118f13ca7f1dea5316926b37cbb9192c56ec8dc16bc1beee36740d69e204adb0a96943f4e8dc1beefdf2c735bfbe174e4197c7d950b0ad76294
 
+Package: task-spooler
+Architecture: i686
+Installed-Size: 108
+Maintainer: @termux
+Version: 1:1.0.3-1
+Homepage: https://vicerveza.homeunix.net/~viric/soft/ts/
+Description: Task spooler is a Unix batch system where the tasks spooled run one after the other
+Filename: ../../../../releases/download/i686-t/task-spooler_1.1.0.3-1_i686.deb
+Size: 25312
+MD5Sum: e6f3748293121a2c3b2befbac775ac3d
+SHA1: 436eba947504e8da5a57de7c1e67b98c05618db5
+SHA256: 6ad56b7f6cc79271ceaac68c5ff4e1067a3cb6c4aeb1032677c8e23c53893054
+SHA512: 26bd309dc274a879b4dea7eeac7c8c8b7c80850c8a2c4e4d70db6339fd8b901a47d61462e23d9ab6b771c2313a58ddf9f83f9f8d82b96054b7d077e2478f8e79
+
