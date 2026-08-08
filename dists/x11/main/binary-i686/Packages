@@ -13297,3 +13297,20 @@ SHA1: 8366683901d74065c3780022816dcd166182cff9
 SHA256: 60b7187a00b52d40a9fd1604b4cbbee82305cb64ba387e2b9a13ff344984992b
 SHA512: 27823850f36d253a543039e78b2adf03433435ef70af266fc2d5206e24f537be67945e45f63dfa41c837818641726ac743c1642eaec81a5d909f5869d5f5c0ef
 
+Package: wlroots
+Architecture: i686
+Installed-Size: 1484
+Maintainer: @termux
+Version: 0.18.2-1
+Homepage: https://gitlab.freedesktop.org/wlroots/wlroots
+Breaks: sway (<< 1.10 )
+Depends: libdrm, libglvnd, libpixman, libwayland, libxcb, libxkbcommon, xcb-util-renderutil, xcb-util-wm, termux-gui-c
+Recommends: xwayland
+Description: Modular wayland compositor library
+Filename: ../../../../releases/download/i686-w/wlroots_0.18.2-1_i686.deb
+Size: 325048
+MD5Sum: 51567d398b13cd1812dcb022829e7e23
+SHA1: 92da5293cddc5b598e8fd502f1600e957a6f2d3e
+SHA256: 42e390e7eb3ae2a160d8e53ffd5697131e5a7d8790a54070732921690cab03ab
+SHA512: 5715da29a11f97148a6c5b00540ede4de5e839cada09e59845e664ec2f57069e41fa3abb68cb1bdb4e96166701e21b0d2a8b7d0407e843eed9329877f3e1b373
+
