@@ -13478,3 +13478,18 @@ SHA1: baf4f8be081853d90179478342c42a373ad97d96
 SHA256: d14ca06f7d3a2b3c7806269433248787aa0b3566c50cb7f1a82beee23a9ce6d6
 SHA512: 54f6e544a3b600c15ca27bfc86e1b8cde679307b95a835eb9a907846ce245b4713ee894f4737eba4d3ffb60da3db3472728e7220cc6574b758eeaeeeb4291bda
 
+Package: pong2
+Architecture: arm
+Installed-Size: 1028
+Maintainer: @termux
+Version: 0.1.3-3
+Homepage: https://sourceforge.net/projects/pong2.berlios/
+Depends: glu, libc++, opengl, openssl, sdl, sdl-image
+Description: A Three Dimensional Pong Game
+Filename: ../../../../releases/download/arm-p/pong2_0.1.3-3_arm.deb
+Size: 930908
+MD5Sum: 380d85b98f7687e1df54335bda16d9c2
+SHA1: 053f06e1c4f2065b1fd71b31964ab8b93a0191b4
+SHA256: a138cf49c26d1593d0365baa223291e431cf10e28c936728a9d72ceaab49fc9a
+SHA512: 358b753c820355dc9afb0da2b016d281c39979e009cf529b46de08173c359c88f94e37aeed5adf7de83c136470103ff9def29b527420bf9e38d9ef24ac1adff8
+

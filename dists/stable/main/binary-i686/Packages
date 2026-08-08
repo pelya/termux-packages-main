@@ -37667,3 +37667,18 @@ SHA1: c267e82fb460c37a478021d66bfdfb5cb91e8eb6
 SHA256: 1042baa811e983235bff8ec63b54f0b86c0071633d992de70f0e6ff17138a41c
 SHA512: 68cf6b8ac7ad10062d7fe4e316255007b1355a62d43ff21b9b82dfb114c8f02268cf61a7c764da23c30b7dc6e1aeb48682e259ede62b2cb84f4fbc122c5079a5
 
+Package: scrypt
+Architecture: i686
+Installed-Size: 116
+Maintainer: @termux
+Version: 1.3.3-1
+Homepage: https://www.tarsnap.com/scrypt.html
+Depends: openssl
+Description: scrypt KDF library and file encryption tool
+Filename: ../../../../releases/download/i686-s/scrypt_1.3.3-1_i686.deb
+Size: 30116
+MD5Sum: bc1814df36c13b0721c21d7898852702
+SHA1: 7f15a7587359878cdf67ed27fa38f0b5818b9f3c
+SHA256: 9d6da3cd35063bea74feab85235464bfaef55cb8c6b65f0d06dd3341b6b11dc7
+SHA512: 9dbc5781d9a1357f73ae96fc03d6f524f7af2fa9af853ecad6cde75250b0864d30e84b268167d78bc12ea47cee488492c6950c3005d15670004b02ed0d1e5d41
+
