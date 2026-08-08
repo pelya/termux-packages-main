@@ -36875,3 +36875,17 @@ SHA1: 3917c60f985621879074dce675b6a7c6196e9175
 SHA256: f082fc63161316410fe9cd88833af4e233e3e862249ab73d0fb9ffb6b8384d22
 SHA512: b885fceb2f63a0ece3f6bf5917814573c5ab52e3f997d9a4c9c109165af814ecf99dc68de19fda1dab5ce6c571c942869a85a44eda6f29e11e23b00ce46e7fd1
 
+Package: cpulimit
+Architecture: i686
+Installed-Size: 60
+Maintainer: @termux
+Version: 0.2-2
+Homepage: https://github.com/opsengine/cpulimit
+Description: CPU usage limiter
+Filename: ../../../../releases/download/i686-c/cpulimit_0.2-2_i686.deb
+Size: 7932
+MD5Sum: 90d2bf00c50a3963c5f8d0fc95974254
+SHA1: 0e66da73647299a10636cbdf1dc7e44b95ed9d88
+SHA256: 739db62bb7f3d3ebc99e0376ccf403dd1f6601a26c97f4e7680fef231b0ca8d6
+SHA512: af1b13758aa68e2b97883be6da10f57083d67509bf04f1531b7f5e47da997461b1ef8f252968d494519766a71de6cb6133479381763e49558d0ff0f218178827
+

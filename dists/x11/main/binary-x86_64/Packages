@@ -13145,3 +13145,19 @@ SHA1: b580b10d02e97a4ab004fafb661e665ad1c8fb32
 SHA256: e219949c2e80682b1af9b6fef41907c4890411c1d016319c4c95ee2a496490d5
 SHA512: 9441e977d684eedcabc73bc0d0cd4b9a794e3312fd85fb17e5c29fd04fc35be2ca123f65559908263896d32920c443825a469515a11f73b1c400ad0fe6b63f00
 
+Package: xournalpp
+Architecture: x86_64
+Installed-Size: 6464
+Maintainer: @termux
+Version: 1.3.6
+Homepage: https://github.com/xournalpp/xournalpp
+Depends: gdk-pixbuf, glib, gtk3, gtksourceview4, libandroid-execinfo, libc++, libcairo, librsvg, libsndfile, libx11, libxi, libxml2, libzip, pango, poppler, portaudio, qpdf, zlib
+Replaces: xournal
+Description: A hand note taking software
+Filename: ../../../../releases/download/x86_64-x/xournalpp_1.3.6_x86_64.deb
+Size: 1113584
+MD5Sum: 4642808471e9e5fa6fc2065ff2d4af2a
+SHA1: 4ccc2da98bb0eccf95b192972459bd634b2c2221
+SHA256: 8365a065f575c48f9fee8f2d39b15492ef07fcc6b0c36c7326e569e2209f09d1
+SHA512: 4270b47180fe68143c36862b36f9308bf54ad9c9fa4071a6808a9d96af36531d09a4739d6c5e18aeece5185cce9a4a5d681fad9e140aeffb7ea20be45ddb878a
+

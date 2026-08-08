@@ -37863,3 +37863,17 @@ SHA1: 3202ffbc8a5674ffed399564f985ac504312bf5d
 SHA256: ba1591d720997c7d120dd9f59bd0621826219fbba3ffda0b609e592f17c3f627
 SHA512: 25198caa43e756061a5b7496e0b03c170b48e7f95b967cc6e0f5561fa8aa4487380185e101f2d158750dc5429fc5c0b64e583bade84bd0feb6e78281c46024d9
 
+Package: cpulimit
+Architecture: aarch64
+Installed-Size: 60
+Maintainer: @termux
+Version: 0.2-2
+Homepage: https://github.com/opsengine/cpulimit
+Description: CPU usage limiter
+Filename: ../../../../releases/download/aarch64-c/cpulimit_0.2-2_aarch64.deb
+Size: 7772
+MD5Sum: 3278da2cee7f3b252cbdbbf00304d9e2
+SHA1: c3d63ef72ef644c341b741a27731d5813b3a2cb9
+SHA256: 651e0b8457fcc816f5125948589712c8aae3980c3a0e00ebc2c0ed88108a5f81
+SHA512: 75b92150998661541eee964cde8ddb9be1b54eb1d8d9fbe3a731356fa9ada8812e70d05dbf6c8abebb97cc74264710ed71762440a0a3c7828ddccb65326f9dc7
+
