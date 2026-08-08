@@ -38683,3 +38683,47 @@ SHA1: 5b2657ac9c9296c880bd05963fb73d8762144806
 SHA256: 86f20c3aefc01c7b5d9a3d08416a725ec18763721f4c6a3575ecdbb34fb70855
 SHA512: b4f676c957487c3ffb2ef8757a9f494a95a7ad7403cc1f6f5f5341916fba1c94998cc42af549d1c15c95f87f0b3fffe211cd5766e36f2e993ea967bec1a15182
 
+Package: cbonsai
+Architecture: x86_64
+Installed-Size: 88
+Maintainer: @termux
+Version: 1.4.2-1
+Homepage: https://gitlab.com/jallbrit/cbonsai
+Depends: ncurses, ncurses-ui-libs
+Description: Grow bonsai trees in your terminal
+Filename: ../../../../releases/download/x86_64-c/cbonsai_1.4.2-1_x86_64.deb
+Size: 11532
+MD5Sum: 9117d56c4211000c37ace896e6ea5037
+SHA1: 2bde680d20e41b7ddf48e102a8624b71b4a45afe
+SHA256: db796605e8f8c821272496a62a649692f436d2d69aa307205a594c252e9011af
+SHA512: 4aa0e22242a964c38d1b4dcb5e483e7ac75da562cafb1dbca85eb214068f3467de5d4b0ad48502b55d5935d14ea0a244ea7763ce00dfeb3a33742e5fdd93ce60
+
+Package: libnet-static
+Architecture: x86_64
+Installed-Size: 236
+Maintainer: @termux
+Version: 1.3-1
+Homepage: https://github.com/libnet/libnet
+Depends: libnet (= 1.3-1)
+Description: Static libraries for libnet
+Filename: ../../../../releases/download/x86_64-libn/libnet-static_1.3-1_x86_64.deb
+Size: 37580
+MD5Sum: 19e0fbd68e6717e0bc0671591d289364
+SHA1: 173808a439278ec53b8172c258c8a4c700d6aa3f
+SHA256: b45951b9f84982743d1caa0b228a6f679c5b2e291e43ef6670d191e9181ebf7d
+SHA512: 764a85533944ef520fa5fce028520945d587459ae296df4f123a3c87dae1eeb07acbcf4308c8aa6209172b5928747487a38625af757d5c94b6e18ec33b8350bf
+
+Package: libnet
+Architecture: x86_64
+Installed-Size: 408
+Maintainer: @termux
+Version: 1.3-1
+Homepage: https://github.com/libnet/libnet
+Description: A library which provides API for commonly used low-level net functions
+Filename: ../../../../releases/download/x86_64-libn/libnet_1.3-1_x86_64.deb
+Size: 79092
+MD5Sum: 2cc0c8b666e8e31ead34d2e9656a8a93
+SHA1: 4686bb5d642e5a84d3ecf31d513d1d92846258b1
+SHA256: d7d0517e982c7eeb82f37410ebef2ba1f634d6752ff608bcd00ecdc4cc05b47e
+SHA512: 5b6a45f3ec596b76bb2a354c0014ef86fe300b7eb20b7650fc29cbae1fa8f2ab30b41669f1859bdd4c0ac752f3a4b873d260c85ca6487357ffa3de510b3a756e
+

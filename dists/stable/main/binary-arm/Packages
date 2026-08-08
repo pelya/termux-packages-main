@@ -36948,3 +36948,47 @@ SHA1: 5967d62c19945eb344c85f0690cd580209ad9c97
 SHA256: 8fb2947927941b077ad0f10d7a9ecd6279399f52405a6a3c42756627b1955300
 SHA512: 08a23c537d2a1ef1a7f3c508e096abcf8d3042e2c79e166ae4e8da726691cf0c4a5cedc68edf032d51eebfc588c902093bf6923f8b2bd30a06cfa6a257e6d964
 
+Package: cbonsai
+Architecture: arm
+Installed-Size: 84
+Maintainer: @termux
+Version: 1.4.2-1
+Homepage: https://gitlab.com/jallbrit/cbonsai
+Depends: ncurses, ncurses-ui-libs
+Description: Grow bonsai trees in your terminal
+Filename: ../../../../releases/download/arm-c/cbonsai_1.4.2-1_arm.deb
+Size: 10316
+MD5Sum: 10068442e29b25fea9de5668720a3bd2
+SHA1: 81c2cf72dcd5838e32ead74a715d0ec0926e22c6
+SHA256: 16b51121ebdc080d93de2202801aa880312b90c0b3d4412506533bfbd85c0251
+SHA512: c275d2ae1c0d3eb628d66b15e8ff5281e0c0609ebf9acf87b205f5222a625eed2f47cd6394b8f361ba2758d9d5a97106f10e7beabb9b6c4b21aaaadc53fe671d
+
+Package: libnet-static
+Architecture: arm
+Installed-Size: 176
+Maintainer: @termux
+Version: 1.3-1
+Homepage: https://github.com/libnet/libnet
+Depends: libnet (= 1.3-1)
+Description: Static libraries for libnet
+Filename: ../../../../releases/download/arm-libn/libnet-static_1.3-1_arm.deb
+Size: 34144
+MD5Sum: ef85eb247a3d0ac164029078b955bc8d
+SHA1: 94cfdf18b3f6d672b61ab3a3e4f913da155022f7
+SHA256: 3dc2553378ebd9fb71eea5e8da1a11856f9d69d00957216eeaf0bb9813441a2b
+SHA512: 59efe8ebe7f6722b2365aa457f5aa669940318a29aa5d5f29ec8d9cb1cce262f39fe6a12973a911a030ba91ffbb395f233b6d44ec83e5311d6aa9dcbbd38e2c4
+
+Package: libnet
+Architecture: arm
+Installed-Size: 384
+Maintainer: @termux
+Version: 1.3-1
+Homepage: https://github.com/libnet/libnet
+Description: A library which provides API for commonly used low-level net functions
+Filename: ../../../../releases/download/arm-libn/libnet_1.3-1_arm.deb
+Size: 74128
+MD5Sum: 554c6b72bb22517a0237b27f8428d9c1
+SHA1: 41312e9d29bcd69e978202c627bd39643c80a591
+SHA256: 7120c74ece9a5d799605b345f61b453d024b225d80ce369ff23ebbb010acef8c
+SHA512: cea099c22b2c9a23d5df7da2a0fcf63c3ea1cbbacb6c740242e12b9260dd65c2913e6c6ddf0873ddab2c57f52ef081758b90cc0b6dd4e6a95839053ef05be598
+
