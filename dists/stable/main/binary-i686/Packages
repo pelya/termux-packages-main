@@ -37682,3 +37682,32 @@ SHA1: 7f15a7587359878cdf67ed27fa38f0b5818b9f3c
 SHA256: 9d6da3cd35063bea74feab85235464bfaef55cb8c6b65f0d06dd3341b6b11dc7
 SHA512: 9dbc5781d9a1357f73ae96fc03d6f524f7af2fa9af853ecad6cde75250b0864d30e84b268167d78bc12ea47cee488492c6950c3005d15670004b02ed0d1e5d41
 
+Package: megatools
+Architecture: i686
+Installed-Size: 240
+Maintainer: @termux
+Version: 1.11.5.20250706-1
+Homepage: https://xff.cz/megatools/
+Depends: glib, libandroid-support, libcurl, openssl
+Description: Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage
+Filename: ../../../../releases/download/i686-m/megatools_1.11.5.20250706-1_i686.deb
+Size: 76276
+MD5Sum: 00bcba98e454f24cdc54c065756d4e1d
+SHA1: ccbcac0fe3006032d59462ef8412a5732c6c7496
+SHA256: f7fc1cfeac5b863300cfaa2c77cb0e29090460edb4a8fd92bfe83e100455249c
+SHA512: 9aa022e3015e64f920ce08943908f9ea6b1328b1cae0a38f7dba362f111aafca5faab7f41b042922163053bd7b511a4c1bd7b08a44c0fdb81d3df271e64421bd
+
+Package: pingme
+Architecture: i686
+Installed-Size: 16776
+Maintainer: @termux
+Version: 0.2.7
+Homepage: https://github.com/kha7iq/pingme
+Description: A small utility which can be called from anywhere to send a message with particular information
+Filename: ../../../../releases/download/i686-p/pingme_0.2.7_i686.deb
+Size: 4993796
+MD5Sum: 6d1a99339c998ad2a9d43a8429131719
+SHA1: 8dec153303115ea3bd06ab108b575964b601d4ab
+SHA256: 3b0659f7559a1d8ee924e1cc2f3b427d09ab60633f17e9c98fda880cae1a3aa0
+SHA512: db52aaef8df29a8acf9459d3d2b43ec5015792b2d685d25df4ed459065cc10ecf1fccdd2759271523d83ba104b54cd19787d6d7ee3636b755a687f4a729b4b98
+
