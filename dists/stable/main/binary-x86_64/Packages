@@ -38727,3 +38727,18 @@ SHA1: 4686bb5d642e5a84d3ecf31d513d1d92846258b1
 SHA256: d7d0517e982c7eeb82f37410ebef2ba1f634d6752ff608bcd00ecdc4cc05b47e
 SHA512: 5b6a45f3ec596b76bb2a354c0014ef86fe300b7eb20b7650fc29cbae1fa8f2ab30b41669f1859bdd4c0ac752f3a4b873d260c85ca6487357ffa3de510b3a756e
 
+Package: ne
+Architecture: x86_64
+Installed-Size: 2476
+Maintainer: @termux
+Version: 3.3.4-3
+Homepage: https://ne.di.unimi.it/
+Depends: libandroid-support, ncurses
+Description: Easy-to-use and powerful text editor
+Filename: ../../../../releases/download/x86_64-n/ne_3.3.4-3_x86_64.deb
+Size: 411936
+MD5Sum: a2ed97917f6a18eed0b19d454882ab03
+SHA1: f3757a2f574fdf5244292c042085adf676bcd605
+SHA256: d86e7e824f55f7ece4da9d503cbb95274210f33f6fe02ce7e6dc59aac9c4644d
+SHA512: 223044dfa2ffbfe6d79fc475a22c25bc107c2a79bcb9b043b522d88713c88690c38c1d023d49da2c06cd7714ffd8f7e69ffbdceb3f4e68a0e5ab1545d6da4361
+

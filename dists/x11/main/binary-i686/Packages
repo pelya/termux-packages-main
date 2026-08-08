@@ -13314,3 +13314,18 @@ SHA1: 92da5293cddc5b598e8fd502f1600e957a6f2d3e
 SHA256: 42e390e7eb3ae2a160d8e53ffd5697131e5a7d8790a54070732921690cab03ab
 SHA512: 5715da29a11f97148a6c5b00540ede4de5e839cada09e59845e664ec2f57069e41fa3abb68cb1bdb4e96166701e21b0d2a8b7d0407e843eed9329877f3e1b373
 
+Package: fluent-icon-theme
+Architecture: all
+Installed-Size: 82568
+Maintainer: @termux
+Version: 2025.08.21
+Homepage: https://github.com/vinceliuice/Fluent-icon-theme
+Depends: hicolor-icon-theme
+Description: Fluent icon theme for linux desktops
+Filename: ../../../../releases/download/i686-f/fluent-icon-theme_2025.08.21_all.deb
+Size: 4498756
+MD5Sum: 5602ecfb9a59eb5f8d69a1b86971bae1
+SHA1: f207e23ac269cdc638aa925fd9fff7b4dbb0b475
+SHA256: 505b56ff32e3b5b035c3e60ad2cabc4d74d4e089596a0c7cf2828438d2c7f56c
+SHA512: 5ca7fbd9eb728dd56909bf3f40e37405e32747bcc72eba490e8493a36c843797c5dd0e3a771379764d912c356f1d85c2ce1ddd0ea86323c1f52dbec7ad23899c
+
