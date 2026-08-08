@@ -37252,3 +37252,31 @@ SHA1: 3835f276a9e4d896b3e3fdb5cbed5b8dc7e1650f
 SHA256: 8ba629e1f0daf5494340957bea47a0a51aa8e0bf4219f252a7d551c86f59867e
 SHA512: 35dcd070b29078d19681cf8d177bc093bcc993e8718fbc1acbcf20ecf316c63dd910399e24df537327bcb68ef5462ab79c7f82cc6f649ae22c667b6879b73746
 
+Package: 6tunnel
+Architecture: arm
+Installed-Size: 68
+Maintainer: @termux
+Version: 0.14
+Homepage: https://github.com/wojtekka/6tunnel
+Description: Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa
+Filename: ../../../../releases/download/arm-6/6tunnel_0.14_arm.deb
+Size: 8924
+MD5Sum: 87366c50756527157b6181f762d4c6fe
+SHA1: e3fd6c2c6545ab362932cbf3ea0a73411bc09ce0
+SHA256: 6e414829560ba5f3f3fecd184cbe5d5c5554e39a2449545b8598dd70fa267ef1
+SHA512: 235c1cff41340490d72db1e2108f2f384d1e29f07791a5594b98b45288010500105ed9e01a40147d42bbb651d3d709f718bf6f0e33390d98dbd76434e73a5cd7
+
+Package: tree-sitter-rust
+Architecture: arm
+Installed-Size: 1172
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.24.2-1
+Homepage: https://github.com/tree-sitter/tree-sitter-rust
+Description: Rust grammar for tree-sitter
+Filename: ../../../../releases/download/arm-t/tree-sitter-rust_0.24.2-1_arm.deb
+Size: 76072
+MD5Sum: 76ad385f2cbd115d3286afad942ca45e
+SHA1: 0ad31de27a7612df59782ef4326eca47bfae9ee4
+SHA256: 0e8d61e6a35fe3a2476430d739a43dfbed40e6bfd666df78f85a85b32d635002
+SHA512: 8aec35b6a38c0a60704fdac444d918a4a47c7e0a124f72c0a9a61077e3bfe076562901054822e4187c830cc57ac1e10d2bb44c77a1a9b7d94e84cf6ef11befd5
+
