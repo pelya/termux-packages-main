@@ -39395,3 +39395,32 @@ SHA1: a8f7d80a554d3bb390ff7f749b272fa10553e50c
 SHA256: 6cf0df7a0a6639158a0bc8cb1dd17131231156264ac5ddff00d321c792633671
 SHA512: f967467f1ac43c3dc28c7f405d5237c4beb19853bf6b5804c076c6f203aa8cb759238bd0a512236287c2ab0cbce32b5087c287899028f00b5ddfe04d25e386b8
 
+Package: hz
+Architecture: aarch64
+Installed-Size: 13808
+Maintainer: @termux
+Version: 0.10.5
+Homepage: https://www.cloudwego.io
+Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
+Filename: ../../../../releases/download/aarch64-h/hz_0.10.5_aarch64.deb
+Size: 3594592
+MD5Sum: a8d908e4b1592400d42b8e199765e19e
+SHA1: 9de93d7ce1da0ae10f98dcce18f4fc44c75f6dbf
+SHA256: b1b6230a3e01b5d1c8f72e7957edf97c30e7a81041672cc2ddeff017cad1a0a2
+SHA512: c84d6a63fd5a31911ab549c01649d6ac71e73766ed7c21ec83d08ff241667c2224227e0f84540353290219d96bb2279a9e8658f85289449198dca85212f0ad78
+
+Package: unpaper
+Architecture: aarch64
+Installed-Size: 120
+Maintainer: @termux
+Version: 1:7.0.0-4
+Homepage: https://www.flameeyes.com/projects/unpaper
+Depends: ffmpeg
+Description: A post-processing tool for scanned sheets of paper
+Filename: ../../../../releases/download/aarch64-u/unpaper_1.7.0.0-4_aarch64.deb
+Size: 30544
+MD5Sum: 05c15428ba79001d2772000927def1d5
+SHA1: 5fc79c02ae3d348d95204cbc8e5efe9b1f210d47
+SHA256: a32350bd7af46934eeb4f626ed8094952363cd5795b2363e12367d12859022cc
+SHA512: e7bd4354dfc6863edd693e209a02df458f30731d1f34b111c3d4560fbf0b81ca4be4a53a836624f3b0da320b79fea3b048ff593ec3f272e640ae233b7721b43e
+
