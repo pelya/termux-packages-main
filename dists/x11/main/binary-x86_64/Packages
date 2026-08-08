@@ -14013,3 +14013,33 @@ SHA1: e48876e9292f31546a877a519aef2f4aa9ba1296
 SHA256: f336e6cfdd886e47c8bd805a764b558364353b4a8d9f6d0a606ba2c55558ae78
 SHA512: 76d3be1fc2c7e49bc081ff80a713be423cb37d5b1b620ed8dbe524a8a8cbb9bec6b66e0af588c9df59f878c6bda38389d4f08654bd7e2e8a746ae7aee877c6c9
 
+Package: kid3
+Architecture: x86_64
+Installed-Size: 12964
+Maintainer: @termux
+Version: 3.10.0
+Homepage: https://kid3.kde.org/
+Depends: libchromaprint, ffmpeg, id3lib, libc++, libflac, libogg, libvorbis, qt6-qtbase, qt6-qtdeclarative, qt6-qtmultimedia, readline, taglib
+Description: Efficient ID3 tag editor
+Filename: ../../../../releases/download/x86_64-k/kid3_3.10.0_x86_64.deb
+Size: 2179988
+MD5Sum: 23cf8279f3d4290bc199c65ac9c1440b
+SHA1: 49e787cf3f7f968db567449d7620b3461c52e711
+SHA256: 7f315eb1613defb6365b36c2ca2674b96a7c85c800a8a577e39defaf6ce0ba6f
+SHA512: 00e1fba40e7adf63218788d8693d1fcb531b73ae6cf9e8d1cb5720524835e0d396d49a84e4a72dd85bc67778d239bceaed1da838df710b935ddcb8e555950283
+
+Package: konsole
+Architecture: x86_64
+Installed-Size: 5536
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/konsole/
+Depends: kf6-kbookmarks, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kguiaddons, kf6-ki18n, kf6-kiconthemes, kf6-kio, kf6-knewstuff, kf6-knotifications, kf6-knotifyconfig, kf6-kparts, kf6-kpty, kf6-kservice, kf6-ktextwidgets, kf6-kwidgetsaddons, kf6-kwindowsystem, kf6-kxmlgui, libicu, qt6-qtbase, qt6-qtmultimedia
+Description: KDE terminal emulator
+Filename: ../../../../releases/download/x86_64-k/konsole_26.04.3_x86_64.deb
+Size: 1352000
+MD5Sum: a94671d59e66eb7415185af584d267e7
+SHA1: a70e237d7c82f68fb7be85b5ef3af873678b2631
+SHA256: 2f8c1fe1be9de767ad6012b44565f771377a993daa20f0feb963ee0d030fd9b0
+SHA512: d72c65a119b37e44a399e7c00686c1ba11751c67498f3c61bb8e67484e7d05fbf6d533f4420cfd0d24c9a7fc6a011b33c5dfe0d900998a11c07957eaaed72f57
+

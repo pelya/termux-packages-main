@@ -37396,3 +37396,35 @@ SHA1: 76bdd644fdeb60bf26aa65aec27b41acbcafa5ff
 SHA256: 5278a49b650e79e9d4ef9e57e47810e9d86dc4cfe4ce465a2a2d8962bc561d22
 SHA512: 85225c3f42ab6fdecb64c56bc546ffdf7e48a6342a2633da7d80c856e4617ce5f16871ec4c0be1188efd07d448604a7d8def1ed8dd618fea830eae5f1cde699f
 
+Package: chromaprint
+Architecture: arm
+Installed-Size: 52
+Maintainer: @termux
+Version: 1.6.0-1
+Homepage: https://acoustid.org/chromaprint
+Depends: ffmpeg, libchromaprint (= 1.6.0-1)
+Description: C library for generating audio fingerprints used by AcoustID (fpcalc tool)
+Filename: ../../../../releases/download/arm-c/chromaprint_1.6.0-1_arm.deb
+Size: 10892
+MD5Sum: 98fcc08990a399aea3e0109f6c5289f4
+SHA1: ed8ec981c5e23d97c2470ce8bc212032548027b2
+SHA256: 6e2ffe033625614b97a72d47f01455c837532b6735b2ce1541da298f36eb4298
+SHA512: b82b9635c474a1330fff753ea312c9785837a50e252c8090f5aa07863146ab4a732dc7b665a988725742615fd49f505020e7deb1871a8ed817f976857e046206
+
+Package: libchromaprint
+Architecture: arm
+Installed-Size: 148
+Maintainer: @termux
+Version: 1.6.0-1
+Homepage: https://acoustid.org/chromaprint
+Breaks: chromaprint (<< 1.5.1-p20250625)
+Depends: fftw, libc++
+Replaces: chromaprint (<< 1.5.1-p20250625)
+Description: C library for generating audio fingerprints used by AcoustID
+Filename: ../../../../releases/download/arm-libc/libchromaprint_1.6.0-1_arm.deb
+Size: 33488
+MD5Sum: d04ce2d5f17d9947cfd0042b54ba7b2a
+SHA1: d4a5a17ffe7a518b8af20fd45d374731b6c99ec4
+SHA256: 6b5b4e2bfa2c5b486f8440aae99dc15a24f5568dbe40a30cee82063ec733fd1d
+SHA512: 1415ce42e70813106ecc2a0d302ff90a192b87b2596034fddfc17f2a732525dae643ed73bb294e29cef090bd494c003ace96f3802b01556e2e4963438d98bd66
+
