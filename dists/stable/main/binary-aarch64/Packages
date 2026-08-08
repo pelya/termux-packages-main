@@ -38595,3 +38595,18 @@ SHA1: e6d9a810e7533676b43876de97c9d711c91da32a
 SHA256: 508c403d0db4f0076e82947eac73a02adfb210c35d524e0525e329ff55f2238c
 SHA512: ff40cb11356df6a22f72a6df916f4c3fba8473a0ba09603889838e67ee87b53ad2231cfda5a1f3fbb03433d5c965b4f28b6479fc3ab11a51778373d13cb29a51
 
+Package: bftpd
+Architecture: aarch64
+Installed-Size: 140
+Maintainer: @termux
+Version: 6.6
+Homepage: https://bftpd.sourceforge.net/
+Depends: libcrypt
+Description: Small, easy-to-configure FTP server
+Filename: ../../../../releases/download/aarch64-b/bftpd_6.6_aarch64.deb
+Size: 32224
+MD5Sum: 87690dc72fd0aa8a98e3a2d80dd727f8
+SHA1: e286b383ad238c8e0e09d17e1ab895b3ba5bee9d
+SHA256: 3bed430768f88b6371067e668a445a2ddff24c49cfd8a552602ba450e683a023
+SHA512: 2481b59adac7bf7c7d581e9b9e6518b7cf591280d9cbe63a82007dac931b26d07d4a5479ee525b330499883f097591663c62453aa3cd0072a0ffb4d14f4ea6e2
+

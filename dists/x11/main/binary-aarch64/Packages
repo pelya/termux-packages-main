@@ -13751,3 +13751,18 @@ SHA1: f9a6726f1b682848051c509f2a43d4eeb3959c7a
 SHA256: ebf929ea2043a24a34868ab26daf48fbf6b4ca5268f73d371d8f492d4f93d5d6
 SHA512: 1941c642c23f189129274e66fe20ec22f72f0a1c8067eef60fc5d7d156d25552ab93489fc8e7c5be66189b61666dd8eef1d0a352c387a7f2c92dd46ea9cf4ce6
 
+Package: xorg-xev
+Architecture: aarch64
+Installed-Size: 84
+Maintainer: @termux
+Version: 1.2.7
+Homepage: https://xorg.freedesktop.org/
+Depends: libx11, libxrandr
+Description: Print contents of X events
+Filename: ../../../../releases/download/aarch64-x/xorg-xev_1.2.7_aarch64.deb
+Size: 12176
+MD5Sum: 3541946fb15f770d2ca667f818a8db7e
+SHA1: 5610ee6864bc299fbcc3b1e3027024016cedd339
+SHA256: 196e477f1f1765d937383ec231dc3e2dce408c6587f8352f46c4d586f50c5f3e
+SHA512: a5b36c70186197dcf95dc2dde9ce4ebc052ddb0218418da67929330f88d386f98cde2652373b5a8f0787fa3ac563e77f999148d194016b6adf1199edd7b5346c
+

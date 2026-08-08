@@ -36829,3 +36829,18 @@ SHA1: 4619ab449010a2655bec61f746c9d90945a62187
 SHA256: eca9439fa82da73ea2576a2501984590253e292242b3113c8c22651c1009f9fa
 SHA512: a6ca2cf80331033897eec75bd9c6d6c7692ce1410aaaada6a222821a289ddcd0a34f1461a890a31dbda19e98734ae7135562c6955c5c4163080ce3a8f1916c04
 
+Package: bftpd
+Architecture: arm
+Installed-Size: 120
+Maintainer: @termux
+Version: 6.6
+Homepage: https://bftpd.sourceforge.net/
+Depends: libcrypt
+Description: Small, easy-to-configure FTP server
+Filename: ../../../../releases/download/arm-b/bftpd_6.6_arm.deb
+Size: 30436
+MD5Sum: a629ab0660419821ef334d9137a4d21b
+SHA1: da79708ff49347e7588aaa45d70d952138221eab
+SHA256: 5f0f6b8cf2aa75fce70c63f52ce4b87d69fb13c6f6b00a3537589fd7944ea6c4
+SHA512: d68a809fd233146da52e10f869297a54e2bb213e8ad92b7f071fd36096874c8ab00d19325505bdee1c7b45826921cf113970cccd7f9df6a7f022616b9ac5f38d
+
