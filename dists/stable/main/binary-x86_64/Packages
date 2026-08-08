@@ -37936,3 +37936,50 @@ SHA1: 4e2b70c36747f7ab84c2a527bf0ba52369f612b4
 SHA256: bbc599808599849f7b21cb7a54e4c83f63fde9402502baabe50a4d2e94685134
 SHA512: a8c7077f1109c0bc11afa3b2aeb69cbe5638e6ade89240cb819730476eefd8ce731e0ae6099292c41419b287c6927082e126aa1b3f8df03f154e8618103024bb
 
+Package: no-more-secrets
+Architecture: x86_64
+Installed-Size: 120
+Maintainer: @termux
+Version: 1.0.1-3
+Homepage: https://github.com/bartobri/no-more-secrets
+Depends: libandroid-support, ncurses
+Description: This project provides a command line tool called nms that recreates the famous data decryption effect
+Filename: ../../../../releases/download/x86_64-n/no-more-secrets_1.0.1-3_x86_64.deb
+Size: 14752
+MD5Sum: eb59e6a33a5de0b77dbe70dd882a6bfa
+SHA1: 2085b7c67daf07e0b2bdc37b1de52396b81f83f6
+SHA256: 3e4bff9c4665b89078830d4418246b5d5eb665d6339130de9e50b3aedc03efec
+SHA512: 1e8d090cf97e937229b739abafde9be931688488831a93361b3e64ac26997153ca23624414cbcbd75b101a6f5a6e4d38788a6f573367abeb068c93a600731995
+
+Package: units-cur
+Architecture: all
+Installed-Size: 60
+Maintainer: @termux
+Version: 2.27
+Homepage: https://www.gnu.org/software/units/
+Depends: python, python-pip, units (= 2.27)
+Breaks: units (<< 2.22)
+Replaces: units (<< 2.22)
+Description: units_cur Python script
+Filename: ../../../../releases/download/x86_64-u/units-cur_2.27_all.deb
+Size: 10000
+MD5Sum: cfc5cb309ceffeb349aa9b2ea5606ecc
+SHA1: c63b4e1406e7edb7ea64b18704d0ddf93a758846
+SHA256: fecded30dddc9fa63064b2abcc7f21b0cb52b1e13307ac0476a08ac5f22792ce
+SHA512: a88f686b4858e201bb9bbb67601a929b18226941b7c46d271f3f3c8c953e33f52fa1df49d59a3a5be6ae8a72073ec0534632c8d7c7c6b7b5136ca838f93a3a9a
+
+Package: units
+Architecture: x86_64
+Installed-Size: 1084
+Maintainer: @termux
+Version: 2.27
+Homepage: https://www.gnu.org/software/units/
+Depends: readline, libandroid-support
+Description: Converts between different systems of units
+Filename: ../../../../releases/download/x86_64-u/units_2.27_x86_64.deb
+Size: 288876
+MD5Sum: 9f8feb3c05a134b19bc62b2b5ed8eadd
+SHA1: 09c39bba37a478abd6e7046bd4317f62be0b3499
+SHA256: d43ae2edfd590a3d7ec192211bf072f8a392f7e23402d9d798e5fe4c37ea145a
+SHA512: b111f82a4af1681abb8c2e65d7df41d122882ec95cf2cf69b8c282c4cf56e13abd6f02217d1bcad3c79ce5344db0766b9c003a039215059540ad0867c7c3c676
+
