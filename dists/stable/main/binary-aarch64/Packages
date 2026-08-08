@@ -38773,3 +38773,47 @@ SHA1: 87ce212374149f76c590f71adb1bdf995fcf1131
 SHA256: 01bf1d831e4e9eaeea722bd4de0994f8da6e9bfa3e1149593562452ad538a604
 SHA512: a55b3a24a5f91ed4546ac538d1066abafd3c37669b663165bb077a4d3c4f2f06b353058fe537fc642dd7002a883303aad00d9389d44c4bde1a773dafb9e0716e
 
+Package: libsfdo
+Architecture: aarch64
+Installed-Size: 196
+Maintainer: @termux
+Version: 0.1.4-1
+Homepage: https://gitlab.freedesktop.org/vyivel/libsfdo
+Description: A collection of libraries which implement some of the freedesktop.org specifications.
+Filename: ../../../../releases/download/aarch64-libs/libsfdo_0.1.4-1_aarch64.deb
+Size: 31316
+MD5Sum: 0bbde0c22820e9750842219008cbcb41
+SHA1: 0f612a81f61d10f0b3664c761c31fdf3caa3f76c
+SHA256: 2f53a7bd075c7250c5a8fc01a4b08abfc4b44c0fad0a7fe888677827900222d3
+SHA512: 72e19cbfe74251fa022fab5f76d3441f2f051cec06e72c5bff7463dde12b5140f6c5d6bc82fe64df132fe9ebe9cd09cf79cd146ca6357bf351cf70d4908c521d
+
+Package: ravencoin-static
+Architecture: aarch64
+Installed-Size: 1980
+Maintainer: @termux
+Version: 4.6.1-9
+Homepage: https://ravencoin.org/
+Depends: ravencoin (= 4.6.1-9)
+Description: Static libraries for ravencoin
+Filename: ../../../../releases/download/aarch64-r/ravencoin-static_4.6.1-9_aarch64.deb
+Size: 523348
+MD5Sum: 0203f328a201845340eba99e65f65069
+SHA1: 80b4b2456bf7f33cbb8f8d12d7346dd606e725f1
+SHA256: 297c066dfbaddcc4782851c26e7bc922973066259d5e25659a56af55678b3c3c
+SHA512: 5043323f337db82a063169ab3e4eeb052ce33c76afcfb1090eefa682d3d757b470c710883157b46512cc175546096fffc8a0c888834a02cc0fa5d51a9c5697ac
+
+Package: ravencoin
+Architecture: aarch64
+Installed-Size: 12988
+Maintainer: @termux
+Version: 4.6.1-9
+Homepage: https://ravencoin.org/
+Depends: boost, libc++, libevent, libzmq, miniupnpc, openssl
+Description: A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another
+Filename: ../../../../releases/download/aarch64-r/ravencoin_4.6.1-9_aarch64.deb
+Size: 3401820
+MD5Sum: 76280d193a401129da0eaa40a40596b7
+SHA1: 5122f901603be90de30330f3c0184d7524bce689
+SHA256: 583e69ae1fee8f02845adf4d8282f5262a3c06923181501c2d8569cd399f51b7
+SHA512: df28ab6809eaca6b7e3bfc79cbe61a96f10408c6677e1dfb0580b4c876efad264989b29eae40d8d255a5a98a2710aef220048308be5afb4f79650bee0b63b7a1
+

@@ -37770,3 +37770,47 @@ SHA1: dcdbddee8dc4ef2bfbb6873499c0a7f3918ac364
 SHA256: 87f303b0fe394c36a6191ed144004f36c85c40f474e93e8d56a148ae732ba760
 SHA512: 6ef226b1eb49b408069108ac0a240f0c8e3a24e6dd281ba97eb91a9503632b0586ce99dfb5929688f71838971f798195d3c257848f3f1db9b2c1ee19d75f6ce1
 
+Package: libsfdo
+Architecture: i686
+Installed-Size: 192
+Maintainer: @termux
+Version: 0.1.4-1
+Homepage: https://gitlab.freedesktop.org/vyivel/libsfdo
+Description: A collection of libraries which implement some of the freedesktop.org specifications.
+Filename: ../../../../releases/download/i686-libs/libsfdo_0.1.4-1_i686.deb
+Size: 33528
+MD5Sum: b0d1b6110cec28b3a5d2b211a3d66285
+SHA1: 635a4f8befaa66cc823ab4a4c82c2021099575bf
+SHA256: 31a6a3c95c37d6b4a67b04295ed718c142e6694bb1d546585052c6f588f8fcc8
+SHA512: df9a9c88edf8852d5056fc79c355944ee1f5ecb25f93f09e5baadb3e1bc6f9ba7b52d55d4a240b1d409c0036319b161477921df593197f2fe769eca982ed3aa4
+
+Package: ravencoin-static
+Architecture: i686
+Installed-Size: 1960
+Maintainer: @termux
+Version: 4.6.1-9
+Homepage: https://ravencoin.org/
+Depends: ravencoin (= 4.6.1-9)
+Description: Static libraries for ravencoin
+Filename: ../../../../releases/download/i686-r/ravencoin-static_4.6.1-9_i686.deb
+Size: 513816
+MD5Sum: b118384770d9ce5ce35715eac8e1067d
+SHA1: 9f65c9cea28abd02e8120c91c9b03f1e86742b2c
+SHA256: 559a61299c6d1885848d6a8faf60641f4d6755bc36fecd0dc4b7110cc6ec5adc
+SHA512: c3cb1d3844939b2d1025bf0c634ed2d8d21628e52fa90ff6cefa2e5ad8366744a1ce60bbc41a59ad4e38bbf3753efd07d82a5e17cd2bc03d5e24147e1bc9980f
+
+Package: ravencoin
+Architecture: i686
+Installed-Size: 14728
+Maintainer: @termux
+Version: 4.6.1-9
+Homepage: https://ravencoin.org/
+Depends: boost, libc++, libevent, libzmq, miniupnpc, openssl
+Description: A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another
+Filename: ../../../../releases/download/i686-r/ravencoin_4.6.1-9_i686.deb
+Size: 3712576
+MD5Sum: a7db8216616738f2474e2f70475cd26e
+SHA1: 94c6a75cd0ab6dc6fdd967364321e54c3bf06b24
+SHA256: 34a43627b32e64b17809bfcf62ed727774bbd04bd51868da4a3430ac5c675218
+SHA512: a97e3bbfbaaa949a6ae34d4232b45dc716b013fce30b89754d902a74581727d1b9fc8084e17f621902b8933f517acb0ed721a35fd4e7ed2d8e5b9c0c3eae8947
+

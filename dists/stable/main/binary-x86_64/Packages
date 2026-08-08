@@ -38742,3 +38742,47 @@ SHA1: f3757a2f574fdf5244292c042085adf676bcd605
 SHA256: d86e7e824f55f7ece4da9d503cbb95274210f33f6fe02ce7e6dc59aac9c4644d
 SHA512: 223044dfa2ffbfe6d79fc475a22c25bc107c2a79bcb9b043b522d88713c88690c38c1d023d49da2c06cd7714ffd8f7e69ffbdceb3f4e68a0e5ab1545d6da4361
 
+Package: libsfdo
+Architecture: x86_64
+Installed-Size: 196
+Maintainer: @termux
+Version: 0.1.4-1
+Homepage: https://gitlab.freedesktop.org/vyivel/libsfdo
+Description: A collection of libraries which implement some of the freedesktop.org specifications.
+Filename: ../../../../releases/download/x86_64-libs/libsfdo_0.1.4-1_x86_64.deb
+Size: 33612
+MD5Sum: 946eb9910c8f8ecfc81f271d0e52fc2d
+SHA1: f202d7ac68bdb6e26fba654409086a6117c7bc05
+SHA256: 0bb3e5143a49abb123229907b143289c07fc4d54aea2cb92dc335a766f2865fe
+SHA512: 03b8315dd9ef1960706b2199557ec5aa9856b52e9f7186f3be42b8ea2972fd5e484baaae993351bd19cbefebc6a939fc944ed7d625aaf0ca480c9a5816b2c5f4
+
+Package: ravencoin-static
+Architecture: x86_64
+Installed-Size: 2040
+Maintainer: @termux
+Version: 4.6.1-9
+Homepage: https://ravencoin.org/
+Depends: ravencoin (= 4.6.1-9)
+Description: Static libraries for ravencoin
+Filename: ../../../../releases/download/x86_64-r/ravencoin-static_4.6.1-9_x86_64.deb
+Size: 518868
+MD5Sum: d1e9d6826618216e75bd2753e25f8afa
+SHA1: 5f84edc0b180f7d397ca8599377fef8264910df2
+SHA256: 6da456699aa8e3eeb9cb5a4ad0b3c5664fb3f34d8659612ff5eeb7546d209ef2
+SHA512: f0fc9596c0061b44cfb8a2ddad3034e52f3dedba6ff9c655eca0ea505cac1f19d8cc3d4e5b80ee635b6dbb44373c4711d6342d7024fb3d073f5ab144bec8ebc0
+
+Package: ravencoin
+Architecture: x86_64
+Installed-Size: 13280
+Maintainer: @termux
+Version: 4.6.1-9
+Homepage: https://ravencoin.org/
+Depends: boost, libc++, libevent, libzmq, miniupnpc, openssl
+Description: A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another
+Filename: ../../../../releases/download/x86_64-r/ravencoin_4.6.1-9_x86_64.deb
+Size: 3589216
+MD5Sum: 93c1a93b90799ec8e6c043354e2875eb
+SHA1: 34b8460f489a0d15c95a3832b35aa760ee84c409
+SHA256: 54e2cc427d9853e4fa3600a040a052f20e4157076fe4ea5d8adbaaf8914b98f0
+SHA512: e3844a6bdb11587f9c83a28556309920f74ca23422bd9ded4ec3ff52a721545fdfcf4d74f639fb86d61e4f109bcc07fcc1f7974a235bc4600283ed93f82ed4eb
+
