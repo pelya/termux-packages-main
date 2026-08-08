@@ -13812,3 +13812,33 @@ SHA1: 495187d43fdc135e469921237de848a53ffdbfd6
 SHA256: fadd58072bc793750d95731aa6274a341c959ac54ad8bcbec3d7aadabd2b25d0
 SHA512: 8d20f095ec858546ab02e35ce69d75fd4969900bd2c1935acdfa5dd6b14d154d4ea5f825f7344f9d68f77b373be46fe3b80575adb2e3b1852f4aa46208de4055
 
+Package: lxmenu-data
+Architecture: all
+Installed-Size: 136
+Maintainer: @termux
+Version: 0.1.7
+Homepage: https://github.com/lxde/lxmenu-data
+Description: Freedesktop.org desktop menus for LXDE
+Filename: ../../../../releases/download/arm-l/lxmenu-data_0.1.7_all.deb
+Size: 18348
+MD5Sum: 00705c1ffc3c3d519aed3aff0052dd1e
+SHA1: 1cf3ef16bb46c8d9e6d302851f6c78ec2b25d352
+SHA256: 466c88c5c0794e86152f78fda5d02b8f2c0b04d50712d9d967828c1e587ef904
+SHA512: 42fdae5932a5b1a78c7f4380c24d29285a2cc84f896fa1ac1fcf84faa732c241ce806110572369f380e7822b7a01038e0bea9df8721d6f4425d32d7da45ea69c
+
+Package: pcmanfm
+Architecture: arm
+Installed-Size: 388
+Maintainer: @termux
+Version: 1.4.0-1
+Homepage: https://sourceforge.net/projects/pcmanfm/
+Depends: atk, glib, gtk3, libcairo, libfm, libx11, lxmenu-data, pango
+Recommends: xarchiver
+Description: Extremely fast and lightweight file manager
+Filename: ../../../../releases/download/arm-p/pcmanfm_1.4.0-1_arm.deb
+Size: 74608
+MD5Sum: d7d9a7ac71cd71066dc10bd30fe510d3
+SHA1: 681c75e1b3cacc2da5e3f43c738c1860c63eee85
+SHA256: 91e00ef005930cd02e187140c631abceb0bf3eab51bb6fbca5f3d6dc04a012fd
+SHA512: 86f62074d753197d719a74913d8c72a257a87e045aa335c7078168a0c794970f8ccd49acbf34fc9735cc52efa51dc3d3d9d288334a6f5771e7dc00e6a3b997bd
+

@@ -39261,3 +39261,18 @@ SHA1: 52a7aa5482b76636ebed89355f5b6bb44817e26a
 SHA256: 9d4b38015f4f49d7bccf40da56820f5135d8018a73df654ede527a2eed3d3448
 SHA512: e7339b003ade9d8dff449b1d14f418981a3c3d66c35e99b73986b5e733b174b920c249bb518a5d312cfd3780704096ce56d3f97601f8ba5354349635fb982d5b
 
+Package: git-delta
+Architecture: x86_64
+Installed-Size: 5980
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.19.2
+Homepage: https://dandavison.github.io/delta/
+Depends: git, libgit2, oniguruma
+Description: A syntax-highlighter for git and diff output
+Filename: ../../../../releases/download/x86_64-g/git-delta_0.19.2_x86_64.deb
+Size: 2320196
+MD5Sum: d0f00aa66db9f05664065a56bc591458
+SHA1: 04cff3c45bd1fe58853fd04c0616fdde8e41bd44
+SHA256: 1afc965eedd0907f1511880cc4ff7a86c558e16b048b84d226153c99207211b8
+SHA512: 379a69541b2fcf5dfa5e8ca6c08303b994b2c208857417b95596fa769f2c503d43f81026f7498848f693abf175e9d7bf1575517c3bf2e5b7c769da60349ec53e
+
