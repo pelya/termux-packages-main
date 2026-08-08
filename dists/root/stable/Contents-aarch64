@@ -1000,3 +1000,15 @@ data/data/greater.underscore/files/usr/share/man/man1/arp-fingerprint.1.gz      
 data/data/greater.underscore/files/usr/share/man/man1/arp-scan.1.gz              arp-scan
 data/data/greater.underscore/files/usr/share/man/man1/get-oui.1.gz               arp-scan
 data/data/greater.underscore/files/usr/share/man/man5/mac-vendor.5.gz            arp-scan
+data/data/greater.underscore/files/usr/bin/lspci                                 pciutils
+data/data/greater.underscore/files/usr/bin/pcilmr                                pciutils
+data/data/greater.underscore/files/usr/bin/setpci                                pciutils
+data/data/greater.underscore/files/usr/bin/update-pciids                         pciutils
+data/data/greater.underscore/files/usr/share/doc/pciutils/copyright              pciutils
+data/data/greater.underscore/files/usr/share/man/man5/pci.ids.5.gz               pciutils
+data/data/greater.underscore/files/usr/share/man/man7/pcilib.7.gz                pciutils
+data/data/greater.underscore/files/usr/share/man/man8/lspci.8.gz                 pciutils
+data/data/greater.underscore/files/usr/share/man/man8/pcilmr.8.gz                pciutils
+data/data/greater.underscore/files/usr/share/man/man8/setpci.8.gz                pciutils
+data/data/greater.underscore/files/usr/share/man/man8/update-pciids.8.gz         pciutils
+data/data/greater.underscore/files/usr/share/pci.ids.gz                          pciutils

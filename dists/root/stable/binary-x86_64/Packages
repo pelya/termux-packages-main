@@ -765,3 +765,18 @@ SHA1: a158f824ebeb3938e4253629fe31a88478eb2a27
 SHA256: 819f86ef3f31283c8b8a60c7a3730171bc21feb4b378c9cc8567844549069c20
 SHA512: 230cd0fdf7793bcd1fa96dca934af0442de24360b827720f652f03896bc5aa4729fe399b9e482960075a96d0881c7ff8d2f644273ce6ba80e7ee246647afd381
 
+Package: pciutils
+Architecture: x86_64
+Installed-Size: 768
+Maintainer: @termux
+Version: 3.15.0-1
+Homepage: https://mj.ucw.cz/sw/pciutils/
+Depends: libandroid-glob, zlib
+Description: a collection of programs for inspecting and manipulating configuration of PCI devices
+Filename: ../../../../releases/download/x86_64-p/pciutils_3.15.0-1_x86_64.deb
+Size: 474540
+MD5Sum: aa5a76eb28a9639f2f0bf4c1b152a6bc
+SHA1: 8f4c5a9da45c9e6445ca114e86660f8e55582f71
+SHA256: ab19bc8a1ae04b43018c22843f8dcdc40d7c0de82f6567659d6734c851871062
+SHA512: 6cc23a096f949933b1ed455bdd750150375db6f9f5130afa5a6bfe761d4dc4085a13cb14a5e1985260df2a5488c7fe054ce84b99b3e9974929a33d78523db6a2
+

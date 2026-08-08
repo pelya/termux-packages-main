@@ -13540,3 +13540,33 @@ SHA1: 31a1cc6c74b0a985e6df9f9ab4c9dbca39991590
 SHA256: 253755f6eb0b195a993a59b0501cc92e8855a5c864dff6d20c95b6122b420eff
 SHA512: 41f1c99308d152d092337cb1c89861ba05a40faef3919881136f484a69931222bd2100ed77b5cba412c5beeb0655f91b69eff08faeef7b2f186f5b79d29ade7d
 
+Package: bluefish-static
+Architecture: aarch64
+Installed-Size: 936
+Maintainer: @termux
+Version: 2.4.1
+Homepage: https://bluefish.openoffice.nl/
+Depends: bluefish (= 2.4.1)
+Description: Static libraries for bluefish
+Filename: ../../../../releases/download/aarch64-b/bluefish-static_2.4.1_aarch64.deb
+Size: 138436
+MD5Sum: c04ea97b73d2de6a25472986b957a147
+SHA1: b0d10af478c6bf098f73f1d0e753a52ff3760a85
+SHA256: a9de85a6b3f03f66af4d5e8986081e3b099b66821a9cb86d6b79beb998f005ec
+SHA512: 4f9539c18ee378ff765d9cd05578efdfe8a090d37c52e3f3b65c694d465a671f99474cf6f0a60e995792c19fb6be696c1be261122a010ac07e66c4c53ab2c026
+
+Package: bluefish
+Architecture: aarch64
+Installed-Size: 7696
+Maintainer: @termux
+Version: 2.4.1
+Homepage: https://bluefish.openoffice.nl/
+Depends: atk, enchant, gdk-pixbuf, glib, gtk3, harfbuzz, libcairo, libxml2, pango, zlib
+Description: A powerful editor targeted towards programmers and webdevelopers
+Filename: ../../../../releases/download/aarch64-b/bluefish_2.4.1_aarch64.deb
+Size: 2571912
+MD5Sum: a12bb03229bb10daa456549531c2ee9f
+SHA1: 842b90eab1969d32fb3835252a4ac43ef75d8b75
+SHA256: e07e52fb4ab3c44d53b36aa46e03ac0cafd3cca4bcb9a4e9c7daa31a386b87a3
+SHA512: 7c4276f280eeaa80deb9cd1c6b15775322ae75954be25dd26160e70331593ae773f7eaec69eaeafaa96a49802d03ab30dbffc3772875a2bd1981ca337e634d6b
+
