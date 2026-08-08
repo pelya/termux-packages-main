@@ -39646,3 +39646,31 @@ SHA1: 8ae473c05c28ba5900a4f1a1cc432e7a1affcdbe
 SHA256: ac379acf970d6399f41a9c2b0fb60d121e0490dc236ba04246c00183f8cde517
 SHA512: d6fa7085fd264524f8bf0f47550765cfb36781de5af26a53a71e6f33d05ce1c8cbe03d8f71f3ed52f83658eed29f7020a826c65bc46967262f00adbd61052bd3
 
+Package: freecolor
+Architecture: aarch64
+Installed-Size: 68
+Maintainer: @termux
+Version: 0.9.3-1
+Homepage: http://rkeene.org/oss/freecolor/
+Description: Freecolor is a replacement for Linux that displays free memory graphically
+Filename: ../../../../releases/download/aarch64-f/freecolor_0.9.3-1_aarch64.deb
+Size: 5624
+MD5Sum: 30014b6653714e884c28a0922e97bf79
+SHA1: 3db2ce10594f1de0bcc39c4f6d3a0fe306026a17
+SHA256: 5af27dba8a57f6805688a593c0f12fbd0290d09f79408f59e3070bc64c266547
+SHA512: f6671159638325032c4772668d74926138279f4e0709bb2244de6c0256d1e00e9da1e8afede2e5f5777eb04051f2b6157a5f8bee229ee04d7583ff12f2eb95a7
+
+Package: taplo
+Architecture: aarch64
+Installed-Size: 10420
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.10.0-1
+Homepage: https://taplo.tamasfe.dev/
+Description: A TOML LSP and toolkit
+Filename: ../../../../releases/download/aarch64-t/taplo_0.10.0-1_aarch64.deb
+Size: 3012736
+MD5Sum: 8fbfa716781f25977a35b7db9e72e048
+SHA1: 09e3f1ac973e0a689b86682f50e318383992f2d1
+SHA256: 411305bd61c6648ec906778ea9242e506aaef7deaeabe85d76778bc9c4525e97
+SHA512: 3073f076ccdbda05904404178078999930c7abccd796a448b9f915120813532b3a3a9aad57b53cc26ebfb8565e19dd7c2a2460bacec45bada18a0f4755c1c9a5
+
