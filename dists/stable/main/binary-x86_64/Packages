@@ -39060,3 +39060,17 @@ SHA1: 4a1200fba2d3a84fd44cd2094e69ec420c2728e8
 SHA256: c94ffec617f0ae353585cdef830a62eb54737dbdfa8d81e96a602a77a7239665
 SHA512: cf56d69106413a18bec0dac3e435592bcaaad23e8895eede1852693d25e38e370f6105faa902a170992daf58c591672e32eb054730c6ddeeecbea27ec77c40e7
 
+Package: prover9
+Architecture: x86_64
+Installed-Size: 9120
+Maintainer: @termux
+Version: 2009-11A-2
+Homepage: https://www.cs.unm.edu/~mccune/prover9/
+Description: An automated theorem prover for first-order and equational logic
+Filename: ../../../../releases/download/x86_64-p/prover9_2009-11A-2_x86_64.deb
+Size: 884200
+MD5Sum: 66979d750f35df9c7eb87898855d45f0
+SHA1: 3e6ac77411cc0068fac4bf808729043e2ce6b7bc
+SHA256: 2eb6197aa1daa83f3bcdcb1b5b3023226748b1aad52cf16c882bdca367a192db
+SHA512: 1f899c391a1f82311e5d270e616375af6e7cab12eb93ff55497ab7397b81f291c0ca028b7264bad9a07537df5d830483c37eefa1490839bf3bfd31df45e78374
+

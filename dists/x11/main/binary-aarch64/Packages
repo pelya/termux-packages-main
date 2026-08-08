@@ -14040,3 +14040,18 @@ SHA1: 92fb87304777b54eb092a5644f6827945277c641
 SHA256: fb4e3564d8a71246185468b3304c6d4c8c23161a43fd2bb95b5f3a66721b59ea
 SHA512: 56f50e252f0a831b8de6cb7ac34e5c53ef7695973026f1da8c40c394ee03499570f34df990f1a4bb8739231ae8aed03b722be93b80358f3a16597f3cf65ece70
 
+Package: chromium-host-tools
+Architecture: aarch64
+Installed-Size: 459452
+Maintainer: @licy183
+Version: 149.0.7827.155
+Homepage: https://www.chromium.org/Home
+Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
+Description: Chromium web browser (Host tools)
+Filename: ../../../../releases/download/aarch64-c/chromium-host-tools_149.0.7827.155_aarch64.deb
+Size: 51755160
+MD5Sum: 6c5094a5d3173fb05f6bdfaf47428429
+SHA1: 883eb7ee3b2584099b903cd62d35fccec2131aa3
+SHA256: e8792d5506a6d3040d654335989a0ebc51834a8ef56c43bbaed7b881d15e6763
+SHA512: 2fc2cadb45bfe6d214b3435c10b59f863b34c65179bb9380200036dc15d8007e89bacb1d99c532f1c79ecf8ff106e3c1f3051d5bdfbd795024e19ae852672e51
+
