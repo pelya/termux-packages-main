@@ -1020,3 +1020,13 @@ data/data/greater.underscore/files/usr/share/doc/encfs/copyright.1              
 data/data/greater.underscore/files/usr/share/man/man1/encfs.1.gz                 encfs
 data/data/greater.underscore/files/usr/share/man/man1/encfsctl.1.gz              encfs
 data/data/greater.underscore/files/usr/share/man/man1/encfssh.1.gz               encfs
+data/data/greater.underscore/files/usr/bin/mtr                                   mtr
+data/data/greater.underscore/files/usr/bin/mtr-packet                            mtr
+data/data/greater.underscore/files/usr/share/bash-completion/completions/mtr     mtr
+data/data/greater.underscore/files/usr/share/doc/mtr/BSDCOPYING                  mtr
+data/data/greater.underscore/files/usr/share/doc/mtr/COPYING                     mtr
+data/data/greater.underscore/files/usr/share/man/man8/mtr-packet.8.gz            mtr
+data/data/greater.underscore/files/usr/share/man/man8/mtr.8.gz                   mtr
+data/data/greater.underscore/files/usr/bin/pixiewps                              pixiewps
+data/data/greater.underscore/files/usr/share/doc/pixiewps/copyright              pixiewps
+data/data/greater.underscore/files/usr/share/man/man1/pixiewps.1.gz              pixiewps

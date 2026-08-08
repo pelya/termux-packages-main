@@ -795,3 +795,32 @@ SHA1: 998dc00f0ccf6585368dea98e691c1d90776d22c
 SHA256: d21c38eae658a3457d1354f101d320f6026d291a6025954aa30095d60f9d0f27
 SHA512: 0f570a04953bb0f42e6b639da695781475ca218ad9a9d7cf6153cf1007fa24512632d77c29b299a33284cf7c9c9ed742eeefe048eac048c0316a0d5282a16c8b
 
+Package: mtr
+Architecture: arm
+Installed-Size: 176
+Maintainer: @termux
+Version: 0.96-1
+Homepage: https://github.com/traviscross/mtr
+Depends: ncurses
+Description: Network diagnostic tool
+Filename: ../../../../releases/download/arm-m/mtr_0.96-1_arm.deb
+Size: 47436
+MD5Sum: 559b6658425fbcfd51e22134f6ed2cba
+SHA1: 8f45a2c8520de06f80ebe12b3de8107b44e539d5
+SHA256: be61e9211c56e6f2bd0290b0fcfc2b39b2cd2133a4453ebd34d0eaa62609d2b5
+SHA512: 0fc48e8195973d6221b96d61fe4e3ca019eebe9858024f4b904c7f365d23f8c2438921a5e45cc835439097dd5933d89ef2dbee69cf57ec5cbf08c82d6554052d
+
+Package: pixiewps
+Architecture: arm
+Installed-Size: 140
+Maintainer: @termux
+Version: 1.4.2-3
+Homepage: https://github.com/wiire-a/pixiewps
+Description: An offline Wi-Fi Protected Setup brute-force utility
+Filename: ../../../../releases/download/arm-p/pixiewps_1.4.2-3_arm.deb
+Size: 37796
+MD5Sum: b72019e1dbcf1a5632cc2c5d843a8eca
+SHA1: 0941af3388157137645950cff167e4d7d4683777
+SHA256: 2e1af3b18134b641176604874f094464a048105e9ac3c36754429f7ffa34405d
+SHA512: f3de9de7721f4c9be890fa52b63be866fc134a549123bb2820ef6fdc2eacc77320948861d641364fcc7fcf8c4ee313f72cc05dd3dd7cdde935f0e0004f8b89dd
+
