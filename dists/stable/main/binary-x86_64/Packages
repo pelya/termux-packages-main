@@ -39146,3 +39146,45 @@ SHA1: 13ec2d797abbf93e28b3bec0c6efef98084018bd
 SHA256: 651eb794044e1fd0031665a568a46b7bc528c290adc6ae8dc51a1aa9afadea7e
 SHA512: 2cd924c9427b028d08f1993ccc37e60f6f8d9688c252f21ea5e0ac7406e83b6225673f6dd62643eb52e655989fb0c4afedf117eb608ac2f4fda208b12b115059
 
+Package: snowflake-client
+Architecture: x86_64
+Installed-Size: 18880
+Maintainer: @termux
+Version: 2.14.1
+Homepage: https://snowflake.torproject.org/
+Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Client)
+Filename: ../../../../releases/download/x86_64-s/snowflake-client_2.14.1_x86_64.deb
+Size: 4852252
+MD5Sum: 350001ac3e7b35a5a168caeb584a2424
+SHA1: 76b14a7cb949a92f54aec07a900eb1e023048770
+SHA256: 7b0cf93c4c285b0682a3e530703077c07b07f98266fa43b74ee07e6fcaa6f07a
+SHA512: cdbd5f8f1ed919556081506804844384c95d7f7acc8a21392b9aedec342f395880aa8200b3d05e3943c0886068f7be6b2062658147d3f4d3d3d2ea1eed7424fa
+
+Package: snowflake-proxy
+Architecture: x86_64
+Installed-Size: 17700
+Maintainer: @termux
+Version: 2.14.1
+Homepage: https://snowflake.torproject.org/
+Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)
+Filename: ../../../../releases/download/x86_64-s/snowflake-proxy_2.14.1_x86_64.deb
+Size: 4795116
+MD5Sum: 06de14bcb2f00266377d8a7d83858bd2
+SHA1: 43b198e2b5add56d9596f9958d8a03755af5151e
+SHA256: add039ca3a2e11bb4a37d4c5b3545055741dfb2da9b877035f5be40b0230fac0
+SHA512: 09302859032afd3dfc43185070947a08080c158febb299153be2e811535917eae391847843aa92c9293fc8b82af9d1db371bd2bc3118bf383fac9a77b028ef31
+
+Package: snowflake
+Architecture: x86_64
+Installed-Size: 40
+Maintainer: @termux
+Version: 2.14.1
+Homepage: https://snowflake.torproject.org/
+Description: Pluggable Transport using WebRTC, inspired by Flashproxy
+Filename: ../../../../releases/download/x86_64-s/snowflake_2.14.1_x86_64.deb
+Size: 1748
+MD5Sum: b920c4dfffae2b8dbfaed62004692cfe
+SHA1: 8704cf1570c1474d166d5a7dae260bb343959d26
+SHA256: ca6973c0d80c183da477d6bd242e97805722db3e5679c31f4e2dc763fb262e58
+SHA512: 7734cced14daee0ce622ea877e72ef4a3f2071567f6be8abf9d6b2b08db3b9c979e167cfc33061ad6d6e58b76f74546c3b254ae52cbf373818d3f2ec2a593c59
+

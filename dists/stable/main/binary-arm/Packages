@@ -37428,3 +37428,45 @@ SHA1: d4a5a17ffe7a518b8af20fd45d374731b6c99ec4
 SHA256: 6b5b4e2bfa2c5b486f8440aae99dc15a24f5568dbe40a30cee82063ec733fd1d
 SHA512: 1415ce42e70813106ecc2a0d302ff90a192b87b2596034fddfc17f2a732525dae643ed73bb294e29cef090bd494c003ace96f3802b01556e2e4963438d98bd66
 
+Package: snowflake-client
+Architecture: arm
+Installed-Size: 16108
+Maintainer: @termux
+Version: 2.14.1
+Homepage: https://snowflake.torproject.org/
+Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Client)
+Filename: ../../../../releases/download/arm-s/snowflake-client_2.14.1_arm.deb
+Size: 4308076
+MD5Sum: bb10487812b7007b8408f0994303bb96
+SHA1: e186d71442b118cdd4334554330165a3be39ab1c
+SHA256: cf348388d80b8f7eabfde017a8d3235709eccec25fc07a2512c5e5575b30573d
+SHA512: fccaccc669817c06ba30b5ac84c3adb605a9d09f3a9e668b5f211620fc85f2c9c00759894513bb405ce71bec9e454ddfc904677a4a0a990d9cee51336b46ae94
+
+Package: snowflake-proxy
+Architecture: arm
+Installed-Size: 16008
+Maintainer: @termux
+Version: 2.14.1
+Homepage: https://snowflake.torproject.org/
+Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)
+Filename: ../../../../releases/download/arm-s/snowflake-proxy_2.14.1_arm.deb
+Size: 4308620
+MD5Sum: 04a1a637b8f0706a26f614b0b4c1085d
+SHA1: 8d8ed879aead06f18b4b488f48a696112a5c4625
+SHA256: ba7e554e01aa7baa20bb98a681ce7385acd76ac6cbd8e945790a83d67c388cb7
+SHA512: 8d1ef71122cdfa4cc2fce88d175d1098302a59083eba2232b75f424d238bcae7aa23e0dd1ac43160eaa98d054248e2021a7a3d32c81309e94a1149e45feb4ad3
+
+Package: snowflake
+Architecture: arm
+Installed-Size: 40
+Maintainer: @termux
+Version: 2.14.1
+Homepage: https://snowflake.torproject.org/
+Description: Pluggable Transport using WebRTC, inspired by Flashproxy
+Filename: ../../../../releases/download/arm-s/snowflake_2.14.1_arm.deb
+Size: 1748
+MD5Sum: 3db20bbbbcb1e369afb230f5bae4ae23
+SHA1: daed22f874053e77729e9f571e7f3dbb3c096f8f
+SHA256: f556b430c6a7070f385540bde08b64fefd93ace31b57484b48a52c1d3847587e
+SHA512: 5bf7d8b89ff83d09f8bf7c2d0135b8ed375e00afb9e6f4c8ab9dc552a99d05c1ab8adbfac168df2d664165dd7bc5510fc4e64e80ac6876211f5cbcd58200ceca
+

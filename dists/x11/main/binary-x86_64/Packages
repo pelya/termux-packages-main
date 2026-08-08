@@ -13968,21 +13968,6 @@ SHA1: a460541ae5557f2d39f3aeb88e904de5d86733bd
 SHA256: cb1bb69e82192f7ebb7558e13567b04d9881fdf87a9f950dd192870f67f4b347
 SHA512: c10e8af07e6960630e6d553f13802000c9ba14d2d0f01e59f46a84d2f69cddb668dec9df410b6c80c85afdb7f3a32e85515d28e580250b1285e186091978e4a6
 
-Package: chromium-host-tools
-Architecture: x86_64
-Installed-Size: 397500
-Maintainer: @licy183
-Version: 149.0.7827.155
-Homepage: https://www.chromium.org/Home
-Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Description: Chromium web browser (Host tools)
-Filename: ../../../../releases/download/x86_64-c/chromium-host-tools_149.0.7827.155_x86_64.deb
-Size: 48279344
-MD5Sum: 409e41c940da70a909849d5762a0009a
-SHA1: 06c1659b1c187282feb0a14e13f41bc3cfe10cba
-SHA256: cce996d2798c0d925a9042c70f19e1b42d209d91c51d1c88f2d6f82a1fdbba24
-SHA512: d4d6b32399b839343dd0224f541e0ef4cdaeec6d4d5cea8823a8472c8be5cdab9446ce657abf00c2f89818cfaa23c54449a612f69ca976e49c518ad6df036ba4
-
 Package: pcmanfm-qt
 Architecture: x86_64
 Installed-Size: 3244
@@ -14042,4 +14027,19 @@ MD5Sum: a94671d59e66eb7415185af584d267e7
 SHA1: a70e237d7c82f68fb7be85b5ef3af873678b2631
 SHA256: 2f8c1fe1be9de767ad6012b44565f771377a993daa20f0feb963ee0d030fd9b0
 SHA512: d72c65a119b37e44a399e7c00686c1ba11751c67498f3c61bb8e67484e7d05fbf6d533f4420cfd0d24c9a7fc6a011b33c5dfe0d900998a11c07957eaaed72f57
+
+Package: chromium-host-tools
+Architecture: x86_64
+Installed-Size: 397504
+Maintainer: @licy183
+Version: 149.0.7827.155
+Homepage: https://www.chromium.org/Home
+Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
+Description: Chromium web browser (Host tools)
+Filename: ../../../../releases/download/x86_64-c/chromium-host-tools_149.0.7827.155_x86_64.deb
+Size: 48279344
+MD5Sum: 0660c72aa0872e750deb290d2b0514d7
+SHA1: 421f67b461536b420ef58728859d7a8a60b13606
+SHA256: 46305fd52b71d37034f7d4154684e8c4d19baa33c5be546d90ee3a23efa85fd9
+SHA512: 1820f887cbeadc256f9c198f1cd60cf4e7f356bb7c7a14353cbe6c839bee1775eaa4f59045712b8de0caa4ab29a5e8cb66930988edda4d238b2623508bea64f9
 
