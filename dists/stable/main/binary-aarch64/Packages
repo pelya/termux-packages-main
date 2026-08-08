@@ -38863,3 +38863,33 @@ SHA1: 0d89ec01a295a828859d1c9c370cb83764b65595
 SHA256: 7735213e4810c93e31f7394d1fb0b052bab20f070cf218281a74d07f47fc7f6b
 SHA512: 64e63a21dfb04b28e4e1c032d60c058da46f675b2d83bd8e1dd3c8c1e0cbc7596f1d2cb4e87c9b3604f857a4fd6be6a348bc1f30bb8939d5e3813d5640318a88
 
+Package: joe
+Architecture: aarch64
+Installed-Size: 2252
+Maintainer: @termux
+Version: 4.6-5
+Homepage: http://joe-editor.sourceforge.net
+Depends: ncurses
+Conflicts: jupp
+Description: Wordstar like text editor
+Filename: ../../../../releases/download/aarch64-j/joe_4.6-5_aarch64.deb
+Size: 447972
+MD5Sum: b6f0d608b581a05197ee7f1cf790cf31
+SHA1: 08081d64cf3555bdb91c328f17809214573484a5
+SHA256: f518d504b9a063b63054e36b8b1a959b931c874bb365ff31e5c004b4f3e2bfa6
+SHA512: 102cdf9af2298ae1f5adf00de85141fcab1787844ddda3050583a7b488a25f1c6af512747c5280951670bc1044c81856262e956ced521ee3c704439696870420
+
+Package: zls
+Architecture: aarch64
+Installed-Size: 3148
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.16.0
+Homepage: https://github.com/zigtools/zls
+Description: Zig language server
+Filename: ../../../../releases/download/aarch64-z/zls_0.16.0_aarch64.deb
+Size: 1037564
+MD5Sum: 5b99de1f0362a4b2169191e3179ab89f
+SHA1: e13cee4d2e2e60e74b5625b9ff1412bddf07c0f9
+SHA256: ba78e8f4054dab421a2b03bdb53e0b0f2905829f7653bf852551eef30891bcee
+SHA512: 9d1b54ad05dfbd1bfa86a3a7d6c5866fdacce27b60ce1b4cc18b1f47b63a33afb217f52a2589a53babee807f0d46e3eeb5311656de9078fc2484d97112369b51
+

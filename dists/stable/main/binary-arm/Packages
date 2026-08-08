@@ -37097,3 +37097,33 @@ SHA1: 0d89ec01a295a828859d1c9c370cb83764b65595
 SHA256: 7735213e4810c93e31f7394d1fb0b052bab20f070cf218281a74d07f47fc7f6b
 SHA512: 64e63a21dfb04b28e4e1c032d60c058da46f675b2d83bd8e1dd3c8c1e0cbc7596f1d2cb4e87c9b3604f857a4fd6be6a348bc1f30bb8939d5e3813d5640318a88
 
+Package: joe
+Architecture: arm
+Installed-Size: 2064
+Maintainer: @termux
+Version: 4.6-5
+Homepage: http://joe-editor.sourceforge.net
+Depends: ncurses
+Conflicts: jupp
+Description: Wordstar like text editor
+Filename: ../../../../releases/download/arm-j/joe_4.6-5_arm.deb
+Size: 434812
+MD5Sum: 1425a67ccdf6cce26d34ed97c9847ba7
+SHA1: a95831fbd6c5559b59eed4a347b1e373dc9585b9
+SHA256: 1e463435dd177f408cafdb293ee0da997ee105dd9ad1c6a280d87e9e7a93aced
+SHA512: 63c50e3eaa8979ed1f053cf8d59ccc30e771778798d689a3f70daffca444304c4dc060790fff0bf29a6f51aa2db6d2451eea50e789aca824987f80e5138954f9
+
+Package: zls
+Architecture: arm
+Installed-Size: 3304
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.16.0
+Homepage: https://github.com/zigtools/zls
+Description: Zig language server
+Filename: ../../../../releases/download/arm-z/zls_0.16.0_arm.deb
+Size: 1039828
+MD5Sum: 5b5bdd0b0d4941fb98b1df2870eeaefb
+SHA1: 0d8c60473eed19ae8ccd989a4d955fbd7d40fbba
+SHA256: 75c5f0fb63f8b2d3e0bbb95deb3c0de9540f148d0b97cc8164949e0b6d0e2b8a
+SHA512: 31f65bd06da1241f573d47e32ebc9ae312d469d8fc2bb5ba24447f9582914feb3058baf1d0532ae99fba32e2cbfa854dd756047058e4e29d25545404bdf048d7
+
