@@ -36380,3 +36380,36 @@ SHA1: c76515c256e8e760916a4f98a58a3b55ab7bf82e
 SHA256: 85dab63ce478a6cfd3204265c536e4bb3614ed7de26f1deb55efe0bb94df45d7
 SHA512: 582fba378d8c4aafc4bd32f0d5c53844d9dbd3ae88f254107c25148d0bbcb1daba8590760ff072ea99b85f08e0ef0e90a4e97f3c67dac2ed120d0cb5bd92c244
 
+Package: make-guile
+Architecture: arm
+Installed-Size: 872
+Maintainer: @termux
+Version: 4.4.1-2
+Homepage: https://www.gnu.org/software/make/
+Breaks: make-dev
+Depends: guile
+Conflicts: make
+Replaces: make-dev
+Provides: make
+Description: Tool to control the generation of non-source files from source files
+Filename: ../../../../releases/download/arm-m/make-guile_4.4.1-2_arm.deb
+Size: 234648
+MD5Sum: 8bcb9e741e7289dffdc21888d1960099
+SHA1: c887c6ce0fe6919b28e6d6ae1dce0d2c40629868
+SHA256: f2ead73566f4c9a0bfb0164971f7f81f74ba3ed5b9df1f227157d3314d16f9c6
+SHA512: 9690022caaf024f4d5b52993eb19755cfccdb4f21f73517080dc67ca7a656ff4ead7d250fb4fb7f3c6061f36e2341f656ccffecd0e27d98ed02e98dbb8e84704
+
+Package: ncdu2
+Architecture: arm
+Installed-Size: 820
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 2.9.2-1
+Homepage: https://dev.yorhel.nl/ncdu
+Description: Disk usage analyzer
+Filename: ../../../../releases/download/arm-n/ncdu2_2.9.2-1_arm.deb
+Size: 302500
+MD5Sum: 7ead466b2539098e16a0c144a46cd5b9
+SHA1: 04d9659024b8960b7649a443d4f8127b280036b9
+SHA256: 5e2e821c3fc8866658dc3079afe45905f1e919ffc403b812dba4599004e565c0
+SHA512: 20c5ea49e58eb06860e3d6ee6ec54aa60279640e1f2bac405aaa470ffc4046bf00e44db385b833cd078715abefc97986fce748ad62adea300689cea5742047ad
+

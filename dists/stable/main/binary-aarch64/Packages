@@ -38117,3 +38117,36 @@ SHA1: 5d1cb8e714c5b02c8d0e8ee6b3f66956523c0c8b
 SHA256: e563fbfb92ebfacadf48780cc4ed439d90ae10d7db9dd4740bf14d980d56f024
 SHA512: fa70914b3add1b1edb3a4d10d3f431e2453ca000bc8090c80c510d49a9f9756a227595ac00cbd0977372ab96057659b31f983b7938c65f8571abf892ba98c9dd
 
+Package: make-guile
+Architecture: aarch64
+Installed-Size: 944
+Maintainer: @termux
+Version: 4.4.1-2
+Homepage: https://www.gnu.org/software/make/
+Breaks: make-dev
+Depends: guile
+Conflicts: make
+Replaces: make-dev
+Provides: make
+Description: Tool to control the generation of non-source files from source files
+Filename: ../../../../releases/download/aarch64-m/make-guile_4.4.1-2_aarch64.deb
+Size: 239696
+MD5Sum: bcc347ae6af7339febc4c06cc6368a4f
+SHA1: 7498f16bd38eb8247cc28dcc882fa443754b912c
+SHA256: 1d6bba1a03ca9e886734ba82285a1079efcebdc477d846933c402501fef5c33a
+SHA512: 344f0c1ad3422fa072787ff578a8b350bbb120e24c915cca6765feaea25ddb73612281bb82094326eeb62babbcd69d86b49883cd30c1428629de6e6395593929
+
+Package: ncdu2
+Architecture: aarch64
+Installed-Size: 836
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 2.9.2-1
+Homepage: https://dev.yorhel.nl/ncdu
+Description: Disk usage analyzer
+Filename: ../../../../releases/download/aarch64-n/ncdu2_2.9.2-1_aarch64.deb
+Size: 309348
+MD5Sum: 56584b946e9a0f8bb29853ee91173bf6
+SHA1: edcd09ec7dc65dea4988830e2902834d13841dfb
+SHA256: 13b5a80b47d75140fc6826b865b0844a1b2439bbb2d464ae881328ccc1982bb1
+SHA512: dbc11062aaf649ebff23f8523e28678d93b88cf282e54e0e9c2e58c7ef3092906e828b12a571b70868edb6a70336519a75ce9452886ac368590257046598d3cf
+
