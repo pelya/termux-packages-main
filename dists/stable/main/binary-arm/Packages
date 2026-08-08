@@ -36321,3 +36321,33 @@ SHA1: ca8bbb551f689abd0eb5ab179ad9d2b4e176c933
 SHA256: 6a476657960ca7b61171f7e8a24324712af3ef5f280ff1c2cef2122f86121d19
 SHA512: fb67441c3d866bb8c8fcbbb4f868c40a475ff5039b4c2b104006331c37bf50819e9c312cd8fe96d84920cc1d032c34d181da754f049c995ac0636ff34d5375a4
 
+Package: nali
+Architecture: arm
+Installed-Size: 12324
+Maintainer: @termux
+Version: 0.8.1-1
+Homepage: https://github.com/zu1k/nali
+Description: An offline tool for querying IP geographic information and CDN provider
+Filename: ../../../../releases/download/arm-n/nali_0.8.1-1_arm.deb
+Size: 3506964
+MD5Sum: 79dbb5512fe09214f99480da4eb609f3
+SHA1: f8f3810cfb3801ddcea3c294fa0aae86ef2bf2e2
+SHA256: 2eec6bd1643204f0e4393980f2e080903f97d6cd81a82a70160a992777d5e425
+SHA512: 9272033494df6e485e4d034e1d53b384e18803942c0351b5db14de0b63c5dd924814a03d6863ab4d120cd2a71df99e5974876099411815db7ddecd7de883ee63
+
+Package: netcat-openbsd
+Architecture: arm
+Installed-Size: 84
+Maintainer: @termux
+Version: 1.238-1-1
+Homepage: https://packages.debian.org/sid/netcat-openbsd
+Depends: libbsd
+Provides: nc, ncat, netcat
+Description: TCP/IP swiss army knife. OpenBSD variant.
+Filename: ../../../../releases/download/arm-n/netcat-openbsd_1.238-1-1_arm.deb
+Size: 20372
+MD5Sum: d908a60e7b0840d1391c4a94228d89ad
+SHA1: 6aeec5b786df184ae7a542ae8b0568f6038f0102
+SHA256: a2f59733777e0323bb14d15c6f2017f56e98e97a9ba92f15aaeee27397224e95
+SHA512: 009f75414600adfc724bc7797b63e16feac2dd238f4b8b7986c939afdde479ec865d8d3e23de2f0f23902b5178494003c169c10330065ab0ca5982c6075e863b
+
