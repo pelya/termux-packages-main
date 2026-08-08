@@ -39322,3 +39322,32 @@ SHA1: bbaf77e63f83a4f252c5dcea48c4c8b154d1af21
 SHA256: 27c7f1959abc15d21a25d931652884210f8d87ebf8d02d48e76b2f42ea3b4dff
 SHA512: 2f7e338c97ff2dc7a0f0efe3797f66428be13d31a16124bc0db9e4870dd96c7c3cb992368e5e7d17cf1c146f5ef11f748248579d42286ed53f6c93bee38d05ac
 
+Package: daemonize
+Architecture: aarch64
+Installed-Size: 72
+Maintainer: @termux
+Version: 1.7.8-3
+Homepage: http://software.clapper.org/daemonize/
+Description: Run a command as a Unix daemon
+Filename: ../../../../releases/download/aarch64-d/daemonize_1.7.8-3_aarch64.deb
+Size: 9628
+MD5Sum: 03c9dc32f560e87c9b42008bfec463a3
+SHA1: 58e4994175d20f801241da6c8bb76a8b48a44ace
+SHA256: 84a6fc3c133773ccfea0e538bfb0c04d96c00d932909db0a0db185f36d645ed8
+SHA512: 5c28e17b55e6da811819ce53b4a99c59b94a67231f7e040470cd26a8bf1e919a0f80e1c1ff5687832b058e983b0e6f57c024dc8804d4289814ddfe05199de1e8
+
+Package: minidlna
+Architecture: aarch64
+Installed-Size: 352
+Maintainer: @termux
+Version: 1.3.3-4
+Homepage: https://sourceforge.net/projects/minidlna/
+Depends: ffmpeg, libexif, libflac, libiconv, libid3tag, libjpeg-turbo, libogg, libsqlite, libvorbis
+Description: A server software with the aim of being fully compliant with DLNA/UPnP-AV clients
+Filename: ../../../../releases/download/aarch64-m/minidlna_1.3.3-4_aarch64.deb
+Size: 122448
+MD5Sum: d35a55b9b37addf13836f8446d098c2d
+SHA1: 2a3cbcb07b3fb1e738667e878d1f3ff72fafb8df
+SHA256: 8a5a83319928d34896482f0168299fec7dfba7fc2e721813d743ac56f1084b3b
+SHA512: 7654b041fb2f18f56a0058c8b2604503dedb23f52797ca1405a6bd402305897120eae6bd7cc38b4181b3894b325ae5d2bd550a82f063532f434c2bbb9d060f3c
+
