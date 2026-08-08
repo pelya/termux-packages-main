@@ -13221,3 +13221,18 @@ SHA1: dda4b964af2d4f18302be3869f5026c281004041
 SHA256: 011705dfdf6ddcdec14e31b28417fd47d46bf1de15ec46a50941bd0884f4714f
 SHA512: 029b954196165893e616836f5ea7c8b8959cf4481f0c01a6518c8b3045dc5f16907f3143f22887a56791aa96f99ee538e7271b8cd22d26b2d3d2bbdb272f4604
 
+Package: lxappearance
+Architecture: i686
+Installed-Size: 212
+Maintainer: @Yisus7u7
+Version: 0.6.4-1
+Homepage: http://www.lxde.org/
+Depends: dbus-glib, gdk-pixbuf, glib, gtk3, libx11, xsltproc
+Description: LXDE GTK+ theme switcher
+Filename: ../../../../releases/download/i686-l/lxappearance_0.6.4-1_i686.deb
+Size: 26268
+MD5Sum: 5ae9844b326c9698640909de6c3eac6c
+SHA1: a34e8dd34d65dcb7f3905fc97b8d9d1e34bd4bcd
+SHA256: 5d3de906f8a691ee3cb316bf6e581684aca8a4d3c3a2313fd87f15a1bcddfcec
+SHA512: 3bded33a137e521177b9348dcb941c5c6833da0663d360b3215ae42bbddb124c48475c5b03032fee8cbf40fb9bd5e03c57410bd2fe56a201fca1b40942962779
+

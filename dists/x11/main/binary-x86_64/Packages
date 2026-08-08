@@ -13633,3 +13633,33 @@ SHA1: 1f2df66d2c21727ce21d19a5386ad061a7f3842b
 SHA256: 0596a8fc5133a3c810d9ee33d4484ad7bf926b77cbf5104ad637d0c551c110dc
 SHA512: 8b88e1e31a688eb2d5cb8b51282e0774312ae863f8a98cafdc2b72054b00c9d9d7182247b39131543cb47c08abb84aca905b936e7fee24cec7d7e20c49d705fb
 
+Package: lxappearance
+Architecture: x86_64
+Installed-Size: 216
+Maintainer: @Yisus7u7
+Version: 0.6.4-1
+Homepage: http://www.lxde.org/
+Depends: dbus-glib, gdk-pixbuf, glib, gtk3, libx11, xsltproc
+Description: LXDE GTK+ theme switcher
+Filename: ../../../../releases/download/x86_64-l/lxappearance_0.6.4-1_x86_64.deb
+Size: 26224
+MD5Sum: 151f72b73cd4300b73164fd45ccef548
+SHA1: 731361adaff30bb28e49dadb37ab2399b39ab566
+SHA256: 01badb099ad2a36afdc00fd1d9428f0af2e661d4a8459dacd38f4ac33866c82e
+SHA512: 059d0dc3e8f309ee6b529a06f084166835caca7fa3d7ff90b5753d6e4a71935d6321646efc6413a44f8d704a2328e7771991a27cf9bb4569b5e0d9c4b387d2f0
+
+Package: trenchbroom
+Architecture: x86_64
+Installed-Size: 12212
+Maintainer: @termux
+Version: 2026.1-1
+Homepage: https://trenchbroom.github.io/
+Depends: assimp, cpptrace, freeimage, libtinyxml2, opengl, qt6-qtbase, qt6-qtsvg
+Description: Level editor for Quake-engine based games
+Filename: ../../../../releases/download/x86_64-t/trenchbroom_2026.1-1_x86_64.deb
+Size: 2826124
+MD5Sum: dd19f5e2ebeea0d783e1882b25c5f00f
+SHA1: a5a35a46987dbb60da109547bb67d7121ed01128
+SHA256: dfacba919183afd0701f26b09ac655ceea3b9c250c4540ec6ee3ef99c6ad7029
+SHA512: ae86eff1443329f259e5ecf9358177c62a14b0bd526ff3a46f7bbeb55e2ba8ed5f6203b22f1cca9525e250a68c3b9452dbc1ac5ee36e84df5ea64ff44d6b71e9
+
