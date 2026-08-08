@@ -38115,3 +38115,33 @@ SHA1: 9882f37f6ad5bc3089026b6f71e88a06a9ef629a
 SHA256: 71e6e77dced19ee17cbf3f608527d60b709471b82e15c0183da6cbabcf4daeda
 SHA512: 5502d47ff5213e0fac99fc0dda3a550e5be3e1a5334c8fd26f899b6a55ca42afb891b0c055fbf93c019078532277234a962ed362faae81cbfd576004a1c6a126
 
+Package: borgbackup
+Architecture: i686
+Installed-Size: 2796
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 1.4.4-2
+Homepage: https://www.borgbackup.org/
+Depends: libacl, liblz4, openssl, python, python-pip, xxhash, zstd
+Description: Deduplicating and compressing backup program
+Filename: ../../../../releases/download/i686-b/borgbackup_1.4.4-2_i686.deb
+Size: 547716
+MD5Sum: 562c122912a2c8d4ac751fdc2dbae616
+SHA1: 6850f2dab67fb3cc0fc4145ae25d1e7df22cbb5f
+SHA256: 0e7930b79b2263a86c3ff0fc97180e4e475cd40c815784f1528de9898398def1
+SHA512: 3472999a4d19e8ed00634b6dfa768ccb9c6dfad4998b2a706daa0fbc2e35b51af704420aa7ea99e2cab70d7392c7c8df1bcfe21c6c5eaf57cc3da86e95238fef
+
+Package: doctest
+Architecture: i686
+Installed-Size: 488
+Maintainer: @termux
+Version: 2.5.3
+Homepage: https://github.com/doctest/doctest
+Depends: libc++
+Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
+Filename: ../../../../releases/download/i686-d/doctest_2.5.3_i686.deb
+Size: 64568
+MD5Sum: 870e55399d9a9a34be2b1cd811048021
+SHA1: dff0bcdf1cf34e2a5538850074bf37b8440a441a
+SHA256: 620d35ecbcb27e7dcad4062ea12e65dcbb25a156254b5d592b26e2bc39c6c6a1
+SHA512: ca2ca32962c1eaa00f103d67c9f94421c336f85b2a960f016a60c751b94adcc3dfcf51a1f5884a39606b21bdefe3726f62a9c9a765fc94b9e8903026c1ac28ae
+

@@ -39133,3 +39133,33 @@ SHA1: 58fe50f72c25fd614fb661e4e7c50035bf5f1a30
 SHA256: b4843ba6cdf74245fd8dfd26a8e2a55e7d85a6514577b87ccda791c5e9aa37ba
 SHA512: 52efaf1ac0de681d8cce71af3f56141920199d9a0bba3c4d549c30fdfb6c26ce7223b8ef04152484c7ed58babdcac84854bc2c32b4fca81d3c2d6a2f1f196957
 
+Package: borgbackup
+Architecture: aarch64
+Installed-Size: 2840
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 1.4.4-2
+Homepage: https://www.borgbackup.org/
+Depends: libacl, liblz4, openssl, python, python-pip, xxhash, zstd
+Description: Deduplicating and compressing backup program
+Filename: ../../../../releases/download/aarch64-b/borgbackup_1.4.4-2_aarch64.deb
+Size: 557292
+MD5Sum: f5bcf8dac4c4d661451563715d3ddc01
+SHA1: 38399003b3146a03a72bf9281be29ca372c8a0db
+SHA256: 29e2bce21ab629e86eac234130e6772e82e86e0ace9b25b507fce7bc51e927fe
+SHA512: 399fa8a8a99460b714956d2127df76abee8d544f4f657eb63b886c4f1ec8ad19291e12fd3c4e3921cf1204896d220d7c3ee0e7f5a545633176389e66fd397051
+
+Package: doctest
+Architecture: aarch64
+Installed-Size: 488
+Maintainer: @termux
+Version: 2.5.3
+Homepage: https://github.com/doctest/doctest
+Depends: libc++
+Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
+Filename: ../../../../releases/download/aarch64-d/doctest_2.5.3_aarch64.deb
+Size: 64568
+MD5Sum: fca3985bc1102fa880431a8abc5d559e
+SHA1: 2a9ead2b4c865aeca525c91f01a6793e2c36f183
+SHA256: 8a0ee494745bb4f982fc0f23ab57c5bfe340c607abfa18cfc25094120fd3136a
+SHA512: 5025b176a67cf8a718733451e44e5aaeb4e910f0c6d4ca0f1898d31b07c62750f0685957bdf8c1370e2a5e6ee9f8b167e7446bf29f51e056ff68d3cca552cd76
+
