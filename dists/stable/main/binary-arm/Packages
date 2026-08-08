@@ -37882,3 +37882,18 @@ SHA1: defcd8feb4d3bedf2712828bff633adc992ff84b
 SHA256: 9cae5578a2ec70555b6110f169313d29d833979109489430b6f11d8c9f411109
 SHA512: 3707ad2663a97b48c735ffe09880cec5fa7d1a41dcb4c097dbdb4c4614874fe86da42eb7ebacb14590dea7a25ebdde531b4cd6f0e7686470b4d706d6c5256bc7
 
+Package: rig
+Architecture: arm
+Installed-Size: 108
+Maintainer: @termux
+Version: 1.11-2
+Homepage: https://rig.sourceforge.net/
+Depends: libc++
+Description: A program that generates fake identities
+Filename: ../../../../releases/download/arm-r/rig_1.11-2_arm.deb
+Size: 20684
+MD5Sum: 386021e199ecdf45aab6c92279259cd0
+SHA1: 41ddc25be7aa1f8d2d24a956a014916798c4b2a3
+SHA256: e1510e9fac1e6545536bdf14db0d29076b4361225cc135017e38f2a3552029f6
+SHA512: 407761bbbc60e996ca2ed7b06f5a3484bf52721cd0d0ccd3921d9939289e47869d4c84b007cbe8d6d77c34212511e91280f9fcbc611cccf1c114330912bdd099
+

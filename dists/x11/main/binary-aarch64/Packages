@@ -14281,3 +14281,18 @@ SHA1: 47a1ff77d106f464885c8e42347006fdff8b93aa
 SHA256: be970f8d6f31adc3977d0f2ae2a69b4d76beb8b12f4b4f0aeee892b1a1d1d81e
 SHA512: 3a968f12b16f2607328c82e455fd13a83888fb7bfaf1eb810ec0b93702a274e61f2d55e8d8260a0080592580f8730a47ca9f3e90e94436c135326ef987bf9629
 
+Package: gwenview
+Architecture: aarch64
+Installed-Size: 9664
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/gwenview/
+Depends: exiv2, kf6-baloo, kf6-kcolorscheme, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kfilemetadata, kf6-kguiaddons, kf6-ki18n, kf6-kiconthemes, kf6-kimageformats, kf6-kio, kf6-kitemmodels, kf6-kitemviews, kf6-kjobwidgets, kf6-kparts, kf6-kservice, kf6-kwidgetsaddons, kf6-kxmlgui, kf6-purpose, kf6-solid, kimageannotator, libc++, libjpeg-turbo, libkdcraw, libpng, libtiff, libwayland, libx11, littlecms, plasma-activities, qt6-qtmultimedia, qt6-qtbase, qt6-qtimageformats, qt6-qtsvg
+Description: Fast and easy to use image viewer by KDE
+Filename: ../../../../releases/download/aarch64-g/gwenview_26.04.3_aarch64.deb
+Size: 6293940
+MD5Sum: bf49d624db31b9d5ed35568f91ddeeb1
+SHA1: af8a4ac4578a0dfca6f3bec8915ef110b6a438d1
+SHA256: a891303c2d07fc8306c9a642c54e2f7816bfaefd50f46b4aca1baa40fa67b261
+SHA512: d9c909b7ac358298ba62019520a0a886a0a4f05f55ee498c3563db22b440a62ff0333b7189277ca8f8b08440da848dca73851afd5b6638ac2513157a0f48f070
+

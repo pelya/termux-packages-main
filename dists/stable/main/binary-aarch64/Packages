@@ -39631,3 +39631,18 @@ SHA1: 15add29fcc2884ff269ee219c07d367206b61352
 SHA256: c2f55e42eb1e517b993ea124faed2c7d78e1010a68d3df2a6f4a5f50c5deb493
 SHA512: 1b5f166f9b34d5be6048472bd10e30494b9188b9f45ea6197ebe8f65739dba85dcd46d2801382521e837e5190ca46b504076a8673e6a6ef9e24cd8eb406b7c81
 
+Package: rig
+Architecture: aarch64
+Installed-Size: 144
+Maintainer: @termux
+Version: 1.11-2
+Homepage: https://rig.sourceforge.net/
+Depends: libc++
+Description: A program that generates fake identities
+Filename: ../../../../releases/download/aarch64-r/rig_1.11-2_aarch64.deb
+Size: 31736
+MD5Sum: 8b0da0921b443bd1134f102f9ca3ef7b
+SHA1: 8ae473c05c28ba5900a4f1a1cc432e7a1affcdbe
+SHA256: ac379acf970d6399f41a9c2b0fb60d121e0490dc236ba04246c00183f8cde517
+SHA512: d6fa7085fd264524f8bf0f47550765cfb36781de5af26a53a71e6f33d05ce1c8cbe03d8f71f3ed52f83658eed29f7020a826c65bc46967262f00adbd61052bd3
+
