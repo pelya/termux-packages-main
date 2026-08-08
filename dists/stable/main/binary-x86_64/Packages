@@ -38550,3 +38550,17 @@ SHA1: 16fe5641898fbe0a5f51e5c38b1c6ee182d7d3c8
 SHA256: 5e9d3463493fc5ddf7fb1733129b343f0b4d4c72c08781f38a0009dd61365520
 SHA512: 89e7a697ffeecec575ea1f0d210bff8a6bdc45f4f8c424aadb9482643238cda42b3e4eea3b0dd6dbc760aaa0245be9dde351ea2555336928fee080fd31a4da44
 
+Package: libchipmunk
+Architecture: x86_64
+Installed-Size: 440
+Maintainer: @termux
+Version: 7.0.3-2
+Homepage: http://chipmunk2d.net
+Description: A fast and lightweight 2D game physics library
+Filename: ../../../../releases/download/x86_64-libc/libchipmunk_7.0.3-2_x86_64.deb
+Size: 90032
+MD5Sum: f7e5571f91e4c95ed1c53439db82b9f7
+SHA1: d4e902378e3cb988b055a11735ed51887ed5be38
+SHA256: 91ef86c03db78289af20e02084b150acf065204aa6e6b779a6eb0fc0d388faff
+SHA512: bb4a15fb773d6ebbd8d9f7732e5084dd66bd05d721d93030e5c1238d458095a3e643e3a1d928f2d07f38a042edd7ee3e8f68ce701fd58d411c7bdac27d3ec598
+

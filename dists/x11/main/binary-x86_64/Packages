@@ -13663,3 +13663,19 @@ SHA1: a5a35a46987dbb60da109547bb67d7121ed01128
 SHA256: dfacba919183afd0701f26b09ac655ceea3b9c250c4540ec6ee3ef99c6ad7029
 SHA512: ae86eff1443329f259e5ecf9358177c62a14b0bd526ff3a46f7bbeb55e2ba8ed5f6203b22f1cca9525e250a68c3b9452dbc1ac5ee36e84df5ea64ff44d6b71e9
 
+Package: leocad
+Architecture: x86_64
+Installed-Size: 136600
+Maintainer: @termux
+Version: 25.09
+Homepage: https://www.leocad.org/
+Depends: hicolor-icon-theme, libc++, opengl, qt6-qtbase, zlib
+Recommends: povray
+Description: CAD application for creating virtual LEGO models
+Filename: ../../../../releases/download/x86_64-l/leocad_25.09_x86_64.deb
+Size: 130070848
+MD5Sum: 1c8013b5505b03df3730cf04f80857d7
+SHA1: 8e1eb880c013cdaa3e6479e6f37cc43fb6595c31
+SHA256: 6a4db0b4fea4ff162c3a76b3536ca08f0d65f4cac5647fa9dbc557b45c46c1e1
+SHA512: c6fc54c1613389e97a6344a8f6ac72d785b5c17e985daa0f0c4e99cf4cb77b95534c37770b60b4a033749e805a59344391dd11cf58c8a5aef0563f0682e50602
+
