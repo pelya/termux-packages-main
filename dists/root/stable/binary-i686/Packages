@@ -991,3 +991,32 @@ SHA1: c87bd3752739d042781a4ed6356a253674241bc7
 SHA256: 8ba9df2039e63405701bf29d8e037c08ed8e270918597ff58bc48e6c1702aaa2
 SHA512: f59239336b1f1408c33f600f06aebe66373f711e30adc62375b491bb8be53cdf2285a8742a6bec557664c9792a914328596523158ba6a0fc7a6eeac18ad52fb8
 
+Package: keyutils-static
+Architecture: i686
+Installed-Size: 40
+Maintainer: @termux
+Version: 1.6.3-3
+Homepage: https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git
+Depends: keyutils (= 1.6.3-3)
+Description: Static libraries for keyutils
+Filename: ../../../../releases/download/i686-k/keyutils-static_1.6.3-3_i686.deb
+Size: 4512
+MD5Sum: 01e1c39b6d1a3f096ed716f83d44c731
+SHA1: 75d6a5c73329e6925190d2580aaf4de5210e5b53
+SHA256: 66e908d3425dff1230e305f3f15dc14d658f84bb2e7b5ebb38d2b50a84fc21ca
+SHA512: 8b7aefca5807c33c9f492131488a726bf90af5c01f48be24f09d9294774da756409081d506a83f5ca2d563ffb2df421fd33d8a8354201f23fa3e48934c661f2d
+
+Package: keyutils
+Architecture: i686
+Installed-Size: 364
+Maintainer: @termux
+Version: 1.6.3-3
+Homepage: https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git
+Description: Utilities to control the kernel key management facility
+Filename: ../../../../releases/download/i686-k/keyutils_1.6.3-3_i686.deb
+Size: 92904
+MD5Sum: d447a953ce10721440d563594940d4e3
+SHA1: c946198a021fe053395ea4062ec5d93b49dffff9
+SHA256: 928d956a2d447790d3767fbc79be912267b8a3adb94f6149a8f2dd0abf7c8d00
+SHA512: 8f9886c53ed2b08444a849b79382f7df75f076ba38d6ae4aea3724d7a0f50866aca7346dfd134fc4f53d30228e435492e63134445da7801d38b6d7d4b761d08b
+

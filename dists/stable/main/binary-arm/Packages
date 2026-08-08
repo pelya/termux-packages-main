@@ -37602,3 +37602,17 @@ SHA1: 771d412a157094d8c24d6186747e143834d7ca17
 SHA256: 08844473bb8d76a63151bc50a52ac0082a8fb1764276bde9291911ab368e8b7a
 SHA512: a5454ef105470490685d33cf353d5725498ce93ab0b5fdda0196f78f58f2fc3a982cd58c67bba68bbf55ef941857b9db9102afd17857e64d02b23285b40e9112
 
+Package: sshpass
+Architecture: arm
+Installed-Size: 64
+Maintainer: @termux
+Version: 1.10-1
+Homepage: https://sourceforge.net/projects/sshpass/
+Description: Noninteractive ssh password provider
+Filename: ../../../../releases/download/arm-s/sshpass_1.10-1_arm.deb
+Size: 7856
+MD5Sum: c11f214cd95b4f7a01a1fc652220a629
+SHA1: dcc9c29107ec2128caaae2920a235463c6d3ba57
+SHA256: 24bb02730bcbc2a572b6cf2b2d3807bf334580a5fbeaeee9d96bb7dfc94a5682
+SHA512: edea16a32107a8ef451853d2e29d5754c4a2b42f3cecb6cc79064221974185bed53871117a880f9ad248ca03a70c0b1d4661273d833994caab7a184d93691ee9
+

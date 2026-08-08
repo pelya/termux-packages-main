@@ -39320,3 +39320,17 @@ SHA1: 333064a6a5ab96e5af3179ef23e596a57a54e804
 SHA256: a1ac854a1d5bdd4ed229441961bf59ad3baa5a4d8b12bb35549eb02521bddca8
 SHA512: bbc40c7567d416c557bb661ddbc05c82a55627b7a4da7f46e58b4b7f92bb8cb401a676ec9402ee5cedd2eb5698af9eeab5ee465ab0669848a8c6b7c540313f51
 
+Package: sshpass
+Architecture: x86_64
+Installed-Size: 68
+Maintainer: @termux
+Version: 1.10-1
+Homepage: https://sourceforge.net/projects/sshpass/
+Description: Noninteractive ssh password provider
+Filename: ../../../../releases/download/x86_64-s/sshpass_1.10-1_x86_64.deb
+Size: 8532
+MD5Sum: 00c1d01db1e100d7dd7beaee893b1253
+SHA1: ea448d7644763795386af65c0d7a0b57824c7d86
+SHA256: 180b5e2fe3a7397185e9c8eaae73147cd94b796af8135fdedfe7c8275423890e
+SHA512: b80b5c2da5134d552e52fa609a307ddfe2f8370c250f5dd30009275abbf8dcce7ee266d004071ef42a39aba976ffd523fef5db8a501030ae14c03c80aa046f8d
+
