@@ -39602,3 +39602,17 @@ SHA1: 27e8cabb8e333031f324a72cf73719ded0e2e091
 SHA256: 34152c3af1d74043cb4573db0a7f43956c263eef7e80428132a211197e5b8631
 SHA512: 38a1ea3fc1ac9a2ef0728cf718c449c78fb83c60bf8b9848ebde6c2a8b1f26eb0cfad0c9ed08a575d6677c3deb799e6d7e9419c52e63f4ab00096c7cd4ae8f39
 
+Package: darkhttpd
+Architecture: aarch64
+Installed-Size: 88
+Maintainer: @termux
+Version: 1.17-1
+Homepage: https://unix4lyfe.org/darkhttpd
+Description: A simple webserver, implemented in a single .c file.
+Filename: ../../../../releases/download/aarch64-d/darkhttpd_1.17-1_aarch64.deb
+Size: 17008
+MD5Sum: 9de95e5ed8f5b8ecfa60ef485ae5dd1f
+SHA1: 6f84daf6758f62ba81dd1215fa9a7c84aa8e5abd
+SHA256: 0528c34bcbdcfaca6d8c5f3fe53281fc2da4a1a19dd54753217387d956ae41ec
+SHA512: 22e7ca3b06ecaa7b3b09f764bf5911d05cd06f797646f17f1c72c82f3ae9258bcc54b548ac66e8c757d29c4e90f1a9d96075aeac970e97c41eb419d0cf46d0a0
+
