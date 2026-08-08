@@ -38087,3 +38087,31 @@ SHA1: 655e43a6699f80fb8ad1d1225f5ec5f6dbea820e
 SHA256: 4e9cfbd1a525852bbf5a2cce406e64d96aa2b6707123681d330dbc27a666538c
 SHA512: 367f5f1467972e0658225d2c9fdc311cbc58e88585ac0cf4044819b742a86545e5ce7e7d34e084fd4a6f7ace33e53de0f3d1289a17ed4bda80b121b5d6fc6fee
 
+Package: hyperfine
+Architecture: i686
+Installed-Size: 1380
+Maintainer: @termux
+Version: 1.20.0
+Homepage: https://github.com/sharkdp/hyperfine
+Description: A command-line benchmarking tool
+Filename: ../../../../releases/download/i686-h/hyperfine_1.20.0_i686.deb
+Size: 530664
+MD5Sum: a152bc423a92f17c39dd4063b6f3da21
+SHA1: eec352720e28d9ea099bd9d77d2ca9960e4941aa
+SHA256: fe7e7564c7ed05917c72d87c7fed2dce541364e9cd6a635b7ef62b56afafd141
+SHA512: 273f95eaabcbf7e5d61e87a4f16015b8c93d93baa54b1ff1347f384f1be72fab6aa8ec7980ba64bdce8b059acda42340ada92bd188910df812222a024289fbe5
+
+Package: viu
+Architecture: i686
+Installed-Size: 4048
+Maintainer: @termux
+Version: 1.6.1
+Homepage: https://github.com/atanunq/viu
+Description: Terminal image viewer with native support for iTerm and Kitty
+Filename: ../../../../releases/download/i686-v/viu_1.6.1_i686.deb
+Size: 1290120
+MD5Sum: c3f063da86f12e767c81b9cee755835e
+SHA1: 9882f37f6ad5bc3089026b6f71e88a06a9ef629a
+SHA256: 71e6e77dced19ee17cbf3f608527d60b709471b82e15c0183da6cbabcf4daeda
+SHA512: 5502d47ff5213e0fac99fc0dda3a550e5be3e1a5334c8fd26f899b6a55ca42afb891b0c055fbf93c019078532277234a962ed362faae81cbfd576004a1c6a126
+
