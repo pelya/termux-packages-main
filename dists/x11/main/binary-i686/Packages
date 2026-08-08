@@ -13131,3 +13131,18 @@ SHA1: 722ec34f401eeb01bcb85cdd1d63b819b2860275
 SHA256: 9600442c99357ff308c47509a3d1a56b6c9c26b18ddebc5a78ec3eb8f3d52da7
 SHA512: f6b595bf001e4e8c411ed7056ab8b58e9f5f59a338ced887de6fcab3efc4564dd81ef8642a03ef1a8756a9e2a5d20bf2c1be700b89f80c60c395af57cab7c023
 
+Package: kanagram
+Architecture: i686
+Installed-Size: 7944
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/education/kanagram
+Depends: kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-ki18n, kf6-knewstuff, kf6-kwidgetsaddons, kf6-kxmlgui, kf6-sonnet, libc++, libkeduvocdocument, qt6-qtbase, qt6-qtdeclarative, qt6-qtmultimedia, qt6-qtspeech
+Description: Letter Order Game
+Filename: ../../../../releases/download/i686-k/kanagram_26.04.3_i686.deb
+Size: 6941564
+MD5Sum: 24dfa677f7af6991d0b42cff10368ecc
+SHA1: 551f1354cd0635cfcba3c0ec0a8ab5991b5eb5ae
+SHA256: f4368d1349f7381c8627e1c888fec02e73c28866ff37c56699b5a43b9ea6fb0a
+SHA512: f8db36fa144d9f7b9cfcf12da02ae49792dc64ab1e21d296993cac956d8db5e3ae710aa7803c91d0b292a8dfd013d4e8196da8ab8bad462c743a97a6aae3282b
+

@@ -37341,3 +37341,18 @@ SHA1: cf39b6750ecea49d4d7283432a011a8e3181e2c0
 SHA256: 854497cb36c9d437bc6e754ff0610482d7c69ea155175375d0dde28289723fbf
 SHA512: 7143ab1bd7ffaa0890632122b480ac0d439abf1cc3623aba6bc8b27d6aa74b40434a9aae2c5e87c479fb7a9e91f62a96cf5430c9c0bf111ecaafdb1b3bd0e5fe
 
+Package: pigz
+Architecture: i686
+Installed-Size: 156
+Maintainer: @termux
+Version: 2.8-1
+Homepage: https://www.zlib.net/pigz
+Depends: zlib
+Description: Parallel implementation of the gzip file compressor
+Filename: ../../../../releases/download/i686-p/pigz_2.8-1_i686.deb
+Size: 47304
+MD5Sum: 3780eb8d64891baf04f04492b1764413
+SHA1: 0685376341a41fcfe33a2db0783d982be83f50a2
+SHA256: 6368656208a94d83754bfc0929cbb206ccd7dfa3992c84686c4bd26dd350be1b
+SHA512: 495c591f1572eff0ae9a4a8acf939e16794e717331a33460a75f7fd64a01a6e242dc92f2388d7b7d1088a2faebfad18fb4e120b439dd999f0431b6cc526a4849
+

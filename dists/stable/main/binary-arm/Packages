@@ -36592,3 +36592,18 @@ SHA1: 1f33f43b07038e0f1a27ea65a164add801f20e9a
 SHA256: a95433aae0c910aace92dac8380825e53fc97646c90282c24dbba3b0d9d46768
 SHA512: d8b35dfd9a8c9fe7b9403ebfc7ed7f7923ce7dc3ac8828ba169e8dfad3454e58389228a5e086c8c4eb0695c50ee2703d2c38642ff9e9842b22d01b4002135893
 
+Package: pigz
+Architecture: arm
+Installed-Size: 132
+Maintainer: @termux
+Version: 2.8-1
+Homepage: https://www.zlib.net/pigz
+Depends: zlib
+Description: Parallel implementation of the gzip file compressor
+Filename: ../../../../releases/download/arm-p/pigz_2.8-1_arm.deb
+Size: 44064
+MD5Sum: c67688bcf5d9310cd431a51f1d96fcbe
+SHA1: 3c1491f670ece5a3e9568153bbb157688ccf2491
+SHA256: 3a909f2cefc3616adb5618c44cc8096a47eb474bca4a18f8c1296558c87ce962
+SHA512: 99a36546596743ec1d8a8abfa8ac99ec40801f721ca92396adb3e1f1846d5471aba92b01573b0be69177928f4102e36b14234c1c8ea55f00add09712d3475291
+
