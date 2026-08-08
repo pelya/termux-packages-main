@@ -38506,3 +38506,33 @@ SHA1: 2e455a6df0965380cc66961fa1ed55b2061788a5
 SHA256: 0b764b8ad7f0a29922ad80826a50b76179d946c14b978177896feca365712f81
 SHA512: f9b36285076a2885e2192b21e29a6f76b17ab09dbcf19628c9e2539dcd38d65673d7270a066a536f80d0e586cc614d29a277e336d13a57b233ff8cdcff9b731d
 
+Package: gpsbabel
+Architecture: aarch64
+Installed-Size: 1380
+Maintainer: @termux
+Version: 1.4.4-3
+Homepage: https://www.gpsbabel.org/
+Depends: libexpat
+Description: GPS file conversion plus transfer to/from GPS units
+Filename: ../../../../releases/download/aarch64-g/gpsbabel_1.4.4-3_aarch64.deb
+Size: 442780
+MD5Sum: ba52c5bb69c4e37a87892bc9b4ebc3ac
+SHA1: e59ed171ec5ace60b1c79683a5865c3dee8b8ad7
+SHA256: e8c5ab0205e05c19043829d77fa0b40c0469ef03dc83db8ec7ff5dabf940d179
+SHA512: 008093590d1c8a4b6e512316cf0a7bb6c15e4dd7e4b4fb3dac1978246a75b702ecfdb0309868f73d9f3000a2499145aedbafa328112d57d82a5df853d5bc2264
+
+Package: mutt
+Architecture: aarch64
+Installed-Size: 6884
+Maintainer: @termux
+Version: 2.4.1
+Homepage: http://www.mutt.org/
+Depends: libandroid-support, ncurses, gdbm, openssl, libsasl, media-types, zlib, libiconv
+Description: Mail client with patches from neomutt
+Filename: ../../../../releases/download/aarch64-m/mutt_2.4.1_aarch64.deb
+Size: 1260604
+MD5Sum: 8e5bbe47ca09fb1575f20e413a66ae81
+SHA1: f0d0f2b149a7676e8c7e5aa698df2938f6c81ec1
+SHA256: 7d95b447a6acd89642985a3763384bf3e4841e27e82f83dab29223e4101e9abd
+SHA512: a61bcc70ac0345ba6cb64ae5de2096dc50d9778b56920448bbf23fa8c92bc48b37f454fb2085b63f30efb6d7ec2357e8020ceb6ccc1d18e671fd56249b92f13d
+
