@@ -38448,3 +38448,32 @@ SHA1: 76bb98bbf30f7ad7a988965f109782e7030e3d2e
 SHA256: 78beb78ad5dbeea1b0aed9b7e51ca30f5cda30cc56a782bde7afdcdcede5a335
 SHA512: d3ea7dc5e99a2e6f8f6f86f955d5801aa46057ef9d4b6cecabe2ea5123268047f9149a48d8daa1ccc0698b077991875e835df78f8f15d7cd3cae6d8967a8bc03
 
+Package: biboumi
+Architecture: aarch64
+Installed-Size: 988
+Maintainer: @termux
+Version: 9.0-5
+Homepage: https://biboumi.louiz.org/
+Depends: libc++, libexpat, libgcrypt, libiconv, libidn, libsqlite, libuuid
+Description: An XMPP gateway that connects to IRC servers and translates between the two protocols
+Filename: ../../../../releases/download/aarch64-b/biboumi_9.0-5_aarch64.deb
+Size: 247924
+MD5Sum: d9c5586756d2c156a86a7244bb449845
+SHA1: 97f220357cdb4b4a471ec5277ad6cef0a11d26bd
+SHA256: 357a639139b8aa2bfdec1c6b87db4cb0a15aecc64aceed9a479e33ef0fff1e64
+SHA512: d5b55051930da4a98b6615adc97da12575e003463d5f8e8f60fa040b3ffcd7befa72f069fa936599f06bf81584b01f963935adf47ac9a324cb3b3484760666af
+
+Package: onefetch
+Architecture: aarch64
+Installed-Size: 12392
+Maintainer: @termux
+Version: 2.27.1
+Homepage: https://onefetch.dev/
+Description: A command-line Git information tool written in Rust
+Filename: ../../../../releases/download/aarch64-o/onefetch_2.27.1_aarch64.deb
+Size: 4287476
+MD5Sum: 324bd581a7860bc977d039f24321ec5f
+SHA1: 3b813a3d6a166033a308b51aae4684ad07d60923
+SHA256: c3ee652401474c9ea7801bd3efcd22baa7be5d5953029f9999b825d49aae3a7c
+SHA512: 4c893bafb51bec75ea2fd1ca8fbbc231cd3dac93a253c423e71f9c61d262ca70872421d776c8fc62a9edb8578b1bef8bfd0ab2cae2a9f43c66e2dc77cb64010d
+
