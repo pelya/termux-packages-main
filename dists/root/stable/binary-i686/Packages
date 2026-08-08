@@ -673,3 +673,35 @@ SHA1: c665581acb1e8a9157466ceadc923225a00867c3
 SHA256: d9c7fc6e496656a886158b2833436fa5d5e3ce9e0edaea9c8ed2a87ce9f98228
 SHA512: 4f7893dcb1b11e76420f0696a8906abd11681d59084eba5571228b7b944b49978e11dc5a66f34c4354088c1d620a56649d813dcc7b0ee616ae4e766c0309b17a
 
+Package: lvm2
+Architecture: i686
+Installed-Size: 2772
+Maintainer: @termux
+Version: 2.03.41
+Homepage: https://sourceware.org/lvm2/
+Breaks: libdevmapper-dev
+Depends: libaio, libandroid-support, libblkid, readline
+Replaces: libdevmapper-dev
+Description: A device-mapper library from LVM2 package
+Filename: ../../../../releases/download/i686-l/lvm2_2.03.41_i686.deb
+Size: 1094660
+MD5Sum: 9f947c96857a0459ad1ad8860e71413c
+SHA1: 82afc2c1423c48eebfa83df541402d322fbfa93f
+SHA256: 022f0fad45aedce962dc7286f29db6208d7c940862130328d87b80ad61733ff8
+SHA512: 97cf98a6594d9e8cc88bdfe379e1b565788f30a9af3d81474bbd3179338daf1f2b279a58211b85de81fe81b966a43c86ecd83b965ab9c6bab3f82a63299ed79c
+
+Package: libdevmapper
+Architecture: i686
+Installed-Size: 632
+Maintainer: @termux
+Version: 2.03.41
+Homepage: https://sourceware.org/lvm2/
+Depends: libandroid-support
+Description: A device-mapper library
+Filename: ../../../../releases/download/i686-libd/libdevmapper_2.03.41_i686.deb
+Size: 191720
+MD5Sum: 76a324f751f46d027d842d43c8996cf7
+SHA1: d485abf9bdc0f3d11ed71fd22fc68523c374a29c
+SHA256: 82929e10959636ab1a13d0eb2e4d1ea10e63680e1eb465bb4a467110c20b8294
+SHA512: 1122a0c8cf63b9e6945ac28eb1a295f4903c2921c0ea788778f6fac3bb5e3d6e52e365cbfd33545b1a3c133499f1ad2b0b328b51c9a42d97e2b3bca7b30b5e36
+

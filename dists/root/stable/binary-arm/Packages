@@ -673,3 +673,35 @@ SHA1: 51161f41de55225032c09e5dec695937b365a346
 SHA256: 3168f46ddc57a0bea537e7def3523feaf001fdd97965af014c7b61eb7146e871
 SHA512: edc87efba9d8c5e92cdd79b6c34e8c7f11085dc2b3916f3934aed58c636926512c08ae54e3148343799d3d5db005185d839b639f3e4c6a7c9063543589b34d5b
 
+Package: lvm2
+Architecture: arm
+Installed-Size: 2336
+Maintainer: @termux
+Version: 2.03.41
+Homepage: https://sourceware.org/lvm2/
+Breaks: libdevmapper-dev
+Depends: libaio, libandroid-support, libblkid, readline
+Replaces: libdevmapper-dev
+Description: A device-mapper library from LVM2 package
+Filename: ../../../../releases/download/arm-l/lvm2_2.03.41_arm.deb
+Size: 1058544
+MD5Sum: d00d9ef49b3e0c88d97c8f6a0d0fac05
+SHA1: a419629a870828fa4cbd931c5217ed1d3a2b9aa8
+SHA256: 24e9149f442a7cdd711493232145c68e15026b384b0480e11ea619dc60298365
+SHA512: adb05010d3871382d92908426a59ad52cb0c0b10a09dd2cf3f65dbab6c167bb9a6b56937eb4042f7325287ade926058a34e1217779bdfa9bb587742c77c41796
+
+Package: libdevmapper
+Architecture: arm
+Installed-Size: 532
+Maintainer: @termux
+Version: 2.03.41
+Homepage: https://sourceware.org/lvm2/
+Depends: libandroid-support
+Description: A device-mapper library
+Filename: ../../../../releases/download/arm-libd/libdevmapper_2.03.41_arm.deb
+Size: 183624
+MD5Sum: 73219eda909fb255dfde7fa9c2259583
+SHA1: 2883a4f704afdc1e9682979064a763e3a43b92c2
+SHA256: cbeebb2f6d466f2265a997dc8a317effd0db5d8a32907812fa43526ed33c700d
+SHA512: 9dcea2c23931281b082fee5349b2fd737bbfa8bd747046b3ad9201a8d3f644abaddba4c5a81435927c4b7e46ccc690099e51b522acfb86204619a9690aab75a8
+

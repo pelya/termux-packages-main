@@ -36067,3 +36067,18 @@ SHA1: 0964690dd994b2800c8f1b7afc9d02931c141c9a
 SHA256: a0c6c8e96f2f63a8a6be8e51e3f53dc01d13ff54b671710cb8bc070906d91064
 SHA512: 9797abe71443d47a62911cad2357b7eb24c3f7e8e185c7d67e8241d08bd0bbab71fb67a53c25c2a2037140029285552d55050a8db3362d9e6a181d401b389bf8
 
+Package: bdsup2sub
+Architecture: all
+Installed-Size: 428
+Maintainer: @termux
+Version: 4.0.1-1
+Homepage: https://github.com/mjuhasz/BDSup2Sub
+Depends: openjdk-21
+Description: A subtitle conversion tool for image based stream formats
+Filename: ../../../../releases/download/arm-b/bdsup2sub_4.0.1-1_all.deb
+Size: 358732
+MD5Sum: d68a6037a822a90e3cf28f6d3893e0c0
+SHA1: 2f371128c0bfd18fa04c70316035b6857a3a9e46
+SHA256: 0acfb79e2b7d29b5459a61c8d12c7c968196b4f0636ee63c3a68a479d15e0a13
+SHA512: cc095a8db9f3ee47669cd63169667737604cfd6fb966acd24b6c58f37cf80dbcf1a3b257bc88ef4d5614f0f4f77937a78df1f0b8a175b3c6d7fca57a1ad9f6e8
+
