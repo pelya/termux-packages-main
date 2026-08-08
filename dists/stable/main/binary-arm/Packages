@@ -36009,3 +36009,33 @@ SHA1: a564b1cafa7b0032179f3cdb111d1520f73f2b04
 SHA256: e19a1176e4a7521430dec8c15537ae4c35ee82a96ed8591cf796a662d608d7f9
 SHA512: 9f53c3b2b48d24beb2b2c27056de2a8f4622d1e61006834598938fb6ed47253379f9213c6bc08f13022a6b2ee729bc3526dd0f571c026109d39c804ec54c3551
 
+Package: mold
+Architecture: arm
+Installed-Size: 18708
+Maintainer: @termux
+Version: 2.41.0
+Homepage: https://github.com/rui314/mold
+Depends: libandroid-spawn, libc++, openssl, zlib, zstd
+Description: mold: A Modern Linker
+Filename: ../../../../releases/download/arm-m/mold_2.41.0_arm.deb
+Size: 1919980
+MD5Sum: 57540c0fa322fe0f394397f2472088a3
+SHA1: 91c2af2627cf9b06c90002d0fbcc1b9aa3fcc355
+SHA256: 3547025afac548c2fce83220a912580f8422f4c5ac76111a2646656bae406564
+SHA512: d03221b60a176d4828dfa8d173ce810496ec3b4000853f4e1888b0fc4913beaccd1bbabf0c3bf6d8f8bd1908917e3a5b2525dabf6ecad7740aca93e083587989
+
+Package: python-llvmlite
+Architecture: arm
+Installed-Size: 88924
+Maintainer: @termux
+Version: 0.48.0-3
+Homepage: https://llvmlite.pydata.org/
+Depends: libc++, libffi, python, python-pip
+Description: A lightweight LLVM python binding for writing JIT compilers
+Filename: ../../../../releases/download/arm-p/python-llvmlite_0.48.0-3_arm.deb
+Size: 23276684
+MD5Sum: 9e031e11f7edf011bc8a87101fd2c8d7
+SHA1: acd38d8fb0663e8f32e46c220fd97df30ae5d093
+SHA256: f7f3ddcda0765ff7904c65bafa5cd07f1773d30197fc2525261d6b53b26e39b7
+SHA512: 26ced12b79b2898e925b4a9d627f81d2968f3cd8848a3c02238adb0eb77b91eac56c554846c2d26000d21931328d87b116ccd3a2daeccde9d73f60a2b773405a
+
