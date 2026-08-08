@@ -962,3 +962,18 @@ SHA1: 354d774dbb506072732a9b500e2615242422be41
 SHA256: fea6f24d61ed236e1eab21a39de80d7a21cc4cfbcbc4b2236b3c1063f2f44c5b
 SHA512: b9c991f71c0b036bd533aa2034bdc6b61b99ced58399a90106b1ad4b7238155ebb9f1166ec491a510fef4814db9cbf7f4023c5e86d83ef6b6b2b104cb11a3809
 
+Package: erofs-utils
+Architecture: aarch64
+Installed-Size: 888
+Maintainer: @termux
+Version: 1.9.2
+Homepage: https://github.com/erofs/erofs-utils
+Depends: liblz4, liblzma, libfuse2, libuuid, zlib
+Description: A github erofs-utils fork for community development
+Filename: ../../../../releases/download/aarch64-e/erofs-utils_1.9.2_aarch64.deb
+Size: 159100
+MD5Sum: 69da066324bdce183af31fcb647a6c83
+SHA1: 012c9849a739a3e62c2ca224e21d3525df80f581
+SHA256: 9b90e67ee34602a75906b8059b4d575360658f5b3c0703ee5d16dad3ea80b998
+SHA512: 41f023aad910f0a2e0a531d6671885876e83770b14ca872bbac197da20ec41b84e5377ffaeb49db6f3a130f35de015c08467fcd4a13a5c2c1f5337de506b3a3d
+

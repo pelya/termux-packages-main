@@ -1198,3 +1198,16 @@ data/data/greater.underscore/files/usr/share/doc/ipset/copyright                
 data/data/greater.underscore/files/usr/share/man/man3/libipset.3.gz              ipset
 data/data/greater.underscore/files/usr/share/man/man8/ipset-translate.8.gz       ipset
 data/data/greater.underscore/files/usr/share/man/man8/ipset.8.gz                 ipset
+data/data/greater.underscore/files/usr/bin/dump.erofs                            erofs-utils
+data/data/greater.underscore/files/usr/bin/erofsfuse                             erofs-utils
+data/data/greater.underscore/files/usr/bin/fsck.erofs                            erofs-utils
+data/data/greater.underscore/files/usr/bin/mkfs.erofs                            erofs-utils
+data/data/greater.underscore/files/usr/bin/mount.erofs                           erofs-utils
+data/data/greater.underscore/files/usr/share/doc/erofs-utils/COPYING             erofs-utils
+data/data/greater.underscore/files/usr/share/doc/erofs-utils/GPL-2.0             erofs-utils
+data/data/greater.underscore/files/usr/share/doc/erofs-utils/MIT                 erofs-utils
+data/data/greater.underscore/files/usr/share/man/man1/dump.erofs.1.gz            erofs-utils
+data/data/greater.underscore/files/usr/share/man/man1/erofsfuse.1.gz             erofs-utils
+data/data/greater.underscore/files/usr/share/man/man1/fsck.erofs.1.gz            erofs-utils
+data/data/greater.underscore/files/usr/share/man/man1/mkfs.erofs.1.gz            erofs-utils
+data/data/greater.underscore/files/usr/share/man/man8/mount.erofs.8.gz           erofs-utils

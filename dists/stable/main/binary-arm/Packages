@@ -37295,3 +37295,18 @@ SHA1: e3dd6c8fc7a1c0e839f092186a014f7a070df86f
 SHA256: cbb4148d95e745e088227d299099d4d352248369b721674f839b0276f4dfe1e1
 SHA512: 98539393ccc3b30ab675222aa2ada1b3a19f8b390b6581ec243ef3773f6d2e98e195e6e21acae3cee60839a8c82607a9b8c91f3d4527dd90aa82edb21e5b3e06
 
+Package: ices
+Architecture: arm
+Installed-Size: 180
+Maintainer: @termux
+Version: 2.0.3-1
+Homepage: https://icecast.org/ices/
+Depends: libshout
+Description: IceS is a source client for the Icecast streaming server.
+Filename: ../../../../releases/download/arm-i/ices_2.0.3-1_arm.deb
+Size: 40424
+MD5Sum: a864421b9c6eb6d705f23d682840f272
+SHA1: 340c19b18dfdd0f8f343140ecdee73276ece0ca2
+SHA256: d8b7d373b24212f87c58e71a131ea376c22f6e457582162c6310ffd7dbcb37a5
+SHA512: 2bc724eba15a468df6cb90c2d5925ae2b86c522ea81eafd61bd92dc4ef9064e3cff6a8a216aedc69f95c47b630785284875f8adb72a2531baa326055357c1be5
+
