@@ -38229,3 +38229,48 @@ SHA1: 8434226e9eb1f8bf79beba56dcaf3f9df3124ba6
 SHA256: bdede88b4f31354d6b1ade129aa60f0a3f2b0e9b33b75b28375c7d289c1cef25
 SHA512: 7b8620dc33c54048f5a5e7d87add5f2be058d424bf44ab8ec50cd9a9673e267b0eb534d5382947fc5279d68e0ad3211dc80cbadbec69beeb7631f4ab2be62200
 
+Package: libt3highlight
+Architecture: i686
+Installed-Size: 444
+Maintainer: @termux
+Version: 0.5.0-2
+Homepage: https://os.ghalkes.nl/t3/libt3highlight.html
+Depends: libt3config, pcre2
+Description: A library for syntax highlighting different types of text files
+Filename: ../../../../releases/download/i686-libt/libt3highlight_0.5.0-2_i686.deb
+Size: 59608
+MD5Sum: 40641d317710376480950f8417fc8203
+SHA1: 7690efc0784f1078fb4d2adc8f67cb9f9f5237df
+SHA256: b96b7b1fad537c0af8f552a07b98a825a94990c23c4e4d89ec39e5a695985554
+SHA512: 3096ba6a8bbb24385116dd3fd2d265a2f8ec77f619d559aa78a0d5b39bae1a93b598eb7c34a76d5b164332f9d091da9c942c6e5f74fcd587f0dfde198d3cf429
+
+Package: silversearcher-ag
+Architecture: i686
+Installed-Size: 144
+Maintainer: @termux
+Version: 2.2.0-6
+Homepage: https://geoff.greer.fm/ag/
+Depends: pcre, liblzma, zlib
+Description: Fast grep-like program, alternative to ack-grep
+Filename: ../../../../releases/download/i686-s/silversearcher-ag_2.2.0-6_i686.deb
+Size: 32212
+MD5Sum: c181d3108303cee5080e7711329192bc
+SHA1: 43635828052696c0f9e140ce7ae72d44ed5c41a1
+SHA256: 83df3df6bc34174efb3d7b146e08a474bd5e64e1bd4b62b9a47f4501ecfe1e78
+SHA512: 91de42142e9d13e2d3c4999001646934d4061aeafe94033ab7ce30fce545a0e77a2d6e279562f33dadbcf53dd55a2c9394f377446a06114362bd0034219c9db6
+
+Package: tilde
+Architecture: i686
+Installed-Size: 692
+Maintainer: @termux
+Version: 1.1.3-2
+Homepage: https://os.ghalkes.nl/tilde/
+Depends: libc++, libt3config, libt3highlight, libt3widget, libtranscript, libunistring
+Description: A text editor for the console/terminal
+Filename: ../../../../releases/download/i686-t/tilde_1.1.3-2_i686.deb
+Size: 158376
+MD5Sum: 501dcacff178302dda369d70bfee059d
+SHA1: eee398a2fa1a5a84d29f6ca19e479fd0d3bf9bf6
+SHA256: 1691c4aa282f5ff9f28ac835d7832d0d992345b68cc3d32580a6c39967158411
+SHA512: 696e1cdd7617dad1e186ba7a7fddf590c93c64c39cccbf2ee3b592a8995357242bef516318c980dca5f22c3483215d2ae1eff75d8d15c06d3a39f9bac99fdef8
+

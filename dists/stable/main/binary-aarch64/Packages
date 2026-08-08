@@ -39247,3 +39247,48 @@ SHA1: 49e29e0b7e445ab3e4d6fae0fa080794a9a12a25
 SHA256: 16fb7fcd7d620e3280561c5082f66713bfc9c2a56d7c8205745ce9f26adf54dc
 SHA512: b650202ecd1e2354fe657ade45971662ca69db59c39f809a62ca88a97de834f632d09706ea8754367c8989027f23c40ae3300dbd5fac0e652486bc9607fc6d5d
 
+Package: libt3highlight
+Architecture: aarch64
+Installed-Size: 448
+Maintainer: @termux
+Version: 0.5.0-2
+Homepage: https://os.ghalkes.nl/t3/libt3highlight.html
+Depends: libt3config, pcre2
+Description: A library for syntax highlighting different types of text files
+Filename: ../../../../releases/download/aarch64-libt/libt3highlight_0.5.0-2_aarch64.deb
+Size: 58932
+MD5Sum: aed0a784057e2cdabdc32c2b83f2ecf2
+SHA1: 20d5a345f5a2a4de6f99ade172b7d18e515f59ab
+SHA256: 1db00bbbf2a357ae8e718d151e0223fa16bdec3bcac78d660b1a8404fb463078
+SHA512: 0820a99c86f4778869433033d922189f707abf7dd1b0237a3ca41e34324b592cc1d2d2cb58956cbad7fa927001a5b9fa4849f7b96862581aa1ceeb837fef411d
+
+Package: silversearcher-ag
+Architecture: aarch64
+Installed-Size: 160
+Maintainer: @termux
+Version: 2.2.0-6
+Homepage: https://geoff.greer.fm/ag/
+Depends: pcre, liblzma, zlib
+Description: Fast grep-like program, alternative to ack-grep
+Filename: ../../../../releases/download/aarch64-s/silversearcher-ag_2.2.0-6_aarch64.deb
+Size: 31740
+MD5Sum: 67102331b00d77395b51ec8379c47872
+SHA1: 7f1038eab15b09480b728da6c520196c26271e99
+SHA256: b654a55f755cd2f28cccc1da8feda757ff4db5ae6153794425ab2e57a0aa8866
+SHA512: a441450da67b59fde27d1167c9ce109d3e0e036ab02fbdca3065d8439431dbe23fd2aa27d0b3898e6c2994d6b543820338d65c6c4e24bcab169d69c061d8ef3b
+
+Package: tilde
+Architecture: aarch64
+Installed-Size: 704
+Maintainer: @termux
+Version: 1.1.3-2
+Homepage: https://os.ghalkes.nl/tilde/
+Depends: libc++, libt3config, libt3highlight, libt3widget, libtranscript, libunistring
+Description: A text editor for the console/terminal
+Filename: ../../../../releases/download/aarch64-t/tilde_1.1.3-2_aarch64.deb
+Size: 146492
+MD5Sum: d5185a8b63a4ccfee1ae63394871ebfd
+SHA1: 24dc2f6f1268936a107123585e7be7e1c9497c79
+SHA256: 2de03524cf8a6506db2064af722fc023080a050c232fad0235530d1c8984ca46
+SHA512: 8a04cac7733de7479c13f8a73d9b03798b39e8fbb38fb170e11b885cd5d7cc7082a840e225320f209578a7d592088ea2997f0335ec0cb4a02c9755ac82b9edb3
+
