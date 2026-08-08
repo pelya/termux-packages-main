@@ -38955,3 +38955,36 @@ SHA1: 5d0753c0c9e5c4f55fa0074b5eb00ec7423a032b
 SHA256: b0cc53ebd9c9439753b00f01e16721a28606b099548345080ee18ebf9acbac34
 SHA512: ad1b0229ba424cefd60ad303fcea4e9eb80810426321b952a223c3583974b55d30e3b90165bf0662fd32a2506730cb667f35f518cb1c8fec68fdaf4a53dc6286
 
+Package: ipv6toolkit
+Architecture: aarch64
+Installed-Size: 4000
+Maintainer: @termux
+Version: 2022.09.30-4
+Homepage: https://www.si6networks.com/research/tools/ipv6toolkit/
+Depends: libpcap, resolv-conf
+Recommends: curl, perl
+Description: SI6 Networks IPv6 Toolkit
+Filename: ../../../../releases/download/aarch64-i/ipv6toolkit_2022.09.30-4_aarch64.deb
+Size: 758388
+MD5Sum: 21898ed6e11d638d66eec154528bc88d
+SHA1: 6ec9b18f93b38476e9790a42e54b58858b156741
+SHA256: 0a87d7fbf80895a6eaf4ccfb191b197025966f0415e6bab589e0600eeff3e898
+SHA512: e71d4a3f82b98107004d808287b195761e267c3c1ffdcbd5627f93dde1a83a4b62b0879e644165dd5ac28c15b7d826f7dba268e273f3cc9d3cf7224fbea00979
+
+Package: memcached
+Architecture: aarch64
+Installed-Size: 512
+Maintainer: @termux
+Version: 1.6.45
+Homepage: https://memcached.org/
+Breaks: memcached-dev
+Depends: libevent, libsasl
+Replaces: memcached-dev
+Description: Free & open source, high-performance, distributed memory object caching system
+Filename: ../../../../releases/download/aarch64-m/memcached_1.6.45_aarch64.deb
+Size: 141712
+MD5Sum: 3ad20733baffc088d7ff08d169cdb82f
+SHA1: 579c89cf3f3031a96cdb0c80d25671aa0b4f4fec
+SHA256: 06f5fbadf42b76dce12dfd4d444197c076f7622ac541695bec7ea993f2805712
+SHA512: 1c2c9ea956bf9aca2b27d711e9801e3ed6210aee73e4b7a03feb8dadb8aba8bd80b7ea82563db45d0b295c9b649a54f0b39ee2cf4cb67e64b7e483f9f4126041
+
