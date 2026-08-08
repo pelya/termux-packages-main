@@ -39527,3 +39527,32 @@ SHA1: 753cd19bdca7a285171063f8e7dca0bb5211a4ba
 SHA256: 4f36cfa82afaadb6660453d073b5275a254cb0a61c0f8b1a4cd3a1dec5d4a2b4
 SHA512: 6803c124d79997df5cd787275b5f5a9b906ca25ea9f2566798bee553ebe6a23386877398370cae4a14b8da6e4cafb1baf2964c1c785b5f9f184b13c771042e77
 
+Package: lsix
+Architecture: all
+Installed-Size: 52
+Maintainer: @termux
+Version: 1.9.1-1
+Homepage: https://github.com/hackerb9/lsix
+Depends: bash, imagemagick
+Description: Shows thumbnails in terminal using sixel graphics
+Filename: ../../../../releases/download/x86_64-l/lsix_1.9.1-1_all.deb
+Size: 5792
+MD5Sum: 3788f1590a7f221defec03d81c7260f1
+SHA1: 0042f3be65146dd6c23b91cc0b2765173314a12d
+SHA256: 692d85d28f0bcf090b0adc198b3e957f5a0527b64be7dc2ce4f179f4fdfa2aae
+SHA512: 7a0910956d1bcac6eea9187c79141c1a8d82aed3a859b9db33579276d49bda54df3b9a4e7941b866cd391df7507c843cd1aba80084814786c3eb80dd053a6aa4
+
+Package: pb
+Architecture: all
+Installed-Size: 60
+Maintainer: @termux
+Version: 2022.11.03-1
+Homepage: https://tildegit.org/tomasino/pb
+Description: A helper utility for using 0x0 pastebin services
+Filename: ../../../../releases/download/x86_64-p/pb_2022.11.03-1_all.deb
+Size: 3544
+MD5Sum: 865a8d8e266aeeae835aad11fb95e059
+SHA1: bff089eaae033dcd73ad02306f292fc75dc113c0
+SHA256: 7d9f9c0a97c2b7d902e9f40a54f3b411e792ef8812eaa48bb6c06b66f1fd2eb2
+SHA512: 3f9599f790a93c7918db954eb5a9dcaecac997920e5dc651a75c0d8c9a9a22bd72275b7bc0bdc25af2e631e3e03ba28b255933f4223d305524812b735c5751fe
+
