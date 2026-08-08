@@ -38373,3 +38373,47 @@ SHA1: ba2a73765c78ffb9ec4b519276291efbacd3f4f2
 SHA256: c0fb9a472705c17368afe667a22ac2d5a1515be5fa04354dd9937a657fae2054
 SHA512: d17ca15b4c5bbe5898af2bb9b718eab15f600968c8375bdbb62dad7d4eb33567673f668eaa28208576d4c94b71244dbf381bdcfceed32e0c4cfe7b91b043480a
 
+Package: k2pdfopt
+Architecture: x86_64
+Installed-Size: 856
+Maintainer: @termux
+Version: 2.55-4
+Homepage: https://www.willus.com/k2pdfopt/
+Depends: djvulibre, gsl, leptonica, libjasper, libjpeg-turbo, libpng, mupdf, zlib
+Description: A tool that optimizes PDF files for viewing on mobile readers
+Filename: ../../../../releases/download/x86_64-k/k2pdfopt_2.55-4_x86_64.deb
+Size: 389420
+MD5Sum: 6fb3a8a5eb9a3b1f437dd749e067a7d8
+SHA1: c1da1d94f06c5d51de3f6ad75df3eda774740b6d
+SHA256: d97184defbfb2d5357b9761986d2621270e4efb6a88f7b9c376f3aace98865ca
+SHA512: 9164f8cd03b22a1b8fc7ce20dacafe0ddb265adad21b87990eaf7c7f1d02f664e613f0a733155383e32d052b99fed33484b1ae5120d05161ec953ca6a33bccfe
+
+Package: python-ruff
+Architecture: x86_64
+Installed-Size: 528
+Maintainer: @termux
+Version: 0.15.21
+Homepage: https://github.com/charliermarsh/ruff
+Depends: python, python-pip, ruff (= 0.15.21)
+Description: An extremely fast Python linter, written in Rust (Python bindings)
+Filename: ../../../../releases/download/x86_64-p/python-ruff_0.15.21_x86_64.deb
+Size: 52164
+MD5Sum: d1104e3803808a7a40f9fa0d7362bd43
+SHA1: 86867cc4d523a6e91aeb206942e7fcd6d403ad43
+SHA256: 245450f4a16f8dfdfd528ef1a853a7251b65572f322efced760fa2dec9dc1539
+SHA512: ca4edec9861e252fdb81b723d6b5f9d13c2c6f02be46cfdc0bf955c8a5d503391fbb69240fc2f4599b98f6bd40172cd9ac85c1ac5b02977f27ee7eb51c4d3ff3
+
+Package: ruff
+Architecture: x86_64
+Installed-Size: 26700
+Maintainer: @termux
+Version: 0.15.21
+Homepage: https://github.com/charliermarsh/ruff
+Description: An extremely fast Python linter, written in Rust
+Filename: ../../../../releases/download/x86_64-r/ruff_0.15.21_x86_64.deb
+Size: 7512176
+MD5Sum: 0ba68bd3ba1bbcc609d3a9fb1345cd89
+SHA1: 76fef53c967d67e15c61f8555297bdc9cf9a6c03
+SHA256: 19c6f738e06bb35654dd4ab08a39d8ddbabb0175655adc2ee17c2efc13c13b0c
+SHA512: 95227d56006089c5a29b9efbc59569bcbe98d1d9f58761deb219f8fbab48b20f7842132688236c08f4031b5aedb6c6868df875ae4e2a209ec6f4b4024b0e6440
+

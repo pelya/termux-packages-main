@@ -38404,3 +38404,47 @@ SHA1: ba2a73765c78ffb9ec4b519276291efbacd3f4f2
 SHA256: c0fb9a472705c17368afe667a22ac2d5a1515be5fa04354dd9937a657fae2054
 SHA512: d17ca15b4c5bbe5898af2bb9b718eab15f600968c8375bdbb62dad7d4eb33567673f668eaa28208576d4c94b71244dbf381bdcfceed32e0c4cfe7b91b043480a
 
+Package: k2pdfopt
+Architecture: aarch64
+Installed-Size: 808
+Maintainer: @termux
+Version: 2.55-4
+Homepage: https://www.willus.com/k2pdfopt/
+Depends: djvulibre, gsl, leptonica, libjasper, libjpeg-turbo, libpng, mupdf, zlib
+Description: A tool that optimizes PDF files for viewing on mobile readers
+Filename: ../../../../releases/download/aarch64-k/k2pdfopt_2.55-4_aarch64.deb
+Size: 348768
+MD5Sum: 995d4bab93b51e758fe66c6f62e81a68
+SHA1: a289b5e795d122778e79a86cf7923342f1666711
+SHA256: a9c1cd23a9d382bf4cfe990099909c8b258c64dcd3155f08417b56d805b0141e
+SHA512: 95f526881386c0949d5c10e64bf6eb1f5f6c814bf35912aaf64ed5a8f3c6beb6484a0f5a45883862d3817250e658ec071c2db50231da9da380f82c2ec067ed9b
+
+Package: python-ruff
+Architecture: aarch64
+Installed-Size: 528
+Maintainer: @termux
+Version: 0.15.21
+Homepage: https://github.com/charliermarsh/ruff
+Depends: python, python-pip, ruff (= 0.15.21)
+Description: An extremely fast Python linter, written in Rust (Python bindings)
+Filename: ../../../../releases/download/aarch64-p/python-ruff_0.15.21_aarch64.deb
+Size: 51992
+MD5Sum: 88f5468b91104486612c5bf6f45d29d5
+SHA1: 692265cb762e6d286b893ba3858046447efb1fb3
+SHA256: d4e15e3fdfb82d1a183ad1068a868bb6cfcb722f0bf70e647caf3f6124cb40dd
+SHA512: 72520334457b47c1fff04cb5cf6a7321dc2de7fe94f722709cea9947546d2e59e356b27838f2ac17f4dabd3e0e0f731cb13cb43ba45bbba0416042baedae9b57
+
+Package: ruff
+Architecture: aarch64
+Installed-Size: 23372
+Maintainer: @termux
+Version: 0.15.21
+Homepage: https://github.com/charliermarsh/ruff
+Description: An extremely fast Python linter, written in Rust
+Filename: ../../../../releases/download/aarch64-r/ruff_0.15.21_aarch64.deb
+Size: 6486552
+MD5Sum: 43b21d224d36d78d4f28e2365c526099
+SHA1: 76bb98bbf30f7ad7a988965f109782e7030e3d2e
+SHA256: 78beb78ad5dbeea1b0aed9b7e51ca30f5cda30cc56a782bde7afdcdcede5a335
+SHA512: d3ea7dc5e99a2e6f8f6f86f955d5801aa46057ef9d4b6cecabe2ea5123268047f9149a48d8daa1ccc0698b077991875e835df78f8f15d7cd3cae6d8967a8bc03
+

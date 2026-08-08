@@ -36652,3 +36652,47 @@ SHA1: ba2a73765c78ffb9ec4b519276291efbacd3f4f2
 SHA256: c0fb9a472705c17368afe667a22ac2d5a1515be5fa04354dd9937a657fae2054
 SHA512: d17ca15b4c5bbe5898af2bb9b718eab15f600968c8375bdbb62dad7d4eb33567673f668eaa28208576d4c94b71244dbf381bdcfceed32e0c4cfe7b91b043480a
 
+Package: k2pdfopt
+Architecture: arm
+Installed-Size: 616
+Maintainer: @termux
+Version: 2.55-4
+Homepage: https://www.willus.com/k2pdfopt/
+Depends: djvulibre, gsl, leptonica, libjasper, libjpeg-turbo, libpng, mupdf, zlib
+Description: A tool that optimizes PDF files for viewing on mobile readers
+Filename: ../../../../releases/download/arm-k/k2pdfopt_2.55-4_arm.deb
+Size: 333528
+MD5Sum: 8d0cdfb1c9cb9df9e18be9380c581027
+SHA1: a2e9160d25ff70f53046fa905d8aad19bea6ed49
+SHA256: aa6ae037172d8ea5fa26c4bce55838be5f7d276788ff6e0cd8e11c130b234c4e
+SHA512: f0c704f73d3d6efcc60165b14e52e83f1bd1cf1d981e7056ee6c79e2dce58e3e6cc9bded5a809d6ee248196aa4b02e671d4a9ab1c0ee65368eb6615327d21691
+
+Package: python-ruff
+Architecture: arm
+Installed-Size: 528
+Maintainer: @termux
+Version: 0.15.21
+Homepage: https://github.com/charliermarsh/ruff
+Depends: python, python-pip, ruff (= 0.15.21)
+Description: An extremely fast Python linter, written in Rust (Python bindings)
+Filename: ../../../../releases/download/arm-p/python-ruff_0.15.21_arm.deb
+Size: 51980
+MD5Sum: 35278d7e2901535fff51c715bad08f12
+SHA1: 707e18aa5f98e0b7d96ebb00021a18d3f28217df
+SHA256: 7e1c144965da48e7a3da31699a6ded67c3cb33d973dcd2ad149b5d66138c2d9d
+SHA512: b6847dff7ba8d8fa2f42e30abc0bca50686c40d186ac8c7e472fbcb22235c6cbbb84df8af8dcc6eaea36a659ee59cbdb42c526423c430c483f7856c51a1a8473
+
+Package: ruff
+Architecture: arm
+Installed-Size: 16512
+Maintainer: @termux
+Version: 0.15.21
+Homepage: https://github.com/charliermarsh/ruff
+Description: An extremely fast Python linter, written in Rust
+Filename: ../../../../releases/download/arm-r/ruff_0.15.21_arm.deb
+Size: 6393916
+MD5Sum: 9271bd6f5cfc91d58bd916e5f0d982f3
+SHA1: 626621eb104f0b3dd9564ea51b80e6fe1a2487a6
+SHA256: 7017fc24177599b4d7239b5c0361cd6516643e8d4a9a269ca0d77b0f521cae34
+SHA512: 2b0c4a3b625ff619f0b1a5149b8785154c15a078d2cb644d00c3a00d1b7409022580c3034576c7c714a84b5d8ce35e22642563478509fd72d11f762a5cb459e8
+
