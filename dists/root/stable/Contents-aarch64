@@ -1275,3 +1275,8 @@ data/data/greater.underscore/files/usr/share/man/man7/asymmetric-key.7.gz       
 data/data/greater.underscore/files/usr/share/man/man7/keyutils.7.gz              keyutils
 data/data/greater.underscore/files/usr/share/man/man8/key.dns_resolver.8.gz      keyutils
 data/data/greater.underscore/files/usr/share/man/man8/request-key.8.gz           keyutils
+data/data/greater.underscore/files/usr/bin/iodine                                iodine
+data/data/greater.underscore/files/usr/bin/iodined                               iodine
+data/data/greater.underscore/files/usr/share/doc/iodine/README.md                iodine
+data/data/greater.underscore/files/usr/share/doc/iodine/copyright                iodine
+data/data/greater.underscore/files/usr/share/man/man8/iodine.8.gz                iodine

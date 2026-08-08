@@ -39452,3 +39452,18 @@ SHA1: 7cbf3f6133ee28ecb90098088a59a11b44c6aa6e
 SHA256: d0edb807f3e51cc6e14043bb1edd59c1d43d0dd67dcebb6289e42ca477f9d087
 SHA512: b1c1e1ca9ee682297da63efa5c7839bfbfe0bb52029fec5ce7bda8510df6f84d2e07d390eec9f5de5dbb73c8c1c495bab0a299a5c0e1399a101da315eb2782c1
 
+Package: ipcalc
+Architecture: x86_64
+Installed-Size: 76
+Maintainer: @termux
+Version: 0.51
+Homepage: http://jodies.de/ipcalc
+Depends: perl
+Description: Calculates IP broadcast, network, Cisco wildcard mask, and host ranges
+Filename: ../../../../releases/download/x86_64-i/ipcalc_0.51_x86_64.deb
+Size: 10020
+MD5Sum: f1f6b05624008e14b9739281ca8c86c1
+SHA1: 568110b8a3e042f5f15e12f0c05357a4019666d9
+SHA256: d3c519fa2fe40405f96a994c27e550872bbf5e1f43bf39f19be2f04233a413a2
+SHA512: 2d5c452b83dd837c327bb49f4a34220cfa296805c372c4ff574182655945388a1cc8c6bbadfeab5b559ee50f71a647bef538317ff1e1dc8863f18789b1e3945c
+

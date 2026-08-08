@@ -1020,3 +1020,18 @@ SHA1: c47649ff78111c0528283625749abfdcdfefd822
 SHA256: 97f39859ea678951584ec3142d428c1adc94a1988ae4dd6a64f7c14119405c64
 SHA512: 9279075b6ea82b3a27f0a6a01f97e94d66a4abf1793ac11eee68151f18b94f19c480d6e69dd79fba2d439efb10a65d836dfc3e4da93d6d94a14fef02d69593f5
 
+Package: iodine
+Architecture: aarch64
+Installed-Size: 200
+Maintainer: @termux
+Version: 0.8.0-1
+Homepage: http://code.kryo.se/iodine
+Depends: net-tools, zlib
+Description: Tunnel IPv4 data through a DNS server
+Filename: ../../../../releases/download/aarch64-i/iodine_0.8.0-1_aarch64.deb
+Size: 52368
+MD5Sum: 89fcc759262fc3272a9ddb14c42d76cf
+SHA1: b9ce57211ae4e7e5b660db193f4cd2826fe6f364
+SHA256: 76b14bc6648fe4b781bc860c31eb18e818ccb729545247612512e6469c87f254
+SHA512: a14482065648aeacea1b2096a1c6c789b3c2acc80079d76a78ee9a6ede3d50317b3f0b11ec64b13f72b0633b452e83944ce3f19b132dd313bffeb9ae0c6b4c42
+

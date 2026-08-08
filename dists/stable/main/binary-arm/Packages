@@ -37734,3 +37734,18 @@ SHA1: dac7669d4dfa95ada87ca0a32d138749061c91d0
 SHA256: e7a4f5bf468756f6594296b5d835c30c54d0386a4375505ffa659edf46fb0445
 SHA512: e8861b031fd70554728ba6dfa17dd884d4464110ce09106dc58a1a35beace13650011d2ccf7a9521b88bac4cc6b07d75b95ce1ecbbfb3c032d542233fe85ad18
 
+Package: ipcalc
+Architecture: arm
+Installed-Size: 76
+Maintainer: @termux
+Version: 0.51
+Homepage: http://jodies.de/ipcalc
+Depends: perl
+Description: Calculates IP broadcast, network, Cisco wildcard mask, and host ranges
+Filename: ../../../../releases/download/arm-i/ipcalc_0.51_arm.deb
+Size: 10016
+MD5Sum: 6c0ba5b00f29662a852d97f888a8bc8a
+SHA1: 748e44b4449c7af9fc32dcfcac29b7c176780110
+SHA256: 081333662119d50822890f9c994b343907a0ffcb7e3827aec46411fac4e56eeb
+SHA512: b70d652bf5f4b0b23269373cab8597606348086a7b75284fc627d74e34c440d8dd45d63bdc95b9270dd7bdabe508e95a5b6e59db8658d9e4d0b0c3fb758e0263
+
