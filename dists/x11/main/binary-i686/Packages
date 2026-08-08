@@ -12794,3 +12794,18 @@ SHA1: db879f7712864963eee52ee5e567b0188f9fd2bf
 SHA256: 7b8cafaf1cb4804b4f0e07662de59529909d34d91999c4d8695ef32603264cd7
 SHA512: 521b5f5f4e13b37e3dcb8bfa599732e2715f36e5a38d71942602ede19a81af6bb566bd48401b72d36979c9dbcbb042840bb412cb288f90818886ca8ccad61531
 
+Package: qt5ct
+Architecture: i686
+Installed-Size: 1056
+Maintainer: @termux
+Version: 1.9-1
+Homepage: https://sourceforge.net/projects/qt5ct/
+Depends: libc++, qt5-qtbase
+Description: Qt5 Configuration Tool
+Filename: ../../../../releases/download/i686-q/qt5ct_1.9-1_i686.deb
+Size: 202664
+MD5Sum: 5b212bed4389d3c06085d1e83de43ea3
+SHA1: 7ae1f1339373e38a4430381719dab81bbbd4e46a
+SHA256: 44379352cdeafb624e34a05bedd7c18cb7a64b617a75e4d39375acdf728081ae
+SHA512: 0708fd6ad4d2764a450a4028cb7455d22e1546c55d193ca2f057a10356334ba18514bc0fde2a2e78631645ed76713d55c2f4f2ee8bc049f8ff5352534cf9a0a1
+

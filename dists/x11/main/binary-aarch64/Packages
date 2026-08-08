@@ -13278,3 +13278,18 @@ SHA1: ad9d34ee03a520bc867eebe92e2ba322290ba132
 SHA256: 22189f1568226ff875f17087a430f9176fcd665770b786bd53407e6d417225f9
 SHA512: 8d38f228b2f401cd55aeb508c8a1408de66bfbd2f8f54518327de2d80985c670ec93cdee9a713ef5cb7123f1326153b72528b2ef1b95e51523570c301ecaf065
 
+Package: qt5ct
+Architecture: aarch64
+Installed-Size: 1112
+Maintainer: @termux
+Version: 1.9-1
+Homepage: https://sourceforge.net/projects/qt5ct/
+Depends: libc++, qt5-qtbase
+Description: Qt5 Configuration Tool
+Filename: ../../../../releases/download/aarch64-q/qt5ct_1.9-1_aarch64.deb
+Size: 189052
+MD5Sum: 5a7fb3f9a6403cbdfc7a00a1bb729459
+SHA1: 07cb595a20b34c42e47e20e1f457e181d3030699
+SHA256: 98ae2d9b2ad1c7b172c76dc1532ddedb27b0ff796c5128d938b3586267602a52
+SHA512: 857e668885020215699003c2aa4c6b3f198624d3de49a540c07d0cc9a33b248081ce5bf904e2bc63f3b8546663ea7b83afa33c64d29c06fa12067e69a591c7e5
+

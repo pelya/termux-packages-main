@@ -36198,3 +36198,21 @@ SHA1: 1b757ab92100b18dcf035380297639f95cd007e7
 SHA256: 8afd77c5a2da29fd2287c2f34d94f291e3c221b7099217b23576b6f1ba353616
 SHA512: 8bbd54d78428986f31aeb721d881810db0d90baa7d4c65eb021be26e5027d82a966e6ab34348b5610846fdcc51601f458e0fe05b9f1a03070a52bdc0f3fc78ba
 
+Package: n-t-roff-sc
+Architecture: arm
+Installed-Size: 352
+Maintainer: @termux
+Version: 7.16-1.2.0-0
+Homepage: https://github.com/n-t-roff/sc
+Depends: ncurses
+Conflicts: sc
+Replaces: sc
+Provides: sc
+Description: A vi-like spreadsheet calculator
+Filename: ../../../../releases/download/arm-n/n-t-roff-sc_7.16-1.2.0-0_arm.deb
+Size: 141752
+MD5Sum: 1657223c4f984efd9d0d322465de9094
+SHA1: fcd0228f58b97658d5c4fc295e706b7c1ddde44e
+SHA256: 9c72606976151312fb0ce95e87247278fb1f9e7e850ec36ad5d2e33ac674f42c
+SHA512: 09dee82e21fc4a0307382ffe7c3e60666638a5f5e002abfa9140a7f48418bcca38dd3d7b1e54f2e606f34b8a19481aaca7e5b7ca1581b9b62c7d7dfc976720ba
+

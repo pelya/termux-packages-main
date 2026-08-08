@@ -12990,3 +12990,18 @@ SHA1: 4c3a05ccfb35e68972d24e2b487d99d7b9dba990
 SHA256: 5d5c2edc78113b174bd7de0a603a518eed5813080a7094d6a498e0cfae3b3a42
 SHA512: d3f17c5bca4e6affba18737011b8d5dfb896ba4f5c5cc5838f28cf79fd1726f3dbc3567594429b6391d7cac6fe07fa285af13edb36ca12e1675889b9c8c660eb
 
+Package: qt5ct
+Architecture: arm
+Installed-Size: 836
+Maintainer: @termux
+Version: 1.9-1
+Homepage: https://sourceforge.net/projects/qt5ct/
+Depends: libc++, qt5-qtbase
+Description: Qt5 Configuration Tool
+Filename: ../../../../releases/download/arm-q/qt5ct_1.9-1_arm.deb
+Size: 163588
+MD5Sum: c7f00be36fe112a05d92caf88ca4716a
+SHA1: dffcbbfa4db21d6aa906328ef1acfc40e2efea09
+SHA256: c349c5c93cbb6d836d60175419529b6fbc23123f21e2212fa5f47acd22ee97d5
+SHA512: 07215e14f48eedcfee18987b48f5af2cf3954dcdb0828889935a901d13bd3e43be6d8f389d6987f869ea4d45306624d057831311369477f40a2f10c20e79868a
+
