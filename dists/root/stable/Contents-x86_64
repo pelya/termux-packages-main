@@ -1211,3 +1211,5 @@ data/data/greater.underscore/files/usr/share/man/man1/erofsfuse.1.gz            
 data/data/greater.underscore/files/usr/share/man/man1/fsck.erofs.1.gz            erofs-utils
 data/data/greater.underscore/files/usr/share/man/man1/mkfs.erofs.1.gz            erofs-utils
 data/data/greater.underscore/files/usr/share/man/man8/mount.erofs.8.gz           erofs-utils
+data/data/greater.underscore/files/usr/bin/wush                                  wush
+data/data/greater.underscore/files/usr/share/doc/wush/copyright                  wush

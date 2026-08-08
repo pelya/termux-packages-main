@@ -13541,3 +13541,18 @@ SHA1: d04e5a68c5f7293952db57013134d3dd6c623016
 SHA256: 5575335324f421e59de75be90ae99ecace7a10c7df6698a807cd0ceb6f911bed
 SHA512: 92218cd907f4b3f9e82ccc91e5618ddddc8686f44b6bc2b11f95298ab07ab23948c5e2857ccbbd1ac3555a41c28d1e57a4519c0d33d661aa08e500236a5a4c05
 
+Package: pcmanfm-qt
+Architecture: i686
+Installed-Size: 3244
+Maintainer: @termux
+Version: 2.4.0
+Homepage: https://lxqt.github.io
+Depends: desktop-file-utils, glib, layer-shell-qt, libc++, libfm-qt, libxcb, qt6-qtbase
+Description: PCManFM-Qt is the file manager of LXQt
+Filename: ../../../../releases/download/i686-p/pcmanfm-qt_2.4.0_i686.deb
+Size: 511424
+MD5Sum: f39bf3b9f4a17100bc687fdc694fcfd6
+SHA1: aaec4caf7a3d2e7befccd053b9757eda77bb89cc
+SHA256: d971380650db1a1743e85ac58da1e415dacdc9849bb3e8b39572e60f5e30dcfe
+SHA512: 8d91bda7e603245d69247e42d6b0b49484c12df648099d7492634e24611c253a89403ffcc5d0aed924c3d6bd03516a2c95f123b7e9bf3a0c13d494762105f124
+

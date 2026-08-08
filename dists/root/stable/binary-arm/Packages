@@ -977,3 +977,17 @@ SHA1: acf20eefa704a8786677662e76a811ec262850cc
 SHA256: c2c5099b027e013ffa4b520292870768ae1240aeda6f873f6c9007e4a22f16b9
 SHA512: ae3d78928e46b9ab36262d3be54a0bd7cb3f66a7383bf42c9c43c7aafd533ca31eb6877dcdf7aaa2e1d880bd45d0266128582b05d8a2d119ce14ea59bcd8eac2
 
+Package: wush
+Architecture: arm
+Installed-Size: 38500
+Maintainer: @termux
+Version: 0.4.1-1
+Homepage: https://github.com/coder/wush/
+Description: simplest & fastest way to transfer files between computers
+Filename: ../../../../releases/download/arm-w/wush_0.4.1-1_arm.deb
+Size: 9872908
+MD5Sum: e2c96e46656b2cc2c61528c649643757
+SHA1: dfc4d6117748870f7a727c84120c8132c8d40ec8
+SHA256: db1521b940cf6ba62806bab25603e7b1fff98e13b403da912d36565d50b29b59
+SHA512: a41e6ae45f0ed5bc51a94d403585c628627927a2a1dd7526178b0074e47cb9a8674c366c5fc040876558a6c43f455978b953c53c1432c700d7937db66a158426
+
