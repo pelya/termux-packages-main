@@ -13600,3 +13600,18 @@ SHA1: 2a74e25368076d1982107a42c72b09ae80956059
 SHA256: 73e7a2eb0ed519b2e70153e6c07490cd6c1b59c0b60aba5c9d41e37ffbf3baaf
 SHA512: 1f92f06dcc40fffa1d7c39a41f9be3e4eecbf907c62164dbf46f0213ee86700cd48ff57a54868334aac43b0c7baa0ce67606bc2dd4081caa677a8181f00cdb42
 
+Package: sfml
+Architecture: aarch64
+Installed-Size: 4864
+Maintainer: @termux
+Version: 3.1.0-1
+Homepage: https://www.sfml-dev.org/
+Depends: freetype, harfbuzz, libc++, libflac, libogg, libresolv-wrapper, libssh2, libvorbis, libx11, libxcursor, libxi, libxrandr, mbedtls, openal-soft, opengl
+Description: A simple, fast, cross-platform and object-oriented multimedia API
+Filename: ../../../../releases/download/aarch64-s/sfml_3.1.0-1_aarch64.deb
+Size: 770240
+MD5Sum: 09b1d8d2db27cf6c88860d4a330aad07
+SHA1: 71f5cd8e3080cb6b1482b3351b7e22f913b19f09
+SHA256: 435f2ae9b6a3ce2ae8ee1ce43ad23c64df5516076c97fda37791d0f6efbf3a52
+SHA512: b4fce87d0d6bb34b0b1687da34fb6a69e2255fb77953b2323026f1c9f7fcd50af8dae4d79bcdc1ef81705c633961ddd49b3ad139629fd38b2a4937750ab83c8d
+

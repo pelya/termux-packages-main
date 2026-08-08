@@ -13312,3 +13312,18 @@ SHA1: 0d3353b9bdb7ecf91609b789116df21d4250a8cb
 SHA256: bbc38899fe779990de272e577b3ec6afd17804241b4ba12a2789286da5123f7d
 SHA512: 34e81c68655e5b67d1368fb73e9f1c76287992d9689a391ba2476d8c194577d36dbcbf95025df0801434be44fbc29a7f100bde277f33767f0e0d3030ac8b06e3
 
+Package: sfml
+Architecture: arm
+Installed-Size: 3996
+Maintainer: @termux
+Version: 3.1.0-1
+Homepage: https://www.sfml-dev.org/
+Depends: freetype, harfbuzz, libc++, libflac, libogg, libresolv-wrapper, libssh2, libvorbis, libx11, libxcursor, libxi, libxrandr, mbedtls, openal-soft, opengl
+Description: A simple, fast, cross-platform and object-oriented multimedia API
+Filename: ../../../../releases/download/arm-s/sfml_3.1.0-1_arm.deb
+Size: 751108
+MD5Sum: 889072571f9eb50314e59ab6c4093640
+SHA1: 8ea57bb60e8abf42aaac55203a74d2b4ad811539
+SHA256: fb0c9ed72443f7e3787da050477615a56c62a5d7287a6dab428fdb1efa71eb14
+SHA512: 74539f3a3111a29cccd4e93db8a75f823a8380ef1150c411001b905a6acff1fdc20da83343ed84f238108ea348e9908aa3289b1a5e6b8f111bf8de9d1f1e3a99
+

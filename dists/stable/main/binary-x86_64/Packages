@@ -38223,3 +38223,34 @@ SHA1: de352f8c3242f8664fab6cfcf9dbd20ea2a47609
 SHA256: 53b83943ae7313c5d401a99ef17789c6209d6ea9a7536492f1dad365aa453e03
 SHA512: 8f584a7b9a26c1a135b96d6b160e9ea658b24f1540fa6df480d822fc9fc27e125eed21954f1a0b2fe5bdaa6672b1f8e92bd421a2c11995113f3337e596029c7f
 
+Package: povray-data
+Architecture: all
+Installed-Size: 23064
+Maintainer: @termux
+Version: 3.8.0-beta.2-18
+Homepage: https://www.povray.org/
+Breaks: povray (<< 3.8.0-beta.2-2)
+Replaces: povray (<< 3.8.0-beta.2-2)
+Description: Platform-independent data for povray
+Filename: ../../../../releases/download/x86_64-p/povray-data_3.8.0-beta.2-18_all.deb
+Size: 10358164
+MD5Sum: 877eb460abb7c7a3b7d1460c7644f758
+SHA1: d6413c9323b7441132ab03c80a0f78faed8236ee
+SHA256: 88bc9126d568c2263eb9f854f589d6c21ade9d4371a68bc8f738cf5ad8fa26e3
+SHA512: cf34838971e323fd99dc8407101a67362f74a7dff9cad3bf5413a70e5bc45d700e22474035689723a6bc205bb65447e437613e2eb352d15a8f20e1527761c7dd
+
+Package: povray
+Architecture: x86_64
+Installed-Size: 2628
+Maintainer: @termux
+Version: 3.8.0-beta.2-18
+Homepage: https://www.povray.org/
+Depends: boost, imath, libc++, libjpeg-turbo, libpng, libtiff, openexr, povray-data, zlib
+Description: The Persistence of Vision Raytracer
+Filename: ../../../../releases/download/x86_64-p/povray_3.8.0-beta.2-18_x86_64.deb
+Size: 809012
+MD5Sum: bdf8db232f6d0c745cb5b1007260c2c1
+SHA1: cc8aa80c2b9455d456fde89cfb2f3e9d0068f6e6
+SHA256: 5bd0f3ba3dd6b4e3a2a5cb8fd84ba9e784bf93153b2cfdef2b227e9c42f5ee1f
+SHA512: 58c90a82b180fe63cb7bae6dabceec78bced909aa475115e0a1e6464e97d2422abe8918a2f434776999be3f0377980366d3656367967773ce3434dddec877e2f
+
