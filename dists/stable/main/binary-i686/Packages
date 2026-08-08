@@ -38495,3 +38495,18 @@ SHA1: bf4a43c04f6211a8936439cc733057b411713a0e
 SHA256: 6b1f328cad9ec4445b8a2e917f4146f5d17c78c4746fc27e96bf708167ea6f08
 SHA512: 642eb56c861581ae26236f2219aa3a5cff1988247ae7706f11d67f3933da753c157dc4a81da3bdba0f7d956b898e3b882758f8bac8c52606a14521fc2af86867
 
+Package: ngircd
+Architecture: i686
+Installed-Size: 684
+Maintainer: @termux
+Version: 28
+Homepage: https://ngircd.barton.de/
+Depends: zlib, openssl
+Description: Free, portable and lightweight Internet Relay Chat server
+Filename: ../../../../releases/download/i686-n/ngircd_28_i686.deb
+Size: 179140
+MD5Sum: b77f850a0d6115bccbfadd3857d22c5e
+SHA1: 0a2da78d3e5b971a1768663a225761244a843b23
+SHA256: 5a27a007b4d7cc9c44d7be1750f9e3abe7798eaad9dfcd3cb70c3c5b3dc08588
+SHA512: 49c94dfb7ecc4a70e1b4dbec9a0877a10903d0dab2c909046b9b296f7dcd73482c833d00b4a5ee7f4c2b28907b4a30b7befcaaa4d15ac0f228c66f72e02c02aa
+

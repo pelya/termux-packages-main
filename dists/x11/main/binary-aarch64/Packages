@@ -14220,3 +14220,18 @@ SHA1: cd676c8fc2e11c71c996b6bdd4ef009b4f3a173a
 SHA256: d5ebb8746ed0b42007b75585abe0241543c415e124acd3eb27a57900bf16545c
 SHA512: d37cb9efe32a26409c22158957468545429a660f5069217c65b74d472fb509fb41c37f007ca524a6d6844f24d89f22eb6b049954efdc80b7e82bfc0dc13870b6
 
+Package: kwave
+Architecture: aarch64
+Installed-Size: 13724
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/kwave/
+Depends: alsa-lib, audiofile, fftw, flac, id3lib, kf6-karchive, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-ki18n, kf6-kiconthemes, kf6-kio, kf6-ktextwidgets, kf6-kwidgetsaddons, kf6-kxmlgui, libc++, libmad, libogg, libsamplerate, libvorbis, pulseaudio, qt6-qtbase, qt6-qtmultimedia
+Description: A sound editor by KDE
+Filename: ../../../../releases/download/aarch64-k/kwave_26.04.3_aarch64.deb
+Size: 5585676
+MD5Sum: de9f736ded5a028118d6575dacfae4c5
+SHA1: 6002d3a955b7895df512cd0538bb34dbced1f201
+SHA256: 3eac6fff4ccc2b250d0bf9abacbad2d37a39fcbadbdacbbd4eb41f8807fe6e6c
+SHA512: 2d673b05e47ba37ea0b19146a1dd8feecfc937bbc32f67d6acd16d91dce28a055df710ec60b029cae44c2e1c28755b7e318f4c38b4d8a9df5736f64164cfca0a
+
