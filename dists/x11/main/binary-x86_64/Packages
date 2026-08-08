@@ -13816,3 +13816,18 @@ SHA1: 8ed580b8596bd4bdd7301141463f09d3ab52374f
 SHA256: 86dfd3d285e5eaa790f9401d3a6a3b54a5b8349d7cf49f415b4904b3d688d537
 SHA512: a8d1b5176322c2bb17abe9eaa127060c5ec9135fa40d1a8a6652fc087c5ca11ca4f1bd9321d3b56f8ad9f4758e1ca346f74ec2df82f00e7679fed793d6ebb4de
 
+Package: labwc
+Architecture: x86_64
+Installed-Size: 576
+Maintainer: xMeM <haooy@outlook.com>
+Version: 0.8.2-2
+Homepage: https://github.com/labwc/labwc
+Depends: wlroots, libwayland, libxml2, libcairo, pango, glib, libpng, libxcb, librsvg, xwayland, libsfdo
+Description: A Wayland window-stacking compositor
+Filename: ../../../../releases/download/x86_64-l/labwc_0.8.2-2_x86_64.deb
+Size: 184952
+MD5Sum: 8fc7ceb6c64c4d5680e3f393644b264a
+SHA1: 91ecb821c25f09eefbbc4a42103f2bc504637457
+SHA256: 5d371832a28e2deba9ddce34ed66bfc6712d813bd93526ec6d6177d8922a3b12
+SHA512: ee57234da8ec7bcf77fccef133e6286f7ddbbd115579ef59548985430fa3777d3973683c9160841ef785e1f44f137362b14fc7819245a0883eab257839ce660c
+

@@ -38894,3 +38894,18 @@ SHA1: 15797086cf9ddf4b1c48e62d528d03ad4a046d31
 SHA256: fa76a8142efc8d83c07888e8166cc0f19356fa586a455ebc97072a1e2051a900
 SHA512: 9e13b6ec39c0a7d97abc1e17fcd93076a93c053e4edb140dbe4669d4e1088752723c2f573fe5db10ef8c5e08e32dcd6627128db67a342a1090d282221a2c59d3
 
+Package: innoextract
+Architecture: x86_64
+Installed-Size: 596
+Maintainer: @termux
+Version: 1.9-10
+Homepage: https://constexpr.org/innoextract/
+Depends: libc++, boost, liblzma, libiconv
+Description: A tool to unpack installers created by Inno Setup
+Filename: ../../../../releases/download/x86_64-i/innoextract_1.9-10_x86_64.deb
+Size: 183084
+MD5Sum: 240b2d44ae453cb77f8d3f6c8b9c1f80
+SHA1: da5b154cfa4ce6d550c8c2c942c9e02fe1705fbd
+SHA256: ca45a7804f2ad1204479ce4a7cbdca3b8f04e3194301e95a7762d9c02f1d8c02
+SHA512: b1016965912fe07b547c31d36ad658508ec5f862687f57c18a01c4f447b6e3a6024246ebf21ee24372f47fddf781863008913f695a167ae4638bfc1769ece3dc
+
