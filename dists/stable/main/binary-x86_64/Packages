@@ -38505,3 +38505,48 @@ SHA1: 60d49f8aa1f142d1ab831618c3cd65724c8a6548
 SHA256: ddc03c766b4a850b3edf3fcd930ebf5656f7546f8f871fe8fd4ef633d81afc00
 SHA512: 13d5e7c5933f49f0cd2a0144ebac98092e3bb608fe39a126bce812b22c9681f15e2e65277fc7c6cd2d0f8c400a82cdd678ced27fc7d5e7162acb9a17090b5783
 
+Package: apt-file
+Architecture: all
+Installed-Size: 112
+Maintainer: @termux
+Version: 3.3
+Homepage: https://wiki.debian.org/apt-file
+Depends: apt, libapt-pkg-perl, libregexp-assemble-perl, perl
+Replaces: whatprovides
+Description: search for files within packages
+Filename: ../../../../releases/download/x86_64-a/apt-file_3.3_all.deb
+Size: 17096
+MD5Sum: a499af8f20b1d2d9716650ec246a983d
+SHA1: 4b9f9346744c0540de287f6502cac786eabeba4e
+SHA256: 1e5d48362f5b2695a7daa7933c2cd1d61d5fc325c2f2f83c025c6a8fa52a6122
+SHA512: 53c4ce9cd58fe97b5b2f1572906a0034c4785766218deea9fd5dd03ea23d2c0a05db123d8221edf2e9a1d68cbb1e8b555b2f09f6ce97bca1ab0038b7f89af26c
+
+Package: vulkan-extension-layer
+Architecture: x86_64
+Installed-Size: 3268
+Maintainer: @termux
+Version: 1.4.350
+Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
+Depends: libc++, vulkan-loader
+Description: Vulkan Extension Layer
+Filename: ../../../../releases/download/x86_64-v/vulkan-extension-layer_1.4.350_x86_64.deb
+Size: 476460
+MD5Sum: 1efa64b5ffb1983f34595ee8b5ae719a
+SHA1: 0e55a3e8a7ad9ab3199f7e0266d370bf1365be13
+SHA256: 8cfd20b7b6a918fc47e5464d6b633588ea6ed08c346fec86a9a2320694c51319
+SHA512: d62bc4ca4447c11e72e7f4840bb82c0db293d3087ddae5448731626f4e5bd87b068ed9ece30506420efa1a2371af05056de17dbdbea4cf946eb5d234a159b95f
+
+Package: vulkan-utility-libraries
+Architecture: x86_64
+Installed-Size: 8120
+Maintainer: @termux
+Version: 1.4.356
+Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
+Description: Utility Libraries for Vulkan
+Filename: ../../../../releases/download/x86_64-v/vulkan-utility-libraries_1.4.356_x86_64.deb
+Size: 632108
+MD5Sum: f50754d24b3afc1e2938586f977014df
+SHA1: 16fe5641898fbe0a5f51e5c38b1c6ee182d7d3c8
+SHA256: 5e9d3463493fc5ddf7fb1733129b343f0b4d4c72c08781f38a0009dd61365520
+SHA512: 89e7a697ffeecec575ea1f0d210bff8a6bdc45f4f8c424aadb9482643238cda42b3e4eea3b0dd6dbc760aaa0245be9dde351ea2555336928fee080fd31a4da44
+
