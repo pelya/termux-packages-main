@@ -38436,3 +38436,18 @@ SHA1: b3a08cf783561f83e6a6f1ac35598d81f68d539a
 SHA256: 75fd5fb4e3e559489ae400f975cb99aaf83274c4406cb00cb11f401408966a94
 SHA512: 21012f8d023f13b8e65231a7efb057ce22f3ed60da03bd868ee473168dca86db78d56ef709c07f890a9a080ca8a02656a5b656890e61356b807df28e06177e28
 
+Package: vulkan-validation-layers
+Architecture: i686
+Installed-Size: 27524
+Maintainer: @termux
+Version: 1.4.351
+Homepage: https://github.com/KhronosGroup/Vulkan-ValidationLayers
+Depends: libc++, vulkan-loader
+Description: Vulkan Validation Layers
+Filename: ../../../../releases/download/i686-v/vulkan-validation-layers_1.4.351_i686.deb
+Size: 5184004
+MD5Sum: a175441ebb2a977649b1da754a477245
+SHA1: b745d9a2b9477c8be9b65ac6da2bde4a449eab76
+SHA256: 99e7c3942b77f48b7ee813e3539c0956ab40fc999b66cd5330aff15f8bd9737b
+SHA512: 69a21622745571fcaf53fbd7c2790e8eb12ee2e54b6221f1920243c734bb2350721c239d550d3878496229335244867fb6f96b9e46eacc38ce83e2e7bc8591dd
+

@@ -37705,3 +37705,18 @@ SHA1: cc9d3b1519926a29ced1854d1ed8b7adebfe2ae4
 SHA256: 7d1260cb09b4d21c6c85510b204cd9400ac82a15faf706e167f093935beae116
 SHA512: 55ded9820af0e4908af950ea327255640a40f0939562fdef998e16aa3bc9447db5b5ee7933e1af792a2f3bd951c2c32d2ada748aba0014852ef12102eff7c359
 
+Package: vulkan-validation-layers
+Architecture: arm
+Installed-Size: 19252
+Maintainer: @termux
+Version: 1.4.351
+Homepage: https://github.com/KhronosGroup/Vulkan-ValidationLayers
+Depends: libc++, vulkan-loader
+Description: Vulkan Validation Layers
+Filename: ../../../../releases/download/arm-v/vulkan-validation-layers_1.4.351_arm.deb
+Size: 4756836
+MD5Sum: 9b7aab6b32baec7d7c2ffed86dd1fc7b
+SHA1: 8a901d7ca6ac84a04872f873a151ba9f0e61000b
+SHA256: eedfab45e95cb412db625ce9f4070b770b2b948b740535606f61cd168aca2ecd
+SHA512: c7d05f4dee75a97b73eeccaea77d033f2d16380b29f907d2f5c0f4317e99a2c8225eb1e93fe507681215f6a460fe1718ba5830279e6f7b02ab5152bda4b23e7e
+

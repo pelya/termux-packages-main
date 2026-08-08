@@ -13646,3 +13646,18 @@ SHA1: 490e95d94a1f7f8801c733c402818615ee7999a9
 SHA256: 71247f95fc5e05a6851949a67f4b80b3caa22c394880afad2e23aaac0d22bd09
 SHA512: 89fba01eddb96d94f3a237c529e80d5bb73ea8f4029066c4513545041e2ca377d9d7676743125871910e966940b80f55e83aed4011f2c79f9bcde1e295e42393
 
+Package: step
+Architecture: i686
+Installed-Size: 14456
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/education/step
+Depends: gsl, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-ki18n, kf6-kiconthemes, kf6-kio, kf6-knewstuff, kf6-kplotting, kf6-ktextwidgets, kf6-kwidgetsaddons, kf6-kxmlgui, libc++, qalculate-gtk, qt6-qtbase
+Description: Interactive Physical Simulator
+Filename: ../../../../releases/download/i686-s/step_26.04.3_i686.deb
+Size: 1024900
+MD5Sum: 7e23f567c96cd08ed09cc6be5b46c682
+SHA1: 6209d119537c42bcf8e3dea25a16f1dfa02b7fde
+SHA256: 10ddeab70704e21c3dec513a28b229886199239bbe962c7c43edd10aeb9dfa5a
+SHA512: 9fdebcec4df33db9d80f77a55e5359a1d821a15c8d90e8b8ecf78486cd7e8866e06b6691880d813fd44c22dfb7be014e085f407b460caa7491925882382f212c
+
