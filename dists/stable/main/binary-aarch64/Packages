@@ -38817,3 +38817,32 @@ SHA1: 5122f901603be90de30330f3c0184d7524bce689
 SHA256: 583e69ae1fee8f02845adf4d8282f5262a3c06923181501c2d8569cd399f51b7
 SHA512: df28ab6809eaca6b7e3bfc79cbe61a96f10408c6677e1dfb0580b4c876efad264989b29eae40d8d255a5a98a2710aef220048308be5afb4f79650bee0b63b7a1
 
+Package: beanshell
+Architecture: all
+Installed-Size: 232
+Maintainer: @termux
+Version: 2.1.1-1
+Homepage: https://github.com/beanshell/beanshell
+Depends: dash, termux-tools
+Description: Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java
+Filename: ../../../../releases/download/aarch64-b/beanshell_2.1.1-1_all.deb
+Size: 187004
+MD5Sum: c8938de147d35d7bd3bc138f64f03398
+SHA1: c7a7d3524947acfba95e57db8b6bb919971f3ab1
+SHA256: 071cfe58bd1793b32a8182f0161ec8a375f124b664f9756ec248050d71920106
+SHA512: 1d8dd92dab24feafd5cb386c66e1a5db5ccdcb3a45683ec1dd40c720fe2f188a8ba54116c7c7e0b7cad8f100a29845b8416f7886f5f8063dc804045923dbd090
+
+Package: csview
+Architecture: aarch64
+Installed-Size: 872
+Maintainer: @flosnvjx
+Version: 1.3.4-1
+Homepage: https://github.com/wfxr/csview
+Description: Pretty-printing CSV/TSV/xSV on terminal
+Filename: ../../../../releases/download/aarch64-c/csview_1.3.4-1_aarch64.deb
+Size: 289760
+MD5Sum: 21ea46afe004afa4261140ce6bf79c64
+SHA1: 17aa379f8209bc9f38a1de4262eeb443091987ac
+SHA256: 5645a35d574452e567e6546d8be237aabe48c57df3757b24cd275df77425df0a
+SHA512: a6907f8be93adbb72f0548061643700a380a0072432219ea5320b8f8dc528a47cfa62fdf304dc2d2e6e9c4a3733e62977c4d30917cc425051d60480309092923
+
