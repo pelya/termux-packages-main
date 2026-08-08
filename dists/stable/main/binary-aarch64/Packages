@@ -37584,3 +37584,48 @@ SHA1: d667b69ac4f1714d360ba71f71bdbaac2493b5db
 SHA256: 765c04aae41aeb6a7011f822dd852a09bdd85d4b3dad803ae59af7f3ff4b91ad
 SHA512: 0a072d4324e1221934e3af7f7b434b79b50b6e3dda66b1783b0302ca78f249a30fe587c59a942219449ac797be35034ab6e5eb121a9af152b3974eb0715cff9f
 
+Package: recoll-python
+Architecture: aarch64
+Installed-Size: 244
+Maintainer: @termux
+Version: 1.44.0-1
+Homepage: https://www.recoll.org/
+Depends: python, recoll (= 1.44.0-1)
+Description: Python interface for Recoll
+Filename: ../../../../releases/download/aarch64-r/recoll-python_1.44.0-1_aarch64.deb
+Size: 60548
+MD5Sum: 486bd60ede91cf4535c7d753852a4bca
+SHA1: 2051bfb56b0d3c8a30966072cdffe8323f2380e6
+SHA256: a50c68095d01fffb493e812e230521d6d7f7bbd1b8a769ecfa0630c491f7bfcf
+SHA512: d0ccb31d53d9d13a8e5937cd89a55ce8cf9e5383e563535396590d6c5d2d87b833e8528a495f20f7254660a5f132404b79913b57818ec569ae74a5c5f6d7cfd2
+
+Package: recoll
+Architecture: aarch64
+Installed-Size: 4220
+Maintainer: @termux
+Version: 1.44.0-1
+Homepage: https://www.recoll.org/
+Depends: aspell, file, jsoncpp,  libc++, libiconv, libxapian, libxml2, libxslt, zlib
+Description: Full-text search for your desktop
+Filename: ../../../../releases/download/aarch64-r/recoll_1.44.0-1_aarch64.deb
+Size: 1115764
+MD5Sum: a963925aa40b67572fe2773ace84a8d7
+SHA1: 5a3f849730833492a445f1528b6932d6e0686090
+SHA256: 628086ab14a1520a9c0b53a7e235547c9a9c11a3de4afea6bd217f74eb157e9b
+SHA512: 51b9c60f4358b19fb52207384db86d550be62d83101496fc6cc3ffc679a9cf6df66c4a1d8844b2012def54e16b9749f0f017a8c5320107ea622c1b969ffe6767
+
+Package: squeezelite
+Architecture: aarch64
+Installed-Size: 128
+Maintainer: @termux
+Version: 2.0.0.1517-2
+Homepage: https://ralph-irving.github.io/squeezelite.html
+Depends: libflac, libmad, libvorbis, libmpg123, pulseaudio
+Description: A small headless Logitech Squeezebox emulator
+Filename: ../../../../releases/download/aarch64-s/squeezelite_2.0.0.1517-2_aarch64.deb
+Size: 34448
+MD5Sum: e1ed8d72e9076fb7a05c4530b61ec287
+SHA1: ae22d64b7cc349ce5f4bb109886ccc10d0002d31
+SHA256: 25c56b5118c803fc5de69b86009a361ad045f12b3708e7ffb73af66892138ebd
+SHA512: f748e2faaf6acbc414cde104514741204233ec21ff18d45d1901dc979235b4f0b12e80ace1cb8314e40bdbb6eea12e325f0670bb0821f52e0aac17a6e0e2eb99
+

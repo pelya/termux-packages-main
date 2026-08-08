@@ -37553,3 +37553,48 @@ SHA1: 3f050dac01b4239da1dfa611788aba29884d95a5
 SHA256: dd80e066d27f73bf66ee8df02d250ce64a6c07eed8af83a4e1365b3f2c78f67d
 SHA512: 5472581c7ed5ce8a4d0934bc30254f2c40199f4a707e9abac36a97fe02091e44a86fe1404f61f41117c38f34f0a444e0b390f708a5e0cf2fdcbee39d671de3e7
 
+Package: recoll-python
+Architecture: x86_64
+Installed-Size: 252
+Maintainer: @termux
+Version: 1.44.0-1
+Homepage: https://www.recoll.org/
+Depends: python, recoll (= 1.44.0-1)
+Description: Python interface for Recoll
+Filename: ../../../../releases/download/x86_64-r/recoll-python_1.44.0-1_x86_64.deb
+Size: 63040
+MD5Sum: 34f9e76c42e5eedec5504ab5fe2c9076
+SHA1: e699f132f9c0e3e5e58d803ab8ccfd40b0142a46
+SHA256: 8fef431d1ec7d21320972b661c15aaebf572aaac3b84b8425b476affbc812d46
+SHA512: cd10cde62dfcaec0f8fcd76f950373a6ba084040c5e279eb1871c7e63592582eb256d1e2a8edf2e01bb301528040182b6382643905eafff4cad45f9e4df79f42
+
+Package: recoll
+Architecture: x86_64
+Installed-Size: 4480
+Maintainer: @termux
+Version: 1.44.0-1
+Homepage: https://www.recoll.org/
+Depends: aspell, file, jsoncpp,  libc++, libiconv, libxapian, libxml2, libxslt, zlib
+Description: Full-text search for your desktop
+Filename: ../../../../releases/download/x86_64-r/recoll_1.44.0-1_x86_64.deb
+Size: 1255304
+MD5Sum: 700471c89db91f131ebd520c3eb5b9c7
+SHA1: 029d9c3d50ca10a95cd712b3513359a3fa7bc92f
+SHA256: eeb5a2bc718dabce69f2811f268dc445c74ae9b1518704093ace664b755fc71a
+SHA512: 20310d6faac031457a374986278d2eccd9f44400f23996af20c91a8275a6242bfb9142afe1d8e9293a297a85eeba4a3267ab8cc3516a0bb5e05f4fe7d75f94de
+
+Package: squeezelite
+Architecture: x86_64
+Installed-Size: 124
+Maintainer: @termux
+Version: 2.0.0.1517-2
+Homepage: https://ralph-irving.github.io/squeezelite.html
+Depends: libflac, libmad, libvorbis, libmpg123, pulseaudio
+Description: A small headless Logitech Squeezebox emulator
+Filename: ../../../../releases/download/x86_64-s/squeezelite_2.0.0.1517-2_x86_64.deb
+Size: 35664
+MD5Sum: bc2cf5f249c1a3f7ae4dc4ea82cdb49b
+SHA1: aca7e14d03789346c5effc9b7804b00a791cf1b4
+SHA256: b0abcabf1f12d78fd54e02252d874a78e144374b878a22fa93efea8964a21ab3
+SHA512: c1dfbbe9965009f522590cce77db4a41f9bc8c8d5edc5637c0853762c2e7ba94d69912daf3ef7ab0177cf4c1609a900c7898358fca4676d2fcb8338dffa7e81d
+

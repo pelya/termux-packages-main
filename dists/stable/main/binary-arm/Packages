@@ -35847,3 +35847,48 @@ SHA1: 9b5ffbb71f2e55a7aae103099832f51adac52f9a
 SHA256: 0826ea7179477274b2041239f97cd7ad8e5d1f5f93b631d0ee88ad95a887d5e0
 SHA512: 8ea624df9adceb4e53d36393866b8c5b2d695506c49fdc149d161d228c83f893176cfd9f6139e48acffbbe75eb23d135e33911f0a4b25ba87325715e3b411137
 
+Package: recoll-python
+Architecture: arm
+Installed-Size: 184
+Maintainer: @termux
+Version: 1.44.0-1
+Homepage: https://www.recoll.org/
+Depends: python, recoll (= 1.44.0-1)
+Description: Python interface for Recoll
+Filename: ../../../../releases/download/arm-r/recoll-python_1.44.0-1_arm.deb
+Size: 47692
+MD5Sum: e396e0870b5dd9104c2914f823d54c05
+SHA1: ee6c3c3d76ec138807f30b00d7cc4e4ec1ca1fbe
+SHA256: dcf4ba09d7dd776eaf5247ff474d4805ac164848d16dad698039794a9bc79d21
+SHA512: 292bde177296c057215f74b42159f343c68061c33338ec3d1271b0095c3b2f475b6bbe45b7566ede2f4fa2e84a435d2ebbe0b76bcccbe3254cd0c9e2f53f671f
+
+Package: recoll
+Architecture: arm
+Installed-Size: 3348
+Maintainer: @termux
+Version: 1.44.0-1
+Homepage: https://www.recoll.org/
+Depends: aspell, file, jsoncpp,  libc++, libiconv, libxapian, libxml2, libxslt, zlib
+Description: Full-text search for your desktop
+Filename: ../../../../releases/download/arm-r/recoll_1.44.0-1_arm.deb
+Size: 1072096
+MD5Sum: 22c28efc9040d650eeffd4d0174f46cc
+SHA1: 53664322f257449d19bac04f6fba0fd68ac7b2c7
+SHA256: 5c56272e8ebecd16b5f08764093a2480b0e9edcb35372127527bf8ea41ac1c23
+SHA512: 67a01d1e17597d99815adf20fdb35044293a3e8233c38cbc05a0f3ef4d90ee5eaad9fde03cc570fa6f4cd5435ec15f98cd64ea0b577846102b369526a03ad346
+
+Package: squeezelite
+Architecture: arm
+Installed-Size: 104
+Maintainer: @termux
+Version: 2.0.0.1517-2
+Homepage: https://ralph-irving.github.io/squeezelite.html
+Depends: libflac, libmad, libvorbis, libmpg123, pulseaudio
+Description: A small headless Logitech Squeezebox emulator
+Filename: ../../../../releases/download/arm-s/squeezelite_2.0.0.1517-2_arm.deb
+Size: 32480
+MD5Sum: 777df0b8204a72c7c8e98cfe5764b881
+SHA1: a133eb06b08da4ee9736904bc534f56fd8ee821a
+SHA256: 14f86ad95df3710dd2be88e860885a1c3bfbdc11b402ff962051051c44b0d87b
+SHA512: a995bba13b4682799565324fb3b85396299eb9ee1bd1be9cec0d92f8c5441aed33821724362cd4a5b9c8c80e0f18c97757a53439b24ea81bc95487aedd0cea8f
+
