@@ -38000,3 +38000,18 @@ SHA1: 4544f96984ffc998d029864ba39dd6a6ccd1d12f
 SHA256: eb70560b0b0a1269e2a9fb5e9f6747861fbe922988ba7e39e53b0e8f291dab19
 SHA512: 6b50839dd9bd97a03db7213d6208165bde9bfa41d7c7bdd58c6d2ac1ca8f75c4caa7ba740e2f1edd51740ea1f449af331a834f931406d2f2341fa9c11fc4ddbb
 
+Package: seccure
+Architecture: i686
+Installed-Size: 100
+Maintainer: @termux
+Version: 0.5-8
+Homepage: http://point-at-infinity.org/seccure/
+Depends: libgcrypt
+Description: SECCURE Elliptic Curve Crypto Utility for Reliable Encryption
+Filename: ../../../../releases/download/i686-s/seccure_0.5-8_i686.deb
+Size: 23056
+MD5Sum: 835758a9980678bc92677abd5505cc14
+SHA1: 172495ae1d03fe87c5a08ccc50b5217922f3ee46
+SHA256: 155593838318a9c63f4662fd9a859a44ffaed1b54688256ae43b9ef4b146788d
+SHA512: 45cd1780b1c2d9074428cee1594c0f760b23313b1cea72b96e5523e8e69c3d293ed87f7fbc6b4fb25c47704971ed41cfe0ff475898dc092ee65d7b95dff38e11
+

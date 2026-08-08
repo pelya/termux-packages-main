@@ -37237,3 +37237,18 @@ SHA1: 4544f96984ffc998d029864ba39dd6a6ccd1d12f
 SHA256: eb70560b0b0a1269e2a9fb5e9f6747861fbe922988ba7e39e53b0e8f291dab19
 SHA512: 6b50839dd9bd97a03db7213d6208165bde9bfa41d7c7bdd58c6d2ac1ca8f75c4caa7ba740e2f1edd51740ea1f449af331a834f931406d2f2341fa9c11fc4ddbb
 
+Package: seccure
+Architecture: arm
+Installed-Size: 92
+Maintainer: @termux
+Version: 0.5-8
+Homepage: http://point-at-infinity.org/seccure/
+Depends: libgcrypt
+Description: SECCURE Elliptic Curve Crypto Utility for Reliable Encryption
+Filename: ../../../../releases/download/arm-s/seccure_0.5-8_arm.deb
+Size: 21316
+MD5Sum: d98e1ffb5a4bed8c14cbbf6b712fc06c
+SHA1: 3835f276a9e4d896b3e3fdb5cbed5b8dc7e1650f
+SHA256: 8ba629e1f0daf5494340957bea47a0a51aa8e0bf4219f252a7d551c86f59867e
+SHA512: 35dcd070b29078d19681cf8d177bc093bcc993e8718fbc1acbcf20ecf316c63dd910399e24df537327bcb68ef5462ab79c7f82cc6f649ae22c667b6879b73746
+

@@ -12687,38 +12687,6 @@ SHA1: ce884e7231d12d8288a67d7983b34aa976040b53
 SHA256: 0c2151372ad879093d75199c7d7dcd625444bfb5bf21234d34321a15aa6678fc
 SHA512: c07c7b7567b4471c29c395b62541879a3f2d92d9b8668967bca5785942feb196765ef82d6ef5b35510a3938109887c672599fa3cb7ba29387b00014ccf3e3302
 
-Package: libgcrypt-static
-Architecture: x86_64
-Installed-Size: 1592
-Maintainer: @termux
-Version: 1.11.2-1
-Homepage: https://www.gnu.org/software/libgcrypt/
-Depends: libgcrypt (= 1.11.2-1)
-Description: Static libraries for libgcrypt
-Filename: ../../../../releases/download/x86_64-libg/libgcrypt-static_1.11.2-1_x86_64.deb
-Size: 424552
-MD5Sum: 823bb5b050f86de9d05186181ea23d88
-SHA1: 2cd3c5e503a4354ea9b5e8d894e9c15c9af0176e
-SHA256: a515ce4ce9ffd1471594d85b98c32bca45d7ed3c6af90864f13912121285255a
-SHA512: b7710f9f13b798e0fbaf7763f988c2303b7d64e5acdb3bd3ed73bc127cfc09c68631767722ebea08ce0fd71b7d7f1ec8b17b7e48bc3d189163f904890bb3223d
-
-Package: libgcrypt
-Architecture: x86_64
-Installed-Size: 1528
-Maintainer: @termux
-Version: 1.11.2-1
-Homepage: https://www.gnu.org/software/libgcrypt/
-Breaks: libgcrypt-dev
-Depends: libgpg-error
-Replaces: libgcrypt-dev
-Description: General purpose cryptographic library based on the code from GnuPG
-Filename: ../../../../releases/download/x86_64-libg/libgcrypt_1.11.2-1_x86_64.deb
-Size: 476548
-MD5Sum: e9a5cf7ac13b21c79c63a62909dbd1da
-SHA1: 43848d4f0a208553e7276670b6fded2f648a8f12
-SHA256: c9d299a3dbbb8c8c8eab7ea52f0de1b7f58859f5f3684152695a4b2c22169ec0
-SHA512: 36adea3430048d4cc3290f2a677cea886df521db1d903d06c84d55a1f9e9f255ca7235c148bc4bcf42383c00cb614e9c32517cd4f8dd920d4baa52cc39a3bd5d
-
 Package: libgedit-gfls
 Architecture: x86_64
 Installed-Size: 264
@@ -13002,37 +12970,6 @@ MD5Sum: fbce97a9d158d65b8ff8dcc8aadcb305
 SHA1: e9a9b1fdca1a33c1497eeade2beec8e72761d3a7
 SHA256: 1812137f13f051dca3b7cb3e22f35769cba7c88bb452027323d445cdb46e3b62
 SHA512: c60412200ea18888307cba7d5cab74a1db6132bd6bb30ba38bab3d2a6f6a7892bb68d15dbc0d6768e20c8af1dbd8390e29787508170ad5fac1073104ea9732e0
-
-Package: libgpg-error-static
-Architecture: x86_64
-Installed-Size: 292
-Maintainer: @termux
-Version: 1.58
-Homepage: https://www.gnupg.org/related_software/libgpg-error/
-Depends: libgpg-error (= 1.58)
-Description: Static libraries for libgpg-error
-Filename: ../../../../releases/download/x86_64-libg/libgpg-error-static_1.58_x86_64.deb
-Size: 66420
-MD5Sum: 2601825d7354cf83647f3692f83b7488
-SHA1: 8f1ef27f8a22d530c1ff9f565e16b514d07286e2
-SHA256: 5f5281d66384ff9ed82617f3312f9751ba5ddeb7a9fcd9db8ce80eb3bb6283b2
-SHA512: 774227e5fb0d1cf6b76b3a0ee1da77d2a637e9ad07361840c6495e0e5ac29b316a8cd590462df87fb095395f66858fd3a55f59d88c85ab148fbc25435c2b390c
-
-Package: libgpg-error
-Architecture: x86_64
-Installed-Size: 600
-Maintainer: @termux
-Version: 1.58
-Homepage: https://www.gnupg.org/related_software/libgpg-error/
-Breaks: libgpg-error-dev
-Replaces: libgpg-error-dev
-Description: Small library that defines common error values for all GnuPG components
-Filename: ../../../../releases/download/x86_64-libg/libgpg-error_1.58_x86_64.deb
-Size: 124216
-MD5Sum: f42f07fa89ab2d0ed2138a68a892e324
-SHA1: 4859e0ab6e90e35391e1682f59e2fbc165d8f47a
-SHA256: 2e31c675d1e18621cf9187dd4dce790c0499b3cbf57fc3af39a7d7a71cd85c4e
-SHA512: 9f69506497655696db23d410dcd9f0ef74f0c0ce4d5b1f2df3cf4a97d8360f7d6ed3d20e33d4967504e32ed735d429d4c36319987ba83348527ca18b048ca33a
 
 Package: libgraphite
 Architecture: x86_64
@@ -38971,4 +38908,97 @@ MD5Sum: 9dcaf3934f6619639fc24dffca327784
 SHA1: 4544f96984ffc998d029864ba39dd6a6ccd1d12f
 SHA256: eb70560b0b0a1269e2a9fb5e9f6747861fbe922988ba7e39e53b0e8f291dab19
 SHA512: 6b50839dd9bd97a03db7213d6208165bde9bfa41d7c7bdd58c6d2ac1ca8f75c4caa7ba740e2f1edd51740ea1f449af331a834f931406d2f2341fa9c11fc4ddbb
+
+Package: libgcrypt-static
+Architecture: x86_64
+Installed-Size: 1592
+Maintainer: @termux
+Version: 1.11.2-1
+Homepage: https://www.gnu.org/software/libgcrypt/
+Depends: libgcrypt (= 1.11.2-1)
+Description: Static libraries for libgcrypt
+Filename: ../../../../releases/download/x86_64-libg/libgcrypt-static_1.11.2-1_x86_64.deb
+Size: 424488
+MD5Sum: 28aa0c70bf10ae8361b0c7dad413c376
+SHA1: 31069f1d7e04024b3575f597f7b6f5509e34f61a
+SHA256: b3c1ebd91f4c8672881cb0bee87901ba73b863f66eb1dead083adf2127c1988f
+SHA512: cb44fef1d1af4a8acd1e935043cbdf6191f2511c343d5eebae431c3bc4769b2e15b782589e8cc352a4a69b0940a4cfa822c4898ac1f6527abd80a3e81a0cc242
+
+Package: libgcrypt
+Architecture: x86_64
+Installed-Size: 1528
+Maintainer: @termux
+Version: 1.11.2-1
+Homepage: https://www.gnu.org/software/libgcrypt/
+Breaks: libgcrypt-dev
+Depends: libgpg-error
+Replaces: libgcrypt-dev
+Description: General purpose cryptographic library based on the code from GnuPG
+Filename: ../../../../releases/download/x86_64-libg/libgcrypt_1.11.2-1_x86_64.deb
+Size: 476200
+MD5Sum: 39038899d582c55fcd4e507fc58f5a7e
+SHA1: 605481ad1119f480808f2605818c8a8328fe128f
+SHA256: d8aea0a7eee379f66dda18a10eda3e8c285f1731a04547134e9d7186cef460b2
+SHA512: 51fbb8682f301166ba269dd6388703528565aae9b63f4e0044af1724a78abdd02bb27a6408a4a526ef2058b1b35c1965e51cff18c2ab3accfc72f83cf49dcac9
+
+Package: libgpg-error-static
+Architecture: x86_64
+Installed-Size: 292
+Maintainer: @termux
+Version: 1.58
+Homepage: https://www.gnupg.org/related_software/libgpg-error/
+Depends: libgpg-error (= 1.58)
+Description: Static libraries for libgpg-error
+Filename: ../../../../releases/download/x86_64-libg/libgpg-error-static_1.58_x86_64.deb
+Size: 66396
+MD5Sum: 190c108598053d3f368ef816bc7b04e0
+SHA1: db844337285257d358d7571f88c690ac59a2f4b9
+SHA256: 086abe3ee4f3575a5eea98b756859d27403fce9ee948598c93afc0d48224c3a6
+SHA512: e521ac2bce2eb86650675a73dcc95808c0a5a5b6d63ac79f0968e40546e09677c2acbbff291fdf27f6cfe5afc29cc7767e945176ecc4bcb08068c6b661808d6a
+
+Package: libgpg-error
+Architecture: x86_64
+Installed-Size: 600
+Maintainer: @termux
+Version: 1.58
+Homepage: https://www.gnupg.org/related_software/libgpg-error/
+Breaks: libgpg-error-dev
+Replaces: libgpg-error-dev
+Description: Small library that defines common error values for all GnuPG components
+Filename: ../../../../releases/download/x86_64-libg/libgpg-error_1.58_x86_64.deb
+Size: 124264
+MD5Sum: 856d68c21bbc36d6c724e56284708d9a
+SHA1: 2d90e4bf9e5a43986ea44001ffebe320e3282c1c
+SHA256: 7896e7d0477e9856815ed91b7986136e437c247e426bf3da03cad98eafaeb09e
+SHA512: 58db0727aa18adab3dfe10487eaa52bb475b9e6d419c9a3cfbe46d3a892d3a3c86e30084cde8134ce5435d99dd10b78895f48db6198e0c1f2c8a8cba70ddbc8b
+
+Package: seccure
+Architecture: x86_64
+Installed-Size: 104
+Maintainer: @termux
+Version: 0.5-8
+Homepage: http://point-at-infinity.org/seccure/
+Depends: libgcrypt
+Description: SECCURE Elliptic Curve Crypto Utility for Reliable Encryption
+Filename: ../../../../releases/download/x86_64-s/seccure_0.5-8_x86_64.deb
+Size: 23320
+MD5Sum: a6da70c1d76d515e2de4eea4aa1bba35
+SHA1: c30a505e25166bc27546698105f4cb18f5707341
+SHA256: ea3b6221a437934e1ccc464cefcb6ba2e5c27e69c32a9ac38822911d2f54a753
+SHA512: 4f7d70e21f6b516b4f131e8b45a0cefad0ef7910e202adc3075c9e9ffad39ca6d84c3934c78306db79dc8665f4044475d29915cc3f313ba5e8b31d4363af8ce2
+
+Package: yosys
+Architecture: x86_64
+Installed-Size: 65204
+Maintainer: @termux
+Version: 0.67
+Homepage: https://yosyshq.net/yosys/
+Depends: graphviz, libandroid-glob, libandroid-spawn, libc++, libffi, ncurses, readline, tcl, zlib, python
+Description: A framework for RTL synthesis tools
+Filename: ../../../../releases/download/x86_64-y/yosys_0.67_x86_64.deb
+Size: 15870228
+MD5Sum: 9111a24144854b064a851477fdb621f8
+SHA1: 2cf2ac802afee9dead24511aa65211fbbbef88b8
+SHA256: 012760eedfb8322e685a0c2ab3a75b145fb2e20b676eba3741ad2840bd17f480
+SHA512: 7f60c63685284a85401e4239431415505252fbe61198c35d2cd89622ce1c1ea293aa567e8c34e2842c0179c6cca2adf26e6342f17d02c8c13f65f132e6cb0b20
 

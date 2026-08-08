@@ -12921,38 +12921,6 @@ SHA1: 7478dcbc3c0cd902b5d57efc4a8c00fcc577d4f8
 SHA256: 8fbfb6ff24e4c98fa4d5d338108c83c0b079f6c4d242c733eb0da5bb9fba6101
 SHA512: 3b3de50b3d56d5d7462b2b7ed8eb2243a8c2bce3e120a91bd9195b4e7700ceb498141917daa32c3347a0ed2cc4e8d80a72dc4b21173623f1e7cb5e108ffbf88e
 
-Package: libgcrypt-static
-Architecture: aarch64
-Installed-Size: 1828
-Maintainer: @termux
-Version: 1.11.2-1
-Homepage: https://www.gnu.org/software/libgcrypt/
-Depends: libgcrypt (= 1.11.2-1)
-Description: Static libraries for libgcrypt
-Filename: ../../../../releases/download/aarch64-libg/libgcrypt-static_1.11.2-1_aarch64.deb
-Size: 468360
-MD5Sum: ab57355024617a660adf1c9f767854c4
-SHA1: e1a2ef950f644c9ac6ee8575bf3a383f148a43db
-SHA256: b0786e6c1a29b94479480321fbb18db99c735670a7c56b93d28d849ed0dd9e99
-SHA512: 28eedf95a9067e0ec037c31de8745a5d9c174f53a5805f8bdcce59f5ed2b641ce5e5651de82268225ab12db465887d6c0b572fe551b234816dfdb4ca40872345
-
-Package: libgcrypt
-Architecture: aarch64
-Installed-Size: 1648
-Maintainer: @termux
-Version: 1.11.2-1
-Homepage: https://www.gnu.org/software/libgcrypt/
-Breaks: libgcrypt-dev
-Depends: libgpg-error
-Replaces: libgcrypt-dev
-Description: General purpose cryptographic library based on the code from GnuPG
-Filename: ../../../../releases/download/aarch64-libg/libgcrypt_1.11.2-1_aarch64.deb
-Size: 500356
-MD5Sum: e6cc4316c51486c4312f1bf409ca0e8f
-SHA1: 1c43188c490b9ba21c7664426a3c0686b0a23fe4
-SHA256: 1916bd4f399ea40b79a4ab040b4945ec5b79941a9a349377793b22fcac976fde
-SHA512: 9700b03d27a41f41308c723fac5f9b77ee2da7795bcb24daa9ef1e7e347c876f33d855a9e5e225ea94d718e0765ca674d64de8eb57bdd7fe4f4c5b15611bfeb4
-
 Package: libgedit-gfls
 Architecture: aarch64
 Installed-Size: 268
@@ -13236,37 +13204,6 @@ MD5Sum: b208a3cd2790f189112db1255e67aa64
 SHA1: 62a123e5fe055a52bffa96c648dcd933a1c4ecb9
 SHA256: b0b3adf5b576e0c7a35dc9d613d511a0d885806ed2a866e069a82ed4eaa66883
 SHA512: 38813e845702f15f3fcfa5c978e4fcc019c6a0300a234b3dddad56df973427ad9790f14d8d42239dbac28985416d5a9d44dd5134ec5ed37405622c2442d670a5
-
-Package: libgpg-error-static
-Architecture: aarch64
-Installed-Size: 304
-Maintainer: @termux
-Version: 1.58
-Homepage: https://www.gnupg.org/related_software/libgpg-error/
-Depends: libgpg-error (= 1.58)
-Description: Static libraries for libgpg-error
-Filename: ../../../../releases/download/aarch64-libg/libgpg-error-static_1.58_aarch64.deb
-Size: 65944
-MD5Sum: 1675a754c43b316b704e60addc4d4b72
-SHA1: f2b8042a03323c47588a22e20b2f6d463e6959c8
-SHA256: 0b111ac6227fc77be54b02239374464a94ecd5e9af1e3cbdddce10bb9bb5e1cf
-SHA512: 4531eb18fa0dd04b11457728c394705da6a95fa9d19f33bb41d59d7164e920a0f0b841dce9bbe7cc0e533c22b050757b117619737b4a3560d254707e87990244
-
-Package: libgpg-error
-Architecture: aarch64
-Installed-Size: 604
-Maintainer: @termux
-Version: 1.58
-Homepage: https://www.gnupg.org/related_software/libgpg-error/
-Breaks: libgpg-error-dev
-Replaces: libgpg-error-dev
-Description: Small library that defines common error values for all GnuPG components
-Filename: ../../../../releases/download/aarch64-libg/libgpg-error_1.58_aarch64.deb
-Size: 121328
-MD5Sum: c9d03d900dd764c786db386c24de820f
-SHA1: 4ff01c05f40a2c86ea9544fff40c6b7e8c9cbb0f
-SHA256: 80e0278599af03eddbaebb2a0b358cc59417a107c257c05a82d53e4eb0675ca6
-SHA512: 0cf3e55c3af72208111fec20672a55471dcb44dd474d7490f26b91555563bede48488c1cd008928371bd545f4a8b552d0f52860c0416dbca706d96b8c0f97d8c
 
 Package: libgraphite
 Architecture: aarch64
@@ -39002,4 +38939,97 @@ MD5Sum: 9dcaf3934f6619639fc24dffca327784
 SHA1: 4544f96984ffc998d029864ba39dd6a6ccd1d12f
 SHA256: eb70560b0b0a1269e2a9fb5e9f6747861fbe922988ba7e39e53b0e8f291dab19
 SHA512: 6b50839dd9bd97a03db7213d6208165bde9bfa41d7c7bdd58c6d2ac1ca8f75c4caa7ba740e2f1edd51740ea1f449af331a834f931406d2f2341fa9c11fc4ddbb
+
+Package: libgcrypt-static
+Architecture: aarch64
+Installed-Size: 1828
+Maintainer: @termux
+Version: 1.11.2-1
+Homepage: https://www.gnu.org/software/libgcrypt/
+Depends: libgcrypt (= 1.11.2-1)
+Description: Static libraries for libgcrypt
+Filename: ../../../../releases/download/aarch64-libg/libgcrypt-static_1.11.2-1_aarch64.deb
+Size: 468112
+MD5Sum: 0eea0fa54735419c71f525fcaa802e2a
+SHA1: db31af53d52368de310fec02cba672692af27e55
+SHA256: 5f2f613b359f3889b894136820c5d7bce1096d190706f9f03033e72ad433d7cc
+SHA512: 791ef9bc591ffd7c4f5a3bd22afa10d87551dbf09633bf531ec226a17405eb6167334b75f0cc7bbeeea96b6b2fcad701cf1e04ab9bfc7188bebe386c93f73dfd
+
+Package: libgcrypt
+Architecture: aarch64
+Installed-Size: 1648
+Maintainer: @termux
+Version: 1.11.2-1
+Homepage: https://www.gnu.org/software/libgcrypt/
+Breaks: libgcrypt-dev
+Depends: libgpg-error
+Replaces: libgcrypt-dev
+Description: General purpose cryptographic library based on the code from GnuPG
+Filename: ../../../../releases/download/aarch64-libg/libgcrypt_1.11.2-1_aarch64.deb
+Size: 500144
+MD5Sum: 1217de7526125ff8c915509d199bbad8
+SHA1: a1e47b3d1728fe517c275836df87adf86072dd88
+SHA256: 9d9fd8e90f81313af5bacdfd488e585e50173e7100d584da2dd06df81c29be65
+SHA512: c9c13f5c505050d153ee1d896ee28fdb93a4d5ad7f7825a0ab8b0e3d3a342f62e2e474853007cb078cea3f1e94ebe54cf4e80f314bf49cb996579d06321f56ca
+
+Package: libgpg-error-static
+Architecture: aarch64
+Installed-Size: 304
+Maintainer: @termux
+Version: 1.58
+Homepage: https://www.gnupg.org/related_software/libgpg-error/
+Depends: libgpg-error (= 1.58)
+Description: Static libraries for libgpg-error
+Filename: ../../../../releases/download/aarch64-libg/libgpg-error-static_1.58_aarch64.deb
+Size: 65924
+MD5Sum: 08176a5e07aa87779714aba56b481458
+SHA1: 99798d9b8044891c8e73fb543746a6422aef3030
+SHA256: dbe7b3927da37e2243a1afdb8c14f1dfa2b6ff922f0a592cb99d4469db7c5630
+SHA512: af25a41371a6f66e03498b4a6b78a507371ff1bc95840c5e694fedb6cdca262ec5a697867b7d6d0beb6433748baed8187bc66a0cc12ccead444f3c3df9d9551d
+
+Package: libgpg-error
+Architecture: aarch64
+Installed-Size: 604
+Maintainer: @termux
+Version: 1.58
+Homepage: https://www.gnupg.org/related_software/libgpg-error/
+Breaks: libgpg-error-dev
+Replaces: libgpg-error-dev
+Description: Small library that defines common error values for all GnuPG components
+Filename: ../../../../releases/download/aarch64-libg/libgpg-error_1.58_aarch64.deb
+Size: 121260
+MD5Sum: 382e330837bf7bc0b0a52c254fde7553
+SHA1: 7d700c8fc5c14ce252c29fc17db242a0449b98c1
+SHA256: 5e4185c928a660eaa097a15d3c308eccb55cdb7d7c0e9022420301896fe0e609
+SHA512: 013c3a2dfd2229dbca40289c43d7cd3a0de154d43401b69accb55517df6ea58ac9292ddc3d6c780ef1b0c59a32f99f102e8e3ad51bda0d73296bf230a868409f
+
+Package: seccure
+Architecture: aarch64
+Installed-Size: 108
+Maintainer: @termux
+Version: 0.5-8
+Homepage: http://point-at-infinity.org/seccure/
+Depends: libgcrypt
+Description: SECCURE Elliptic Curve Crypto Utility for Reliable Encryption
+Filename: ../../../../releases/download/aarch64-s/seccure_0.5-8_aarch64.deb
+Size: 22612
+MD5Sum: f2a608b13946b0ba41f15e669c3b6b15
+SHA1: 617355d863be49c8b6099d406f4244b219fb0c6d
+SHA256: 415ef9cc3f29a74c6b59957527a51a378cfbadb4752c724259d1317a4be8acec
+SHA512: f51e1681560bcc4b85aceca563a229938b283281eb92ede778014de55d4b0ea57b5efbd10ddc70e7d55736dc32b2201ce1dd4df6a1dc37499f90cb830b97daf3
+
+Package: yosys
+Architecture: aarch64
+Installed-Size: 60352
+Maintainer: @termux
+Version: 0.67
+Homepage: https://yosyshq.net/yosys/
+Depends: graphviz, libandroid-glob, libandroid-spawn, libc++, libffi, ncurses, readline, tcl, zlib, python
+Description: A framework for RTL synthesis tools
+Filename: ../../../../releases/download/aarch64-y/yosys_0.67_aarch64.deb
+Size: 13490196
+MD5Sum: 6440b6933e3cd29456e53abe8308492a
+SHA1: 764b7a78ffee1bc9f8edeaa7077b6c65e2e79c1d
+SHA256: 4004be5bf750bdff407aef1dd13e137e93e513bebb1d0acab15e1d33a83e39df
+SHA512: 3977951f2dd56d773c244214782e42f5575f6da5959747de94e72aff483d28dfc5998f726e318c33d295fedd236e42ffe93a7afbbd8a19b507209db6d9ae874c
 
