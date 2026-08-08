@@ -13263,3 +13263,18 @@ SHA1: 712c4f95aafba4b8de888f5f949c11a14a7bb6fb
 SHA256: 98168b07f5aebcc896d33901c57563a859b45a8363e0921223d1448a33ba162d
 SHA512: 6416d1d1d59e73a6228c1163027bf5a6908604ef584ac73dc6ef9aa4c141b01352d721911e89dea4b4b816a7d1b05702b521d9a420c8a2dcf72400765e15fc2f
 
+Package: xfce4-calculator-plugin
+Architecture: aarch64
+Installed-Size: 228
+Maintainer: @termux
+Version: 0.8.0-1
+Homepage: https://docs.xfce.org/panel-plugins/xfce4-calculator-plugin/start
+Depends: glib, gtk3, libxfce4ui, libxfce4util, xfce4-panel
+Description: Simple command line based calculator for the Xfce panel
+Filename: ../../../../releases/download/aarch64-x/xfce4-calculator-plugin_0.8.0-1_aarch64.deb
+Size: 59528
+MD5Sum: bc79e832a6733493482f3f54c32df2ce
+SHA1: ad9d34ee03a520bc867eebe92e2ba322290ba132
+SHA256: 22189f1568226ff875f17087a430f9176fcd665770b786bd53407e6d417225f9
+SHA512: 8d38f228b2f401cd55aeb508c8a1408de66bfbd2f8f54518327de2d80985c670ec93cdee9a713ef5cb7123f1326153b72528b2ef1b95e51523570c301ecaf065
+

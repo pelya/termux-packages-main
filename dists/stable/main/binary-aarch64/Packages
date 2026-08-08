@@ -37920,3 +37920,18 @@ SHA1: 8894c1dbaba18d45849a959b0810aa05309616b0
 SHA256: 616a4ba6221197b239ce8d26a3bfc1076572e527ebf0c2bdc5c17f156be309b1
 SHA512: dcd6a5cd29018b451f899796ff9a4c48db7a0e8cf06aac96e6ebb34b082d85601262edc971c4f7816a2c17e7676092ebd184d966041f52101587d0a92af0cd76
 
+Package: oleo
+Architecture: aarch64
+Installed-Size: 972
+Maintainer: @termux
+Version: 1.99.16-10
+Homepage: https://www.gnu.org/software/oleo/
+Depends: ncurses
+Description: The GNU Spreadsheet
+Filename: ../../../../releases/download/aarch64-o/oleo_1.99.16-10_aarch64.deb
+Size: 213896
+MD5Sum: 0974f5f66aa42b294bbe023d46758325
+SHA1: 270319bc020975ec49fef4ea06c020596cfec64c
+SHA256: 310a4222e2499ffa990f3918a5db110ee4fa6be9d8f57d7634f759bed5a30984
+SHA512: dd6a7992ab61589d4942e93b81bc53fdc2007bd6032e8fe09c2e73fb5de6083c50d9ca615a18643528896667719869c7dfe29bde536fb02125887bb8a5d5e16f
+
