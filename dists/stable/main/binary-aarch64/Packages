@@ -38477,3 +38477,32 @@ SHA1: 3b813a3d6a166033a308b51aae4684ad07d60923
 SHA256: c3ee652401474c9ea7801bd3efcd22baa7be5d5953029f9999b825d49aae3a7c
 SHA512: 4c893bafb51bec75ea2fd1ca8fbbc231cd3dac93a253c423e71f9c61d262ca70872421d776c8fc62a9edb8578b1bef8bfd0ab2cae2a9f43c66e2dc77cb64010d
 
+Package: corkscrew
+Architecture: aarch64
+Installed-Size: 64
+Maintainer: @termux
+Version: 2.0-4
+Homepage: https://wiki.linuxquestions.org/wiki/Corkscrew
+Depends: openssh
+Description: A tool for tunneling SSH through HTTP proxies
+Filename: ../../../../releases/download/aarch64-c/corkscrew_2.0-4_aarch64.deb
+Size: 6008
+MD5Sum: 9e4f2584523fefaa1cdb5081ec0f3260
+SHA1: 14b8ad80157492d8114efcbc8d49518327ec3b39
+SHA256: 94bbda4e9ccb22801be4169d208b49bf12aee76b8226990bfeeb2a852213ab56
+SHA512: f98e276bff76373050a91c64072c65b6ccea3b30fcad89eb4dbf4b96b51147bdcba221b505405f212075739f91baa9540b7755906bc5a739f69a7fdb91a50f70
+
+Package: dust
+Architecture: aarch64
+Installed-Size: 2628
+Maintainer: @termux
+Version: 1.2.4
+Homepage: https://github.com/bootandy/dust
+Description: A more intuitive version of du in rust
+Filename: ../../../../releases/download/aarch64-d/dust_1.2.4_aarch64.deb
+Size: 788796
+MD5Sum: 2cf5e749dc10d3ae727eacf7a84920ac
+SHA1: 2e455a6df0965380cc66961fa1ed55b2061788a5
+SHA256: 0b764b8ad7f0a29922ad80826a50b76179d946c14b978177896feca365712f81
+SHA512: f9b36285076a2885e2192b21e29a6f76b17ab09dbcf19628c9e2539dcd38d65673d7270a066a536f80d0e586cc614d29a277e336d13a57b233ff8cdcff9b731d
+
