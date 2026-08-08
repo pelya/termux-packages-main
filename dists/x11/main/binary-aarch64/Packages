@@ -14190,3 +14190,33 @@ SHA1: 3020cf07ba3fda30cc3096173c21aaf0f7c7a981
 SHA256: 7f4bb28280d58e2f0179c5bc48e0c25d3424bab82c705889be7387a3d5de8c4e
 SHA512: 76b077eaa1a081320b1ca2bb277409a90c0f7e7647d74f50d4d13174733ae60b12413e3746f8b7a20e81c9460c74278e690d8d433e9cab91d8549bcab7f74c1f
 
+Package: kdegraphics-thumbnailers
+Architecture: aarch64
+Installed-Size: 228
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/graphics/kdegraphics-thumbnailers
+Depends: ghostscript, kdegraphics-mobipocket, kf6-karchive, kf6-kcoreaddons, kf6-kio, libc++, libkdcraw, libkexiv2, qt6-qtbase
+Description: Thumbnailers for various graphics file formats
+Filename: ../../../../releases/download/aarch64-k/kdegraphics-thumbnailers_26.04.3_aarch64.deb
+Size: 41244
+MD5Sum: 48fa65ef0a64c20a9a2282de4cc12405
+SHA1: 490feebd41551e6993d98b74d2658935f62e4293
+SHA256: d89793d70623ad56abd3a47aeb96a35235e8b6ab2bd655ca5b6257c2ba5a2364
+SHA512: 8f210d5d51315a783b80de20f44fdd740a19b47a3938db859b49a40226de5dcc0e3b58c4af26ab89fd45477570d5b3ef8259124939625c02484ffdf8ed9e7605
+
+Package: lxqt-notificationd
+Architecture: aarch64
+Installed-Size: 768
+Maintainer: @termux
+Version: 2.4.0
+Homepage: https://lxqt.github.io
+Depends: kf6-kwindowsystem, layer-shell-qt, libc++, liblxqt, libqtxdg, qt6-qtbase
+Description: The LXQt notification daemon
+Filename: ../../../../releases/download/aarch64-l/lxqt-notificationd_2.4.0_aarch64.deb
+Size: 84756
+MD5Sum: d008ec074c3b8000ddd5ac33074d0e62
+SHA1: cd676c8fc2e11c71c996b6bdd4ef009b4f3a173a
+SHA256: d5ebb8746ed0b42007b75585abe0241543c415e124acd3eb27a57900bf16545c
+SHA512: d37cb9efe32a26409c22158957468545429a660f5069217c65b74d472fb509fb41c37f007ca524a6d6844f24d89f22eb6b049954efdc80b7e82bfc0dc13870b6
+
