@@ -13187,3 +13187,18 @@ SHA1: c18c0f3209f9e5c2ce074b464026c187b32c8041
 SHA256: 8217f1a7ce00669d3ec78aac227b01fa5ee24a30047a86e4b82187552f02cdf5
 SHA512: 6140544ab63c1599c88697c597a6688c5080a85c7c401b4496dd2256cbc7aa96e473609fdd7f6d4184de1382e784eccf588a865c1aaf0c45411cbab428561e10
 
+Package: gnome-menus
+Architecture: aarch64
+Installed-Size: 404
+Maintainer: @termux
+Version: 3.38.1
+Homepage: https://gitlab.gnome.org/GNOME/gnome-menus
+Depends: glib
+Description: GNOME menu specifications
+Filename: ../../../../releases/download/aarch64-g/gnome-menus_3.38.1_aarch64.deb
+Size: 80004
+MD5Sum: f094b3cdcd1b810a2f816331caaaa5ec
+SHA1: df02294faefddfd7830ffd5ab42d07dc3d692fd3
+SHA256: b59475d1eb05bb4aa8e1c5dc1f98726f79fc7853fa5a18f93dab4097e4922f94
+SHA512: ebfa0bab6a9e5e354091d6a8294e939e8fc464fe9c791c17674438ec0e6f6bee1fa729703361ef47ee12e91a122ce96e9809b4d856370131c61195006dbc7028
+

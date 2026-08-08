@@ -37701,3 +37701,17 @@ SHA1: 20b8fd2aa2eba7658cea7da612b07c31eb9e44a9
 SHA256: e07b4b76f23e5d9854c4beea1fca451a5dd37ae8d0b08bb68c01e20365ea0690
 SHA512: 243118f82829a6e742267c5d75f24feac8c02ad298a9daa252ff8a9e612ad013c50236e7fdabecca2b044010684528bc5409f2371861889c5bcd5701a1089a19
 
+Package: restic-server
+Architecture: x86_64
+Installed-Size: 12732
+Maintainer: @termux
+Version: 0.14.0-1
+Homepage: https://restic.net/
+Description: Restic's REST backend API server
+Filename: ../../../../releases/download/x86_64-r/restic-server_0.14.0-1_x86_64.deb
+Size: 3536136
+MD5Sum: 9f30ad7ea9ae08563a6cce332a826ba8
+SHA1: 6f47152b1c04fb3bd0d0a95748d6f83d357aec46
+SHA256: 78870db55a68aead81c4f0121e61aefe4aba73da4cef3c9e732e9ef38d855a07
+SHA512: 23341013b6deeae86f819f60b35c761ac7a106adb563fd01654a5ed16322283d9336804059804d2cd4e67770c74949e78eb5207b0cd3620fdaa49980a0abb441
+
