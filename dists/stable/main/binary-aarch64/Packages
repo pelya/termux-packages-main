@@ -38028,3 +38028,33 @@ SHA1: 007cd04f3dd301125498712791567d1fd093d2f1
 SHA256: 828dbbf5238519be45c6bfc51023e6de9292c99748b0031458658832795531c6
 SHA512: a73a1058e79b658727c8979e9adcfc3848d8fd01f2215b5c5b94f0dd9577c9cdcdac1cde2974308c79f6466c178fe7991bfe8bc183975547766de5da83378e0a
 
+Package: csol
+Architecture: aarch64
+Installed-Size: 236
+Maintainer: @termux
+Version: 1.6.0-1
+Homepage: https://github.com/nielssp/csol
+Depends: libandroid-support, ncurses
+Description: A small collection of solitaire games implemented in C using ncurses
+Filename: ../../../../releases/download/aarch64-c/csol_1.6.0-1_aarch64.deb
+Size: 32672
+MD5Sum: 5d480315c8f39f3b99ec82698224cd8a
+SHA1: 55ed5c6cd88bbacf19cee1f52da4afc44307917b
+SHA256: a9e7cc614d2fe1301805ce4e3bc317b67701d63f7d5f585207a26fa5e9e2e21b
+SHA512: 183bf843ce53ed9a5c44827df80d6699672d4b06e403e7a0a02c6da98d515e8863879de5ab1743874aa3160c34baae953ccb563f20ca488947ef881dbd05b8f4
+
+Package: mautrix-whatsapp
+Architecture: aarch64
+Installed-Size: 32264
+Maintainer: @termux
+Version: 0.2606.0
+Homepage: https://maunium.net/go/mautrix-whatsapp/
+Depends: libolm
+Description: A Matrix-WhatsApp puppeting bridge
+Filename: ../../../../releases/download/aarch64-m/mautrix-whatsapp_0.2606.0_aarch64.deb
+Size: 7374672
+MD5Sum: 4453b7b8ffcda468154e6eea5b2a0277
+SHA1: d57a8a8709755b4cf176473e42f24629a468375a
+SHA256: eafe8e59c4e7ccc193331e6b29c1160d017a041e466f9a2841687b0e19db0ea9
+SHA512: bde47e0e87a8126e2ea389c455afe5814a45b7259d3dc16ed8a6df864f1807e014cf658a15cff1187057383b472f5d8ed6231ffe628b09dbf065f7157408f6ff
+
