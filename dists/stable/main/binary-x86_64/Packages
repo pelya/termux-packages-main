@@ -38283,3 +38283,33 @@ SHA1: e261a48c0fbc72a9ac8bf71e7b1eea4345069c78
 SHA256: b661503cde6993772ff62b1f2d2b846e555efbadc29e56ed1f9a026bd39b09eb
 SHA512: 6c2900a48fb137d0ba48e984c1b52a1d6b792169352e38a3cfc4bd7ac0eff2c8036611e3653ad9d49b3636374ae12582acc5147299d051cfcd2536db320a6172
 
+Package: goaccess
+Architecture: x86_64
+Installed-Size: 2408
+Maintainer: @termux
+Version: 1.10.2
+Homepage: https://goaccess.io
+Depends: ncurses, openssl
+Description: An open source real-time web log analyzer and interactive viewer
+Filename: ../../../../releases/download/x86_64-g/goaccess_1.10.2_x86_64.deb
+Size: 532484
+MD5Sum: bcac8c3cd873e36a672d448a80e0aea1
+SHA1: d67317536a13976ff42583b709c7b58c57e5d43a
+SHA256: 1d9aabb4fbeee83d45439e1a19ea389d8a070632714c4b01bccf6a249770427a
+SHA512: ec954cc55d2c7e8ee2205522d2b920b7265d2f9455a82308e6679f80076124935ae37d36b03adef150ac644cc1567f03fc3b518f26faf0c4b5380e2774443333
+
+Package: trunk
+Architecture: x86_64
+Installed-Size: 27136
+Maintainer: @termux
+Version: 0.21.14-1
+Homepage: https://trunkrs.dev/
+Depends: openssl, bzip2
+Description: Build, bundle & ship your Rust WASM application to the web
+Filename: ../../../../releases/download/x86_64-t/trunk_0.21.14-1_x86_64.deb
+Size: 4686956
+MD5Sum: 1a4cc556e704bd3126dc44de7ba6d03d
+SHA1: 1e04e4ca1eec2bcaec69423b3edeab6c9b3c3202
+SHA256: 21dbdaa53d112b1feae555512dd7b882c2e47e9ffccdfd2b4a43503db3645a8b
+SHA512: 963a240868b373547bb43c206a27850d20e6e1b3a4a31e5694b5b1c224b7a3ae802626e582f1a45bb67f96758874d52e63183d21873824a3d0eaf189a62f6875
+
