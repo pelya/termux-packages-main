@@ -13600,3 +13600,63 @@ SHA1: f2fc6b5bf80f692eb5fc6bad117228004fb7ccc4
 SHA256: 5233d86f2ab7e5b4d0645fe9acb6f4661820e45af1518abf7f889bc12f8d4db7
 SHA512: 37b1c0cf6958dc46c81ccb2971e0466226018dc5abbc150fe7e125fc7b41f1eac3ada6dea66b58eb0aee376db85c8515f1690895d2e28a515255e7124039272e
 
+Package: cherrytree
+Architecture: arm
+Installed-Size: 4196
+Maintainer: @termux
+Version: 1.7.0
+Homepage: https://www.giuspen.net/cherrytree/
+Depends: fmt, fribidi, glib, gspell, gtk3, gtkmm3, gtksourceview4, libatkmm-1.6, libc++, libcairo, libcairomm-1.0, libcurl, libglibmm-2.4, libpangomm-1.4, libsigc++-2.0, libsqlite, libuchardet, libvte, libxml++-2.6, libxml2, pango
+Description: A hierarchical note taking application
+Filename: ../../../../releases/download/arm-c/cherrytree_1.7.0_arm.deb
+Size: 2201984
+MD5Sum: a1ebd5d58cba3d372cfc00f89e032a3a
+SHA1: 3aee9e6086bda2f5288ba096b412f0a659867d84
+SHA256: bfd41629f8e36227a11f22009af60730b6cffdb4034daf9150d0513161a6d34c
+SHA512: 1e0e78b705a78681c1689d94e38bc9791e04b57dcbac5999b7e685eac53fb27d352db676e5f83cd5e58eed83399b04deec3b88952ba2b6848a508740c201d733
+
+Package: mate-applet-appmenu
+Architecture: arm
+Installed-Size: 120
+Maintainer: @termux
+Version: 25.04-2
+Homepage: https://gitlab.com/vala-panel-project/vala-panel-appmenu
+Depends: mate-panel, vala-panel-appmenu (= 25.04-2)
+Description: Global Menu applet for use with mate-panel
+Filename: ../../../../releases/download/arm-m/mate-applet-appmenu_25.04-2_arm.deb
+Size: 27700
+MD5Sum: 67dfb93ce960f2b90f8193e38b833130
+SHA1: 84cae51affd82179e04c5fa8b3fab3aa237593c1
+SHA256: bd14e478f03796d9567c084a154840928f89d8d1f8cc9e715576fe4098532922
+SHA512: a0ff3137c90a4b1ce1ea6a8fb57b40380d94a51c004ffa54e8253502425aacaee92ac6114b00bfff7bd2114ee5b93d28d6948d633793756ec27bd5ef1c0cfc62
+
+Package: vala-panel-appmenu
+Architecture: arm
+Installed-Size: 304
+Maintainer: @termux
+Version: 25.04-2
+Homepage: https://gitlab.com/vala-panel-project/vala-panel-appmenu
+Depends: glib
+Description: Global Menu for Vala Panel (metapackage)
+Filename: ../../../../releases/download/arm-v/vala-panel-appmenu_25.04-2_arm.deb
+Size: 49424
+MD5Sum: 533be372abc2218d59dbd3b262d795c0
+SHA1: 357753d78298522abb54c15e7f8ef91fd83aa0a8
+SHA256: d42a328f2f65ac00c838182e5c29b9285e163d68667cc074be22d795da5b58bd
+SHA512: 83da7435fd1e983b4dd6f654a3b70a98ebfc206362c8664016effe4a2cfa5f3a85792baf1622c4aa03df71d9f26ce7dde9e28d5de4f707a52abff31e3f8823a6
+
+Package: xfce4-appmenu-plugin
+Architecture: arm
+Installed-Size: 136
+Maintainer: @termux
+Version: 25.04-2
+Homepage: https://gitlab.com/vala-panel-project/vala-panel-appmenu
+Depends: glib, gtk3, libwnck, libx11, xfce4-panel, xfconf, vala-panel-appmenu (= 25.04-2)
+Description: Global Menu applet for use with xfce4-panel
+Filename: ../../../../releases/download/arm-x/xfce4-appmenu-plugin_25.04-2_arm.deb
+Size: 28116
+MD5Sum: ce0d6bcfcac9c1935483e62161ea3947
+SHA1: e9967462f48595a8a0eadd87f0cc509b92b674f5
+SHA256: 914e624f12f5da6612e759598ba27665ce940d02ec276e28e090e69931af7a48
+SHA512: 24c4a9022c8d20c9f4ee92e2981ad4bf11e153af118cba9f3a946ba6a9776918f63619e4747344a6956027a3e42b4990ba512f7502627fb6ece954240f31ff28
+
