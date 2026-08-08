@@ -39616,3 +39616,18 @@ SHA1: 6f84daf6758f62ba81dd1215fa9a7c84aa8e5abd
 SHA256: 0528c34bcbdcfaca6d8c5f3fe53281fc2da4a1a19dd54753217387d956ae41ec
 SHA512: 22e7ca3b06ecaa7b3b09f764bf5911d05cd06f797646f17f1c72c82f3ae9258bcc54b548ac66e8c757d29c4e90f1a9d96075aeac970e97c41eb419d0cf46d0a0
 
+Package: exfatprogs
+Architecture: aarch64
+Installed-Size: 540
+Maintainer: @termux
+Version: 1.4.2
+Homepage: https://github.com/exfatprogs/exfatprogs
+Depends: libblkid
+Description: exFAT filesystem userspace utilities
+Filename: ../../../../releases/download/aarch64-e/exfatprogs_1.4.2_aarch64.deb
+Size: 88936
+MD5Sum: 93f12db17d656bb0722af0e01905198c
+SHA1: 15add29fcc2884ff269ee219c07d367206b61352
+SHA256: c2f55e42eb1e517b993ea124faed2c7d78e1010a68d3df2a6f4a5f50c5deb493
+SHA512: 1b5f166f9b34d5be6048472bd10e30494b9188b9f45ea6197ebe8f65739dba85dcd46d2801382521e837e5190ca46b504076a8673e6a6ef9e24cd8eb406b7c81
+
