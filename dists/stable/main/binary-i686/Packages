@@ -38289,3 +38289,18 @@ SHA1: ed9102b151695889cda21f4e12bd71d8ec2fa428
 SHA256: 58816a61cb76ea351d4453bbb366a3a0d3e2bea2c34280ab008b9e1b85fb0a9c
 SHA512: 8049c4fa49f9ad28ad0765fa528a51e3972c104b68ad29e22a0221227d1f6f2d49ab6a0fe31f374f593b6f1855ebcb77ddfa66e521d1abfc440c99a16fa6ad0c
 
+Package: ack-grep
+Architecture: all
+Installed-Size: 208
+Maintainer: @termux
+Version: 3.9.0-1
+Homepage: https://beyondgrep.com/
+Depends: perl
+Description: Tool like grep optimized for programmers
+Filename: ../../../../releases/download/i686-a/ack-grep_3.9.0-1_all.deb
+Size: 42048
+MD5Sum: d1d170452bddae4b6ad44d767ac0378e
+SHA1: bbaf77e63f83a4f252c5dcea48c4c8b154d1af21
+SHA256: 27c7f1959abc15d21a25d931652884210f8d87ebf8d02d48e76b2f42ea3b4dff
+SHA512: 2f7e338c97ff2dc7a0f0efe3797f66428be13d31a16124bc0db9e4870dd96c7c3cb992368e5e7d17cf1c146f5ef11f748248579d42286ed53f6c93bee38d05ac
+

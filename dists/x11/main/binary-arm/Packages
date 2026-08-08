@@ -13842,3 +13842,18 @@ SHA1: 681c75e1b3cacc2da5e3f43c738c1860c63eee85
 SHA256: 91e00ef005930cd02e187140c631abceb0bf3eab51bb6fbca5f3d6dc04a012fd
 SHA512: 86f62074d753197d719a74913d8c72a257a87e045aa335c7078168a0c794970f8ccd49acbf34fc9735cc52efa51dc3d3d9d288334a6f5771e7dc00e6a3b997bd
 
+Package: thunderbird
+Architecture: arm
+Installed-Size: 222824
+Maintainer: @termux
+Version: 152.0.1
+Homepage: https://www.thunderbird.net
+Depends: botan3, ffmpeg, fontconfig, freetype, gdk-pixbuf, glib, gtk3, libandroid-shmem, libandroid-spawn, libc++, libcairo, libevent, libffi, libice, libicu, libjpeg-turbo, libnspr, libnss, libotr, libpixman, libsm, libvpx, libwebp, libx11, libxcb, libxcomposite, libxdamage, libxext, libxfixes, libxrandr, libxtst, pango, pulseaudio, zlib
+Description: Unofficial Thunderbird email client
+Filename: ../../../../releases/download/arm-t/thunderbird_152.0.1_arm.deb
+Size: 68287776
+MD5Sum: 5b434bd5bcf8e61205d5431fded6776e
+SHA1: d111e13a84a0927cbdcf96be50f4ddfb77e8802a
+SHA256: b00de66399b8cff5f332861516d85fd74f48a09373b86c877864213506dd4143
+SHA512: 53762be0b891b9fbd15802d21a68512035fd73346fae7924809ee20ed3a5fe65dd48c6624d67e4ce307ea9bd74dc199bbb339fcb656c04076afdfe528fe47747
+

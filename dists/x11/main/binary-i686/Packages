@@ -13631,3 +13631,18 @@ SHA1: ac4e4abccace09622b1e7ca4d6af7c07e03eb382
 SHA256: ec2aa4b0b82a75e13167f6255749d0f9440faa8b4a53ad65499f18dff918302b
 SHA512: 95c2064cc28d54dec31e564138d61d49afdb4ab82e4b54eb39d406cbf437b6471088466b95f11f212f2de6a1d68d42e6ead66667b857834a27b8190ce36ea9ac
 
+Package: thunderbird
+Architecture: i686
+Installed-Size: 291956
+Maintainer: @termux
+Version: 152.0.1
+Homepage: https://www.thunderbird.net
+Depends: botan3, ffmpeg, fontconfig, freetype, gdk-pixbuf, glib, gtk3, libandroid-shmem, libandroid-spawn, libc++, libcairo, libevent, libffi, libice, libicu, libjpeg-turbo, libnspr, libnss, libotr, libpixman, libsm, libvpx, libwebp, libx11, libxcb, libxcomposite, libxdamage, libxext, libxfixes, libxrandr, libxtst, pango, pulseaudio, zlib
+Description: Unofficial Thunderbird email client
+Filename: ../../../../releases/download/i686-t/thunderbird_152.0.1_i686.deb
+Size: 73841012
+MD5Sum: e4bac90be9a1a97b237f4da3e84acadf
+SHA1: 490e95d94a1f7f8801c733c402818615ee7999a9
+SHA256: 71247f95fc5e05a6851949a67f4b80b3caa22c394880afad2e23aaac0d22bd09
+SHA512: 89fba01eddb96d94f3a237c529e80d5bb73ea8f4029066c4513545041e2ca377d9d7676743125871910e966940b80f55e83aed4011f2c79f9bcde1e295e42393
+

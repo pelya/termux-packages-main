@@ -14145,3 +14145,18 @@ SHA1: 2ce77f337d9487d144a00b727abe0b939bfd8373
 SHA256: 4014d0f5dd4cfc8669224acd343b995ad4653ea11febb022a7ca605d151219d4
 SHA512: f9a6e3561c98c598e128e7270e0070615e6795226ab601f732259178490e0f35830e5ac9711f638385aea5ac70cb9fc0d3fe68f4779b0cab6bdb445d9b909107
 
+Package: thunderbird
+Architecture: aarch64
+Installed-Size: 276532
+Maintainer: @termux
+Version: 152.0.1
+Homepage: https://www.thunderbird.net
+Depends: botan3, ffmpeg, fontconfig, freetype, gdk-pixbuf, glib, gtk3, libandroid-shmem, libandroid-spawn, libc++, libcairo, libevent, libffi, libice, libicu, libjpeg-turbo, libnspr, libnss, libotr, libpixman, libsm, libvpx, libwebp, libx11, libxcb, libxcomposite, libxdamage, libxext, libxfixes, libxrandr, libxtst, pango, pulseaudio, zlib
+Description: Unofficial Thunderbird email client
+Filename: ../../../../releases/download/aarch64-t/thunderbird_152.0.1_aarch64.deb
+Size: 67070852
+MD5Sum: c8d4b77f53d5603d1fdbfe2874508a5f
+SHA1: 36798ec397ff30f4932f4c6ed28db65919308dcb
+SHA256: c239de2c67b5aea8dc0f0d00ac44bebcbf94513a010f0d21914151b8e6df0195
+SHA512: 60644f43463518712a9a8655df8ae71d10d135f106b25747afc6902ba3925ef3bdacd854930b5d43f8580e5400da87ae999e30eeba73425bd8bbd40504203f4e
+
