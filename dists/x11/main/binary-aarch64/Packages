@@ -13963,3 +13963,18 @@ SHA1: 6f3549787766552f546689e37c0003b3be4993c2
 SHA256: caa4324c4a7c8de54d0fb3c92bf8580d9b08eeb5bc443084fb759b03a16f9987
 SHA512: 9ef7352eb9ed755aab1b0722189813b0a1597b6c1a72cf3a238bf8e52dc41486d79e05fba37b6d7bdbd215cff7c77d8dc4c7b57b4af34fb068e92bbdce96ae3d
 
+Package: mpc-qt
+Architecture: aarch64
+Installed-Size: 4440
+Maintainer: @termux
+Version: 26.07
+Homepage: https://mpc-qt.github.io/
+Depends: mpv-x, qt6-qtbase, qt6-qtsvg
+Description: Media Player Classic Qute Theater
+Filename: ../../../../releases/download/aarch64-m/mpc-qt_26.07_aarch64.deb
+Size: 857736
+MD5Sum: 7a51803f459e6bb42096ace7fb564762
+SHA1: 6951d5c72a54956331c0402dc75fbbb668e0217c
+SHA256: 84d242e6b8109d8098a2bca035e052365cf8a6db0bccde73678399d7a4b460d9
+SHA512: ae4ad013d12972cdcf437269036f3ed3af18bfd81f8676dd813f066f55190bf38c41853a6617b94120aaf41123a2dd879f866da92bd017d734f4dd7690594716
+

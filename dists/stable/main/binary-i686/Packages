@@ -37937,3 +37937,18 @@ SHA1: d34c6732f7db5fb54f108b68db1ad45e9f3af4ae
 SHA256: 40043bc8ea09ad6d2d86ba677d1113e8d07b0319c5cfe6fcd4b4bd8bad182346
 SHA512: 179e0bce5417095e70474fc00494d510a850aa03784aee8abf89c2d9c565d2d2b5809115af63d85ea43eaf5bf5751ef48ce5dd871fe33d3439055248fd1359d3
 
+Package: dosfstools
+Architecture: i686
+Installed-Size: 476
+Maintainer: @termux
+Version: 4.2-1
+Homepage: https://github.com/dosfstools/dosfstools
+Depends: libiconv
+Description: DOS file system utilities
+Filename: ../../../../releases/download/i686-d/dosfstools_4.2-1_i686.deb
+Size: 123340
+MD5Sum: 727a8b6424b8db40663f7a55fe207d5e
+SHA1: afe87bea8bbe8b5e01ca6f2a2e90310d581b65de
+SHA256: 3bafd0f445725d38e0c8a1eacb02c3647e342862593af99541d4f846ba3b6078
+SHA512: 72e2838f91fb6ffb556557087aa14c7c53554886f8383359137b36f909e4bddacf67fc9f45fdc11ae31c593fbb4ba176ae3995d59c229ff729742d4d1ad295e2
+
