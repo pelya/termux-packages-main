@@ -36637,3 +36637,18 @@ SHA1: 2d98040f52967878ca675436651afda03b0803bf
 SHA256: 9261a12fb4531e12535c548c696446c6dc4c60d5f30e21a925ee33feb873b39b
 SHA512: 4919d9d56b8b05e33794e4981a9e89e37090fc1775ba599d3fc121def344c99a00a955dbb00334fbaa529e23588b0ed49ba9560e70597c08d8ccdd1d3238170c
 
+Package: srt2vobsub
+Architecture: all
+Installed-Size: 148
+Maintainer: @termux
+Version: 1.0-8
+Homepage: https://srt2vobsub.sourceforge.io/
+Depends: bdsup2sub, ffmpeg, fontconfig-utils, imagemagick, mediainfo, python, python-pip
+Description: A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file
+Filename: ../../../../releases/download/arm-s/srt2vobsub_1.0-8_all.deb
+Size: 28188
+MD5Sum: 7bb3b22536bbbf17fdd85ee1a27f27c3
+SHA1: ba2a73765c78ffb9ec4b519276291efbacd3f4f2
+SHA256: c0fb9a472705c17368afe667a22ac2d5a1515be5fa04354dd9937a657fae2054
+SHA512: d17ca15b4c5bbe5898af2bb9b718eab15f600968c8375bdbb62dad7d4eb33567673f668eaa28208576d4c94b71244dbf381bdcfceed32e0c4cfe7b91b043480a
+

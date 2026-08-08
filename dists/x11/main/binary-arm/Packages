@@ -13372,3 +13372,18 @@ SHA1: 784a3a5e65160f908debd845f4a1c4063a7f14cc
 SHA256: 14dd095cb94634bd414e8f4cf1dd318773eebbf13134b6c27a4a8e672f920374
 SHA512: ea63a297c6e920e9deb21a6da655df9193d43dd503cd4dbe6e14009e96c3dc46c9bf851b59a277d2020c3bde72757165765b6a605c1f4f0c0cad030b5576e367
 
+Package: plank-reloaded
+Architecture: arm
+Installed-Size: 1508
+Maintainer: @termux
+Version: 0.11.170
+Homepage: https://github.com/zquestz/plank-reloaded
+Depends: atk, bamf, libcairo, libcanberra, gdk-pixbuf, glib, gnome-menus, gtk3, libgee, libwnck, libx11, libxfixes, libxi, pango, libdbusmenu-gtk3
+Description: Fork of the original Plank project, providing a simple dock for X11 desktop environments
+Filename: ../../../../releases/download/arm-p/plank-reloaded_0.11.170_arm.deb
+Size: 393788
+MD5Sum: 7d3896043ce7403cf12452e154e9be0e
+SHA1: 948fc0e5024e4e48dc1b26f0afb53a292ee78e36
+SHA256: f07a4f1d84dd52dc8c84349dfcd0e86c2c338c12cbac65f621aa17561c32f101
+SHA512: 2f5a29aa4518d8f40051988d24f162632bacddaa819ccf114133b72252e741f0f690d1459af64b55b79bd598c6ae7cc72870cf5c72faadd719d833356b859f47
+
