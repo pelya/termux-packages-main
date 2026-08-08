@@ -13309,3 +13309,48 @@ SHA1: ea8200bf51f04d005665e76cbf96026778c9c93d
 SHA256: 8f88d415d032d76a7697e637714839078a7d6ae8fccc3358c2f55b196a1f2e00
 SHA512: 7f7de0c06684f7b9d11739ea3adf93adbb2b89634ed2ae433ca43f882e84755a4de15959df8c48870bdffa394714c22d7fcd1fe240057d4a1fc9962340e14395
 
+Package: lxde-icon-theme
+Architecture: all
+Installed-Size: 8528
+Maintainer: @termux
+Version: 0.5.2
+Homepage: https://github.com/lxde/lxde-icon-theme
+Depends: gtk-update-icon-cache
+Description: LXDE default icon theme based on nuoveXT2
+Filename: ../../../../releases/download/aarch64-l/lxde-icon-theme_0.5.2_all.deb
+Size: 4457572
+MD5Sum: 4c9b106933eeecc15a9bb6960fe15e31
+SHA1: 64205ab974b68f4417098920625dbdba167a9c79
+SHA256: a1e65f5408f4e7420df5d9e370953ecfb3084f3bda69c3272e97acf1d449584b
+SHA512: 16c75c5999837ef8b89134ff9a6781e832455ae2dfd46ec6d3a623b433d6d9efeade714f53489112716d4e58747f9a7a3f921624448c0273d3ba0eb6a80f6911
+
+Package: mate-screensaver
+Architecture: aarch64
+Installed-Size: 4948
+Maintainer: @termux
+Version: 1.28.1
+Homepage: https://mate-desktop.org/
+Depends: mate-panel, libmatekbd, gettext, libnotify, libxss, mate-desktop, mate-menus, mate-session-manager
+Description: Screensaver for MATE
+Filename: ../../../../releases/download/aarch64-m/mate-screensaver_1.28.1_aarch64.deb
+Size: 4446564
+MD5Sum: 85e4bdbcd41027fdb05aff58a4e050c2
+SHA1: be6e6a6d773172dd01f96602da79e7bc24ad24a2
+SHA256: f7a9d075460c2e8d346768d9872940493fe87bfc0a6ff127cebe544a1d8281b4
+SHA512: 277624cbc53d9d222b7f0a79d62c22d096d30d7c8df789558d7203f5a9b253aed200609d1ae82ae4144f5d82c5443dccd1e7a869ba786b64adcbb330775bf60b
+
+Package: mate-session-manager
+Architecture: aarch64
+Installed-Size: 640
+Maintainer: @termux
+Version: 1.28.0-1
+Homepage: https://mate-session-manager.mate-desktop.dev/
+Depends: dbus, dbus-glib, gdk-pixbuf, glib, gtk3, libcairo, libepoxy, libice, libsm, libx11, libxau, libxcomposite, libxext, libxrender, libxtst, opengl
+Description: mate-session contains the MATE session manager, as well as a configuration program to choose applications starting on login.
+Filename: ../../../../releases/download/aarch64-m/mate-session-manager_1.28.0-1_aarch64.deb
+Size: 113096
+MD5Sum: 6711d6e88d80ec010fedc02b0e81f752
+SHA1: 0a4063b689a868289eb77835e71d9b29ad7ab163
+SHA256: 450d6eb97cf7ec43c55f07c34a48bca6c4eed10e7ff2752fdf24c9b222a05087
+SHA512: 04df2a7da15db671b6d4b239fffb1586c706809141a8890945e3539e02cf6052109ef74df7c6673b10b93f8573dec6895bc94d6a632e3bae1c3ed54499e509e0
+

@@ -13021,3 +13021,48 @@ SHA1: 5d8a65875c4b293479bb487253df748d97e584d9
 SHA256: faacdba0ff83acedcb7f059447371a03b175e941747e72e147df7065dea81668
 SHA512: 044e38895b8e1d35f94bc4d925a1741978ccfb51156dd139360dfc6cd0a0025d32c98677221df30aa945ce3c410a51a1302c9729c1053f06e416ede6f457fae4
 
+Package: lxde-icon-theme
+Architecture: all
+Installed-Size: 8528
+Maintainer: @termux
+Version: 0.5.2
+Homepage: https://github.com/lxde/lxde-icon-theme
+Depends: gtk-update-icon-cache
+Description: LXDE default icon theme based on nuoveXT2
+Filename: ../../../../releases/download/arm-l/lxde-icon-theme_0.5.2_all.deb
+Size: 4457572
+MD5Sum: 4c9b106933eeecc15a9bb6960fe15e31
+SHA1: 64205ab974b68f4417098920625dbdba167a9c79
+SHA256: a1e65f5408f4e7420df5d9e370953ecfb3084f3bda69c3272e97acf1d449584b
+SHA512: 16c75c5999837ef8b89134ff9a6781e832455ae2dfd46ec6d3a623b433d6d9efeade714f53489112716d4e58747f9a7a3f921624448c0273d3ba0eb6a80f6911
+
+Package: mate-screensaver
+Architecture: arm
+Installed-Size: 4848
+Maintainer: @termux
+Version: 1.28.1
+Homepage: https://mate-desktop.org/
+Depends: mate-panel, libmatekbd, gettext, libnotify, libxss, mate-desktop, mate-menus, mate-session-manager
+Description: Screensaver for MATE
+Filename: ../../../../releases/download/arm-m/mate-screensaver_1.28.1_arm.deb
+Size: 4439944
+MD5Sum: b54a5db370848b12e853fb777efcee48
+SHA1: d8e81904a40fd0fc947ccfd2e179355e202bbd9d
+SHA256: 3cf36cf8bab6e837f7877d21f1cb645a2f7ea848532eea59f83eba1ae9d0ec43
+SHA512: 3a093ec4ad9e335d50037989a2681cfbf146790400d305d31bb91114b7d1e2696d9447e490c6624a637598ea9934df71432a7d8983fccc6f228a67f3d288f54c
+
+Package: mate-session-manager
+Architecture: arm
+Installed-Size: 528
+Maintainer: @termux
+Version: 1.28.0-1
+Homepage: https://mate-session-manager.mate-desktop.dev/
+Depends: dbus, dbus-glib, gdk-pixbuf, glib, gtk3, libcairo, libepoxy, libice, libsm, libx11, libxau, libxcomposite, libxext, libxrender, libxtst, opengl
+Description: mate-session contains the MATE session manager, as well as a configuration program to choose applications starting on login.
+Filename: ../../../../releases/download/arm-m/mate-session-manager_1.28.0-1_arm.deb
+Size: 104124
+MD5Sum: 731de7757e4db870397972d7bb02edad
+SHA1: 24b40c4e318068fa470de90a42625a0c19ae4460
+SHA256: 0805b46745938dd69a4f2bae4b5615141fcb5b88a35daec918de8f3617612512
+SHA512: 7f8b9ecc2cfda25eaa8674dfe012ddc419339999d1b167696cfd4b21975cda9ef395330f16d590f2cb1c29a05446f1e0eb37f779a35ff39eeeb03e386f2e2384
+
