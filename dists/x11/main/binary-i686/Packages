@@ -13721,3 +13721,49 @@ SHA1: 52b21b78a0eb1f67343cbcfda6528b00873ac9a0
 SHA256: 4d019bcacb53ba88ae451b3f0e851a96aa3fd3f65f4b48c06deaa73561e7f015
 SHA512: bc8a78b666a31304df7ae97e1b6371967f23f8cd263a125c452b7e6abff9f8e4896c886b35ac1fedc697e8f43527f36a0f701ff2efcf7d639c33046b7f9aff57
 
+Package: libmgba
+Architecture: i686
+Installed-Size: 2684
+Maintainer: @termux
+Version: 0.10.5-4
+Homepage: https://mgba.io/
+Depends: ffmpeg, libedit, libelf, lua54, libpng, libsqlite, libzip, opengl, zlib
+Conflicts: mgba (<< 0.10.5-4)
+Description: An emulator for running Game Boy Advance games (library)
+Filename: ../../../../releases/download/i686-libm/libmgba_0.10.5-4_i686.deb
+Size: 542940
+MD5Sum: 8ddeac1ecef8af684110ec0ca8bdff80
+SHA1: 93c25f3c8f1fe381c3cd372943066c1d457db461
+SHA256: 614b41a19ea6931e4fb9fc809ff9a468e7d01be5e0212320842ce9d2beef0e18
+SHA512: 76f571d5ddfc455bf1ab12df335f9c41389dfe48664401d368e49381d920bdcde50a07234df77d9b6d180735708044951edec02b10f30c845d961c31f5480e23
+
+Package: mgba-qt
+Architecture: i686
+Installed-Size: 6788
+Maintainer: @termux
+Version: 0.10.5-4
+Homepage: https://mgba.io/
+Depends: libc++, libmgba, qt5-qtbase, qt5-qtmultimedia, sdl2 | sdl2-compat, mgba (= 0.10.5-4)
+Description: An emulator for running Game Boy Advance games (Qt GUI)
+Filename: ../../../../releases/download/i686-m/mgba-qt_0.10.5-4_i686.deb
+Size: 2020868
+MD5Sum: 035bec9c96620b9d9b9d890015f218bb
+SHA1: 230dcf3e127a502738a03fc65d972a5813630203
+SHA256: caea6b208c4818c9fd371f87e8bb3e861ae21ec10bc5ffd214345cd1f55bd531
+SHA512: 52464cf2781f3df1b139efbe28be34ba4dfd888fde8bdb6073a8570dcf637c1d887c6f22b0648bbd32b613a11995269da8bccc71e93160a197772a4f323675f0
+
+Package: mgba
+Architecture: i686
+Installed-Size: 76
+Maintainer: @termux
+Version: 0.10.5-4
+Homepage: https://mgba.io/
+Depends: libmgba, sdl2 | sdl2-compat
+Description: An emulator for running Game Boy Advance games (SDL GUI)
+Filename: ../../../../releases/download/i686-m/mgba_0.10.5-4_i686.deb
+Size: 13904
+MD5Sum: be428c9bb5ef47bc0d5333f1034c97c6
+SHA1: cc560659c40ab71c974b306ede64062554fd5561
+SHA256: d3405ab1036f79ea07c63bfae2380f42740db93ab8cb739237289751b1fda77d
+SHA512: 0fec18cae8c079a1fe4a3ff947496c520dc71d9fa06be47c5da46641cd24d308ae0c63223fa70edd3452f2eae32d92c56599c211ee2b6ebe62dfabd9e9c1aeb9
+

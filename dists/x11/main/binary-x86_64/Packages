@@ -14163,3 +14163,49 @@ SHA1: 6867871ed705f35ae4c86dd687ecc34574e1bda0
 SHA256: 7053fb6eeb9abd453901dcf5387cabc31b470862260e5918a7a00e378895291d
 SHA512: e02a76db1c1b674a0613b8c4e7c8c0c6136af400a41fdabc2e184e525ba0de6cfed0e475afc37a1b58afc389a18b41287f6fa0d5962e8fc32b88f6954b35b9e2
 
+Package: libmgba
+Architecture: x86_64
+Installed-Size: 2952
+Maintainer: @termux
+Version: 0.10.5-4
+Homepage: https://mgba.io/
+Depends: ffmpeg, libedit, libelf, lua54, libpng, libsqlite, libzip, opengl, zlib
+Conflicts: mgba (<< 0.10.5-4)
+Description: An emulator for running Game Boy Advance games (library)
+Filename: ../../../../releases/download/x86_64-libm/libmgba_0.10.5-4_x86_64.deb
+Size: 545112
+MD5Sum: 7935115c01113f30d4d6c52dd0359008
+SHA1: 5323a39be9350aba943c9df5ea1a96e406df3047
+SHA256: 9af7a5f84c502d702968ae4be6434918bcb94cf9701e3aeb421d388d72a997c5
+SHA512: 4f9bd95b6635cdf77afe7095597417fdddaffe2812f181e234fd971327b535d4e4415a2eb9bc85df90eebb36ee1f5e9f54dffdd3f39abba56d516c3195dda925
+
+Package: mgba-qt
+Architecture: x86_64
+Installed-Size: 6688
+Maintainer: @termux
+Version: 0.10.5-4
+Homepage: https://mgba.io/
+Depends: libc++, libmgba, qt5-qtbase, qt5-qtmultimedia, sdl2 | sdl2-compat, mgba (= 0.10.5-4)
+Description: An emulator for running Game Boy Advance games (Qt GUI)
+Filename: ../../../../releases/download/x86_64-m/mgba-qt_0.10.5-4_x86_64.deb
+Size: 1988536
+MD5Sum: b162d93f3fda236cd75591bdd18df62e
+SHA1: b3d0cb4dc63ae6e5b2299641eef83cb7c2a196b2
+SHA256: ea34d5448c98e68f089703f941408b83ace1f48cdf715cedfe1e6846947f3f08
+SHA512: 72ee22b7ac38804d98dd66c90461130946313198a718a23b653dd03ad0742d0c0f970906362f8a67794d2ec620e4473e4a23c329d66e7db4639985841dad05a9
+
+Package: mgba
+Architecture: x86_64
+Installed-Size: 80
+Maintainer: @termux
+Version: 0.10.5-4
+Homepage: https://mgba.io/
+Depends: libmgba, sdl2 | sdl2-compat
+Description: An emulator for running Game Boy Advance games (SDL GUI)
+Filename: ../../../../releases/download/x86_64-m/mgba_0.10.5-4_x86_64.deb
+Size: 14136
+MD5Sum: 330b4c3a85fd8554e6ba55833d67b119
+SHA1: 69271e68c8e4a8a83c5faa1e955b47d5bb4060a0
+SHA256: a2b9665bd81f1b3cabfae48fbbf016581a38a02ef98a8cbab954139819c2cf2a
+SHA512: 6bb5331c90a147c219c4d717699807c56c1c2238b928290b8f5fb4276abf3c2457c0d195a351e5f53657af2201b21b76e8e6de09b1e63ac6e14d1834f5adfd39
+

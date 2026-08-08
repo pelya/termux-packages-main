@@ -14235,3 +14235,49 @@ SHA1: 6002d3a955b7895df512cd0538bb34dbced1f201
 SHA256: 3eac6fff4ccc2b250d0bf9abacbad2d37a39fcbadbdacbbd4eb41f8807fe6e6c
 SHA512: 2d673b05e47ba37ea0b19146a1dd8feecfc937bbc32f67d6acd16d91dce28a055df710ec60b029cae44c2e1c28755b7e318f4c38b4d8a9df5736f64164cfca0a
 
+Package: libmgba
+Architecture: aarch64
+Installed-Size: 2928
+Maintainer: @termux
+Version: 0.10.5-4
+Homepage: https://mgba.io/
+Depends: ffmpeg, libedit, libelf, lua54, libpng, libsqlite, libzip, opengl, zlib
+Conflicts: mgba (<< 0.10.5-4)
+Description: An emulator for running Game Boy Advance games (library)
+Filename: ../../../../releases/download/aarch64-libm/libmgba_0.10.5-4_aarch64.deb
+Size: 514008
+MD5Sum: fa26b2c19c932d4b8dad43714483e752
+SHA1: e3ecbc7cce0f42a6a7b464bbd3b96d60d49ed020
+SHA256: 3376956611ec67da1e8e05257042736299e339b5360a2a84d65de768af936622
+SHA512: 49f7da0dafead7c3d5d7020ab493ee501589fabc9627a836fd5499a548101280a6ef4cda3ef081042c818dec020fb2a136b4f502084db15e9b77326dfc8a98a6
+
+Package: mgba-qt
+Architecture: aarch64
+Installed-Size: 6772
+Maintainer: @termux
+Version: 0.10.5-4
+Homepage: https://mgba.io/
+Depends: libc++, libmgba, qt5-qtbase, qt5-qtmultimedia, sdl2 | sdl2-compat, mgba (= 0.10.5-4)
+Description: An emulator for running Game Boy Advance games (Qt GUI)
+Filename: ../../../../releases/download/aarch64-m/mgba-qt_0.10.5-4_aarch64.deb
+Size: 1941168
+MD5Sum: c43a0f0f498e3aade08bad79b4db6593
+SHA1: 28037776760a84829b8af122abcb6bdeed8fdf36
+SHA256: c3130ce6121732cdd1bf8d21679f2a468762fc937c9c8a8a0f44e0959529fcf2
+SHA512: d75c640cb12e3b3a518e4c85b71a700aae0b549d927df1190bac67f7769de55807247c2ec70f12818ea26efebec8eee0b7142cb578fee17e8fa11e684f061f5c
+
+Package: mgba
+Architecture: aarch64
+Installed-Size: 80
+Maintainer: @termux
+Version: 0.10.5-4
+Homepage: https://mgba.io/
+Depends: libmgba, sdl2 | sdl2-compat
+Description: An emulator for running Game Boy Advance games (SDL GUI)
+Filename: ../../../../releases/download/aarch64-m/mgba_0.10.5-4_aarch64.deb
+Size: 13440
+MD5Sum: 1ea7b617d741ece205e01cd8d029e4b1
+SHA1: 47a1ff77d106f464885c8e42347006fdff8b93aa
+SHA256: be970f8d6f31adc3977d0f2ae2a69b4d76beb8b12f4b4f0aeee892b1a1d1d81e
+SHA512: 3a968f12b16f2607328c82e455fd13a83888fb7bfaf1eb810ec0b93702a274e61f2d55e8d8260a0080592580f8730a47ca9f3e90e94436c135326ef987bf9629
+

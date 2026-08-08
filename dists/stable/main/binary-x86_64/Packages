@@ -39556,3 +39556,18 @@ SHA1: bff089eaae033dcd73ad02306f292fc75dc113c0
 SHA256: 7d9f9c0a97c2b7d902e9f40a54f3b411e792ef8812eaa48bb6c06b66f1fd2eb2
 SHA512: 3f9599f790a93c7918db954eb5a9dcaecac997920e5dc651a75c0d8c9a9a22bd72275b7bc0bdc25af2e631e3e03ba28b255933f4223d305524812b735c5751fe
 
+Package: gradle
+Architecture: all
+Installed-Size: 154932
+Maintainer: @termux
+Version: 1:9.6.1
+Homepage: https://gradle.org/
+Depends: openjdk-21
+Description: Powerful build system for the JVM
+Filename: ../../../../releases/download/x86_64-g/gradle_1.9.6.1_all.deb
+Size: 138699232
+MD5Sum: afd6848a4cafd702a831d9d9dc2ff7a7
+SHA1: 27e8cabb8e333031f324a72cf73719ded0e2e091
+SHA256: 34152c3af1d74043cb4573db0a7f43956c263eef7e80428132a211197e5b8631
+SHA512: 38a1ea3fc1ac9a2ef0728cf718c449c78fb83c60bf8b9848ebde6c2a8b1f26eb0cfad0c9ed08a575d6677c3deb799e6d7e9419c52e63f4ab00096c7cd4ae8f39
+
