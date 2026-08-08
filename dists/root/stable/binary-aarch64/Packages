@@ -824,3 +824,63 @@ SHA1: 61832ccb1e5d1be1851318cfca078ed26ddc6f40
 SHA256: 21d90639a48a3440495f8bb377b8e490596d070290ce14b673c6c4c8b020c320
 SHA512: c8974b90c5148b0cc85f7fda17826989d6d3f6d043aeaff2ef07e088a498c3867b0d7c5b6b63b41e923b6277bd1ad17aae6819986a565f75346b4f4dc4845a6e
 
+Package: avahi-static
+Architecture: aarch64
+Installed-Size: 804
+Maintainer: @termux
+Version: 0.8-11
+Homepage: https://www.avahi.org/
+Depends: avahi (= 0.8-11)
+Description: Static libraries for avahi
+Filename: ../../../../releases/download/aarch64-a/avahi-static_0.8-11_aarch64.deb
+Size: 135388
+MD5Sum: 3175b4971d61b2880a457bdf09e63294
+SHA1: 4aeb83996407ba3167fad8206760ea9c4f8df65e
+SHA256: 7aa0429fb940502adeef6d361da25b6c2f766ad4750f49de3ced84600eac5111
+SHA512: 37b9584c7aaf3bd9ac197214345394a8201cedf036849a422fdb8fe83e1af172c1eb62f0774e2b81e522e87dabb6f526bf749142275ce651e01296f223d77466
+
+Package: avahi
+Architecture: aarch64
+Installed-Size: 1204
+Maintainer: @termux
+Version: 0.8-11
+Homepage: https://www.avahi.org/
+Depends: dbus, glib, libandroid-glob, libdaemon, libevent, libexpat, resolv-conf
+Description: A system for service discovery on a local network via mDNS/DNS-SD
+Filename: ../../../../releases/download/aarch64-a/avahi_0.8-11_aarch64.deb
+Size: 217632
+MD5Sum: e401cd99148f5efbe8d613b820c632f2
+SHA1: 3c5de3f028db46c6a547f356b75cd046e4ef10cb
+SHA256: 261d128ae5fa0e7917c5d3c453d8d4fb41597871828485a0fdca4025bf946e15
+SHA512: 3414a4a5c8a71543eb76ed15e84d3b068b5114c4108cb867b2a3acbfe488ec94296aaa0b35ce4910c20b0de30a37b8dc5e1a959dead624279bff85297aea5885
+
+Package: libdns-sd-static
+Architecture: aarch64
+Installed-Size: 80
+Maintainer: @termux
+Version: 0.8-11
+Homepage: https://www.avahi.org/
+Depends: libdns-sd, avahi (= 0.8-11)
+Description: Compatibility layer for libdns_sd (static library)
+Filename: ../../../../releases/download/aarch64-libd/libdns-sd-static_0.8-11_aarch64.deb
+Size: 12744
+MD5Sum: 701c4b185f1e00792822fbe34d509540
+SHA1: a7c9ced3b951cb96e102a823476040cf725a2e5a
+SHA256: 49d58562a9ddc743b8cf9fb54c1b722ff8d83f67f546880b37e1e7a2d6471e38
+SHA512: 08a4d8ca196753e23babe568ac94438f81068450be71cbc1189e4f9a3d49d66fc13206a5380aa724f10cd0cba27551f23e0c108846d2585483210ee4338d857b
+
+Package: libdns-sd
+Architecture: aarch64
+Installed-Size: 156
+Maintainer: @termux
+Version: 0.8-11
+Homepage: https://www.avahi.org/
+Depends: avahi (= 0.8-11)
+Description: Compatibility layer for libdns_sd
+Filename: ../../../../releases/download/aarch64-libd/libdns-sd_0.8-11_aarch64.deb
+Size: 27412
+MD5Sum: 3dacb5d274060b78a9b5f6e2fb5c23c4
+SHA1: 1c87782d47393baab8fa4a237eae976867ff6590
+SHA256: 7cacc543c51609ad382ae0889597feed6a1f47df04fcfcb431ce746fbad79e24
+SHA512: 1ae667dd1018df762a88456c48de302f4e41be049d91101b6746022988e0f5decbb447fb2b8c48a8325ba6ff6806896a49246876bf91c0e7e3a1a51eedbc0e8d
+

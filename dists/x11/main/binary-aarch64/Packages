@@ -13843,3 +13843,18 @@ SHA1: cf7728cb37d520595f57cc4faecb882abc27a28e
 SHA256: b5ceb314ef3786aaeef0f91294b77d89ea7fcd8ca9cc615c333538550d9ba27d
 SHA512: a0c8ef3c88f2319adf0aedae60681d66d0a770d77f14782a10223b72bc9bf8b5a161cea8b478663f67ba2b670a65f6876be5b4eeb8b6abe66a6c8dfd58c72227
 
+Package: mate-extra
+Architecture: all
+Installed-Size: 4
+Maintainer: @termux
+Version: 1.28.0-1
+Homepage: https://mate-desktop.org/
+Depends: atril, caja-actions, caja-extensions, engrampa, eom, mate-applets, mate-calc, mate-icon-theme-faenza, mate-media, mate-netbook, mate-power-manager, mate-screensaver, mate-system-monitor, mate-terminal, mate-utils, mozo, pluma
+Description: A metapackage that installs various utilities and programs for the MATE desktop environment
+Filename: ../../../../releases/download/aarch64-m/mate-extra_1.28.0-1_all.deb
+Size: 860
+MD5Sum: a69fc183c70292536cd5337c232e7d5d
+SHA1: 6a9005f6048d2e9a0ea2f4c6a0f1121ee68912ed
+SHA256: 51fd12feac481d4e42fac7b38d0a8bfc9b74f71381c7e4c9c8574f22207ceea7
+SHA512: c2d25627d138b5a3895a12a9ed66715d30be1f6610fb6e08a6fa32afdb56bc1decfc4b44a14d5f275f991a6b73410ecec4a91e36cf6bab6b92d453d23129a486
+
