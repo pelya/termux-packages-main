@@ -12764,3 +12764,18 @@ SHA1: 2922fb1122e7693a3045494775166704fe74fb25
 SHA256: 4ccb20d32003887ba0f23bef38f776d442ca6e6e442b1ca846bb80651e162c1e
 SHA512: 69e5e2cea9cea7188801cbc87e3f756f5dbc680345a1141a608395143e0a122eca9f7f1142a99298f69ceae8c3526bef0e10866ddfc77c86cdae1de6070b2df5
 
+Package: polyphone
+Architecture: i686
+Installed-Size: 5136
+Maintainer: @termux
+Version: 2.3.0-3
+Homepage: https://www.polyphone-soundfonts.com/
+Depends: glib, libc++, libflac, libogg, librtmidi, libvorbis, openssl, portaudio, qcustomplot, qt5-qtbase, qt5-qtsvg, zlib
+Description: An open-source soundfont editor for creating musical instruments
+Filename: ../../../../releases/download/i686-p/polyphone_2.3.0-3_i686.deb
+Size: 1558708
+MD5Sum: a5df14668ab62f78467f4ab70be16cee
+SHA1: c56cb6ff6f12dcd429634d9775488c1593571029
+SHA256: 71cb180da6387c5f9824368e7a2ee8e827481914f3874130d2cc8ec8c5d0b688
+SHA512: 34473318b5df61e6d39722a2c3abe2e044796bed4db00cf41c3815a67cfc2bd3aca929b0759be1dd3c426d5949da506cff289434f41464a6ab930dace38982ec
+

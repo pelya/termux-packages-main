@@ -37906,3 +37906,17 @@ SHA1: c9e2fd8c261bea3bd9538fbabd3b3c3444e83c06
 SHA256: c3173c0580df660358d0ec03bbd8e7574d357110e17d7a6d09a97a00033f353b
 SHA512: 1a28d30cfb822a460452663c2168b288a037a6474b4cb391b5f2e0d28636c43109125042ca069472711a60b39faccdf4f74edfc7843c63ede015bc0c03164ee7
 
+Package: wuzz
+Architecture: aarch64
+Installed-Size: 9324
+Maintainer: @termux
+Version: 0.5.0-5
+Homepage: https://github.com/asciimoo/wuzz
+Description: Interactive command line tool for HTTP inspection
+Filename: ../../../../releases/download/aarch64-w/wuzz_0.5.0-5_aarch64.deb
+Size: 2567180
+MD5Sum: 9f23c68ae37ef0adfa172652bc61d3ba
+SHA1: 8894c1dbaba18d45849a959b0810aa05309616b0
+SHA256: 616a4ba6221197b239ce8d26a3bfc1076572e527ebf0c2bdc5c17f156be309b1
+SHA512: dcd6a5cd29018b451f899796ff9a4c48db7a0e8cf06aac96e6ebb34b082d85601262edc971c4f7816a2c17e7676092ebd184d966041f52101587d0a92af0cd76
+
