@@ -37819,3 +37819,47 @@ SHA1: 2f371128c0bfd18fa04c70316035b6857a3a9e46
 SHA256: 0acfb79e2b7d29b5459a61c8d12c7c968196b4f0636ee63c3a68a479d15e0a13
 SHA512: cc095a8db9f3ee47669cd63169667737604cfd6fb966acd24b6c58f37cf80dbcf1a3b257bc88ef4d5614f0f4f77937a78df1f0b8a175b3c6d7fca57a1ad9f6e8
 
+Package: shntool
+Architecture: aarch64
+Installed-Size: 336
+Maintainer: @termux
+Version: 3.0.10-1
+Homepage: http://shnutils.freeshell.org/shntool/
+Description: A multi-purpose WAVE data processing and reporting utility
+Filename: ../../../../releases/download/aarch64-s/shntool_3.0.10-1_aarch64.deb
+Size: 58508
+MD5Sum: 66369e5a11d62e58081d65475e548351
+SHA1: ca8352f93bced9a4af8092ea6918318aa00f7f30
+SHA256: e0c516d85e6bd4de605a9a3349cffea875e19b919d6cddde847350f899e3bba6
+SHA512: 33c6e1028d324f259b8bf3ed248820d589dcf99c405ea343d2aa0a00601fc8f6e3b2e96fa47563aeb8e619ce26aa222ae3b7a0e8a188b6de062edcef6cb3c26e
+
+Package: softether-vpn-static
+Architecture: aarch64
+Installed-Size: 6340
+Maintainer: @termux
+Version: 5.2.5188-1
+Homepage: https://www.softether.org/
+Depends: softether-vpn (= 5.2.5188-1)
+Description: Static libraries for softether-vpn
+Filename: ../../../../releases/download/aarch64-s/softether-vpn-static_5.2.5188-1_aarch64.deb
+Size: 624064
+MD5Sum: c1ff5ca52c09b3f655a4264dd9bb9466
+SHA1: a4bf8579839fcd0b4eb5fd55392fc8265d391883
+SHA256: 4416ca0226b9d7df12a15a96e4d21b7afef27bfbea5225fb50c75ebab611ea63
+SHA512: 6a4c98d47cd58a17248a02e529fcf72224d8cc7a07b3966cbe4482450983065db0e48e74afeb28c85bd65b658ebe7cd76f15dc17364cb62df35fe964848d0d47
+
+Package: softether-vpn
+Architecture: aarch64
+Installed-Size: 26960
+Maintainer: @termux
+Version: 5.2.5188-1
+Homepage: https://www.softether.org/
+Depends: libiconv, libsodium, ncurses, openssl, readline, resolv-conf, zlib
+Description: An open-source cross-platform multi-protocol VPN program
+Filename: ../../../../releases/download/aarch64-s/softether-vpn_5.2.5188-1_aarch64.deb
+Size: 4193568
+MD5Sum: 3918d083f55bfca4c050cae1983ec71b
+SHA1: 3202ffbc8a5674ffed399564f985ac504312bf5d
+SHA256: ba1591d720997c7d120dd9f59bd0621826219fbba3ffda0b609e592f17c3f627
+SHA512: 25198caa43e756061a5b7496e0b03c170b48e7f95b967cc6e0f5561fa8aa4487380185e101f2d158750dc5429fc5c0b64e583bade84bd0feb6e78281c46024d9
+

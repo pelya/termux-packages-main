@@ -37788,3 +37788,47 @@ SHA1: 2f371128c0bfd18fa04c70316035b6857a3a9e46
 SHA256: 0acfb79e2b7d29b5459a61c8d12c7c968196b4f0636ee63c3a68a479d15e0a13
 SHA512: cc095a8db9f3ee47669cd63169667737604cfd6fb966acd24b6c58f37cf80dbcf1a3b257bc88ef4d5614f0f4f77937a78df1f0b8a175b3c6d7fca57a1ad9f6e8
 
+Package: shntool
+Architecture: x86_64
+Installed-Size: 336
+Maintainer: @termux
+Version: 3.0.10-1
+Homepage: http://shnutils.freeshell.org/shntool/
+Description: A multi-purpose WAVE data processing and reporting utility
+Filename: ../../../../releases/download/x86_64-s/shntool_3.0.10-1_x86_64.deb
+Size: 59700
+MD5Sum: dfbc2bd6f3d174319f4fd53e0bfd3b4e
+SHA1: 893fd5d07b681614d5bfd1a6d1178d7ae23952ab
+SHA256: 8971a34687cb2126d48fb70ed7d3e190a9f10ca1cee99d809af579c45de46638
+SHA512: 245d31fff0226ab2c0b1dd134c0678d2659f4d9e8f62ebac58f07a84c9fa6f85f7affff2f3d76896ba7dbc72fd1febece214afd679704043b84643e9c4246a19
+
+Package: softether-vpn-static
+Architecture: x86_64
+Installed-Size: 10000
+Maintainer: @termux
+Version: 5.2.5188-1
+Homepage: https://www.softether.org/
+Depends: softether-vpn (= 5.2.5188-1)
+Description: Static libraries for softether-vpn
+Filename: ../../../../releases/download/x86_64-s/softether-vpn-static_5.2.5188-1_x86_64.deb
+Size: 804348
+MD5Sum: 6790469785cf18fb000f4fa1cc67b4b5
+SHA1: ef34f7f31c2d6495b4c8aebb95344ff99482cf7d
+SHA256: b67c5ad778580ec2178f7632dc95b04586b3eff8c83bf7399a17ca6371f043e9
+SHA512: 6eba267d3eca506ea4517114ce3367cf44b6df419f6d7b413a68cd92dcce72760f2aed9a836e7788db21ff79aa56413f2516ef87406d844f339f393e7a8b1b1e
+
+Package: softether-vpn
+Architecture: x86_64
+Installed-Size: 29428
+Maintainer: @termux
+Version: 5.2.5188-1
+Homepage: https://www.softether.org/
+Depends: libiconv, libsodium, ncurses, openssl, readline, resolv-conf, zlib
+Description: An open-source cross-platform multi-protocol VPN program
+Filename: ../../../../releases/download/x86_64-s/softether-vpn_5.2.5188-1_x86_64.deb
+Size: 6899812
+MD5Sum: a6e16b6bd6ef82201c5734de9ee6c6ba
+SHA1: 946890e3f46435a9c310b2623a35c28d507f2b98
+SHA256: 013f917e0d294a367d77b303423034d13b1781630a96695954d1fb2073a69868
+SHA512: 408a2b36e8f954c8a1436d83928936f97dcd0f028d2398585ebee5e24ac65d5f64f1b13f2aebcd8d6827674268cdbb2b2ee8b6726b12eb1e07e8467260618b74
+
