@@ -39188,3 +39188,31 @@ SHA1: 8704cf1570c1474d166d5a7dae260bb343959d26
 SHA256: ca6973c0d80c183da477d6bd242e97805722db3e5679c31f4e2dc763fb262e58
 SHA512: 7734cced14daee0ce622ea877e72ef4a3f2071567f6be8abf9d6b2b08db3b9c979e167cfc33061ad6d6e58b76f74546c3b254ae52cbf373818d3f2ec2a593c59
 
+Package: micro
+Architecture: x86_64
+Installed-Size: 14560
+Maintainer: @termux
+Version: 2.0.15-2
+Homepage: https://micro-editor.github.io/
+Description: Modern and intuitive terminal-based text editor
+Filename: ../../../../releases/download/x86_64-m/micro_2.0.15-2_x86_64.deb
+Size: 4213796
+MD5Sum: 059bd64240e7d33e3dfb1a089a49f563
+SHA1: 4feeb967d759114ab31f942330532f554cb46a06
+SHA256: d9f958f9726c2a315c76a52cdb033fb89b7269edd8e4e2b0e8c6ef4d15e14594
+SHA512: 3563cd58e5c026801da960dee6b77e89fa654e3ef73b09fa40adf605d0cb2b1cc52166e3cd39c3d03012a4ecc99cc703e43bc909cb2eed963ac0e60e62fdcb8e
+
+Package: teseq
+Architecture: x86_64
+Installed-Size: 236
+Maintainer: @termux
+Version: 1.1.1-2
+Homepage: https://www.gnu.org/software/teseq/
+Description: Tool for analyzing control characters and terminal control sequences
+Filename: ../../../../releases/download/x86_64-t/teseq_1.1.1-2_x86_64.deb
+Size: 49544
+MD5Sum: 3868f9638cf80a4bbd4299487698b2b6
+SHA1: c8b07d044b0f945578cd6a1ce43924f0eb7678af
+SHA256: 09a49349910d430fe8bdfc7aae9c01e81b2267b72e8937f3c606392e848eca98
+SHA512: bb66b51b5b55c50f9c422f5551541b1b854685bc74e58dfc80cbcfd9f37c095ebb1b04170b677486aae69e7ffc3a7aa9bf64795984f137c5f00d80624ae7a110
+
