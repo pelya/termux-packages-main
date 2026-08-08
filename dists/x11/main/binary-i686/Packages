@@ -12980,3 +12980,18 @@ SHA1: 88f0311d96610153f9b481882e2b821f540ada5d
 SHA256: fb388f6800cb339f1b18b524740e1ed9a29061e17375f88e586c2173521673cb
 SHA512: 343e796f0852321be19abd7f8cef6bc454e707a58b91c3c77d58de46fbb0e06b694bfb070e8fd397fa502ee0d6eaeb1c58b7ebd27c801c54275b263280ae1ca8
 
+Package: kmouth
+Architecture: i686
+Installed-Size: 2896
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/accessibility/kmouth
+Depends: kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-ki18n, kf6-kio, kf6-kwidgetsaddons, kf6-kxmlgui, libc++, qt6-qtbase, qt6-qtspeech
+Description: Speech Synthesizer Frontend
+Filename: ../../../../releases/download/i686-k/kmouth_26.04.3_i686.deb
+Size: 1575544
+MD5Sum: 9017c06ca901b2e462de20e111e7a437
+SHA1: 0723b4f8a60b81c49fa900b64f4c5789697f296f
+SHA256: 5869e473a33d3c2fa5c07d425a09c72568c923f00e2b1739ee25fe19b8bef3a7
+SHA512: 45962e7f0fbf00353bbf2340067245e37c8b39353d97556139aaae9b64f94c35fda8b081b3b4eec577242423ca0fe3b80a45373dae54a96d7adbb7d8af30bf97
+

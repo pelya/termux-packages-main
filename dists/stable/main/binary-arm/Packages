@@ -36413,3 +36413,17 @@ SHA1: 04d9659024b8960b7649a443d4f8127b280036b9
 SHA256: 5e2e821c3fc8866658dc3079afe45905f1e919ffc403b812dba4599004e565c0
 SHA512: 20c5ea49e58eb06860e3d6ee6ec54aa60279640e1f2bac405aaa470ffc4046bf00e44db385b833cd078715abefc97986fce748ad62adea300689cea5742047ad
 
+Package: sing-box
+Architecture: arm
+Installed-Size: 32608
+Maintainer: kay9925@outlook.com
+Version: 1.13.14
+Homepage: https://sing-box.sagernet.org
+Description: The universal proxy platform
+Filename: ../../../../releases/download/arm-s/sing-box_1.13.14_arm.deb
+Size: 8297748
+MD5Sum: 0dac63de854933dc65fd06b79cebf5bf
+SHA1: 5154547ff35fa8b4f9db248e7a05c9fa9314a8ce
+SHA256: 84315173c9d8f84341d5fbc1133ecd742379fdbdc18968b2ad7ca90a4b95e61d
+SHA512: fe189d1429842a4e6004bca058f94a1a5d89f25de11efa5fe55f7fad569d2b69717acafe38a58130fe5d07d01ef60274d7d1e0a27e2c668ea4dd473a35d0c023
+
