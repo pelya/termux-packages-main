@@ -36844,3 +36844,48 @@ SHA1: da79708ff49347e7588aaa45d70d952138221eab
 SHA256: 5f0f6b8cf2aa75fce70c63f52ce4b87d69fb13c6f6b00a3537589fd7944ea6c4
 SHA512: d68a809fd233146da52e10f869297a54e2bb213e8ad92b7f071fd36096874c8ab00d19325505bdee1c7b45826921cf113970cccd7f9df6a7f022616b9ac5f38d
 
+Package: brainfuck-static
+Architecture: arm
+Installed-Size: 36
+Maintainer: @termux
+Version: 1:2.7.3-1
+Homepage: https://github.com/fabianishere/brainfuck
+Depends: brainfuck (= 1:2.7.3-1)
+Description: Static libraries for brainfuck
+Filename: ../../../../releases/download/arm-b/brainfuck-static_1.2.7.3-1_arm.deb
+Size: 3236
+MD5Sum: 8600ffa1b78f680445ab20077d085315
+SHA1: 96753345edb97e89b9caa00aacac49704b332699
+SHA256: 447f1cf2b4728a9cff1e449c95ec1ec767843e07a08254b93521890ad45e49d4
+SHA512: 1aa09b21ec5400d39434c6ae6b46ae8842c1c5c4e06cad881c3b78ca7427209b9488eba7b16a01b2017c372e7e3990846ae13cfe56bc0f135ac7392605ff3567
+
+Package: brainfuck
+Architecture: arm
+Installed-Size: 80
+Maintainer: @termux
+Version: 1:2.7.3-1
+Homepage: https://github.com/fabianishere/brainfuck
+Depends: libedit
+Description: Brainfuck Interpreter written in C
+Filename: ../../../../releases/download/arm-b/brainfuck_1.2.7.3-1_arm.deb
+Size: 7352
+MD5Sum: 1f4f1726029022d549fecade518681a6
+SHA1: c1d429a98e0e96218454cabea7d01636a6245666
+SHA256: d258ae638d1d8fa70c10194fecd9bcae7c6ae2cf4fd88ad71fc5d012c8865a61
+SHA512: 4170ec4104ddf3d3f0ac7571fa2270dabac85119d2136b38afdc901c77d5c0276bfb701d773d4bec68280ee07aa3b7ccd1c9e18ef9fa052ac15dc25d8cf27f80
+
+Package: links
+Architecture: arm
+Installed-Size: 4196
+Maintainer: @termux
+Version: 2.29-2
+Homepage: http://links.twibright.com
+Depends: brotli, fontconfig, freetype, glib, libbz2, libcairo, libevent, libjpeg-turbo, liblzma, libpng, librsvg, libtiff, libwebp, libx11, openssl, zlib, zstd
+Description: Links is a text and graphics mode WWW browser
+Filename: ../../../../releases/download/arm-l/links_2.29-2_arm.deb
+Size: 2845716
+MD5Sum: 041ce2480905e62b1636bb66a1f70461
+SHA1: b388919be585f6309749c80c2844ec1ed3a4ec50
+SHA256: a2ab2f21bbb02c8b13efbb5c288af9562493c683dd147154cfb4aa1d2b350e91
+SHA512: 73a7c7b122a6fef6c94fbdb42128176c3b9236619729754202d982c845601385bbf2c4e1a6255c4cd7d840be2cca97ff6429e2bcb6289aba795feab5a076024c
+

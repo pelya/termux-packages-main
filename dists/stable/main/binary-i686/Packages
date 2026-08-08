@@ -37607,3 +37607,48 @@ SHA1: fc7caaea09ed1adf323c0605de7de044c614bb05
 SHA256: 5061f2ad005f6c71e9023cb0e008f9c7f16e0df8032a69854f53d5088f68aa00
 SHA512: 2d3cddcca3c562a5bda675fc154420bd33c38e20b1e941402f8d6468ca34614e6651f0b1462781928db80d2adfde93293e8a91b7a9c7b6957fc5b51f7448840c
 
+Package: brainfuck-static
+Architecture: i686
+Installed-Size: 40
+Maintainer: @termux
+Version: 1:2.7.3-1
+Homepage: https://github.com/fabianishere/brainfuck
+Depends: brainfuck (= 1:2.7.3-1)
+Description: Static libraries for brainfuck
+Filename: ../../../../releases/download/i686-b/brainfuck-static_1.2.7.3-1_i686.deb
+Size: 4072
+MD5Sum: a9232072995ca4b6e7fc1c25de4dcad0
+SHA1: 9e45691cc5c37c28412ba3ff5a42aa4527811bb7
+SHA256: e19371cf896abab1f8eccbd22c2a087ea6ed3a994e1bc812fdcf97337d3c72d7
+SHA512: 937048dfdbf2332b77ee9e66b0da173c9b118c3501b3d0f41890e858b6ce8d4de2e8b3ec79f5cf14afe12a00f297a812dfe154b9e975fffb7a5c2eb9ac4e5adf
+
+Package: brainfuck
+Architecture: i686
+Installed-Size: 84
+Maintainer: @termux
+Version: 1:2.7.3-1
+Homepage: https://github.com/fabianishere/brainfuck
+Depends: libedit
+Description: Brainfuck Interpreter written in C
+Filename: ../../../../releases/download/i686-b/brainfuck_1.2.7.3-1_i686.deb
+Size: 8316
+MD5Sum: ad24523afe62a8a060e394b9f0dd3348
+SHA1: 38f9fe0348c48bc83b6d211f3bb128d90b8b4f62
+SHA256: 4969dfe922a5af85d2c5f4c144d18fc5c1c224c584e1a4b5c3bd86f641552a59
+SHA512: f31336ca34d83e8bba96d9c507a6f7ac8f0e4ab1e677598a372dda3cf2267d017c4322bcecf26d79f3a407c7c59e5d778f45e9f9a6a7362885c0b1a92dde851c
+
+Package: links
+Architecture: i686
+Installed-Size: 4452
+Maintainer: @termux
+Version: 2.29-2
+Homepage: http://links.twibright.com
+Depends: brotli, fontconfig, freetype, glib, libbz2, libcairo, libevent, libjpeg-turbo, liblzma, libpng, librsvg, libtiff, libwebp, libx11, openssl, zlib, zstd
+Description: Links is a text and graphics mode WWW browser
+Filename: ../../../../releases/download/i686-l/links_2.29-2_i686.deb
+Size: 2885624
+MD5Sum: 3df34b5a1b99d4d9caebbec122fe0e15
+SHA1: e29e42341943125f74949c966e7d388bcc50b13b
+SHA256: 24f86892f11c5a53ec61e59e7786340c3f034df152f1f7c0df68fd072ce57a1b
+SHA512: de65d7687bbb206f640405615c21f375a383a8eae285d2f1d20ab3469e72580fd86bae4148b69a5a65cb4899c39eee450c3b5ecc8eaa317fa5d39eb8e32c570e
+

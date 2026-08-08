@@ -38610,3 +38610,48 @@ SHA1: e286b383ad238c8e0e09d17e1ab895b3ba5bee9d
 SHA256: 3bed430768f88b6371067e668a445a2ddff24c49cfd8a552602ba450e683a023
 SHA512: 2481b59adac7bf7c7d581e9b9e6518b7cf591280d9cbe63a82007dac931b26d07d4a5479ee525b330499883f097591663c62453aa3cd0072a0ffb4d14f4ea6e2
 
+Package: brainfuck-static
+Architecture: aarch64
+Installed-Size: 40
+Maintainer: @termux
+Version: 1:2.7.3-1
+Homepage: https://github.com/fabianishere/brainfuck
+Depends: brainfuck (= 1:2.7.3-1)
+Description: Static libraries for brainfuck
+Filename: ../../../../releases/download/aarch64-b/brainfuck-static_1.2.7.3-1_aarch64.deb
+Size: 3584
+MD5Sum: 1b113cf34283d59d9e63a549a2c5a36f
+SHA1: 15c5c7a94620306db3b4ad727eb0648839110e86
+SHA256: 5bf76ab6e5055c141e1e8e28a300f18682b5995615a282b17a203022e62aa287
+SHA512: 3cccf501115b950caeba6aa6c1063f4ea7f134989627d5cbff74763181c17d64a1290036d240472296149db7284def009ac7ed65790c2704e13bb6f4bc78ae66
+
+Package: brainfuck
+Architecture: aarch64
+Installed-Size: 88
+Maintainer: @termux
+Version: 1:2.7.3-1
+Homepage: https://github.com/fabianishere/brainfuck
+Depends: libedit
+Description: Brainfuck Interpreter written in C
+Filename: ../../../../releases/download/aarch64-b/brainfuck_1.2.7.3-1_aarch64.deb
+Size: 7952
+MD5Sum: b863e37ca542b6f5da8f1e92e8910f42
+SHA1: ae4323c6f42b8f59169f2ed49217a45f700d8fc2
+SHA256: da5f7be5cb1a1b5fc0a0b3a851d0454019b21f1e18403a69517352b1617f72d9
+SHA512: 7c2d294194996bd3165d3a55fc8e3426644f03dc4d704ef7e60b210a637419f8b0a074a4e00d4267b714f2056616d38a987c24eaec69f39ccbf078e82bfae8a7
+
+Package: links
+Architecture: aarch64
+Installed-Size: 5156
+Maintainer: @termux
+Version: 2.29-2
+Homepage: http://links.twibright.com
+Depends: brotli, fontconfig, freetype, glib, libbz2, libcairo, libevent, libjpeg-turbo, liblzma, libpng, librsvg, libtiff, libwebp, libx11, openssl, zlib, zstd
+Description: Links is a text and graphics mode WWW browser
+Filename: ../../../../releases/download/aarch64-l/links_2.29-2_aarch64.deb
+Size: 2887968
+MD5Sum: b6ecb5720aa9fe6e21595de8af0da7c2
+SHA1: 8bdffa4cb7eed213dd091b1944df0dd78e9a379e
+SHA256: 0d53801d7cf6dea9d581f58218bbcf975ba3b363023db4c5cb331d43c7420754
+SHA512: 936f4b92e397cf7409e070ad2fdaaefccbb8a13218d3704bbc15fdc51b4af778f225c0189849dceb8e87a9aaf54c55386f2dc2aeeb78d17329aa90da92fb3a58
+
