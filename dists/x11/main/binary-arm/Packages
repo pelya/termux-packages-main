@@ -13872,3 +13872,18 @@ SHA1: 995a5461ba8aacb25892d7cf822e3c8d40b02f13
 SHA256: 6c2860a14305dbc7567f8f13887824a5bce4b9d1cb84f0a549867cf87a40d3ae
 SHA512: 5eff623a3badc5ebfa78dd4d8485dc25b1a7276860d0f26211e12974564533235c1bf8a39ab6cb10ad22670b8c04d54ec5ee5bec65247803d83bf601f3316c7a
 
+Package: lxqt-qtplugin
+Architecture: arm
+Installed-Size: 140
+Maintainer: @termux
+Version: 2.4.0-1
+Homepage: https://lxqt.github.io
+Depends: libc++, libdbusmenu-lxqt, libfm-qt, libqtxdg, qt6-qtbase
+Description: LXQt platform integration plugin for Qt
+Filename: ../../../../releases/download/arm-l/lxqt-qtplugin_2.4.0-1_arm.deb
+Size: 30320
+MD5Sum: db5f4dbabf97d583a70e810b7c3f90fa
+SHA1: cc62488a9dc703f3c2cdc61f7f6b322d9eab7915
+SHA256: 3d2d71d9cda153550ec2d11d68a7d922614cb2d2a6cc2935341614ba558147fd
+SHA512: e97fe882d9b8e53803ca70facecbe8e863669a265b9b7093e79ea7056d75a57b85d34195b115a825c32887c2ccccc9b5164746fe1f627fa90cf918480a5450f2
+

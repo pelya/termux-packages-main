@@ -38451,3 +38451,17 @@ SHA1: b745d9a2b9477c8be9b65ac6da2bde4a449eab76
 SHA256: 99e7c3942b77f48b7ee813e3539c0956ab40fc999b66cd5330aff15f8bd9737b
 SHA512: 69a21622745571fcaf53fbd7c2790e8eb12ee2e54b6221f1920243c734bb2350721c239d550d3878496229335244867fb6f96b9e46eacc38ce83e2e7bc8591dd
 
+Package: hummin
+Architecture: i686
+Installed-Size: 7292
+Maintainer: @termux
+Version: 2021.05.18-4
+Homepage: https://trantor.is/
+Description: Command line client for the imperial library of trantor
+Filename: ../../../../releases/download/i686-h/hummin_2021.05.18-4_i686.deb
+Size: 2500124
+MD5Sum: e876e32aa7f6b752a53233aa3c3c6711
+SHA1: a729a90a8acaf83bd6fa9eec63d7677af076c678
+SHA256: 7633656ef7b461974dfa005e2e3c6bfaf59d5e8c55f3d038fc64f56e13e075dd
+SHA512: e67f403e7f9116493a575cd5e6a0e610b7b582c54611252b6d5e3d24f4bc479b6ba6f579bde73dbe570782134ed651baf272345486597d5cd6a4b2fbd0c21c7e
+
