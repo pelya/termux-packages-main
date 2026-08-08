@@ -38655,3 +38655,18 @@ SHA1: 8bdffa4cb7eed213dd091b1944df0dd78e9a379e
 SHA256: 0d53801d7cf6dea9d581f58218bbcf975ba3b363023db4c5cb331d43c7420754
 SHA512: 936f4b92e397cf7409e070ad2fdaaefccbb8a13218d3704bbc15fdc51b4af778f225c0189849dceb8e87a9aaf54c55386f2dc2aeeb78d17329aa90da92fb3a58
 
+Package: elinks
+Architecture: aarch64
+Installed-Size: 1388
+Maintainer: @termux
+Version: 0.19.1
+Homepage: https://github.com/rkd77/elinks
+Depends: libandroid-execinfo, libexpat, libiconv, libidn, openssl, libbz2, zlib
+Description: Full-Featured Text WWW Browser
+Filename: ../../../../releases/download/aarch64-e/elinks_0.19.1_aarch64.deb
+Size: 416156
+MD5Sum: 351aaa2b6a758a4fda4ce27aa1a7fe96
+SHA1: 49d34cdb3ee069408f19e0975acd6dc391839e78
+SHA256: 03f7c28b615c52c48d43f8dcd35ee1d99b7a816eae01ad7b4668f0eb907c2222
+SHA512: ad780ab323ebecbbd94a66b955b854843e04bb70be1c1b9d66ae87c65782008331091be31c93d22278c1d6a4c0febd2f6577c01e6be9568bef73da9114777489
+

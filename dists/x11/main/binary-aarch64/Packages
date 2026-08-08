@@ -13766,3 +13766,18 @@ SHA1: 5610ee6864bc299fbcc3b1e3027024016cedd339
 SHA256: 196e477f1f1765d937383ec231dc3e2dce408c6587f8352f46c4d586f50c5f3e
 SHA512: a5b36c70186197dcf95dc2dde9ce4ebc052ddb0218418da67929330f88d386f98cde2652373b5a8f0787fa3ac563e77f999148d194016b6adf1199edd7b5346c
 
+Package: accessibility-inspector
+Architecture: aarch64
+Installed-Size: 392
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/accessibility/accessibility-inspector
+Depends: kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-ki18n, kf6-kxmlgui, libc++, libqaccessibilityclient-qt6, qt6-qtbase
+Description: Inspect your application accessibility tree
+Filename: ../../../../releases/download/aarch64-a/accessibility-inspector_26.04.3_aarch64.deb
+Size: 68880
+MD5Sum: fce9421f3053b7411491984d0939d485
+SHA1: 0c027083cda5ce018fa38777c026eace1dda7c64
+SHA256: 7c3a0dc01d5349ded20e3ad8977b1afe9b71fec3ac3cfa27da76a78d8b6b8f18
+SHA512: 25e55d15d899b0dcd035eb10eac6a6ab04b01142ec7cd1c561eb000d2e15a6af0cc446f531da5b830c5611fad8f1aafae97f2cddc6f346b8114d7745a907584c
+

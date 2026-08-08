@@ -13463,3 +13463,18 @@ SHA1: 340b715fe838fb2ad4790208aa917b68b11fc369
 SHA256: 0dcd3c5e42eeb91f1fd84cba41753d085b0ef54ee71df1c726ed4af08b8e6f19
 SHA512: 2d6f943af63071ffabe39e02938b8f8d08a69c5154dd515ee5fb1ebae0f7240f68c5e93f484a701524159c48f1af5fac929ce5d6a6c1c4c60bec6345597b3a1c
 
+Package: accessibility-inspector
+Architecture: arm
+Installed-Size: 300
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/accessibility/accessibility-inspector
+Depends: kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-ki18n, kf6-kxmlgui, libc++, libqaccessibilityclient-qt6, qt6-qtbase
+Description: Inspect your application accessibility tree
+Filename: ../../../../releases/download/arm-a/accessibility-inspector_26.04.3_arm.deb
+Size: 64852
+MD5Sum: 1dbb0b4cb1bf8166c8ac7658ffcd435d
+SHA1: baf4f8be081853d90179478342c42a373ad97d96
+SHA256: d14ca06f7d3a2b3c7806269433248787aa0b3566c50cb7f1a82beee23a9ce6d6
+SHA512: 54f6e544a3b600c15ca27bfc86e1b8cde679307b95a835eb9a907846ce245b4713ee894f4737eba4d3ffb60da3db3472728e7220cc6574b758eeaeeeb4291bda
+

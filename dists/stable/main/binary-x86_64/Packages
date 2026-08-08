@@ -10523,37 +10523,6 @@ SHA1: 7636f0dc667114e30133fdfce76d0fa0fda6ff31
 SHA256: b42a86e17c3308ec1c6a27f59af999f50140338e8a79184fd5605ef9680e8405
 SHA512: 2b1b9c2345d48fb08d0ae2f064c56028c341074823ac5d1a1d2def925e4d5bc7260b5a79d90d68283bb505c8df4259bb40237e3436991bb9d97327898bac84f4
 
-Package: libandroid-execinfo-static
-Architecture: x86_64
-Installed-Size: 36
-Maintainer: @termux
-Version: 0.1-3
-Homepage: https://man7.org/linux/man-pages/man3/backtrace.3.html
-Depends: libandroid-execinfo (= 0.1-3)
-Description: Static libraries for libandroid-execinfo
-Filename: ../../../../releases/download/x86_64-liba/libandroid-execinfo-static_0.1-3_x86_64.deb
-Size: 2328
-MD5Sum: 26ed5077e3e8b81ff41468f6b3cdd7e3
-SHA1: 3af76a61e5b27fc0fe921ff84fb9c970cae812c9
-SHA256: 75adf2442c6b455202159fa9dd86ceaa8ae2738296306d6599f745dfa37a74c7
-SHA512: 9bdb6feafad0ccb44aec5479ca2b01a368cea9581a8aa8030d3eca25eae9896365b89158e446d8cda56f278649f062f537119315a28a3dc5cd59e7f558921aec
-
-Package: libandroid-execinfo
-Architecture: x86_64
-Installed-Size: 88
-Maintainer: @termux
-Version: 0.1-3
-Homepage: https://man7.org/linux/man-pages/man3/backtrace.3.html
-Conflicts: libexecinfo
-Provides: libexecinfo
-Description: Shared library for the backtrace system function
-Filename: ../../../../releases/download/x86_64-liba/libandroid-execinfo_0.1-3_x86_64.deb
-Size: 15128
-MD5Sum: af5f4272a10f7db51305df1e8a8a5dae
-SHA1: d75675848af1ddbf7a869529b765d607766222c2
-SHA256: fc0d3d6ce7a65c07689c26a3c8792bf696e0e363517ad91bc0d1cf850a342aca
-SHA512: 43a904e71a7af541a4cd53abf8f0e6f969ebf6af9b664b7d99a607e99f8cb76ff995084d710b359b2dab0185b0772d9a51ab5e6f7e8a3f40a598c9c202c494ec
-
 Package: libandroid-glob-static
 Architecture: x86_64
 Installed-Size: 40
@@ -34674,39 +34643,6 @@ SHA1: 91e3eb9b6249d8c31bf9a73dd5e8ec49c611daeb
 SHA256: dd93727d67f4efddac93f444416e8c943fd0af93e25d5f5c766c4a079c26db38
 SHA512: 42d40096eeb889a3ef06fb425a31fe8d0da445a920c7242552f907a9868145c036021a991f6a089fc1f8529ac0808f731648df1690b08281569352590cad6fe2
 
-Package: bzip2
-Architecture: x86_64
-Installed-Size: 120
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Essential: yes
-Depends: libbz2 (= 1.0.8-8)
-Description: Tools for working with bzip2 compression
-Filename: ../../../../releases/download/x86_64-b/bzip2_1.0.8-8_x86_64.deb
-Size: 26784
-MD5Sum: 1cdaa37d2a581485bd6b6c9428d53744
-SHA1: 3316c47e3cf17ead38c14b3fe7fa4cf338aaacf6
-SHA256: 675486142882e65a51c5335d7f5b9abc033ba42ed1488f76ba7ec6a7d072b0ce
-SHA512: aee1ed01c95aa70e866ab2ffadb638dae5bc597934e36268f34853d49144ba781dc0b25b13a4542b6b3fad18bc9d06aa59e6c9fb3feefe9479efb0300a22b157
-
-Package: libbz2
-Architecture: x86_64
-Installed-Size: 112
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Breaks: libbz2-dev
-Essential: yes
-Replaces: libbz2-dev
-Description: BZ2 format compression library
-Filename: ../../../../releases/download/x86_64-libb/libbz2_1.0.8-8_x86_64.deb
-Size: 27580
-MD5Sum: 86e69321e37ecc9286b7dc7bac87eeaf
-SHA1: 8209c49e006e01fcda3cb0dc2f143ca6e7a5adef
-SHA256: a3a2669a9e17cd52bbd2faf7bcb32ab0336834d772f88bd360f04386ab5a4823
-SHA512: fd5f13c1c7a5596617cb8e62ba4af2263d141318fd28926518a4f5f6d43f1a7f1e00dff9f4f256be7839cadcd4f397be78b6bd9b29e2fe9bbada1135598945e8
-
 Package: mazter
 Architecture: x86_64
 Installed-Size: 1284
@@ -35018,52 +34954,6 @@ MD5Sum: 54fc846f95fe2283b0e2c31208c5c1d0
 SHA1: eacbe5033b9f44b0a117b186641d690637753e37
 SHA256: aa647e44457b35af8fd70101b31c38221dd047c8a86ecf36e227f6d6466f9355
 SHA512: e54b3b8b664c433eaad65e50a7c11dbcaadb088f831cb38a06899485d62057d3614edf1143d0692a98d243c192b6358dd141e64ba72dea35968ab6c0515a415b
-
-Package: iconv
-Architecture: x86_64
-Installed-Size: 56
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Utility converting between different character encodings
-Filename: ../../../../releases/download/x86_64-i/iconv_1.18-1_x86_64.deb
-Size: 10176
-MD5Sum: 3b14ecd218ca56e6d4c5fb8b14f3c354
-SHA1: bd1bd02b30f0a4f22938464b53145593b588fdce
-SHA256: 82046444ba3343aae47e317a1aff588034f2d24987ee62867b500b7d8dd1b982
-SHA512: dbf92a3d9e9d2c500c26e8a1590a6e4fb354cedb70ad895e0ace97ab4b007660986694dfde149a14cf3b94a931415edf8920de89e4f0afc8d44a1c9a3a621b95
-
-Package: libiconv-static
-Architecture: x86_64
-Installed-Size: 1200
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Static libraries for libiconv
-Filename: ../../../../releases/download/x86_64-libi/libiconv-static_1.18-1_x86_64.deb
-Size: 555540
-MD5Sum: fb516f4f44f4aa3b667d0f5a769b0fd9
-SHA1: 91fc1f50418e50f94f6bd144f6253881c4d62dfe
-SHA256: 2855c33d37719830cbdbe88b43fcef71ae9fdb8e7053d0b526cd2f18314267a3
-SHA512: 8d0ceb600dc9fc10515ba4dd0094b30dfc044855def0412b33f2fd96e5e155cc11b3c303d48f028302c4938cbe06326e1748b905bb1b0efcf4ec59334a397744
-
-Package: libiconv
-Architecture: x86_64
-Installed-Size: 1216
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Description: An implementation of iconv()
-Filename: ../../../../releases/download/x86_64-libi/libiconv_1.18-1_x86_64.deb
-Size: 562620
-MD5Sum: ec25efae70760fc30a280e311b63d015
-SHA1: 0b710740c11521bf0fc445c619dd1cd4bce0b8e7
-SHA256: 3beff461efd2ef55200af63e81fa87db4a36a184cf0f855a4a7b0bee43992f70
-SHA512: 6a0635b81976c2674d5daee5299f2dcd6a2b622737882f3cb469f1479ae85fb10846f8fdf658f7aedde1e552615fed28aa2288f24d4d16a96df66fb26f45d24b
 
 Package: libmwaw-static
 Architecture: x86_64
@@ -37862,37 +37752,6 @@ SHA1: 09c39bba37a478abd6e7046bd4317f62be0b3499
 SHA256: d43ae2edfd590a3d7ec192211bf072f8a392f7e23402d9d798e5fe4c37ea145a
 SHA512: b111f82a4af1681abb8c2e65d7df41d122882ec95cf2cf69b8c282c4cf56e13abd6f02217d1bcad3c79ce5344db0766b9c003a039215059540ad0867c7c3c676
 
-Package: libexpat-static
-Architecture: x86_64
-Installed-Size: 280
-Maintainer: @termux
-Version: 2.8.2
-Homepage: https://libexpat.github.io/
-Depends: libexpat (= 2.8.2)
-Description: Static libraries for libexpat
-Filename: ../../../../releases/download/x86_64-libe/libexpat-static_2.8.2_x86_64.deb
-Size: 65444
-MD5Sum: bf588fcab3a172bd916d8fd44246abce
-SHA1: bf87ae0e9ad6f54e1dbb2f99f23c5087085f42e0
-SHA256: 1a5c5bb67b986bb22b0c3d0ba5feea67c89819e5b9934e78e87d517d15051dfe
-SHA512: c00f6af0474fefceafd52bf628b747a4a75adbccfbbcaab1f1d76897f39a7c8190eefdb6b7bfc92c9c35be2ebf4649116553b5f677b8e4f019aac1a083fe2474
-
-Package: libexpat
-Architecture: x86_64
-Installed-Size: 412
-Maintainer: @termux
-Version: 2.8.2
-Homepage: https://libexpat.github.io/
-Breaks: libexpat-dev
-Replaces: libexpat-dev
-Description: XML parsing C library
-Filename: ../../../../releases/download/x86_64-libe/libexpat_2.8.2_x86_64.deb
-Size: 101308
-MD5Sum: ecb45058d5c05f28dde5a45f1c9cce98
-SHA1: a9c617c360ef8135f9ce2e304185f915b9840e7a
-SHA256: 7c1fe953513e1a9dba2f1bd4cda168700f1188aa5b4f5e5d53a705af495261fa
-SHA512: d0557a225d134376c0573d4130ed9062f722372a5821dc840ffd61d123d3823e80f1acb19c1b4a83ee8ad7c5883a5dd9b74a2ac1f8ee5307aceb3e0c65e18ae9
-
 Package: netsed
 Architecture: x86_64
 Installed-Size: 60
@@ -38623,4 +38482,160 @@ MD5Sum: 69e1b6df2fd5470ec784f90de768f048
 SHA1: a1706f581d6f8ddce597250661e04dfab321df71
 SHA256: e3772b27093e53e1e84b1ec5848221e5eaff2cd3af0ba48df42f14ede8e4c6c4
 SHA512: 678022b39b4640aec2c5f7fdedf3100be3b0c28aea3239aa72c2d224dba9f93a3e2bdf96695e78c375434d260fc81c1ac2baf36cfeda82aa094909d0f119f9b1
+
+Package: bzip2
+Architecture: x86_64
+Installed-Size: 120
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Essential: yes
+Depends: libbz2 (= 1.0.8-8)
+Description: Tools for working with bzip2 compression
+Filename: ../../../../releases/download/x86_64-b/bzip2_1.0.8-8_x86_64.deb
+Size: 26784
+MD5Sum: 5434c025c4109e968f9dd6df0dce0e32
+SHA1: 5fd569fa21a72581951110d7178bf78cc43f37de
+SHA256: 87ec3acad8cab3345dfcecf96c6fc6e465caca06938b86574dee41d7e454728f
+SHA512: 20419f9edd67fe9f1d2bb8e22130b83c4c71a924f28705c72dadd077be31fd7c704ba64c289df938af94af94f77d28b8afa5c4a9de697a84e8942228e8a2ff05
+
+Package: elinks
+Architecture: x86_64
+Installed-Size: 1356
+Maintainer: @termux
+Version: 0.19.1
+Homepage: https://github.com/rkd77/elinks
+Depends: libandroid-execinfo, libexpat, libiconv, libidn, openssl, libbz2, zlib
+Description: Full-Featured Text WWW Browser
+Filename: ../../../../releases/download/x86_64-e/elinks_0.19.1_x86_64.deb
+Size: 444912
+MD5Sum: 3da757b05bfd2b8823781ae3c019399b
+SHA1: 0721c65076903df3c1328e7bfe2d7a3c3bb33272
+SHA256: 672cfb113ce765711d4d9d4d57e2d09f1640df65f1b14f71651c5870685b930d
+SHA512: b856888bb7ba9a90c1589c1626dc24dc3fff48c9efb7fc8c0d8ae46ace6811e9d1f25bc44ea114ebb2f8d51c2fa53a05045bf150cbc3f3ec0fe656955dd3f925
+
+Package: iconv
+Architecture: x86_64
+Installed-Size: 56
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Utility converting between different character encodings
+Filename: ../../../../releases/download/x86_64-i/iconv_1.18-1_x86_64.deb
+Size: 10184
+MD5Sum: 7a3ebeca23609a54d3ee9381b21734e6
+SHA1: a60ca343ecb38cd117537e91e30472c5d5397995
+SHA256: f90c58ca64649784199f89b5e84d59ff7c434ace0f80238a3da184a56fe5c591
+SHA512: 4d6a8be630f11a150319a5a0783123e625a0d0b9f0a2b16341a73af86fb1b37110289e13776d4e1ad9bcbc22588f79751774463a1ad2b51107e008b3648707ca
+
+Package: libandroid-execinfo-static
+Architecture: x86_64
+Installed-Size: 36
+Maintainer: @termux
+Version: 0.1-3
+Homepage: https://man7.org/linux/man-pages/man3/backtrace.3.html
+Depends: libandroid-execinfo (= 0.1-3)
+Description: Static libraries for libandroid-execinfo
+Filename: ../../../../releases/download/x86_64-liba/libandroid-execinfo-static_0.1-3_x86_64.deb
+Size: 2336
+MD5Sum: 9d4fb2ecbc0afbdb5744e5e7d85389ad
+SHA1: 2ece867c80d4284ec1289539e19db8c07f201fb4
+SHA256: a05d099dffc7e3749a46b1b724350e3d5e19724826af7587eea71cbf82f1fa3b
+SHA512: 5d285f0324fc797d964458d16e257ff8aedfcdfbf53e314e21e6caa02aeb585c597034851773885bee9f7439ddfebcbe4b7cc8c5ed12b89694a62b6a70dd1154
+
+Package: libandroid-execinfo
+Architecture: x86_64
+Installed-Size: 88
+Maintainer: @termux
+Version: 0.1-3
+Homepage: https://man7.org/linux/man-pages/man3/backtrace.3.html
+Conflicts: libexecinfo
+Provides: libexecinfo
+Description: Shared library for the backtrace system function
+Filename: ../../../../releases/download/x86_64-liba/libandroid-execinfo_0.1-3_x86_64.deb
+Size: 15128
+MD5Sum: 97eb99ebd747e7f4e8d324486f598beb
+SHA1: 4c0a02de37716109663f3eb852c6c746b585047d
+SHA256: a468ac275b92cd4bc62386877d3f8b98610525e5ea819f18b28fd9b7763f7564
+SHA512: 01fb91d7bd7ae7ce0a304eae330ae4714d15814042b8e2fbd576cda03a0948783c0676f5a622d8875a7f60a7b92dfd27732a01f2c28aff6292f9937849aea16f
+
+Package: libbz2
+Architecture: x86_64
+Installed-Size: 112
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Breaks: libbz2-dev
+Essential: yes
+Replaces: libbz2-dev
+Description: BZ2 format compression library
+Filename: ../../../../releases/download/x86_64-libb/libbz2_1.0.8-8_x86_64.deb
+Size: 27612
+MD5Sum: e0a8add8406c652f522db72ffd630ebc
+SHA1: 18a986d3fecd2e2c2eed9c8b711d9863dbe4cb42
+SHA256: 1323e602dff32daf7d72774b42026d00938eb86c3917815a29ab0aa7745751dc
+SHA512: 477132bbd091744a1be8f28e4c675894905eed1b4d2903148a4ec4a0a68dd28916d35ac20cac6a707e73593b389aedac01f6554a257ce4a19dac5952e1f91ef3
+
+Package: libexpat-static
+Architecture: x86_64
+Installed-Size: 280
+Maintainer: @termux
+Version: 2.8.2
+Homepage: https://libexpat.github.io/
+Depends: libexpat (= 2.8.2)
+Description: Static libraries for libexpat
+Filename: ../../../../releases/download/x86_64-libe/libexpat-static_2.8.2_x86_64.deb
+Size: 65496
+MD5Sum: 67a54a20f7d2b1d011920e5843e0a3a6
+SHA1: 5cf6ebd86c9f7f42081c37214afe1e409d3d66ff
+SHA256: 1416c07f0d278825c8d022fd3e9e31dae0650887cf61d27772f4d1b87e458f51
+SHA512: 1ad0f01ae94e930014ce0d107cbf2360c23764b53696b5b7b95ba02efd78767eef29aaac86a68f627b4031670998f2c39377b1c8ba974d7b29e3b8e7af3af934
+
+Package: libexpat
+Architecture: x86_64
+Installed-Size: 412
+Maintainer: @termux
+Version: 2.8.2
+Homepage: https://libexpat.github.io/
+Breaks: libexpat-dev
+Replaces: libexpat-dev
+Description: XML parsing C library
+Filename: ../../../../releases/download/x86_64-libe/libexpat_2.8.2_x86_64.deb
+Size: 101272
+MD5Sum: 5c3bf4bc2ac44d15013a3589a2c51898
+SHA1: 92c81557ef181835583223164caf590120632ce6
+SHA256: 180033f75fc7f0e9e88af624f7a4bb56b41fc242ad738e9a732e7dc57259e4c1
+SHA512: b341cc6f3f759fccac6d0327ae537df5df7a22edab9393933af707a3218a978301731a0522fd0291c385daa3ddc222cccce3a911360589cf964a324eb0ebbc4d
+
+Package: libiconv-static
+Architecture: x86_64
+Installed-Size: 1200
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Static libraries for libiconv
+Filename: ../../../../releases/download/x86_64-libi/libiconv-static_1.18-1_x86_64.deb
+Size: 551872
+MD5Sum: 196643085b281117186ef665667cda1d
+SHA1: f87aa40a105fe0a0fe593984414b76b674f3c10c
+SHA256: 3c857a19b038170a755d3d85bb4a5d82a4516719d5041507ac1204f4b0535268
+SHA512: fad2737569dc6dce1cd413b1b8df4b050fc7ca44aa3a3ee251fa37d8cccd34f59caeaf0afbe155335739e0be16befa565a6a62571b6b2d81e5511b80081cc83f
+
+Package: libiconv
+Architecture: x86_64
+Installed-Size: 1216
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Description: An implementation of iconv()
+Filename: ../../../../releases/download/x86_64-libi/libiconv_1.18-1_x86_64.deb
+Size: 563672
+MD5Sum: eddec44bf123685a5b0a1718164d7dc4
+SHA1: e78f76b83edaffa6f844b28dabf0db91e165c011
+SHA256: 723fd4887949c6d9367fedb28b3ad5dcc34a0fabf978137dd0d7c28156c4e57b
+SHA512: eaff7e6e03657d5b40acd4e871a4536df02a360a820371e48dad6fb7f107e5c3bd22ea09e5bc15758439c4422bfd4582f0148347207fc4b95f9f9b8fd6844570
 
