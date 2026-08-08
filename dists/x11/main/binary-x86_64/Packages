@@ -13603,3 +13603,33 @@ SHA1: ec8b8df5e0ae97e1900825421fda1285c8c6006c
 SHA256: 638b5725dd152f9cf4e47684a9397eec7508eee9b2c39bc157370c7069660ab5
 SHA512: 1d712da4e62adf4c0a38a42d834a3206e6e044cc17e7db7907561141670a50b4e37aa7e0af4ecfbafece7bcb0471b869927e0ebbb1f80619117627c24a521bac
 
+Package: loqui
+Architecture: x86_64
+Installed-Size: 628
+Maintainer: @termux
+Version: 0.7.0-1
+Homepage: https://github.com/sunnyone/loqui
+Depends: gdk-pixbuf, glib, gtk3, pango
+Description: IRC client for Gtk environment
+Filename: ../../../../releases/download/x86_64-l/loqui_0.7.0-1_x86_64.deb
+Size: 163564
+MD5Sum: 42d5faa9096d58da26880dcc577c6323
+SHA1: 6b1645f2acd46797b161a74b06b966e5350dcdca
+SHA256: 24d6d197dd3d27e2341ff217ba2cd74020882ce09061cab81efe309b11b9e9b9
+SHA512: 99e9424003010a40cbd7461c6694d57131f4693a824c762d1990f04eac742dfd02926569edf4be6cbe56bb0411cb4adf786a574871dd3f32960ce4ae8c052639
+
+Package: screengrab
+Architecture: x86_64
+Installed-Size: 1076
+Maintainer: @termux
+Version: 3.2.0
+Homepage: https://lxqt.github.io
+Depends: kf6-kwindowsystem, layer-shell-qt, libc++, libx11, libxcb, libqtxdg, qt6-qtbase
+Description: Cross-platform tool for creating screenshots
+Filename: ../../../../releases/download/x86_64-s/screengrab_3.2.0_x86_64.deb
+Size: 181540
+MD5Sum: f6a4eda6fd6ccaabfdb374c99938387a
+SHA1: 1f2df66d2c21727ce21d19a5386ad061a7f3842b
+SHA256: 0596a8fc5133a3c810d9ee33d4484ad7bf926b77cbf5104ad637d0c551c110dc
+SHA512: 8b88e1e31a688eb2d5cb8b51282e0774312ae863f8a98cafdc2b72054b00c9d9d7182247b39131543cb47c08abb84aca905b936e7fee24cec7d7e20c49d705fb
+

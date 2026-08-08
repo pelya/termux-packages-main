@@ -13675,3 +13675,33 @@ SHA1: 190e87803b146b0e3f92a4547efb053eb7010a94
 SHA256: cf59f79c320498638f08f4d10ff46825cccd27461e1b1d0fc7aa1ceabafbc630
 SHA512: 4bebb02655ae20f9d06451427405f6a05d387377a4d2dcc2e1653a2c43232b0849e2c2c2a3ead70ca296a6dfa129011395bb92655d226767ab47fcc07912fd7d
 
+Package: loqui
+Architecture: aarch64
+Installed-Size: 652
+Maintainer: @termux
+Version: 0.7.0-1
+Homepage: https://github.com/sunnyone/loqui
+Depends: gdk-pixbuf, glib, gtk3, pango
+Description: IRC client for Gtk environment
+Filename: ../../../../releases/download/aarch64-l/loqui_0.7.0-1_aarch64.deb
+Size: 157568
+MD5Sum: 2fbecb1217ad71790c983b46b01ae35d
+SHA1: 2bf901110b5ea877da02837c1b22c649398aa420
+SHA256: b66dcda759705daeefbffaaa84487a6fc6f59e0fb8dc839c50460474f6d43d62
+SHA512: a5b90f2431403df38a9740a4da3f2cdac838b4b072e59155c9e89c5202eede47cc85d0f1ef10d723c9f863de137eddb947dbc817fce2d7fd1b45e4c1c4ac0a89
+
+Package: screengrab
+Architecture: aarch64
+Installed-Size: 1080
+Maintainer: @termux
+Version: 3.2.0
+Homepage: https://lxqt.github.io
+Depends: kf6-kwindowsystem, layer-shell-qt, libc++, libx11, libxcb, libqtxdg, qt6-qtbase
+Description: Cross-platform tool for creating screenshots
+Filename: ../../../../releases/download/aarch64-s/screengrab_3.2.0_aarch64.deb
+Size: 174028
+MD5Sum: f6f3c9a1e02b8950c252723253fa20a6
+SHA1: 433adb0631e7b9b50ceb970b18bcc6be026b10bd
+SHA256: efa443d264dc1ac6c1b74442d770ffb6a21e6cc25003cd5da5d6b4a954c8fcd9
+SHA512: 58e89f941903083e2feddf7a9f4e9408407bd9ebb799ec4e205483a85b112a2556b7b5e565116b200efaf79670527b81bdfc1ac5dfeacb1eeba49794f1b57b2e
+
