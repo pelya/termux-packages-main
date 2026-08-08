@@ -37237,3 +37237,17 @@ SHA1: 1aec8a39dc3cb37b3b3458422dc43640b300d8c2
 SHA256: 4c454fa8c723ebb67561f50dabbb096dfc834221bab036a88891d1a42b91bab4
 SHA512: 25aa40ef145ca5a9996aae4138405be8e3abe6ce63f04d633028969fb4252a213a24840c93f2f8e4ab7b2961071197803c45c1b7fa1f5a7ba493ebde1e5684b1
 
+Package: tracepath
+Architecture: i686
+Installed-Size: 68
+Maintainer: @termux
+Version: 20250605-1
+Homepage: https://github.com/iputils/iputils
+Description: Tool to trace the network path to a remote host
+Filename: ../../../../releases/download/i686-t/tracepath_20250605-1_i686.deb
+Size: 8856
+MD5Sum: 9634a559f2167e4968e9d82336add3a6
+SHA1: 1c012f9211e9a737eb0cb1a1dfa39b694610a93f
+SHA256: a3aeed9aa8106d72848317cd916fd79a02a54b5122665d9f040cf57eb4b15292
+SHA512: eb37eb5c8ad9b43fdac59f7166fd5bfe4fd2a6a995058fc1018096f65ff03c43515cc64d633073966eff2b95ad159fe21c5b01df5e74746aa6d688b8b75a552e
+

@@ -13585,3 +13585,18 @@ SHA1: 1038e9fa17bb7f16e3229d76f8e199dc70552606
 SHA256: e36d3bd9435ffadac9ef5d284e31f5bf5fef4c5bb2739f0aa1db906b52144e4c
 SHA512: 1553d87612aefbd3591af0d7b8200c0461ecc3b5f5fd313aa9224811de00ee1f9d1bb2d77d508ff09c1419c1c2c6fa781a36d94dc1d82ba9884a8e5479b57cc3
 
+Package: kturtle
+Architecture: aarch64
+Installed-Size: 3996
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/education/kturtle
+Depends: kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-ki18n, kf6-kio, kf6-knewstuff, kf6-ktextwidgets, kf6-kwidgetsaddons, kf6-kxmlgui, libc++, qt6-qtbase, qt6-qtsvg
+Description: Educational Programming Environment
+Filename: ../../../../releases/download/aarch64-k/kturtle_26.04.3_aarch64.deb
+Size: 1686936
+MD5Sum: 676449d48f93f704a62a2c9c5bb37ade
+SHA1: 2a74e25368076d1982107a42c72b09ae80956059
+SHA256: 73e7a2eb0ed519b2e70153e6c07490cd6c1b59c0b60aba5c9d41e37ffbf3baaf
+SHA512: 1f92f06dcc40fffa1d7c39a41f9be3e4eecbf907c62164dbf46f0213ee86700cd48ff57a54868334aac43b0c7baa0ce67606bc2dd4081caa677a8181f00cdb42
+
