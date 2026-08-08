@@ -38254,3 +38254,32 @@ SHA1: cc8aa80c2b9455d456fde89cfb2f3e9d0068f6e6
 SHA256: 5bd0f3ba3dd6b4e3a2a5cb8fd84ba9e784bf93153b2cfdef2b227e9c42f5ee1f
 SHA512: 58c90a82b180fe63cb7bae6dabceec78bced909aa475115e0a1e6464e97d2422abe8918a2f434776999be3f0377980366d3656367967773ce3434dddec877e2f
 
+Package: isync
+Architecture: x86_64
+Installed-Size: 296
+Maintainer: @termux
+Version: 1.5.1-1
+Homepage: http://isync.sourceforge.net
+Depends: openssl, zlib
+Description: IMAP and MailDir mailbox synchronizer
+Filename: ../../../../releases/download/x86_64-i/isync_1.5.1-1_x86_64.deb
+Size: 104412
+MD5Sum: af71beccea21577d1473662c03bfb48e
+SHA1: ac7d05491d6153d5ab84e569b427b686d0ce3e64
+SHA256: ad0653bc6f454682aa6710d11d1370b64d612d47b608cbe6397731230aa486d7
+SHA512: 2d088174cf403acb12974074d02d3825dfad7e3943b78ae213d221d1a09dffd32a55bf16ea073d04012eaf7a885d614e77d4387972db15aa06b55bc1b6e26164
+
+Package: sendme
+Architecture: x86_64
+Installed-Size: 10584
+Maintainer: @termux
+Version: 0.36.0
+Homepage: https://github.com/n0-computer/sendme
+Description: A tool to send files and directories, based on iroh
+Filename: ../../../../releases/download/x86_64-s/sendme_0.36.0_x86_64.deb
+Size: 3529312
+MD5Sum: 0179c1b45876fd3afd2d637659287989
+SHA1: e261a48c0fbc72a9ac8bf71e7b1eea4345069c78
+SHA256: b661503cde6993772ff62b1f2d2b846e555efbadc29e56ed1f9a026bd39b09eb
+SHA512: 6c2900a48fb137d0ba48e984c1b52a1d6b792169352e38a3cfc4bd7ac0eff2c8036611e3653ad9d49b3636374ae12582acc5147299d051cfcd2536db320a6172
+
