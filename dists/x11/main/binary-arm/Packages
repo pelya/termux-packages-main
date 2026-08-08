@@ -12945,3 +12945,18 @@ SHA1: 8396d73fcf51bbc264ebd55133da23755d39c683
 SHA256: b50e4e24e71e61d7cb1d4c4fb5063a09425353aaf7ca59e82985c82b1080694d
 SHA512: e5bd47ea45895f6ad15840a68815d364fa13c04157c6c05ad6ca7750c93bc1900fd1c989a7ff4c02d6d0de283e1ea7a363a7648828bab8bd5f4835feb1602833
 
+Package: mate-terminal
+Architecture: arm
+Installed-Size: 528
+Maintainer: @termux
+Version: 1.28.3
+Homepage: https://mate-terminal.mate-desktop.dev/
+Depends: libvte, dconf, gtk3, libsm, mate-desktop
+Description: This is the MATE terminal emulator application
+Filename: ../../../../releases/download/arm-m/mate-terminal_1.28.3_arm.deb
+Size: 146416
+MD5Sum: 271f7b512de9fdc6a123f5fa2f634482
+SHA1: a3ef7b7432fce01efffc35470990995e62580332
+SHA256: db3f05790c451eff8799dc3e56fe0fdd41439d7e693855b8f35ab40da079a7e1
+SHA512: 901231b1dc16a3236d04060537e3b403c8a676370081997e739c0180f9ff5c4ee52ef44cf1dd4c4bee17123e44f78c34f2672e80bc0de6b1a82fcea7fd85799f
+

@@ -37861,3 +37861,17 @@ SHA1: ad9c18ffd6ccbe66892d57b65bd6bde203e136b8
 SHA256: 7a7c6a6790daaf8af6230a4ed881cef9fa84b94c5dae3ab0b3b6c2d21ecd65d8
 SHA512: 2a75a7a1f3e45c03c47f3b963bf65a45b2fd23137ca751c3a3676f98e96a71154b974a0724230a0ba2165b5c70aa54a17ff21245aefc08105796d21f3b878785
 
+Package: atuin
+Architecture: x86_64
+Installed-Size: 30068
+Maintainer: @termux
+Version: 18.17.0
+Homepage: https://atuin.sh/
+Description: Magical shell history
+Filename: ../../../../releases/download/x86_64-a/atuin_18.17.0_x86_64.deb
+Size: 7874244
+MD5Sum: 55ab3fccf41144d45e514eeef4cfaae1
+SHA1: f02f1d6c148d7e34b1d612f8047e122c9a9eca23
+SHA256: c7b147ff8dcb087fc193f6d9f524a943c68ba297fbda34256ce952cc989a0b50
+SHA512: 12c62b2b3e8342e9f52072d14ee25f6ae4099935a742ba1a78eaea251fc323787b6afd5e814756839371f7cb60894186190c0a25d4b3377ed9a956c9dac3abe8
+
