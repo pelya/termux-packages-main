@@ -37779,3 +37779,18 @@ SHA1: c6d595d3111cf0eab41ba2b7d181d0327c377350
 SHA256: 4eccd58b2af2939440b60b46735deb107b4d3d0a3ec82a7571a4f24acd709a73
 SHA512: d965e15901a138fd4e8e2ca392718181f8fa919c2a2e6bad4326a873141e8dffc691be0b00e352b775fc86a9a469934306e3fedbcd70a025e04ffb8ee9926c94
 
+Package: termux-gui-pm
+Architecture: all
+Installed-Size: 60
+Maintainer: @tareksander
+Version: 1.0.0-4
+Homepage: https://github.com/tareksander/termux-gui-pm
+Depends: python, python-pip
+Description: A graphical package manager for various package formats for Termux and proot-distro distros
+Filename: ../../../../releases/download/arm-t/termux-gui-pm_1.0.0-4_all.deb
+Size: 20556
+MD5Sum: b5a7cda0437d61dc915f7b084854e134
+SHA1: 1acefd9e5565a766f29b8356bf12cb48aa14eb78
+SHA256: 7a4ac756054e22603e0f5b5029cbf06fbd3687cad53f8672814276213f02c549
+SHA512: 3fae2dcdba1ce8cbbd9636011b757a7904a002d228b9f798e5ddb283eb44066c3e50a43b36e46524416a3d6f59ae97f00f7422a999ca875285578cedb0f20362
+
