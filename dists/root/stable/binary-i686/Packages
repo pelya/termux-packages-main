@@ -914,3 +914,51 @@ SHA1: dca660da099ce14534182c863d24dd2b4c1d1e42
 SHA256: 375a5597f51727a443e126b074d83f3a21d55229a2b2e224e91bbaea0bc6a104
 SHA512: 6ff54a88e043ad16e852fa32a0f697269c51ec2a641ae7a8637d9ae6e21059c56e56f45904debd81bdfb177b9fc72c145b3f02f55f5b40a7883356c1848b7903
 
+Package: fio
+Architecture: i686
+Installed-Size: 1544
+Maintainer: @termux
+Version: 3.42
+Homepage: https://github.com/axboe/fio
+Depends: openssl, libandroid-shmem, libaio
+Suggests: python
+Description: Flexible I/O Tester
+Filename: ../../../../releases/download/i686-f/fio_3.42_i686.deb
+Size: 406124
+MD5Sum: 39de6e007eb10013f39a9da919cb03f1
+SHA1: 4426c09b0d7363cf5620d195fd41f07eb5da3072
+SHA256: f3e2863de09da077352969c88e61d03b1b436be9c5ddfa667da051168a157fac
+SHA512: 52e763349b3e22b4c2aac4074d34af1e8d3e0c6b66d1f121b2c56a1b3d44316258ad147c32d270288b095180e58a777b4ff1b8973d9bccbf548a3f12ee127b5c
+
+Package: ipset-static
+Architecture: i686
+Installed-Size: 256
+Maintainer: @termux
+Version: 7.24-1
+Homepage: https://ipset.netfilter.org
+Depends: ipset (= 7.24-1)
+Description: Static libraries for ipset
+Filename: ../../../../releases/download/i686-i/ipset-static_7.24-1_i686.deb
+Size: 48624
+MD5Sum: e38be6180088f6b2beca1111901b119f
+SHA1: 577d41c10112ee373d49ec71b1909d15a0258d64
+SHA256: 7d69c511a13971f7eab8c456d34df973c16ef3394a9e47fd91f94f486a7d160d
+SHA512: 22f89bae5c5bf5c5e88d601b69aa079a0b0a58555b4715cea072ae9cd00899e762dc6561cf83b9b0026e21dd9d934ad50763d423be760f32fddaf32d4430981b
+
+Package: ipset
+Architecture: i686
+Installed-Size: 500
+Maintainer: @termux
+Version: 7.24-1
+Homepage: https://ipset.netfilter.org
+Breaks: ipset-dev
+Depends: libmnl
+Replaces: ipset-dev
+Description: Administration tool for kernel IP sets
+Filename: ../../../../releases/download/i686-i/ipset_7.24-1_i686.deb
+Size: 80340
+MD5Sum: f3ec5f387e59575cddbadb6471680e05
+SHA1: e74b9c56779fc3efbc12ad75536accf55afb4033
+SHA256: 7894e526985a077736eeafdef88ba7e9528359f24ae9913bee4ecc3a2008ac04
+SHA512: 350b9ae206d8e3d87ce40b50f43101a1a55f579e465dba29d20b7b7c054992b5b5de3defba4933e8ffb102448b800491784800508d3e57b6949466ce244378ae
+

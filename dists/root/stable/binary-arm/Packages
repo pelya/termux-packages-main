@@ -914,3 +914,51 @@ SHA1: 883542f0d41dfad2241b539124ffb22926eac07e
 SHA256: 9bc62d68ccda7d468a7103a1d402fec4ec934290dbbcadea60e26087117b2793
 SHA512: 56a89d94af7c46b04b872a60dbab960e0645910d6e78b3451751ed432f8b5da965a6bd3c41842843a1f77f2f2fb20b15e1babe85ae2991ca51e7640072826a4a
 
+Package: fio
+Architecture: arm
+Installed-Size: 1496
+Maintainer: @termux
+Version: 3.42
+Homepage: https://github.com/axboe/fio
+Depends: openssl, libandroid-shmem, libaio
+Suggests: python
+Description: Flexible I/O Tester
+Filename: ../../../../releases/download/arm-f/fio_3.42_arm.deb
+Size: 371660
+MD5Sum: bc9fa8e9cdf0e6c73112ede469734ef1
+SHA1: c15ff423b7c739ba955a273f41c1f0513f5db1e1
+SHA256: 60f0c3ec40838e81a66237aa7a87c20a9f41bf75c54b3f268e8d10ccea462afd
+SHA512: 3f4593b9c7975a117ecf694b2f0d08b1098214311e4370e6b9cc55cda204dec4099c60af14a19444ad8b19ffcb9e2f5166188031f03c8e109054cca59e532c63
+
+Package: ipset-static
+Architecture: arm
+Installed-Size: 240
+Maintainer: @termux
+Version: 7.24-1
+Homepage: https://ipset.netfilter.org
+Depends: ipset (= 7.24-1)
+Description: Static libraries for ipset
+Filename: ../../../../releases/download/arm-i/ipset-static_7.24-1_arm.deb
+Size: 45560
+MD5Sum: 73671663834713270fd336924c6f828e
+SHA1: da9fbac254989077656ddee2793af0b5900246fd
+SHA256: a76fd44a8dc6db9ede3e2065c614cf0c791ee494ec0d03aa78b89912e3097b87
+SHA512: dbe604a5ee8c795f09dfbe1802afac8ef62e1a8db65778cb93de77b727838c665ab010bb78aec599d49e7c0e0229f0e604c2ab79554882c53172684aa1d21c86
+
+Package: ipset
+Architecture: arm
+Installed-Size: 452
+Maintainer: @termux
+Version: 7.24-1
+Homepage: https://ipset.netfilter.org
+Breaks: ipset-dev
+Depends: libmnl
+Replaces: ipset-dev
+Description: Administration tool for kernel IP sets
+Filename: ../../../../releases/download/arm-i/ipset_7.24-1_arm.deb
+Size: 71548
+MD5Sum: 891545ad63b929f3a93dc5be270b6f73
+SHA1: c4c32e40a8f3022e7526ea6a094f31f835177888
+SHA256: 54e4929b2e2abc79ec054dbd7fa8f290631815630408241af52c627e7644b8bb
+SHA512: 387f48fe210bcd4356daded39a8528dcf5992f044004122bfc335350813d3a8ca350d8a554c929db82771b6a41970a4ae64d9574175671ed96445495e5fcc750
+
