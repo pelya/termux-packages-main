@@ -12914,3 +12914,18 @@ SHA1: d7881dfe260d5cda28d4b01eddd8691ffef79c75
 SHA256: e685c2246a989f1ea03f44e9b83a428c1fefc6ad0969029ebd87a0d58733d940
 SHA512: c322a242bd9a164b049de4e09aa75125b4f8a59b4158b4134d05298b40c4d4265a226ce2091d90cbd6b4ff1a82d77c80c43ca6559faf5b5c79c38b5e317b0e9d
 
+Package: spotify-qt
+Architecture: arm
+Installed-Size: 1628
+Maintainer: @termux
+Version: 4.0.4
+Homepage: https://github.com/kraxarn/spotify-qt
+Depends: libc++, qt6-qtbase, qt6-qtsvg
+Description: Lightweight Spotify client using Qt
+Filename: ../../../../releases/download/arm-s/spotify-qt_4.0.4_arm.deb
+Size: 490616
+MD5Sum: 1c9faadf6b02f9dc2ce3d3556ec8e512
+SHA1: a3712bd9bd44673ffdbf999305fbed8dbcd79a92
+SHA256: a8f1c334da74c0a8df65be8da3cf530434e5d9eb8cc21ebec70945221adb2092
+SHA512: 30bf8f8f72ced13ec4e073a466584c3007de7ea9e2702c1d127ac288441a1aba87b96778478968bc4291c2f106f6fb8c6d4ff558cd306c4eee9f9ee73234cf51
+

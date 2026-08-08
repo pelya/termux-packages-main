@@ -37790,3 +37790,17 @@ SHA1: b106ee0993218115d0403ecaa01fe2befcf57b28
 SHA256: 32e125094687d921ae676e6f4ec0eb5877903049d6b965fe00c56a5d6c60a765
 SHA512: 7519f5f0977346212c87e35a62906af81412200c6e1b5d89e88ce44070064c436c687ab056cd2fd4cf0e573aba446078c84672cc8583131e569cb619a3891e41
 
+Package: pup
+Architecture: aarch64
+Installed-Size: 3632
+Maintainer: Krishna kanhaiya @kcubeterm
+Version: 0.4.0-7
+Homepage: https://github.com/ericchiang/pup
+Description: command line tool for processing HTML
+Filename: ../../../../releases/download/aarch64-p/pup_0.4.0-7_aarch64.deb
+Size: 1092744
+MD5Sum: 6f6a052d0d247fcbf393d76ee8cdafe4
+SHA1: 74fd9f83c8ce5a332d6a03ce84a6a8b3738e2416
+SHA256: 7fe203f4e70bbf6b38e8aa52c881e3d667c071d07417106b939f54f66754afb2
+SHA512: 48d147bb6d8cbced08967288338a3f6d4a927f131dd3ca4d0f268fab8a55be285f030632db36c72eb7de5c353e19911ef46a2dcdb900c619aed3d0fbbb6461df
+
