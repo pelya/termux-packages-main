@@ -37745,3 +37745,17 @@ SHA1: 3eef025bf3a5ecc40532902d55b3c287a12a6254
 SHA256: 79db49a7637d21c236cd8af764b6a7f450f2261013b915c2dde731ad536108d9
 SHA512: 8477530e4820642833a7ed2d7238ac299f18a1e4e5dbb42f098cadc750bcff9bebd2ff72b18ba1db00467be29584a3a28e6c55923acde4aa807ce7104d3c8568
 
+Package: gotorrent
+Architecture: x86_64
+Installed-Size: 11260
+Maintainer: @termux
+Version: 0.1.2
+Homepage: https://github.com/ismaelpadilla/gotorrent
+Description: TUI for searching torrents
+Filename: ../../../../releases/download/x86_64-g/gotorrent_0.1.2_x86_64.deb
+Size: 3274312
+MD5Sum: b05f087e4fb7652d87cbb515c388aed4
+SHA1: df7a50df54d8326732ea47883d08d3248be81eca
+SHA256: b35fec5a7e6c6db14fd29c4a234d795899a12a77519cb3467ad2e443f947e15f
+SHA512: 60abf0656088c499419fc4f9ea680ac2238c93aec8c561f659bf6e6b507de8330d11e8e533460dfe53e226ec04916c38a790c55a9cf9f8e7e966a60ef81c17f3
+
