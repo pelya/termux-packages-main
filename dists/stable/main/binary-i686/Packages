@@ -37223,3 +37223,17 @@ SHA1: 263f12d4f5227ca7ab3e8658f7f532e0f13f74ee
 SHA256: e3cdfd9d396aad4a5bc2dee22fe784f9bcfe7f9f6caef394a2187b4b3d60ff3e
 SHA512: 51b243e6057008201013f539314aa2f2ed9951fdd01b6844086e6bab8a3dbddccc031d5c57791d35aeb96809886aafe9f1d40e671e2783bfe2a0a342297d0ff2
 
+Package: dasm
+Architecture: i686
+Installed-Size: 224
+Maintainer: @termux
+Version: 2.20.17
+Homepage: https://dasm-dillon.sourceforge.io/
+Description: Macro assembler with support for several 8-bit microprocessors
+Filename: ../../../../releases/download/i686-d/dasm_2.20.17_i686.deb
+Size: 37500
+MD5Sum: 69423c9ea9a1bb7a8c2320224d44c6d0
+SHA1: 1aec8a39dc3cb37b3b3458422dc43640b300d8c2
+SHA256: 4c454fa8c723ebb67561f50dabbb096dfc834221bab036a88891d1a42b91bab4
+SHA512: 25aa40ef145ca5a9996aae4138405be8e3abe6ce63f04d633028969fb4252a213a24840c93f2f8e4ab7b2961071197803c45c1b7fa1f5a7ba493ebde1e5684b1
+

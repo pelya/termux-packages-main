@@ -13086,3 +13086,18 @@ SHA1: eda9a95331f2be8727727e024ca9cae21381baff
 SHA256: 4c79692a94c95cb749c0f28ee64256896627115d30cf592aef93e2ebd1fc2488
 SHA512: fdab8deb081ee153a191ed0e89a29507ec5899fab8ccfdc77e6ba6b546e3c6200a7cc304049e7885f0b1c5bf23d09b6dee6978b2ff718222c2e4f349c5b3532d
 
+Package: xfce4-whiskermenu-plugin
+Architecture: i686
+Installed-Size: 536
+Maintainer: @termux
+Version: 2.10.1
+Homepage: https://docs.xfce.org/panel-plugins/xfce4-whiskermenu-plugin/start
+Depends: exo, garcon, gdk-pixbuf, glib, gtk3, gtk-layer-shell, libc++, libcairo, libxfce4ui, libxfce4util, xfce4-panel, xfconf
+Description: Alternate menu plugin for the Xfce desktop environment
+Filename: ../../../../releases/download/i686-x/xfce4-whiskermenu-plugin_2.10.1_i686.deb
+Size: 131796
+MD5Sum: 9338a5574cb9a70937c0f74d47e61b7c
+SHA1: 26d115b4b052119aa2a4d3a29caa3ad8b4e631bb
+SHA256: b24ffe37b13fcb61261531107b4969f31a13fd68f539d01bc95de2f2065e2ece
+SHA512: 977bdbd652dfd530d8a1d8eb024c3c28d54c9b60f69e3e004df0077466935c5d2fc8046963209ea49b3909dc9462b6ac82de515767c4a745f07178d7e7cd4097
+
