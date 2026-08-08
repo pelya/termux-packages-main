@@ -13343,3 +13343,52 @@ SHA1: ab4bc3296746787bb57500bcc92487f817550c08
 SHA256: 2e607765b570037972a2f856bd2e1b65bdf3c27bf754cecc8f7262eb6885f44c
 SHA512: c9bfdd01c75415a5503d521fb7fac6f1b72ea6a303b35fda25ab1554c2467dbbb6a8d72bec7d0125f68ede4e4c865686d9a051cce3004ad6b041fb52ff69d59d
 
+Package: obconf-qt
+Architecture: x86_64
+Installed-Size: 956
+Maintainer: @termux
+Version: 0.16.6
+Homepage: https://lxqt.github.io
+Breaks: obconf
+Depends: libc++, qt6-qtbase, glib, openbox, liblxqt, hicolor-icon-theme, libxml2
+Replaces: obconf
+Description: OpenBox window manager configuration tool
+Filename: ../../../../releases/download/x86_64-o/obconf-qt_0.16.6_x86_64.deb
+Size: 135620
+MD5Sum: db7b6a2c181ae01f399620d44f824fcb
+SHA1: 6e4f8e7e04a2c0fada663e45516a820839405295
+SHA256: da9dd3d964cf6e8010da66a179cc2f4dfa969ee4d00913e35cd43f599bcb5ce0
+SHA512: dd8e1ae288bb043970f45d223b078f9839e560418c17790da1a41f027a1f9646076f81e1fb935eb0078d44ec878cb3a2c9232b1b01edac5cd69b4d6bcc3923cb
+
+Package: openbox-static
+Architecture: x86_64
+Installed-Size: 276
+Maintainer: @termux
+Version: 3.6.1-61
+Homepage: http://openbox.org
+Depends: openbox (= 3.6.1-61)
+Description: Static libraries for openbox
+Filename: ../../../../releases/download/x86_64-o/openbox-static_3.6.1-61_x86_64.deb
+Size: 54356
+MD5Sum: 5279ca9bae2da13c8531165dbffa27d9
+SHA1: fe3c5c743af4f76c176afc1a0be27c50de642ad4
+SHA256: 6a2233e9734c13829312ee3b69484551ee4c73dbe9319a0148844c156876c1cd
+SHA512: 6cadae00bec71c9dd64ef4563df2ff50e383396554fb8b04ebedd2478a3e588762cea441b6c8fa2c4bc317aeee06643bf53c18e829b1009500753341832eb59f
+
+Package: openbox
+Architecture: x86_64
+Installed-Size: 1264
+Maintainer: @termux
+Version: 3.6.1-61
+Homepage: http://openbox.org
+Depends: bash, fontconfig, freetype, gdk-pixbuf, glib, harfbuzz, imlib2, libcairo, libice, librsvg, libsm, libx11, libxcursor, libxext, libxft, libxinerama, libxml2, libxrandr, libxrender, pango, startup-notification
+Recommends: obconf-qt
+Suggests: aterm, fltk, geany, the-powder-toy, dosbox
+Description: Highly configurable and lightweight X11 window manager
+Filename: ../../../../releases/download/x86_64-o/openbox_3.6.1-61_x86_64.deb
+Size: 236624
+MD5Sum: 27133d7f7189e77e1d400fafe06080c8
+SHA1: a0cffdf096cab779b715d9b572733f4bd7d58301
+SHA256: 72302cdd6e6dadc7259739338cad38fe52b3d4c697624ac394be2db424b385c1
+SHA512: e82448c4d712fbbc06cd7f024d1c03bc7ab4c5515baa807a4c9f13376ea30cfbed724a1d548566dbdd5bf124eb888d4665cd9a35e11546720d9b0c0dc63f6675
+

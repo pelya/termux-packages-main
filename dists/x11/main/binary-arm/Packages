@@ -13127,3 +13127,52 @@ SHA1: 529e8c6d28e98c2f130c910841690e30fc3f87c7
 SHA256: 2132236babd53cdacef5c53ab5f88d9e9e20f02c06054e114bedaa8aacb38391
 SHA512: 3b0b1f0844e56d1aab071e91560734f0d21fe4a88ced05f2c53d00ad95377d76703e39105c9cdfa7d3e6e97ab4b493dcb868804965b15ddd2096dd4ae4b381f3
 
+Package: obconf-qt
+Architecture: arm
+Installed-Size: 924
+Maintainer: @termux
+Version: 0.16.6
+Homepage: https://lxqt.github.io
+Breaks: obconf
+Depends: libc++, qt6-qtbase, glib, openbox, liblxqt, hicolor-icon-theme, libxml2
+Replaces: obconf
+Description: OpenBox window manager configuration tool
+Filename: ../../../../releases/download/arm-o/obconf-qt_0.16.6_arm.deb
+Size: 131652
+MD5Sum: fca5f277eb9c25915a85a40ff50a53df
+SHA1: 67f01b5e82fcf0a7f978ce8b17ee1e3a08937afa
+SHA256: 0e62bd67ecdd36e54fe533616c0f234bde701e4b29afae8bc9ee5a3a4aecb6dd
+SHA512: 2dc0a1e50d70887d259934f132be479f4cde94077791945e705268fee08836d8492ad803b9cf2bd26373d324742819d9a5403dbe957aec31c5643a0592131d9b
+
+Package: openbox-static
+Architecture: arm
+Installed-Size: 192
+Maintainer: @termux
+Version: 3.6.1-61
+Homepage: http://openbox.org
+Depends: openbox (= 3.6.1-61)
+Description: Static libraries for openbox
+Filename: ../../../../releases/download/arm-o/openbox-static_3.6.1-61_arm.deb
+Size: 50384
+MD5Sum: 3e7eaddfab73e34abbd2f794a6ef2e03
+SHA1: 0dd38db263f81671db648d181e10a6b4b092b5a6
+SHA256: 4040fd279e87a726dd877fcf45f1111e3b08abfb266ae7c60b36452a5e06bf19
+SHA512: 1dbe9d4c72b398eea4b4be85e366bc89ca3ae9ee1fc7dab66892d19760bdaeb8d702d7d4bc5e00cc845b99358409e1551c3bf47835d06b511d2a06a9a1893da0
+
+Package: openbox
+Architecture: arm
+Installed-Size: 1120
+Maintainer: @termux
+Version: 3.6.1-61
+Homepage: http://openbox.org
+Depends: bash, fontconfig, freetype, gdk-pixbuf, glib, harfbuzz, imlib2, libcairo, libice, librsvg, libsm, libx11, libxcursor, libxext, libxft, libxinerama, libxml2, libxrandr, libxrender, pango, startup-notification
+Recommends: obconf-qt
+Suggests: aterm, fltk, geany, the-powder-toy, dosbox
+Description: Highly configurable and lightweight X11 window manager
+Filename: ../../../../releases/download/arm-o/openbox_3.6.1-61_arm.deb
+Size: 207892
+MD5Sum: 0cfeccbbc0fa98c5845f8978c00b98ff
+SHA1: 7eb6cf2c84731b924b3a428f6537c657f8f8f3d2
+SHA256: 3b1acd8fa33028c109a4741651616c8c3d336b6b2f24625515335071f543c278
+SHA512: e41b4044bbc7fdd1a77791672165beea950b7540ce513a6a5620e0c400f228b4ea1d5659aa1ea11ae36ed75888368ca04b191fb4cbbf31dee455dec3e5e8ad61
+

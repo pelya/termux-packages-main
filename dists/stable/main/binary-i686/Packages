@@ -37114,3 +37114,18 @@ SHA1: 436eba947504e8da5a57de7c1e67b98c05618db5
 SHA256: 6ad56b7f6cc79271ceaac68c5ff4e1067a3cb6c4aeb1032677c8e23c53893054
 SHA512: 26bd309dc274a879b4dea7eeac7c8c8b7c80850c8a2c4e4d70db6339fd8b901a47d61462e23d9ab6b771c2313a58ddf9f83f9f8d82b96054b7d077e2478f8e79
 
+Package: ccrypt
+Architecture: i686
+Installed-Size: 136
+Maintainer: @termux
+Version: 1.11-1
+Homepage: https://ccrypt.sourceforge.net/
+Depends: libcrypt
+Description: Secure encryption and decryption of files and streams utility
+Filename: ../../../../releases/download/i686-c/ccrypt_1.11-1_i686.deb
+Size: 38280
+MD5Sum: 9c9d2ca24df25af9d9ebf90ad64b5ea0
+SHA1: 418d87aed7766dc91e75221480084364849fa414
+SHA256: d4d9cdcf1f38aa0d2a994dd710c93baca3c8b6bccac7590c7cd7f4eedc2ef407
+SHA512: cd4280064f95a9852408629c77562c2c8e68100cb386b6edf00823b237d76cf18a069cc4739fa4752e17ab5b2b948addf1cfe856b6b0fac15573af3796ff0e6a
+

@@ -36365,3 +36365,18 @@ SHA1: 15ce501f58c9271024e3024a63174ccd9aa61453
 SHA256: 6b6949398bf6a849ed06a14cbee02bc17ce4280b4d1758b34477a9fc681a249a
 SHA512: 78a72287dc1755f392ab59b7ec5a8a47990e0adcf05fbd58f2b6016be74aaf0214a6bffd3e2b4dcabaa4f6f5d70a6c51b6291b6d887f7d606cfcc4022337ec35
 
+Package: ccrypt
+Architecture: arm
+Installed-Size: 128
+Maintainer: @termux
+Version: 1.11-1
+Homepage: https://ccrypt.sourceforge.net/
+Depends: libcrypt
+Description: Secure encryption and decryption of files and streams utility
+Filename: ../../../../releases/download/arm-c/ccrypt_1.11-1_arm.deb
+Size: 35564
+MD5Sum: 36feca9054c4856bd2a67d27af2af8bd
+SHA1: c76515c256e8e760916a4f98a58a3b55ab7bf82e
+SHA256: 85dab63ce478a6cfd3204265c536e4bb3614ed7de26f1deb55efe0bb94df45d7
+SHA512: 582fba378d8c4aafc4bd32f0d5c53844d9dbd3ae88f254107c25148d0bbcb1daba8590760ff072ea99b85f08e0ef0e90a4e97f3c67dac2ed120d0cb5bd92c244
+

@@ -12931,3 +12931,52 @@ SHA1: 1d74a6ce3c295f7c4303a6243639839c8fcde26d
 SHA256: d5f36f7071ec0108f8c35d8310c266551bec719a2df86c0b702fe85ff00d037c
 SHA512: 0d402613738e3cb23fdce213934fc57465f0ffdde61de867dee2e009b2aaa4a9c53b9a476b586033a066de72a41d21afcd3e36ea32b5641827af568c10ed69b1
 
+Package: obconf-qt
+Architecture: i686
+Installed-Size: 956
+Maintainer: @termux
+Version: 0.16.6
+Homepage: https://lxqt.github.io
+Breaks: obconf
+Depends: libc++, qt6-qtbase, glib, openbox, liblxqt, hicolor-icon-theme, libxml2
+Replaces: obconf
+Description: OpenBox window manager configuration tool
+Filename: ../../../../releases/download/i686-o/obconf-qt_0.16.6_i686.deb
+Size: 136884
+MD5Sum: 512863e199102967f804e49b6b5d50df
+SHA1: 16a78dfd5797adaf90d919ef393c4741b098b411
+SHA256: 23ff2801f8e0fea8f1b71ca151ba387959b37877c7e73fad13bcf1188bcfb800
+SHA512: de44f318098e1d0fdc658b30b0ea166133cc308774f8c761b9021ce37740e9d4045055f235ddd5e1268be5c9e445dfa0e9564d3fe7877a1726a5e28aa0c0e52a
+
+Package: openbox-static
+Architecture: i686
+Installed-Size: 224
+Maintainer: @termux
+Version: 3.6.1-61
+Homepage: http://openbox.org
+Depends: openbox (= 3.6.1-61)
+Description: Static libraries for openbox
+Filename: ../../../../releases/download/i686-o/openbox-static_3.6.1-61_i686.deb
+Size: 54204
+MD5Sum: 032b001067556811af0a21eafd65b015
+SHA1: b5e14c25ce1c64288042b262afe5cbbb2f4570b0
+SHA256: 867b74e213eb7dababf8bc5c355dc0d1b695bca4ffe853d1690cc8cae64d9df8
+SHA512: 81be357d78ae95f538d784cba37eb630378092f786d6a88d36ec7acae21a520eba7a4da5945031ac973f01ea47e0c4e4529789ead4d7b310f7e8c3857e87050b
+
+Package: openbox
+Architecture: i686
+Installed-Size: 1260
+Maintainer: @termux
+Version: 3.6.1-61
+Homepage: http://openbox.org
+Depends: bash, fontconfig, freetype, gdk-pixbuf, glib, harfbuzz, imlib2, libcairo, libice, librsvg, libsm, libx11, libxcursor, libxext, libxft, libxinerama, libxml2, libxrandr, libxrender, pango, startup-notification
+Recommends: obconf-qt
+Suggests: aterm, fltk, geany, the-powder-toy, dosbox
+Description: Highly configurable and lightweight X11 window manager
+Filename: ../../../../releases/download/i686-o/openbox_3.6.1-61_i686.deb
+Size: 236044
+MD5Sum: 34b73136282cc9d4780b8b9cea40d4d5
+SHA1: 88f0311d96610153f9b481882e2b821f540ada5d
+SHA256: fb388f6800cb339f1b18b524740e1ed9a29061e17375f88e586c2173521673cb
+SHA512: 343e796f0852321be19abd7f8cef6bc454e707a58b91c3c77d58de46fbb0e06b694bfb070e8fd397fa502ee0d6eaeb1c58b7ebd27c801c54275b263280ae1ca8
+

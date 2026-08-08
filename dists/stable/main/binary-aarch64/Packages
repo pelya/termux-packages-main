@@ -38102,3 +38102,18 @@ SHA1: 12d3dde81d70c8925fa17ddbcc19f139e014b4e3
 SHA256: 930a35945eec042e1da0e13d38a3695a4f5c31c2ab44e16e9b3f703a5d88047a
 SHA512: 0830991c6c0b3f75aca0932d91de3f9dcf08bcfd9a6f1273f2d036a93b4b7038d9e8fa2b2211075bfb4a20a8e9c2fbb0f6458e4b00e25750fc6163ac5a5b179b
 
+Package: ccrypt
+Architecture: aarch64
+Installed-Size: 144
+Maintainer: @termux
+Version: 1.11-1
+Homepage: https://ccrypt.sourceforge.net/
+Depends: libcrypt
+Description: Secure encryption and decryption of files and streams utility
+Filename: ../../../../releases/download/aarch64-c/ccrypt_1.11-1_aarch64.deb
+Size: 38040
+MD5Sum: f84c6582b57e0f7043d97eefea05fe6b
+SHA1: 5d1cb8e714c5b02c8d0e8ee6b3f66956523c0c8b
+SHA256: e563fbfb92ebfacadf48780cc4ed439d90ae10d7db9dd4740bf14d980d56f024
+SHA512: fa70914b3add1b1edb3a4d10d3f431e2453ca000bc8090c80c510d49a9f9756a227595ac00cbd0977372ab96057659b31f983b7938c65f8571abf892ba98c9dd
+
