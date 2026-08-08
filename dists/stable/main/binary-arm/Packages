@@ -35951,3 +35951,47 @@ SHA1: d75dadfc7d760f5b59812ab14fb28b02172965fa
 SHA256: f8d7a8d59acd110dea7888f5776e3f5baeb9968a168af4284539291abd97d5b7
 SHA512: 39abe0c8997f2216ba1233947559313744b19faf67ed874eb93600d20bb89f60fa319739b9407d67478a20ef08a690903c9a34020d9bdd8e4966225c70ce60dd
 
+Package: alsa-utils-static
+Architecture: arm
+Installed-Size: 100
+Maintainer: @termux
+Version: 1.2.16
+Homepage: https://www.alsa-project.org
+Depends: alsa-utils (= 1.2.16)
+Description: Static libraries for alsa-utils
+Filename: ../../../../releases/download/arm-a/alsa-utils-static_1.2.16_arm.deb
+Size: 25088
+MD5Sum: 67292d8d78366ef241692f6bcb5da42b
+SHA1: 602c13539ee4fa8d60c5b02d39c53a5848a1f47f
+SHA256: b1b458faa9438b9df2529ce839331d90975ee7ed7bc360089392ca05eb02776b
+SHA512: 01a9a024b9a0e4899d0f0f938bd12beca8b036cef19efdbe979695697e21703213959175b91440ffd411c4c59d1e6614b9a7080497c97b5479d36769f96b4be3
+
+Package: alsa-utils
+Architecture: arm
+Installed-Size: 2128
+Maintainer: @termux
+Version: 1.2.16
+Homepage: https://www.alsa-project.org
+Depends: ncurses, alsa-lib
+Description: The Advanced Linux Sound Architecture (ALSA) - utils
+Filename: ../../../../releases/download/arm-a/alsa-utils_1.2.16_arm.deb
+Size: 1022472
+MD5Sum: 0255802c7d589330e9f68f8ee977c8da
+SHA1: 539eab26947772dcea3496245934818fb8d01a37
+SHA256: 2017833aeb371bd371a66373ccd4e86fd483c20ab0065995abef21c772cd44e2
+SHA512: f1fb52e226ec2b9dc9c7edcad8e78d27183586844dea761c1f02384f9f6f79ab286b2d683cd7c282798b6370833853b559fa3e869317f1a2c88595c1eb8ebacd
+
+Package: discordo
+Architecture: arm
+Installed-Size: 10472
+Maintainer: @termux
+Version: 2025.08.06
+Homepage: https://github.com/ayntgl/discordo
+Description: A lightweight, secure, and feature-rich Discord terminal client
+Filename: ../../../../releases/download/arm-d/discordo_2025.08.06_arm.deb
+Size: 2996852
+MD5Sum: d677ec7688bf5d83b592b3f3ee80d53e
+SHA1: 2e677e73bce9bd390400ad40a4566b19f063abfa
+SHA256: d5b93d960a48bbd9abebfc7f5c09f9997bba173d481d143b93be86130208e5a4
+SHA512: 73a5edfebcaa87ef5aead9fda91ca1bede4365d6476bd4360ae366abcf470f87bff2271b56abf90cf731243d33c29645c834c53978bad11c14f4b030da19691f
+

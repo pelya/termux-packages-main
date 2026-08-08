@@ -37688,3 +37688,47 @@ SHA1: 943a5d2dc4e272cd744971481a6921bf87b2482e
 SHA256: bd76d533735ebbf5e289969b3ba908863b91941999564dc99c1dedaec5999b88
 SHA512: 668a88a694f8a3c9b9e5eae448924b63f51a030d93f8a59e4f920f942c918c78eba1536d7bb9d1bb9cc4610f2938d1fc24705c6ab22beee64748913837be97c1
 
+Package: alsa-utils-static
+Architecture: aarch64
+Installed-Size: 120
+Maintainer: @termux
+Version: 1.2.16
+Homepage: https://www.alsa-project.org
+Depends: alsa-utils (= 1.2.16)
+Description: Static libraries for alsa-utils
+Filename: ../../../../releases/download/aarch64-a/alsa-utils-static_1.2.16_aarch64.deb
+Size: 25840
+MD5Sum: 1f5ab8cfb02cdd71a08a599cf218ea4d
+SHA1: 0e5b6d0f67a51702e63ce4f471a15197d75cc0b4
+SHA256: 9e72428011183ab74b1f45adad3f7c441bd2be02354776c0c86645e0f5c700d2
+SHA512: 59d10afd7b9e77f0c245a90095063b36ac551a04f3deee667af03635becf212fae21c78c2ef97231e65abb6c695fb72e59d133d94cf8e067aa3ae3a434c8f597
+
+Package: alsa-utils
+Architecture: aarch64
+Installed-Size: 2344
+Maintainer: @termux
+Version: 1.2.16
+Homepage: https://www.alsa-project.org
+Depends: ncurses, alsa-lib
+Description: The Advanced Linux Sound Architecture (ALSA) - utils
+Filename: ../../../../releases/download/aarch64-a/alsa-utils_1.2.16_aarch64.deb
+Size: 1034472
+MD5Sum: 5b7f07b4acf3ec8f8c61027fce092917
+SHA1: c6f4ad9d265c2f71e6515ee854017419e7cdb487
+SHA256: ba645d2b67fd0da19787a2303027e5b5028225e9d7977d833c8603357f970d76
+SHA512: aadf5a3a202fe0e6c85f9f18b8dd3bb9354afafade3e8f4de600dcec6fe78e7493de8da10ecc8d2260f3feb6673d1cd4c19530cc5c00870901faa390f2434162
+
+Package: discordo
+Architecture: aarch64
+Installed-Size: 10952
+Maintainer: @termux
+Version: 2025.08.06
+Homepage: https://github.com/ayntgl/discordo
+Description: A lightweight, secure, and feature-rich Discord terminal client
+Filename: ../../../../releases/download/aarch64-d/discordo_2025.08.06_aarch64.deb
+Size: 2892048
+MD5Sum: 69672e984e12b35f6152f97e0d9942bc
+SHA1: 2d20850ea857cdf309b2415fc650cb0d56b4af75
+SHA256: 0d70a809128cb37e14e1c180b3bef3f3222dc90bbe338bcbfa20401ab82f3b47
+SHA512: f4dda6ab736bb111487609613d18a09d7bdb2245b144c3af3ecdde4bde91d5b3e083ed301562ed7d45a2c750c4706a27fffa082bb0c234bc17edd0cb61ce36d7
+

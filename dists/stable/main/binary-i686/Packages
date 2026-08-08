@@ -36700,3 +36700,47 @@ SHA1: 9a98abbe7830eaeb08b3b178d9952df06432f0b2
 SHA256: fb7bafdf1e0c1adcc665912b230ff60765795ad516b0a07bbd7eb145027da728
 SHA512: 83746fb74a89bea8910325be55dfd6004523b84aeedf76be53c5163ada6ef303fac801ec7996f49841bca4bf0f8c501f736b0a15c2ce271d1d7a50ef5cde0d88
 
+Package: alsa-utils-static
+Architecture: i686
+Installed-Size: 108
+Maintainer: @termux
+Version: 1.2.16
+Homepage: https://www.alsa-project.org
+Depends: alsa-utils (= 1.2.16)
+Description: Static libraries for alsa-utils
+Filename: ../../../../releases/download/i686-a/alsa-utils-static_1.2.16_i686.deb
+Size: 25360
+MD5Sum: 378e8abeef2593bb8c4ff43fe4b8917d
+SHA1: 14ec3b057d322d1bca7fc8048be178103748df9d
+SHA256: 2ef8e0a940b7566879149576312faeb99b0b798ce26ee5b9d8f3365965681cb1
+SHA512: cd0e634ed57c4170f08e8ea3dc3e32f8f934925ab122b558f8bacea16372ec33c282db92db52b77b89476df304a995e7b61498d85eb2ba22c53d1437caf740a4
+
+Package: alsa-utils
+Architecture: i686
+Installed-Size: 2260
+Maintainer: @termux
+Version: 1.2.16
+Homepage: https://www.alsa-project.org
+Depends: ncurses, alsa-lib
+Description: The Advanced Linux Sound Architecture (ALSA) - utils
+Filename: ../../../../releases/download/i686-a/alsa-utils_1.2.16_i686.deb
+Size: 1044936
+MD5Sum: 3b21f12c44de2bc9bdf80c9db5368b3b
+SHA1: 792362d654ed8a543cfc189375a0885ed7a01b14
+SHA256: 405dc09beb091b03d89010aea740ac5b701de0ed468ce6bd9663318b7fe9e02a
+SHA512: 9bb7c49a3c1c6fe51bd14ebddc75dfd40227521039a1ac8b8552efe2d0be7e6d7c524d6816f12ec22a488bdc0c12081b85dd7023d3296648f6030b426560f339
+
+Package: discordo
+Architecture: i686
+Installed-Size: 10616
+Maintainer: @termux
+Version: 2025.08.06
+Homepage: https://github.com/ayntgl/discordo
+Description: A lightweight, secure, and feature-rich Discord terminal client
+Filename: ../../../../releases/download/i686-d/discordo_2025.08.06_i686.deb
+Size: 3444552
+MD5Sum: 86ce42d16589109f66353618633d8ff5
+SHA1: 096290e30d3ec1a92b305fbd5cc027c73ae45a20
+SHA256: bb1c15597a4c3385b3ebd431a76af4023bef4bb2dda6ff84a01e69601ab0f3ee
+SHA512: 1d80c04c8a8ab6bc924da47091267d354e29da19896c4522fc129615ddba07c3b491ed397465fd51e1cb21ff00f8f972809bf98a87a6000d6d1fb6a07c9ac2fd
+

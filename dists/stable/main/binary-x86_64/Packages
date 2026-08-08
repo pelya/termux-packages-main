@@ -37657,3 +37657,47 @@ SHA1: 60ba4ebd5c313e2d514fa270664ae1bf408d504e
 SHA256: 658b4e36dc731445b3e59cd8d919c8a04a56994841e04c5a725537d31e3551b2
 SHA512: 1fea90c993ad9449772654ccca3ebd354797fb8e6c24ce826e4c0da158c8096389a24b283f3d91686e31dbd3b9f5a49b29cf24666deb935b954f281868dfd75f
 
+Package: alsa-utils-static
+Architecture: x86_64
+Installed-Size: 124
+Maintainer: @termux
+Version: 1.2.16
+Homepage: https://www.alsa-project.org
+Depends: alsa-utils (= 1.2.16)
+Description: Static libraries for alsa-utils
+Filename: ../../../../releases/download/x86_64-a/alsa-utils-static_1.2.16_x86_64.deb
+Size: 26592
+MD5Sum: 3b35455266d767cf2a9354962d069aea
+SHA1: 0e37cb759421ed2ff532bdf2eb1779d18e008ab9
+SHA256: ab42fb6863b07981921e5014fdd03dbc7a366178237fbe615e08ca25326c5b47
+SHA512: 6e12518c7355c661da9820a10c99eabf927ff315cc457ca7d3616661c285e747400f1e3dad41f0e8a7ca2125433232a2f320bdae2401caa41e2cf304744d9b3d
+
+Package: alsa-utils
+Architecture: x86_64
+Installed-Size: 2332
+Maintainer: @termux
+Version: 1.2.16
+Homepage: https://www.alsa-project.org
+Depends: ncurses, alsa-lib
+Description: The Advanced Linux Sound Architecture (ALSA) - utils
+Filename: ../../../../releases/download/x86_64-a/alsa-utils_1.2.16_x86_64.deb
+Size: 1051884
+MD5Sum: d45b1e52630eb3065d91edfe3410f45e
+SHA1: 2e55b60fed2eefd5f46e284d8b644bfaf3e83d96
+SHA256: b7111a5f1c56ffc63c476d91de5ae7236758b1eb7d6101b75b378fda967e0169
+SHA512: 9ddd23d710226ee49f376297215cdbb3dace2596c2b82011f0c2321bff26650a22fb98b704eb8291ab4a4861ae2e45a8f96c8f84ed127e0669cd406e4d1be646
+
+Package: discordo
+Architecture: x86_64
+Installed-Size: 11784
+Maintainer: @termux
+Version: 2025.08.06
+Homepage: https://github.com/ayntgl/discordo
+Description: A lightweight, secure, and feature-rich Discord terminal client
+Filename: ../../../../releases/download/x86_64-d/discordo_2025.08.06_x86_64.deb
+Size: 3315500
+MD5Sum: 91deaa8dd855522ece5947ac4e48b9ae
+SHA1: 20b8fd2aa2eba7658cea7da612b07c31eb9e44a9
+SHA256: e07b4b76f23e5d9854c4beea1fca451a5dd37ae8d0b08bb68c01e20365ea0690
+SHA512: 243118f82829a6e742267c5d75f24feac8c02ad298a9daa252ff8a9e612ad013c50236e7fdabecca2b044010684528bc5409f2371861889c5bcd5701a1089a19
+
