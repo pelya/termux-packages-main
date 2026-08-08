@@ -705,3 +705,18 @@ SHA1: c9a90166ac3ed86e1063fcc276f430a9ea16a8b6
 SHA256: cda152ea6da22d17ec8c2452accc098147fa70aecc6fea46c5be68066dd21b86
 SHA512: 858a450e88e62006a8b85f71393e032cda38e80189983e6322b7847ac0889686bf213f6615694012487a03ff8bdd1daeda5b3d0aec00cebbc4099a759919b28a
 
+Package: smartmontools
+Architecture: x86_64
+Installed-Size: 2472
+Maintainer: @termux
+Version: 7.5-1
+Homepage: https://www.smartmontools.org/
+Depends: libandroid-glob, libc++, libcap-ng
+Description: Utility programs (smartctl and smartd) to control and monitor storage systems
+Filename: ../../../../releases/download/x86_64-s/smartmontools_7.5-1_x86_64.deb
+Size: 579572
+MD5Sum: f6c32e4e8eebe955d851b548dabb9322
+SHA1: 9966736a817ce9eb38a65de6a498d3cceaf63628
+SHA256: 85bbe57096681b6e0965834e3d163d6ecc328e7268538255a7bd32ddec5b3dff
+SHA512: 8f3cf2507c46d932b65768da522bda6c6b64a2a69b4389c7c419f3b1b864a576e2caabdb431507d55bfade65f2932f7e3b57c59416bf9ba1e0f22f5c44e5224a
+

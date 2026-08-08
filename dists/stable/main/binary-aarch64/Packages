@@ -37877,3 +37877,18 @@ SHA1: c3d63ef72ef644c341b741a27731d5813b3a2cb9
 SHA256: 651e0b8457fcc816f5125948589712c8aae3980c3a0e00ebc2c0ed88108a5f81
 SHA512: 75b92150998661541eee964cde8ddb9be1b54eb1d8d9fbe3a731356fa9ada8812e70d05dbf6c8abebb97cc74264710ed71762440a0a3c7828ddccb65326f9dc7
 
+Package: spatialite-tools
+Architecture: aarch64
+Installed-Size: 592
+Maintainer: @termux
+Version: 5.0.1-5
+Homepage: https://www.gaia-gis.it/fossil/spatialite-tools
+Depends: libexpat, libiconv, libspatialite, libsqlite, libxml2
+Description: Collection of tools supporting SpatiaLite
+Filename: ../../../../releases/download/aarch64-s/spatialite-tools_5.0.1-5_aarch64.deb
+Size: 150688
+MD5Sum: f3ef6186bc7b1c4f2042e0ae204792e7
+SHA1: 35cb5e7cd952cf71a4edf7c98103c1912c769553
+SHA256: d3585ca387499f1d8509c69e749492480561a46ba4ac1b02317d85278027fdfb
+SHA512: 083f0db76eb71b8b57f75a568b50f26b9ea74426a5b872c5ae5e4b7bd4cd7fcda06b5519b8a1a9d4d016a143debc8c804e4e04957c7fc594a4435a14970cdd45
+
