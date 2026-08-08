@@ -13558,3 +13558,33 @@ SHA1: 2318d62e1a8833a13e1768b8bf5cf55eae405df2
 SHA256: 3216add4e8c249fe4473a43d9d50b1796dc622a57068696b6d91fe02cfdb8e23
 SHA512: 14d8060ca7f1d5203c8cbdf1b32707efec0d347bf6040d89c564e4bfe6167cc8deba39db2f48937bcec96477aaf8ff0365e5626d1e942b4c8f92b563ea71b9db
 
+Package: ibus-libpinyin
+Architecture: x86_64
+Installed-Size: 3076
+Maintainer: @termux
+Version: 1.16.5-1
+Homepage: https://github.com/libpinyin/ibus-libpinyin
+Depends: ibus, libpinyin, libopencc, libsqlite, lua51, libdb
+Description: Intelligent Pinyin engine based on libpinyin for IBus
+Filename: ../../../../releases/download/x86_64-i/ibus-libpinyin_1.16.5-1_x86_64.deb
+Size: 724932
+MD5Sum: ca8122073513797b76ef44bfe93d060a
+SHA1: cf44fb80f07766049a7001677c3131fe2dd4eacb
+SHA256: 661bc5ad9d1aa983743a61a71a48ac49a40334694f903502f9f9690422deca45
+SHA512: e5799c32b1c5c35236a637b800b654dbb3262045c5edebe4911699ebf92c47c5998f72681963d6c6c8d729006cf287cc2249f15baacc4ee2c4bcfb833c1a324d
+
+Package: texworks
+Architecture: x86_64
+Installed-Size: 6320
+Maintainer: @termux
+Version: 0.6.11-1
+Homepage: https://www.tug.org/texworks/
+Depends: hunspell, libc++, lua53, poppler-qt, qt6-qtbase, qt6-qtdeclarative, qt6-qt5compat, qt6-qttools, zlib
+Description: TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents
+Filename: ../../../../releases/download/x86_64-t/texworks_0.6.11-1_x86_64.deb
+Size: 2658288
+MD5Sum: 3ea386ddbc6091cdd3b6d3ad52287158
+SHA1: e65f7d936aede9d75b15d159296202f700259c12
+SHA256: b59fb9af8841e21c712e3ecde0f0fbed65e3d25244028c57778b9decad96da91
+SHA512: 15ed7979d2906b3c69182ceb50001d163d98109028baa034c8f288cfcbf0e9e672bdf50b5c8de6acc20b4a9c999fc0bd89046f669b2c860e220d3dc0f4e9aab1
+

@@ -13630,3 +13630,33 @@ SHA1: 7eaa6c8aa1b30b44d9680abb03ba1f4ee6751203
 SHA256: 9a1220ac7c0d19cc18811afabe42523e11ed733e87301241402a09214a389cad
 SHA512: 955b42efccfb0cdb687f2b402495a484fc1e0854fe96d1e955ae9fab9386229b1cb3662bfdf8ab37375683d091abe0daf02a81e9aa9cd9d96ae6aedc46e8f7ae
 
+Package: ibus-libpinyin
+Architecture: aarch64
+Installed-Size: 3084
+Maintainer: @termux
+Version: 1.16.5-1
+Homepage: https://github.com/libpinyin/ibus-libpinyin
+Depends: ibus, libpinyin, libopencc, libsqlite, lua51, libdb
+Description: Intelligent Pinyin engine based on libpinyin for IBus
+Filename: ../../../../releases/download/aarch64-i/ibus-libpinyin_1.16.5-1_aarch64.deb
+Size: 720340
+MD5Sum: 0653b71b41a4a23c03eb6b808ba23a1d
+SHA1: 9fa00649179f2f4c119ef647d4a1ddb4d169d736
+SHA256: 6bf26a16a4ac194a6a50fd666593635930cc83f54db75e67c735db83c6d73ff0
+SHA512: cea5d25e6de216f13f5c017325dfcbf2c00d7bb88e449fec48beac6507c7487151308d39b4b534946899a2f7abcb2fe8005e7707ee034f4767b24c4a8e6d434e
+
+Package: texworks
+Architecture: aarch64
+Installed-Size: 6348
+Maintainer: @termux
+Version: 0.6.11-1
+Homepage: https://www.tug.org/texworks/
+Depends: hunspell, libc++, lua53, poppler-qt, qt6-qtbase, qt6-qtdeclarative, qt6-qt5compat, qt6-qttools, zlib
+Description: TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents
+Filename: ../../../../releases/download/aarch64-t/texworks_0.6.11-1_aarch64.deb
+Size: 2602868
+MD5Sum: e0e9e177cc2e5940a93b23ff8495a797
+SHA1: f1ff110446e8ae4c4a02407556c53c27e73ae722
+SHA256: 28e6172e08cfac5957d128529aa6588c5631ce346e4a133c74020be5dfe5a0f3
+SHA512: 55402e229d926029904d79d565cb186b0d5ce9e771097beabd1d2d7898b220b5d350790a888a74712f5455f50c4ba919eab50a2f746bb86e7ffbf01c732cdf7d
+

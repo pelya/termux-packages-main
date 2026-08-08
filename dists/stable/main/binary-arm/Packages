@@ -36607,3 +36607,33 @@ SHA1: 3c1491f670ece5a3e9568153bbb157688ccf2491
 SHA256: 3a909f2cefc3616adb5618c44cc8096a47eb474bca4a18f8c1296558c87ce962
 SHA512: 99a36546596743ec1d8a8abfa8ac99ec40801f721ca92396adb3e1f1846d5471aba92b01573b0be69177928f4102e36b14234c1c8ea55f00add09712d3475291
 
+Package: libpinyin-static
+Architecture: arm
+Installed-Size: 1608
+Maintainer: @termux
+Version: 2.10.3
+Homepage: https://github.com/libpinyin/libpinyin
+Depends: libpinyin (= 2.10.3)
+Description: Static libraries for libpinyin
+Filename: ../../../../releases/download/arm-libp/libpinyin-static_2.10.3_arm.deb
+Size: 193332
+MD5Sum: a9727d707d235afb0d36ff6524f4fc34
+SHA1: 34f1b6d4f1fb3afb91573f0f1e5714ef3644b401
+SHA256: dac52b08d5a6e57396aea0c884fc8e86868e3acf707fbcbed6a8c8ac201792f2
+SHA512: bcd206e92c52bd0b834791c90fad68431bb6970a73a6c5612b8ee262f02f42f92e231e858e1476602ca96571852dc2db26610120e171a0110b1b68d1355824c3
+
+Package: libpinyin
+Architecture: arm
+Installed-Size: 51764
+Maintainer: @termux
+Version: 2.10.3
+Homepage: https://github.com/libpinyin/libpinyin
+Depends: glib, libdb
+Description: Library to deal with pinyin.
+Filename: ../../../../releases/download/arm-libp/libpinyin_2.10.3_arm.deb
+Size: 12217032
+MD5Sum: 57ab7bfb2e1252631622119b2c50b3fe
+SHA1: 2d98040f52967878ca675436651afda03b0803bf
+SHA256: 9261a12fb4531e12535c548c696446c6dc4c60d5f30e21a925ee33feb873b39b
+SHA512: 4919d9d56b8b05e33794e4981a9e89e37090fc1775ba599d3fc121def344c99a00a955dbb00334fbaa529e23588b0ed49ba9560e70597c08d8ccdd1d3238170c
+

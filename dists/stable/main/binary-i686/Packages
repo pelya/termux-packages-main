@@ -37356,3 +37356,33 @@ SHA1: 0685376341a41fcfe33a2db0783d982be83f50a2
 SHA256: 6368656208a94d83754bfc0929cbb206ccd7dfa3992c84686c4bd26dd350be1b
 SHA512: 495c591f1572eff0ae9a4a8acf939e16794e717331a33460a75f7fd64a01a6e242dc92f2388d7b7d1088a2faebfad18fb4e120b439dd999f0431b6cc526a4849
 
+Package: libpinyin-static
+Architecture: i686
+Installed-Size: 1336
+Maintainer: @termux
+Version: 2.10.3
+Homepage: https://github.com/libpinyin/libpinyin
+Depends: libpinyin (= 2.10.3)
+Description: Static libraries for libpinyin
+Filename: ../../../../releases/download/i686-libp/libpinyin-static_2.10.3_i686.deb
+Size: 172660
+MD5Sum: 5d1fed1f3716c92e9f4201db05cbcd9c
+SHA1: 37d32368a5055140249aaffb4ce2b0b7144067e8
+SHA256: f18acac22e37b998eb25fddd0b21197c12df44544298b18a20710a91f104620e
+SHA512: 7efbb32444d70dbf5c0fd81f4a0f2d7d1b2aefa09d2fb1b1dfae082a8617609075da5a7c7cca2725c921d905a92ffa8ce9be4dac2e12c5290971c7fd0ee1261c
+
+Package: libpinyin
+Architecture: i686
+Installed-Size: 52084
+Maintainer: @termux
+Version: 2.10.3
+Homepage: https://github.com/libpinyin/libpinyin
+Depends: glib, libdb
+Description: Library to deal with pinyin.
+Filename: ../../../../releases/download/i686-libp/libpinyin_2.10.3_i686.deb
+Size: 12282376
+MD5Sum: 47362addd49c2db7c47a579740d10e3e
+SHA1: b78f27918ea9acb37e9e17de64c22c9e851fa8b3
+SHA256: f741218bd8b17e10f23deff821f08917001d7bae0e80c84c97a8a279423a9e05
+SHA512: 96444ca262cf93b9b17b5ba646a71a45e44e7327a91e66446d818f979e79f74d50ff8eb856587a58e40025221acbad2ef1b71a4d020d179271ebc0ca2d848412
+
