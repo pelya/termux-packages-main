@@ -38014,3 +38014,17 @@ SHA1: 1a0278e027a4e597a6a060753f72fb866a116e9e
 SHA256: eda34729839d6520607f94a488798c0b33ee3464d21639e870cf4768dcfe8fb0
 SHA512: cf4b130f693d2e066ad7cc32429f80405860cdaf6c51d4cfae23cad543b1726f90e0d224b94be985e6c8d68c67cea5d77a050c23e2510820303c9c073e83c960
 
+Package: netsed
+Architecture: aarch64
+Installed-Size: 60
+Maintainer: @termux
+Version: 1.4
+Homepage: http://silicone.homelinux.org/projects/netsed/
+Description: Alter the contents of packets forwarded through network in real time
+Filename: ../../../../releases/download/aarch64-n/netsed_1.4_aarch64.deb
+Size: 8088
+MD5Sum: 8e775401933f42c8ff1fb494bf6b93ba
+SHA1: 007cd04f3dd301125498712791567d1fd093d2f1
+SHA256: 828dbbf5238519be45c6bfc51023e6de9292c99748b0031458658832795531c6
+SHA512: a73a1058e79b658727c8979e9adcfc3848d8fd01f2215b5c5b94f0dd9577c9cdcdac1cde2974308c79f6466c178fe7991bfe8bc183975547766de5da83378e0a
+

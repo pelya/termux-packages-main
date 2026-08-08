@@ -13221,3 +13221,19 @@ SHA1: a408b6ba223d7a384360d9c89cbaed0732e95ea3
 SHA256: eaa71727a0f02a135f45e3cff56d2b52484080fa4b41cff9eead1d1f75315c32
 SHA512: 750ab9bd9f5041d6504321661adb9c10eaa0c77527d5d4894a8bf655081d9ca11bf4c6846ba69511d77144f0a67b1abf594a395f22d7c52e3652b55bf44832e3
 
+Package: emacs-exwm
+Architecture: x86_64
+Installed-Size: 476
+Maintainer: @termux
+Version: 0.34
+Homepage: https://github.com/emacs-exwm/exwm
+Depends: emacs-x, emacs-xelb
+Recommends: dbus
+Description: Emacs X Window Manager
+Filename: ../../../../releases/download/x86_64-e/emacs-exwm_0.34_x86_64.deb
+Size: 65680
+MD5Sum: 0c1f8ecbe896f4cf0b7fb93096a5ce74
+SHA1: 3ceb17e9635cec8215a45ed031fd59e0791753a4
+SHA256: 4b60a333edc2b5e979c2799104d26d9055233904680c191ec0dfbb5cd6322a85
+SHA512: ff2218e3a6d39440c79971c965e1f579c25fc907e54a721c6b57d015e472be9b229b3506d3a13cad93ed8c6ad624f64eff559e68f2047936381c6da463a5add1
+

@@ -12479,37 +12479,6 @@ SHA1: ff921adea060678e1daa9011962f45caaad1bc31
 SHA256: 0813bab75e587f88f5a06075c26e38b745cebd1cb63ac7b789798354ba3a15fd
 SHA512: 446e403b62e8f7b3a6e2bf66dc09a6040b7d09ed204989b8a03d02440a85c0ea44a33d3c5f6e19f4f440f90475a75ef50fabd38fb284a941ad4c619ac60b7eb0
 
-Package: libexpat-static
-Architecture: x86_64
-Installed-Size: 280
-Maintainer: @termux
-Version: 2.8.2
-Homepage: https://libexpat.github.io/
-Depends: libexpat (= 2.8.2)
-Description: Static libraries for libexpat
-Filename: ../../../../releases/download/x86_64-libe/libexpat-static_2.8.2_x86_64.deb
-Size: 65408
-MD5Sum: 9a5f37e2052d3eb0b37b5ce6d11565e5
-SHA1: 1cf977ee01acd7b2d5eafc77b80d42c14a3dcab1
-SHA256: 1541fd2b8dcfbb325f66820af10114af433389e508c02b1ac926fb20044aa401
-SHA512: e5f10844194a4b484befd2c2ef6d522a4dc34ee86fc8455dbbb9d5b2445526f7a633594a5225aabd85adb3a7357f6140fd0499da870f4ac002690e70b446ec2c
-
-Package: libexpat
-Architecture: x86_64
-Installed-Size: 412
-Maintainer: @termux
-Version: 2.8.2
-Homepage: https://libexpat.github.io/
-Breaks: libexpat-dev
-Replaces: libexpat-dev
-Description: XML parsing C library
-Filename: ../../../../releases/download/x86_64-libe/libexpat_2.8.2_x86_64.deb
-Size: 101352
-MD5Sum: da1c94fd41be4dd01b1c1509b8b3b7e3
-SHA1: d6a94b1420e55cd335b0049454c187652c6c8e19
-SHA256: 94fe97a0983ac5e3a8733a4ba7bfac5e1257bd0b8cb64df3a796ffb17211cfad
-SHA512: 13901eb56ade1d2ef54069c1522c07b337f494fb428b296851e68e692d0383675ba2b4ef9a2429975910f3470d7c5ca80d12d73af11174f876647674acf50543
-
 Package: libfann
 Architecture: x86_64
 Installed-Size: 704
@@ -37982,4 +37951,49 @@ MD5Sum: 9f8feb3c05a134b19bc62b2b5ed8eadd
 SHA1: 09c39bba37a478abd6e7046bd4317f62be0b3499
 SHA256: d43ae2edfd590a3d7ec192211bf072f8a392f7e23402d9d798e5fe4c37ea145a
 SHA512: b111f82a4af1681abb8c2e65d7df41d122882ec95cf2cf69b8c282c4cf56e13abd6f02217d1bcad3c79ce5344db0766b9c003a039215059540ad0867c7c3c676
+
+Package: libexpat-static
+Architecture: x86_64
+Installed-Size: 280
+Maintainer: @termux
+Version: 2.8.2
+Homepage: https://libexpat.github.io/
+Depends: libexpat (= 2.8.2)
+Description: Static libraries for libexpat
+Filename: ../../../../releases/download/x86_64-libe/libexpat-static_2.8.2_x86_64.deb
+Size: 65444
+MD5Sum: bf588fcab3a172bd916d8fd44246abce
+SHA1: bf87ae0e9ad6f54e1dbb2f99f23c5087085f42e0
+SHA256: 1a5c5bb67b986bb22b0c3d0ba5feea67c89819e5b9934e78e87d517d15051dfe
+SHA512: c00f6af0474fefceafd52bf628b747a4a75adbccfbbcaab1f1d76897f39a7c8190eefdb6b7bfc92c9c35be2ebf4649116553b5f677b8e4f019aac1a083fe2474
+
+Package: libexpat
+Architecture: x86_64
+Installed-Size: 412
+Maintainer: @termux
+Version: 2.8.2
+Homepage: https://libexpat.github.io/
+Breaks: libexpat-dev
+Replaces: libexpat-dev
+Description: XML parsing C library
+Filename: ../../../../releases/download/x86_64-libe/libexpat_2.8.2_x86_64.deb
+Size: 101308
+MD5Sum: ecb45058d5c05f28dde5a45f1c9cce98
+SHA1: a9c617c360ef8135f9ce2e304185f915b9840e7a
+SHA256: 7c1fe953513e1a9dba2f1bd4cda168700f1188aa5b4f5e5d53a705af495261fa
+SHA512: d0557a225d134376c0573d4130ed9062f722372a5821dc840ffd61d123d3823e80f1acb19c1b4a83ee8ad7c5883a5dd9b74a2ac1f8ee5307aceb3e0c65e18ae9
+
+Package: netsed
+Architecture: x86_64
+Installed-Size: 60
+Maintainer: @termux
+Version: 1.4
+Homepage: http://silicone.homelinux.org/projects/netsed/
+Description: Alter the contents of packets forwarded through network in real time
+Filename: ../../../../releases/download/x86_64-n/netsed_1.4_x86_64.deb
+Size: 8468
+MD5Sum: 839f027177ac8af1fe3bc8fcad809471
+SHA1: e3f73e72afc288b7e74f051335856e00af2de935
+SHA256: 85fd36f518fd36f59dc7932e0edd0f17b9bed67b103ad7d383652a6cd3c9a6dd
+SHA512: 6ed492235bf90144bebebbf53564acc63f5af31d258027c08637c13812f8f0fb39c342ae4083339283e1079e1e51b7a19c06ebe2947221a15eb87c68a89c90c1
 
