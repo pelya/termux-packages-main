@@ -13354,3 +13354,18 @@ SHA1: 0a4063b689a868289eb77835e71d9b29ad7ab163
 SHA256: 450d6eb97cf7ec43c55f07c34a48bca6c4eed10e7ff2752fdf24c9b222a05087
 SHA512: 04df2a7da15db671b6d4b239fffb1586c706809141a8890945e3539e02cf6052109ef74df7c6673b10b93f8573dec6895bc94d6a632e3bae1c3ed54499e509e0
 
+Package: xf86-video-dummy
+Architecture: aarch64
+Installed-Size: 104
+Maintainer: @termux
+Version: 0.4.1-1
+Homepage: https://xorg.freedesktop.org/
+Depends: xorg-server
+Description: X.org dummy video driver
+Filename: ../../../../releases/download/aarch64-x/xf86-video-dummy_0.4.1-1_aarch64.deb
+Size: 10772
+MD5Sum: 73225c2482209b7d336df12a1a8beef5
+SHA1: 02827a45f3b714665acca07823784696be5c1800
+SHA256: 16698da49f03732010f995658aff510eff290347613d0162db13493002ae0dde
+SHA512: 0139ceb486a110ad04172fe83c2409452cd95f462bc61feec3701905a139189b7c4f0d187f980fc2d02fa5e3d528cd6cdd600f239572dcb1c91956f548863c38
+

@@ -735,3 +735,18 @@ SHA1: cda88fdfb1bc598421282c362f76cad67bfe6f05
 SHA256: 37642f00cf9df8a596bb5593d0709ac858f1f279937d65debe313f6fd2fb46ac
 SHA512: 65153c771ef8e2db463c30b848526442d1baae3f84397ac4afc323c0df44700e632f2035e352904f43e3d359d0cfc611b961699284453e5524dfd87e14893240
 
+Package: tinc
+Architecture: i686
+Installed-Size: 324
+Maintainer: @termux
+Version: 1.0.36-5
+Homepage: https://www.tinc-vpn.org/
+Depends: liblzo, openssl, zlib
+Description: VPN daemon
+Filename: ../../../../releases/download/i686-t/tinc_1.0.36-5_i686.deb
+Size: 96632
+MD5Sum: fc88d04ffb2c46071bc6890a416a8dd4
+SHA1: 7360ee4e6740340b9f9bb7733c43bc7a7707199a
+SHA256: 57641e7f172844c1ffccec6ed953c136700a8d0ce683ce7b923baa36f22158e3
+SHA512: 1a68ca16ce62ca89c5c1b7872e482b422509956836d150b2cd19fee4e7f8beb0b5c00a933009eb507651359872a420d0ec0c220f61a77bfaa9a04ffa98a1db03
+

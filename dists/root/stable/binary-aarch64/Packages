@@ -735,3 +735,18 @@ SHA1: 01c9902ed48ea4247f32cd5a561f97fc4abe93d5
 SHA256: 3786f3146df120d40ea882d373e018543ee018471133f0c997513ede73e6b0b7
 SHA512: 7fa18181aca5e753c5077348c40aaaf7e52dd3de37df0db83b2002b369f63ab477dd23dae05dd097761111253dd48cdd1ad96cb2d3a57bafde352b6186492d58
 
+Package: tinc
+Architecture: aarch64
+Installed-Size: 328
+Maintainer: @termux
+Version: 1.0.36-5
+Homepage: https://www.tinc-vpn.org/
+Depends: liblzo, openssl, zlib
+Description: VPN daemon
+Filename: ../../../../releases/download/aarch64-t/tinc_1.0.36-5_aarch64.deb
+Size: 93084
+MD5Sum: f137769a7e102bbb242773e6a7ae48c1
+SHA1: fa346cc90796ef5c82acb2435c18ed3f941fbac6
+SHA256: dc6f8e36036cc60ed0bd4d1df1ada64c3cfe6d14cfd361b844c195d5967952b8
+SHA512: dabc1806526c34277610a17372b48185d15d1c5c2e8b8c175503c518d8ef1a1b3fcb386667fc21d5aa0235155c990f8db6ed3dcdd6e3a34cb450acfec06fd85f
+

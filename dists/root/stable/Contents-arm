@@ -984,3 +984,8 @@ data/data/greater.underscore/files/usr/share/man/man8/update-smart-drivedb.8.gz 
 data/data/greater.underscore/files/usr/share/smartmontools/drivedb.h             smartmontools
 data/data/greater.underscore/files/usr/bin/minikube                              minikube
 data/data/greater.underscore/files/usr/share/doc/minikube/copyright              minikube
+data/data/greater.underscore/files/usr/bin/tincd                                 tinc
+data/data/greater.underscore/files/usr/share/doc/tinc/copyright                  tinc
+data/data/greater.underscore/files/usr/share/info/tinc.info                      tinc
+data/data/greater.underscore/files/usr/share/man/man5/tinc.conf.5.gz             tinc
+data/data/greater.underscore/files/usr/share/man/man8/tincd.8.gz                 tinc
