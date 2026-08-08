@@ -37080,3 +37080,20 @@ SHA1: 7b554d55b029de34407b954659327d9b03aa0af3
 SHA256: 8cd3b7ece27af1df19c7385aa02f3876bdfe18dfdd50fbb6456de0d13ef90d13
 SHA512: 07bfd6700668fe2a248f599f51663330a3c0a0c51ada5833423d9734bc65c4c6260bad45d07befd6ca11da38200699eeb2783bcfa7e56f5a7586a4efbefb8150
 
+Package: atool
+Architecture: all
+Installed-Size: 184
+Maintainer: @termux
+Version: 0.39.0-2
+Homepage: https://www.nongnu.org/atool
+Depends: perl
+Recommends: arj, llvm, bzip2, cpio, file, gzip, lhasa, lzip, lzop, p7zip, tar, unrar, unzip, xz-utils, zip
+Suggests: bash-completion
+Description: tool for managing file archives of various types
+Filename: ../../../../releases/download/arm-a/atool_0.39.0-2_all.deb
+Size: 34740
+MD5Sum: 2c1f9fa24b8006504afafc2953794f94
+SHA1: 0d89ec01a295a828859d1c9c370cb83764b65595
+SHA256: 7735213e4810c93e31f7394d1fb0b052bab20f070cf218281a74d07f47fc7f6b
+SHA512: 64e63a21dfb04b28e4e1c032d60c058da46f675b2d83bd8e1dd3c8c1e0cbc7596f1d2cb4e87c9b3604f857a4fd6be6a348bc1f30bb8939d5e3813d5640318a88
+

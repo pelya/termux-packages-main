@@ -13525,3 +13525,18 @@ SHA1: f207e23ac269cdc638aa925fd9fff7b4dbb0b475
 SHA256: 505b56ff32e3b5b035c3e60ad2cabc4d74d4e089596a0c7cf2828438d2c7f56c
 SHA512: 5ca7fbd9eb728dd56909bf3f40e37405e32747bcc72eba490e8493a36c843797c5dd0e3a771379764d912c356f1d85c2ce1ddd0ea86323c1f52dbec7ad23899c
 
+Package: phonon-qt6-vlc
+Architecture: arm
+Installed-Size: 304
+Maintainer: @termux
+Version: 0.12.0
+Homepage: https://invent.kde.org/libraries/phonon-vlc
+Depends: libc++, phonon-qt6, pulseaudio, qt6-qtbase, vlc-qt
+Description: Phonon VLC backend
+Filename: ../../../../releases/download/arm-p/phonon-qt6-vlc_0.12.0_arm.deb
+Size: 80900
+MD5Sum: 2c9e3ddb5dda2c48143a931f211bbfb1
+SHA1: cced2d995eff406a65bdf367d67ea2c31992cc58
+SHA256: d7de223800b67dc627f293f66d3cbaf09ea30688a260e9eb022d979aa40881d4
+SHA512: b579ad026a88252a2ac694ce22e3e5c4c1ff4a225cfa3ef1abce44ff8d103780f5367d6380bd3d630de4735eb2b4def916230c10557618cf58ae55bcd9abd5ad
+
