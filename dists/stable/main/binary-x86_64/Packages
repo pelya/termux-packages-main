@@ -38957,3 +38957,18 @@ SHA1: ebac11a1028cae4da7a7c3bc4497d6991e7bfd19
 SHA256: 4a7dda0e9804221df76759faea0b048b7a2a63c9725e291de955ffd440fa8a7a
 SHA512: 08aa51ab588e8c4e87271d66ffacaadc7f8cd9dafb379af1dd626951ba57c891086d03baa0861c95469b0ff5f5fbf13a42cd7a5c4db6e416e7957371cd054b09
 
+Package: debootstrap
+Architecture: all
+Installed-Size: 332
+Maintainer: @termux
+Version: 1.0.144
+Homepage: https://wiki.debian.org/Debootstrap
+Depends: llvm, perl, proot, sed, wget
+Description: Bootstrap a basic Debian system
+Filename: ../../../../releases/download/x86_64-d/debootstrap_1.0.144_all.deb
+Size: 35700
+MD5Sum: 9dcaf3934f6619639fc24dffca327784
+SHA1: 4544f96984ffc998d029864ba39dd6a6ccd1d12f
+SHA256: eb70560b0b0a1269e2a9fb5e9f6747861fbe922988ba7e39e53b0e8f291dab19
+SHA512: 6b50839dd9bd97a03db7213d6208165bde9bfa41d7c7bdd58c6d2ac1ca8f75c4caa7ba740e2f1edd51740ea1f449af331a834f931406d2f2341fa9c11fc4ddbb
+

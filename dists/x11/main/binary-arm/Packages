@@ -13675,3 +13675,17 @@ SHA1: 7c2298a8322184eef6f8dec2f981e03d86e1c6f0
 SHA256: c04baea00f94cfd6f92371172ba168ba09daebd79195bffc0a8a049b0f5e819c
 SHA512: a30cb290eca25ca01fc09d97e446cf55b66136cd6d4dd55671d8bfecef60f4c726f22f8e1957c40ab12399ce7b968b8479be15bf7e6c01f54cd27e8fc1d4e2b7
 
+Package: arc-gtk-theme
+Architecture: all
+Installed-Size: 11760
+Maintainer: @termux
+Version: 20221218-2
+Homepage: https://github.com/jnsh/arc-theme/
+Description: A flat theme with transparent elements
+Filename: ../../../../releases/download/arm-a/arc-gtk-theme_20221218-2_all.deb
+Size: 284636
+MD5Sum: 333cf34467f784467e1f52d81ad2573e
+SHA1: f00acc596d3fae1971f29ef800df2c8fa84ddffc
+SHA256: 19a76759f9e92c2621bfc9e9a39a2aa447f09833c8e5a5d5661a48f206f9c303
+SHA512: 2970eb6c3d693364cb48a1e089d4f1ca5c9827fe6f221240f8e4695af682dea0582ed55591854a2ebb2aa0cc31d496e95db14925e938c0e78693d718c0f6a5e3
+
