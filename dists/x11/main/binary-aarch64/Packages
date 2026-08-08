@@ -14070,3 +14070,18 @@ SHA1: 93fb173b09af648e1519b918c9786f6dfbf92643
 SHA256: 1046cc6693c493f9aa9d2fb4dfb4ac600f7ac18acca4a9fb41dcdb8a05133aff
 SHA512: 98c170fc245aa1f2354c7de0dc950a2661b6731ae16bb0164d43641ff71d4d13244d0f7cb18d79704d364f81ccd87af92a3e7bbbdae5bbfc96de5f99c6120a3f
 
+Package: librewolf
+Architecture: aarch64
+Installed-Size: 266732
+Maintainer: @3ls-it
+Version: 152.0.5-1-0
+Homepage: https://librewolf.net/
+Depends: ffmpeg, fontconfig, freetype, gdk-pixbuf, glib, gtk3, libandroid-shmem, libandroid-spawn, libc++, libcairo, libevent, libffi, libice, libicu, libjpeg-turbo, libnspr, libnss, libpixman, libsm, libvpx, libwebp, libx11, libxcb, libxcomposite, libxdamage, libxext, libxfixes, libxrandr, libxtst, pango, pulseaudio, zlib
+Description: A custom version of Firefox, focused on privacy, security and freedom.
+Filename: ../../../../releases/download/aarch64-libr/librewolf_152.0.5-1-0_aarch64.deb
+Size: 64186424
+MD5Sum: 13cb5da2f45b3307f891e45874741759
+SHA1: b50cc3ae4a8b6e57d98e8ae7a4c37c0fff1cff3b
+SHA256: 6771c5c8a488c399ee05dc1f229f54229de1c9c68c5ddc51fe164ec5e54740bf
+SHA512: 1eca74159c68db0b1d3ece210a3bb6605bb7fde26fc49e9d7486be8702e9e17477783346e2848511be979be90decff88953f4eace621982a0d793f78f6e893ab
+

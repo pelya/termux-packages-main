@@ -13767,3 +13767,18 @@ SHA1: f937b82a58396a14bcf990fffbc38afed6c37a29
 SHA256: 54c13bb467b3cd4bfeb55cebbc1ce11c6529d7929bcce1a5467ff93923eaccd7
 SHA512: 5c3b6265c0441f31a9b7dab2df7548f34c3bc320c40cb68f477536936c45f0915e24789d97eacc52d4d27f2c6868594a44a9c687569cc8a74c1bd33d0aa756d2
 
+Package: librewolf
+Architecture: arm
+Installed-Size: 216996
+Maintainer: @3ls-it
+Version: 152.0.5-1-0
+Homepage: https://librewolf.net/
+Depends: ffmpeg, fontconfig, freetype, gdk-pixbuf, glib, gtk3, libandroid-shmem, libandroid-spawn, libc++, libcairo, libevent, libffi, libice, libicu, libjpeg-turbo, libnspr, libnss, libpixman, libsm, libvpx, libwebp, libx11, libxcb, libxcomposite, libxdamage, libxext, libxfixes, libxrandr, libxtst, pango, pulseaudio, zlib
+Description: A custom version of Firefox, focused on privacy, security and freedom.
+Filename: ../../../../releases/download/arm-libr/librewolf_152.0.5-1-0_arm.deb
+Size: 65235852
+MD5Sum: 26358151024b9b795745a2c8509df2f6
+SHA1: bf2888e1d09d51db6406db0062da8342fc88e502
+SHA256: dcc83d8bf7a6b504e81b7b24aa81ce7c1c56cb8706e299910777cdd04e7ffb23
+SHA512: d142f42448f8f0788e8f44738fdec592a07795c231e249d35be43eee458e44d4fb7890e4ed4b9f41ef1b4e239a726f40796016fc800eb86b799e0407ed30ce91
+

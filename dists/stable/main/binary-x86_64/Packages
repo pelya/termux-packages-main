@@ -39132,3 +39132,17 @@ SHA1: 836d7ab21a7e485c99c8e624b69f80acf82b7c1a
 SHA256: 5f9aaece3c8ce70cfc8421bd2280393dc9127edfe4508b6eb6a2886d1e73f42c
 SHA512: 4b4520954bd67bd657ee9268f027669ca40e4d702e8169beb7a1fbaa7a0b44ad05c25ea3c644f42e9dad996ba670f66f50f2f59f08a1164fbfd060c1368a0651
 
+Package: goose
+Architecture: x86_64
+Installed-Size: 43772
+Maintainer: @termux
+Version: 3.27.2
+Homepage: https://pressly.github.io/goose
+Description: A database migration tool. Supports SQL migrations and Go functions.
+Filename: ../../../../releases/download/x86_64-g/goose_3.27.2_x86_64.deb
+Size: 10174536
+MD5Sum: e247659f75ea1f64a84238bc7a0032e8
+SHA1: 13ec2d797abbf93e28b3bec0c6efef98084018bd
+SHA256: 651eb794044e1fd0031665a568a46b7bc528c290adc6ae8dc51a1aa9afadea7e
+SHA512: 2cd924c9427b028d08f1993ccc37e60f6f8d9688c252f21ea5e0ac7406e83b6225673f6dd62643eb52e655989fb0c4afedf117eb608ac2f4fda208b12b115059
+
