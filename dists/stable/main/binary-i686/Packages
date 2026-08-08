@@ -36655,3 +36655,33 @@ SHA1: 3a502262b04b83826f63d7ae9498bec88448609a
 SHA256: c990e1b39cba081d921102af07fe07cef5189dd8d45b9f809d779840787160af
 SHA512: e8c28517235e617007af14cb01f46539aecdeb8234ff21589ef14ff360d3910051102e4aad0c336450c6d4924fd8a28b6f24a370688dc006e86946e8fdf638a0
 
+Package: knockd
+Architecture: i686
+Installed-Size: 160
+Maintainer: @termux
+Version: 0.8.2-2
+Homepage: https://zeroflux.org/projects/knock
+Depends: libpcap
+Description: A port-knocking daemon
+Filename: ../../../../releases/download/i686-k/knockd_0.8.2-2_i686.deb
+Size: 29840
+MD5Sum: 86ce463a2300dbdcc67956f2fd4e3571
+SHA1: 81589e359c7bc17cbfaba30247769086c1a576f6
+SHA256: 913a357d7487b75212a2ef27030b5f9a4d0aaa3efc13eda29ea12f9757e66cdc
+SHA512: 06f14ee5e8613daf5295b1a44a540edb813decc523a35493706942161a35dbd66d529e1cd20ff1883f9c58c6b0bc9e1383b02aeae326b61a9a6fa3d921c0b490
+
+Package: minisign
+Architecture: i686
+Installed-Size: 80
+Maintainer: @termux
+Version: 0.12-1
+Homepage: https://jedisct1.github.io/minisign/
+Depends: libsodium
+Description: A dead simple tool to sign files and verify signatures
+Filename: ../../../../releases/download/i686-m/minisign_0.12-1_i686.deb
+Size: 12672
+MD5Sum: 3af6e2d7c44c7eb26e0434d698fe2930
+SHA1: e9734bb2e467492ec37f4eb8e6ffffcf8f9518d0
+SHA256: ae2b00583969c6718be9a6b2a3b392e2ec2f379ccad90569ef120263344098db
+SHA512: c54f538d427f604ed848050a37b4bf4e70e05adf6458c4f2cfa04d9cf44d6c66f226c668f88a0262bb955b52c922a394214a7e00c063514fd0d4f9e92f73ef16
+
