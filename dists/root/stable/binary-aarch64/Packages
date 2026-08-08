@@ -750,3 +750,18 @@ SHA1: fa346cc90796ef5c82acb2435c18ed3f941fbac6
 SHA256: dc6f8e36036cc60ed0bd4d1df1ada64c3cfe6d14cfd361b844c195d5967952b8
 SHA512: dabc1806526c34277610a17372b48185d15d1c5c2e8b8c175503c518d8ef1a1b3fcb386667fc21d5aa0235155c990f8db6ed3dcdd6e3a34cb450acfec06fd85f
 
+Package: arp-scan
+Architecture: aarch64
+Installed-Size: 1588
+Maintainer: @termux
+Version: 1.10.0-1
+Homepage: https://github.com/royhills/arp-scan
+Depends: libpcap
+Description: arp-scan is a command-line tool for system discovery and fingerprinting. It constructs and sends ARP requests to the specified IP addresses, and displays any responses that are received.
+Filename: ../../../../releases/download/aarch64-a/arp-scan_1.10.0-1_aarch64.deb
+Size: 460672
+MD5Sum: 97ef9bd1ed2180d1531c02384716b916
+SHA1: 849165c16dcd1e065ec1b8ee9844784335ddd6e3
+SHA256: b4d0b021d667bf00e860a82f2a124c385535761180961e30be704b54e4e6d359
+SHA512: faa80b26f5ebf1490760e263bb281e939fb84f3c259bab8c97d16c6ff6cfcafef2c813294312369ce01ae20235e863adba85b90ccf829ec2a6c4ef130b180eeb
+

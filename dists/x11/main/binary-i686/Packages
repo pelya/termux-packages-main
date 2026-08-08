@@ -12885,3 +12885,33 @@ SHA1: 79c529ca3690338fa8fd23bb70edad8727b12ec5
 SHA256: 9989babcf1fd1b1d853c17a34de53e50bb15c9a5528ce3752cadb6a56007173c
 SHA512: 47a2f699b6c0eca65b87fb2a2fbe57988056b3db1fa3ca35f0789a108d4f41c5485fb9215ec1f9ab96c20c801e5a8d1883f0df52d87463860aa6f7cd18f167fa
 
+Package: qt5-qtwebchannel
+Architecture: i686
+Installed-Size: 368
+Maintainer: @termux
+Version: 5.15.18
+Homepage: https://www.qt.io/
+Depends: libc++, qt5-qtbase, qt5-qtdeclarative, qt5-qtwebsockets
+Description: Qt 5 WebChannel Library
+Filename: ../../../../releases/download/i686-q/qt5-qtwebchannel_5.15.18_i686.deb
+Size: 63356
+MD5Sum: 7f851482b764e594c57ddba2108fbb12
+SHA1: 0d9f661b5d69c5a288c2e73a118737696e3fa9be
+SHA256: eee6667507939c0518e6a4c699155c5d0f0af0f7b924bcc59f1c6ccb08076c11
+SHA512: 7b60450b63237a4bbdafee852e1e4e0de3cb3bccde1298bb7c0e02aa591d35058ec81825eb1bcf579e982bf1d2fce6bff12762e114fb2990e2814572b3f61c7f
+
+Package: qt5-qtwebsockets
+Architecture: i686
+Installed-Size: 492
+Maintainer: @termux
+Version: 5.15.18
+Homepage: https://www.qt.io/
+Depends: libc++, qt5-qtbase, qt5-qtdeclarative
+Description: Qt 5 WebSockets Library
+Filename: ../../../../releases/download/i686-q/qt5-qtwebsockets_5.15.18_i686.deb
+Size: 73392
+MD5Sum: 5ff5ad8f330b4026aae04c7d135c0a4f
+SHA1: f578198884fc40fdccaf57fb8fec6464d0c65ff4
+SHA256: fb56d6be2d4fc20182590796bd44cf8075a8ac0ec1f08f64324769be83758862
+SHA512: d89fe27f02eca71a0b0244f72105cdc0da05b4fc77a3edc819809e4bef84a34c3281174fa6cabe059fe3390f3fd480971de24a5dab011a7001e4f6e315956528
+

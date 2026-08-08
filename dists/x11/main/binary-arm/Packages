@@ -13081,3 +13081,33 @@ SHA1: 7bc9ba3972d5c6707519a39700a017543d1c375f
 SHA256: 1abd8ac0add03d95e12110ea401b840f61527d292accaec0994b0bf39c8ae05a
 SHA512: d359e7c70a36f37bea0d080a1bafbc80f19bb9f48b26a1d86cc02b2f407be6b2180b99355a7b2c8cd5af9c0a58653b9933a0eda34684534a3f124cb2b1e7a77b
 
+Package: qt5-qtwebchannel
+Architecture: arm
+Installed-Size: 332
+Maintainer: @termux
+Version: 5.15.18
+Homepage: https://www.qt.io/
+Depends: libc++, qt5-qtbase, qt5-qtdeclarative, qt5-qtwebsockets
+Description: Qt 5 WebChannel Library
+Filename: ../../../../releases/download/arm-q/qt5-qtwebchannel_5.15.18_arm.deb
+Size: 56300
+MD5Sum: 20a3344234a13abae204e9fa2f94dae2
+SHA1: b6a6b7300131e09c06772624db8a7b9c64c3da8a
+SHA256: bb1f1df5fc6c46789f9ce7832aa3e9f53ab81d2d2a3756484bf45b01551f81e7
+SHA512: 835f368043548185284bee2caee5b704eb98ea4c1d58f16bccaa6ef84017ee41b23bcf63abf81ed76b661d38f31accbe852d679b8a308bec0e14c0201783cc8c
+
+Package: qt5-qtwebsockets
+Architecture: arm
+Installed-Size: 436
+Maintainer: @termux
+Version: 5.15.18
+Homepage: https://www.qt.io/
+Depends: libc++, qt5-qtbase, qt5-qtdeclarative
+Description: Qt 5 WebSockets Library
+Filename: ../../../../releases/download/arm-q/qt5-qtwebsockets_5.15.18_arm.deb
+Size: 64428
+MD5Sum: 58af37a596220bb3760859311f58d82b
+SHA1: 34eaa9c5a71ea1bdb4b12b0cf3f56f36780c224d
+SHA256: 7abc5e2da576db0fcbb161b24393f008221e08e1fe5466738708c4fd2c99f17c
+SHA512: 1c155039f07c56d87f5b9eb310dae7c1af3f19d3f56c5a2da00b2b1701393ab556d64daa867e964b89058d832b0188378ec55c178e04ebb54214de3ae5155107
+
