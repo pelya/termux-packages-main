@@ -37794,3 +37794,18 @@ SHA1: 1acefd9e5565a766f29b8356bf12cb48aa14eb78
 SHA256: 7a4ac756054e22603e0f5b5029cbf06fbd3687cad53f8672814276213f02c549
 SHA512: 3fae2dcdba1ce8cbbd9636011b757a7904a002d228b9f798e5ddb283eb44066c3e50a43b36e46524416a3d6f59ae97f00f7422a999ca875285578cedb0f20362
 
+Package: hstr
+Architecture: arm
+Installed-Size: 128
+Maintainer: @termux
+Version: 3.1-1
+Homepage: https://github.com/dvorka/hstr
+Depends: ncurses, readline
+Description: Shell history suggest box for bash and zsh
+Filename: ../../../../releases/download/arm-h/hstr_3.1-1_arm.deb
+Size: 19892
+MD5Sum: a942c38815727b6193a8ada693390253
+SHA1: 403f2a6062c7cbc13f5635d62658e7203302a740
+SHA256: e83e11fcc9e77bff74cab079830c9192e77fd665e602284ec815e8c1b617bb58
+SHA512: 41d4db92851d1ff5e48ae5286f95ee44cc160475acad8644fe483e906fe5db3a18d82ae34b9a64a1297fcdfa149d5ba3223453fe27aa0cb8ff5e3b16a39070a7
+
