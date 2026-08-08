@@ -1012,3 +1012,11 @@ data/data/greater.underscore/files/usr/share/man/man8/pcilmr.8.gz               
 data/data/greater.underscore/files/usr/share/man/man8/setpci.8.gz                pciutils
 data/data/greater.underscore/files/usr/share/man/man8/update-pciids.8.gz         pciutils
 data/data/greater.underscore/files/usr/share/pci.ids.gz                          pciutils
+data/data/greater.underscore/files/usr/bin/encfs                                 encfs
+data/data/greater.underscore/files/usr/bin/encfsctl                              encfs
+data/data/greater.underscore/files/usr/bin/encfssh                               encfs
+data/data/greater.underscore/files/usr/share/doc/encfs/copyright                 encfs
+data/data/greater.underscore/files/usr/share/doc/encfs/copyright.1               encfs
+data/data/greater.underscore/files/usr/share/man/man1/encfs.1.gz                 encfs
+data/data/greater.underscore/files/usr/share/man/man1/encfsctl.1.gz              encfs
+data/data/greater.underscore/files/usr/share/man/man1/encfssh.1.gz               encfs

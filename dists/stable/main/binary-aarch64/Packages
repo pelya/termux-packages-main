@@ -38211,3 +38211,18 @@ SHA1: 68dcad05fa8524e1833eb98ab9fb84e199e46b5f
 SHA256: 948fc6ce8887905dee77aedb2a66d5f1e7b5faaf39d671c0b66e3bdd2b155c1d
 SHA512: 4df1a644200b5e11da10e05079270324c6ff7d7626668c519c1f940309f4a70e50e415f74c0f74d1acebe4bc890f09abba1be44ffaf0d057e87a62d33734d041
 
+Package: picolisp
+Architecture: aarch64
+Installed-Size: 8596
+Maintainer: @termux
+Version: 26.3
+Homepage: https://picolisp.com/wiki/?home
+Depends: libcrypt, libffi, openssl, readline
+Description: Lisp interpreter and application server framework
+Filename: ../../../../releases/download/aarch64-p/picolisp_26.3_aarch64.deb
+Size: 1405344
+MD5Sum: 90665dbb69188399b156094510294a3e
+SHA1: 8ba1be10775a44a76b1b2229c9cb06c29b336f32
+SHA256: 63d4d447eca03ba623ed25359c355d84e75de1297a0e5133e6912c40353cf9e4
+SHA512: 3bd4d2600bb1834b4281a60419a8a319f705c31a261aaf2051917a0f3082099ebf492342d4f773a8d6f54c4a7838ea580265e671ca1c1540c63e3ce32cb1581c
+

@@ -780,3 +780,18 @@ SHA1: 872ea02748fd39ffae70a6af7cd5579475317365
 SHA256: 878ed92ee704f11d17fd22192d9cbb8aed640759075ab6f4397bfb3920ae7269
 SHA512: 5436922733ae88bc3e50adb9b20bcdc931924191d39b3a1edbf71384ab1b9b129268f4ec3f1c982c15b40b759ff8892d89d2b82d07d854cc753476287ccd2af3
 
+Package: encfs
+Architecture: arm
+Installed-Size: 856
+Maintainer: @termux
+Version: 2020.05.09-c444f9b9-4
+Homepage: https://vgough.github.io/encfs/
+Depends: libc++, libfuse2, libtinyxml2, openssl
+Description: An encrypted filesystem for FUSE
+Filename: ../../../../releases/download/arm-e/encfs_2020.05.09-c444f9b9-4_arm.deb
+Size: 235472
+MD5Sum: f5d243b091b946757612095dba5f4aee
+SHA1: 998dc00f0ccf6585368dea98e691c1d90776d22c
+SHA256: d21c38eae658a3457d1354f101d320f6026d291a6025954aa30095d60f9d0f27
+SHA512: 0f570a04953bb0f42e6b639da695781475ca218ad9a9d7cf6153cf1007fa24512632d77c29b299a33284cf7c9c9ed742eeefe048eac048c0316a0d5282a16c8b
+

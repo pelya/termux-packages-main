@@ -780,3 +780,18 @@ SHA1: 8f4c5a9da45c9e6445ca114e86660f8e55582f71
 SHA256: ab19bc8a1ae04b43018c22843f8dcdc40d7c0de82f6567659d6734c851871062
 SHA512: 6cc23a096f949933b1ed455bdd750150375db6f9f5130afa5a6bfe761d4dc4085a13cb14a5e1985260df2a5488c7fe054ce84b99b3e9974929a33d78523db6a2
 
+Package: encfs
+Architecture: x86_64
+Installed-Size: 1300
+Maintainer: @termux
+Version: 2020.05.09-c444f9b9-4
+Homepage: https://vgough.github.io/encfs/
+Depends: libc++, libfuse2, libtinyxml2, openssl
+Description: An encrypted filesystem for FUSE
+Filename: ../../../../releases/download/x86_64-e/encfs_2020.05.09-c444f9b9-4_x86_64.deb
+Size: 276092
+MD5Sum: b6f5f5654512caca68860bf70ceab470
+SHA1: 98913cc8bc30bf3a05e425c0fe5d99da17591633
+SHA256: 06012424caa7194353e5bd0e0814cf1559a491b095c0994b62fa2cd73b532c24
+SHA512: 5ce783e35426e9df1cf4a361352c815b8a01124a4f9a44e0c0bf2e150b523ac72d907af9e189c5e9de5682ddce253c8768578c89f7c8a002493b13b457f751e4
+
