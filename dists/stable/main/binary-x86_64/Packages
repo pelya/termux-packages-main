@@ -38133,3 +38133,35 @@ SHA1: 06d1bb9afdadd027dcc2b225f05c22b7c794b7af
 SHA256: 401cac6592d7acad80e454d31cdd16b488d9cd7fa36611c89a2a00153c24d921
 SHA512: 723c0530b1bb7bc9751b2883f0481581a0b4d8b7ce001a01814469d02dea16f764dcf1205948ef193c7d7e256654fd3757c2c3aa05fa8be2a40aa6673a1ad059
 
+Package: iverilog-static
+Architecture: x86_64
+Installed-Size: 100
+Maintainer: @termux
+Version: 12.0-1
+Homepage: http://iverilog.icarus.com/
+Depends: iverilog (= 12.0-1)
+Description: Static libraries for iverilog
+Filename: ../../../../releases/download/x86_64-i/iverilog-static_12.0-1_x86_64.deb
+Size: 15504
+MD5Sum: 38fcbe7d38417fa141acffa994004143
+SHA1: ffbed9c15245e1932617369b017aa4f74aafe0bd
+SHA256: 92ac8b629b770faa627c7d4db0efe1e4caab789cb891b6d3e5129fa93880c3e6
+SHA512: 4ca4befde574f582c1f5492f0341ce473a784e677d9caed4c850ad8ebf1a38b6ac5232c0fad657ba8e47d3c23f0200f1eadc4f18114d4f220866f4e854a2e150
+
+Package: iverilog
+Architecture: x86_64
+Installed-Size: 5892
+Maintainer: @termux
+Version: 12.0-1
+Homepage: http://iverilog.icarus.com/
+Breaks: iverilog-dev
+Depends: libbz2, libc++, readline, zlib
+Replaces: iverilog-dev
+Description: Icarus Verilog compiler and simulation tool
+Filename: ../../../../releases/download/x86_64-i/iverilog_12.0-1_x86_64.deb
+Size: 1627724
+MD5Sum: 52da0e73441b7cd7ea72766ed3ec5dad
+SHA1: 63c243479b346581e3f4689ae4a42712ef8a4bd9
+SHA256: 927b510e6150c7fa0b6bd61e2f5097583a3e1218d915a3d31dac116d2102490b
+SHA512: 76d2eea355bfbe46094079633cdbb7a0ee06b1b026c68c2084515e23823f5794ba6d9ca5d709602fa9076b17c77c1f246d4d1a1e8b7972a4ed0bf0f46047489b
+

@@ -13479,3 +13479,34 @@ SHA1: 9be8d6d0fd75220ae971749ab1ba1f51e9ab283e
 SHA256: 50a8138ca6c886bd1a47cccbbc8a227a096e89d84b8fd2c8294915ded11b0984
 SHA512: fd9182f565fdac6f1658d47babc20cf030c52c98689fb409145c370c7f45701e702b2607b29efce26bf8099e0ffe07528b1b99b8fc323e17760eecf621a0b2c0
 
+Package: gnome-text-editor-help
+Architecture: all
+Installed-Size: 1392
+Maintainer: @termux
+Version: 50.1
+Homepage: https://apps.gnome.org/TextEditor/
+Depends: gnome-text-editor (= 50.1)
+Description: Gnome Text Editor help files
+Filename: ../../../../releases/download/aarch64-g/gnome-text-editor-help_50.1_all.deb
+Size: 245164
+MD5Sum: 901c35c4af0f2c29daae85b02a217b67
+SHA1: 39227642e9d92e1794a53d75806c7d81858e0006
+SHA256: aa831e426d92d0dea9f09c1bf5ec0169530b627ad8ac3fd83a32853ba0e79ec8
+SHA512: 84e7c4951e57e8360604d57c40d2ed8a05ef4402a89df8b321727e2618ed1869962d8379621e4c94ec07af67168303503ab968a52bc9d886b1884aa7ceb9295d
+
+Package: gnome-text-editor
+Architecture: aarch64
+Installed-Size: 676
+Maintainer: @termux
+Version: 50.1
+Homepage: https://apps.gnome.org/TextEditor/
+Depends: editorconfig-core-c, glib, gtk4, gtksourceview5, libadwaita, libandroid-wordexp, libcairo, libspelling, pango
+Recommends: gnome-text-editor-help
+Description: GNOME Text Editor is a simple text editor focused on a pleasing default experience
+Filename: ../../../../releases/download/aarch64-g/gnome-text-editor_50.1_aarch64.deb
+Size: 143764
+MD5Sum: 9ce3bf47649466d395b7b0759e4311ed
+SHA1: fc9185b537e03b81d0641b107ef87e4f286e60ae
+SHA256: 8ff34bb19480fd144147a1d36258ca4473705b64e0a715de970a3d785c787823
+SHA512: 077bf7a0ad2c29c7be3712dc0694a4299a58732abaeefcae47d37804210012a3466dc93d62099a58e138017d6f195531b9a6d3bb5e6ccb7709f342ca785ee795
+
