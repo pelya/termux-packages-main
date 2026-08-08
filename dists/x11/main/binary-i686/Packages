@@ -13526,3 +13526,18 @@ SHA1: d788449f3c8487e43075fda9cae4a48956006ce9
 SHA256: 535beba0f3d704b59c0f161a6008ff66c888a73a3a92a31ae369eb20722a0e8d
 SHA512: 27c8c595d85cc5cfb0a391e261bc04f3937afd7bf56b3b49872fd31b63f28ee4e428373d25eac04d6850712c1b891fa3dd9c7be7676d28868ddcb7fb7cbaf161
 
+Package: marknote
+Architecture: i686
+Installed-Size: 9544
+Maintainer: @termux
+Version: 1.6.0
+Homepage: https://invent.kde.org/office/marknote
+Depends: kirigami-addons, kf6-breeze-icons, kf6-kcolorscheme, kf6-kconfig, kf6-kcoreaddons, kf6-ki18n, kf6-kirigami, kf6-knotifications, kf6-kwindowsystem, kf6-qqc2-desktop-style, kf6-syntax-highlighting, kmime, libc++, md4c, qt6-qtbase, qt6-qtdeclarative
+Description: A simple markdown note management app
+Filename: ../../../../releases/download/i686-m/marknote_1.6.0_i686.deb
+Size: 1611428
+MD5Sum: 1296605cae2463fd8f65ccdf5de3eb62
+SHA1: d04e5a68c5f7293952db57013134d3dd6c623016
+SHA256: 5575335324f421e59de75be90ae99ecace7a10c7df6698a807cd0ceb6f911bed
+SHA512: 92218cd907f4b3f9e82ccc91e5618ddddc8686f44b6bc2b11f95298ab07ab23948c5e2857ccbbd1ac3555a41c28d1e57a4519c0d33d661aa08e500236a5a4c05
+

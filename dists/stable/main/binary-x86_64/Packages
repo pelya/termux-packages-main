@@ -39030,3 +39030,18 @@ SHA1: 33f1664b8f516cac2ba29b14f534a15310831d67
 SHA256: 567cf5931dc6ac0289deceb3809485e5dfc6742558552a93eb314687586a2684
 SHA512: 70d48929502d4f7183d8f1b0ec08bb94977943264cdccfb6e127ed5ad5dc676b84bf6c2d59ad07aa6921b17d4b73ed5a7a872dc3537d37ec4eea81ccaf361286
 
+Package: toilet
+Architecture: x86_64
+Installed-Size: 876
+Maintainer: @termux
+Version: 0.3-3
+Homepage: http://caca.zoy.org/wiki/toilet
+Depends: libcaca
+Description: FIGlet-compatible display of large colourful characters in text mode
+Filename: ../../../../releases/download/x86_64-t/toilet_0.3-3_x86_64.deb
+Size: 718892
+MD5Sum: 8a452e964f27e8fe52cd469b4ccf124c
+SHA1: 8143194a3692d26fc72b7c18664cc0c1f8fbf267
+SHA256: cf00cd63b8831d8bebe2e2b3314a19386aac47f70162a126aea73e4581d2847b
+SHA512: db079fc46111fbffe277eb8ab0cc4e564a9c3bd3601bf05cad409db26564ec551601a703baf394b68a07da3e4597e95a7047cefbcd3c3ff383a9287ebb3a1a53
+
