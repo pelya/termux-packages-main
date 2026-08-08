@@ -13858,3 +13858,33 @@ SHA1: 6a9005f6048d2e9a0ea2f4c6a0f1121ee68912ed
 SHA256: 51fd12feac481d4e42fac7b38d0a8bfc9b74f71381c7e4c9c8574f22207ceea7
 SHA512: c2d25627d138b5a3895a12a9ed66715d30be1f6610fb6e08a6fa32afdb56bc1decfc4b44a14d5f275f991a6b73410ecec4a91e36cf6bab6b92d453d23129a486
 
+Package: putty-tools
+Architecture: aarch64
+Installed-Size: 4648
+Maintainer: @termux
+Version: 0.84
+Homepage: https://www.chiark.greenend.org.uk/~sgtatham/putty/
+Depends: libandroid-glob
+Description: Command-line tools from the PuTTY suite
+Filename: ../../../../releases/download/aarch64-p/putty-tools_0.84_aarch64.deb
+Size: 624972
+MD5Sum: f7dfd7bf8ed35c6685f2578351626854
+SHA1: e4e108905095ebe3df67435cbe53cff34877b9a4
+SHA256: 8484e96905ce909cc99f0d5f667e632b85735acad3d10dae8f3cea34c9fb61ff
+SHA512: 18f1b7d88c65efa88aaa0bf9fa56d08ad19204cd04c97dd116478bb7c69600f0a1a081c3664e9baf620d3fc642615f72c5490a14c8f167094438fe17f52e88e1
+
+Package: putty
+Architecture: aarch64
+Installed-Size: 2744
+Maintainer: @termux
+Version: 0.84
+Homepage: https://www.chiark.greenend.org.uk/~sgtatham/putty/
+Depends: gdk-pixbuf, glib, gtk3, libcairo, libx11, pango
+Description: A terminal integrated SSH/Telnet client
+Filename: ../../../../releases/download/aarch64-p/putty_0.84_aarch64.deb
+Size: 579032
+MD5Sum: 7ccbff7997debe38c7e7641c71472e98
+SHA1: 517639cacf099b675bea8cf6340ae5a91882021b
+SHA256: 3f4580027e7aaa316acf29b75d3a142bbb3bdb059dfaf59cbe0a3d3d3ae90808
+SHA512: 1baba8b68d9e7c9ee1700e20a345fd6bdf598e2457ec7cf10df633f19885db83ec29eae1db1f426174b047f817f05a1968798e2794151c98eadda1c1976aced4
+

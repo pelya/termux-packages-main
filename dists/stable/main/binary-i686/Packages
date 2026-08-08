@@ -37907,3 +37907,18 @@ SHA1: c3c5ec26bffcdcfe05a75f7beab9971ec99921c9
 SHA256: fb29e4d91abb440a06c4365b73ae884bdc1c325b6ece25344ec80452b5bbf19a
 SHA512: 9b7b933bf60186cff23492fea6049877380a590dc903abcd4ac4836717750972fdd830bfcb84e8ee85e7af9247d6cc9e846c0dcd739c27d5360e4617db6ad049
 
+Package: binaryen
+Architecture: i686
+Installed-Size: 21348
+Maintainer: @termux
+Version: 130
+Homepage: https://github.com/WebAssembly/binaryen
+Depends: libc++
+Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
+Filename: ../../../../releases/download/i686-b/binaryen_130_i686.deb
+Size: 4364236
+MD5Sum: bc85db24107189d81a5068ea9d3f137f
+SHA1: 3f10fc889a295538fd323f06d1c22009ddf77284
+SHA256: a837d823dd3b728cc69e9f241b79cc32b3622753a35cd363223f093d7ed33d17
+SHA512: 28a573230d3a44970706b5d6eb387442b5630510e8335acd370369fbc352332875a0036363f6cfb42b3fec79b895c92d64c0877bac2eeee83469473d8269eb42
+
