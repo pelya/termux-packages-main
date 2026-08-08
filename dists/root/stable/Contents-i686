@@ -1143,3 +1143,11 @@ data/data/greater.underscore/files/usr/include/avahi-compat-libdns_sd/dns_sd.h  
 data/data/greater.underscore/files/usr/include/dns_sd.h                          libdns-sd
 data/data/greater.underscore/files/usr/lib/libdns_sd.so                          libdns-sd
 data/data/greater.underscore/files/usr/lib/pkgconfig/avahi-compat-libdns_sd.pc   libdns-sd
+data/data/greater.underscore/files/usr/lib/libtcplay.a                           tcplay-veracrypt-static
+data/data/greater.underscore/files/usr/bin/tcplay                                tcplay-veracrypt
+data/data/greater.underscore/files/usr/include/tcplay_api.h                      tcplay-veracrypt
+data/data/greater.underscore/files/usr/lib/libtcplay.so                          tcplay-veracrypt
+data/data/greater.underscore/files/usr/lib/pkgconfig/tcplay.pc                   tcplay-veracrypt
+data/data/greater.underscore/files/usr/share/doc/tcplay-veracrypt/copyright      tcplay-veracrypt
+data/data/greater.underscore/files/usr/share/man/man3/tcplay.3.gz                tcplay-veracrypt
+data/data/greater.underscore/files/usr/share/man/man8/tcplay.8.gz                tcplay-veracrypt

@@ -38893,3 +38893,20 @@ SHA1: e13cee4d2e2e60e74b5625b9ff1412bddf07c0f9
 SHA256: ba78e8f4054dab421a2b03bdb53e0b0f2905829f7653bf852551eef30891bcee
 SHA512: 9d1b54ad05dfbd1bfa86a3a7d6c5866fdacce27b60ce1b4cc18b1f47b63a33afb217f52a2589a53babee807f0d46e3eeb5311656de9078fc2484d97112369b51
 
+Package: eza
+Architecture: aarch64
+Installed-Size: 1784
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.23.5
+Homepage: https://github.com/eza-community/eza
+Breaks: exa
+Depends: libgit2
+Replaces: exa
+Description: A modern replacement for ls
+Filename: ../../../../releases/download/aarch64-e/eza_0.23.5_aarch64.deb
+Size: 599340
+MD5Sum: 73765577120ae553028fb4509b14dc55
+SHA1: ab6a02d9bdf676cbcc0efdba3cab461da28704b3
+SHA256: e9ac4a7ff167f2d8ba23033634c7857f464ed6d247680157f659bba1eb1b7c2a
+SHA512: 0e112688641bb4f74736ce1249066b3bf2fee6d6dfc879578e94585ecdf0194d8c01d6fc488674e6e4cc35a5620f034783dd3b24c965b7d80d6f102c1d67e0d2
+

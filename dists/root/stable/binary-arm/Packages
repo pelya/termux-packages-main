@@ -884,3 +884,33 @@ SHA1: 31a20e36dc5eccaa3316157d504247f550e2f48d
 SHA256: 53f9a1a23fc73b1c6987349b7e6395ef572c255876caf5555f820c8f0fde9da2
 SHA512: f30f5318eb235e858735e643698314ff8e691f9a6c54b6fc8b861d3a451ec03d83e30604011cf88259e041f527d3df5c84a073390772c64acc67ad81b046e0c9
 
+Package: tcplay-veracrypt-static
+Architecture: arm
+Installed-Size: 108
+Maintainer: @termux
+Version: 3.3-1
+Homepage: https://github.com/bwalex/tc-play
+Depends: tcplay-veracrypt (= 3.3-1)
+Description: Static libraries for tcplay-veracrypt
+Filename: ../../../../releases/download/arm-t/tcplay-veracrypt-static_3.3-1_arm.deb
+Size: 28772
+MD5Sum: 5344d06624e05fbf33c285ffe42e7f72
+SHA1: a59734a697e4dce420f4179586ec85e2f941603f
+SHA256: a838976f4bdff12697a8ac3ee0f41702b63ecd834e5f46cae1e94b3025e5854c
+SHA512: fa39768ba23405bdbb6669b6649e08cab0455b39c8e1ea4bced333fc1ad4920c7c705eb2918317018b031f59fee41fe18d08ddad97d78588e4bbdb1c3b2a3eb3
+
+Package: tcplay-veracrypt
+Architecture: arm
+Installed-Size: 192
+Maintainer: @termux
+Version: 3.3-1
+Homepage: https://github.com/bwalex/tc-play
+Depends: libdevmapper, libuuid, libgcrypt
+Description: Free and simple TrueCrypt implementation based on dm-crypt.
+Filename: ../../../../releases/download/arm-t/tcplay-veracrypt_3.3-1_arm.deb
+Size: 43128
+MD5Sum: 8eda120f1246a69be776225ba12846b7
+SHA1: 883542f0d41dfad2241b539124ffb22926eac07e
+SHA256: 9bc62d68ccda7d468a7103a1d402fec4ec934290dbbcadea60e26087117b2793
+SHA512: 56a89d94af7c46b04b872a60dbab960e0645910d6e78b3451751ed432f8b5da965a6bd3c41842843a1f77f2f2fb20b15e1babe85ae2991ca51e7640072826a4a
+
