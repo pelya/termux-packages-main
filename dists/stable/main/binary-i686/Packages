@@ -36641,3 +36641,17 @@ SHA1: 0ca4a5099280c10b7f28a2c8e3e4a921258b0a9b
 SHA256: 65d21e69b90f4ba76e02fb1477e8e8d36e63928150912cb335d3d4738c5a62cb
 SHA512: 0bd9152adf596b34d1358c1b7599c27fd8c718add3f1ea2c1f1c03a611338f9290dff6a5d22098aa8153cb251e157791f110b5882e0a6a697c6aa9d40153dc3a
 
+Package: kibi
+Architecture: i686
+Installed-Size: 744
+Maintainer: @termux
+Version: 0.3.3-1
+Homepage: https://github.com/ilai-deutel/kibi
+Description: A tiny terminal text editor, written in Rust
+Filename: ../../../../releases/download/i686-k/kibi_0.3.3-1_i686.deb
+Size: 233568
+MD5Sum: 1a2a4b255ce8f28edaacb425458a3e69
+SHA1: 3a502262b04b83826f63d7ae9498bec88448609a
+SHA256: c990e1b39cba081d921102af07fe07cef5189dd8d45b9f809d779840787160af
+SHA512: e8c28517235e617007af14cb01f46539aecdeb8234ff21589ef14ff360d3910051102e4aad0c336450c6d4924fd8a28b6f24a370688dc006e86946e8fdf638a0
+
