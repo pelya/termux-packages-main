@@ -720,3 +720,18 @@ SHA1: 3a774b4b1474c77db09eca63a452ad1b003c88fc
 SHA256: 157305eff1ebf7247e0f87315e6579bce5eafca5236527b7ffbaa3fc05e0d3ce
 SHA512: 3d828b120c070f7eb083aef3caadfb55936d0e968e8ca4d4bb37fc7c28ed948ebfcfa49b10949feb97ddfbd3ad7b8e8fc588f98e2c2996e11c2f26727c4f474a
 
+Package: minikube
+Architecture: arm
+Installed-Size: 98292
+Maintainer: @termux
+Version: 1.38.1-1
+Homepage: https://github.com/kubernetes/minikube
+Depends: dockerd, kubectl
+Description: minikube implements a local Kubernetes cluster.
+Filename: ../../../../releases/download/arm-m/minikube_1.38.1-1_arm.deb
+Size: 16818984
+MD5Sum: df045630dc6a72f6b8970950d340c378
+SHA1: 9b6b86117fb5a92aec6d82ddf36581642d3bdd9d
+SHA256: a0c5a7715eeeb61b3667c2e67843bf84e68c737bb3b134840fcd765c7cf02226
+SHA512: 8fff95783ed347ff77afa96bd7b54dd2cb976055e46a604bad057da5d6d0e83d102c3464fb661c7fcdb1588c280b329ab4c4f5e4cd81d10b8ead364d6f027f56
+

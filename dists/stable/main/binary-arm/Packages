@@ -36216,3 +36216,17 @@ SHA1: fcd0228f58b97658d5c4fc295e706b7c1ddde44e
 SHA256: 9c72606976151312fb0ce95e87247278fb1f9e7e850ec36ad5d2e33ac674f42c
 SHA512: 09dee82e21fc4a0307382ffe7c3e60666638a5f5e002abfa9140a7f48418bcca38dd3d7b1e54f2e606f34b8a19481aaca7e5b7ca1581b9b62c7d7dfc976720ba
 
+Package: gotty
+Architecture: arm
+Installed-Size: 12708
+Maintainer: @termux
+Version: 1.8.0
+Homepage: https://github.com/sorenisanerd/gotty
+Description: Share your terminal as a web application
+Filename: ../../../../releases/download/arm-g/gotty_1.8.0_arm.deb
+Size: 3344212
+MD5Sum: 61cf313497f88cafc8e6c52162b85728
+SHA1: 2a0de770be4c3cd204acace9e5a1be4aac08b7cb
+SHA256: 1ed5eafa051a1bac95eebc996baa8d06d6694f7d360bae58ff02e9a8601e0b6d
+SHA512: c26f8470c5dec3b27e367e783c3ca33b3c3320c481ed9c32a456bab67d1827466dcb9ec7a90ac391b92c45ad38f8a2050ce0fc23ef9a2818bf5e65a4a97ca532
+
