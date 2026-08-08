@@ -36567,3 +36567,32 @@ SHA1: 38f664eb02556d21bfbdc92e75d487b371645210
 SHA256: 2d5dc6b0ec08f77dce60faf3c2616ad7edb523c33924f313b7db1985b80a22be
 SHA512: 1df3309d9053aff07225ca366f4cc6f16287e81825606fa32673252f660bd4c7f16d618779ad5c92a10146c7b17a7fe160c697f874d9b7f935fa3aa61c486fb3
 
+Package: kubelogin
+Architecture: i686
+Installed-Size: 15652
+Maintainer: @termux
+Version: 1.36.2
+Homepage: https://github.com/int128/kubelogin
+Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
+Filename: ../../../../releases/download/i686-k/kubelogin_1.36.2_i686.deb
+Size: 4782856
+MD5Sum: 7e52ea5b34b21092d8f297fd0dffff5b
+SHA1: 2129ada9320059d8c997eaa1fce251d926e80caa
+SHA256: 0c6f6adbed090e8559ed9ea1bc0200435ad901e92ca78599ae20b0380d8735fd
+SHA512: 6f3ce488fd2d890e60fa9d7582e154163b1a14fd6f532ffeb57bd4b37710d48bb5d788fda6edd09f2226a24e07e7595a6df3ce8c1dec1c30ed0f403aa2e4fddf
+
+Package: vile
+Architecture: i686
+Installed-Size: 5032
+Maintainer: @termux
+Version: 9.8z-1
+Homepage: https://invisible-island.net/vile/
+Depends: ncurses
+Description: VI Like Emacs - vi work-alike
+Filename: ../../../../releases/download/i686-v/vile_9.8z-1_i686.deb
+Size: 842152
+MD5Sum: 5796e0050ba25a9ddd00d2c4ea0be66c
+SHA1: d6981610b6ed6a69bf6df70ae3ddb9641cbcfb25
+SHA256: 8eb09cc9120defdf2621dc8c3985c8cf91be131c236b9f68d73c1e2febf70166
+SHA512: ccc34b17f2335f29f1d0a69e5f3630650b534a4a39d3e3c97738d04154ad106abcc3a8babbd35c739d6b9e30bad39986d9e36a7d3a7e0f3f873290fa925a728f
+
