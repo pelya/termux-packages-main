@@ -13222,3 +13222,33 @@ SHA1: b6843f4062f45194ef89da04638814939535b75c
 SHA256: fd971d77e7bbbe4dfe7ebc36dcef428ccb7e7fd4142dd9603948aacb2d48c821
 SHA512: 9011bb4c6df3e77cebb336b0c457e845b610bf05933c4fe0e2b8d539434cc8dfbc9a95b3b054c79639d568b9789a754b57c70cd0f831d6bd82eeb7375fc66c6a
 
+Package: kdenlive-static
+Architecture: arm
+Installed-Size: 40
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/kdenlive/
+Depends: kdenlive (= 26.04.3)
+Description: Static libraries for kdenlive
+Filename: ../../../../releases/download/arm-k/kdenlive-static_26.04.3_arm.deb
+Size: 3784
+MD5Sum: c789a20fe60b5105dd3cd20c525728fa
+SHA1: 19a7dfa1e8b94b47455efb7bb59d69b0ec040e58
+SHA256: 8f105647516c08a6b9ab6a95e323b6696a9bb16cce3994e43500fb1015e3c48a
+SHA512: 3ed7fa43f8b09166d64bee9e655db74fa522ff6e3c96b17107fa3fb9153c22d129cdabd516022184053801c9134f822a4bccf5b66c02e320ccfd8099a5e1571f
+
+Package: kdenlive
+Architecture: arm
+Installed-Size: 72808
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/kdenlive/
+Depends: libc++, ffplay, frei0r-plugins, kddockwidgets, kf6-karchive, kf6-kbookmarks, kf6-kcodecs, kf6-kcolorscheme, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kdbusaddons, kf6-kfilemetadata, kf6-kguiaddons, kf6-ki18n, kf6-kiconthemes, kf6-kio, kf6-kitemviews, kf6-knewstuff, kf6-knotifications, kf6-knotifyconfig, kf6-ktextwidgets, kf6-kwidgetsaddons, kf6-kxmlgui, kf6-purpose, kf6-qqc2-desktop-style, kf6-solid, mediainfo, mlt, opentimelineio, qt6-qtbase, qt6-qtdeclarative, qt6-qtmultimedia, qt6-qtnetworkauth, qt6-qtsvg, shared-mime-info
+Description: A non-linear video editor for Linux using the MLT video framework
+Filename: ../../../../releases/download/arm-k/kdenlive_26.04.3_arm.deb
+Size: 17843776
+MD5Sum: bcb1255a9446d92da743fade2fe9722b
+SHA1: 07ac90ba4ba3f7155ae133c17df633642b1df1bc
+SHA256: cbd6527d88123a8fad01ce7f7045b0e6e8d02cd4412dc9391d9ed80ad73327e4
+SHA512: 09a54ceaa9205dc0f498b2dacbf94b14a80defabc291783d5de630074b86c42451ad5bd1babf68a4d5ee378aa9d497698287bed4bb919532ae81c120a469c667
+

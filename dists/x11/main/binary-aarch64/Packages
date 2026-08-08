@@ -13510,3 +13510,33 @@ SHA1: fc9185b537e03b81d0641b107ef87e4f286e60ae
 SHA256: 8ff34bb19480fd144147a1d36258ca4473705b64e0a715de970a3d785c787823
 SHA512: 077bf7a0ad2c29c7be3712dc0694a4299a58732abaeefcae47d37804210012a3466dc93d62099a58e138017d6f195531b9a6d3bb5e6ccb7709f342ca785ee795
 
+Package: kdenlive-static
+Architecture: aarch64
+Installed-Size: 44
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/kdenlive/
+Depends: kdenlive (= 26.04.3)
+Description: Static libraries for kdenlive
+Filename: ../../../../releases/download/aarch64-k/kdenlive-static_26.04.3_aarch64.deb
+Size: 3884
+MD5Sum: 74b86ee773bd9185836bea838acd38f5
+SHA1: b8b11f0fd39a56aa57d5614a28c9db60aa076164
+SHA256: d4df877db8b6ddc9baad299259f1d56dde9e9639ad638515394d829f76d2c2c6
+SHA512: db13a3930c7d46641dfb953f278625b9e87d5f230af839b16ac59c7036943c122791befa3a2c68cf4373d63ccd67b37c3960c7db767eaf4a3c2a332d315d0f01
+
+Package: kdenlive
+Architecture: aarch64
+Installed-Size: 78320
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/kdenlive/
+Depends: libc++, ffplay, frei0r-plugins, kddockwidgets, kf6-karchive, kf6-kbookmarks, kf6-kcodecs, kf6-kcolorscheme, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kdbusaddons, kf6-kfilemetadata, kf6-kguiaddons, kf6-ki18n, kf6-kiconthemes, kf6-kio, kf6-kitemviews, kf6-knewstuff, kf6-knotifications, kf6-knotifyconfig, kf6-ktextwidgets, kf6-kwidgetsaddons, kf6-kxmlgui, kf6-purpose, kf6-qqc2-desktop-style, kf6-solid, mediainfo, mlt, opentimelineio, qt6-qtbase, qt6-qtdeclarative, qt6-qtmultimedia, qt6-qtnetworkauth, qt6-qtsvg, shared-mime-info
+Description: A non-linear video editor for Linux using the MLT video framework
+Filename: ../../../../releases/download/aarch64-k/kdenlive_26.04.3_aarch64.deb
+Size: 17873580
+MD5Sum: 5dcb4561b65b91865b9df97317e6edb2
+SHA1: 31a1cc6c74b0a985e6df9f9ab4c9dbca39991590
+SHA256: 253755f6eb0b195a993a59b0501cc92e8855a5c864dff6d20c95b6122b420eff
+SHA512: 41f1c99308d152d092337cb1c89861ba05a40faef3919881136f484a69931222bd2100ed77b5cba412c5beeb0655f91b69eff08faeef7b2f186f5b79d29ade7d
+

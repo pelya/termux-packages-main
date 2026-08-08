@@ -34803,35 +34803,6 @@ SHA1: 5ae20d581df1d7915a0d889b9d08b71b95a52ac8
 SHA256: 82dd505c9d5bd9bb6b20a764615358fa85072609c0530e4533be0ae9a1a00e2f
 SHA512: f8b853b8e279dd444860d6e56d5f79bb7a37a835bd9a063e822484e4181dc153da56641a677b6a74d53f765b87a6c76d1dbb3fb069926693415532746134aba3
 
-Package: ca-certificates-java
-Architecture: all
-Installed-Size: 184
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Depends: ca-certificates (= 1:2026.05.14)
-Description: Common CA certificates (java keystore format)
-Filename: ../../../../releases/download/aarch64-c/ca-certificates-java_1.2026.05.14_all.deb
-Size: 96492
-MD5Sum: 7e64b45adfc6822ba1b3251df6aed6fc
-SHA1: 48655f62f9be925c89c4c309fa46ac8d71825925
-SHA256: e6bb1aa69a0591e46534a361ddfe07ee0e62f10f8d2f62c4106c36adc4852daf
-SHA512: ee9f04d1c17e865db0353a7eb339cac3b2cceb7d507dac3cfb6764d51b83fa54b21d8887b4e29149ef65c4a263edb7a4dcd057d1d2ab455f5a54435d56980699
-
-Package: ca-certificates
-Architecture: all
-Installed-Size: 232
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Description: Common CA certificates
-Filename: ../../../../releases/download/aarch64-c/ca-certificates_1.2026.05.14_all.deb
-Size: 105744
-MD5Sum: b7905b654a42fa4a560c093839f8cf76
-SHA1: b810a5a677778477618c0e9bbe4a391113af395a
-SHA256: e6c552ca72cf0dd880d8646b272c7282d5bbf17b8ac8d6da8db39ccaafaae057
-SHA512: 5b5829015812cdd5150551749b4524f6caf0900855e4b3e1c3675c56046f1d83a29d5b851aa7065f4b99fc5a3e88e7bdd00f72492460d1bb432590b3340e3f52
-
 Package: libolm
 Architecture: aarch64
 Installed-Size: 316
@@ -36667,37 +36638,6 @@ SHA1: 6a046d4b4a401f64c77c9bff277d019c00ed3344
 SHA256: bfcc02f4c5a987a2a810b0711369571665756085b99a2490e57cf0bc4b504809
 SHA512: e9123e4590677cda2590aebd4d886150a809b58e7916c1eb291f8ebb90d58f3f16d7f624c4499967678a53c94c6dfc45f41e75cc0574c2efb32a0042f7c735b8
 
-Package: zlib-static
-Architecture: aarch64
-Installed-Size: 140
-Maintainer: @termux
-Version: 1.3.2
-Homepage: https://www.zlib.net/
-Depends: zlib (= 1.3.2)
-Description: Static libraries for zlib
-Filename: ../../../../releases/download/aarch64-z/zlib-static_1.3.2_aarch64.deb
-Size: 35548
-MD5Sum: 317249db12719dcb5f5babb236b973af
-SHA1: d82b9f27b3732b8bf18ca698da1a14dd6dab4b52
-SHA256: 8e4a99a35032df5836eda75da2084d88437030346001bb0808133f24658e493d
-SHA512: 948386756bfd923d3ed8359bd83176b5580ee96dd24d7830ce0ff6558dd850787d6f7371750d4460838ba87bd0c4f385586f5a3527106122d4ef772a595c4b59
-
-Package: zlib
-Architecture: aarch64
-Installed-Size: 264
-Maintainer: @termux
-Version: 1.3.2
-Homepage: https://www.zlib.net/
-Breaks: ndk-sysroot (<< 19b-3), zlib-dev
-Replaces: ndk-sysroot (<< 19b-3), zlib-dev
-Description: Compression library implementing the deflate compression method found in gzip and PKZIP
-Filename: ../../../../releases/download/aarch64-z/zlib_1.3.2_aarch64.deb
-Size: 62976
-MD5Sum: 77c575eb824ecd2ce236e614f63d5ece
-SHA1: 879c6b1ab9e69f5e482a0eb137ab7196e96c2384
-SHA256: 6de3b4dd45bae61063fbfb88af55fdafc5d81b7d857470af64b4bfeadbf3e84a
-SHA512: ed9043e8807b9a02af948317806a37d3b75e65a2fc45b71dad75ef98e4f4586566c96986440c668168be76a6123135be7d0c6e9f70f32560063a03de8b286e73
-
 Package: libnftnl-static
 Architecture: aarch64
 Installed-Size: 492
@@ -38195,4 +38135,79 @@ MD5Sum: 4dc0a735960011d7fb04df87e9617501
 SHA1: b16b57ef0b566bd64279149b2855177c0823ead2
 SHA256: 0fd843229d2cd57dda5a5aa658f9f188bb62b501d74409378624f57058b5b864
 SHA512: 34d194887b16c70913feca7178408c78a528014b85a2edac50efe3ea72c761243015bebf79540d7a299db9d5481a524dddb9e8e48a87f618d933e7c41920e912
+
+Package: ca-certificates-java
+Architecture: all
+Installed-Size: 184
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Depends: ca-certificates (= 1:2026.05.14)
+Description: Common CA certificates (java keystore format)
+Filename: ../../../../releases/download/aarch64-c/ca-certificates-java_1.2026.05.14_all.deb
+Size: 96484
+MD5Sum: 3f5616d3c68f017bb715bba4e26cf2c5
+SHA1: bd02dfc424da3101d7681e329ce6545205bd66a6
+SHA256: bd5d34a8e4d5e13aebb03108305ba83f3c1c98b03625cec50ca5ad4818a7b882
+SHA512: 134145c772a29c7554534684f691a4f8c8dfb5ddd73c876a5b3cb56f47f433265116c1e5fbd4f3b42e8b2ffde20bb4a2e42d95da9dc77ea6c1e79be1156c2cc8
+
+Package: ca-certificates
+Architecture: all
+Installed-Size: 232
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Description: Common CA certificates
+Filename: ../../../../releases/download/aarch64-c/ca-certificates_1.2026.05.14_all.deb
+Size: 105740
+MD5Sum: a4b6d18600b49b05a7e50e0dc7dfd694
+SHA1: 8569f1fc8f2fbf06582aceed73b2e4e551450ba6
+SHA256: 1e1eda67a3a5498849b27760e208f6edff8b26efe9b6dea88163cf40a22a22b1
+SHA512: 27ad75d2605af2081f803a7d4fd7acaf444de4760a3fd8b6d25574c4ee9f97c11055ec7663ff705a0a6d90fdd89bd72c1b3de6045bb476afb268e5eba830d159
+
+Package: distant
+Architecture: aarch64
+Installed-Size: 7504
+Maintainer: @termux
+Version: 1:0.20.0-3
+Homepage: https://github.com/chipsenkbeil/distant
+Depends: libssh2, openssl, zlib
+Description: Library and tooling that supports remote filesystem and process
+Filename: ../../../../releases/download/aarch64-d/distant_1.0.20.0-3_aarch64.deb
+Size: 2656420
+MD5Sum: edb18f903a89e93f1c4922726f42038f
+SHA1: 0992baa73315786771cbecea2bc9f872dfbb2cc0
+SHA256: b7cb3a718801430d861f2bd2bdfe6ff9ebee3b84e6f478e2214b64b0d17c660b
+SHA512: 9c50a20e93aceb5e05d9bbec5041798c0fba57c1ebab7941eab38ffc4e8ea0296b5b7e899a27c4c3835a89fd43eee795ac2c8e48bce7bf6f5a177be5afe78975
+
+Package: zlib-static
+Architecture: aarch64
+Installed-Size: 140
+Maintainer: @termux
+Version: 1.3.2
+Homepage: https://www.zlib.net/
+Depends: zlib (= 1.3.2)
+Description: Static libraries for zlib
+Filename: ../../../../releases/download/aarch64-z/zlib-static_1.3.2_aarch64.deb
+Size: 35552
+MD5Sum: 3bb8e9982e9694fbf682282e746be487
+SHA1: 76f87c175bf7764ab8b8d2c45a047689c1954a85
+SHA256: 264230c1989d257791864cb1fc89f7a37eff4f1eb16e737fa1302238b849d326
+SHA512: 42ebf6db6dfe699edc454ebc0cb9e9a7bc80becdebfe81ec9c928fc044a68da704138ac669387a52e287ccb335accfe5d08ef9d06ee35cff2e6e1c4f23f39b09
+
+Package: zlib
+Architecture: aarch64
+Installed-Size: 264
+Maintainer: @termux
+Version: 1.3.2
+Homepage: https://www.zlib.net/
+Breaks: ndk-sysroot (<< 19b-3), zlib-dev
+Replaces: ndk-sysroot (<< 19b-3), zlib-dev
+Description: Compression library implementing the deflate compression method found in gzip and PKZIP
+Filename: ../../../../releases/download/aarch64-z/zlib_1.3.2_aarch64.deb
+Size: 62884
+MD5Sum: 297a69580ee394c6f07e2057d40aee3e
+SHA1: 68dcad05fa8524e1833eb98ab9fb84e199e46b5f
+SHA256: 948fc6ce8887905dee77aedb2a66d5f1e7b5faaf39d671c0b66e3bdd2b155c1d
+SHA512: 4df1a644200b5e11da10e05079270324c6ff7d7626668c519c1f940309f4a70e50e415f74c0f74d1acebe4bc890f09abba1be44ffaf0d057e87a62d33734d041
 
