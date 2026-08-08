@@ -38406,3 +38406,33 @@ SHA1: d2f9ba46bb1e6ddbaf615b9497d1b6b01eee5fb7
 SHA256: 672ce7d8ff6b82178ea65cfde85d585e72740a439c2a65dd5647adea7d6b4be4
 SHA512: c764ed4976c133ff486a15f9be24c385b02fcf7784738afc48e51192149d073bae8b554d2707589338e42ca0d61f37572156399e57d369cae2bbe69707addcb3
 
+Package: gcal
+Architecture: i686
+Installed-Size: 2812
+Maintainer: @termux
+Version: 4.1-4
+Homepage: https://www.gnu.org/software/gcal/
+Depends: ncurses
+Description: Program for calculating and printing calendars
+Filename: ../../../../releases/download/i686-g/gcal_4.1-4_i686.deb
+Size: 556764
+MD5Sum: 086357eafd9e29857cfd2566e0c200e6
+SHA1: a04642b88c6d21cde9aff027c1fe0d9781568be4
+SHA256: d8de78e40c10f0a8d4a3dbbdb9065d5ffcfab4d0aff257307432966def368f5f
+SHA512: 38bc288f832c2837d7ffa1334386205ac8a5311a435ec866852b7b1615674681040369d437805a7c967a4e3180f5fbe3be94dde1271b8e1ce0c89888b50e89fc
+
+Package: maxcso
+Architecture: i686
+Installed-Size: 340
+Maintainer: @termux
+Version: 1.13.0-1
+Homepage: https://github.com/unknownbrackets/maxcso
+Depends: libc++, liblz4, libuv, zlib
+Description: A fast ISO to CSO compression program for use with PSP and PS2 emulators
+Filename: ../../../../releases/download/i686-m/maxcso_1.13.0-1_i686.deb
+Size: 101332
+MD5Sum: ad04d04d4995828cdd0edd03f4a218e0
+SHA1: b3a08cf783561f83e6a6f1ac35598d81f68d539a
+SHA256: 75fd5fb4e3e559489ae400f975cb99aaf83274c4406cb00cb11f401408966a94
+SHA512: 21012f8d023f13b8e65231a7efb057ce22f3ed60da03bd868ee473168dca86db78d56ef709c07f890a9a080ca8a02656a5b656890e61356b807df28e06177e28
+
