@@ -37251,6 +37251,230 @@ SHA1: 5f1c661f117588f78d9afbc7cd2e9494aae59f98
 SHA256: bd87102ea4eac11d0c6ab04976204eded4d43ffd752ae45544c0b45f269ca0c4
 SHA512: 8178823bdf559bdc560511448f4257c856391eeeab7478fb049d41cec45c40f5732da0fc9e4ace96b34c55aa7b7757fb9c5af4dae062dd8b501e6acbce4e3192
 
+Package: libc++
+Architecture: x86_64
+Installed-Size: 1348
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
+Size: 359524
+MD5Sum: 61a4442ee2233dca7346b58d20806aa3
+SHA1: 2ac32315f025760d34caee5e655f3312c57beccc
+SHA256: dcff42fcf45331e7348f9e0753abc322f9451f43aa4d6c08274a0de38516a9ec
+SHA512: fdf16836aa22eb7252e39b9b8e2c623a6b02ebf0e670f4e13165af46cd4174ea4f2534a8539a6275a6d37c998e25fee1110e1c6f2716c60353c014be948d2bfa
+
+Package: matterbridge
+Architecture: x86_64
+Installed-Size: 67300
+Maintainer: @termux
+Version: 1.26.0-4
+Homepage: https://github.com/42wim/matterbridge
+Depends: libc++
+Description: A simple chat bridge
+Filename: ../../../../releases/download/x86_64-m/matterbridge_1.26.0-4_x86_64.deb
+Size: 12050504
+MD5Sum: 4f7bce070c7cad08aeea88878cfe8b5d
+SHA1: ef55ffecda509eb354abed6fc60f8107cf9e7c8f
+SHA256: 2afaa8d0d749620cfc3943aa769fef7cbfa62a06ff3c27716043bef80fcff234
+SHA512: 557169cdbe8ee111aa13e2be02d69d3a2efa950a8690563eabaf75cd22ccf0f9985a316d26014397679e306e902347d34d373e105043c494a6a61d687dfd5dad
+
+Package: aspnetcore-runtime-8.0
+Architecture: x86_64
+Installed-Size: 11060
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Depends: dotnet-runtime-8.0
+Description: ASP.NET Core 8.0 Runtime
+Filename: ../../../../releases/download/x86_64-a/aspnetcore-runtime-8.0_8.0.28_x86_64.deb
+Size: 2850588
+MD5Sum: 30d7fd1df908bfac5761d73a5f02a187
+SHA1: 5c2fb8bc0eb834e13b8b9c77dd42b1bc1cb24098
+SHA256: ce43d96136734a7017dd93de5006a5aae65b4f9bca1f4e8e5215d7cd16e716bc
+SHA512: 4a3ea4fe22b716647ef164dd1596a067a0ffeac536f1d7a7f41003ef6d4cf2d698d5eaf68ab1a16af75f159080d28b5138ad6aecd1dda2c3fd326bb05e25a4aa
+
+Package: aspnetcore-runtime-dbg-8.0
+Architecture: x86_64
+Installed-Size: 11404
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Depends: aspnetcore-runtime-8.0
+Description: ASP.NET Core 8.0 Runtime Managed Debug Symbols
+Filename: ../../../../releases/download/x86_64-a/aspnetcore-runtime-dbg-8.0_8.0.28_x86_64.deb
+Size: 6708484
+MD5Sum: 771d04eff87e38a513270a80fadd6fab
+SHA1: 98a91d545f476bef38f28e3e12ef5d19c9fbe4f7
+SHA256: 5e10acf67613c4d1e637a7898fdda35e6cae429e15c8a9803e4d8bc083eaf786
+SHA512: 33cf53360b605ab876e24f90ccd1de08e11b114be8257eb0e7132e79589807220489e9b4f38a460b06e5205193be7d60563cb3c8c4fc64972b35f0740d7ded23
+
+Package: aspnetcore-targeting-pack-8.0
+Architecture: x86_64
+Installed-Size: 15684
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Depends: dotnet-host
+Description: ASP.NET Core 8.0 Targeting Pack
+Filename: ../../../../releases/download/x86_64-a/aspnetcore-targeting-pack-8.0_8.0.28_x86_64.deb
+Size: 1740636
+MD5Sum: 5adcb5122ae2cb285bdb462304f1ee2d
+SHA1: 03a32d60465d1332183b45325132f0d503c57b6e
+SHA256: 09d3799302f93c30c8571c208aeb463cdca48d25d6ea59432ae2f1b9b2291312
+SHA512: 51938c51b2e73256cdc68ce2cff222be097d4959c4b31dec94340e361f23c5d1dcb782aab00dc9186aa3dc0789891c178cd261b50df7492e31c625237d38657d
+
+Package: dotnet-apphost-pack-8.0
+Architecture: x86_64
+Installed-Size: 2952
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Description: .NET 8.0 Targeting Pack
+Filename: ../../../../releases/download/x86_64-d/dotnet-apphost-pack-8.0_8.0.28_x86_64.deb
+Size: 458684
+MD5Sum: 87326f70d9e5df9527b35ca7702c08fe
+SHA1: 3f730138d6086174bd63365e15a8234484978296
+SHA256: 924c9798c3c5450e0fefffa2956397cf0d82db82416e1ac0105ead56994e12a1
+SHA512: c49ffb5b11f75fdb79fddc14e5fb0d9511ba1183b311dd164f82791ea6227920007eee606b4fe36c126616dc16b48088709fa2879645f1e8f69609c5c99afc60
+
+Package: dotnet-host-8.0
+Architecture: x86_64
+Installed-Size: 896
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Description: .NET 8.0 Host
+Filename: ../../../../releases/download/x86_64-d/dotnet-host-8.0_8.0.28_x86_64.deb
+Size: 259748
+MD5Sum: d7d7dfe777881fa595095bafd7e84102
+SHA1: 76bdcc6cbdd7c7a6108d03534e20b1e48f882a34
+SHA256: f92d87f6213f9216d82211452ad487acaa0dd91382a4e2e6d8b62b807907483e
+SHA512: 9194c00709ca354a80964cd79d15544ddb1c1a7122e19c0981f459674374a1b18eb1c1881ff29ce0b3add10e9a3882da304eac2bf9eda54d1c1136be00ea54ac
+
+Package: dotnet-hostfxr-8.0
+Architecture: x86_64
+Installed-Size: 1012
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Depends: dotnet-host
+Description: .NET 8.0 Host Resolver
+Filename: ../../../../releases/download/x86_64-d/dotnet-hostfxr-8.0_8.0.28_x86_64.deb
+Size: 281464
+MD5Sum: 3cad665a294bdb27a892f106ace2817a
+SHA1: 7b066cbee70f3161bd204151cda4603a54794ced
+SHA256: ba4884c66b113c85ef9a3c80599c25781bf629e33abb74ff0ec96615a625510e
+SHA512: 0c68224c37fcadcca3f4216e1241ad3cfcd120a9619c530c973aaa39dce262816b60c91334daaac72a4105020a0083fd9a6d8eacd3fe041560e272353b5330a5
+
+Package: dotnet-runtime-8.0
+Architecture: x86_64
+Installed-Size: 32876
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Depends: dotnet-hostfxr-8.0, libicu, openssl, zlib
+Description: .NET 8.0 Runtime
+Filename: ../../../../releases/download/x86_64-d/dotnet-runtime-8.0_8.0.28_x86_64.deb
+Size: 8544952
+MD5Sum: 9c79aa69b89c2d3715ccb00b57ba1e3e
+SHA1: d9b83e612fbab5d75e3ccd4b662434a0a1a17b10
+SHA256: 44713648de26536baf8e75d51ce2bb09eeef0fb5b5ca5b8d53300726203147f0
+SHA512: 61e6a2a0c4cdbb8a5d6b376e0a6e8f69eaf66e50d5250b7c3ec4acdd3cfda5f36217b75e62224e06b65b5472cf0487f881412eaec649a3c2878064060f9d8c31
+
+Package: dotnet-runtime-dbg-8.0
+Architecture: x86_64
+Installed-Size: 20968
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Depends: dotnet-runtime-8.0
+Description: .NET 8.0 Runtime Managed Debug Symbols
+Filename: ../../../../releases/download/x86_64-d/dotnet-runtime-dbg-8.0_8.0.28_x86_64.deb
+Size: 15261980
+MD5Sum: dbfb14b05ecec1acac0692fd60f637e2
+SHA1: 0bbcac142eaba7e7af3740e1dc55e8aa88c4de62
+SHA256: 09c4968f6a1cb5cfc29a872c46d5263c4df91b3f8d2666c5e13f3cf7f7548e22
+SHA512: 3c3ca86d36edd693fc1077dcde1136911b2cb2c70b4dc343b6a2003413c31442dd7aa98536e7f215386e8c2ceda8596ed68e1871f8c4ee341939b67535fd37a3
+
+Package: dotnet-sdk-8.0
+Architecture: x86_64
+Installed-Size: 208868
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Depends: aspnetcore-runtime-8.0, aspnetcore-targeting-pack-8.0, dotnet-apphost-pack-8.0, dotnet-runtime-8.0, dotnet-targeting-pack-8.0, dotnet-templates-8.0, netstandard-targeting-pack-2.1
+Description: .NET 8.0 SDK
+Filename: ../../../../releases/download/x86_64-d/dotnet-sdk-8.0_8.0.28_x86_64.deb
+Size: 46295288
+MD5Sum: 8f6920b7302b02b10caded1e2b474ecb
+SHA1: f06156fa48e30516bebe75d4c6c879a8135c3f3c
+SHA256: bd82dca7a7d1a01d8f530caad1e17b9687fa8d521bcecc77098c491e15622540
+SHA512: c478e1e82349179892db749f0251f9e4c0a6a8363bbb36707afd534afbc08a508abc8775831c90621c15a17038e9ce85487740b22d088d2ad31770d8237b0e96
+
+Package: dotnet-sdk-dbg-8.0
+Architecture: x86_64
+Installed-Size: 126776
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Depends: dotnet-sdk-8.0
+Description: .NET 8.0 SDK Managed Debug Symbols
+Filename: ../../../../releases/download/x86_64-d/dotnet-sdk-dbg-8.0_8.0.28_x86_64.deb
+Size: 82680012
+MD5Sum: a09e6c97290763a02ef933db17dd6f42
+SHA1: 8b18db9fab4706ca9d1cb86a12e667e82ba8bdf5
+SHA256: 17142e0f8e2b380da1461eb3e14918658b077ee84f47fb95ce43995390e627be
+SHA512: 78e04198149150d8b261398967507161906c6eeade82d07a79f7a0555cf8bad0464ec022c863ca1104e5d60cc194acb54ff89fccd67518ab7d57c1db77527782
+
+Package: dotnet-targeting-pack-8.0
+Architecture: x86_64
+Installed-Size: 36400
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Depends: dotnet-host
+Description: .NET 8.0 Targeting Pack
+Filename: ../../../../releases/download/x86_64-d/dotnet-targeting-pack-8.0_8.0.28_x86_64.deb
+Size: 2781048
+MD5Sum: 0bd92f1b36aea424a1097e5bfe063444
+SHA1: 8676b730bbeaf0c6efaa10818df16d5ea560bcd4
+SHA256: 15c881feae1de800542ac846ac320bcc1c71dcb5ab50c0655aa53bbd6a5175dc
+SHA512: e43732da319ba4884bd0cbe6d1bc1ba5614ec63a052f92c3e992fb0f41a11e7823f04d6f99abeac15c2111c2e69178584f7a1aae56ae0a41bbc617b3cf59ceb6
+
+Package: dotnet-templates-8.0
+Architecture: x86_64
+Installed-Size: 5884
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Depends: dotnet-host
+Description: .NET 8.0 Templates
+Filename: ../../../../releases/download/x86_64-d/dotnet-templates-8.0_8.0.28_x86_64.deb
+Size: 2173832
+MD5Sum: c4c29e66fecf53a1fae4d993f0263fef
+SHA1: d6d6bd064d355b0624aa25173d86a4ea48c6dcd0
+SHA256: b655649fa2bbba75ef4c25a37d53fc1a3ba4ae8d37950bddca61959e31b1b9e1
+SHA512: c1296104cabc1e54637ea19f9bcee741e425ebc893284f4f3ac007e76301d898ca340988f1d24145a2e95889494b4bc0e82940ca108cd04a50dcd6d26f86a0ab
+
+Package: dotnet8.0
+Architecture: x86_64
+Installed-Size: 40
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Depends: aspnetcore-runtime-8.0, dotnet-host, dotnet-runtime-8.0
+Suggests: dotnet-sdk-8.0
+Description: .NET 8.0
+Filename: ../../../../releases/download/x86_64-d/dotnet8.0_8.0.28_x86_64.deb
+Size: 1552
+MD5Sum: 204f5b2792926ced7c0300b937616f10
+SHA1: 086f4bd3327811ef01e6ccc51ab834d49f9861c5
+SHA256: 1deddb868ebb776380bce3d36dc520128c8f9ca62a76202aff9b884494623498
+SHA512: 4c3f4b3251b89d6721575071e54a3b1466891841ce76b3d0b7303a02da91cd16217c3c553733344f76740e79f24de7ba6d925145a5790a38ee55985e1b3c7a14
+
 Package: gdb
 Architecture: x86_64
 Installed-Size: 15016
@@ -37285,33 +37509,18 @@ SHA1: 17e66da02057984379c011f17a72e5cd06a746be
 SHA256: f0ee6969442d6f8ee4fc2ddf9f9da3debfd2b46adb19828ada8c6cea663b503e
 SHA512: c3a7c7cb812f368e822c12abee9e7e9ff1ecb6e62723824f49a612d1f7729503f6262696ca8ff1ea2c9a4a578bf66a6c5a19a25333e882b5732d2d9e6bd33afc
 
-Package: libc++
+Package: netstandard-targeting-pack-2.1-8.0
 Architecture: x86_64
-Installed-Size: 1348
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
-Size: 359524
-MD5Sum: 61a4442ee2233dca7346b58d20806aa3
-SHA1: 2ac32315f025760d34caee5e655f3312c57beccc
-SHA256: dcff42fcf45331e7348f9e0753abc322f9451f43aa4d6c08274a0de38516a9ec
-SHA512: fdf16836aa22eb7252e39b9b8e2c623a6b02ebf0e670f4e13165af46cd4174ea4f2534a8539a6275a6d37c998e25fee1110e1c6f2716c60353c014be948d2bfa
-
-Package: matterbridge
-Architecture: x86_64
-Installed-Size: 67300
-Maintainer: @termux
-Version: 1.26.0-4
-Homepage: https://github.com/42wim/matterbridge
-Depends: libc++
-Description: A simple chat bridge
-Filename: ../../../../releases/download/x86_64-m/matterbridge_1.26.0-4_x86_64.deb
-Size: 12050504
-MD5Sum: 4f7bce070c7cad08aeea88878cfe8b5d
-SHA1: ef55ffecda509eb354abed6fc60f8107cf9e7c8f
-SHA256: 2afaa8d0d749620cfc3943aa769fef7cbfa62a06ff3c27716043bef80fcff234
-SHA512: 557169cdbe8ee111aa13e2be02d69d3a2efa950a8690563eabaf75cd22ccf0f9985a316d26014397679e306e902347d34d373e105043c494a6a61d687dfd5dad
+Installed-Size: 18480
+Maintainer: @truboxl
+Version: 8.0.28
+Homepage: https://dotnet.microsoft.com/en-us/
+Depends: dotnet-host
+Description: NETStandard.Library 2.1 Targeting Pack (.NET 8.0)
+Filename: ../../../../releases/download/x86_64-n/netstandard-targeting-pack-2.1-8.0_8.0.28_x86_64.deb
+Size: 1318664
+MD5Sum: 45c38506e9831ef1085bdd4315691ce9
+SHA1: bdfb3c1dc0be45f4e2269af3f2ea423450655b20
+SHA256: 0fb4dce6f5b5a472d2f487060133836929ddef16d92180dd6634bf3725a22a52
+SHA512: ce421a4b2a8936faa728800c408b2e7af03e68b7c01b3e7996d25925eb73a3e03bd606e892837cd254798bda9ab6b0ad3b7aa688cd744ceab6ba585d2a92b711
 
