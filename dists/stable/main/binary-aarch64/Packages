@@ -39219,20 +39219,6 @@ SHA1: e3f808074048f810c7eeb3ab026a6d9952e02d8f
 SHA256: 66c0dd3ebb83a7bb98f4538197a292bf6558ad329e832b255a617f123183b7c7
 SHA512: 05e0fd747fa4c4334120364854998987c58c3893cdeb79145b555ac18aed0e763f84956906f87e159ef7e5ee4d8e052ae427bc06427892a58fa588887c71c7a0
 
-Package: micro
-Architecture: aarch64
-Installed-Size: 13624
-Maintainer: @termux
-Version: 2.0.15-2
-Homepage: https://micro-editor.github.io/
-Description: Modern and intuitive terminal-based text editor
-Filename: ../../../../releases/download/aarch64-m/micro_2.0.15-2_aarch64.deb
-Size: 3671440
-MD5Sum: 4aa6df43e81353e2faecb08416dd0422
-SHA1: d1bd6d827426f8243710ffdfa6eac062c8b3d996
-SHA256: 52201baf4cc5715fa1ebc088e3ddd2a8dd36bca7be87ff16325d964b3545882d
-SHA512: 337b95cbc081898674154a44fc12114666f86e4f6ed0a2b1cef0fc662cb19b69219b13cb64516a2eebd09564ccb5faa0b1bcd9ab79576248bbcbdf49ce775521
-
 Package: teseq
 Architecture: aarch64
 Installed-Size: 236
@@ -39497,4 +39483,33 @@ MD5Sum: 74c1e2287eaf9cbee63c4d65fb4c354d
 SHA1: 34708438d72fc371adc83a0e6f601610b435b4a3
 SHA256: 817dbab9dae19f41e5f5388be447f5ebf334e016a7241766bec808dc5853eb6e
 SHA512: 2d6178c421ef11aa35086ef5269c519ffa58568d1ad4f5252bf4be1c713854ca37428bb03cc6f119a01367204b3f10814d3f950747d4021e47c00cd9b0f0706c
+
+Package: micro
+Architecture: aarch64
+Installed-Size: 13624
+Maintainer: @termux
+Version: 2.0.15-2
+Homepage: https://micro-editor.github.io/
+Description: Modern and intuitive terminal-based text editor
+Filename: ../../../../releases/download/aarch64-m/micro_2.0.15-2_aarch64.deb
+Size: 3671440
+MD5Sum: 4aa6df43e81353e2faecb08416dd0422
+SHA1: d1bd6d827426f8243710ffdfa6eac062c8b3d996
+SHA256: 52201baf4cc5715fa1ebc088e3ddd2a8dd36bca7be87ff16325d964b3545882d
+SHA512: 337b95cbc081898674154a44fc12114666f86e4f6ed0a2b1cef0fc662cb19b69219b13cb64516a2eebd09564ccb5faa0b1bcd9ab79576248bbcbdf49ce775521
+
+Package: zig
+Architecture: aarch64
+Installed-Size: 392100
+Maintainer: @termux
+Version: 0.16.0
+Homepage: https://ziglang.org
+Depends: resolv-conf
+Description: General-purpose programming language and toolchain
+Filename: ../../../../releases/download/aarch64-z/zig_0.16.0_aarch64.deb
+Size: 53661968
+MD5Sum: ded7e1aee7eba9542cf8b07291e0eedf
+SHA1: 4d5f70dfae20aa860d9861d4f0cf6be40ccb95da
+SHA256: dcfd13afb23013b1b516037c0373ece3df6f7225d06a99f16abbf68c03f8995b
+SHA512: 9194794a6ffccc12d4f95d7cb8da3595f9ce7e1f67c2a08ce6a9665338695766bf874832ed149c4ece9613c0ecca90d941ebd84cc905d8e760e8ec066cbe0bdb
 

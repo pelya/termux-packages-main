@@ -38201,20 +38201,6 @@ SHA1: 10b291981e4d2703f53db28595b5a65bb8c944a8
 SHA256: bd87c7b0c0c3ffc9d3c7a678637c802478ea5f2a0c0a3d3d507fc85018af5a14
 SHA512: dcabcb3fa2e15b85f4cf644c42d49d6c5ca7682cc37b22b185613c01ef0022d6f953fda84a806936c6465699b86735fb36fd0752a82f41dcc87ccbb012ed7154
 
-Package: micro
-Architecture: i686
-Installed-Size: 13564
-Maintainer: @termux
-Version: 2.0.15-2
-Homepage: https://micro-editor.github.io/
-Description: Modern and intuitive terminal-based text editor
-Filename: ../../../../releases/download/i686-m/micro_2.0.15-2_i686.deb
-Size: 4382392
-MD5Sum: dab81470501b801daca90060526c899b
-SHA1: 233f8a04a2e7ed5b1cc55234238986fde6938fd7
-SHA256: 5a6156a61b33137dbea4e1a1bf59d5f09f542eeefc11e7f2ee408fbd50b20cd6
-SHA512: 917ae234c2979f16e4eed1f3d179f78ab4cdd39865f2911437dd99e891b2e5c594a8f89200094a8e192a5b59a67eb3d61e35b3bd5771a109661747256baf3ec0
-
 Package: teseq
 Architecture: i686
 Installed-Size: 220
@@ -38479,4 +38465,33 @@ MD5Sum: d8d6f6600926563957e8aa9afce537b5
 SHA1: a8b964427dcd8f681defd2061004b58a7e1331a2
 SHA256: 88b6a66927b8b73bddfa57b4fad61ec33564896e240c61966a9e6b0a03c7dea7
 SHA512: 2d2a772a677256c108e2a89c72ba2c641e3b30418ef4a73878d7759245afc4fbff5fae69477a1388b00d9d5be3a02c80f48ae7f83ef618486120605a0bfb413e
+
+Package: micro
+Architecture: i686
+Installed-Size: 13564
+Maintainer: @termux
+Version: 2.0.15-2
+Homepage: https://micro-editor.github.io/
+Description: Modern and intuitive terminal-based text editor
+Filename: ../../../../releases/download/i686-m/micro_2.0.15-2_i686.deb
+Size: 4382392
+MD5Sum: dab81470501b801daca90060526c899b
+SHA1: 233f8a04a2e7ed5b1cc55234238986fde6938fd7
+SHA256: 5a6156a61b33137dbea4e1a1bf59d5f09f542eeefc11e7f2ee408fbd50b20cd6
+SHA512: 917ae234c2979f16e4eed1f3d179f78ab4cdd39865f2911437dd99e891b2e5c594a8f89200094a8e192a5b59a67eb3d61e35b3bd5771a109661747256baf3ec0
+
+Package: zig
+Architecture: i686
+Installed-Size: 410132
+Maintainer: @termux
+Version: 0.16.0
+Homepage: https://ziglang.org
+Depends: resolv-conf
+Description: General-purpose programming language and toolchain
+Filename: ../../../../releases/download/i686-z/zig_0.16.0_i686.deb
+Size: 61005416
+MD5Sum: 295ab840af2f0abfeb654986c83b4ad4
+SHA1: e429fea63c5a2d4ed1838cdcd5c8c390993d2ff3
+SHA256: 69f0d5c7ef9e79d4a4839139b94fad0942c4f8bdb5d7ff968b02a944d039034f
+SHA512: 34fe768ccfcc04c42606c8be82ebd23e32bb21fb4079ebc6241b91b4cdf143dc1a0c60f565c4224fda35fb94bc143969fd4cc6eedaab173eab1875cc29ef5e28
 
