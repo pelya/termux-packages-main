@@ -1035,3 +1035,34 @@ SHA1: df1bbb744f5629d415b52ef37ea5e23d84219efb
 SHA256: fe5e07af747879345718b096ef517c35ca4ac37fac338018aa944f879d03a298
 SHA512: 7e3c166e68fd2c03f0b49aff86dc3059b9fa62db2cf33b50a95f857cc0cc87e4c8b7268ca322ff58a9095df87239510a7e227e4dfddd61b36f307c0050b5000c
 
+Package: wireless-tools-static
+Architecture: i686
+Installed-Size: 60
+Maintainer: @termux
+Version: 30pre9-4
+Homepage: https://hewlettpackard.github.io/wireless-tools/Tools
+Depends: wireless-tools (= 30pre9-4)
+Description: Static libraries for wireless-tools
+Filename: ../../../../releases/download/i686-w/wireless-tools-static_30pre9-4_i686.deb
+Size: 12360
+MD5Sum: 798fdcf0f861791712a2893a830c0d42
+SHA1: 88c24aae7f12f33c434764d6442b3b4bc344ee64
+SHA256: ed6e98afe1b301d8af25a2a809c3dbecc8cb031873f99f7b523e1ae2a507dfe6
+SHA512: 8f776a549bf9d83ab518505d5905dba0d240e62dafb3bfe92c027d6794594dbeee3d697314dea01ac263993efd06c1e909dde9baf3d4ae0fa1456c61bef2996f
+
+Package: wireless-tools
+Architecture: i686
+Installed-Size: 416
+Maintainer: @termux
+Version: 30pre9-4
+Homepage: https://hewlettpackard.github.io/wireless-tools/Tools
+Breaks: wireless-tools-dev
+Replaces: wireless-tools-dev
+Description: A set of tools allowing to manipulate the Wireless Extensions
+Filename: ../../../../releases/download/i686-w/wireless-tools_30pre9-4_i686.deb
+Size: 91064
+MD5Sum: a758b4d9747d2731167326cfaa42a57d
+SHA1: 53510250c88de7c258102a7b7677a424c2537745
+SHA256: 91e1b2c80bd32fde3a2ec5f192ed7e0e292d090609221c708701d2d4d25752c6
+SHA512: ca9d9d20294aa8d8242f042ac3c77e4bbf40920c90ce8ef196893ff6a8506652b6d324a4dfbeb621cf2f91ff7a6f693eed5982c3b23cbfaf3fa6fd9ff505bf29
+

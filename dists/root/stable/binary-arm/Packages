@@ -1035,3 +1035,34 @@ SHA1: 394a83925663327959b24a2002738d49863f596e
 SHA256: 5a93ef5b8541381c752fc9c5f3ee1f283fbd2997cf741a3b552adbb987f21d00
 SHA512: bd612bf9be911d7ac34ff8c486d1e54acb73e31550d82b1d8dadfd3d9e48de01fa1b66beb77bf725838552db2550af1dab359bd5e87c0059fb5b4e7b38c8946a
 
+Package: wireless-tools-static
+Architecture: arm
+Installed-Size: 56
+Maintainer: @termux
+Version: 30pre9-4
+Homepage: https://hewlettpackard.github.io/wireless-tools/Tools
+Depends: wireless-tools (= 30pre9-4)
+Description: Static libraries for wireless-tools
+Filename: ../../../../releases/download/arm-w/wireless-tools-static_30pre9-4_arm.deb
+Size: 11788
+MD5Sum: 3460a4f0114133cd97daf3693d2e65c1
+SHA1: 3acd7c972e586e5f1301bcc2e40dfa1ff5cbeb4d
+SHA256: f764666eaf85f8abd11d69eab01d226491fc419ddbef642bd30b58f64f5e34cc
+SHA512: f0ef1279cf78304e6e203d94246bdfa8e9e79fedd3b4aab0908bf5c32a439946a2a693b7960526053b610ffc90e5ac3e41d8bbcfafb5493058491db38b7ef7ec
+
+Package: wireless-tools
+Architecture: arm
+Installed-Size: 368
+Maintainer: @termux
+Version: 30pre9-4
+Homepage: https://hewlettpackard.github.io/wireless-tools/Tools
+Breaks: wireless-tools-dev
+Replaces: wireless-tools-dev
+Description: A set of tools allowing to manipulate the Wireless Extensions
+Filename: ../../../../releases/download/arm-w/wireless-tools_30pre9-4_arm.deb
+Size: 83848
+MD5Sum: 4d32f3a9efb65c0e3a4ebf32067ee98c
+SHA1: 41b33379bb8ae8aaffb53b56f3a2a778c1e642c1
+SHA256: eee1ea0f4ad157839effeaab7472d76a65ea16b1ebd578131e01515f70082eda
+SHA512: 65989944d2354f6a0318afabb3431efc03a741857e3a82fee687863f0e854795fc77a7a25a313ff626e17eb792a018273b21cb799176807e42b1890eb860f9ec
+
