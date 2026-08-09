@@ -41062,3 +41062,48 @@ SHA1: cbe258d36590760e75e4304a38e4154d39007018
 SHA256: 14c88fea0e7bb35960f3bc4e4fede8f00027e687d10f23478cd0959149317648
 SHA512: 4a1f75858721086e5865d22950bbd3f979f9490cd600470666e87c7fdca1d0fee61d70b976e24a998606ff28146c09b7b3572ab6bf085a0014a83ec6613d8797
 
+Package: panda3d-samples
+Architecture: all
+Installed-Size: 22848
+Maintainer: @termux
+Version: 1.10.16-1
+Homepage: https://www.panda3d.org/
+Depends: panda3d (= 1.10.16-1)
+Description: Python sample programs that use Panda3D
+Filename: ../../../../releases/download/x86_64-p/panda3d-samples_1.10.16-1_all.deb
+Size: 20891116
+MD5Sum: d8c1ea0da7e88c1bfaef924629c0095d
+SHA1: 87b59260ecc413ebe92e02fd364a5ce9e6050560
+SHA256: bdce1129ed26f0c9baac80cef2047a4fc45efb13f22f3698bdb671b9fe5457bb
+SHA512: 4003d3bd7ce2a45f302125e7eea393044cb0bf5cbc440ac7bbdaa586eef553e729275644f2729d3537893d1be32b9c6141150c010e33e0e1d6124ee913d25698
+
+Package: panda3d-static
+Architecture: x86_64
+Installed-Size: 76
+Maintainer: @termux
+Version: 1.10.16-1
+Homepage: https://www.panda3d.org/
+Depends: panda3d (= 1.10.16-1)
+Description: Static libraries for panda3d
+Filename: ../../../../releases/download/x86_64-p/panda3d-static_1.10.16-1_x86_64.deb
+Size: 5772
+MD5Sum: 35820a80df60fa4f3078d87ce3704275
+SHA1: 389079e571d967a005b6195d6f562ae4cfe2f523
+SHA256: 0d484640582536b132533786cef2218fd21f339f6bde478645fcdfe0b8fc5bec
+SHA512: a0752c8d80df75b3f0afd0a2e12a286b460fb9fa4e7ac3465fbaeee4a69427003fb0b37757cefaeecf8c3d227e14bfb026056d9b8936ece3de9d12d72da736b2
+
+Package: panda3d
+Architecture: x86_64
+Installed-Size: 24952
+Maintainer: @termux
+Version: 1.10.16-1
+Homepage: https://www.panda3d.org/
+Depends: libc++, python
+Description: A framework for 3D rendering and game development for Python and C++ programs
+Filename: ../../../../releases/download/x86_64-p/panda3d_1.10.16-1_x86_64.deb
+Size: 3662884
+MD5Sum: 189a9a65bfb8d5a6814b2eea1bcde56c
+SHA1: 638059ef4a621d85ff054701c7e4d073e4f6011b
+SHA256: 4ea4f5fa39ac291e3d897c4103b4619e9292b7cab8e7f5c0d8b7ca96abb95c73
+SHA512: 8ee079dd72072251ca908296690e70cc874a8e5d27515bd95fa7b4deccfb9f405238a0cbab8c980c3851fde22a40eb9e6c797432dd49a5cfc538371c89bf8421
+

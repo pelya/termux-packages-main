@@ -41093,3 +41093,48 @@ SHA1: e0049c557e20e786843028ed19d7a7aef2f7930a
 SHA256: a8f2b9e94b670fb1e1b14a72fa7b3c128a2acb09a8f3f2c3e0e0e92220b16a8b
 SHA512: e02cbacf246a0b5dec30fff82d8102eb36c99f7381114db512406d87c1412d34a91039849034bb3770d9b0ea07fc7bceda85cd3f5cb70e3cdda18806921a15d6
 
+Package: panda3d-samples
+Architecture: all
+Installed-Size: 22848
+Maintainer: @termux
+Version: 1.10.16-1
+Homepage: https://www.panda3d.org/
+Depends: panda3d (= 1.10.16-1)
+Description: Python sample programs that use Panda3D
+Filename: ../../../../releases/download/aarch64-p/panda3d-samples_1.10.16-1_all.deb
+Size: 20891116
+MD5Sum: d8c1ea0da7e88c1bfaef924629c0095d
+SHA1: 87b59260ecc413ebe92e02fd364a5ce9e6050560
+SHA256: bdce1129ed26f0c9baac80cef2047a4fc45efb13f22f3698bdb671b9fe5457bb
+SHA512: 4003d3bd7ce2a45f302125e7eea393044cb0bf5cbc440ac7bbdaa586eef553e729275644f2729d3537893d1be32b9c6141150c010e33e0e1d6124ee913d25698
+
+Package: panda3d-static
+Architecture: aarch64
+Installed-Size: 100
+Maintainer: @termux
+Version: 1.10.16-1
+Homepage: https://www.panda3d.org/
+Depends: panda3d (= 1.10.16-1)
+Description: Static libraries for panda3d
+Filename: ../../../../releases/download/aarch64-p/panda3d-static_1.10.16-1_aarch64.deb
+Size: 7108
+MD5Sum: 1af5a021f51db0fc8ac1d549795a48cd
+SHA1: 6dcc90218b55e1718dc49f9075fbe1694eafd413
+SHA256: e648a7f96943049912c93ab674910b2afbc354d304ec753a60ee4491069e6191
+SHA512: e38447a205276b9b6d3646cb35dec04bc1706eec3943c5d0853a9a87baaf3d28c087674dacfadf157654d500fa4078f4d68fea8b8d0679bc32480f5ebcafaa51
+
+Package: panda3d
+Architecture: aarch64
+Installed-Size: 25024
+Maintainer: @termux
+Version: 1.10.16-1
+Homepage: https://www.panda3d.org/
+Depends: libc++, python
+Description: A framework for 3D rendering and game development for Python and C++ programs
+Filename: ../../../../releases/download/aarch64-p/panda3d_1.10.16-1_aarch64.deb
+Size: 3536972
+MD5Sum: ccac8162263ba758c22fc3e410fa87e7
+SHA1: 76d78966e4449dc4cd54154b0034b096c0ad87cd
+SHA256: 8b1fbd567fe494cdcdf7ada72cbb87a3342a6660c574c0070e2042926bcb6893
+SHA512: 0924abdc5a32d9e64739b96f0f82129c763ce2fbcaa4731b1d48b75566cbb71bd5b71cc552bb8e682bef3696fc6b5c59e5eb251cd82e0bd7a81e413be89e7b33
+

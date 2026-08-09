@@ -40076,3 +40076,48 @@ SHA1: 6667290a418e4b98df665420a74869aab624fd6f
 SHA256: c30463f3902b5b5ad2489eee0ad702ceece607bcf720100ecb8a169b7f53b379
 SHA512: ec470ebeba605d52d8f16a9f6e8fce283edd4de5cdf7bfd856366f3ae883c1c81457185c23706b0dd44636faa47cea598509b7d1eca01cdd24a54e5fcb1c1abd
 
+Package: panda3d-samples
+Architecture: all
+Installed-Size: 22848
+Maintainer: @termux
+Version: 1.10.16-1
+Homepage: https://www.panda3d.org/
+Depends: panda3d (= 1.10.16-1)
+Description: Python sample programs that use Panda3D
+Filename: ../../../../releases/download/i686-p/panda3d-samples_1.10.16-1_all.deb
+Size: 20891116
+MD5Sum: d8c1ea0da7e88c1bfaef924629c0095d
+SHA1: 87b59260ecc413ebe92e02fd364a5ce9e6050560
+SHA256: bdce1129ed26f0c9baac80cef2047a4fc45efb13f22f3698bdb671b9fe5457bb
+SHA512: 4003d3bd7ce2a45f302125e7eea393044cb0bf5cbc440ac7bbdaa586eef553e729275644f2729d3537893d1be32b9c6141150c010e33e0e1d6124ee913d25698
+
+Package: panda3d-static
+Architecture: i686
+Installed-Size: 72
+Maintainer: @termux
+Version: 1.10.16-1
+Homepage: https://www.panda3d.org/
+Depends: panda3d (= 1.10.16-1)
+Description: Static libraries for panda3d
+Filename: ../../../../releases/download/i686-p/panda3d-static_1.10.16-1_i686.deb
+Size: 5848
+MD5Sum: cee2dc56d08987d63943a49659fe7196
+SHA1: 230141a358b9c710ebfbd4c86c072c9eb511adf5
+SHA256: 59111fa3f81a01a37966014000fbd6604164f601dbdcabbc4f9f2be1164e61b6
+SHA512: e1f552b91f50fb0daf6f06e86ea212cb34cbcaafed9ac00c4530552eeab2aab6b8ba0a7cb80cc695607cfa0d5211f18a372e24aed70711f0e83c73e8830fdb41
+
+Package: panda3d
+Architecture: i686
+Installed-Size: 25476
+Maintainer: @termux
+Version: 1.10.16-1
+Homepage: https://www.panda3d.org/
+Depends: libc++, python
+Description: A framework for 3D rendering and game development for Python and C++ programs
+Filename: ../../../../releases/download/i686-p/panda3d_1.10.16-1_i686.deb
+Size: 3787484
+MD5Sum: abbfaba1e7d70b03af226f98632216b1
+SHA1: 380ea57bbb3a1b5ede437d0a228c9aadaed8ea61
+SHA256: 77d2abf6b8967a35d6b02ab065b22b45ab85b0eb68b2f67c2df3d5b57fc41198
+SHA512: f68cd4bd9bd502333d77c7dd431fe445a3e679d61fcd5d0c419df5db9ca8c0c7f082e01c71bfc9daec520d40e309e4bd425ff2a6876f3e653c842db689e7183d
+

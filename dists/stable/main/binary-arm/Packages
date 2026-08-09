@@ -39314,3 +39314,48 @@ SHA1: d564da0914ef6e1ff54259158257bee9ec35c455
 SHA256: f6e6bf942a01e09ea9d7b4f774d50cacdac7abfa49111f9e099824421faa1e53
 SHA512: a7a6df7465c9e906c59c5914651e169fb5a71e41c8fe5e0f0dbdddf163ef3b50e4f699cbdb8bb7c753bf2432e63d179c784964f932d1ddc5cce9ba2f7f6a94b8
 
+Package: panda3d-samples
+Architecture: all
+Installed-Size: 22848
+Maintainer: @termux
+Version: 1.10.16-1
+Homepage: https://www.panda3d.org/
+Depends: panda3d (= 1.10.16-1)
+Description: Python sample programs that use Panda3D
+Filename: ../../../../releases/download/arm-p/panda3d-samples_1.10.16-1_all.deb
+Size: 20891116
+MD5Sum: d8c1ea0da7e88c1bfaef924629c0095d
+SHA1: 87b59260ecc413ebe92e02fd364a5ce9e6050560
+SHA256: bdce1129ed26f0c9baac80cef2047a4fc45efb13f22f3698bdb671b9fe5457bb
+SHA512: 4003d3bd7ce2a45f302125e7eea393044cb0bf5cbc440ac7bbdaa586eef553e729275644f2729d3537893d1be32b9c6141150c010e33e0e1d6124ee913d25698
+
+Package: panda3d-static
+Architecture: arm
+Installed-Size: 84
+Maintainer: @termux
+Version: 1.10.16-1
+Homepage: https://www.panda3d.org/
+Depends: panda3d (= 1.10.16-1)
+Description: Static libraries for panda3d
+Filename: ../../../../releases/download/arm-p/panda3d-static_1.10.16-1_arm.deb
+Size: 7352
+MD5Sum: fba3dce34729cbcc506581c6b56a1cec
+SHA1: d002c3f287268b83f4109dd904a741e41f8459a4
+SHA256: dc07e448bdc425747b8946f78186010af46a7658fd0d9730849da3b567882957
+SHA512: e5507bfdd586f75b93c49f195bdf35b20f232f711d4a56650f68e2293127b8880297bf1077b4b59d93438a4a9db5275a20c2ff4b3a30f1c22091688a909382d5
+
+Package: panda3d
+Architecture: arm
+Installed-Size: 22128
+Maintainer: @termux
+Version: 1.10.16-1
+Homepage: https://www.panda3d.org/
+Depends: libc++, python
+Description: A framework for 3D rendering and game development for Python and C++ programs
+Filename: ../../../../releases/download/arm-p/panda3d_1.10.16-1_arm.deb
+Size: 3330836
+MD5Sum: 8ae3b219af9dfdd9c2bd51caee62c280
+SHA1: 7d22cb3de6f87d12cfbd90a6f81c6b1ec8081e77
+SHA256: 9c23b81542e5cf90b73d744c1a7e47b8800f1d61450fb174684714d9de970df8
+SHA512: 9873a7e35af38175bf99fc0b8bc467e1ff3bbab0e2507c8642f0eed5cd16a5e4f3bec50d3e6fe9a49427982fb622387a23f9cab5e3b4a51698c5eed8efe1abe2
+
