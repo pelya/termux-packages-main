@@ -14673,3 +14673,18 @@ SHA1: 6ec1ec9399276ec875de1a4179df8b034247fbb2
 SHA256: c88e8c58b089c6fb8babb3147a1792c6042203e29fd455967d7ac118321808b1
 SHA512: 65d5262a7145507a00b0687550b79b2d11640e3e4a55bbb773ddec51a3376fc6c667e9e33f604c76a360fc4465e809a99765f49f08dad1d69f63f1d23012d556
 
+Package: minuet
+Architecture: aarch64
+Installed-Size: 32620
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/education/minuet
+Depends: fluidsynth, kf6-kcoreaddons, kf6-kcrash, kf6-ki18n, kf6-kirigami, libc++, qt6-qtbase, qt6-qtdeclarative, qt6-qtsvg
+Description: A KDE Software for Music Education
+Filename: ../../../../releases/download/aarch64-m/minuet_26.04.3_aarch64.deb
+Size: 27429780
+MD5Sum: 451094aab88fca82c6414d6400552139
+SHA1: f008318a242595f5cc3c2b653dd56b926bdeee34
+SHA256: b73352c0e1b50cf5e1e60e446aa6181dba155835aa699cc55d0fecdb70f54b3b
+SHA512: cfc36edbcb4388e9d33c613a107ecee0e82309c2be016be55c8f77c4d67f4b23d9e41a86b97c236b55c458618d21a09f9dd28f6e92f08432b682e0e2f66593ee
+
