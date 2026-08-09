@@ -14262,3 +14262,34 @@ SHA1: e6d5966309aaa5b81594b373a20e100a6a990abf
 SHA256: b008a7b54b4a8a569a87eb0dfed0bec93c8f614cb694f20a72d6c87631fb2db7
 SHA512: 9d19cbad70a8f57a75aab33446292dc75b30265ba2f227922b32b287ac0deb3fd6623517dfce39c41c3bc3f8e256824fa9796188117c9f661b384361f0580344
 
+Package: texstudio-data
+Architecture: all
+Installed-Size: 339584
+Maintainer: @termux
+Version: 4.9.5
+Homepage: https://www.texstudio.org/
+Description: Platform-independent data for texstudio
+Filename: ../../../../releases/download/arm-t/texstudio-data_4.9.5_all.deb
+Size: 44758184
+MD5Sum: 18e85f5f73b515077c0aeb3559bca395
+SHA1: 8e1201183149bbb6104c29190204aa1994d38adf
+SHA256: 7c263c67baa55bd8f880abd4d7b2ca9654bdd2c0a23340396dcc01b3bffc9f9a
+SHA512: bd25cf988700611746bbfeb741a0c7cf06df7abf2cb769d89deb137d473a7cfd3f6a08b4ccd390b8265b388ef82d3c2fda1494270180b923adf0591d814f67d3
+
+Package: texstudio
+Architecture: arm
+Installed-Size: 31680
+Maintainer: @termux
+Version: 4.9.5
+Homepage: https://www.texstudio.org/
+Depends: hunspell, libc++, libx11, poppler-qt, qt6-qtbase, qt6-qtdeclarative, qt6-qtsvg, qt6-qttools, quazip, texstudio-data, zlib
+Recommends: ghostscript
+Suggests: texlive-installer
+Description: A fully featured LaTeX editor
+Filename: ../../../../releases/download/arm-t/texstudio_4.9.5_arm.deb
+Size: 14594908
+MD5Sum: dea1bea228c6308c0640bc41332483b1
+SHA1: eae6110f7d204bf146ddeade6a9aa5fb53d1542e
+SHA256: 716509c0f8618cf8b1c8fb667dd4e32bb77e591dcf73fc2c946288c14a57e3d8
+SHA512: ed286a4459fa0ebf91969a58f68d3a6fdcb574ca338ca82e9d695e79861172261fa9320cc8a5146b6e25ecac6fa57b1d4e5ccab4c69108d495cab1b65945033e
+

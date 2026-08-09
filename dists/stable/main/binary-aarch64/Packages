@@ -39869,3 +39869,17 @@ SHA1: 6a648e3e8dd24b8753de32fb7a5f8d5913834aca
 SHA256: 4e7b511b3058079fc703f5c25641b11a9e7a2a84348e4be2b44177c7fdfe9d06
 SHA512: ae65d2b44142747fbb413b971de107ca6036edbeaf2a066f2b7eae4b11181fd2ce4132e8c54a04b74c773f384d42e1cfacac94f0189635dcef67a723d12870d7
 
+Package: mdbook-tera
+Architecture: aarch64
+Installed-Size: 6372
+Maintainer: @termux
+Version: 0.5.1-1
+Homepage: https://github.com/avitex/mdbook-tera
+Description: Tera preprocessor for mdBook
+Filename: ../../../../releases/download/aarch64-m/mdbook-tera_0.5.1-1_aarch64.deb
+Size: 1134508
+MD5Sum: a648386bc6d31dbfe016b2e2efa09fec
+SHA1: fda6905dd22876fc9f16283213c0921fa10b8e2a
+SHA256: 78cb203172e0db388981bbcfc8d3173b201d2a26c57a38fcec215a283161294e
+SHA512: 35566ae6746a46ab50e87fbf2fdc11b27ec16deb918c6bfd2f81c75f966e0e60ee2fab86f4b6bc852a9150bc7d6b20cce77b18ee17324ff8f737519aa94bc959
+
