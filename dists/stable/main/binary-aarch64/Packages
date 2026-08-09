@@ -40525,3 +40525,20 @@ SHA1: 0d45650c0253e8ebf91bc5b825a75681199a7555
 SHA256: 1fdf6ef7806599d6193485ba8438a2dbe1b13286978dd24bcd47f1eec238a7b3
 SHA512: a148068f3ca9bbd0862caf86a56e852502923d2db7407ebb2ae54ec43805d2eac52d9ca4f8836baa3e8d8926d0563a24e67b9bfcbb8d47d17e951026cd28b709
 
+Package: emacs
+Architecture: aarch64
+Installed-Size: 125276
+Maintainer: @termux
+Version: 30.2-4
+Homepage: https://www.gnu.org/software/emacs/
+Breaks: emacs-dev
+Depends: libacl, libgmp, libgnutls, libsqlite, libxml2, ncurses, tree-sitter, zlib
+Replaces: emacs-dev
+Description: Extensible, customizable text editor-and more
+Filename: ../../../../releases/download/aarch64-e/emacs_30.2-4_aarch64.deb
+Size: 44342600
+MD5Sum: aca0cd93c934b6db60a81ab10318822f
+SHA1: 65e7154cfd73adad7fceee378294ed1397b281e2
+SHA256: d01dc89598331e020991e2ddd460ada9ef5d9f3304db6a713b9fa2a637148b7d
+SHA512: 19a258282d41d21913de4760b0f79b05d6e78551e1fea152f939c1c0718633fae5805f174a50b0f17a717d2c226efdce81bf474ecefa43c917952353d0dfe1cd
+

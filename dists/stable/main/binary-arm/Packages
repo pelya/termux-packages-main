@@ -38761,3 +38761,20 @@ SHA1: 93bb17856b3129670ff2d4077ed962e78b566c62
 SHA256: 2de480a3828193930ede6a330bdb47291371e081d7bacb89df01fac36d21076c
 SHA512: 6076a28850324bcfae9964fa34a26630898ce6dba4f75362bbec35a53cc28f5b8413af439b91210a1fa40849fc97a2c4582c4b5f60d463cc415de95f5a977428
 
+Package: emacs
+Architecture: arm
+Installed-Size: 122292
+Maintainer: @termux
+Version: 30.2-4
+Homepage: https://www.gnu.org/software/emacs/
+Breaks: emacs-dev
+Depends: libacl, libgmp, libgnutls, libsqlite, libxml2, ncurses, tree-sitter, zlib
+Replaces: emacs-dev
+Description: Extensible, customizable text editor-and more
+Filename: ../../../../releases/download/arm-e/emacs_30.2-4_arm.deb
+Size: 44308664
+MD5Sum: f40e5b11e92c7baefcffa0f6200c9594
+SHA1: a43b91df8db783585b69042df15a04139278ce1a
+SHA256: 8a963db4d7b00f7f3ad61d52fb72ff3c35a608eff01aae7a5ce2c6fcbfa03ad2
+SHA512: b82a85f1a7d5f1e61ca020d9be7fe5857ffdad77d975a8dd99f74c86143b2c7f5a8cf0166ada27d0a18538e10d7fbf4373c01866c2e14e011cbc69f54b8f1f98
+
