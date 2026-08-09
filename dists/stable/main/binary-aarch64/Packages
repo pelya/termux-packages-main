@@ -39674,3 +39674,34 @@ SHA1: 09e3f1ac973e0a689b86682f50e318383992f2d1
 SHA256: 411305bd61c6648ec906778ea9242e506aaef7deaeabe85d76778bc9c4525e97
 SHA512: 3073f076ccdbda05904404178078999930c7abccd796a448b9f915120813532b3a3a9aad57b53cc26ebfb8565e19dd7c2a2460bacec45bada18a0f4755c1c9a5
 
+Package: texlive-installer
+Architecture: all
+Installed-Size: 2880
+Maintainer: Henrik Grimler @Grimler91
+Version: 20260301
+Homepage: https://www.tug.org/texlive/
+Breaks: texlive
+Depends: perl, texlive-bin (>= 20240310), gnupg, curl, lz4, xz-utils
+Replaces: texlive
+Description: Wrapper around texlive's install-tl script
+Filename: ../../../../releases/download/aarch64-t/texlive-installer_20260301_all.deb
+Size: 522492
+MD5Sum: 305e86df7af9d71e8f571405411fc10c
+SHA1: 7ccd95ae40f17f4d5fd5a3590add5b6d53bbd38a
+SHA256: 10a71ecc8c051c9ea028dc5e130c7ad94cee36527b006313fa57b3857d1d5f24
+SHA512: a460cd3f119a8ec4a70ed7f8dce1bc7d070f0f22f33525b146ab0f193a81a30958a7e59c1ecf903d37dad95aaeb1a7f0a755735a2b80ced65a99f59664da80b1
+
+Package: wtfutil
+Architecture: aarch64
+Installed-Size: 77436
+Maintainer: @termux
+Version: 0.50.0
+Homepage: https://wtfutil.com/
+Description: The personal information dashboard for your terminal
+Filename: ../../../../releases/download/aarch64-w/wtfutil_0.50.0_aarch64.deb
+Size: 13315516
+MD5Sum: 16ed93ae884e254c78d16251c70d2fde
+SHA1: a255817f886e7371d473d570d77a643c42fdfb18
+SHA256: 19b5f791e37063e23649baffb226bdcfa04b76057af3fb5c42245534da9a3128
+SHA512: f6c3a001b522e4710a2c47ef88ac5d0490012294dacd7f8d8172374e64b973527bbaf586fca52a28b6d8bd11da0b9989f3fe9376d10aecb3444072403bd9672d
+

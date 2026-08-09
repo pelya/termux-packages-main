@@ -38672,3 +38672,34 @@ SHA1: 1f475239ef4e933a4c5ff5c98f15e58bae7a38ba
 SHA256: c4765bb8fdf81d19e00b06e07bda758b269e30ac1a9ff66d83636136118fd69a
 SHA512: 14763d2532587ec236e609358cf3570d6953ca246ff4bf65599461abc6df7ad781bc415e6bd56b4004941dd037c854152da99f3f8295fe48fa32ca30900ca960
 
+Package: texlive-installer
+Architecture: all
+Installed-Size: 2880
+Maintainer: Henrik Grimler @Grimler91
+Version: 20260301
+Homepage: https://www.tug.org/texlive/
+Breaks: texlive
+Depends: perl, texlive-bin (>= 20240310), gnupg, curl, lz4, xz-utils
+Replaces: texlive
+Description: Wrapper around texlive's install-tl script
+Filename: ../../../../releases/download/i686-t/texlive-installer_20260301_all.deb
+Size: 522492
+MD5Sum: 305e86df7af9d71e8f571405411fc10c
+SHA1: 7ccd95ae40f17f4d5fd5a3590add5b6d53bbd38a
+SHA256: 10a71ecc8c051c9ea028dc5e130c7ad94cee36527b006313fa57b3857d1d5f24
+SHA512: a460cd3f119a8ec4a70ed7f8dce1bc7d070f0f22f33525b146ab0f193a81a30958a7e59c1ecf903d37dad95aaeb1a7f0a755735a2b80ced65a99f59664da80b1
+
+Package: wtfutil
+Architecture: i686
+Installed-Size: 74908
+Maintainer: @termux
+Version: 0.50.0
+Homepage: https://wtfutil.com/
+Description: The personal information dashboard for your terminal
+Filename: ../../../../releases/download/i686-w/wtfutil_0.50.0_i686.deb
+Size: 16403444
+MD5Sum: 6e3d2a13484500afd355cb844efe4661
+SHA1: 3f013b293122526cf33d9f1076a3a55f78ff983d
+SHA256: 7eaae2817b47a296fef845fa829782cfb59fce778e76a8837a70d853ed0588db
+SHA512: 09730a58a723855eed207c22f002e924ca081933a684633022fb6241ee4e2e7422d36342478021855f0162469a11188aa41d4faffc736ecb99f41c05ce9656ce
+
