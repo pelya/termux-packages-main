@@ -2910,36 +2910,6 @@ SHA1: 1e47978322de019f32cabb4e27972c3da4a958ad
 SHA256: 7a196668c9559bc5b9941842356d327e64102835385b91e54877aa2b83ce7842
 SHA512: c6e398d6772fae6adabb555dbd1065e16ddc7ae9b9b6896ce95a9f9a3183a0312cf75ea44a73ce2ccc8cd962a2b03876493889e9f3d3869027127b34b1d3fd6c
 
-Package: command-not-found
-Architecture: aarch64
-Installed-Size: 88
-Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Version: 3.5.0-pelya3-4
-Homepage: https://github.com/termux/command-not-found
-Depends: libc++
-Description: Suggest installation of packages in interactive shell sessions
-Filename: ../../../../releases/download/aarch64-c/command-not-found_3.5.0-pelya3-4_aarch64.deb
-Size: 17040
-MD5Sum: 920413e7a5bb2840bc453e884a4a06b1
-SHA1: 060539973124ba04bba16730fa476dc682bb7771
-SHA256: 4691128a6ee2f60c0e1074fe6c53f86964f5dec7d1cd29ffae62519b01de41e1
-SHA512: cb3afdbf33a53610505505cbd83d53f591d5b300db05780b7cf92bf08b5b138f4944cee5cc58621808b11e4d44d8f0dfbd8235e1436bcbd8073703597cec2d97
-
-Package: command-not-found
-Architecture: aarch64
-Installed-Size: 88
-Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Version: 3.5.0-pelya3-5
-Homepage: https://github.com/termux/command-not-found
-Depends: libc++
-Description: Suggest installation of packages in interactive shell sessions
-Filename: ../../../../releases/download/aarch64-c/command-not-found_3.5.0-pelya3-5_aarch64.deb
-Size: 17040
-MD5Sum: fa60d827da63784bd1dd2abdc0a491a0
-SHA1: 5ef96250088e71d948b2105e6a3651a9e96f5a4c
-SHA256: 7d7e5e5db42f18d35a1b2b8052636c847a5faff9e4f809b8e54e8c1d2404dc2f
-SHA512: 88c90833a6ba64a06d314b634c64c588af4b014bc3bdb70c20e9c9ad37691d8321cb5760c78abf2b81d76e6a0cda7a054b901231f481d88a9946b5c007616832
-
 Package: console-bridge
 Architecture: aarch64
 Installed-Size: 140
@@ -40087,4 +40057,19 @@ MD5Sum: ba14445f5f49bcc56b4b6c03c3752d81
 SHA1: 16ad27df662c7d8be23ca54dc7661547a89249dc
 SHA256: 7aea16f17ab6435b88c2905d9c365f775d440edec49584331ee21782870e5c35
 SHA512: 9aa5c4b420a512b2edd783da6dfdc9d228255d2b545a8a7527b0bdb99f16ed215b9913569222c22de9c638e026646ba75e604d9cc07a9dee286fb0ed1b50528a
+
+Package: command-not-found
+Architecture: aarch64
+Installed-Size: 88
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Version: 3.5.0-pelya3-6
+Homepage: https://github.com/termux/command-not-found
+Depends: libc++
+Description: Suggest installation of packages in interactive shell sessions
+Filename: ../../../../releases/download/aarch64-c/command-not-found_3.5.0-pelya3-6_aarch64.deb
+Size: 17056
+MD5Sum: cdcca4e5d48662247362f17bb67c0e43
+SHA1: d09bbfed9ef1646e5ff78e6d7cbe995f8b640412
+SHA256: 886f4ee0178e75d394928a91ea9d2c280c8e2c8fbbd0b5f4ed22ab82672826eb
+SHA512: 891e2174f6c385437f788079a466ecbe3120a4eecb21d80ea90ef8a79b4f850da21d0ad58f80f651cfdcd4baa333980b32994bcacdd8f4df946ff3dae47c49d0
 
