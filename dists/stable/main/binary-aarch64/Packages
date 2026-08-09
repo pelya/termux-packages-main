@@ -41078,3 +41078,18 @@ SHA1: f2af5f20b30d1b94c6963f4b8368266837e63046
 SHA256: 027d588808b3ae35fb6b9c903912edc4586f4fcce6920318f0356b703fa53828
 SHA512: 72b8fa7a98c2275734265a9d5167b6e8ea11fd75a611a2deb8d7f9bac87b5b2ba6136dca75d220b716cc95be3b2ab7f41f5cac5ac05efb45914e1263383eba0e
 
+Package: cboard
+Architecture: aarch64
+Installed-Size: 236
+Maintainer: @termux
+Version: 0.7.5-5
+Homepage: https://benkibbey.wordpress.com/cboard/
+Depends: libandroid-support,libandroid-glob,gnuchess, ncurses, ncurses-ui-libs
+Description: PGN browser, editor and chess engine frontend
+Filename: ../../../../releases/download/aarch64-c/cboard_0.7.5-5_aarch64.deb
+Size: 72636
+MD5Sum: 2416d476b3cb62dc3c653b3236d8a935
+SHA1: e0049c557e20e786843028ed19d7a7aef2f7930a
+SHA256: a8f2b9e94b670fb1e1b14a72fa7b3c128a2acb09a8f3f2c3e0e0e92220b16a8b
+SHA512: e02cbacf246a0b5dec30fff82d8102eb36c99f7381114db512406d87c1412d34a91039849034bb3770d9b0ea07fc7bceda85cd3f5cb70e3cdda18806921a15d6
+

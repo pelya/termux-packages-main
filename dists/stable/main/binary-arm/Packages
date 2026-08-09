@@ -39299,3 +39299,18 @@ SHA1: 716ba050d8e22771ad3fc6ec640e54ac861220f7
 SHA256: f0f2a7eddb22dd5b8d34749d584cade0be4f901dd78ede0878898bf68d0bf163
 SHA512: 4bdf490394cd7fdf48218c41af6d75ec8412fe0b1c2135da52385083683cec42184236f11ec0a9b8b3f0ac56bf73e22990ae449375430cdb290ce4e8e4ea9ca5
 
+Package: cboard
+Architecture: arm
+Installed-Size: 184
+Maintainer: @termux
+Version: 0.7.5-5
+Homepage: https://benkibbey.wordpress.com/cboard/
+Depends: libandroid-support,libandroid-glob,gnuchess, ncurses, ncurses-ui-libs
+Description: PGN browser, editor and chess engine frontend
+Filename: ../../../../releases/download/arm-c/cboard_0.7.5-5_arm.deb
+Size: 66184
+MD5Sum: d962d18e4372d82dfec7b04b563a8417
+SHA1: d564da0914ef6e1ff54259158257bee9ec35c455
+SHA256: f6e6bf942a01e09ea9d7b4f774d50cacdac7abfa49111f9e099824421faa1e53
+SHA512: a7a6df7465c9e906c59c5914651e169fb5a71e41c8fe5e0f0dbdddf163ef3b50e4f699cbdb8bb7c753bf2432e63d179c784964f932d1ddc5cce9ba2f7f6a94b8
+
