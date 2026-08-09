@@ -40633,3 +40633,17 @@ SHA1: 29802eb7dd3698515a023c0b5051d3dc0d1d554e
 SHA256: d3700d4fa1303750baca7c7fc92e1ddcb2f0c4c9274a94860a29edabe8809c88
 SHA512: 06cc558bbe476980fa926caaa34d66f342bec415d61d886b14c89ab978f3974f027464e0bbd27a50d321f6fe73bed6b2410a897df58e5d91344c0dc3489c5164
 
+Package: vttest
+Architecture: aarch64
+Installed-Size: 340
+Maintainer: @termux
+Version: 20251205
+Homepage: https://invisible-island.net/vttest/
+Description: Program for testing the VT100 compatibility of terminal emulators
+Filename: ../../../../releases/download/aarch64-v/vttest_20251205_aarch64.deb
+Size: 91968
+MD5Sum: 67aa658eadad65df5ba5c106b2a6a11d
+SHA1: 6b0799a20b28e03b01f495f3242da2022ac8c7af
+SHA256: 756862203823799069352f351855db8f0a0905ec903e00dcca8fe51a441ac5d1
+SHA512: b46c327dc87c4666896f771c1b1f94e8ee9c308d81e13a6b6f2d4e46e59942ca2ccde759ef209a47405618f33ae7e6ea77587631b45bbc227d4d52c79d710ad0
+

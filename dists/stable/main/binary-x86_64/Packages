@@ -40602,3 +40602,17 @@ SHA1: dc6ecd9da058e69aee8997c2192d458249ab3841
 SHA256: 4a988b146e3851dcad89dae475d138e38a9a58f31d53c3672aa6fc5de1bb0353
 SHA512: 2a8beefb475d5dda549d47af65e2a94e84321982dd43b80dbd66a427ecf970eae769c006e1814bd56ecc721c77eb4faac2c07265a0f34350c3c42acdca06c9a0
 
+Package: vttest
+Architecture: x86_64
+Installed-Size: 328
+Maintainer: @termux
+Version: 20251205
+Homepage: https://invisible-island.net/vttest/
+Description: Program for testing the VT100 compatibility of terminal emulators
+Filename: ../../../../releases/download/x86_64-v/vttest_20251205_x86_64.deb
+Size: 97540
+MD5Sum: b4753206a91b2b3af053bacdefcafeb6
+SHA1: ed7398c39293044faef1bcbf5a83635ab4338606
+SHA256: 0dea40aa7a93ab74930f0d9a005762a710c3ab21d130d623cfe9aad6441493f1
+SHA512: 0a4b09fce11b9dbcd4afc11060c7ea70f1a75f1687bf128b6c7a239aaeb267ddba3da21a454fc31a19d2097b8e58396b28028edfe257cd3bbb396bb5e35365bd
+
