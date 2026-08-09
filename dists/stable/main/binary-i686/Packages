@@ -39243,3 +39243,18 @@ SHA1: f2564ccbc60811c5dddb6c7a3a98a48b7b37737a
 SHA256: 4c9bb2e0269dbf18aacbcb0e17fb2c248c04b3be0e0433e8e0ccd214e17e3a02
 SHA512: 84b92663ce13c199a0dc1896a43ef3ae24b390da73261d6f5eacd67eb24f07a96ee6c37b36a0db7c135fb04c0c41c2c48a8ef2bd685774b3843411c126384038
 
+Package: aspell-es
+Architecture: all
+Installed-Size: 1504
+Maintainer: @termux
+Version: 2:1.11-2-0
+Homepage: http://aspell.net/
+Depends: aspell
+Description: Spanish dictionary for aspell
+Filename: ../../../../releases/download/i686-a/aspell-es_2.1.11-2-0_all.deb
+Size: 452472
+MD5Sum: bbd53e01de9e24028b204af7ee85833d
+SHA1: 39280075e46fe58c998a03eb0d17489425eae775
+SHA256: 853295ca8ed48e47262313bb906b9fa663d18af8bfb4a495195dac9fb3349d7e
+SHA512: 0102c7ba56f7c0fbba6512d96cc5643106470dabd6c1cd9118c6206edd4c19a20c5686ccf4dc695e10e126b95d7e9ad270489af16c52d3eca835f23a35236e16
+
