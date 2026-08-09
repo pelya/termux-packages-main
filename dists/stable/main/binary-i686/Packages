@@ -39734,3 +39734,17 @@ SHA1: 13fe028dd438d754515fdd30cc1ea587a2032495
 SHA256: 60293dbe355f31bb72c830672878502607bdc01aa7210e7f0f32a599bd6f53ca
 SHA512: 35520f330581bbee9e8bd8599cd46a509ad6764b656a73d13775add0430656977bf27fd6641015d2fe5585a3a2599ac87bbbafddf07cdee2f7918b1623986ae6
 
+Package: shellharden
+Architecture: i686
+Installed-Size: 440
+Maintainer: @termux
+Version: 4.3.2
+Homepage: https://github.com/anordal/shellharden
+Description: The corrective bash syntax highlighter
+Filename: ../../../../releases/download/i686-s/shellharden_4.3.2_i686.deb
+Size: 184028
+MD5Sum: e89ea60b47898ff4320dbb10d7384285
+SHA1: d70228c610db815c74626be58af37eca8c0136f0
+SHA256: cc5ab5bb4a728315d7c53f539e26c4f3c9922f6531a9a57fe34eb1e6c1a44a8a
+SHA512: 9d2b7bad36e5382410da4ddde6446f58b52d64023d195759fb3a0322935e014e81c9fbb2284135689cbc1de460bbeba2157ab625513855c08236197e786ed61b
+
