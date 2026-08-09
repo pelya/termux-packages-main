@@ -40088,3 +40088,18 @@ SHA1: 36cd9cf523cd640fd393c1b4cbb3d9b8ebc2072e
 SHA256: 257ff5dbfb2097b362e49127e950d05ade29fa53421e6401144e889bd74841f9
 SHA512: 4c7653c033dd001774ee0ae22bc174e10de95971180eff4c14d89262687525da459ce66257fbb9bf4f63ff23b2212940fa3f017db1cecc86a80ca380c8960428
 
+Package: glulxe
+Architecture: aarch64
+Installed-Size: 328
+Maintainer: @termux
+Version: 0.6.1-1
+Homepage: https://www.eblong.com/zarf/glulx/
+Depends: ncurses
+Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
+Filename: ../../../../releases/download/aarch64-g/glulxe_0.6.1-1_aarch64.deb
+Size: 81128
+MD5Sum: 0e9a646edf1b528ff327d4af7086087e
+SHA1: b99a2c44d2fa7dd443361793756635af6182cba4
+SHA256: e1f8f8ee74bf15e2dcf771e7316d0c216d3beb6e77e1a6cbd35bb1da21616cb2
+SHA512: a4eae04dc8576e68675e47f17a308e6ce64080e1a71923ba13fbed2053d8c8ab1731b9948e037d3c00c1861e24825dcd1b4ddef27bf2d31d2da17dac57782638
+
