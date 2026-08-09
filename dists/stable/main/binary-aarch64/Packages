@@ -40542,3 +40542,20 @@ SHA1: 65e7154cfd73adad7fceee378294ed1397b281e2
 SHA256: d01dc89598331e020991e2ddd460ada9ef5d9f3304db6a713b9fa2a637148b7d
 SHA512: 19a258282d41d21913de4760b0f79b05d6e78551e1fea152f939c1c0718633fae5805f174a50b0f17a717d2c226efdce81bf474ecefa43c917952353d0dfe1cd
 
+Package: rxfetch
+Architecture: all
+Installed-Size: 52
+Maintainer: @termux
+Version: 2023.01.07
+Homepage: https://github.com/Mangeshrex/rxfetch
+Depends: bash
+Conflicts: rxfetch-termux
+Replaces: rxfetch-termux
+Description: A custom system info fetching tool
+Filename: ../../../../releases/download/aarch64-r/rxfetch_2023.01.07_all.deb
+Size: 3900
+MD5Sum: 463abc09bb85edc542bd7ee8741f6434
+SHA1: 45e668c21b8f6563a4a998ef58bd7b72d5489504
+SHA256: a1ae7af851c80f9f69ca50d744bf23419989189effe01a729ec89051fe47b382
+SHA512: 0e2647cff1bf1bb3e0633223c467abbfe90c79e92aaf27abb2caa3fa3d904acf7de83ce5940bd3ed4f35fcfd15806ea62cb27424be3271ff139eb4c6baca6868
+
