@@ -39690,3 +39690,17 @@ SHA1: f4a7d211da8f03beb9da81af23de36cf8a6a299d
 SHA256: 4ab7c0da3de343f93c22d3c583a824c17e3a07a393f82ecfad28df4d66cac572
 SHA512: 3a9cbcbddbff8c80787f2583f3b37db64e067286dc83908eafb065bb70180004a63876051cd7fd494a023e4bb177cdcc11d5dd60b171e69d31c7481a77eae770
 
+Package: sse2neon
+Architecture: all
+Installed-Size: 520
+Maintainer: @termux
+Version: 1.9.1
+Homepage: https://github.com/DLTcollab/sse2neon
+Description: A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics
+Filename: ../../../../releases/download/i686-s/sse2neon_1.9.1_all.deb
+Size: 61916
+MD5Sum: e127f240c42c75b98fc9a1f59dd004e6
+SHA1: 3829b809ab1d88fae2d32c89b0249751fb43dcfc
+SHA256: f8443a47f2ee5b4bc36a0041a1a749c05cea805252536b1980df2c0e04b49e1f
+SHA512: 8db0c5e11f8634344bd0f23f03215769d2c810f7412e93072cf95f2ebac70691767e3e4b08f5aa2cc9bd549c6920991dc6aca89549ed6cec7d61539e6a939aaa
+
