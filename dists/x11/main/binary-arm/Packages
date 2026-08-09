@@ -14430,3 +14430,18 @@ SHA1: 951183ee07d256decdd180e298add1ecf5bbd4ca
 SHA256: 595cd2988dfb63f01087095135344613d72e79f2746229e4f34869f2ce82671d
 SHA512: 7656de44f32ca0c0507af6433cdb8286a6cc2643bb0ffc4398b2bf2fc0b6795e8ebc81d28f9378f33de6bae8595c414b5e6aac06b118f2764e877ddec42fb521
 
+Package: plasma-nm
+Architecture: arm
+Installed-Size: 352
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/plasma-nm
+Depends: glib, kirigami-addons, kf6-kcmutils, kf6-kcolorscheme, kf6-kcompletion, kf6-kconfig, kf6-kcoreaddons, kf6-kdbusaddons, kf6-kdeclarative, kf6-ki18n, kf6-kio, kf6-kirigami, kf6-kjobwidgets, kf6-knotifications, kf6-kquickcharts, kf6-kservice, kf6-ksvg, kf6-kwallet, kf6-kwidgetsaddons, kf6-kwindowsystem, kf6-prison, kf6-solid, libc++, libplasma, plasma-workspace, qca, qcoro, qt6-qtbase, qt6-qtdeclarative, termux-api
+Description: Plasma applet written in QML for managing network connections
+Filename: ../../../../releases/download/arm-p/plasma-nm_6.7.2_arm.deb
+Size: 74784
+MD5Sum: 43264b21447b24ad093aec79ead7518a
+SHA1: 603722f738114870ebcff9c461e89f8fbcd97049
+SHA256: bd0bac9b1a9ca0bfbc45e451ca45d692950334e83f7161ac84712e6525b00457
+SHA512: ae31a0918069ae64144b58a1e4c308be76508f3a2f1efe99d8f15e993e2057987977bac53f5967ebf7de2f408dc1d366f0f7f6358713b11dd8c1acc73bd5e9a3
+
