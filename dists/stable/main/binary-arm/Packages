@@ -38425,3 +38425,17 @@ SHA1: 81bc12ef7491dc292649686e4650187418ccdc08
 SHA256: 5e6fc7f9c0ec9ff2e79546f30ec00645c5c175c20d68d963719e8296ea29831c
 SHA512: e8f6016c18bd0b5a05648dbaa552870f0fefe596dd6e5d6a29761dd3f59e14d003328498fd8d8b7f88a28dcd659810783fca4146759c12a63f1849bc8092cf53
 
+Package: gopls
+Architecture: arm
+Installed-Size: 29508
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.23.0
+Homepage: https://github.com/golang/tools
+Description: The official Go language server
+Filename: ../../../../releases/download/arm-g/gopls_0.23.0_arm.deb
+Size: 7673708
+MD5Sum: b3e6b4568d19dcf7627f6326f755294b
+SHA1: d67d21f93c64b2dd3730b480fde01f31f59ab995
+SHA256: 704a3cb2920f157337a6058dbebe0ea3bfb6e445308d6cd3a1e626ff7ac5ed4c
+SHA512: 70ca01c92eb3e2c81c39e401c2b6b8d1132f8b7463611215d8f506d571ab47d5a8d9f6f59b6fd34d88da6bd3babf8be3207fc9f7db72f10061749b70bcf9fe63
+
