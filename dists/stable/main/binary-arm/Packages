@@ -38810,3 +38810,17 @@ SHA1: 5c573b81fa12d00e137dac1053bca77f59433f7f
 SHA256: 63a03a61f31a0f46bff4b6ebcfa7012e587cb4ba4a840793185400e633183b48
 SHA512: 26681cdf83fe6a91e42570d503e36822fe0236128571129298d095ec84f9d3323b2f3d04841542f97d3a8b85df9fd44c48322ef1314857055c4e661484db5cb3
 
+Package: gotify
+Architecture: arm
+Installed-Size: 62584
+Maintainer: Izumi Sena Sora <info@unordinary.eu.org>
+Version: 2.9.1
+Homepage: https://github.com/gotify/server
+Description: A simple server for sending and receiving messages in real-time per WebSocket.
+Filename: ../../../../releases/download/arm-g/gotify_2.9.1_arm.deb
+Size: 15464072
+MD5Sum: fa68e40c886adfd9e0ff673f3d736008
+SHA1: 7c5f98734081c848169ca254986131563fa421c5
+SHA256: 721ec768b9dd7c9c84b83d790f4dad1503fa96550fdcf6221a1ae9909544ea2a
+SHA512: 185aac97422286b0d3c7bc5b5bc6f693dfe66ccecd5b8c06f143396c5286eca29e4bbe54b01765e54a97abcf1e388d9c70665597b76703866e7f186c003faaf9
+

@@ -39557,3 +39557,17 @@ SHA1: bab3cb17bee8b59bc008c9a1540ab3de470b3267
 SHA256: 6d7b10a087904d67a27306de0b535f72301d7a3f979275f9c52400ff43dcc0d2
 SHA512: 37daf20ed0e37acc2f1731f75e7ab4bf0f4890d9503d988ab2d0f612db12c64c5811cc0d16a0f470c1d0f7852ae249a0e689747834dca0d813a59be8b033c52c
 
+Package: gotify
+Architecture: i686
+Installed-Size: 69864
+Maintainer: Izumi Sena Sora <info@unordinary.eu.org>
+Version: 2.9.1
+Homepage: https://github.com/gotify/server
+Description: A simple server for sending and receiving messages in real-time per WebSocket.
+Filename: ../../../../releases/download/i686-g/gotify_2.9.1_i686.deb
+Size: 18692032
+MD5Sum: c9807d8fa9df5486b7f838fe2db0cfa9
+SHA1: c918ded7fc3552a8a4356b6cf94100aac91df276
+SHA256: c457f60839f0bc671e0f51ad0055d4ebaa2b6fb3867e1e4a750f16bc730bd333
+SHA512: 3d673fd69943daf9ddc110b3f01b6bcdae63b5b8e8372e8cc9d7c91534eb8f134a2db7b90062798f7af0983e0156e8cc388af6e24762cf05e4a364ea124f256a
+
