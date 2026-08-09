@@ -39201,3 +39201,17 @@ SHA1: 685e3e9cf4817114de7e36c45516b58f275f76d0
 SHA256: 2d9b71c3e7cc463a0bef3ef7ba3baa104c2b638055f6ee707a9f9a24d3d77d7e
 SHA512: 69c9af3f81fb2841945494bdb4e3a856d4d5ec14160b8fdbca9669f846c312f3318315e92fded744d75889e6e5ff336d2eb26ceb84ecf10f7b9002cfa604a994
 
+Package: hors
+Architecture: i686
+Installed-Size: 7964
+Maintainer: Krishna Kanhaiya @kcubeterm
+Version: 0.8.2-3
+Homepage: https://github.com/WindSoilder/hors
+Description: Instant coding answers via the command line (howdoi in rust)
+Filename: ../../../../releases/download/i686-h/hors_0.8.2-3_i686.deb
+Size: 2828240
+MD5Sum: 84611dab8cc40cb3c745fe757c1fde0a
+SHA1: d57c33f8f3d0d08933273f1e1d15786ac92e2fb0
+SHA256: 6bc157056dad99d5df4c85f5aea35635756f9bf1fc13c003c2fb1eea94b5a4c7
+SHA512: 834a2a4f1af651380feec84aba7b95b68f995481578927e9725c4a86be96b8d1c204a095dc6363c652e82c84649f4bb3646c583e55eeb74ef132ba82b0a0a076
+
