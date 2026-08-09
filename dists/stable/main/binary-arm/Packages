@@ -39183,3 +39183,17 @@ SHA1: d0baf61a7e08f4e7e6e9d2464615a7ec13707207
 SHA256: f1a9247a79f90000c0a5a51d52fe2c105990632488d98ccdcf6451633ff47f2c
 SHA512: 2e37e847ea8b8e94346b175210279b392d11ea26d0f16bd62378f06262540bfc932ad97d0a6f8ba66f54531a0aacead426b9cfabc257ca36d617ac2a100c38d5
 
+Package: cfm
+Architecture: arm
+Installed-Size: 2836
+Maintainer: @termux
+Version: 1.2.0-3
+Homepage: https://github.com/0l1v3rr/cli-file-manager
+Description: A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast.
+Filename: ../../../../releases/download/arm-c/cfm_1.2.0-3_arm.deb
+Size: 881836
+MD5Sum: 745cf27c499a75dbc93417a6f109c9f9
+SHA1: d071b084d068b6863140e136bfc95bd4a26fb02e
+SHA256: a862f3bc2403200f8599191c490a656ccbe4db87f55a0105d6b8dc99744ae552
+SHA512: c3e1c1c6abb5c1bd4e30921651c7bee878a315332c764665f8c94ac65f35ee8b6d81d4372d9e6971b63238a89b28d624eb180792a8315e034b149a8d84c0c2a7
+
