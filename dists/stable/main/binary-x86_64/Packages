@@ -40808,3 +40808,37 @@ SHA1: 9f20966b9f5d7cd7e87e81d29260dc2b0ae91207
 SHA256: 94acec64347063aa6b0e94439e59ba2ccf63698a506c26d57f5dbb3fcb7638aa
 SHA512: 08bc3da343dd9341f91e1d8eda006f884f3fec7f6c2e55fcc74fbc3b49cda61506b5101df32a4303fd173763a6db8059a64756abacc3eb46c860c257e0e176d3
 
+Package: valkey-static
+Architecture: x86_64
+Installed-Size: 564
+Maintainer: @termux
+Version: 9.1.0
+Homepage: https://valkey.io/
+Depends: valkey (= 9.1.0)
+Description: Static libraries for valkey
+Filename: ../../../../releases/download/x86_64-v/valkey-static_9.1.0_x86_64.deb
+Size: 85652
+MD5Sum: 563c77c426dc27a8c6e88a4922d0b25e
+SHA1: ad917a61e0b35d5fa1f1493fc049ea2266b915f5
+SHA256: de1178910106b6c96ac59a62acb0e08740a530f9ab8031307c812e4e66f2cc9c
+SHA512: 0cf94801f713f9be52bd0f4bc345d4f3babedce17324b59a37698963122e208ab95337e00ae1fb8b73cb3d3fd390a67aa120aac0e8fcf76124121a646a90c4c8
+
+Package: valkey
+Architecture: x86_64
+Installed-Size: 4524
+Maintainer: @termux
+Version: 9.1.0
+Homepage: https://valkey.io/
+Breaks: redis
+Depends: libandroid-execinfo, libandroid-glob
+Conflicts: redis
+Replaces: redis
+Provides: redis
+Description: In-memory data structure store used as a database, cache and message broker
+Filename: ../../../../releases/download/x86_64-v/valkey_9.1.0_x86_64.deb
+Size: 1259012
+MD5Sum: efcf68e4b020ba14ece441cbee226e48
+SHA1: 2650b2b7ab0fa594ce94eeeeea753044f9cdf051
+SHA256: 59d1e62bc23eef8ea8d626e1a85916ac610b44b0d1d25256fdd662cea5b87a18
+SHA512: 8166a2af6983ee99bddfdfc0ea67f705454df4c7ab4de0849c8f26a5b6fb9e1df1007987b42e74ccadf28d8728bed60d61336373cb805913c962311193c41b06
+
