@@ -14431,3 +14431,18 @@ SHA1: a0912948141e0ab18fe748bc402ea8890d65a80a
 SHA256: 41f7c96a9ef3920b21b31d9dec95de4c9b69acb79031f3ed3327b6e24c26d524
 SHA512: c06c26b5dde65c78ad0dadffd5ee0c95ed82d4dafee726d374af336159acfecb1fc754ce07c6d578d9c8e45b09eb52187e24435913c3d54eeb702eff8e9f7fee
 
+Package: tinyemu
+Architecture: aarch64
+Installed-Size: 336
+Maintainer: @termux
+Version: 2019.12.21-2
+Homepage: https://bellard.org/tinyemu
+Depends: libcurl, openssl, sdl
+Description: A system emulator for the RISC-V and x86 architectures.
+Filename: ../../../../releases/download/aarch64-t/tinyemu_2019.12.21-2_aarch64.deb
+Size: 115848
+MD5Sum: 50659d1977e8feaa7492f3e2ec4537cc
+SHA1: 31e6fa87ef75b9c34382032e0cedccbc9b6546aa
+SHA256: 8172b55518eb918ec020a12bf5bc45ea3a38d8d2993917010778aa720fe57f48
+SHA512: d9fa6e505cbf8e11777d0a6b785e560be5ff7ac785c0cf8b78356f6f9eea21d83ff15909570d4a63046e1ee656c2f43a364b2593175444e1beac2f03f9fd03b5
+
