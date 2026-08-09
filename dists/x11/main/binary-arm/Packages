@@ -14490,3 +14490,18 @@ SHA1: 128eeaa0b4056d0c8dfb4c18f311eec8bde39446
 SHA256: 3c5272064f8292d4dc3c25623cad80510560ab21bd70bac5c8f7d7fea5b0ff62
 SHA512: 57bd2dd84426062a47873a6e8f85769bf514a8c291a51fc195892fea68439c0bc7697dcaa757d441acf452b7c8a4296bbb38fccafd42ed2c048bfe73618421eb
 
+Package: krfb
+Architecture: arm
+Installed-Size: 2088
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/krfb/
+Depends: kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-kdnssd, kf6-ki18n, kf6-knotifications, kf6-kstatusnotifieritem, kf6-kwallet, kf6-kwidgetsaddons, kf6-kwindowsystem, kf6-kxmlgui, kpipewire, kwayland, libc++, libvncserver, libwayland, libx11, libxcb, libxtst, qt6-qtbase, xcb-util-image
+Description: Desktop Sharing
+Filename: ../../../../releases/download/arm-k/krfb_26.04.3_arm.deb
+Size: 1146356
+MD5Sum: d73284800dac9bc0b8b1f02398409efc
+SHA1: 5dac83aeb2a826512f113b47a493c259e5efb67b
+SHA256: 84e79519565396feba445f5ef7bfced54f9d8f4577d70e0d5d792c607dec2e4d
+SHA512: 3a3e4d9feac13b728f8641fa06fe640685c56ad0aa979caafcc65984408856a6156482ff19a6806523cbb1cdc2bb1be80d9b32e4f77f7f03f11231503f061d6b
+
