@@ -40780,3 +40780,18 @@ SHA1: 36354aa71f3eb496814979915aee48eb3f496694
 SHA256: a22e32a2fc84d7e2258108deaa4453d63960aad8cefdc124562f2b91fcc8dd81
 SHA512: 9029819e66d78c03a59f899ee13af0ea52ccbbd081609b3364d3497df3a1f0277aca4aab18afee7b1ec48c8a04031adb65a9820fbf98a9c3320182ac6affdf78
 
+Package: cgdb
+Architecture: aarch64
+Installed-Size: 552
+Maintainer: @termux
+Version: 0.8.0-1
+Homepage: https://cgdb.github.io/
+Depends: libc++, ncurses, readline, gdb
+Description: A lightweight curses (terminal-based) interface to the GNU Debugger (GDB)
+Filename: ../../../../releases/download/aarch64-c/cgdb_0.8.0-1_aarch64.deb
+Size: 141444
+MD5Sum: 1bcd3a114a78ffe6358c3a8bd057f193
+SHA1: 3988218f961e6b510713a32eb0b3d5a0773666dc
+SHA256: 3da58606fbf794d11d4700b6fb291a8390371a9ba5301df3258fff040828fde4
+SHA512: 895da75ddd371c48a965821445d2a0b68f852a935a2e36a6d6664fc6e3bd3cf7fe29fbc8d3450724abc9d773beea81e7b14d80efc8be7cf1116d9dafec2baab5
+
