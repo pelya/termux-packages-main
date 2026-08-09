@@ -39748,3 +39748,18 @@ SHA1: d70228c610db815c74626be58af37eca8c0136f0
 SHA256: cc5ab5bb4a728315d7c53f539e26c4f3c9922f6531a9a57fe34eb1e6c1a44a8a
 SHA512: 9d2b7bad36e5382410da4ddde6446f58b52d64023d195759fb3a0322935e014e81c9fbb2284135689cbc1de460bbeba2157ab625513855c08236197e786ed61b
 
+Package: cowsay
+Architecture: all
+Installed-Size: 276
+Maintainer: @termux
+Version: 3.8.4
+Homepage: https://cowsay.diamonds/
+Depends: perl
+Description: Program which generates ASCII pictures of a cow with a message
+Filename: ../../../../releases/download/i686-c/cowsay_3.8.4_all.deb
+Size: 15088
+MD5Sum: 408775a209bdd879ffd7c46492c61549
+SHA1: 20e4c2d6ac13a03b8d896a31832e96888eca989a
+SHA256: 6b5c2c62195c1a862e2e7648a2869b5f299923bfbff12230b19fb5bfd67fe8da
+SHA512: fe33b69a1930c814d90927c3bad6eb074ae0960562471d3688a50616379d462daaddd444057b080a097a15b9fd0f9bafd84e9e12739389379f228434a1db20b9
+

@@ -10693,35 +10693,6 @@ SHA1: 5517d69010635706afc2fb26cd1cbebb400c88c7
 SHA256: 9d933d1c586d1b60ae66c555c0f34e7927496208a52f492eaadc2d81f337d527
 SHA512: b48b17cde18cae4560d5930310d6ee835c1fb5170c7a16c0f7af53c59779b0e7b4ca2b9b9d191870264b4fe99d24679ee3fd4502483e7321813a3670192ed725
 
-Package: libandroid-utimes-static
-Architecture: aarch64
-Installed-Size: 32
-Maintainer: @termux
-Version: 0.4
-Homepage: https://github.com/termux/libandroid-utimes
-Depends: libandroid-utimes (= 0.4)
-Description: Static libraries for libandroid-utimes
-Filename: ../../../../releases/download/aarch64-liba/libandroid-utimes-static_0.4_aarch64.deb
-Size: 1696
-MD5Sum: 8284ce76f0fdacff0c127f9ae668f1c9
-SHA1: e47b17533de54581cf8bb0b30d6dd3e83038ab2c
-SHA256: 2eb135d31322c135d20a309b429a1607c6ddfe2c9874901efd379c66fb7b5f60
-SHA512: 3c8131f8d720bdfe721980447e030c6d2a95002c345ca67964fe3f437d79c2d65e9ee0f71d88cd5bef785984b4c5616ee696b78685e162244f1a9a920b3130ad
-
-Package: libandroid-utimes
-Architecture: aarch64
-Installed-Size: 52
-Maintainer: @termux
-Version: 0.4
-Homepage: https://github.com/termux/libandroid-utimes
-Description: futimes, futimesat and lutimes from bionic
-Filename: ../../../../releases/download/aarch64-liba/libandroid-utimes_0.4_aarch64.deb
-Size: 3128
-MD5Sum: c09b817e364c691871032c0e03c71578
-SHA1: c7794d2557d7d357e3f449c28f13adf7438b4363
-SHA256: bb4d0a16bca4d5c92b753d2c683ed3e479e40b8d3face659ae8ad1981c6a49cc
-SHA512: 4f8b4e42d1d6a1ae1bf15dc23e5e813555efeb80978e66a71d525fb2b4c989a30677d7fbf19481243d4cbc8800a54ae0c3eecf190a0af9b8c07169cedb8df1df
-
 Package: libao-static
 Architecture: aarch64
 Installed-Size: 112
@@ -23197,21 +23168,6 @@ MD5Sum: 9cdb79d1a0f035531b8fb34f0576b020
 SHA1: fa62d616452341fb8d3514f59e4b4b5c42c79646
 SHA256: c268fac5ab3fc3444f6e64d13ef43929399a421d0a24edfe4606401857be97f1
 SHA512: 95d1e099aadac0fe9272cf436b3ae54a95d5ad3160a2d95ab763a01a7fcc97a54dac4f2684a747cba58f6c8c084825e55b41cb4f17d6730ea977957d92472f34
-
-Package: perl
-Architecture: aarch64
-Installed-Size: 68320
-Maintainer: @termux
-Version: 5.42.0
-Homepage: https://www.perl.org/
-Depends: libandroid-utimes
-Description: Capable, feature-rich programming language
-Filename: ../../../../releases/download/aarch64-p/perl_5.42.0_aarch64.deb
-Size: 15142396
-MD5Sum: ed1a8031b8d316a6fb37b9729055ba49
-SHA1: 18eb907b79c4cb6082e1b4b44fc791535d0594c0
-SHA256: 891f35baeb881133fab022aee7f20f2988b441b67a824a186379356c2afe18ff
-SHA512: 1505175f21582921a337b8ab5f96ba31bb67a95b4bc666c70ca85ed331f146fda4aea4412bc7a97dd5a7f0ea6ba786ac4006deecffe2308b513de94f787033ea
 
 Package: pet
 Architecture: aarch64
@@ -40764,4 +40720,63 @@ MD5Sum: 8749b050e8ce676ad86f57d07810acbc
 SHA1: 99ca83a35f7b9d0aa5d5b2b26edddafcaba61ab4
 SHA256: b18fba652044f7bdbd887b7f6abe6120363b033b37759489906f7f0e20899e68
 SHA512: b0cc790772814ab0dd0c6a4253f623ce18810801dca89637c9bd49536ee304881f5ffac9a345d20010ee1296096aff43b67e9bae8ff9fbb3045a1edf4fa38a51
+
+Package: cowsay
+Architecture: all
+Installed-Size: 276
+Maintainer: @termux
+Version: 3.8.4
+Homepage: https://cowsay.diamonds/
+Depends: perl
+Description: Program which generates ASCII pictures of a cow with a message
+Filename: ../../../../releases/download/aarch64-c/cowsay_3.8.4_all.deb
+Size: 15088
+MD5Sum: 408775a209bdd879ffd7c46492c61549
+SHA1: 20e4c2d6ac13a03b8d896a31832e96888eca989a
+SHA256: 6b5c2c62195c1a862e2e7648a2869b5f299923bfbff12230b19fb5bfd67fe8da
+SHA512: fe33b69a1930c814d90927c3bad6eb074ae0960562471d3688a50616379d462daaddd444057b080a097a15b9fd0f9bafd84e9e12739389379f228434a1db20b9
+
+Package: libandroid-utimes-static
+Architecture: aarch64
+Installed-Size: 32
+Maintainer: @termux
+Version: 0.4
+Homepage: https://github.com/termux/libandroid-utimes
+Depends: libandroid-utimes (= 0.4)
+Description: Static libraries for libandroid-utimes
+Filename: ../../../../releases/download/aarch64-liba/libandroid-utimes-static_0.4_aarch64.deb
+Size: 1704
+MD5Sum: c031fd3bc3b1d9c5d408e8a3b2060120
+SHA1: 0a5503e5e1983825fe1797f14a8e43d998b2bf07
+SHA256: f3daefa24266361fbb4ecfe2d55b331ee45348d59180e0511571aec176d8d03d
+SHA512: 63fbf5e8e4bacf36856673ba2873b29e449161be23cd7f97b50e779c9fae9f56898a5676823b9cf4594bde0c13983a59d8685381689490078f47de2fdfa9bc9c
+
+Package: libandroid-utimes
+Architecture: aarch64
+Installed-Size: 52
+Maintainer: @termux
+Version: 0.4
+Homepage: https://github.com/termux/libandroid-utimes
+Description: futimes, futimesat and lutimes from bionic
+Filename: ../../../../releases/download/aarch64-liba/libandroid-utimes_0.4_aarch64.deb
+Size: 3132
+MD5Sum: fd4312c5d605e744b6e8a87f6c9e1ef0
+SHA1: 3551c0dd66429db01bcf46924e974cb5b053f583
+SHA256: 7d3ecf5c78f15ea35b66c117278316c66cb9b34b5f117ebb6936fddcb17a8542
+SHA512: 95b77763208752d021664ace8594eb5b1029de461faa960bda34f987afcf15dbeed36c73977edf4f1df3baeb6321585c6dcdc4d7caf613b9f67c57391eb8445d
+
+Package: perl
+Architecture: aarch64
+Installed-Size: 68316
+Maintainer: @termux
+Version: 5.42.0
+Homepage: https://www.perl.org/
+Depends: libandroid-utimes
+Description: Capable, feature-rich programming language
+Filename: ../../../../releases/download/aarch64-p/perl_5.42.0_aarch64.deb
+Size: 15151288
+MD5Sum: f54f99163d8bb7022a17ad3c9011df26
+SHA1: 36354aa71f3eb496814979915aee48eb3f496694
+SHA256: a22e32a2fc84d7e2258108deaa4453d63960aad8cefdc124562f2b91fcc8dd81
+SHA512: 9029819e66d78c03a59f899ee13af0ea52ccbbd081609b3364d3497df3a1f0277aca4aab18afee7b1ec48c8a04031adb65a9820fbf98a9c3320182ac6affdf78
 
