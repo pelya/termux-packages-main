@@ -38839,3 +38839,19 @@ SHA1: 7635058b36e786fb05ff02aa2e2d968179a86ffe
 SHA256: 544d35881a0933b606f482447f0a660091ffdc92508ff1e8bfd60156c9131424
 SHA512: 51fddeba13f3a626a2f82188c3fe3847a2438bd07e344e53d34f3754b6f2448a7ccb87e73aa7ae32bf7a7ae94dd5a7441ab1f0c367dcc91e4d6afb8b5839e308
 
+Package: kakoune-lsp
+Architecture: arm
+Installed-Size: 4860
+Maintainer: @termux
+Version: 21.0.1
+Homepage: https://github.com/kakoune-lsp/kakoune-lsp
+Conflicts: kak-lsp
+Replaces: kak-lsp
+Description: Language Server Protocol Client for the Kakoune editor
+Filename: ../../../../releases/download/arm-k/kakoune-lsp_21.0.1_arm.deb
+Size: 2155332
+MD5Sum: 3a39afe98466c6d6434f43fbb99b6199
+SHA1: b274fa44b66999972cef5b150baaed9bb8b13062
+SHA256: 211f839380d85d46865ac4be52227a996c35aecc94d0c5104fd41a57cea3f34c
+SHA512: 3c51a8a1edb8a0d8debcb761bfe25c5169d98aae0e91429ca629352a98e8730c758364029d0afde3e8184252c71c0b16414c83c8c5fd0b09593f33f1977c95ae
+
