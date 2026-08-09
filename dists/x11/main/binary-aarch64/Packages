@@ -14763,3 +14763,18 @@ SHA1: b1626ba2954c9854125a85d17a83e546a85e7b7f
 SHA256: 6ec60fe35824cb8f29ed2a2bf48d80a73706532c362ab92787835ccab259bf78
 SHA512: 584c1737dd3583e0b62b75c6afd0077d81cd873aeae242f9ce7065f57063eb039c2364561ee05d6d48faad8770b39dc12deff534afed9f320234922f9884c0e7
 
+Package: dolphin
+Architecture: aarch64
+Installed-Size: 9212
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/system/dolphin
+Depends: baloo-widgets, filelight, kde-cli-tools, kio-extras, konsole, kf6-baloo, kf6-kbookmarks, kf6-kcmutils, kf6-kcodecs, kf6-kcolorscheme, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-kfilemetadata, kf6-kguiaddons, kf6-ki18n, kf6-kiconthemes, kf6-kio, kf6-kjobwidgets, kf6-knewstuff, kf6-knotifications, kf6-kparts, kf6-purpose, kf6-kservice, kf6-solid, kf6-ktextwidgets, kf6-kuserfeedback, kf6-kwidgetsaddons, kf6-kwindowsystem, kf6-kxmlgui, libc++, qt6-qtbase, qt6-qtmultimedia
+Description: KDE File Manager
+Filename: ../../../../releases/download/aarch64-d/dolphin_26.04.3_aarch64.deb
+Size: 3752560
+MD5Sum: f4cd5465ab5061bec600bed8ff6b3931
+SHA1: 5bd0eb459aa83a9182e8ed03ebab66270ee14bb3
+SHA256: c6db12896e994be2329f7fca0dae6d76e6e6eaa65ec2fcc69ed3c9d8fbee6baf
+SHA512: 1ee2f076f068016f94b9824b9dc61f045c65335746ed82cd391880798de67229136ce5a7820ebc35ad1de56a6d525916e221dd0d79636018f2c9452a885dd7fd
+
