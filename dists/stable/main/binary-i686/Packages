@@ -39901,3 +39901,18 @@ SHA1: 28f32f54dfe88229266cc250a504fe9a01bdd85e
 SHA256: 069c58a23b5c3aab3ce6e3e02aae0422850672a05c8d7caffb68bda306652179
 SHA512: 19214b6fdecfb60e0c9f1b07c4165a5a53ebcaf0eb5143d4a79ea5ef58d573aec2fcdaf3986c9ee36e99429f1138af5f3947f6bef6dc45f812bcd1886af88110
 
+Package: ffsend
+Architecture: i686
+Installed-Size: 7700
+Maintainer: @termux
+Version: 0.2.77-2
+Homepage: https://gitlab.com/timvisee/ffsend
+Depends: openssl
+Description: A fully featured Firefox Send client
+Filename: ../../../../releases/download/i686-f/ffsend_0.2.77-2_i686.deb
+Size: 2406256
+MD5Sum: 160a88e153e8e4ed68c15a93d5aba99b
+SHA1: b55e2e7c475dde4ffd65ff900c0a42f3a5886a40
+SHA256: 8d899437d9322ceb08ceedf8efc819fc6dc9a208bcd3c54eb7cba2cf5d5e33c5
+SHA512: 8df5e8bb82a482ec487e11c36b401f6265f9d1e3e7daa28947c06b77351ab0fe6a877ba91639ed592a1cf40eec436ee83fa05541b49c94f8194eb3ba0e02b6fc
+
