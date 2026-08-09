@@ -39332,3 +39332,18 @@ SHA1: f5959a592c288b245101104cca1fba18104c5431
 SHA256: 04fea71326bf0467ccb86f8ea5f0154972b25ccacbdc83d757f1664037be71ca
 SHA512: 1aa313babc0456b27bde8423fe9e4c9c98e03cff5c5a986f4961934af54cf633858253d280d4043e1540d1e9047157b15d38deb22de1006a305ed9cacc8de586
 
+Package: solidity
+Architecture: i686
+Installed-Size: 17696
+Maintainer: @termux
+Version: 0.8.36
+Homepage: https://www.soliditylang.org/
+Depends: boost, libc++
+Description: An Ethereum smart contract-oriented language
+Filename: ../../../../releases/download/i686-s/solidity_0.8.36_i686.deb
+Size: 3912244
+MD5Sum: 63dc5905b9173d367f944eb74140df92
+SHA1: a00afa8a2ea8c9e729401b53405a38024c370ec2
+SHA256: 78e517831a1a1e9db4ca7eb0747380096eb31bd8b56c34baa2a97ff9abae40b9
+SHA512: bda9dbee09fef011f13b5da44051f84413ee690dcef47555f1557cf4d6ef9987b9b47252c03f2001f3022236c2ca35ea644329bc2775ffd33afc841ff91d3752
+
