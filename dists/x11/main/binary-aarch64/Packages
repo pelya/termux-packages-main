@@ -14991,3 +14991,18 @@ SHA1: a62966f700deab5cb088359fa1a8e1eb589cd50c
 SHA256: a0bded49ca33fc7bb2aaabd07fc27dccdf193900cf23e588baed9e6d2aa0788b
 SHA512: fd2584afbb989f8fba0b3a7f80e2f17e87a2671f8635d9d9e25cec50edb9bc43fe1a8e6cea3b566dc8f0de9a9a70f1cccc14e63513902a244745a9e9f724b5db
 
+Package: qt5-qtsensors
+Architecture: aarch64
+Installed-Size: 1432
+Maintainer: @termux
+Version: 5.15.18
+Homepage: https://www.qt.io/
+Depends: libc++, qt5-qtbase, qt5-qtdeclarative
+Description: Qt 5 Sensors Library
+Filename: ../../../../releases/download/aarch64-q/qt5-qtsensors_5.15.18_aarch64.deb
+Size: 136820
+MD5Sum: 896383d70cd7073de01ab37d2c2dc5d4
+SHA1: c00e03e3b3da3698f00302d9a6fa04709dff23b7
+SHA256: 7220a31475a7e5d2b0af1589218f9d8331dcf58138c9fb014c9a0ca1bc3247c3
+SHA512: b4d732b8cff02142a1735b5cf595ec901201d5120b5b4723ec5ce89db9f9b18b5e58c471bd26b26c46d2c331616c126c53a05ff69f82f53454b27ae16a144796
+
