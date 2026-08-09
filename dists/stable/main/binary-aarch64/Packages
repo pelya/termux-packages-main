@@ -40619,3 +40619,17 @@ SHA1: 66a59d43d936be03d6710cfe083fbcad202451da
 SHA256: 6a8af25c23285a87205ae2024776d8734865234ad44ced0c6c8a5f8786ca6b21
 SHA512: 0ba3fbfee023e84920f53c6bd3c5ec5753523547dd478f0a0781b54cac2db5dc449aa42707b2b551eeef5e534ff8a375c016ff3aee3053979aaac3edb312ce26
 
+Package: tree-sitter-python
+Architecture: aarch64
+Installed-Size: 544
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.25.0-1
+Homepage: https://github.com/tree-sitter/tree-sitter-python
+Description: Python grammar for tree-sitter
+Filename: ../../../../releases/download/aarch64-t/tree-sitter-python_0.25.0-1_aarch64.deb
+Size: 49412
+MD5Sum: cb30f02a4a455c5cff1cbc5dabcb44df
+SHA1: 29802eb7dd3698515a023c0b5051d3dc0d1d554e
+SHA256: d3700d4fa1303750baca7c7fc92e1ddcb2f0c4c9274a94860a29edabe8809c88
+SHA512: 06cc558bbe476980fa926caaa34d66f342bec415d61d886b14c89ab978f3974f027464e0bbd27a50d321f6fe73bed6b2410a897df58e5d91344c0dc3489c5164
+
