@@ -40842,3 +40842,18 @@ SHA1: 2650b2b7ab0fa594ce94eeeeea753044f9cdf051
 SHA256: 59d1e62bc23eef8ea8d626e1a85916ac610b44b0d1d25256fdd662cea5b87a18
 SHA512: 8166a2af6983ee99bddfdfc0ea67f705454df4c7ab4de0849c8f26a5b6fb9e1df1007987b42e74ccadf28d8728bed60d61336373cb805913c962311193c41b06
 
+Package: php-apcu
+Architecture: x86_64
+Installed-Size: 216
+Maintainer: ian4hu <hu2008yinxiang@163.com>
+Version: 5.1.28
+Homepage: http://php.net/apcu
+Depends: php
+Description: APCu - APC User Cache
+Filename: ../../../../releases/download/x86_64-p/php-apcu_5.1.28_x86_64.deb
+Size: 37124
+MD5Sum: 3644c5f204df01519d361a14375eabdd
+SHA1: bd0728a58cf51ddffee5e8e2206ae3a32f54945f
+SHA256: c1d6679277e121c7fb029a58c648e7629e9188d35007d243226c4ceabb373d2f
+SHA512: 0aed645e2fc6c6f434c6cb156977a5317bde40a9e7c7d6faa3fbfc9a3b2d1613dfb82fa74eef0b30ea7cadbbf24d9d9377afbdee2d00b1842380a6a395d3cb43
+
