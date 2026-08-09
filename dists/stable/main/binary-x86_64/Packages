@@ -40363,3 +40363,17 @@ SHA1: cae9b10b2e6ee78b90dbb07994a671b6bc3b4c43
 SHA256: aa813223a6b626c8bfabeddd1ee6374d5742116886fecc7fb442b825d676bb5e
 SHA512: 90efb8bc6be602dcc98c785a8680ecd98cc0b76433fd57c09a93416751f74ef7216a515f2b06d8e09e23b514c11848700ab95c709692a97f45e5edb9c334ff85
 
+Package: vale
+Architecture: x86_64
+Installed-Size: 42204
+Maintainer: @termux
+Version: 3.15.1
+Homepage: https://vale.sh
+Description: A syntax-aware linter for prose built with speed and extensibility in mind
+Filename: ../../../../releases/download/x86_64-v/vale_3.15.1_x86_64.deb
+Size: 7809172
+MD5Sum: cd6618682464a5b2769784d589bf394a
+SHA1: 66345d9c2fcee7080166e24ca0658cb5836f3e36
+SHA256: 02c5235766afae7f51a587ab8a90243c040ab22e7e91c51f42f5a122c5379908
+SHA512: 11ba7976f5ec4b7e559296b8b907da08b670a7802c2953f117f00b5ef76616e90f09059fbc6c7f43a6036d43571ed99a988be9e77e0cea1e09a67cca7e0b352c
+
