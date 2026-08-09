@@ -39734,3 +39734,33 @@ SHA1: c9195219edc0072876663291390f4525c2d3c36e
 SHA256: bfc1a9395bfaf0031fefa0141f81a4eb9e72da1cf475c87d73913cff33b6810c
 SHA512: 9518f741be000fbe26dd2f1ad1d5b356067dc32913d6c7923a0a26eaa25c6511a0143f8f5f0924f389b4fa7defd9c1b8642416de0e154893e016b5150c72b69a
 
+Package: libpngwriter-static
+Architecture: x86_64
+Installed-Size: 232
+Maintainer: @termux
+Version: 0.7.0-1
+Homepage: https://pngwriter.sourceforge.net
+Depends: libpngwriter (= 0.7.0-1)
+Description: Static libraries for libpngwriter
+Filename: ../../../../releases/download/x86_64-libp/libpngwriter-static_0.7.0-1_x86_64.deb
+Size: 38896
+MD5Sum: 8e84261fb1d005ef95431b9e2a919d72
+SHA1: 7b468325d4dc537c14c5864da7e6b5a2da8d67f2
+SHA256: d3d1e4b172e4a6095a47700743bdba8f0fd1f6a07e91426f066594c25f6895e4
+SHA512: c627782c1b97668e2983e094d384977c7a15c9a956695391db4299b806c42e62aa6316897d7d73109214b1143b5b9357614dc6fef1d744a76384dca77723a5e3
+
+Package: libpngwriter
+Architecture: x86_64
+Installed-Size: 112
+Maintainer: @termux
+Version: 0.7.0-1
+Homepage: https://pngwriter.sourceforge.net
+Depends: zlib,freetype,libpng
+Description: C++ library for creating PNG images
+Filename: ../../../../releases/download/x86_64-libp/libpngwriter_0.7.0-1_x86_64.deb
+Size: 13056
+MD5Sum: a7a6295f1989a9984b8311c5d3abea2f
+SHA1: 26c1ae143237ecc8fafb95002ee1cd017ab290fb
+SHA256: 6bbfa0beb7058d87b6d4a037de9ad79fd45a4d1ff2915409de3c718b50f9d6aa
+SHA512: 2088d8e9b024ed95b5dacd11bf9661841b408fbc741f90eef012c54ceff5ae07124376a51c81375dfaefc1d49cc108787c4e8f1555b43514bc50c3ff7e9750cd
+

@@ -39765,3 +39765,33 @@ SHA1: 0e3c1e106797084534046083d6fdacd16563f58d
 SHA256: d3dcdbf65c2fd3850825c59430922cccf08c60927e4e78971f97173f9bd1452f
 SHA512: eebc89524a1118f50b68442a629d2087276fa6fdce0c119cb715afa38f32589460db1ca1f58d7453f34bc618a7cb0d5f12abc0844dec9795ee1d6d59a65a8ce6
 
+Package: libpngwriter-static
+Architecture: aarch64
+Installed-Size: 216
+Maintainer: @termux
+Version: 0.7.0-1
+Homepage: https://pngwriter.sourceforge.net
+Depends: libpngwriter (= 0.7.0-1)
+Description: Static libraries for libpngwriter
+Filename: ../../../../releases/download/aarch64-libp/libpngwriter-static_0.7.0-1_aarch64.deb
+Size: 33940
+MD5Sum: c832a3850ec150ba1380f89e80b35eab
+SHA1: 161d2c8746b7c19bffc4ab8882b3a97c292e28b6
+SHA256: 8a09172aef8cf037d26ec598f83a48f98cc3fd1b6accbe1b156edeb3bc7edab0
+SHA512: 72f4e9e4fa014cbd4e7dbb7eee0e3122be00ec10d44ea863f040db346ffe9974a9505e987ced9bcfdb5a3a9066c105d6916991cad1c3d191024f1499cd7cc83e
+
+Package: libpngwriter
+Architecture: aarch64
+Installed-Size: 112
+Maintainer: @termux
+Version: 0.7.0-1
+Homepage: https://pngwriter.sourceforge.net
+Depends: zlib,freetype,libpng
+Description: C++ library for creating PNG images
+Filename: ../../../../releases/download/aarch64-libp/libpngwriter_0.7.0-1_aarch64.deb
+Size: 13052
+MD5Sum: 9a01c3b419a8fc3ca3784c7f7847a231
+SHA1: e12b8c7f659ec139c13c19feb77f88eb0fdcb7b4
+SHA256: 963454491e26a87509e2f87433fcdbb6fec25d6f826d9ce8d2ab9d2b73e84ef0
+SHA512: c692de416b3c6217c7e8031d48f98df85ab4e9176ee2980f4deec8cb93012476ace82d938b7e41b5fa05c65bcef2d2fa26025ebd3adefe6f97f4af8b559cbc8e
+
