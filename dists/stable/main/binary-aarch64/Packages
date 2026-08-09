@@ -40074,3 +40074,17 @@ SHA1: 7201fd829aa25e42a7c49e050fc7f25efc4f8814
 SHA256: 56601bd28d5c3163b37d6b6be1360ac880af53aa0d37c743b0dfe71b6e437d14
 SHA512: a43e5232ab3f181274b057af82095543ae2b6d7b6bdd02c8253d67f02ba1fc0c6e694ef425f526e7007825276437d5d1d355afdf3fd07221c804e521f0286722
 
+Package: mdf2iso
+Architecture: aarch64
+Installed-Size: 52
+Maintainer: @termux
+Version: 0.3.1
+Homepage: https://salsa.debian.org/debian/mdf2iso
+Description: Small utility that converts MDF images to ISO format
+Filename: ../../../../releases/download/aarch64-m/mdf2iso_0.3.1_aarch64.deb
+Size: 4664
+MD5Sum: ba14445f5f49bcc56b4b6c03c3752d81
+SHA1: 16ad27df662c7d8be23ca54dc7661547a89249dc
+SHA256: 7aea16f17ab6435b88c2905d9c365f775d440edec49584331ee21782870e5c35
+SHA512: 9aa5c4b420a512b2edd783da6dfdc9d228255d2b545a8a7527b0bdb99f16ed215b9913569222c22de9c638e026646ba75e604d9cc07a9dee286fb0ed1b50528a
+
