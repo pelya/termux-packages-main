@@ -40825,3 +40825,17 @@ SHA1: ad6c1fd399d653a6ee12dcc3a7eb8b673366480a
 SHA256: 574cb2af851d434b53e8e2d9f2f0aaaa71f9f1010a1c354dbc0283cb8438e179
 SHA512: 4e42d5c29cb47e5555da5683c6920932e392152920080a347644975a60ff523832f4ffb3212fd867678ec5e7020dad1bc0b99169601870d1f77420c7fe0e8f03
 
+Package: b3sum
+Architecture: aarch64
+Installed-Size: 992
+Maintainer: @termux
+Version: 1.8.5
+Homepage: https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum
+Description: A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum
+Filename: ../../../../releases/download/aarch64-b/b3sum_1.8.5_aarch64.deb
+Size: 332868
+MD5Sum: 00f5fb507ef90d4e5965023c2d419a57
+SHA1: 1573142c63215e0f71700bedb62a392d1af13b13
+SHA256: 73559655f5d21640262f890f64414e3231fc8633c315983f0ad2056b04a83c8e
+SHA512: 174edd32866aa282322002e6eeefe2758fd6dae385cd2f1209efc8c872ab343d86765ac54079b5647a19b9321901c9d4239673df51339223afb3939a788a1ef0
+
