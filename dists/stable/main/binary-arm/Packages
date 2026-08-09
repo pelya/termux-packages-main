@@ -38468,3 +38468,17 @@ SHA1: 99a40b3f35cb34bac9b07b4eb89b5be7aa6e58b6
 SHA256: e8747d5a13056aebc87c7b2748a21331488b809d26408f7bda845acc4c8a9631
 SHA512: 7777d22ab4b6aeb4fa5323cbcb517de08398b48d9e05243e43892c6963461f14f3cc7dfac6980aafc299945448270747757a79abaeec46e7182147d8fc46a935
 
+Package: git-lfs
+Architecture: arm
+Installed-Size: 13256
+Maintainer: @termux
+Version: 3.7.1
+Homepage: https://git-lfs.github.com/
+Description: Git extension for versioning large files
+Filename: ../../../../releases/download/arm-g/git-lfs_3.7.1_arm.deb
+Size: 3683392
+MD5Sum: 12222c3ebce1eb7e6bb859b3680465ae
+SHA1: 5b7a5e16d1e90702f0482909b2041144367accd1
+SHA256: 59743ccb358ed700486f0555d70f65523fe663f4cdfa0452e09e0b88af36d7cc
+SHA512: a732677180c45d50c3ef39820a1340880eedfdf07e848642d260ca21d4ac96245db365a2170fd26d6c4aa3ac3ac57fa3005af42d1a17b67a7a9be02929b87dd1
+
