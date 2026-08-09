@@ -38482,3 +38482,17 @@ SHA1: 5b7a5e16d1e90702f0482909b2041144367accd1
 SHA256: 59743ccb358ed700486f0555d70f65523fe663f4cdfa0452e09e0b88af36d7cc
 SHA512: a732677180c45d50c3ef39820a1340880eedfdf07e848642d260ca21d4ac96245db365a2170fd26d6c4aa3ac3ac57fa3005af42d1a17b67a7a9be02929b87dd1
 
+Package: mdbook-toc
+Architecture: arm
+Installed-Size: 876
+Maintainer: @termux
+Version: 0.15.4
+Homepage: https://github.com/badboy/mdbook-toc
+Description: A preprocessor for mdbook to add inline Table of Contents support
+Filename: ../../../../releases/download/arm-m/mdbook-toc_0.15.4_arm.deb
+Size: 415332
+MD5Sum: e2c978df74f80010404eb3e9d15401f0
+SHA1: ce07e170734b6ce1192f95e1d5933c6b51d89a4d
+SHA256: 73885a201bf247fd512744f1f8208e511250f5a0f506d7e78356873ae4b1c1a3
+SHA512: 1321691d6a35f37ed44ab9000ca389f1d7911dd55f5e132d64c776fa3bdab851323218909bc1fc175080080ce29b9d89d30b4e628f32e787d1ca0f84c706092b
+

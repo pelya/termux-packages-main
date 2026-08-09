@@ -40215,3 +40215,17 @@ SHA1: dd8f18db3e57c0b8368f049d0f406e610ee9da7c
 SHA256: 305d6eb286206522497ef009c13a36ae4ecc23f2770d251230cf17da047bfaca
 SHA512: fa6a95503f420aacb5c8ef2cd24468af28e1f46a344e50ea2d25cf380e4261f785a5e3603176ca3b2ef97e4ae35fc81ed0130685d842df932f0cae6eb2e0906e
 
+Package: mdbook-toc
+Architecture: x86_64
+Installed-Size: 1532
+Maintainer: @termux
+Version: 0.15.4
+Homepage: https://github.com/badboy/mdbook-toc
+Description: A preprocessor for mdbook to add inline Table of Contents support
+Filename: ../../../../releases/download/x86_64-m/mdbook-toc_0.15.4_x86_64.deb
+Size: 498132
+MD5Sum: 02052b34bbf886cb427979475ada9fb2
+SHA1: 1414b11a29faed65d757d275c3e39ac0ca9d5265
+SHA256: 69c96188554028edbb78aa20ccc11f94c0f56a95ba49cc51bdb3a338ba386c08
+SHA512: cc9ab3aeca3facfc7af8f938286592db9db5d1989ff276f70159b135751bd4facc901649a47614bf41b8e68a3bb407d7d0f082b74719ccc3e606a51005b4d6d3
+
