@@ -40172,3 +40172,18 @@ SHA1: efe7e74b5bb88329f62b954e180291e9debd408d
 SHA256: 00713c36cbb694538c23c6e81f2a98ef4e2abce1e6639fd90c449f540f096565
 SHA512: fd0ad0ddf5ffdab4eeeb4983519ead1f4e5231085cf3f2adfa2fdc910638acae8d7ebfd28dd37a75a10f46fe3e5a0825672ab852d0c956573fd7c1a55b7fcd51
 
+Package: sslscan
+Architecture: x86_64
+Installed-Size: 196
+Maintainer: @termux
+Version: 2.2.2
+Homepage: https://github.com/rbsec/sslscan
+Depends: openssl (>= 3.5.0)
+Description: Utility to discover supported cipher suites on SSL/TLS enabled servers
+Filename: ../../../../releases/download/x86_64-s/sslscan_2.2.2_x86_64.deb
+Size: 43288
+MD5Sum: 8a9b0f3d6e90d2b4fdb4578c421b8602
+SHA1: 3d9907b18da3bc112dd87104f61bf57c7021a20f
+SHA256: ad03a29a51d14c694e6584ffba6f3e557d6a696b3c89a91f65019096e323b043
+SHA512: ee12a799cbe22a67a0f10b445a5e934bddf2303eb6c5fdb630d0861a7e7499c340c01f58c5a4bd4d1ff4b2f3dc94cc5d301f2cecb1716771bfc1a35bc94011ea
+

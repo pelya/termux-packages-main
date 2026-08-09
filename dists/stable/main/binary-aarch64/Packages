@@ -40203,3 +40203,18 @@ SHA1: 86c7f205ad762d655f7fd622f3f6c12b32f506ce
 SHA256: de77f96bed04ccfe40d3659c54b0d961c0efb7ed035ab5128ff13139d2bd05a9
 SHA512: bf43581c16c9d7f4f942d3197f043975da2522094a70fc0c6ebd009703840eb7bf0105d74c8325077568a6d5a3045a18c8435e301648372f18dba6d95cb3915f
 
+Package: sslscan
+Architecture: aarch64
+Installed-Size: 192
+Maintainer: @termux
+Version: 2.2.2
+Homepage: https://github.com/rbsec/sslscan
+Depends: openssl (>= 3.5.0)
+Description: Utility to discover supported cipher suites on SSL/TLS enabled servers
+Filename: ../../../../releases/download/aarch64-s/sslscan_2.2.2_aarch64.deb
+Size: 41560
+MD5Sum: adff016170d273323da1d6f60f8e7170
+SHA1: f0fe6f90a581aff94ceaf89c6933e1e08ee5d3c5
+SHA256: 539a77b8afd2d1c1ba9a45fd49342df449e3983fedfc0ca663e431035f3523f5
+SHA512: 4cd2b8475d994002653ac9eee71a31fb43d123052259c708b1eab63ce2f2008248124496621147082f1869290cba55373b45c2dafd91b8d97cd2557183ae626d
+
