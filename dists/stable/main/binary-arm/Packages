@@ -38075,3 +38075,33 @@ SHA1: d226f45c08ceb8c798d3aca5a0186cc42c48c661
 SHA256: bd2cbe2ffadd879d0c6156e65a645fd4c18060e33b479818390c79d16e608c32
 SHA512: e3e03b35073fce31e1c42092f11de8676a159ebbeb1f52671a57daa8e4aa70b6541bbf4b77a341e4967153773f3348547721f81ab08928c73cac2c63f86c9b4f
 
+Package: phpmyadmin
+Architecture: all
+Installed-Size: 72356
+Maintainer: @williamdes
+Version: 5.2.3-1
+Homepage: https://www.phpmyadmin.net
+Depends: apache2, php, php-apache
+Description: A PHP tool for administering MySQL and MariaDB databases
+Filename: ../../../../releases/download/arm-p/phpmyadmin_5.2.3-1_all.deb
+Size: 7930456
+MD5Sum: 08b093a8df1c593e5c5166aef181f8ba
+SHA1: 55f4ac779cf41e0e107c94b22f2a801ef85b5c19
+SHA256: 3f14884c91f96c786df6d191573dd18317d1c4f77e61cd9b487401408bcc0430
+SHA512: a4aebac65e8dc5877204ea7c22af10592e49885069678f310f0f9860a29ad46d9020df7548762b5dfdebc5032ffe19d37a31c49ec23323f52e1a219f55457b15
+
+Package: txikijs
+Architecture: arm
+Installed-Size: 4024
+Maintainer: @termux
+Version: 1:26.6.0
+Homepage: https://github.com/saghul/txiki.js
+Depends: libandroid-spawn, libc++, libcurl, libffi
+Description: A small and powerful JavaScript runtime
+Filename: ../../../../releases/download/arm-t/txikijs_1.26.6.0_arm.deb
+Size: 1942912
+MD5Sum: 3cbb8da8172a4b7587bf4cf21536ab67
+SHA1: f73f02a7da0bf49909ad6dc2753cbc55fa6664fd
+SHA256: 4db4b076999be15cac45fd9fa5db90530a6a8ea07005c9a6d66b3559c2b536fa
+SHA512: d49b948b25e27f495176908c124acfdc7341d16a507fca12554d3e1495960ad337675d29c6ed1272c0dc0a25858e731a6e81067fdad674ab4af35c8adce4169e
+
