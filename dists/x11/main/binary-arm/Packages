@@ -14521,3 +14521,33 @@ SHA1: a25f1d29a8d1b320524fec6782d53913eaca9ded
 SHA256: 1fe341b93b30580e154ecc955180e4c7080f044f70391108378cb2dff2477516
 SHA512: 2a67d0cf57ee35e89683311b461b92716e20979dab3214157eefc461ca3ea344f4f6be5bab239e8bdd9f604a5016405816525809d3536c842a123806b24ecfd9
 
+Package: e16-static
+Architecture: arm
+Installed-Size: 36
+Maintainer: @termux
+Version: 1.0.31
+Homepage: https://www.enlightenment.org/e16
+Depends: e16 (= 1.0.31)
+Description: Static libraries for e16
+Filename: ../../../../releases/download/arm-e/e16-static_1.0.31_arm.deb
+Size: 2188
+MD5Sum: 29313bfbb7221346cb4adcbb9f1b0e03
+SHA1: 5e78cd58dff8888ce3e126d8a4f26d19fe8300c7
+SHA256: 17241316c0bda5e55cbcaa305d63166c10498f592f835096214c6c01cdbba490
+SHA512: e8653084dac9c7b584cddf8705870a2e3fcf14d81174ac13e3006ffc148c805b65fe6630510d0370c5b71e79b8c842613de396995a681f605dc70ae7589d52f0
+
+Package: e16
+Architecture: arm
+Installed-Size: 2752
+Maintainer: @termux
+Version: 1.0.31
+Homepage: https://www.enlightenment.org/e16
+Depends: glib, imlib2, libiconv, libx11, libxext, libxft, libxrender, pango
+Description: Enlightenment DR16 window manager
+Filename: ../../../../releases/download/arm-e/e16_1.0.31_arm.deb
+Size: 637884
+MD5Sum: 1542cb755b74770b9bf36ff61b6f9865
+SHA1: cd9b5daedfffe9bd264b9f7ce4ab00ce18e18723
+SHA256: b95ae1bf3c725c0b6a030f8961db3dd0e45ee4e83b2d029fb99a3a48da27b37f
+SHA512: 53a2580c2868e605d5c438cdc8ee92211d09ae5986dcce680d2f66ff161bd06173cef6e14bfa0ed68e75f30c85893989f46fe6baa7c12c16014f903489ce4ae2
+

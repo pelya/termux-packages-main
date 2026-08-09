@@ -14325,3 +14325,33 @@ SHA1: 454cf32d28e0ee81ec0cd6e8c9c5274f6e21c379
 SHA256: 3943b7df37982cb5a3aa674607d5f17ab23b2d3b6e4d78a2f881d2934797eda8
 SHA512: 6dd328d8321770675491fa069648d07637f71a8c5d40a29fdd7a4f8997eecb4d49ee1ad6b6038aad0a560719c52c4fb38dae26af7606e9d2a7627b30cdf10f01
 
+Package: e16-static
+Architecture: i686
+Installed-Size: 36
+Maintainer: @termux
+Version: 1.0.31
+Homepage: https://www.enlightenment.org/e16
+Depends: e16 (= 1.0.31)
+Description: Static libraries for e16
+Filename: ../../../../releases/download/i686-e/e16-static_1.0.31_i686.deb
+Size: 2060
+MD5Sum: 483b37f5d5c1a34ac0987ed107e8f2fc
+SHA1: 6289769a3e7d9aea613e1ae30f15c44a5131187e
+SHA256: d242f9da71a6882c4ab68254e73d2f71a57a66fd43524449713173361c6e65df
+SHA512: ef613eaf79c45ec5b7e9328420cdabce332590013197746c7b8698ccd6222cd1841829b5d21430d1614dd986aba9e1aa8488417e2369efa0eafb3eea03380a5b
+
+Package: e16
+Architecture: i686
+Installed-Size: 2960
+Maintainer: @termux
+Version: 1.0.31
+Homepage: https://www.enlightenment.org/e16
+Depends: glib, imlib2, libiconv, libx11, libxext, libxft, libxrender, pango
+Description: Enlightenment DR16 window manager
+Filename: ../../../../releases/download/i686-e/e16_1.0.31_i686.deb
+Size: 675592
+MD5Sum: 67f431fa6e7005b18790e508151df14c
+SHA1: 63a9a1a0e26f538a36362a5d6abf245b96efb022
+SHA256: 3dcae90509e98d68a34d168a14cb239cc787d767551a28d165e46483e8ddccf4
+SHA512: c3411f0c6a0c939b90160d15915bdda299b4f117786dfcb58bb6ec13f7ccc017f74539b8bbb74efbd8c61dc5e36b902606525badc9e42cdfa8958df8832d9830
+
