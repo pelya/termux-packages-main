@@ -14385,3 +14385,19 @@ SHA1: 834c9fb7afe37cac85e644970c330669fe6d1a43
 SHA256: b607e7e30177c03de26cfee376b1309db3e63ebd6d997beefff0fd7ffe6a81c9
 SHA512: f8075585e03b0ee3d3948ab197d58f90328099aef114da332f6b9d5de7f92eee83e8070ea6b53f405bfbc11dd6a7271d4000cee29207918cfa0f93e72ba376e4
 
+Package: feh
+Architecture: i686
+Installed-Size: 556
+Maintainer: @termux
+Version: 3.12.2
+Homepage: https://feh.finalrewind.org/
+Depends: imlib2, libcurl, libexif, libpng, libx11, libxinerama
+Recommends: libjpeg-turbo-progs
+Description: Fast and light imlib2-based image viewer
+Filename: ../../../../releases/download/i686-f/feh_3.12.2_i686.deb
+Size: 167468
+MD5Sum: cd329989b327ab252168a1ae616cdae1
+SHA1: 0e6970d8cdf59614b32ce23e9a909d1000b2de6a
+SHA256: 0964aeb0a8dc1fe0f71132fa3ff6b8f1c79d5005d4e8a2477ed2b445badc0bbd
+SHA512: 0ff8a8b2d5bd9f55bcf762b4e4f904a112fdf2933fc9da8a74b45da4b341ba95ab973145e07143f2b883cf0379c0e88b9565e943bd955fd90bb72131bf3a75e1
+

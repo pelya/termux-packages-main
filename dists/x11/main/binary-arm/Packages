@@ -14581,3 +14581,19 @@ SHA1: 47ecbd829ba04765f3f2aed5e0d931a5f3778eb9
 SHA256: b88e8d005a5f7fcc71b54b77f081bccbf406ace3e07ce92dc372aa9dc7a56101
 SHA512: 487860a20421ee1818bd6437691923a0f579adc37f89ea4179618b11765f5034816bb3bdb88ce5370b52a677a8be2837d4b5ad981dbe4da4da2e38bae7b52c81
 
+Package: feh
+Architecture: arm
+Installed-Size: 508
+Maintainer: @termux
+Version: 3.12.2
+Homepage: https://feh.finalrewind.org/
+Depends: imlib2, libcurl, libexif, libpng, libx11, libxinerama
+Recommends: libjpeg-turbo-progs
+Description: Fast and light imlib2-based image viewer
+Filename: ../../../../releases/download/arm-f/feh_3.12.2_arm.deb
+Size: 159232
+MD5Sum: 815a79b514d3bc5ddf972ff28dd1db6c
+SHA1: af5bb590182b8879be7fb45e8d0136d17100995f
+SHA256: 6120def73c5567d7930d15693e7fe698e9b15bd8e72cfaa13e586aaa9c42ce64
+SHA512: 49d2a25f84afac6c6e87e624eba1ef5dd432d200a222d0cbb78a2a26e684361726add8d879c8bf3df9d74d71d493ca7165c052f0e176ab3df901c9ee7fb1786b
+
