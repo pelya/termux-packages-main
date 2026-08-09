@@ -38656,3 +38656,19 @@ SHA1: 6f64cfe660aba1b0ffa895c68002bd1ff17a2038
 SHA256: 512240ca21f3adf1f3169c9b0b9f7631731aa69e01e071ffeddcd30b85250b76
 SHA512: 181d7df6d786be40eb55060a430633f2ef04104079565e7589f53a149985cfcc989008cdfc7425bd8be9cf3cb5027ab809cbc9dc535b6db21b98037de28be6a5
 
+Package: eigen
+Architecture: i686
+Installed-Size: 10000
+Maintainer: @termux
+Version: 3.4.0
+Homepage: http://eigen.tuxfamily.org
+Breaks: eigen-dev
+Replaces: eigen-dev
+Description: Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
+Filename: ../../../../releases/download/i686-e/eigen_3.4.0_i686.deb
+Size: 1016060
+MD5Sum: ea7b2008efe2d0e1b6e3ddd07ffb5343
+SHA1: 1f475239ef4e933a4c5ff5c98f15e58bae7a38ba
+SHA256: c4765bb8fdf81d19e00b06e07bda758b269e30ac1a9ff66d83636136118fd69a
+SHA512: 14763d2532587ec236e609358cf3570d6953ca246ff4bf65599461abc6df7ad781bc415e6bd56b4004941dd037c854152da99f3f8295fe48fa32ca30900ca960
+

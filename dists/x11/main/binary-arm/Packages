@@ -13993,3 +13993,48 @@ SHA1: e5fa17623c91cb8984d01c7ab7306063b8e9cd21
 SHA256: f3d58e43f36be7686a3a8fffacde3e0684bb2cd5e5a36826cf6f65d457cdeb21
 SHA512: c20e6a36d060b32b83ac19e18cfb13ae75c2164818cb1e76f12daca7622a0a5e41a5d18303d478215bcac0256080d35b03d5a4bb4fae8d7b807342e1ccb799ed
 
+Package: calligra
+Architecture: arm
+Installed-Size: 100736
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://calligra.org/
+Depends: fontconfig, freetype, gsl, imath, kf6-karchive, kf6-kcmutils, kf6-kcolorscheme, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-kguiaddons, kf6-ki18n, kf6-kiconthemes, kf6-kio, kf6-kitemviews, kf6-kjobwidgets, kf6-knotifications, kf6-knotifyconfig, kf6-ktextwidgets, kf6-kwidgetsaddons, kf6-kwindowsystem, kf6-kxmlgui, kf6-purpose, kf6-solid, kf6-sonnet, kf6-qqc2-desktop-style, kirigami-addons, libc++, libetonyek, libgit2, libodfgen, librevenge, libvisio, libwpd, libwpg, libwps, littlecms, mediainfo, mlt, okular, opengl, openssl, opentimelineio, perl, phonon-qt6, poppler, poppler-qt, qca, qt6-qtbase, qt6-qtdeclarative, qt6-qtmultimedia, qt6-qtnetworkauth, qt6-qtsvg, qtkeychain, shared-mime-info, zlib
+Description: Office and graphic art suite by KDE
+Filename: ../../../../releases/download/arm-c/calligra_26.04.3_arm.deb
+Size: 34786564
+MD5Sum: 2c1332907652b56a2be3bf9aa7cc109a
+SHA1: 57db8ef15b8cdd047932fe330a02300c88e780c1
+SHA256: 7f3890b84896c72474e43aa4f00006ed67a7f0e5fe5ad866eeb44843504f900f
+SHA512: ad61b726bb56b8194aa47b7a9c6a7d721c18b331cf8204a09d5bac4214daef7877fb2b4115e2e7e751cbd8c3cd30fb34f813abd90fda33d2c19c1c0014c84ed0
+
+Package: mangohud
+Architecture: arm
+Installed-Size: 6612
+Maintainer: @termux
+Version: 0.8.4
+Homepage: https://github.com/flightlessmango/MangoHud/
+Depends: libwayland, libx11, libxkbcommon
+Description: A Vulkan overlay layer for monitoring FPS, temperatures, CPU/GPU load and more
+Filename: ../../../../releases/download/arm-m/mangohud_0.8.4_arm.deb
+Size: 1328364
+MD5Sum: 075f03ed3fdd067ec0a66ab8599bdc26
+SHA1: 45a6600b4d0c731006f8732657a9b5dae5424038
+SHA256: 30bd3af40dcf7aa8b0c3a30e07c907ef013745c859dc33bffeee67635fcef2fd
+SHA512: ea3108d7be430c389ce37fd73678b1ae0d2779e7ddebe4202de865115cffb80a487fa7fa5734aee2d229b394bf71afddf50b884b6d1a30b14a30d59618ba58da
+
+Package: okular
+Architecture: arm
+Installed-Size: 11916
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/okular
+Depends: discount, djvulibre, freetype, kf6-karchive, kf6-kbookmarks, kf6-kcolorscheme, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-ki18n, kf6-kiconthemes, kf6-kio, kf6-kparts, kf6-ktextwidgets, kf6-kwallet, kf6-kwidgetsaddons, kf6-kwindowsystem, kf6-kxmlgui, kf6-purpose, kf6-threadweaver, libc++, libkexiv2, libspectre, libtiff, phonon-qt6, poppler-qt, qt6-qtbase, qt6-qtdeclarative, qt6-qtspeech, qt6-qtsvg, unrar, zlib
+Description: Multi-platform document viewer for PDF, comics, EPub, and images
+Filename: ../../../../releases/download/arm-o/okular_26.04.3_arm.deb
+Size: 5726804
+MD5Sum: 06be5337cb6e2b455f784d96450a65fd
+SHA1: ac82dbde3e8b1f1bc0a83eb5e436e4c18fe94e72
+SHA256: fa62d1bc512e6bcbe2d3bfbf61c9015972ccccc1659f3c3adab7c39b9d45ff22
+SHA512: 6b11e4a600a40509d62a33d689f9ba3c4a5a9c12e019c94140499d2908b1b763c3951b599047e96d7053345976564c6f54cb6e6d6a5a5040b2b18f86206ec1ee
+
