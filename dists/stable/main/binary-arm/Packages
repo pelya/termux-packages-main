@@ -38296,3 +38296,17 @@ SHA1: d512b7a641fceec7b6faf475442698882935691e
 SHA256: 868f026a396c807df6beafbc8d58735fcf602610ddcc99eb40428f24c3aa1737
 SHA512: 7642f4f84e878d44de55344ca8c1de2d6b7e14cbb62773c4e8522198c4510eb8365bd059a18a43d2eb0765b9ffdf6198b2bf273107b7fa9410577735cd0aafde
 
+Package: asciinema
+Architecture: arm
+Installed-Size: 5240
+Maintainer: @termux
+Version: 1:3.2.1
+Homepage: https://asciinema.org/
+Description: Record and share your terminal sessions, the right way
+Filename: ../../../../releases/download/arm-a/asciinema_1.3.2.1_arm.deb
+Size: 3002916
+MD5Sum: 43a3e29cb55e29c7d2a586321c5210af
+SHA1: 021c8853e762b069be47fc2c54ef7e4b8af7caaf
+SHA256: ad1fb72057005290174602ac0a515585348f497bd4644fd440f89a0816c5b808
+SHA512: 3193a017677936cc2592ed11ab4a43a8e4939d26701cf27fc55125e2c8ca0e9f29da9bf1acc8753bda2a18432c55c95fe94d398748b6a0e2f21659b6da2c4969
+

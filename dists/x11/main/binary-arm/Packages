@@ -14355,3 +14355,18 @@ SHA1: 563b931873d7864d625709949786462d7370cd21
 SHA256: 46b74e2efc57e56d7f853f2f711d1c751998558d0a88205338f2bb884b9f664b
 SHA512: 67777a55ef9c6519820ec71e9b7862198a44ecc81dbacea72e435d64b594fea6193a29c6cfc349f7dac01a12e0a52406df895b41f5bdd8cdce1492bf9a2319f0
 
+Package: schismtracker
+Architecture: arm
+Installed-Size: 748
+Maintainer: @termux
+Version: 20251014
+Homepage: https://schismtracker.org/
+Depends: libflac, libx11, libxv, sdl2 | sdl2-compat, utf8proc
+Description: A free and open-source reimplementation of Impulse Tracker, a program used to create high quality music
+Filename: ../../../../releases/download/arm-s/schismtracker_20251014_arm.deb
+Size: 337824
+MD5Sum: 67923734cc80ae8347320c869cdcbe9e
+SHA1: 7f95f1cf10dfe56a987798a4d101d395badcbcaa
+SHA256: db33acc59505c5a3468b2183d747954fb3fa942b60f24040ab8f427246116622
+SHA512: f12c29e5677c4f591c03cc6e4abfdf2dedf311de74c8459549cac5707275af9fcd1a2763e901a7aa478281a5dfc2cda15c778eaa9485ab324aba2e0bdb6111e5
+

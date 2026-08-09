@@ -39043,3 +39043,17 @@ SHA1: b25394562c91947993bbaa41336c967986aa9bfe
 SHA256: 11ed1916a8bf169d9170e9477cc1ef778134b29a894539c4c4f2694f8145c1ab
 SHA512: c53be19f38718b1069ab8be4cc10ef5b420272bdbef72b3446dfc1beea935420399c476187a3ba94564d451d5bdc94f5c95f6ccd52fb010ad6b43ec97f4f0cfa
 
+Package: asciinema
+Architecture: i686
+Installed-Size: 7600
+Maintainer: @termux
+Version: 1:3.2.1
+Homepage: https://asciinema.org/
+Description: Record and share your terminal sessions, the right way
+Filename: ../../../../releases/download/i686-a/asciinema_1.3.2.1_i686.deb
+Size: 3361300
+MD5Sum: 5342265ffa237e0f99bdfce4a4151036
+SHA1: 375319bd9429fcdf3a960c94a6407843275274e1
+SHA256: 3ae2c9ee472dbd8ae69179781a9a5c3dbb6c58fce582740f5e115feb938ad03a
+SHA512: e8cd4ea0d2c9e7e0052a94d25d5fd8ae876fd209bec96b7adf8cd2f1ced1700fbd69c966aa7da3360503371aa06b60c4cf4646860029dcc1c6a3f431d95b6c7f
+
