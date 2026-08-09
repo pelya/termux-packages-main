@@ -40175,3 +40175,17 @@ SHA1: 9fed2d86f34c72cc401174ff97d8d66d7d08fea9
 SHA256: 9042613659c7abc30c26a914cefacb9a4c45870a740d31db3e8da95b451e7f27
 SHA512: 0bc60cf170074e773344959f51367b847f4a23a2b28d9376bc4ddb8e3b8a418d3267d70413e4a5de988381f08363d9aae69cc8bb4401c912bbb6f1cd41afd618
 
+Package: mdbook-presentation-preprocessor
+Architecture: aarch64
+Installed-Size: 2192
+Maintainer: @termux
+Version: 0.3.1-2
+Homepage: https://github.com/FreeMasen/mdbook-presentation-preprocessor
+Description: A preprocessor for utilizing an MDBook as slides for a presentation
+Filename: ../../../../releases/download/aarch64-m/mdbook-presentation-preprocessor_0.3.1-2_aarch64.deb
+Size: 582472
+MD5Sum: 193858b749f7de608c00987d9784d118
+SHA1: 6065c4634bb9e6845bbff46424f9cd597b1a2206
+SHA256: 1c3ad70ffb7f631efc1bf22c0dca6445686d652581dd1b2ff593e4daa6bce196
+SHA512: e344d6ab1c926b2f032371a4def18ea9a5f8a85bab1db1b98910ff8e20445fbd62e291eb4afafd130054f8548a9b478ee8b61c92f85ee8b8611bcdf980e5581e
+
