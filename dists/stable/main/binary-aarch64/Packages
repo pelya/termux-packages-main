@@ -39854,3 +39854,18 @@ SHA1: 95e1bb07769ef15fcbdbdc5b61752f040652547b
 SHA256: ae561b1b4431682477460a5946d125f7e506770aa7225a807922ff8a59441f48
 SHA512: 1020136b37f70193ac20aa74cec58f72908d483252fbe1af16e269d8c683396d234fcb3d014f1e6341f8d2f47e7036020a1a6e34572deb7f66a96c9e52fa4560
 
+Package: dnstop
+Architecture: aarch64
+Installed-Size: 188
+Maintainer: @termux
+Version: 2022.10.19-1
+Homepage: https://github.com/measurement-factory/dnstop
+Depends: libpcap, ncurses
+Description: A libpcap application that displays various tables of DNS traffic on your network
+Filename: ../../../../releases/download/aarch64-d/dnstop_2022.10.19-1_aarch64.deb
+Size: 31828
+MD5Sum: ddb6095c527dc20452ecae8007fa6e1a
+SHA1: 6a648e3e8dd24b8753de32fb7a5f8d5913834aca
+SHA256: 4e7b511b3058079fc703f5c25641b11a9e7a2a84348e4be2b44177c7fdfe9d06
+SHA512: ae65d2b44142747fbb413b971de107ca6036edbeaf2a066f2b7eae4b11181fd2ce4132e8c54a04b74c773f384d42e1cfacac94f0189635dcef67a723d12870d7
+

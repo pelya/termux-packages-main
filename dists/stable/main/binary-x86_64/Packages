@@ -15781,37 +15781,6 @@ SHA1: a876dda9998f72bbf6ed31c3342b7441dfe6fdfe
 SHA256: c5a2d09f4d355ecb277eb9f8384d834e2270081aba8b99fedcfad307b123664a
 SHA512: 76c837197f036a9f0bf446b934bc11056679b480731c667ed0b9fcd40bfc86b8fd319ee52a1bfa603d3557794548bdba3d482aed473c363719b7dd3fe65da741
 
-Package: libpcap-static
-Architecture: x86_64
-Installed-Size: 456
-Maintainer: @termux
-Version: 1.10.6-1
-Homepage: https://www.tcpdump.org
-Depends: libpcap (= 1.10.6-1)
-Description: Static libraries for libpcap
-Filename: ../../../../releases/download/x86_64-libp/libpcap-static_1.10.6-1_x86_64.deb
-Size: 107784
-MD5Sum: dedcfc442388498ff5497b036ba92116
-SHA1: 1e0a93e24b459f89d40a39403667cd38ae7b06ac
-SHA256: bf9badff9b3d938c4b5439d7a12159402719d310499bcdb5eeffaec084bc1081
-SHA512: 9ed8c8896e3a440e0d7cc53e03236d4ea833e84562005a677ed3ff4a9ff354c2ce754c4cf3619d5b54b8762a0120fdc01a02f9dd8d6858e88a777964ab4b31af
-
-Package: libpcap
-Architecture: x86_64
-Installed-Size: 796
-Maintainer: @termux
-Version: 1.10.6-1
-Homepage: https://www.tcpdump.org
-Breaks: libpcap-dev
-Replaces: libpcap-dev
-Description: Library for network traffic capture
-Filename: ../../../../releases/download/x86_64-libp/libpcap_1.10.6-1_x86_64.deb
-Size: 236900
-MD5Sum: de306221e64e02d401f017ad108ebaad
-SHA1: ca495466d0fd7b645d2f7a9ddf5bea6e5621a8c1
-SHA256: c47106613603c214c0437efbcac469712581691352326f8b668483b83cdfad3f
-SHA512: 7f43fe025d99929aca8292d4086aef00b16ed3109da77da401427f206f2e716c02f4f5a18f1c2c4b1194ea9f7348d82aef08531896518626ad05140eac1930d3
-
 Package: libpcreposix
 Architecture: x86_64
 Installed-Size: 36
@@ -34186,84 +34155,6 @@ SHA1: 55fe5b18cef6cb099392cc0bb0449867dca1c833
 SHA256: 9898c3bc67e993d8d6b5ac11f4ecd5eb8efc98406a9ab5772a6d8a9edaf334d5
 SHA512: 21a4b1b29abadc0c2387803672e252d7b6f82cf479bb4a6ef957d3e45e50482f61b0ea6c7b62106bf8f84e9660ad1a6e19d820fd99e3ed79b8a3453ac6db2d8c
 
-Package: ncurses-static
-Architecture: x86_64
-Installed-Size: 752
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 156616
-MD5Sum: eee5278d04e7555a4cd076c4a4dfafe0
-SHA1: 9912484168754f324d106a049e95ade7f4a31fb0
-SHA256: 47a12ebb358abbd5c8af0a355a467130a7f3a3427e3c12e151d40ed8980ba7f4
-SHA512: f63eb174e2e4e532a1bca2a8d5aa2082e3b4785f88fa720ace88a10d405dd3e0e765415bf1c5a0f452c08883cdbe8852b0e0220b8db1c645a975cf091e2add6c
-
-Package: ncurses-ui-libs-static
-Architecture: x86_64
-Installed-Size: 240
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 39152
-MD5Sum: c9d4aba671e182f9e732ee40f71de8b3
-SHA1: 461ea39c2cc7b51ae43fa36af672757493cc11a1
-SHA256: b263f19b6cdb59fe6d73b17b66e11f7632fcac9354621691bd1055a957a11ba7
-SHA512: 1138ea9cb946a8fc1b8854e5cef31afeb37a4978e9c35e378d341240e42968340f2850e6a03b73f77d5dd7b9523b90ce30ffc5a735878bccc549cc2f35a0d3b8
-
-Package: ncurses-ui-libs
-Architecture: x86_64
-Installed-Size: 144
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Breaks: ncurses (<< 6.4)
-Replaces: ncurses (<< 6.4)
-Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 35392
-MD5Sum: df780420e781c4ca5b1a05413f9a58e6
-SHA1: b16a3db5b43ae56d5a300a673ae3860a37d41cfb
-SHA256: 7776a8a9a9fab960294c88d536314bdbc222e61ec9b099754642c7deb20b67e4
-SHA512: bee3490a4c5a7eca8e27f51a463115f06ebe51ffc4a5bb01db8f28dfab09903250df3395cbb6aac9552f97810cbba3d11270201c53322ca4314052aa430c712c
-
-Package: ncurses-utils
-Architecture: x86_64
-Installed-Size: 272
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Tools for working with terminals
-Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 92624
-MD5Sum: 7022cfbdce02f2c4ad203f1d7975b54b
-SHA1: 807bb0ed1dab2cee1a5d4ca8d013c367bd6b41cf
-SHA256: 7a935b5b645ddb027fab6b17c5667cd91bec3d63375f55b38961411efc942c1d
-SHA512: 280aae2cc0ac46fee9b4fdd2506a7057fc0b750bf5b21b9d1ed7ece534557ca36f9dfba711dc19dadfb6c01bd2bacdecc2e314fd421994aace5dceded5a7f264
-
-Package: ncurses
-Architecture: x86_64
-Installed-Size: 1604
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 570160
-MD5Sum: 258efb14e2c8b66262b6b998e63306ce
-SHA1: 5b1bbb5827f6ec8fd29b61363d512ea4a272b7d0
-SHA256: 7c2ec934e63aec305e0b20c914d4479e954828c79053e31b3a14e0264afd8f80
-SHA512: f7cbca68f6229dfbf6b5f6c38a9f5412f5b7e7f938942bd3aa6be736dd1738c7576ea027afbf0494b5c2c6548e90cd63d3c55b6360da9033af03adfc201ccc79
-
 Package: moreutils
 Architecture: x86_64
 Installed-Size: 220
@@ -39822,4 +39713,128 @@ MD5Sum: ce859417e1d6da5c08f3a6c81a7c2ea7
 SHA1: c506dfde794c68a41881d342a5cf4bd20126dea3
 SHA256: 24ffff4502ada74f7cdd478dff0eda3ad03632ed4e424a255be15f8c986f7ef6
 SHA512: 60347fe79df3db628df27464dc6f1dd920141a8e78f554b8fab856a50e991581ffe26e77058a8fe2b448e6a2457ff05042b72ca4a997525f3308e7d1bde80707
+
+Package: dnstop
+Architecture: x86_64
+Installed-Size: 188
+Maintainer: @termux
+Version: 2022.10.19-1
+Homepage: https://github.com/measurement-factory/dnstop
+Depends: libpcap, ncurses
+Description: A libpcap application that displays various tables of DNS traffic on your network
+Filename: ../../../../releases/download/x86_64-d/dnstop_2022.10.19-1_x86_64.deb
+Size: 32316
+MD5Sum: 18e4d5f2e43facb023f18b8c8028c85f
+SHA1: 6e1ab9a06746962abf5899325607bed9db325118
+SHA256: 453e55e8c32a2f6a3d666a0cf8713cfcffedeb24d30a04cb78e49bdf8964c033
+SHA512: b2683a07fba19af3c8721ced31dd8adc930e90de2a7e1d4f0a5647517f55757189c6649a35c00c2458a1b719999942fbf53ba97e43261688cd8548cce494a2f2
+
+Package: libpcap-static
+Architecture: x86_64
+Installed-Size: 456
+Maintainer: @termux
+Version: 1.10.6-1
+Homepage: https://www.tcpdump.org
+Depends: libpcap (= 1.10.6-1)
+Description: Static libraries for libpcap
+Filename: ../../../../releases/download/x86_64-libp/libpcap-static_1.10.6-1_x86_64.deb
+Size: 107764
+MD5Sum: 240a4fc8bae94e1967cf45af7f3917a9
+SHA1: 98281eca5f4cc3befbe5b5b20f52f1b6a5d636d7
+SHA256: ec875bf09cf61476bf125c7413e2ff8309e39e2d762eb03ecbf85639450145c9
+SHA512: 45d960f50156527061ca5f35fcdf255b96ecd4f44ce76101680ae998a3a28a3cb00b017a1ff17738614720a4afab0d271c9adbf015418593ef780e18ee724032
+
+Package: libpcap
+Architecture: x86_64
+Installed-Size: 796
+Maintainer: @termux
+Version: 1.10.6-1
+Homepage: https://www.tcpdump.org
+Breaks: libpcap-dev
+Replaces: libpcap-dev
+Description: Library for network traffic capture
+Filename: ../../../../releases/download/x86_64-libp/libpcap_1.10.6-1_x86_64.deb
+Size: 237100
+MD5Sum: 6097557dff385f8217f0b15cdf5afb45
+SHA1: 259b7f1a99c6e674e5849a1faa90d309e02d21c1
+SHA256: 04493d65ccc0817e90c81d57b6f84ddea76c215d4dc31697083c1fefc4e8818f
+SHA512: 02d46b2a2ebd83e8ef0ba8286efe19dfd29246f54b360de2e9bddd5ed9d2e63601f6f9427c00d42c46a81aa136a647ab29c2adf86401dc73f7fde3d6960619bb
+
+Package: ncurses-static
+Architecture: x86_64
+Installed-Size: 752
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 156596
+MD5Sum: 669c54a60708e0d6231258a908b0c234
+SHA1: fe985d00d9cb2c07584cb245556b3c617be92d8a
+SHA256: 11bd0f1d919e6935f5172bf14372f2723128fd09ba3754cbb30427c93a6ad0e6
+SHA512: ccba76902c0041c72f61cebe7acc697d2fb79a62465fa596ef6c806eb6e187a08696613a97561c8dcef4405c6dcf51be2c82f30c2dc16e79e028e356b6e7433c
+
+Package: ncurses-ui-libs-static
+Architecture: x86_64
+Installed-Size: 240
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 39152
+MD5Sum: 2fe07782325e3783ad8018fa267eeeea
+SHA1: 9bf5e47e5acba78877ee058d10c61c6834b9b3c2
+SHA256: 4c8ca201177403f201bd359bb7c845076f24e0e5b00b1f82a26a74fef31af4da
+SHA512: 16176e10fc56866be7e8d366abfb6fcb404c3c91f48f9714e614621e89b9470abbf5da08f454a92ffdee1041c7242ffd127dcdb917ca65c6a34588c1e37931ef
+
+Package: ncurses-ui-libs
+Architecture: x86_64
+Installed-Size: 144
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Breaks: ncurses (<< 6.4)
+Replaces: ncurses (<< 6.4)
+Description: Libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 35412
+MD5Sum: 99520e4940d794b6709bb64e6dc3d077
+SHA1: 85b2571de1d370d34db9ae4f5ea9ee882adc210c
+SHA256: 2dffbefe0d7b8b3f1f9a876fa1c8b9b85481db3fe7f623481c10a32dda8faa0c
+SHA512: 1e737d95f2e39e7b2d12770ec461c872e184c8cd8c50549df95fd3cb7de0e63a9c94642b5c42d228586dacb6f1038146f3a2ea9e15f999edf367b02a999dbf77
+
+Package: ncurses-utils
+Architecture: x86_64
+Installed-Size: 272
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Tools for working with terminals
+Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 92600
+MD5Sum: b31dae0d3dafdad4260ab0f22d14ec2b
+SHA1: 5162238200188560c16b102313ab78b02c6e1a39
+SHA256: 3992057ddf544abada779cec1470cd56890e7ea11effa5795a52f4fe42fce940
+SHA512: 6fbef57f19b78ac1a7f9fb35055bd3d95ad29614f6b073bcd714f78fe5090b65911baba2f1e74f988f4c0ca18fdf0cf8e2f5a8940ba10e07542d50e08eb2a0e2
+
+Package: ncurses
+Architecture: x86_64
+Installed-Size: 1604
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Description: Library for text-based user interfaces in a terminal-independent manner
+Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 569924
+MD5Sum: e376852d46a3a26dabb6ffa4aacbe09e
+SHA1: d6f3fb8b74afd89cf55f8b4fe93ab457be0ca689
+SHA256: 4944e958ddf5537f071076063bb8380913196573d3115ca5de19ab8d0724ea7c
+SHA512: ccfd4a0886aa118e2eb3cb49a24c134c418da4e04c641025597634c2a883ccf81e88e67fedd56ce172350b8b53b289708be613c96aaaa9af4a639454f9e7e34e
 
