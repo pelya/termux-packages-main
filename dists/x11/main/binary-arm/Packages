@@ -14038,3 +14038,18 @@ SHA1: ac82dbde3e8b1f1bc0a83eb5e436e4c18fe94e72
 SHA256: fa62d1bc512e6bcbe2d3bfbf61c9015972ccccc1659f3c3adab7c39b9d45ff22
 SHA512: 6b11e4a600a40509d62a33d689f9ba3c4a5a9c12e019c94140499d2908b1b763c3951b599047e96d7053345976564c6f54cb6e6d6a5a5040b2b18f86206ec1ee
 
+Package: kolourpaint
+Architecture: arm
+Installed-Size: 7476
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/graphics/kolourpaint
+Depends: kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kguiaddons, kf6-ki18n, kf6-kio, kf6-ktextwidgets, kf6-kwidgetsaddons, kf6-kxmlgui, libc++, qt6-qtbase
+Description: Paint Program
+Filename: ../../../../releases/download/arm-k/kolourpaint_26.04.3_arm.deb
+Size: 5024744
+MD5Sum: 828b8c941e4817c1f695a04113f1a8e7
+SHA1: 56a1aa64664274ccca0c90bdf46150d5499382b8
+SHA256: 5e14e614f5a6ba5334d90bda19f7a285a27d7c622d99262694dfee8ea92b36a9
+SHA512: e37d6d1e2a5444e09d1c1d549228f20348f66ac72249b1766300ac9a8b4fa75ce312a3cbba1e329550fc8abf6cf8f143ed1e39ce7313c5b66f2de66b0297de4a
+

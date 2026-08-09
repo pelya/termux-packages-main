@@ -1066,3 +1066,17 @@ SHA1: 1749bd593c8a273380b70276973af77c5c46207f
 SHA256: 5b57eeff599f829af98e45dc6dbc4153562b45b6edd3d5bde0cb4b89a05046e0
 SHA512: 924c09573a34bf96b77121458072556a52447f730e6cbea8cc74b2807feda0ac14ab18ceaff3ad19414f42bddbc364eda7caa9fcb9f6cbc5d87ecdd50ebf1000
 
+Package: hdparm
+Architecture: x86_64
+Installed-Size: 176
+Maintainer: @termux
+Version: 9.65-1
+Homepage: https://sourceforge.net/projects/hdparm/
+Description: Utility to get/set SATA/IDE device parameters
+Filename: ../../../../releases/download/x86_64-h/hdparm_9.65-1_x86_64.deb
+Size: 59872
+MD5Sum: cbe4f53bb87f5e3067bdc5314a3dbd45
+SHA1: 49fddfcd68b04c24b330f108c0d3a887c8877699
+SHA256: 0b6b3530dc60017b763b159f8e86a0a096deb638dcbf9d4049a12f57e69b3c1b
+SHA512: 44da2dbbc8359c7f0c0d156c453c306a699728f6fdab5ae8c6daf998ea234ede8746a191de19f2a70a95d7b9c467323e01b209c2d0ca7a95ca88d425379e7ca7
+

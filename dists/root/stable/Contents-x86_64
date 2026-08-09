@@ -1300,3 +1300,6 @@ data/data/greater.underscore/files/usr/share/man/man8/iwgetid.8.gz              
 data/data/greater.underscore/files/usr/share/man/man8/iwlist.8.gz                wireless-tools
 data/data/greater.underscore/files/usr/share/man/man8/iwpriv.8.gz                wireless-tools
 data/data/greater.underscore/files/usr/share/man/man8/iwspy.8.gz                 wireless-tools
+data/data/greater.underscore/files/usr/bin/hdparm                                hdparm
+data/data/greater.underscore/files/usr/share/doc/hdparm/LICENSE.TXT              hdparm
+data/data/greater.underscore/files/usr/share/man/man8/hdparm.8.gz                hdparm
