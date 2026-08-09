@@ -40588,3 +40588,18 @@ SHA1: 7dd70deca6abdcd8c86c6376436319b7dacb8bec
 SHA256: 433ae16cb843c5456fbe85ba03149424d45517f52c269eb9df7348fe33fd70cb
 SHA512: a2aeebd6f2d834e8f912cc934ec7a03a07c553c340746bb72cd79666f968957205bdd1b836ba87b7a3a226d65976be206227c3c8492ee4e050c7415ced796cef
 
+Package: fdroidcl
+Architecture: aarch64
+Installed-Size: 8128
+Maintainer: @termux
+Version: 0.8.1-1
+Homepage: https://github.com/mvdan/fdroidcl
+Depends: android-tools
+Description: F-Droid client
+Filename: ../../../../releases/download/aarch64-f/fdroidcl_0.8.1-1_aarch64.deb
+Size: 2235568
+MD5Sum: ad3bd11cf2d4a3283f05584d22f08c39
+SHA1: 456e2c7895bbe853292dfa5ffa97816eac40f218
+SHA256: 2805c6a4413be6e2bbfb2171532ef140abc0fb0f8311f185508e446f2e6ae8c9
+SHA512: c298c38babe1614e40074cceb4733500046fa83d94972598d469a07614f181b904a3701d8082d340aa39f2abf39e90a54e1ec5031cb3e55267840baae468c268
+
