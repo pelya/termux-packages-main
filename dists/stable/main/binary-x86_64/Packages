@@ -39852,3 +39852,32 @@ SHA1: 71c5d9f01c0aa445d7cb2a1a0ef81fa055fdd1c1
 SHA256: 4cd7bb926eb294ab90d6916efbde3c974cd8ba5489ec349dd68c1e6d990e880d
 SHA512: 392835f085a0f6e7b6696c6ba0ecae5f68c98925dbb1fc4cf87651abd6f2a1530a80e0d18dd72ac3fd94efd0d9ca5f99488d3710e2753cae574ce5e0666048c4
 
+Package: jq-lsp
+Architecture: x86_64
+Installed-Size: 4640
+Maintainer: @termux
+Version: 0.1.17
+Homepage: https://github.com/wader/jq-lsp
+Description: jq language server
+Filename: ../../../../releases/download/x86_64-j/jq-lsp_0.1.17_x86_64.deb
+Size: 1369512
+MD5Sum: 423679ea8cdf5f64bfd15241f810fde0
+SHA1: 057fd5bd3fdedcbd81bc9c98f6e75c806294e895
+SHA256: 35c949e8c3c8ed1c4e5e5ccbc8a83cf0401a07b9b7af0515bbea163b1e5b8f91
+SHA512: 01d73a23d0fe97c7b962d99678164376cbfd29cf413e9851aa4225225a856f193540422f15d93637f711df623556aa68bd98867651114738413004a4a3a23593
+
+Package: python-tflite-runtime
+Architecture: x86_64
+Installed-Size: 8024
+Maintainer: @termux
+Version: 2.20.0-4
+Homepage: https://www.tensorflow.org/lite
+Depends: python, python-numpy, python-pip
+Description: TensorFlow Lite Python bindings
+Filename: ../../../../releases/download/x86_64-p/python-tflite-runtime_2.20.0-4_x86_64.deb
+Size: 2142516
+MD5Sum: b19cb6aa87560fb8c6a32c6114c96396
+SHA1: 1e1b0395deafa248748d551db9faeaa0114fbeb8
+SHA256: 37141e7a12e8470720b0e265480f2d8ba5838492fec334527d96e12c4fde34fd
+SHA512: 027c746467ec25b4a1b671cd5259be24320bc4f64169fa31557ce604b9a072eb57e8e9f5b08d904def072bc7bcc86a6e4496c6edea0fde431d5928bdd32980bf
+
