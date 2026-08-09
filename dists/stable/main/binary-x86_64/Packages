@@ -40706,3 +40706,17 @@ SHA1: dc67c2cdd1d796c96e7d38c446ec114cab9f1186
 SHA256: 5b5a7e7fb2cfc2ce64d9e3ba7cf08d1115c93a5761bd932ce46f2ed78c554373
 SHA512: edfd1678d172e44a1cf4efb677450c2f53eea0768064ace640926e4e98cb649b94d6d283f2b5064884e7c50f61f8fcb89b9f95c2bebdeb03621297d66a5b2949
 
+Package: tree-sitter-bash
+Architecture: x86_64
+Installed-Size: 1384
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 0.25.1-1
+Homepage: https://github.com/tree-sitter/tree-sitter-bash
+Description: Bash grammar for tree-sitter
+Filename: ../../../../releases/download/x86_64-t/tree-sitter-bash_0.25.1-1_x86_64.deb
+Size: 127732
+MD5Sum: dc1fdd469215d5bc233c57b16c322f1e
+SHA1: d94ec67dff8b3c4cd02bbb1ef240d6f0d59c47af
+SHA256: 9d9398b3eb4f951777a977d3595af9c009fcef7a173de2c5d62209529b94119c
+SHA512: 940594f134f3ea996891b337bca43c6c5567cd513ef30020432a0deab0494876c6a2203d44cc357587c5803902287a883ccd58b74b25aa644355083d0be47f88
+
