@@ -40480,3 +40480,18 @@ SHA1: aa7fc59ce117129bdb1e8df90a5a10327a887520
 SHA256: dd52e62c9a06b2cb89fdf3d71cec2c7eb0752ec2dd5d378447f89bf6857890f8
 SHA512: 12caad79dfe2d55b3deee94dfadafba1ea17065caa158c25b3805e69eb88e6638a98af288be7b42fd37bdd9db54d2f50bbef83037eef8f8c0f5070a574cb5cb7
 
+Package: spiped
+Architecture: aarch64
+Installed-Size: 228
+Maintainer: @termux
+Version: 1.6.4-1
+Homepage: https://www.tarsnap.com/spiped.html
+Depends: openssl
+Description: a utility for creating symmetrically encrypted and authenticated pipes between socket addresses
+Filename: ../../../../releases/download/aarch64-s/spiped_1.6.4-1_aarch64.deb
+Size: 48352
+MD5Sum: d1864e938065f5ed39a81492f90470e5
+SHA1: e0f6d6494682b9fa395410a05979d74633360773
+SHA256: 957803d0ddb28bf1e47eaf5bf1909c28f2623adfe73c3dd07bcecdf63ca7b736
+SHA512: ef84f17956132d5a9c9757787c38650e4c7c9d1bd740df636741fdf4725767b92cb46bd1a3cf8323f477a3afcbf0d037f14c5011776711a4bd60892c00efdeb5
+
