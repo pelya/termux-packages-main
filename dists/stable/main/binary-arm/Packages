@@ -38897,3 +38897,18 @@ SHA1: 9677c086cc9aea9c4a897ab6e0ebc4e006c150f8
 SHA256: 619eebddf0aa46766cf32b900fa9c3b21c247d6b3f86da0ee074323ca3bbec3f
 SHA512: 8095db90c49518d8bbc55d86dff7c60dd7bd2bbb84a03fd9114c2154002ebcc3dd8147c0dbc0458f052ba8fd34b77a9c9ac4f4c509dd7dfeb32cb74e35881396
 
+Package: wordgrinder
+Architecture: arm
+Installed-Size: 504
+Maintainer: @termux
+Version: 0.8-1
+Homepage: http://cowlark.com/wordgrinder/
+Depends: lua53, ncurses, zlib
+Description: A Unicode-aware character cell word processor
+Filename: ../../../../releases/download/arm-w/wordgrinder_0.8-1_arm.deb
+Size: 101336
+MD5Sum: 4fdc94b46b385f5930fd473fca976732
+SHA1: 325f3452278c0494af69dd4f91d15053cf342ec3
+SHA256: d09ee9111824ba71936ee99f2c3ab28773ebeca62b9c5febbd7e66172d08546c
+SHA512: ea0f7c29ff51aed70bb23d2e779ea346dd287a79ba902c98a0c5d5a4a4733d2046087c5d1ce889d3730d700b3a5e4cfd86b070f0c318fe9a6f7dd4ad14842b53
+
