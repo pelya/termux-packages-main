@@ -14736,3 +14736,19 @@ SHA1: 5e58678505adad36ec0dabcd151bb66576310c2c
 SHA256: d166e7f7a373b37a9728ffec8d1f242326ede97f2441797e0c134160b0023ecc
 SHA512: 1e324b3f9225906ebe4a6f8211a9bba3a54945cb06ff3cf3bba4035c1e78147665e0dcf23260d84fc46ecd327f14fdb31f7a63a530d33595dd75d59dafd63365
 
+Package: dia
+Architecture: x86_64
+Installed-Size: 21896
+Maintainer: @termux
+Version: 0.97.2-p20260216-1
+Homepage: http://dia-installer.de
+Depends: gdk-pixbuf, glib, graphene, gtk3, libcairo, libxml2, pango, poppler, pygobject
+Provides: xpm-pixbuf
+Description: Diagram editor, compatible with Micrososft Visio
+Filename: ../../../../releases/download/x86_64-d/dia_0.97.2-p20260216-1_x86_64.deb
+Size: 4607400
+MD5Sum: bb28c52e380a24a3547af31fc4b6b279
+SHA1: 36d2dab9096c672ad160bc8d8edbfdfcd87b93ab
+SHA256: 37686c4e2a87a4fc881c7a0f701ac7b5a8c3c25710d9010d975273c69169eb75
+SHA512: 8c3235dadf1cb372319624bf4324ab1e4d292d81315a32eb5f6d744548084df157eda12e028a8cf9c552913058536f848e2d85ddfcadd4e4e6da3208a23196f2
+
