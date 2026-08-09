@@ -38663,37 +38663,6 @@ SHA1: a1e47b3d1728fe517c275836df87adf86072dd88
 SHA256: 9d9fd8e90f81313af5bacdfd488e585e50173e7100d584da2dd06df81c29be65
 SHA512: c9c13f5c505050d153ee1d896ee28fdb93a4d5ad7f7825a0ab8b0e3d3a342f62e2e474853007cb078cea3f1e94ebe54cf4e80f314bf49cb996579d06321f56ca
 
-Package: libgpg-error-static
-Architecture: aarch64
-Installed-Size: 304
-Maintainer: @termux
-Version: 1.58
-Homepage: https://www.gnupg.org/related_software/libgpg-error/
-Depends: libgpg-error (= 1.58)
-Description: Static libraries for libgpg-error
-Filename: ../../../../releases/download/aarch64-libg/libgpg-error-static_1.58_aarch64.deb
-Size: 65924
-MD5Sum: 08176a5e07aa87779714aba56b481458
-SHA1: 99798d9b8044891c8e73fb543746a6422aef3030
-SHA256: dbe7b3927da37e2243a1afdb8c14f1dfa2b6ff922f0a592cb99d4469db7c5630
-SHA512: af25a41371a6f66e03498b4a6b78a507371ff1bc95840c5e694fedb6cdca262ec5a697867b7d6d0beb6433748baed8187bc66a0cc12ccead444f3c3df9d9551d
-
-Package: libgpg-error
-Architecture: aarch64
-Installed-Size: 604
-Maintainer: @termux
-Version: 1.58
-Homepage: https://www.gnupg.org/related_software/libgpg-error/
-Breaks: libgpg-error-dev
-Replaces: libgpg-error-dev
-Description: Small library that defines common error values for all GnuPG components
-Filename: ../../../../releases/download/aarch64-libg/libgpg-error_1.58_aarch64.deb
-Size: 121260
-MD5Sum: 382e330837bf7bc0b0a52c254fde7553
-SHA1: 7d700c8fc5c14ce252c29fc17db242a0449b98c1
-SHA256: 5e4185c928a660eaa097a15d3c308eccb55cdb7d7c0e9022420301896fe0e609
-SHA512: 013c3a2dfd2229dbca40289c43d7cd3a0de154d43401b69accb55517df6ea58ac9292ddc3d6c780ef1b0c59a32f99f102e8e3ad51bda0d73296bf230a868409f
-
 Package: seccure
 Architecture: aarch64
 Installed-Size: 108
@@ -39457,21 +39426,6 @@ SHA1: a0c671216525f78c90288beb1e290d24c7dc9bc9
 SHA256: 35607c77a77b663d23545965f46b3580284079cdb39c3c1b0d939d74c8d5c0c8
 SHA512: 1bf8d2b17a44f97f5962ab09d84006243c3f06c7660336d443b55a2701dbe7418f9c367475af13433f5de1eab663572b941e159c3e8001cc46c21a10681899c4
 
-Package: iconv
-Architecture: aarch64
-Installed-Size: 56
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Utility converting between different character encodings
-Filename: ../../../../releases/download/aarch64-i/iconv_1.18-1_aarch64.deb
-Size: 10156
-MD5Sum: 161e864f1c7e3a3907fbb55622e618a3
-SHA1: 7ecda854023b94536815715579a2d9ddf29ff0c4
-SHA256: f823770aa46c5d2a27505457da254f9812f786b65d2a3f58859252dd282e3df6
-SHA512: ca908144daedbfb7734f868208778821bd3a26c14777ec48f6cec0a28432e46ec6ae8f9fda053f29f72d2fd659162808a0f8822e2bda28d4c1470a2a32e4cf99
-
 Package: jsoncpp-static
 Architecture: aarch64
 Installed-Size: 472
@@ -39551,37 +39505,6 @@ MD5Sum: 38c335ebfb78a42b50b549b18cf03dc1
 SHA1: 5385b41af687be9e8bf72789909e5b8dd1b8904f
 SHA256: 871581dc989b1d365195797a3dcab973d1a5c256757548e50307ff7aa96af288
 SHA512: 4e8a70a7c19c3d7dfe352a53c8b1e801ba68275a0b2745daa9b546827c3921cea25694ab7c182b21a361e91d3eed9fc4d9e5d7aa7a7965519a9fb4a3a3db1f38
-
-Package: libiconv-static
-Architecture: aarch64
-Installed-Size: 1228
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Static libraries for libiconv
-Filename: ../../../../releases/download/aarch64-libi/libiconv-static_1.18-1_aarch64.deb
-Size: 558532
-MD5Sum: 416e80160e1fa3a3d1ecbf2d3cebcfb5
-SHA1: d5bfdd1eebcd20df256c2bb8e78abdd9558970d5
-SHA256: ef3a2e7bb5580799cd6af8049486757c057b34f115ad04ea6eb6fe8bb0f1bd2c
-SHA512: 404e527acaa70d099398282805bd54aa5a85c0d00f05260d4a0f3d01466dfae25e4087c6a23c07402621962cc967ae09e0b73baf05f7d3a9c2ca3132565607cc
-
-Package: libiconv
-Architecture: aarch64
-Installed-Size: 1216
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Description: An implementation of iconv()
-Filename: ../../../../releases/download/aarch64-libi/libiconv_1.18-1_aarch64.deb
-Size: 561860
-MD5Sum: b74956dbe30602fb998a141919050aad
-SHA1: 9f3d6bfffc6a6d311bdff75e5d78dc2bf393e1ec
-SHA256: 1e53ec4a50431b547a08c9ea95af2bff0727c3bd7ded9be1c61a53e5877c9f61
-SHA512: f6bea738065608a2c6ff61fbdaca48e1e901512cf50c96833bbe05afe1259aff0d3146ffc317dcc5e4de37962c10b6b2b9fb66fa649ab1f0e8b6644b6f88f3e6
 
 Package: liblzma-static
 Architecture: aarch64
@@ -40494,4 +40417,81 @@ MD5Sum: dd51e8d0f77b950538d3e76eea4acb3e
 SHA1: e0b760e5bce688ebc3190370db2b32be699b9dd8
 SHA256: b2b2d24243046e9a71956ccf5ec5fcc51c302d3b0da5e50135327ee85eac24f6
 SHA512: 0275e6d2f795b50d52d3fd92baf47f01bbcd82fb519aede9cb93802e096b40f10d2d9df8ab2a7cb58ca8a4a6f178e00c809bb298583fcc5334eb53145d8e0b8c
+
+Package: iconv
+Architecture: aarch64
+Installed-Size: 56
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Utility converting between different character encodings
+Filename: ../../../../releases/download/aarch64-i/iconv_1.18-1_aarch64.deb
+Size: 10160
+MD5Sum: 5b8cb1a3929dd9b162ab02f182f6697c
+SHA1: 37ca3e34b57b74374ae6897a3fffe5412f9bd937
+SHA256: 240f19b9b2bdc8d221391e53f27b708540024ecf4bc99b3adfc1fc11d137f7e0
+SHA512: d0f3369e30cc19ed590b1d23efd377a7b0a695aa6d3e742ec633790b688983823e99cce16742fa43c3a070775174ed7011afff4cbeea7baf757befb9c4c756aa
+
+Package: libgpg-error-static
+Architecture: aarch64
+Installed-Size: 304
+Maintainer: @termux
+Version: 1.58
+Homepage: https://www.gnupg.org/related_software/libgpg-error/
+Depends: libgpg-error (= 1.58)
+Description: Static libraries for libgpg-error
+Filename: ../../../../releases/download/aarch64-libg/libgpg-error-static_1.58_aarch64.deb
+Size: 65868
+MD5Sum: e3beb15afe3455d5fd016859f5fce2af
+SHA1: 81d9a5d77d832d0f88b34538fdbf86d8e6b7b8b5
+SHA256: 6fd3209ce7c589924d53dd876ba42219cbe87f1a789ac019eb31499bbb9782a6
+SHA512: df7f49ea7eb518c16db1978b096e81eb5fa1efe30a8027ddb5829fbeb14424527dd784351a519159ade5f06a4fb7007d6b5d8412d4aa94c6004792e2bfd25505
+
+Package: libgpg-error
+Architecture: aarch64
+Installed-Size: 604
+Maintainer: @termux
+Version: 1.58
+Homepage: https://www.gnupg.org/related_software/libgpg-error/
+Breaks: libgpg-error-dev
+Replaces: libgpg-error-dev
+Description: Small library that defines common error values for all GnuPG components
+Filename: ../../../../releases/download/aarch64-libg/libgpg-error_1.58_aarch64.deb
+Size: 121280
+MD5Sum: 727004f2dd7bdca8856780e9eaafcafe
+SHA1: 6fe471738a595287fcdcb63a5cf33a3bcbb70aac
+SHA256: c74dbd1cdd29e027c21d1b0808cd2d21c9cbb7e72a5bfa112d6474a62422ae51
+SHA512: 7d08dbcea05e76c2b8e88e5f2544c505b994569227c61ce42958232d873f5698685847366758fc4e767b77d0e1ff6102975c356544e0b0023e765ee85521f2af
+
+Package: libiconv-static
+Architecture: aarch64
+Installed-Size: 1228
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Static libraries for libiconv
+Filename: ../../../../releases/download/aarch64-libi/libiconv-static_1.18-1_aarch64.deb
+Size: 557356
+MD5Sum: 0259d0346be6010b95d01221cda3648a
+SHA1: 9c5261b0213c508b8499a35fabd78c3659065426
+SHA256: 7f16616a15b000bed2e372b09f941e44deee6a8f0ec45f6d73b9d6c7dacd876c
+SHA512: 709dbd9d734dfeaf2deb7f2871ffd3e77524a874c44ead4b76b6e43003aefb608ac2945966de6492411d5cb8b55dd9e921fdf4245e469b401ecb1195106b88d9
+
+Package: libiconv
+Architecture: aarch64
+Installed-Size: 1216
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Description: An implementation of iconv()
+Filename: ../../../../releases/download/aarch64-libi/libiconv_1.18-1_aarch64.deb
+Size: 562152
+MD5Sum: 807b67b90bac225c7af4fe9e14761823
+SHA1: fac3d103871a057d00befdde2e93f41d04983502
+SHA256: e917e9408ae01dcc523c4cb0e0416fe6fa804ee3e3848f7d915ed7f66eadb490
+SHA512: 26f2ef2bbfe28f356b96cb7a6144ee4655603ffdfaa527b35b8bacee56501e5660c823c96efa5f0143f9a2955281e09843412394ca77fd191ef33c2513e50750
 

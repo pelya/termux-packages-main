@@ -1125,3 +1125,33 @@ SHA1: b37ba3be7d0571cc0434620315b5f3e0ec49839c
 SHA256: 83d78b75acd7cbfe20fd59dca4a48e9455cba58a4d10537ea07a88c7588d5fda
 SHA512: e8c8e29dc0511ef2629ddad8feb7805243fd37e5fcd3756cf1ac818ffee0fe67a167ae134816ec7a2fa1e6e978fddc0ff6a9f6afcdc51233029c9ebf3617c101
 
+Package: ntfs-3g-static
+Architecture: arm
+Installed-Size: 376
+Maintainer: @termux
+Version: 2026.2.25
+Homepage: https://github.com/tuxera/ntfs-3g
+Depends: ntfs-3g (= 2026.2.25)
+Description: Static libraries for ntfs-3g
+Filename: ../../../../releases/download/arm-n/ntfs-3g-static_2026.2.25_arm.deb
+Size: 132624
+MD5Sum: 305a1a2047f338527fb2d927ce3667af
+SHA1: 6861695bd351dc41e38da6a99e173ba4d683d2b3
+SHA256: cb2bad01085576102bc69f96b6ce7c000fda1d5c791b23c9309ec48377d8e36a
+SHA512: 5df5fe0c43eeadf70e812e569ec86cd14b3e1e1c3a7467c1fb545ed8e590f681100c1e919097e24d66077f195c8b4cd802baf2a9880f58c174bfe2aba264e91a
+
+Package: ntfs-3g
+Architecture: arm
+Installed-Size: 1280
+Maintainer: @termux
+Version: 2026.2.25
+Homepage: https://github.com/tuxera/ntfs-3g
+Depends: libfuse2
+Description: NTFS-3G Safe Read/Write NTFS Driver
+Filename: ../../../../releases/download/arm-n/ntfs-3g_2026.2.25_arm.deb
+Size: 371616
+MD5Sum: bbb6cf15ca145a63264196964cdebfbc
+SHA1: 7a2acd951e78bc8da8cc815ee44d98dc92655c03
+SHA256: 16198ead7e8b968fec7aec77c84b0df811ce1e7717b91bcfa5dbf4e82c6c1bc5
+SHA512: f230993ec6b52d5cac09232d2d5a7bcebd7b6d5848477e41ad73c3fb845a915a71ce2936bcf184f887424f05b0497d43ee5bea5e60ce52e3ac510dc73e43a334
+

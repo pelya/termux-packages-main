@@ -13014,37 +13014,6 @@ SHA1: e54e88fb458c467ebad31d3544d09ca4fb56b8ca
 SHA256: f5d789eed6af1bc4225a4e5da37a9d8a91efc7d956d42aca58443fdc72450839
 SHA512: cc95af746638d6446e869c667a32422343c8624923450545e6b112b7065cda7585352adbc6165988ed88de73c97b088d079e615e33141f9614ff8317d018f42e
 
-Package: libgpg-error-static
-Architecture: i686
-Installed-Size: 248
-Maintainer: @termux
-Version: 1.58
-Homepage: https://www.gnupg.org/related_software/libgpg-error/
-Depends: libgpg-error (= 1.58)
-Description: Static libraries for libgpg-error
-Filename: ../../../../releases/download/i686-libg/libgpg-error-static_1.58_i686.deb
-Size: 66336
-MD5Sum: 3bfc67806e650e14c4b7d8d233b2a9b5
-SHA1: 849dd00cd78609f5aec18fae16fe8bce931fe0fc
-SHA256: 2addb5b00e12be1309d7b5a678d54ceac82e8b6a5df8b5274c0acfc5eb051ef5
-SHA512: 2007a733a6d447d61707a8578a97229c4682f44dcac459c1909d73ab6c577e966993f03ca9f2e0924502f4051036ae5371dc17bed10c76d75452d837f8e1bf37
-
-Package: libgpg-error
-Architecture: i686
-Installed-Size: 596
-Maintainer: @termux
-Version: 1.58
-Homepage: https://www.gnupg.org/related_software/libgpg-error/
-Breaks: libgpg-error-dev
-Replaces: libgpg-error-dev
-Description: Small library that defines common error values for all GnuPG components
-Filename: ../../../../releases/download/i686-libg/libgpg-error_1.58_i686.deb
-Size: 124516
-MD5Sum: dab314f0b8e2eb3f5c00b0b00f709266
-SHA1: 924df719e14d17c62a040394f0ee8046f147cd3e
-SHA256: 9461d45235a2b574abe66009f9a156e3e85cba2ac1c001dff8a64c57db321c3b
-SHA512: 5fd43cfd3296092fd704bc0c1721e9c5b3fd1ffd98a7842bb2b9ec7ec1937594552863f37f5e8d4472442f58d1190dd6c1683456608dbd67de7b2a2b5b64b198
-
 Package: libgraphite
 Architecture: i686
 Installed-Size: 296
@@ -33080,21 +33049,6 @@ SHA1: 829db6cf81b728a4466d3b84cedc09971a470ec7
 SHA256: c5d8a25a19fbcaf7bc62fea0cbef9ab9f58bb2800d07f1921568954b18096ecd
 SHA512: 2d15684972074ea978fab7ee9db69d9f36be8f4b0b8fb695912cb553a001db61fb0e5894e01844ed1de0960e757bcdc3a3d032cbb1d902d1070b53b954110008
 
-Package: iconv
-Architecture: i686
-Installed-Size: 56
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Utility converting between different character encodings
-Filename: ../../../../releases/download/i686-i/iconv_1.18-1_i686.deb
-Size: 10008
-MD5Sum: a1711a31011a932f4477b89371cf065a
-SHA1: c06a0792259a61ab738fbc2ee4c61aca7f4ab81e
-SHA256: c29306c3285e6305297974ec74341b1f4b74fbf55f85ec9c61e4a4696e0cbc0b
-SHA512: 7de9369085d36ab57bf031ce2b2eb682778d527cf76d93e4ae75ceec64fbaa1b15996adbb1197e849ad4403c575a37edcc0bd127852d45c0ae019320aabc1df2
-
 Package: libandroid-posix-semaphore-static
 Architecture: i686
 Installed-Size: 32
@@ -33184,37 +33138,6 @@ MD5Sum: 96a999c8eafa73fe1dbe809f49ad6e24
 SHA1: 478ac3a05427088959604217be6dc29f7b19e61b
 SHA256: 1040c948a9e5bc6ac262e308c9663139e1013bf4532e273568a462756f0d44df
 SHA512: c36fcf26028351dbdef75f709d0ee54d2e1873cb47a35f727afdc6b28a2d7bb4984b116b6652e27faebaaf7c93552a174062cc774dd1ee85f2ad1ba47853f74c
-
-Package: libiconv-static
-Architecture: i686
-Installed-Size: 1156
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Static libraries for libiconv
-Filename: ../../../../releases/download/i686-libi/libiconv-static_1.18-1_i686.deb
-Size: 556056
-MD5Sum: dca708b979da84c809393f9cf29f1baa
-SHA1: d08a5d9680344fe66030fb73a261f56ac08c2dd2
-SHA256: c01b28d1442179dfa0c113598f0cb343f03d5d6086cfab0400242bd80d55c37c
-SHA512: e231ad91c96c7ef6a5cb57fa99e73a3dfb99eb1ac92cdf6a0093aeabae80e002993e6c9a804439d5cf07484944fe66c0bb1ce1f199cca84a39690d086bc1c7e4
-
-Package: libiconv
-Architecture: i686
-Installed-Size: 1212
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Description: An implementation of iconv()
-Filename: ../../../../releases/download/i686-libi/libiconv_1.18-1_i686.deb
-Size: 564464
-MD5Sum: fb4c81bd6317e57cdb8eb860ad449e89
-SHA1: 4d290690d0b54b64be7cec887f0543f876d86cc3
-SHA256: e44a4543b562f54aeb20ccdda9566fb1918c9f9662b84d46b2f3037ba663d96f
-SHA512: 8c15631736570034345f0653dfcda35b4818f39950a9abdcde0906d157874892cf1f9d9ac47ff3dcf31c66a301f2ccc041cec4aa9634bde1cb73b2406c3ae56e
 
 Package: liblzma-static
 Architecture: i686
@@ -39477,4 +39400,81 @@ MD5Sum: 908475c762df43afc26309c1e22b71c0
 SHA1: e7ea60062154192190b9c23f0d73e739258fb6b6
 SHA256: cda679ed335a1238b77446e6849feb95ce3b13a6acd87ff981019a3416213998
 SHA512: 67724e7eaa417fc4a73d9986627e57741b85e2335cc232a70b2d4219002697855a876791c797012cecbe83b09539ac2c84d7daba5345e0f2e2c524be15f40fb7
+
+Package: iconv
+Architecture: i686
+Installed-Size: 56
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Utility converting between different character encodings
+Filename: ../../../../releases/download/i686-i/iconv_1.18-1_i686.deb
+Size: 10004
+MD5Sum: a348d3c18358da886a6dbd40d92203ad
+SHA1: 79274747e5264fa5aa1e6c29b3530ad7731115d2
+SHA256: edc26c26a4a5e91acda9675efc7aca4608a8a5887376bca4b33991b69a3788ea
+SHA512: df193fdd0bccafef931eaeab55095ae4a12af07b5809f415922bb3774417ab0b68d4a74d9b48c05307a07a7ec355dfe23debcac39b069f332c6f0f828e1f401d
+
+Package: libgpg-error-static
+Architecture: i686
+Installed-Size: 248
+Maintainer: @termux
+Version: 1.58
+Homepage: https://www.gnupg.org/related_software/libgpg-error/
+Depends: libgpg-error (= 1.58)
+Description: Static libraries for libgpg-error
+Filename: ../../../../releases/download/i686-libg/libgpg-error-static_1.58_i686.deb
+Size: 66196
+MD5Sum: 2ba7d7fb7a98deddcf2c442352c75611
+SHA1: 872b5712882bf442a06b58753e5fdd30a8caf93a
+SHA256: b6ad4482347c16cebb29e22ed1edc063748c1bc611ac655bdedae6e6b0bddf0b
+SHA512: 843128efeacdbc30e98ddc174ddbe8c96f45fcd232b2ab4a39840cc91cb11984d72ed87af1a0871d0f629bfbfb4fabf7ebb11b5c85dc48812ef41226ced5a8cf
+
+Package: libgpg-error
+Architecture: i686
+Installed-Size: 596
+Maintainer: @termux
+Version: 1.58
+Homepage: https://www.gnupg.org/related_software/libgpg-error/
+Breaks: libgpg-error-dev
+Replaces: libgpg-error-dev
+Description: Small library that defines common error values for all GnuPG components
+Filename: ../../../../releases/download/i686-libg/libgpg-error_1.58_i686.deb
+Size: 124444
+MD5Sum: beba5d7b496616f38f559657b6d59530
+SHA1: 65437a1fa4d14623b2ed82e8d89a943ed4caa37b
+SHA256: b1fc41ebb18742406265d8858796906ec59f4420c60a7c9793783df0964a13b5
+SHA512: 8fa94a0192d62dfa0241115ca9cc7ba94e022969114bdaa37214e4e6e368153de2bc6984bfab8a1fa1ab9ca17a50271f38255ccda9a016bb48e96a027ebca18f
+
+Package: libiconv-static
+Architecture: i686
+Installed-Size: 1156
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Static libraries for libiconv
+Filename: ../../../../releases/download/i686-libi/libiconv-static_1.18-1_i686.deb
+Size: 557556
+MD5Sum: 78d3d23aae394f44ab812fdccbfbab65
+SHA1: 82a36271121832e1518e1f2bb6842dab18b59709
+SHA256: f1d865a8a0102797f996851fe6bb1857dcbd7d0c1370321345367798b3bfa573
+SHA512: 591164ddbe51a90837cf8c103d6b265ca88a25cab32b247176874e2d461231f6bcd289d772456b312b724b71eec7d00dd415d86fb4c06eeef0526bc6638cf554
+
+Package: libiconv
+Architecture: i686
+Installed-Size: 1212
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Description: An implementation of iconv()
+Filename: ../../../../releases/download/i686-libi/libiconv_1.18-1_i686.deb
+Size: 564932
+MD5Sum: c185dcbeaba8f9efd60f988a5c0cdb3b
+SHA1: 856d46fd081b228a284a3ce192380d04d5665950
+SHA256: 7a8aed09205827a09f9ee227b00173e624b9bdce56056a0d30892841e20f49e6
+SHA512: a13f2cdfa8780cf01e02714aeedb3058ad5d50dcfadbe58c42d468282798d68bd8ad580cea6d56d354231dae1ff5525836d6b3b9318468a7b74defef4c4c0af1
 
