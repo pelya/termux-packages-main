@@ -38999,3 +38999,17 @@ SHA1: 14b86b12eefbec92b28fa9b15b010e0327d237dd
 SHA256: 34b9008cb1de0cb065a872cd5a48a306557cda7ac4e4758b1867fd78a065240c
 SHA512: 03013f5d3002a7935402a4d54a28d0494a55222e16080a0ab61362814ed08ff167ccc20247f3d87ee7bbd29c74239484d69e35238732ef379959323c49d365f8
 
+Package: up
+Architecture: i686
+Installed-Size: 3088
+Maintainer: @termux
+Version: 0.4-4
+Homepage: https://github.com/akavel/up
+Description: Helps interactively and incrementally explore textual data in Linux
+Filename: ../../../../releases/download/i686-u/up_0.4-4_i686.deb
+Size: 1063260
+MD5Sum: 9b66d0aaa8f82755a164b00945a78517
+SHA1: 6408535c67de1b9f16ecf2bd2693945a9f09aac4
+SHA256: 9916d986b22d471eef60677a11db66d30565481a4471a34ba6d72c38849f0c5d
+SHA512: 91afb28a590f9698119e0902e48d5b2241411f0624da7064c2b13a98942cc7faae283b77deab419f828d3760c454760c45de78c9709f772b93a852e41a3ad034
+

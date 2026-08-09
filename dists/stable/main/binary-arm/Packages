@@ -38252,3 +38252,17 @@ SHA1: a95b1a1d5bb8fd77dce66c3dc82aba8c91890afc
 SHA256: ded722b231ee91c35adbc4715baa070bcf4a50e9f52c2effe23f085be799ae1a
 SHA512: 151fc52e23244bc20eb9e9f4d47b80c0defbe6bdde721506c4555bde0b356e3167e320740c96419ce76b5d2b050db8b9ee09ac74a422130315b6cc74bd42f276
 
+Package: up
+Architecture: arm
+Installed-Size: 3068
+Maintainer: @termux
+Version: 0.4-4
+Homepage: https://github.com/akavel/up
+Description: Helps interactively and incrementally explore textual data in Linux
+Filename: ../../../../releases/download/arm-u/up_0.4-4_arm.deb
+Size: 925896
+MD5Sum: dbd4c8b34bc98bd55040c527fc6249ca
+SHA1: e26061a7977b3835a573b3eecfaa04017c376d46
+SHA256: bbce7e28a9d21cb58fb9cbed65338928ffd74a5b5aa9eb0ff4a5d01b99530541
+SHA512: 7d7becbb78c122574d694c222665060ea96abbfe5cfee235cfca0ce678e9751ac5c7957f6ef32acf3aa326b89472cb81498092c5fad0f1130801243c390a6e68
+

@@ -40001,3 +40001,17 @@ SHA1: 8b5eaae3ff9a6bc326f3e3bfbbfb40a59cd9b4a6
 SHA256: 43125636c475542ef6eaae5067f0fb20d842d26b1ce8f907b56dc23dec7d7aa6
 SHA512: 763f255311abd08a4a0eb2044d4880780721d9cb6f86e94e721bed67bd9fd7b9135023f2676c681143957db1732c76006f9bc3b6a2a2d283afbc399aa113b52e
 
+Package: up
+Architecture: aarch64
+Installed-Size: 3180
+Maintainer: @termux
+Version: 0.4-4
+Homepage: https://github.com/akavel/up
+Description: Helps interactively and incrementally explore textual data in Linux
+Filename: ../../../../releases/download/aarch64-u/up_0.4-4_aarch64.deb
+Size: 901940
+MD5Sum: e967a871370605ab1f48ff3e617a101b
+SHA1: 3f07b8b1f2ea4930d4066a542d13ce65d6d65963
+SHA256: 2ef24f7303b5cc4874fdc63c608bda05bbc2b8b2a8a32f1493dc2b1cef7999c0
+SHA512: 8214378ff08cc6b633bb351acd3d3d6af23daddd9f7762863eca42b29104ed6c53b7ced31ecb3ccd725ff375736d815a1b50bb8fc91e891e79f52455901c9dfb
+
