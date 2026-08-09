@@ -39956,3 +39956,17 @@ SHA1: 5443b0773b7d7fac3343aa4ea2bdedcec2bb6d31
 SHA256: 014df64f2e5469c936b235fcfb7fe832de6485ece1578a0bc8ceccd2a99fbd44
 SHA512: 82850c05325b88c24ea828bf5065d8ff060dfd3f0ff2851837d8119c06e5d4257fbbbccd8ba08f9e60f2094e949ecb4875882e6c65ead7622b1b0a6a718b6cca
 
+Package: fx
+Architecture: x86_64
+Installed-Size: 13908
+Maintainer: @flosnvjx
+Version: 39.2.0
+Homepage: https://github.com/antonmedv/fx
+Description: Interactive JSON viewer on your terminal
+Filename: ../../../../releases/download/x86_64-f/fx_39.2.0_x86_64.deb
+Size: 3585148
+MD5Sum: 83ff074eed09b150c69dacd74dcd6146
+SHA1: 28f53719a141fb100b30bed754a8f306c6c86897
+SHA256: d5c35248dcab3e4df2d77c0e516fc3d949e660db5267de68c0e865fd17e6021d
+SHA512: a605d7e3a7af9d2007b655235b2887f241378d2ecfa556f007d0ae5d3ee281cf3d133a666bdea2aa679e7d819f1fe51bc37dd5ec44b226ed1d0dd7f171d996c6
+

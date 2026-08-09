@@ -38238,3 +38238,17 @@ SHA1: 03a4adbb1eed867bde6601976bb6a8356c005960
 SHA256: 83b09cfb175de904a78810422488ab41095cb81527c604e42f5396956684c7ec
 SHA512: 4ca201707808c06d2e6762c9310efd32f412fee4f0ff8abcb7b3cd7517cb9bd5f31373c6ff86a36bd9e0d87bd21e2976d2d77f3fa97533d7da9e12324862b1a8
 
+Package: fx
+Architecture: arm
+Installed-Size: 12688
+Maintainer: @flosnvjx
+Version: 39.2.0
+Homepage: https://github.com/antonmedv/fx
+Description: Interactive JSON viewer on your terminal
+Filename: ../../../../releases/download/arm-f/fx_39.2.0_arm.deb
+Size: 3218436
+MD5Sum: 07d01329aef8431509babd07ed3868f2
+SHA1: a95b1a1d5bb8fd77dce66c3dc82aba8c91890afc
+SHA256: ded722b231ee91c35adbc4715baa070bcf4a50e9f52c2effe23f085be799ae1a
+SHA512: 151fc52e23244bc20eb9e9f4d47b80c0defbe6bdde721506c4555bde0b356e3167e320740c96419ce76b5d2b050db8b9ee09ac74a422130315b6cc74bd42f276
+

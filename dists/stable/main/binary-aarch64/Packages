@@ -39987,3 +39987,17 @@ SHA1: 957e006f2906cdb9a89ff467922fecaa47e67bed
 SHA256: edd89865aee6b7664bf49027a6235bfb77fa8ce1431a65b2c97a60bc5a34f19a
 SHA512: f0d6d878e39bbc9cdb9e98b47557afec6d16430cdfff4ffd3d590a58d15760b18ff13330c56b38a94c1353fd6babcf885560dddc842db83bc80d75338f8e29e4
 
+Package: fx
+Architecture: aarch64
+Installed-Size: 13212
+Maintainer: @flosnvjx
+Version: 39.2.0
+Homepage: https://github.com/antonmedv/fx
+Description: Interactive JSON viewer on your terminal
+Filename: ../../../../releases/download/aarch64-f/fx_39.2.0_aarch64.deb
+Size: 3115204
+MD5Sum: 3818c98ba8d27f4b45cd4c4d094dd6d9
+SHA1: 8b5eaae3ff9a6bc326f3e3bfbbfb40a59cd9b4a6
+SHA256: 43125636c475542ef6eaae5067f0fb20d842d26b1ce8f907b56dc23dec7d7aa6
+SHA512: 763f255311abd08a4a0eb2044d4880780721d9cb6f86e94e721bed67bd9fd7b9135023f2676c681143957db1732c76006f9bc3b6a2a2d283afbc399aa113b52e
+
