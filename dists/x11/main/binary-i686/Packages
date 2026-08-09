@@ -14129,3 +14129,18 @@ SHA1: 6e50bf787cce58d77f2b4471c4265e7446bf4308
 SHA256: 2f480d7514a6751ea0b8096f9fcf5885a7470b889d309f5eb3d2acb3d54bd56b
 SHA512: 86360fa2206f40d225edfd419451775119f90287a8ad2d318be4e978a716ab8d81d4723493f52fde96a85a6f29697fe497fca815d21154c8ffa6827997d63427
 
+Package: kig
+Architecture: i686
+Installed-Size: 6560
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/education/kig
+Depends: boost, kf6-karchive, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-ki18n, kf6-kiconthemes, kf6-kparts, kf6-ktexteditor, kf6-kwidgetsaddons, kf6-kxmlgui, libc++, python, qt6-qtbase, qt6-qtsvg
+Description: Interactive Geometry
+Filename: ../../../../releases/download/i686-k/kig_26.04.3_i686.deb
+Size: 2823720
+MD5Sum: 0f932c155a6314a319a087337c4852e0
+SHA1: a0f516553cc8f22e634d47cff28ed1565c5a56b3
+SHA256: c6c6656a7ac52ca9ba77154a75aede429af52f793a7518c347cbf17ebfbe5555
+SHA512: 8fa5bd4d03673b160599de7cb114a9208ad22cd25be3ef47b5c22bc93f70a9b85f886b97c94f24d700dd9c7a9480240334f230038658d48f1092e5e91066f7ee
+

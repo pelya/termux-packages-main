@@ -38971,3 +38971,17 @@ SHA1: e556e0232b18a86ba48e6228672ffd370995c1c7
 SHA256: 62f681a37941007ae0c2e58d91f40c361a00d434f08f5fc53f6a95ea8727d814
 SHA512: 87ae2ee457d3d610339f767f4cf0fcb798e642a4ba37a27be26a0d34a5e3a8ad6b2caa48765ec0455529905ff249d7426ae1b658263044a3a4c622acfaa2a253
 
+Package: stylua
+Architecture: i686
+Installed-Size: 7996
+Maintainer: @termux
+Version: 2.5.2
+Homepage: https://github.com/JohnnyMorganz/StyLua
+Description: An opinionated Lua code formatter
+Filename: ../../../../releases/download/i686-s/stylua_2.5.2_i686.deb
+Size: 2196668
+MD5Sum: 8e84403ac53ce4072ba07e640c69cf71
+SHA1: 8713083b9935668580ca901b5118524fa90a4544
+SHA256: f2e0d0dd3fabfe49e99ef0b0e02e3e4b55b7b57668c355c5eec8631a2af91215
+SHA512: 0dcbb9eedfc374bb1743d91b63e850fd84be895d2a8038aa676db1a63d5c47bc6f770a8186797e10e2462bb1fd29af130df0ea8ae191d405515072cfaeeef84a
+
