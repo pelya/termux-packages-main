@@ -36186,35 +36186,6 @@ SHA1: dafd2fe943428733d0b0477de8e21ff3bda6c58c
 SHA256: 419a98f10a17d55775d6bad598503e2824f9195eda2df3c606980e473c91c7df
 SHA512: fde950a38e862d9872b6a9208bca9c117d485f77e8054ecbf779eb0fbaa64ee8fa5364f308215022568bd08a7fbb469e1f47d6cbf1554df9c89886ce33ef248d
 
-Package: ca-certificates-java
-Architecture: all
-Installed-Size: 184
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Depends: ca-certificates (= 1:2026.05.14)
-Description: Common CA certificates (java keystore format)
-Filename: ../../../../releases/download/arm-c/ca-certificates-java_1.2026.05.14_all.deb
-Size: 96484
-MD5Sum: 3f5616d3c68f017bb715bba4e26cf2c5
-SHA1: bd02dfc424da3101d7681e329ce6545205bd66a6
-SHA256: bd5d34a8e4d5e13aebb03108305ba83f3c1c98b03625cec50ca5ad4818a7b882
-SHA512: 134145c772a29c7554534684f691a4f8c8dfb5ddd73c876a5b3cb56f47f433265116c1e5fbd4f3b42e8b2ffde20bb4a2e42d95da9dc77ea6c1e79be1156c2cc8
-
-Package: ca-certificates
-Architecture: all
-Installed-Size: 232
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Description: Common CA certificates
-Filename: ../../../../releases/download/arm-c/ca-certificates_1.2026.05.14_all.deb
-Size: 105740
-MD5Sum: a4b6d18600b49b05a7e50e0dc7dfd694
-SHA1: 8569f1fc8f2fbf06582aceed73b2e4e551450ba6
-SHA256: 1e1eda67a3a5498849b27760e208f6edff8b26efe9b6dea88163cf40a22a22b1
-SHA512: 27ad75d2605af2081f803a7d4fd7acaf444de4760a3fd8b6d25574c4ee9f97c11055ec7663ff705a0a6d90fdd89bd72c1b3de6045bb476afb268e5eba830d159
-
 Package: distant
 Architecture: arm
 Installed-Size: 5368
@@ -39030,4 +39001,48 @@ MD5Sum: a65c0d6dd0a451f0377b4b7bf3b8ff0a
 SHA1: 90c0cb93ccfb4b2cae89363d3a3f9dde5eff64d9
 SHA256: e5dbfc9cafe050bd4fc59a4dfd857c4dff6cd4292283fb88c409ec0a700b3479
 SHA512: d4312c8fd0a65704ebe0d652740cdd73a3210c30b14c6f622d8323f6871c2c5879b0734b577a778f2873094a0b209929c114670086fbd570339e1563b83ce79d
+
+Package: ca-certificates-java
+Architecture: all
+Installed-Size: 184
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Depends: ca-certificates (= 1:2026.05.14)
+Description: Common CA certificates (java keystore format)
+Filename: ../../../../releases/download/arm-c/ca-certificates-java_1.2026.05.14_all.deb
+Size: 96488
+MD5Sum: e7dfbf52c8b246b122e92fcb94b01556
+SHA1: b6a4b8d18fd54c5b3b7a364609617363e3587819
+SHA256: d567a915ee9f55cb17a5b51ac97957b47869b67a4e2e05be2ac3170643ad92b1
+SHA512: 0563dd16f9a287c7a38ca9d7aa0e3c1b00578f4891e949bb44e9fcb44fcfb8e4c7ef8a63d8fa04e15c42d00af481437ff1051674c188761943963ff14ff103af
+
+Package: ca-certificates
+Architecture: all
+Installed-Size: 232
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Description: Common CA certificates
+Filename: ../../../../releases/download/arm-c/ca-certificates_1.2026.05.14_all.deb
+Size: 105728
+MD5Sum: e01bd2d7681137ad3254df854631e59e
+SHA1: afb1d80f2845e46b9cd07ac77a559ba8240b5ba6
+SHA256: ee8305d65851d400248b1d8fdcf4ca2cceffc02be84cdc4bde1a33302bfec78b
+SHA512: 5b58f193e5156c6a85cf54a64dda90befe11c1cc9306b147ea841211996c51f175dcea6e997f010e577bdee96d69c11d5aad6126c4f165cae310e30bf2a56262
+
+Package: chrony
+Architecture: arm
+Installed-Size: 388
+Maintainer: @termux
+Version: 4.8
+Homepage: https://chrony-project.org/
+Depends: libandroid-glob, libandroid-shmem, libcap, libgnutls, libnettle, libnss, libtomcrypt, readline
+Description: chrony is an implementation of the Network Time Protocol (NTP)
+Filename: ../../../../releases/download/arm-c/chrony_4.8_arm.deb
+Size: 200440
+MD5Sum: e83a6bf05754d250aaf3ecd9358127b1
+SHA1: 147a6ad24cf9f698d4b0f009ebfd5465baccdc31
+SHA256: 7a0eaa77bb4b54bd95acad8ff291208d4d558bea77254115dbcafe1093d94f75
+SHA512: 1d4669419f6909744511b893c26d258186297d8fbb3fe38a0da2df9e2cda493f9e33d521b3b1951d01158edede9f8c6a99865e9ead23ab66235eb75a852a5043
 

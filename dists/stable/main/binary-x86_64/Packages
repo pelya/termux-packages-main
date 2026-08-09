@@ -10493,37 +10493,6 @@ SHA1: 7636f0dc667114e30133fdfce76d0fa0fda6ff31
 SHA256: b42a86e17c3308ec1c6a27f59af999f50140338e8a79184fd5605ef9680e8405
 SHA512: 2b1b9c2345d48fb08d0ae2f064c56028c341074823ac5d1a1d2def925e4d5bc7260b5a79d90d68283bb505c8df4259bb40237e3436991bb9d97327898bac84f4
 
-Package: libandroid-glob-static
-Architecture: x86_64
-Installed-Size: 40
-Maintainer: @termux
-Version: 0.6-3
-Homepage: https://man7.org/linux/man-pages/man3/glob.3.html
-Depends: libandroid-glob (= 0.6-3)
-Description: Static libraries for libandroid-glob
-Filename: ../../../../releases/download/x86_64-liba/libandroid-glob-static_0.6-3_x86_64.deb
-Size: 4660
-MD5Sum: 0e1c8b1b910bdebdcd76c0192bb88348
-SHA1: f9ff5792bf4d92eadb3cce9565d59291bcd9b877
-SHA256: b78ec1c0608307061150f3618f659bb7b4edb5cc8824dd3573af52d3362df3dc
-SHA512: df51283339f2df1e511b714cb49938a416fcab8fd999d45b227acaada118046cbe90b56fbbd1819d25ebb3cae5638b6c01d1d0b5bf2ce601aa1ab3413f33c3b7
-
-Package: libandroid-glob
-Architecture: x86_64
-Installed-Size: 64
-Maintainer: @termux
-Version: 0.6-3
-Homepage: https://man7.org/linux/man-pages/man3/glob.3.html
-Breaks: libandroid-glob-dev
-Replaces: libandroid-glob-dev
-Description: Shared library for the glob(3) system function
-Filename: ../../../../releases/download/x86_64-liba/libandroid-glob_0.6-3_x86_64.deb
-Size: 7272
-MD5Sum: 74ca165529e656f88d3b4998771eb4b2
-SHA1: ca7fef0f0c35de08b5b2787a26179aef6a88fa58
-SHA256: a47f66b053997ca3e4841e7afca207350a3b2c77d425e35d23fca1d677a6068c
-SHA512: 514584ed431dfdcfe6f2f9a5af673d7c1024148c87f96c8aba90914cbdefcae799bd360e04a3316827e98f43c31649fbfecf6a2f2d0ccfb1613a6053c1161471
-
 Package: libandroid-selinux
 Architecture: x86_64
 Installed-Size: 284
@@ -10538,37 +10507,6 @@ MD5Sum: f5d56b883e9e394d0669cabc59fbd720
 SHA1: d11750a6e783639226f00739ede104e68294d738
 SHA256: 17bcde0f7c41dce3861b78a1b0287de30b0130ddcae0337be0e28a03c8151bb1
 SHA512: d9aef52fbcf954cd81a379e69c47b56495ff27b3f84229b4b77136640cb89e3fccf96e9ded8cb67f844a7d67683962f5a0c5103addd8b36bc18703582d08b28b
-
-Package: libandroid-shmem-static
-Architecture: x86_64
-Installed-Size: 48
-Maintainer: @termux
-Version: 0.7
-Homepage: https://github.com/termux/libandroid-shmem
-Depends: libandroid-shmem (= 0.7)
-Description: Static libraries for libandroid-shmem
-Filename: ../../../../releases/download/x86_64-liba/libandroid-shmem-static_0.7_x86_64.deb
-Size: 5884
-MD5Sum: b96cd6c7a908c1998379e018b3f251ad
-SHA1: 3ba300338f6f62971ba49a2df7cf7fb91a862564
-SHA256: 37386bc975ffef0bcd54100c491df50f0642fce9207098cb3e557ed0aad386f6
-SHA512: 9b084beb87db83d7bf26b10ee844eba15ba055aee64282df9a29fb0eb6fd1020d4ea366a0475459899ed096d51454b1e773fcbe67ae0535469c746674e6dda17
-
-Package: libandroid-shmem
-Architecture: x86_64
-Installed-Size: 72
-Maintainer: @termux
-Version: 0.7
-Homepage: https://github.com/termux/libandroid-shmem
-Breaks: libandroid-shmem-dev
-Replaces: libandroid-shmem-dev
-Description: System V shared memory emulation on Android using ashmem
-Filename: ../../../../releases/download/x86_64-liba/libandroid-shmem_0.7_x86_64.deb
-Size: 7404
-MD5Sum: e36bb5ea3d4a552426d8dd6646261502
-SHA1: d2122b0789a555364848cd19ea0e9e1f777a438a
-SHA256: d37e0340a55638b0f6d415633860a24fc0a74da7be57fae50965c73e26b4e815
-SHA512: db48b5fc9b992f184eb145f51b13ddc632577840aef86210686c3ca711e5cbecc04e55e89bf710a5f8e043ab7850cca661438a3df34eb4e395463df869f4656b
 
 Package: libandroid-stub
 Architecture: x86_64
@@ -12817,38 +12755,6 @@ MD5Sum: 366fbb7695c5ec79ce357e59206af5c5
 SHA1: 232427e710a09233eab40c463015d3c15af4087d
 SHA256: dd73dffd0f987f2ff0dc62a782251ef4734798a52bc03fc648ffd30c6db3dc89
 SHA512: ae1cdf42b9ba63b8edc6e51c0b876baa2301a329ee4fac0bcaf165397069c943752e82a8c86de266a30a9afad309cd55596eafcbbc99bacc96aa54ee54bdbec3
-
-Package: libgmp-static
-Architecture: x86_64
-Installed-Size: 1228
-Maintainer: @termux
-Version: 6.3.0-2
-Homepage: https://gmplib.org/
-Depends: libgmp (= 6.3.0-2)
-Description: Static libraries for libgmp
-Filename: ../../../../releases/download/x86_64-libg/libgmp-static_6.3.0-2_x86_64.deb
-Size: 238016
-MD5Sum: 2edcdf8679afd5adabde15b2b3f55e1e
-SHA1: 8282de92ac1a1f079411586341dcf6f5092791f3
-SHA256: 68f81c12e86aa77058eb724f4c7b987ae9bdc07caa53fddb8675d34c6bccbb41
-SHA512: 9e83e6361a93a61fcea2c0f98c91e404ba9cde87a1b88200a71d304a1b064ef2345aabcc3f24224adef345ff75a8f23f9ef3bc4451886f50d77e7fe6e51dc2ad
-
-Package: libgmp
-Architecture: x86_64
-Installed-Size: 1252
-Maintainer: @termux
-Version: 6.3.0-2
-Homepage: https://gmplib.org/
-Breaks: libgmp-dev
-Depends: libc++
-Replaces: libgmp-dev
-Description: Library for arbitrary precision arithmetic
-Filename: ../../../../releases/download/x86_64-libg/libgmp_6.3.0-2_x86_64.deb
-Size: 347568
-MD5Sum: f42f8d0cb49cbb3a8fb4287462165cd5
-SHA1: ed0b702ece9674fc0fb5771df63dd274ecbe65c3
-SHA256: 767f0edbca64b5379374a00308c500c13e6b30dca29220dc3b979e2a1d210562
-SHA512: 83eb60921161d8a751fe55746916e10f3c658179d8f4936af21ea94ffc31afd997773d00a32a1a30820861f97ca9fa51720177cc8a32d07b98069c09779d6569
 
 Package: libgnt
 Architecture: x86_64
@@ -33743,37 +33649,6 @@ SHA1: bf97d55074f9351d9be4940e03d6a1d2151001d7
 SHA256: d58636f301bec5ec4397b4bf6b008025fb724cf10d583d906f50bc6d77549655
 SHA512: 299986a0172abfe6630bbab5c9edce0f52694129ff31ec665d992542b38afac3bfbdefd9979dd0b5069a62112c30e795cc61a5ae95a0219311f0280d5f2cae60
 
-Package: attr-static
-Architecture: x86_64
-Installed-Size: 60
-Maintainer: @termux
-Version: 2.5.2-1
-Homepage: http://savannah.nongnu.org/projects/attr/
-Depends: attr (= 2.5.2-1)
-Description: Static libraries for attr
-Filename: ../../../../releases/download/x86_64-a/attr-static_2.5.2-1_x86_64.deb
-Size: 6596
-MD5Sum: 5e130b43d6e97f5d768574d2ba09afe0
-SHA1: dc64ff1f8b25282f650d2a4005e30ebc565da262
-SHA256: caf886743e557d1e9c91ed975997097dab2549310714f868307f7d82ba6d44f2
-SHA512: fa822282ad4f1328a2dd7c4c0bb6fd6bbee76ab702c1189a13ad85232af2889f0a449d7c5cc42b29cf2dc5597a0fe587f074a3909a123850d8639b417487ae86
-
-Package: attr
-Architecture: x86_64
-Installed-Size: 256
-Maintainer: @termux
-Version: 2.5.2-1
-Homepage: http://savannah.nongnu.org/projects/attr/
-Breaks: attr-dev
-Replaces: attr-dev
-Description: Utilities for manipulating filesystem extended attributes
-Filename: ../../../../releases/download/x86_64-a/attr_2.5.2-1_x86_64.deb
-Size: 52932
-MD5Sum: d74a8064b1a6821d0477ef9461fc90f1
-SHA1: 559e7c49c8a5f0e276ca4b6079084ba07643cc6b
-SHA256: 269a81dbe0dafa2e2e10c1fcc41d575cfa87bfcd4b7cc295bb7a8f59794e6760
-SHA512: 8b8f1dfd8117d2a4870e447eb6d601ef5d3030a26a56f55aa6e8fa9bbac4661814d985e939c84344343ec89c48b9f7cbe9d7715892d70de06230ddec4c3590c2
-
 Package: glpk-static
 Architecture: x86_64
 Installed-Size: 1876
@@ -33820,38 +33695,6 @@ MD5Sum: 90a5acf90833ff4d857cf94ba33cdd17
 SHA1: 69c0cd6932c68b1248986ae14a923e861a808a55
 SHA256: 5e0ab99ce0556eb9cea23c75b3ac04c60433ec7fe3cf1763640ef8e25b92cb9a
 SHA512: 3d17b282c7881e7340b554551195d81c8114ab979cd11261b41758121ba1b5645abf9f99bbf92d0107b38427da8db8544d4c06d66480d807b9a5f1d7d554f720
-
-Package: libcap-static
-Architecture: x86_64
-Installed-Size: 80
-Maintainer: @termux
-Version: 2.69-1
-Homepage: https://sites.google.com/site/fullycapable/
-Depends: libcap (= 2.69-1)
-Description: Static libraries for libcap
-Filename: ../../../../releases/download/x86_64-libc/libcap-static_2.69-1_x86_64.deb
-Size: 13996
-MD5Sum: a74fe095787c942c020e54f992ecedeb
-SHA1: 8b3aff6c6378719444be3594cf445c2e5ab5835b
-SHA256: 33632c7b7ad7c072246535ab4a3a36182bad969ec227315d7aac0f572c33833d
-SHA512: 301f1d825a46a1ac536affa82e0c811e43d4a465e45fad83efb21969c2b0c893ff609663b5956623b1d39e1eb6a711cfb98ff213dd47143becf6e2ee8dec692a
-
-Package: libcap
-Architecture: x86_64
-Installed-Size: 536
-Maintainer: @termux
-Version: 2.69-1
-Homepage: https://sites.google.com/site/fullycapable/
-Breaks: libcap-dev
-Depends: attr
-Replaces: libcap-dev
-Description: POSIX 1003.1e capabilities
-Filename: ../../../../releases/download/x86_64-libc/libcap_2.69-1_x86_64.deb
-Size: 74520
-MD5Sum: 74e5cb0b5bc3e86dea45f6534567f65a
-SHA1: f94d4e23cf5f785fe68a9ed22cecbd01761f7ad1
-SHA256: 6cd32c14c546256cae65c8b333c516a12dc290f2ac75d6ff79c572f6b5fd548e
-SHA512: 933e0743925bf599768796fc6e2927a889db5ccbee727c4e1090f1c67a0a28fa90b76c9868f49b18d34692d5eb03769ea65e2c21f74a0cdc545c67d819b6ccda
 
 Package: pcre2-static
 Architecture: x86_64
@@ -36742,21 +36585,6 @@ SHA1: 5f1c661f117588f78d9afbc7cd2e9494aae59f98
 SHA256: bd87102ea4eac11d0c6ab04976204eded4d43ffd752ae45544c0b45f269ca0c4
 SHA512: 8178823bdf559bdc560511448f4257c856391eeeab7478fb049d41cec45c40f5732da0fc9e4ace96b34c55aa7b7757fb9c5af4dae062dd8b501e6acbce4e3192
 
-Package: libc++
-Architecture: x86_64
-Installed-Size: 1348
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
-Size: 359524
-MD5Sum: 61a4442ee2233dca7346b58d20806aa3
-SHA1: 2ac32315f025760d34caee5e655f3312c57beccc
-SHA256: dcff42fcf45331e7348f9e0753abc322f9451f43aa4d6c08274a0de38516a9ec
-SHA512: fdf16836aa22eb7252e39b9b8e2c623a6b02ebf0e670f4e13165af46cd4174ea4f2534a8539a6275a6d37c998e25fee1110e1c6f2716c60353c014be948d2bfa
-
 Package: matterbridge
 Architecture: x86_64
 Installed-Size: 67300
@@ -37655,35 +37483,6 @@ MD5Sum: 52da0e73441b7cd7ea72766ed3ec5dad
 SHA1: 63c243479b346581e3f4689ae4a42712ef8a4bd9
 SHA256: 927b510e6150c7fa0b6bd61e2f5097583a3e1218d915a3d31dac116d2102490b
 SHA512: 76d2eea355bfbe46094079633cdbb7a0ee06b1b026c68c2084515e23823f5794ba6d9ca5d709602fa9076b17c77c1f246d4d1a1e8b7972a4ed0bf0f46047489b
-
-Package: ca-certificates-java
-Architecture: all
-Installed-Size: 184
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Depends: ca-certificates (= 1:2026.05.14)
-Description: Common CA certificates (java keystore format)
-Filename: ../../../../releases/download/x86_64-c/ca-certificates-java_1.2026.05.14_all.deb
-Size: 96484
-MD5Sum: 3f5616d3c68f017bb715bba4e26cf2c5
-SHA1: bd02dfc424da3101d7681e329ce6545205bd66a6
-SHA256: bd5d34a8e4d5e13aebb03108305ba83f3c1c98b03625cec50ca5ad4818a7b882
-SHA512: 134145c772a29c7554534684f691a4f8c8dfb5ddd73c876a5b3cb56f47f433265116c1e5fbd4f3b42e8b2ffde20bb4a2e42d95da9dc77ea6c1e79be1156c2cc8
-
-Package: ca-certificates
-Architecture: all
-Installed-Size: 232
-Maintainer: @termux
-Version: 1:2026.05.14
-Homepage: https://curl.se/docs/caextract.html
-Description: Common CA certificates
-Filename: ../../../../releases/download/x86_64-c/ca-certificates_1.2026.05.14_all.deb
-Size: 105740
-MD5Sum: a4b6d18600b49b05a7e50e0dc7dfd694
-SHA1: 8569f1fc8f2fbf06582aceed73b2e4e551450ba6
-SHA256: 1e1eda67a3a5498849b27760e208f6edff8b26efe9b6dea88163cf40a22a22b1
-SHA512: 27ad75d2605af2081f803a7d4fd7acaf444de4760a3fd8b6d25574c4ee9f97c11055ec7663ff705a0a6d90fdd89bd72c1b3de6045bb476afb268e5eba830d159
 
 Package: distant
 Architecture: x86_64
@@ -40445,36 +40244,6 @@ SHA1: 40c61138700795b65a5d8ab2316b50e496d8dd36
 SHA256: 63678895329b1e891fb7f1c5d29838e1cb8dc7395601ca4dc4afbd69c4154b15
 SHA512: 1f14832308a715faf1d357b51ee2e3c48440239ff934685171f56a2d24405672eaae667e7afd5cb673c3378eae5460a456d91f49e4142a4d93753d34c3e1097c
 
-Package: libandroid-support-static
-Architecture: x86_64
-Installed-Size: 72
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Depends: libandroid-support (= 29-1)
-Description: Static libraries for libandroid-support
-Filename: ../../../../releases/download/x86_64-liba/libandroid-support-static_29-1_x86_64.deb
-Size: 8568
-MD5Sum: c9c9b8bb16d3e46c9d1f71c01a7412e9
-SHA1: 5ce5b0d29ad784700ad22d8469881564cb3ded77
-SHA256: 945bc0782df6ea5406ea49b4324146b97154f27a848dd4b5c6c0fa5c9ffbd02c
-SHA512: 41f383b5a4e48dc32aca1b60dd2f51836ab539dff30eea28d860dfdeecbe20a470b6bf8f774fa6028eed60d4742a46919031d6ec1c87088fb7ced78173632acd
-
-Package: libandroid-support
-Architecture: x86_64
-Installed-Size: 76
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Essential: yes
-Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
-Filename: ../../../../releases/download/x86_64-liba/libandroid-support_29-1_x86_64.deb
-Size: 11000
-MD5Sum: ea08e3cfa5ffba0d8b21310daece351d
-SHA1: 971cc631fb64977c081362f82fc825370d22e021
-SHA256: d99f2c2dc39eba7b6d48df04ec489ecc34f9ad22c2527256ceeb4502d301533c
-SHA512: 2730c5f8e69110452cc7174b1c736f89d86ee4abb872b2804d315d1ea589e84c139f3db42f0d1758ea21f7eaf30850dbba18b52ec1af8f63d503aa52e69ab687
-
 Package: libiconv-static
 Architecture: x86_64
 Installed-Size: 1200
@@ -40763,4 +40532,250 @@ MD5Sum: 44a1bea7cc68ae74ba0099d2b6dc00c6
 SHA1: f268e8bffd65db7435374e9541e7d98214055ec5
 SHA256: e51020451153c61fc1c3555dcd442a87114812e584ed7673aba54c31e37044ee
 SHA512: d3fe446e74089cff92a66190418bec33bc487c5a4d7e41467ea4e83198e51a9696e16589ab0442bdb167d26691d03e797cbd2f875872752b0bcdae9ae8ae4428
+
+Package: attr-static
+Architecture: x86_64
+Installed-Size: 60
+Maintainer: @termux
+Version: 2.5.2-1
+Homepage: http://savannah.nongnu.org/projects/attr/
+Depends: attr (= 2.5.2-1)
+Description: Static libraries for attr
+Filename: ../../../../releases/download/x86_64-a/attr-static_2.5.2-1_x86_64.deb
+Size: 6592
+MD5Sum: f4d96f6ac412c356774b47c1b051b433
+SHA1: 2def611803d74cf88ccd6878ad7f8223faa04542
+SHA256: ba51c81b6d56ace210f0085e34015c513f12482dae6291e65527ad6eb5a7e27f
+SHA512: bec4b3326bf11db87915d1b81e788e5f6d0d6382547a9b5cee4715cc96fe086e52019624fc016fa96d528585391fe5ac97649ad5b6d2d4bc046be27f2e17aafe
+
+Package: attr
+Architecture: x86_64
+Installed-Size: 256
+Maintainer: @termux
+Version: 2.5.2-1
+Homepage: http://savannah.nongnu.org/projects/attr/
+Breaks: attr-dev
+Replaces: attr-dev
+Description: Utilities for manipulating filesystem extended attributes
+Filename: ../../../../releases/download/x86_64-a/attr_2.5.2-1_x86_64.deb
+Size: 52936
+MD5Sum: 42f3deacfc750768c4fea767162e355a
+SHA1: 0043853220ee60767bddef3eaaafc83875696c56
+SHA256: 91ca2f34b5b0398725696db280d4d689fea8ba31cbdb3acf430fba82146a6d98
+SHA512: 18dcb901bb41e7e8188fa104347d4ed984858bd05a64652dfc01fa570d48027ddd2d0b2d53118491a94835a51d0eb702eab7199b54ba369faf69f0c31add86eb
+
+Package: ca-certificates-java
+Architecture: all
+Installed-Size: 184
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Depends: ca-certificates (= 1:2026.05.14)
+Description: Common CA certificates (java keystore format)
+Filename: ../../../../releases/download/x86_64-c/ca-certificates-java_1.2026.05.14_all.deb
+Size: 96488
+MD5Sum: e7dfbf52c8b246b122e92fcb94b01556
+SHA1: b6a4b8d18fd54c5b3b7a364609617363e3587819
+SHA256: d567a915ee9f55cb17a5b51ac97957b47869b67a4e2e05be2ac3170643ad92b1
+SHA512: 0563dd16f9a287c7a38ca9d7aa0e3c1b00578f4891e949bb44e9fcb44fcfb8e4c7ef8a63d8fa04e15c42d00af481437ff1051674c188761943963ff14ff103af
+
+Package: ca-certificates
+Architecture: all
+Installed-Size: 232
+Maintainer: @termux
+Version: 1:2026.05.14
+Homepage: https://curl.se/docs/caextract.html
+Description: Common CA certificates
+Filename: ../../../../releases/download/x86_64-c/ca-certificates_1.2026.05.14_all.deb
+Size: 105728
+MD5Sum: e01bd2d7681137ad3254df854631e59e
+SHA1: afb1d80f2845e46b9cd07ac77a559ba8240b5ba6
+SHA256: ee8305d65851d400248b1d8fdcf4ca2cceffc02be84cdc4bde1a33302bfec78b
+SHA512: 5b58f193e5156c6a85cf54a64dda90befe11c1cc9306b147ea841211996c51f175dcea6e997f010e577bdee96d69c11d5aad6126c4f165cae310e30bf2a56262
+
+Package: chrony
+Architecture: x86_64
+Installed-Size: 496
+Maintainer: @termux
+Version: 4.8
+Homepage: https://chrony-project.org/
+Depends: libandroid-glob, libandroid-shmem, libcap, libgnutls, libnettle, libnss, libtomcrypt, readline
+Description: chrony is an implementation of the Network Time Protocol (NTP)
+Filename: ../../../../releases/download/x86_64-c/chrony_4.8_x86_64.deb
+Size: 222744
+MD5Sum: 06be652ca2b59045c8c99eb9218cf2f5
+SHA1: d1d3d33bfa9a37436e0c05217b2290cdab6fc129
+SHA256: c6003febcfb7561ff69de886eeb53f7a9eb5d6c09f9bfd4f3f88e2020ea2fd37
+SHA512: ca69cc17497b6f49747a2826928a4d69a1babcd5d3814f462d3e0c8d6743936aa1b37afdda30f42e3e88dbc92ad20bf357d0abe8bfbd78fda06a3dcde7d45af1
+
+Package: libandroid-glob-static
+Architecture: x86_64
+Installed-Size: 40
+Maintainer: @termux
+Version: 0.6-3
+Homepage: https://man7.org/linux/man-pages/man3/glob.3.html
+Depends: libandroid-glob (= 0.6-3)
+Description: Static libraries for libandroid-glob
+Filename: ../../../../releases/download/x86_64-liba/libandroid-glob-static_0.6-3_x86_64.deb
+Size: 4668
+MD5Sum: e19a4f024fe2ce604e875c7450a70b54
+SHA1: 24f38862312278d13496dd289b5007cbcdcdc4fa
+SHA256: 8b66ab2622a814e7f60c6b5137a57bc61a73db7144d45ca7e14ba19d71e1a78b
+SHA512: 604d2c06a2e184f0087603fc4b76df737bb4e39a0593bb70ee7427d472af14e1daf5c0775a493fd3a357b987defbb415f3b0b35935a2670863c02dddae69ce05
+
+Package: libandroid-glob
+Architecture: x86_64
+Installed-Size: 64
+Maintainer: @termux
+Version: 0.6-3
+Homepage: https://man7.org/linux/man-pages/man3/glob.3.html
+Breaks: libandroid-glob-dev
+Replaces: libandroid-glob-dev
+Description: Shared library for the glob(3) system function
+Filename: ../../../../releases/download/x86_64-liba/libandroid-glob_0.6-3_x86_64.deb
+Size: 7272
+MD5Sum: a6efd5d97e5a958e133ff3bc3081faa6
+SHA1: 93caa415fecf74f8b8d3e1daeab4c8c7c66b0f80
+SHA256: 6b135264ce399e20e71f6a388712310930bfc8adde4f654c5e17e7db928fcb94
+SHA512: 06322152b1658f15b4e6078a6f8e24d7ec6682054323af4d93e8b1ff664bc7340066f2b8680f016f1b429daa6653af5acbf22c6c0023fa9ab39895e8424b0196
+
+Package: libandroid-shmem-static
+Architecture: x86_64
+Installed-Size: 48
+Maintainer: @termux
+Version: 0.7
+Homepage: https://github.com/termux/libandroid-shmem
+Depends: libandroid-shmem (= 0.7)
+Description: Static libraries for libandroid-shmem
+Filename: ../../../../releases/download/x86_64-liba/libandroid-shmem-static_0.7_x86_64.deb
+Size: 5888
+MD5Sum: b3e9e8057352c46a1ee595421360517f
+SHA1: fc781a8d01ca49cfbe1f1e2cbff17969e26f3618
+SHA256: 2abd3e072661e5023b4d2f1bea6055ffb5f39f5f4f0b3768c97f4aad2970b398
+SHA512: 29bb0706bcef885627b8488f3127be9a6f64fbff0467f7ea73603721380de96904939a8010f47b8a48a2b423ea03a9f43efa70bd471edb327f3b4f969e19bf58
+
+Package: libandroid-shmem
+Architecture: x86_64
+Installed-Size: 72
+Maintainer: @termux
+Version: 0.7
+Homepage: https://github.com/termux/libandroid-shmem
+Breaks: libandroid-shmem-dev
+Replaces: libandroid-shmem-dev
+Description: System V shared memory emulation on Android using ashmem
+Filename: ../../../../releases/download/x86_64-liba/libandroid-shmem_0.7_x86_64.deb
+Size: 7408
+MD5Sum: 1e0f41a79649758386c43a882b5a356f
+SHA1: e151bcd43b6bc245031467e9fa6ec3c0ead5ff61
+SHA256: 0d3a2932573f0ab718bc2702b7fe6b21309b32f6f6a386eca9eed56e48e08ae2
+SHA512: 88bfdf61a43ebc41a70f8926a689f62d237ed88202aa47746d2bba81743ea70a8aec8dbc46e040d07ee8304b9fb13621100a1b23e02bedd20a7580666041aa37
+
+Package: libandroid-support-static
+Architecture: x86_64
+Installed-Size: 72
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Depends: libandroid-support (= 29-1)
+Description: Static libraries for libandroid-support
+Filename: ../../../../releases/download/x86_64-liba/libandroid-support-static_29-1_x86_64.deb
+Size: 8560
+MD5Sum: 9fa10624bc9e94a311d29fa4c4c4f467
+SHA1: 5493e6cbf89e29fdd11e9870d61df2919ef4d24b
+SHA256: 1ec7e6546a8a4f8d671005fabc96811bbd73b1489762d78bcfccc3353e5226e4
+SHA512: 1105603c5aa2dd933826950d3b931849634daf772871bc3be7328bed9007db2920c4b5029505e098d33650117a7e3dd1faedc506d2ccb13cc8374b049630e66b
+
+Package: libandroid-support
+Architecture: x86_64
+Installed-Size: 76
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Essential: yes
+Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
+Filename: ../../../../releases/download/x86_64-liba/libandroid-support_29-1_x86_64.deb
+Size: 11004
+MD5Sum: 9f9425e8e8767f2a13891bd265d7ef2c
+SHA1: 51f79bd23a6627daca54058664cc023805c401a3
+SHA256: 1c33fc89f02bd129d9f8d6656b7357ba842240adb5925c5164b8ef4874bfd954
+SHA512: 82d766062c7366f91812c4f3e486675d3035131236b140fe1a8aefa26cf2c680d7047ca74297d7d5dc43bcf517ff6702d2cacc34f87857789f875296b4065820
+
+Package: libc++
+Architecture: x86_64
+Installed-Size: 1348
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/x86_64-libc/libc++_29_x86_64.deb
+Size: 359496
+MD5Sum: d6fde6c4e326bc39a75dabf2b34f00fb
+SHA1: 4575a6fcba8ad304c7f761dc0e0ecbe5c65bef82
+SHA256: 9f77184aad89edb24dae7ab4c037c63c64bef332f0aef099e0cc1aa4f0dc1819
+SHA512: 9f2b8832f23a63e78058e5b95b97b746b2608135521a5def4b648ab576cb6b744730cb80ad8539b2c9a634f38a6451b3a73ac0f6b14da220afcafa7327ddaa80
+
+Package: libcap-static
+Architecture: x86_64
+Installed-Size: 80
+Maintainer: @termux
+Version: 2.69-1
+Homepage: https://sites.google.com/site/fullycapable/
+Depends: libcap (= 2.69-1)
+Description: Static libraries for libcap
+Filename: ../../../../releases/download/x86_64-libc/libcap-static_2.69-1_x86_64.deb
+Size: 14000
+MD5Sum: e0cd9e9359358224703fb2f9b8122e71
+SHA1: 30294cf1a64d99594ffa0e275b6dfb38048c111e
+SHA256: 84d06f7faa8bd16659a37e146b25f82c1a34179a7e19b46546b349cbe28a37b5
+SHA512: 95201cc80ea30695ca4f5f1a6a9bdc3af15e476649e1d17b979d6912e805e6024e565d9f73a3391ea28a04b2d790e0efb4089762414ebbdeed131fcd36f89fa4
+
+Package: libcap
+Architecture: x86_64
+Installed-Size: 536
+Maintainer: @termux
+Version: 2.69-1
+Homepage: https://sites.google.com/site/fullycapable/
+Breaks: libcap-dev
+Depends: attr
+Replaces: libcap-dev
+Description: POSIX 1003.1e capabilities
+Filename: ../../../../releases/download/x86_64-libc/libcap_2.69-1_x86_64.deb
+Size: 74544
+MD5Sum: 0ce710ede89b65df376f53e5420d301c
+SHA1: d63b69ed5adb1d49daf17d6dba3fb49a823cebcf
+SHA256: 255f731cd6772c0d751896270f8e6f4fcfd37066128abe57cd17b877c82235a0
+SHA512: 444119ae7ddd1d5f9dfbecb6892174c499f60ddc629a77907a0c7f2c347f25f63c53aa5ee1e73e1bba4d9c3c0b01b113a2aeb4fe0d880ad12e1e7825edd460c5
+
+Package: libgmp-static
+Architecture: x86_64
+Installed-Size: 1228
+Maintainer: @termux
+Version: 6.3.0-2
+Homepage: https://gmplib.org/
+Depends: libgmp (= 6.3.0-2)
+Description: Static libraries for libgmp
+Filename: ../../../../releases/download/x86_64-libg/libgmp-static_6.3.0-2_x86_64.deb
+Size: 237448
+MD5Sum: 9ba12d4fab3033fb18d8c513566a0d1c
+SHA1: 24580533ba2a76b55e49e3b7e55e6da9533e4e7c
+SHA256: fd218ab267aa72577d882258ab67852dac38587383d32036115b493ed0dbbcc5
+SHA512: 9e3d7e71f2cf04ad819db7a1c15e0399b124a8e615cc41aedc1f3198956b178b0904df20e05705e25296231a5f032dfdb72081906c6d183265233e23d51de81e
+
+Package: libgmp
+Architecture: x86_64
+Installed-Size: 1252
+Maintainer: @termux
+Version: 6.3.0-2
+Homepage: https://gmplib.org/
+Breaks: libgmp-dev
+Depends: libc++
+Replaces: libgmp-dev
+Description: Library for arbitrary precision arithmetic
+Filename: ../../../../releases/download/x86_64-libg/libgmp_6.3.0-2_x86_64.deb
+Size: 348132
+MD5Sum: 1c6343e9d1d2409d3ba389dfda5f01c1
+SHA1: 28ce270d7074d45803ab619f5f441e0e2d6b6d72
+SHA256: 861644f87eff88c7d0fa2c4d3124bdd6f5359b9c1a958a3979a837f7eb9f5e5e
+SHA512: c7e5d6ae7b92fb15d5ef0c62b8142fc1339a579010da2c9900429da5a9d19989b80b71aef2d64cd76da76b65938b0f4ab66ba08fbe4d902dc26aa3ddc2fdbb87
 
