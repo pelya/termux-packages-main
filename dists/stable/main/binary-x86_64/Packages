@@ -40421,3 +40421,17 @@ SHA1: 9fec817a66718683b2bd1176b09cd4fd6cbb745f
 SHA256: b99e8e849ceb34eb98f8cdfee09a21d8c1868a907a2ddc8b13ed9870fe4249ce
 SHA512: 55e142a7fce998f9876c308784d0e2123a4aa5b873a3f9c61a7508401944d94f5687afc69def6ab72096f111828f4b6cb558053f25c77a1647ee7ecdf0e07b41
 
+Package: diskus
+Architecture: x86_64
+Installed-Size: 876
+Maintainer: @termux
+Version: 0.9.0
+Homepage: https://github.com/sharkdp/diskus
+Description: A minimal, fast alternative to 'du -sh'
+Filename: ../../../../releases/download/x86_64-d/diskus_0.9.0_x86_64.deb
+Size: 333620
+MD5Sum: fae6697bc876870b3854a23edc643850
+SHA1: a156afe204c59fe22fef1aedf243030b3f2e0f06
+SHA256: 7c520e7cb2c4ffebf5660030db1cfd2276d4733454948765ab7cca402bdde1ee
+SHA512: 77b9b524125aadc14bd967d52629b7484a1d74aae10eb84f7c64c9d7f9d55c4b066074333c5f7f9c09e5beb4a5237d23bff7072e7389ae87f60ba2725f66c676
+
