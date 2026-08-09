@@ -39362,3 +39362,18 @@ SHA1: 6c0ca3a13ce552f9baf1716c2f65ffe7e42ab67b
 SHA256: 5760eff9bd9e2006c246d6cb9e437561b8ca14c78ad2ef00093829677895273f
 SHA512: 250816074e31357c765177fd839004e531e3a3afab981c4cda059805207eef17499c585046d367ea9ca8167210f3527b7e375a30d6a823a06c0d7c7b97eb9542
 
+Package: pianobar
+Architecture: i686
+Installed-Size: 152
+Maintainer: @termux
+Version: 2024.12.21-2
+Homepage: https://6xq.net/pianobar/
+Depends: libao, ffmpeg, libgcrypt, libcurl, json-c
+Description: pianobar is a free/open-source, console-based client for the personalized online radio Pandora.
+Filename: ../../../../releases/download/i686-p/pianobar_2024.12.21-2_i686.deb
+Size: 39540
+MD5Sum: 0545a3b2401105b2e9f08072c109e02f
+SHA1: fc9c000f71ed718a24f51e4c030cef57e7fc8be3
+SHA256: 22882ee331bc7cfca100ea2dc6862adc6d5186d950b5c9f238198ef27b2f7e5b
+SHA512: d71ee187e961504b733d5be7e9c1162942feb0eccbf83420b53c53a55cc5c05a988cfaee583a1a94f8a528888c323953632f2fcc52f5790251678cd8b500a7f6
+
