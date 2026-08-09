@@ -40435,3 +40435,17 @@ SHA1: a156afe204c59fe22fef1aedf243030b3f2e0f06
 SHA256: 7c520e7cb2c4ffebf5660030db1cfd2276d4733454948765ab7cca402bdde1ee
 SHA512: 77b9b524125aadc14bd967d52629b7484a1d74aae10eb84f7c64c9d7f9d55c4b066074333c5f7f9c09e5beb4a5237d23bff7072e7389ae87f60ba2725f66c676
 
+Package: turbo
+Architecture: x86_64
+Installed-Size: 49880
+Maintainer: @xingguangcuican6666
+Version: 2.10.0
+Homepage: https://turborepo.dev/
+Description: High-performance build system for JS/TS
+Filename: ../../../../releases/download/x86_64-t/turbo_2.10.0_x86_64.deb
+Size: 12238720
+MD5Sum: bd6dcb127fa3ec0b68d606b736fb47c6
+SHA1: 5fcd20824857cf5b6fa1135b6aabe8181ee03616
+SHA256: d49eb9dbe6b379f1b65db2fa767e9718d50f4508769f0dfb4dc35518371bc15a
+SHA512: c0e703caa7dbad8a1cb79d3be41199a41e19158d9413158393a368039347e24b6be90da1ef94d2d649de32eabce9ae75604e4173ae325c338b448af8c30e236f
+

@@ -40466,3 +40466,17 @@ SHA1: bd77391789a8f3a4fa5875fd25ff8e4f832ced86
 SHA256: e8b27672c95ed13d34345c49efb9eee780ebf0ca382a91e12e70a1ba80c5b450
 SHA512: 55c396439560abf1544d5a286cd01e21c12673ab044094fce4ed749180df8f56831b252c0c5fcc8a6b717cb8c19a0dc11020f1ff8f814511574df451423a93fa
 
+Package: turbo
+Architecture: aarch64
+Installed-Size: 45244
+Maintainer: @xingguangcuican6666
+Version: 2.10.0
+Homepage: https://turborepo.dev/
+Description: High-performance build system for JS/TS
+Filename: ../../../../releases/download/aarch64-t/turbo_2.10.0_aarch64.deb
+Size: 10666960
+MD5Sum: c304bf8cda1e8d52d0520696825689ab
+SHA1: aa7fc59ce117129bdb1e8df90a5a10327a887520
+SHA256: dd52e62c9a06b2cb89fdf3d71cec2c7eb0752ec2dd5d378447f89bf6857890f8
+SHA512: 12caad79dfe2d55b3deee94dfadafba1ea17065caa158c25b3805e69eb88e6638a98af288be7b42fd37bdd9db54d2f50bbef83037eef8f8c0f5070a574cb5cb7
+

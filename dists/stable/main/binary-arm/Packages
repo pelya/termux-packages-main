@@ -38702,3 +38702,17 @@ SHA1: ba596b2a384b31b675ab98ea18e08747f5ee9916
 SHA256: fd0d41e5e34c8183a45dc6fe9e5861c79209a905dbf61cd3425c8c8f4233defa
 SHA512: d69d25c6f9f7bac802060bafbdfb7ec598c23f83c74a5aba0e8fdab6825e237d8b524800966d295ca97cfcae242ed9b378700bf05fa5c11f39240b4f9fba8e71
 
+Package: turbo
+Architecture: arm
+Installed-Size: 27996
+Maintainer: @xingguangcuican6666
+Version: 2.10.0
+Homepage: https://turborepo.dev/
+Description: High-performance build system for JS/TS
+Filename: ../../../../releases/download/arm-t/turbo_2.10.0_arm.deb
+Size: 9967572
+MD5Sum: cb2a68230152a88650aa01320a167472
+SHA1: a81d48b1b5e04856c1068039f6b63f89a6cb5649
+SHA256: a81a866a70d94f98ad1706edf7e61ccd4cb79f3406819296ee8fd1807e146718
+SHA512: 9307d7e1118371cc57036d998a079480e68f3cddeb5a2d22a1b3d35764c745936377fad92ddfe92f09e19d47e0a7470123c5d5006e6b6e10cfadc57dbbfa84cb
+
