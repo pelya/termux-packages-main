@@ -40779,3 +40779,18 @@ SHA1: 28ce270d7074d45803ab619f5f441e0e2d6b6d72
 SHA256: 861644f87eff88c7d0fa2c4d3124bdd6f5359b9c1a958a3979a837f7eb9f5e5e
 SHA512: c7e5d6ae7b92fb15d5ef0c62b8142fc1339a579010da2c9900429da5a9d19989b80b71aef2d64cd76da76b65938b0f4ab66ba08fbe4d902dc26aa3ddc2fdbb87
 
+Package: samurai
+Architecture: x86_64
+Installed-Size: 100
+Maintainer: @termux
+Version: 1.3
+Homepage: https://github.com/michaelforney/samurai
+Depends: libandroid-spawn
+Description: ninja-compatible build tool written in C
+Filename: ../../../../releases/download/x86_64-s/samurai_1.3_x86_64.deb
+Size: 24428
+MD5Sum: 1ebc97cc7536bfebbae470b3ecb0915b
+SHA1: ff59ac40fb1bb937b60e2f2c3f680e0782f26f9f
+SHA256: ad4e808f0bd154dd7bb3b621cc750f1c22326f49d0999911db0350f185221954
+SHA512: df8889957e0c354711ad2ab53b8075eb3f238476fcb2a93d923fb93cfd2b322420f3be8fd2ffebbf983f04f2ca87a2dfe69ede36c328cd36593706690f2b4e2c
+
