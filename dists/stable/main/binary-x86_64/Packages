@@ -39714,21 +39714,6 @@ SHA1: c506dfde794c68a41881d342a5cf4bd20126dea3
 SHA256: 24ffff4502ada74f7cdd478dff0eda3ad03632ed4e424a255be15f8c986f7ef6
 SHA512: 60347fe79df3db628df27464dc6f1dd920141a8e78f554b8fab856a50e991581ffe26e77058a8fe2b448e6a2457ff05042b72ca4a997525f3308e7d1bde80707
 
-Package: dnstop
-Architecture: x86_64
-Installed-Size: 188
-Maintainer: @termux
-Version: 2022.10.19-1
-Homepage: https://github.com/measurement-factory/dnstop
-Depends: libpcap, ncurses
-Description: A libpcap application that displays various tables of DNS traffic on your network
-Filename: ../../../../releases/download/x86_64-d/dnstop_2022.10.19-1_x86_64.deb
-Size: 32316
-MD5Sum: 18e4d5f2e43facb023f18b8c8028c85f
-SHA1: 6e1ab9a06746962abf5899325607bed9db325118
-SHA256: 453e55e8c32a2f6a3d666a0cf8713cfcffedeb24d30a04cb78e49bdf8964c033
-SHA512: b2683a07fba19af3c8721ced31dd8adc930e90de2a7e1d4f0a5647517f55757189c6649a35c00c2458a1b719999942fbf53ba97e43261688cd8548cce494a2f2
-
 Package: libpcap-static
 Architecture: x86_64
 Installed-Size: 456
@@ -39837,4 +39822,19 @@ MD5Sum: e376852d46a3a26dabb6ffa4aacbe09e
 SHA1: d6f3fb8b74afd89cf55f8b4fe93ab457be0ca689
 SHA256: 4944e958ddf5537f071076063bb8380913196573d3115ca5de19ab8d0724ea7c
 SHA512: ccfd4a0886aa118e2eb3cb49a24c134c418da4e04c641025597634c2a883ccf81e88e67fedd56ce172350b8b53b289708be613c96aaaa9af4a639454f9e7e34e
+
+Package: dnstop
+Architecture: x86_64
+Installed-Size: 188
+Maintainer: @termux
+Version: 2022.10.19-1
+Homepage: https://github.com/measurement-factory/dnstop
+Depends: libpcap, ncurses
+Description: A libpcap application that displays various tables of DNS traffic on your network
+Filename: ../../../../releases/download/x86_64-d/dnstop_2022.10.19-1_x86_64.deb
+Size: 32316
+MD5Sum: 18e4d5f2e43facb023f18b8c8028c85f
+SHA1: 6e1ab9a06746962abf5899325607bed9db325118
+SHA256: 453e55e8c32a2f6a3d666a0cf8713cfcffedeb24d30a04cb78e49bdf8964c033
+SHA512: b2683a07fba19af3c8721ced31dd8adc930e90de2a7e1d4f0a5647517f55757189c6649a35c00c2458a1b719999942fbf53ba97e43261688cd8548cce494a2f2
 

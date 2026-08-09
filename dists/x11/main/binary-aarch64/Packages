@@ -14536,3 +14536,32 @@ SHA1: 7780d4ac81a7c05bb45ce213b1c5c68145848ee1
 SHA256: ff0bad63b6e857e877957df64425faeba939a1787a1a364d2a95c4ac23dd5d6f
 SHA512: 1c4386a3be9c57c7a3fa5dcd818a4794bc70f768f9ba21ffb6d0843adc009f8aac648302526628f0f1e1c620f277ec9ff0b837da54b78de7edd0f34742ffb1ba
 
+Package: dosbox-x-data
+Architecture: all
+Installed-Size: 28596
+Maintainer: @termux
+Version: 2026.05.02
+Homepage: https://dosbox-x.com/
+Description: Platform-independent data for dosbox-x
+Filename: ../../../../releases/download/aarch64-d/dosbox-x-data_2026.05.02_all.deb
+Size: 8656800
+MD5Sum: d27d6c5521f845eed33840d9b25ffddd
+SHA1: 80053f83e8813f1c9d92538b796023203a74ca6c
+SHA256: 2213c4e395de1af4c132db365faa389bf463658ab932ca4f87e585073b86ff4c
+SHA512: c88264fd809eba604e1e75ee9d6867e79ef289dd272ca5d4ac3f2cca96009b6e0098710514bc8536767c92e4130f57c40a899852ad676187da06fd632d185c36
+
+Package: dosbox-x
+Architecture: aarch64
+Installed-Size: 15780
+Maintainer: @termux
+Version: 2026.05.02
+Homepage: https://dosbox-x.com/
+Depends: dosbox-x-data, fluidsynth, freetype, libandroid-posix-semaphore, libc++, libiconv, libpcap, libpng, libslirp, libx11, libxkbfile, libxrandr, opengl, sdl2 | sdl2-compat, sdl2-net, zlib
+Description: A cross-platform DOS emulator based on the DOSBox project
+Filename: ../../../../releases/download/aarch64-d/dosbox-x_2026.05.02_aarch64.deb
+Size: 5958112
+MD5Sum: 2859b06db1146699b00db21a05d3c11d
+SHA1: 90198b2df8a4212e60701fa0e550f56d9082e4ae
+SHA256: abf756e8d70285bc04d88c4ca341e60f6c5d1cf7184309b6479be39f7fa54f52
+SHA512: 092b8f573125c5b00d041c1304e91e2b01cc8751cbb2b06afb43aafcd9ec47309f08409030d03184365eb6b5925dbb7b94b513eeafb6e68ffd92c5641ca09cfc
+
