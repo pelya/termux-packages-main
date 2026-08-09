@@ -13857,3 +13857,63 @@ SHA1: 3cec77ab37ff34ddfb78159c4aac93851fce1a32
 SHA256: ab71f26520af40227b8949a56e768d6922a94bbb371bb648a5684f27be111cf6
 SHA512: 78b27da088a153112219c79290283ea2d3b12f3dff0bf268d51b2d8706b602d10fd8731dbd9d88b545d594f03bf62bddd3e0ba49ea05df8066e22bfe68726f2c
 
+Package: fcitx5-gtk-common
+Architecture: i686
+Installed-Size: 220
+Maintainer: @termux
+Version: 5.1.7
+Homepage: https://fcitx-im.org/
+Depends: glib
+Description: Fcitx gtk library
+Filename: ../../../../releases/download/i686-f/fcitx5-gtk-common_5.1.7_i686.deb
+Size: 26252
+MD5Sum: f102c02e19c5071bda746cd7bb76e333
+SHA1: a716da9368c634dcb200daa284fea1ddcadd9d8e
+SHA256: 9d2f832717df812e5a02945d22954ee74fe786e6f8ee5969f384537e9551aeba
+SHA512: 1027b001b5089cfdd6ad48d9d94a72fb73a5dfbcaf653c213435b07e63083b24a3b87baf51452d00742f698af6977224bf7e3f5f75dfc92d3492f8bef4eee2b4
+
+Package: fcitx5-gtk2
+Architecture: i686
+Installed-Size: 72
+Maintainer: @termux
+Version: 5.1.7
+Homepage: https://fcitx-im.org/
+Depends: fcitx5, gtk2, libx11, libxkbcommon, pango, fcitx5-gtk-common (= 5.1.7)
+Description: fcitx5 gtk2 immodule
+Filename: ../../../../releases/download/i686-f/fcitx5-gtk2_5.1.7_i686.deb
+Size: 11324
+MD5Sum: 2894d17a0d00c6a3930125f8c87cc88a
+SHA1: 55322654c4721f62c7fdffe462968979aab083c1
+SHA256: 2c1962ca1099229de87b764a539d93f4336f2b87f479ff9a74dd1195a5c81873
+SHA512: 5491675d99cba49fcd94c085fc781b64ec6c2e8570b597f0ea2e4504be7bc5a370445ca348607891159f1c0c723132a8c1d807edd04a02faf253819be556ed1d
+
+Package: fcitx5-gtk3
+Architecture: i686
+Installed-Size: 128
+Maintainer: @termux
+Version: 5.1.7
+Homepage: https://fcitx-im.org/
+Depends: fcitx5, gdk-pixbuf, gtk3, libc++, libcairo, libx11, libxkbcommon, pango, fcitx5-gtk-common (= 5.1.7)
+Description: fcitx5 gtk3 immodule
+Filename: ../../../../releases/download/i686-f/fcitx5-gtk3_5.1.7_i686.deb
+Size: 32432
+MD5Sum: 9fc9f96d1cd2def7f05e994b987741cd
+SHA1: eecce0dcc12942b30cacb58136290886c23ded98
+SHA256: 9cde79d95b08d9d5ee1157bf3001ceecf0c0f0381957599f7f3ff6aa6d3c3e4f
+SHA512: 045fe8f679e29784997cc50dcade3627f0a4393a2a71bf6d7658f717c29cb082818e507ad95c0e1021acf9605df3f2420560db315cc8de0275a8f1a29ce1b1a4
+
+Package: fcitx5-gtk4
+Architecture: i686
+Installed-Size: 128
+Maintainer: @termux
+Version: 5.1.7
+Homepage: https://fcitx-im.org/
+Depends: fcitx5, gdk-pixbuf, gtk4, libc++, libcairo, libx11, libxkbcommon, pango, fcitx5-gtk-common (= 5.1.7)
+Description: fcitx5 gtk4 immodule
+Filename: ../../../../releases/download/i686-f/fcitx5-gtk4_5.1.7_i686.deb
+Size: 31540
+MD5Sum: 579384ec41a9fb828356be0a3e628db9
+SHA1: 382d22781c65f0d3f1bebe201330e955d23bb63e
+SHA256: 9172a863f181acbe8b1361b0ea18524fa8a7b99faa1ebf29da7dbf9c90ee92d6
+SHA512: dcc1a906955b558c90429cc915909c7b6622f4f160182331f7dee542f31a5103be3846d4e3341815c9871512c3c21a96cfac54ccb596654cc06e8b0187b935ee
+

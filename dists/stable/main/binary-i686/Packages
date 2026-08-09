@@ -38733,3 +38733,18 @@ SHA1: 0eeaed119ff058e99c21bf538017a47c93695804
 SHA256: e694bcf2c248f545331352d9b11fe9ee773411e53cfae1df89f040c69c6815e2
 SHA512: 8695b6ec33ec8c8be4d95844deba5fa94db0e680175f2aa31d235c4cf16afafbc90a7127d61908927c5ec0e53aa13bb730da22c0c42a272428954312df55fe7b
 
+Package: wiz
+Architecture: i686
+Installed-Size: 1100
+Maintainer: @termux
+Version: 2025.04.10
+Homepage: http://wiz-lang.org/
+Depends: libc++
+Description: A high-level assembly language for writing homebrew software for retro console platforms
+Filename: ../../../../releases/download/i686-w/wiz_2025.04.10_i686.deb
+Size: 267172
+MD5Sum: 46f27d2cfd1b9a1763e7f982ddf4413b
+SHA1: dcfca0e46b0a8c4b93ab0f6632a833c84ca102a7
+SHA256: 475e4e43a9275fd0d3b98c3193f84f4b3abb954e3be81eb8a8ab49b8d8b5ceaa
+SHA512: d2444113b0efa50ae2e669ed0a383db1ff0f4fc8cd4556bd42328c650bb10a8b6499714c16d2cb0b3e48c4c75dc54ca43da77ec9b934410050b9b614804708b6
+
