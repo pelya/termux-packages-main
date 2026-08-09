@@ -38748,3 +38748,18 @@ SHA1: dcfca0e46b0a8c4b93ab0f6632a833c84ca102a7
 SHA256: 475e4e43a9275fd0d3b98c3193f84f4b3abb954e3be81eb8a8ab49b8d8b5ceaa
 SHA512: d2444113b0efa50ae2e669ed0a383db1ff0f4fc8cd4556bd42328c650bb10a8b6499714c16d2cb0b3e48c4c75dc54ca43da77ec9b934410050b9b614804708b6
 
+Package: php-zephir-parser
+Architecture: i686
+Installed-Size: 400
+Maintainer: ian4hu <hu2008yinxiang@163.com>
+Version: 2.1.0
+Homepage: https://github.com/phalcon/php-zephir-parser
+Depends: php
+Description: The Zephir Parser delivered as a C extension for the PHP language
+Filename: ../../../../releases/download/i686-p/php-zephir-parser_2.1.0_i686.deb
+Size: 57796
+MD5Sum: 65dc6389b5a84298b0c75ad908f4ae74
+SHA1: 9aafe0ca9524cdf29a86c3985676ca963ad7c020
+SHA256: 43dd3e806b8ab64263d0b8155eb8bbf3a5135cd59a814365f66d1f9feec5c73f
+SHA512: 5998623f4fcd5bb418ea6996fa6ed9693cf7711ae196e858216e07de6b1764c7a76495e92734948a97d7b565a86c64630b44d06b014f8d533276d2c5303fffdb
+
