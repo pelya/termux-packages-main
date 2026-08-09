@@ -14374,3 +14374,48 @@ SHA1: 9b89e8185c3c432d4622465a839906222bae183a
 SHA256: 9aadcb28c686d5f336ac16442c7b162325c73809bed914178a83b498449d1dfb
 SHA512: cb7dacd835eccfb26bc43f3205cbc8290467a13073c177241329f4a682b855e200ce17b34eb49484420463953d2051ed73c4d86c981eaf887a4df1217f2abe7c
 
+Package: geany-plugins-static
+Architecture: x86_64
+Installed-Size: 3660
+Maintainer: @termux
+Version: 2.1-2
+Homepage: https://plugins.geany.org/install.html
+Depends: geany-plugins (= 2.1-2)
+Description: Static libraries for geany-plugins
+Filename: ../../../../releases/download/x86_64-g/geany-plugins-static_2.1-2_x86_64.deb
+Size: 569088
+MD5Sum: 8e820b83e3f53515de4548c86bfb4f98
+SHA1: 08120e7f5fc4e7e2e032f02fa59d9f77f46f1074
+SHA256: b0f2c0ed5862afc9a1949df1d55450d9988928136d45bd66df4ad398701961f2
+SHA512: 40dced7e12df36c88a2f0dfb215a9c10ca14a34c6dd0d2e3c69a09793b8b3edeb672ac83b50aa654d824cd31b6412b5e40102dfcaf32c3e21080c4cb6c6f3fa5
+
+Package: geany-plugins
+Architecture: x86_64
+Installed-Size: 4836
+Maintainer: @termux
+Version: 2.1-2
+Homepage: https://plugins.geany.org/install.html
+Depends: geany
+Description: This is a plug-in for the editor Geany
+Filename: ../../../../releases/download/x86_64-g/geany-plugins_2.1-2_x86_64.deb
+Size: 1195324
+MD5Sum: d7ae908a38cb430ef0d5404d82308899
+SHA1: b1d1c59d985c4222098106bfe88499b42605f6dc
+SHA256: ad9d38d310036277e46002b0a60e958de09132e557504ae0802d54b8768c733c
+SHA512: 11801f06d3c050ab52f0d3f1788e81c684755ad9c18114f2c4412571d7b1c88efe08b2199850876e7a0b98a246b2a66ab537259ac9a9181c67440fd236a50c73
+
+Package: ruffle
+Architecture: x86_64
+Installed-Size: 30392
+Maintainer: @termux
+Version: 0.3.0
+Homepage: https://ruffle.rs/
+Depends: alsa-lib, alsa-plugins, fontconfig, gtk3, openh264
+Description: A Flash Player emulator written in Rust
+Filename: ../../../../releases/download/x86_64-r/ruffle_0.3.0_x86_64.deb
+Size: 8550720
+MD5Sum: 21b9ff1ec727e87a1758d9c5cef1554f
+SHA1: b92439d2e58b3820baac8fc39add567bfee41c59
+SHA256: 781a49a55d7d7fcd0120c8d6b97dfcae2b17ffa5de5d2df627211bebd63edaca
+SHA512: 222cdbcd0336f167540aedd8ed140797bf200dcd2d117074182c1579d5a6a4d388e36aa2bcb59075cb31f62a7bce2e766543b59c8a4273021d72cd25dce385e6
+

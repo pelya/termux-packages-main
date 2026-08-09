@@ -14143,3 +14143,48 @@ SHA1: b3b997acb85ba7ad02747df7f3736213b1167c8a
 SHA256: a81183695ff06588c9e79bd404b494fb9a919379f3609e43140248e45946d9aa
 SHA512: b33af10f9c21235420140a7bec4c88de4ce657c68c35c1e0b23446f9d389148af4d528c40592f2a37604c12b635a43af95f33c182558353db4acb6d8317389a6
 
+Package: geany-plugins-static
+Architecture: arm
+Installed-Size: 2416
+Maintainer: @termux
+Version: 2.1-2
+Homepage: https://plugins.geany.org/install.html
+Depends: geany-plugins (= 2.1-2)
+Description: Static libraries for geany-plugins
+Filename: ../../../../releases/download/arm-g/geany-plugins-static_2.1-2_arm.deb
+Size: 551096
+MD5Sum: 1da5e28bc602d6cffca6ea278097b276
+SHA1: f0222955f4f685ebe4a69ad38a81b3e85719368a
+SHA256: d2bbd091bf15444ad1431155be74d6e0081105a44afcfd346fe00f212f1ffcd9
+SHA512: 9ae8f3994718dd7f272611396660735eacbe54f679cf27c68dc866082540f7b4bf6fda93715fba2a5a83d8796380c481d036e7d8b1f7c7c7dc3b1f06bb128288
+
+Package: geany-plugins
+Architecture: arm
+Installed-Size: 4276
+Maintainer: @termux
+Version: 2.1-2
+Homepage: https://plugins.geany.org/install.html
+Depends: geany
+Description: This is a plug-in for the editor Geany
+Filename: ../../../../releases/download/arm-g/geany-plugins_2.1-2_arm.deb
+Size: 1118140
+MD5Sum: 882c2177f23fd01350032d014a1e9d47
+SHA1: 7821c1d7bfa1f35fef04795973c9c812d3946c5c
+SHA256: de747648cb39edc154f4aa1d0a0100499bfc99acf1c3cbc028fef35232affe42
+SHA512: 292d2693bff6188d0a8fd41101cf4f90540dfedc7384bb2865807b8bff64e8e1ef3c29481b770a308cd370ac9995951eb598d16eccdbaf7b585386167a8a3fdb
+
+Package: ruffle
+Architecture: arm
+Installed-Size: 18972
+Maintainer: @termux
+Version: 0.3.0
+Homepage: https://ruffle.rs/
+Depends: alsa-lib, alsa-plugins, fontconfig, gtk3, openh264
+Description: A Flash Player emulator written in Rust
+Filename: ../../../../releases/download/arm-r/ruffle_0.3.0_arm.deb
+Size: 7507780
+MD5Sum: 61f24460142e00878b152c8a4beee16d
+SHA1: 5d1074b9817cbb0193024f886736fc5d519d8a12
+SHA256: 89c736f515a8c7921768f32311b3b2da94b02196d80f4d6c76cdaa115e4aea83
+SHA512: 59cebe9728d725094510e5f20dde112e57dcc85d3efd704ce9fa7f1ab45ce92b4b77def2c321023f5baefc582aca3d283573ba2a308b0c563fd5055a46af6a91
+

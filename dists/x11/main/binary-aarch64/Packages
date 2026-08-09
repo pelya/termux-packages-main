@@ -14446,3 +14446,48 @@ SHA1: 31e6fa87ef75b9c34382032e0cedccbc9b6546aa
 SHA256: 8172b55518eb918ec020a12bf5bc45ea3a38d8d2993917010778aa720fe57f48
 SHA512: d9fa6e505cbf8e11777d0a6b785e560be5ff7ac785c0cf8b78356f6f9eea21d83ff15909570d4a63046e1ee656c2f43a364b2593175444e1beac2f03f9fd03b5
 
+Package: geany-plugins-static
+Architecture: aarch64
+Installed-Size: 3736
+Maintainer: @termux
+Version: 2.1-2
+Homepage: https://plugins.geany.org/install.html
+Depends: geany-plugins (= 2.1-2)
+Description: Static libraries for geany-plugins
+Filename: ../../../../releases/download/aarch64-g/geany-plugins-static_2.1-2_aarch64.deb
+Size: 583892
+MD5Sum: 3a75751c0fc07bcdf5558ccfd2de13b8
+SHA1: fb44e5fe10c0b6e9fb74eba198233058c5793575
+SHA256: ddbb30ba0434b187572025cb093daffa5ce06b29740ea21c82b9e4cf02a2cc68
+SHA512: 552fbd889f9d007a1af090dd29b3f4e3fe3912ee75d534e2ce574f6d728a8a66baf29c6ed0b490e35c94d767005b15f6c652686445158f8095d68561840afa8a
+
+Package: geany-plugins
+Architecture: aarch64
+Installed-Size: 4888
+Maintainer: @termux
+Version: 2.1-2
+Homepage: https://plugins.geany.org/install.html
+Depends: geany
+Description: This is a plug-in for the editor Geany
+Filename: ../../../../releases/download/aarch64-g/geany-plugins_2.1-2_aarch64.deb
+Size: 1156260
+MD5Sum: 8f16cd437174225468b075b15516ffb3
+SHA1: ff84a569038ccbbb92f7f677e4ba20f4e39b4b7e
+SHA256: 8ac4c402a0062b7e05809111e17314e6e76288bab7a619c711228a5392e35ccd
+SHA512: 2b3647f67e9c785b59af51521f0a46564fedabb5664ac85001ee246a9d756ab31b5ee5002174f79c43a3b901cde489bbeff1edf68aa83d4677da6bdbc00a985c
+
+Package: ruffle
+Architecture: aarch64
+Installed-Size: 26772
+Maintainer: @termux
+Version: 0.3.0
+Homepage: https://ruffle.rs/
+Depends: alsa-lib, alsa-plugins, fontconfig, gtk3, openh264
+Description: A Flash Player emulator written in Rust
+Filename: ../../../../releases/download/aarch64-r/ruffle_0.3.0_aarch64.deb
+Size: 7518580
+MD5Sum: 9ddebb17029555e51dd89b26e60e9fbd
+SHA1: 542b798375db5ac33aeb1303726faa9a5e228885
+SHA256: 7fffcf1ae5e41c253e752799a3adbb2ff9ce81b3b6f1d81e26f4de48a7f08569
+SHA512: f96b8a5cfd7cfaa3d036b3790e9b0a2f81761d618e5ed5f6e68438bec42a63b606c1faf6d4c101b7e46327c8a697824a9aff4cfe507609c1cad11ad09923df8c
+

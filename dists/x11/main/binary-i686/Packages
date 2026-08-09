@@ -13932,3 +13932,48 @@ SHA1: ead32a54ac197fe75bcaf73fcd45574c137923e1
 SHA256: b94616858253f16ea2f0cc9eb6eeacb81d3134e77fdae31672aa3fa3e78e1d53
 SHA512: 11ccf3f96cdb614b17d829c69f8ddcc4552a12c49f9f51d60f95987e5204ccac73c35cacdfd7b11b50f5ab5e585c0010ef517f39654ef6805a65cb32af239ece
 
+Package: geany-plugins-static
+Architecture: i686
+Installed-Size: 2728
+Maintainer: @termux
+Version: 2.1-2
+Homepage: https://plugins.geany.org/install.html
+Depends: geany-plugins (= 2.1-2)
+Description: Static libraries for geany-plugins
+Filename: ../../../../releases/download/i686-g/geany-plugins-static_2.1-2_i686.deb
+Size: 567232
+MD5Sum: 502c4a578b14fa6663377925ed86c2ba
+SHA1: 9f2f0680ef5a7bc59455b6f952604b0579874617
+SHA256: be438d26c8b4e387c766d541c37c338b8786eda6a27249c0167d561a1d40cb13
+SHA512: 8dce31abd9352b90d936d917fddc60a90c999e638795ec7270c785bb2e86502f6287e34c6b54ce27f038ccc5f3f1ba576bc9129961028da02741d326be288724
+
+Package: geany-plugins
+Architecture: i686
+Installed-Size: 4640
+Maintainer: @termux
+Version: 2.1-2
+Homepage: https://plugins.geany.org/install.html
+Depends: geany
+Description: This is a plug-in for the editor Geany
+Filename: ../../../../releases/download/i686-g/geany-plugins_2.1-2_i686.deb
+Size: 1174192
+MD5Sum: 0b36ab54d2dfd7960888ebd37ab446a0
+SHA1: 19a842e4e86821c1f2018f384dee26b78e9237d8
+SHA256: 00c1c4edb552d559f0e7a60f044c484d5a62b6484501b957dbb84a4a0c81ff53
+SHA512: 45544c3ec5a53a8f3661b204257fce07e1ad75c90ddb2de19dd4034fa3e5a720d462d4391b03639a4d9876eb8fa159989a23c21b72f2f6a6ae36d9dbd8533120
+
+Package: ruffle
+Architecture: i686
+Installed-Size: 30848
+Maintainer: @termux
+Version: 0.3.0
+Homepage: https://ruffle.rs/
+Depends: alsa-lib, alsa-plugins, fontconfig, gtk3, openh264
+Description: A Flash Player emulator written in Rust
+Filename: ../../../../releases/download/i686-r/ruffle_0.3.0_i686.deb
+Size: 9186592
+MD5Sum: b89f6ded87a2cbcebb8633a3dec70c3b
+SHA1: 7e90dceba1d1656c0ce8175c0868bbaa56ad2be1
+SHA256: cd0679b4c895b7b9f210d48a9b336af161d0d8d5d78362433355d83bbab50a1c
+SHA512: 6b0ec90cac9a53ce4120a867810abeab7127bb95007bd7e31196d27f8524f4592fe342268ada86e71548458dab549bdff3068986bda50cd061cdfa1696dd8660
+
