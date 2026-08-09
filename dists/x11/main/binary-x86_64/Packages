@@ -14752,3 +14752,18 @@ SHA1: 36d2dab9096c672ad160bc8d8edbfdfcd87b93ab
 SHA256: 37686c4e2a87a4fc881c7a0f701ac7b5a8c3c25710d9010d975273c69169eb75
 SHA512: 8c3235dadf1cb372319624bf4324ab1e4d292d81315a32eb5f6d744548084df157eda12e028a8cf9c552913058536f848e2d85ddfcadd4e4e6da3208a23196f2
 
+Package: wine-stable
+Architecture: x86_64
+Installed-Size: 3119264
+Maintainer: @termux
+Version: 11.0-2
+Homepage: https://www.winehq.org/
+Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
+Description: A compatibility layer for running Windows programs
+Filename: ../../../../releases/download/x86_64-w/wine-stable_11.0-2_x86_64.deb
+Size: 154137872
+MD5Sum: f5b4db01798c5de68dbbb1a5eb0e03a0
+SHA1: 8ea5b44665667c4aeed09cbbc0ffbedfc90c22b4
+SHA256: 19768d59d29ea0bb11452128204f37cfd4a05ed08da80f1663bf9f1d4894ba42
+SHA512: b963c333aa3fe5d0ae99667e60f080e246efe3ee5cc1f7ca45ae8860959d21d9e32fdc864ae02f42261e3607dc7cd8e9de6be6013257080f6064e471ce212e3b
+
