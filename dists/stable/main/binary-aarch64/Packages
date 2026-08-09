@@ -41034,3 +41034,18 @@ SHA1: 8accb29c8f81386678cdda8d86fe8d901304bce7
 SHA256: cd3dd65b0e3f31c5eb2456aabcd7fe2ba7e69c46d8e3c7daa7a9562dc8ee8e98
 SHA512: 44224183ecc82bfdbc3115b0e95d56ea90ed4b1abc3abe29818d0a27697a37baeeb3ff64a03ca9973171abf99101cb244d9687c0fc13fc2091445fb222390921
 
+Package: direvent
+Architecture: aarch64
+Installed-Size: 332
+Maintainer: @termux
+Version: 5.5
+Homepage: https://www.gnu.org.ua/software/direvent/
+Depends: libandroid-glob
+Description: Monitor of events in file system directories
+Filename: ../../../../releases/download/aarch64-d/direvent_5.5_aarch64.deb
+Size: 101624
+MD5Sum: af9b005bd7499271d31e170bc3c133c2
+SHA1: d0c19c9caa216b24525bb3dddce7f914b0970251
+SHA256: 291f9ef7de84bcf8076720affe28894e9ebc3481329093ff850d7a1d34ddd0ab
+SHA512: c5ee809e21b115d5c06d91a01c0f4409a54f21c04b257e0407d9bf467685704ffa423d5d60399fa02c5e041938ff713f3d1f1fb7e3029881fe37f6fabd71b965
+
