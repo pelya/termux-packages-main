@@ -39273,3 +39273,17 @@ SHA1: ae358c7c4019a09a4a34e0ae1c08e357d6270bc7
 SHA256: 31fd32781d132e40c25f027e7dffbcc74d15ffa4c1be21fbc956eb70d7ecdecb
 SHA512: 64238415832644b6d0b738f454e1db2bb027ed8bb9c89f070ff492fde4303ecfda68346596fa52034882fdbf5c66d9a41c94d074802fa60014528cf4ba2994d5
 
+Package: libseat
+Architecture: i686
+Installed-Size: 136
+Maintainer: @termux
+Version: 0.9.3
+Homepage: https://sr.ht/~kennylevinsen/seatd/
+Description: Reference implementation of a wayland compositor
+Filename: ../../../../releases/download/i686-libs/libseat_0.9.3_i686.deb
+Size: 24960
+MD5Sum: 36f78270083854a99dd556bc102b1448
+SHA1: 7b9d69a567dab6c1dad9780d0a0edd651685d0e3
+SHA256: fe3b8a7a687e4fdf771c561dc1dcfe5ada00b6b3990e9391bebd95655602f1dc
+SHA512: bed5c7ad92d15c2eb3c664e2e3bf2876d1777b15c13358b1f8bbf5ddd9418e59e54bf3cf6e02d2dfdfe1df82d6f48210a6c4fbdd5f16b47fb9cb06b127baaf2b
+
