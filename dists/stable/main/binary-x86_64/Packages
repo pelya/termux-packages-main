@@ -40116,3 +40116,31 @@ SHA1: 133c392ec51d714a512c93a8f8132c0f30e58f84
 SHA256: 19c8c8b39b8a13396ac8bec2117089710b375c0dce361fcddeb14440831d0860
 SHA512: 914267b350720837f325cb1b061eadead767e580dacea6f708cde9574e8b08b54981ed67a515de1f417c6a32fcf73d1b15507d088ca27737d0da5941fd51d1aa
 
+Package: cppi
+Architecture: x86_64
+Installed-Size: 104
+Maintainer: @termux
+Version: 1.18-2
+Homepage: https://www.gnu.org/software/cppi/
+Description: Indents C preprocessor directives to reflect their nesting, among other regularizations
+Filename: ../../../../releases/download/x86_64-c/cppi_1.18-2_x86_64.deb
+Size: 20488
+MD5Sum: bcfdda2b171083c9704a81a25ae57349
+SHA1: da1f531963f84862dad853b76df9832cb3657c06
+SHA256: 4148ee49022a0e77edcc305ee0f8cce172e87e57cfdc92b1d61668fd110c51e2
+SHA512: 5acebaa8d1473c76b15a3badc99a1a71518ab91789262a5e26a6d5b37a56fdd9555b7b94a03faf55c66deed3ff4764c89da4e192ebf04d8f65ce910463cd94b7
+
+Package: dnglab
+Architecture: x86_64
+Installed-Size: 12152
+Maintainer: Florian Wagner <florian@wagner-flo.de>
+Version: 0.7.2
+Homepage: https://github.com/dnglab/dnglab
+Description: Camera RAW to DNG file format converter
+Filename: ../../../../releases/download/x86_64-d/dnglab_0.7.2_x86_64.deb
+Size: 3166104
+MD5Sum: 95fb32178a346ba22c04f136250b1d8c
+SHA1: ec5d3b988e8fed68a31a67b63c4bede5c8f9d725
+SHA256: 8d782c94d96b632da1bf48ebae83901527842d0bbc574718ea55ab3d31d47011
+SHA512: 9780165d92c28f75133bb7b7cd77e96fe3552e3fbfb6ea2592b4ef6b5bdffff8641250ddd8e4c11a7134b212f2b9c04151316d7bf83e6c539d84870cb4a0088f
+
