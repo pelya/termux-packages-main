@@ -41005,3 +41005,18 @@ SHA1: 849fd85958f29e5e875ec231ed761595e5310596
 SHA256: 5ae9ed62496dcf2bdc37dde1de407881c8f15f49f60aa3712f5d04558a15eae0
 SHA512: e788a080c7710ffe9c76cfa80ed1f17530ee06684225b9bade6d1a29725396ff18680c75c184897b2e95a36e5be22d6251f80e9903d4f11d35d6e363164ed7b7
 
+Package: boinc
+Architecture: aarch64
+Installed-Size: 5320
+Maintainer: @termux
+Version: 8.2.9
+Homepage: https://boinc.berkeley.edu/
+Depends: libandroid-execinfo, libandroid-shmem, libc++, libcurl, openssl, zlib
+Description: Open-source software for volunteer computing
+Filename: ../../../../releases/download/aarch64-b/boinc_8.2.9_aarch64.deb
+Size: 609236
+MD5Sum: 742fe04b6f7e8d85bf40705d634b8721
+SHA1: b2db74afaa2097a4567fec0629598ec6e016f440
+SHA256: 39bfc1b2e20e6a074fbaf73612f23f5b60a8b18182f1106ec4de15ff4b06688c
+SHA512: 0237bcd38f8acca4886c0b55db807fee3b6dd1190e070c3b5555e1aa52675e3f5142c228ca303517631fe63c32d75a415e4e95f544126a7b0390cfae819552a0
+
