@@ -38808,3 +38808,17 @@ SHA1: 0204a01402257bf7a8b493fd2b961d8053550ff8
 SHA256: 85fb955f0b9318e635fa60a47d13787139ffac1bf38f91a4120ae1d07293f5fd
 SHA512: 6b336346c3cd8e7731dae9abab7344e94d76e934f3aa8f9b27654f1fe8c2de2276db203e32e207f1885e42a36eb25ba2112a0d9ee8c556df512b7f77db8c3e8d
 
+Package: hexyl
+Architecture: i686
+Installed-Size: 1136
+Maintainer: @termux
+Version: 0.17.0
+Homepage: https://github.com/sharkdp/hexyl
+Description: A command-line hex viewer
+Filename: ../../../../releases/download/i686-h/hexyl_0.17.0_i686.deb
+Size: 421144
+MD5Sum: 6fb9da3d0a95fb673ad8fd0595ffcdc0
+SHA1: 186515be0b5a1b123811b00c3146c566af7caf58
+SHA256: c4ec1bb399f16ff86521a38ca322d3d6e2ab4efb8940757cbe978a9d47a4993b
+SHA512: cc9055d60d015d6ab875e5bfe197f71c1c3ddd61737ad85c55466ffd2d54bada643e80eef6b5f0921213a9d273888d67b2d9ecaecf75a41631f2583a10add5fc
+

@@ -39810,3 +39810,17 @@ SHA1: c3a2a979f79ac2acff16770b207e7d2de39fb14b
 SHA256: af105d58d72a1da25ac6a9185f1bf174233a35f3cf1968795d5458ecf6e4abdb
 SHA512: cc1607ff495e4e3692cac66f2a0393dd1b17820516b9c440bc0ec87171309b05c259cea5df4ee6367f5a43785d012b0a8b614e658c43ab5ad785d9975d37a2b2
 
+Package: hexyl
+Architecture: aarch64
+Installed-Size: 992
+Maintainer: @termux
+Version: 0.17.0
+Homepage: https://github.com/sharkdp/hexyl
+Description: A command-line hex viewer
+Filename: ../../../../releases/download/aarch64-h/hexyl_0.17.0_aarch64.deb
+Size: 341148
+MD5Sum: 9ac585e4f93a859345c33d54e4ecd947
+SHA1: d4e1067f24ab2af49f3750cd487e541f58b96c3c
+SHA256: 73f478bbb45fbfbaf8770f36afa0766eb27b00c3ad3bc343de8248b6a0ba8650
+SHA512: 1975fe08ca33c98ff933b2564d0092bd999d4a7726deab712b34c648bb280b52281feb7e46ac4b847364ae2017bdc4a85399575d25f2ddcbf1ca5d3973c71dad
+

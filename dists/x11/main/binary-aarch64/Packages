@@ -14521,3 +14521,18 @@ SHA1: 199e9ba370aadb3e09dad1504b0f01d2c99f831f
 SHA256: a818e2fefe38308e31018a3ecdc58233532effbcad48ddc88da2440d379e0a49
 SHA512: 2f3a4d0a12fd6a9a61b87b615b36533d740140fcaae29147675464e2d17860f5383c544b3b99ffafe356544e3ae7aa4e4b0ffc02e305f67344dc09fcb1ac9c49
 
+Package: galculator
+Architecture: aarch64
+Installed-Size: 984
+Maintainer: @termux
+Version: 2.1.4-25
+Homepage: https://sourceforge.net/projects/galculator/
+Depends: atk, gdk-pixbuf, glib, gtk3, libcairo, pango
+Description: GTK+ based scientific calculator
+Filename: ../../../../releases/download/aarch64-g/galculator_2.1.4-25_aarch64.deb
+Size: 62540
+MD5Sum: ec251644b2fb7cf0df64613e13b08f99
+SHA1: 7780d4ac81a7c05bb45ce213b1c5c68145848ee1
+SHA256: ff0bad63b6e857e877957df64425faeba939a1787a1a364d2a95c4ac23dd5d6f
+SHA512: 1c4386a3be9c57c7a3fa5dcd818a4794bc70f768f9ba21ffb6d0843adc009f8aac648302526628f0f1e1c620f277ec9ff0b837da54b78de7edd0f34742ffb1ba
+

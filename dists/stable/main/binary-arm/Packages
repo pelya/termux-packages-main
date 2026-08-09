@@ -38061,3 +38061,17 @@ SHA1: b03f159be51d1b2009ff50bd4a827d3fb5d582e6
 SHA256: 335063d7a8762dae089d571bb767470e129ceff8575ed8f8ec216e910153168c
 SHA512: d64cf1be34d290aa01dd5391d08743625acd177c9c94ac9bf365ce6da8db42a14f8e81f6bea4087852772013af0c5af18642585dbc6abfb1f4f9c302e1a131b7
 
+Package: hexyl
+Architecture: arm
+Installed-Size: 720
+Maintainer: @termux
+Version: 0.17.0
+Homepage: https://github.com/sharkdp/hexyl
+Description: A command-line hex viewer
+Filename: ../../../../releases/download/arm-h/hexyl_0.17.0_arm.deb
+Size: 350364
+MD5Sum: 5123134ff5f2127ef8edd76e4176ee88
+SHA1: d226f45c08ceb8c798d3aca5a0186cc42c48c661
+SHA256: bd2cbe2ffadd879d0c6156e65a645fd4c18060e33b479818390c79d16e608c32
+SHA512: e3e03b35073fce31e1c42092f11de8676a159ebbeb1f52671a57daa8e4aa70b6541bbf4b77a341e4967153773f3348547721f81ab08928c73cac2c63f86c9b4f
+
