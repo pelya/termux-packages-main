@@ -38703,3 +38703,33 @@ SHA1: 3f013b293122526cf33d9f1076a3a55f78ff983d
 SHA256: 7eaae2817b47a296fef845fa829782cfb59fce778e76a8837a70d853ed0588db
 SHA512: 09730a58a723855eed207c22f002e924ca081933a684633022fb6241ee4e2e7422d36342478021855f0162469a11188aa41d4faffc736ecb99f41c05ce9656ce
 
+Package: pocketbase
+Architecture: i686
+Installed-Size: 31364
+Maintainer: @termux
+Version: 0.39.6
+Homepage: https://github.com/pocketbase/pocketbase
+Depends: resolv-conf
+Description: An open source Go backend
+Filename: ../../../../releases/download/i686-p/pocketbase_0.39.6_i686.deb
+Size: 9454716
+MD5Sum: 0ffcaaf46ffd9df76e378468b3dcc15f
+SHA1: 4248703807774080714f1ce1acc6fb841567bc98
+SHA256: ca2363f3307773bb73914bca851a9277a36e6d11978417a514c2518a4a9f093b
+SHA512: bb37d3e558f946eeeb339ac2c10981bc6d0ca02213f5a3140d65f681265b5fda23832283c7ec8cc460caf2e0789b456be74962a748fca957f34e6b1ba53d583f
+
+Package: xorriso
+Architecture: i686
+Installed-Size: 2604
+Maintainer: @termux
+Version: 1:1.5.8.pl02
+Homepage: https://www.gnu.org/software/xorriso
+Depends: libiconv, libandroid-support, readline, libbz2, zlib
+Description: Tool for creating ISO files
+Filename: ../../../../releases/download/i686-x/xorriso_1.1.5.8.pl02_i686.deb
+Size: 945044
+MD5Sum: 1fbaf291750de451d56eb121be11ddb7
+SHA1: 0eeaed119ff058e99c21bf538017a47c93695804
+SHA256: e694bcf2c248f545331352d9b11fe9ee773411e53cfae1df89f040c69c6815e2
+SHA512: 8695b6ec33ec8c8be4d95844deba5fa94db0e680175f2aa31d235c4cf16afafbc90a7127d61908927c5ec0e53aa13bb730da22c0c42a272428954312df55fe7b
+
