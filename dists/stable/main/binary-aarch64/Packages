@@ -40132,3 +40132,18 @@ SHA1: 217f0a86725f7063115e6afda22fa080d32dac13
 SHA256: 47f1efedb482f7e3effc2a8b3becd276942d85ea6ea123b2b25ec402ec28ddc8
 SHA512: 32f89bd64046d2e0136aada21943c764b069a094c66e9ef7b38ea5839571ebd3bf90294703d7429e042c5141cdf3ad355fccc980640b59c0f4b2d62209f668b5
 
+Package: go-musicfox
+Architecture: aarch64
+Installed-Size: 20444
+Maintainer: @anhoder
+Version: 4.8.5
+Homepage: https://github.com/go-musicfox/go-musicfox
+Depends: libc++, libflac, libvorbis
+Description: A netease music player in terminal.
+Filename: ../../../../releases/download/aarch64-g/go-musicfox_4.8.5_aarch64.deb
+Size: 5569240
+MD5Sum: e64df4f19f12d909cb900b8d6330edfd
+SHA1: ed85bf28f45454d47a28a4cfc894621f234e3045
+SHA256: a0a52a1d7df25eaffb4a1e23138ccaea98fb53827fcc529a8f233971d15919cc
+SHA512: 536ca1dcb82d2bb320bdde8fc08ed2ac355d505a3e66a867143362d639ba327213a4c3fb9eaf72c1d62179a0afac054e40371013ac91889d7fa7433d0dec58d5
+
