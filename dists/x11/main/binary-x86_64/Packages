@@ -14284,3 +14284,18 @@ SHA1: 8552140e3b28bfe0e284c73db76adadf57ca33fa
 SHA256: f10859f7c99c9feb7d5dd219b546181f192b4f084ef0f133467bb3c1750a246e
 SHA512: 380fc8a102743bcf9a486b6038ef0d749f14459f24abf969ca44d68d0414ecd016ea318e53d4c56db89cd4913d03ca90ca5e21a800c7f14f2fb6595ca2dece45
 
+Package: kf6-kpeople
+Architecture: x86_64
+Installed-Size: 892
+Maintainer: @termux
+Version: 6.28.0
+Homepage: https://invent.kde.org/frameworks/kpeople
+Depends: kf6-kcontacts, kf6-kcoreaddons, kf6-ki18n, kf6-kitemviews, kf6-kwidgetsaddons, libc++, qt6-qtbase
+Description: A library that provides access to all contacts and the people who hold them
+Filename: ../../../../releases/download/x86_64-k/kf6-kpeople_6.28.0_x86_64.deb
+Size: 134352
+MD5Sum: da34be2a2a672a444a2e77712b431aca
+SHA1: cc9e6c6e93de3a257dc9f5f624e7c44c815c5d30
+SHA256: 5606c66e979af6fae3868c7ca14d461b7496358ca8ef1b0e1e14a45b656dfef3
+SHA512: 3d40358440e9946f3803df0991532a7deb9e53e4c2153ba2724e7dc083ec86cb0b3692ebb0b5c3bc8fc1b9f3c693ae2d5c3b0c4c103665d3776efbd1b8bb4fa5
+
