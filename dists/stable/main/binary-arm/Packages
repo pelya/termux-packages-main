@@ -38339,3 +38339,18 @@ SHA1: 175942b52657cc500988ba443d956ac454cc35d4
 SHA256: 97fbd1b71aef395353d861343d50e4d32abde451c382c82d0ac26e8b287f18ed
 SHA512: cb3b9a5c3129cb5ad0bbd7313cdcb1e79c8f1da5cf73e382af984fdc40f4f6ff12f1d3ce785f2b816c9d5090b4bb1dc9a47b47b6d6453df0152af65a4173bd59
 
+Package: libspatialindex
+Architecture: arm
+Installed-Size: 1012
+Maintainer: @termux
+Version: 2.1.0-1
+Homepage: https://libspatialindex.github.io
+Depends: libc++
+Description: C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API
+Filename: ../../../../releases/download/arm-libs/libspatialindex_2.1.0-1_arm.deb
+Size: 246056
+MD5Sum: 81220851d98aeb560c7a43381e368641
+SHA1: 747c9adf631489c5e76039626f86c17b342c408c
+SHA256: 94e66b7b21946502f749d6ea9e1396028f25e022bee48f1a620c27786a5c51b9
+SHA512: 204bdc92d34ffb14aa6e4a1bdcc83f73d09b765fc31068ed34a6f4ba20782724626740010840b337b594c6e728a83b2bc9b4fb2526eb9e3a103810b25de38554
+
