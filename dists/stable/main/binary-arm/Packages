@@ -38883,3 +38883,17 @@ SHA1: 678bb57fb9d125ad3ee2f9d4b2c0318aa6d2f40e
 SHA256: 6fe6b0cbe041c6157174c24e26d0ec4baafbd3629f1c5eadeac855c10e24464b
 SHA512: 6d2878a03843c07aa10057a89acf04ed72db313601997f740fa0c0b257e6f6887b9f1419efc08b2628bcdbf0af5a16a9a2beb18783a6fcc3ac41477ae67ca8e3
 
+Package: gojq
+Architecture: arm
+Installed-Size: 4236
+Maintainer: @termux
+Version: 0.12.19
+Homepage: https://github.com/itchyny/gojq
+Description: Pure Go implementation of jq
+Filename: ../../../../releases/download/arm-g/gojq_0.12.19_arm.deb
+Size: 1249996
+MD5Sum: 87fb89142f0573cc422a605e2d8d2f9c
+SHA1: 9677c086cc9aea9c4a897ab6e0ebc4e006c150f8
+SHA256: 619eebddf0aa46766cf32b900fa9c3b21c247d6b3f86da0ee074323ca3bbec3f
+SHA512: 8095db90c49518d8bbc55d86dff7c60dd7bd2bbb84a03fd9114c2154002ebcc3dd8147c0dbc0458f052ba8fd34b77a9c9ac4f4c509dd7dfeb32cb74e35881396
+
