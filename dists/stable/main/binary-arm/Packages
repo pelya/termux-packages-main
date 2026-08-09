@@ -2447,21 +2447,6 @@ SHA1: ec4e02d2317e7c24f9d3134381e89ed1367c5c24
 SHA256: d3ee9198cc195899aff19ba14e7b4fa8b5c6f7ae366aa1355e676ee5f45364bd
 SHA512: f4d795f62a356554fedcafc0b6fe7cc1c57040ec784bf0e7672dbd81c566270148e165561e12ea558e9df3e7276ef24e18e9b04a3394bba1d1d5998cdbc5314f
 
-Package: cli11
-Architecture: arm
-Installed-Size: 624
-Maintainer: @termux
-Version: 2.6.2
-Homepage: https://github.com/CLIUtils/CLI11
-Depends: libc++
-Description: Command line parser for C++11
-Filename: ../../../../releases/download/arm-c/cli11_2.6.2_arm.deb
-Size: 82540
-MD5Sum: 5d270a6421d4cf29f15f7c65ca630573
-SHA1: d8a21603332ee5a23abe441162130f51743d34cf
-SHA256: 4aaad67b624bf8bfbd24a66d2f78fec4f5d8c63e7c1a9d4da84f00aaf85003f9
-SHA512: a70d2afd86266ed5c9592e76c0ffa13906cb5f824e3191f5a1a3ea94bc3f76328dfd381a51504cb5bd4e3c292a653789b5571f033cb3048cb48c3bd19ab091eb
-
 Package: clifm
 Architecture: arm
 Installed-Size: 1688
@@ -10216,36 +10201,6 @@ SHA1: 9d99edddc7c4b7423c1a6673e77ad1c3142cc29b
 SHA256: 28b0e12ebed849c6d16d255d479b423671892215a216464723caf33d0f03683d
 SHA512: 3a8473f155500d5de3e5fdb0a228c792a8ec689bd5d2474778e18b8bd89853dd7993c745fa230afaae2f29f13e7734639ba6676336d16ef043bc2fa9c3bd83ba
 
-Package: libandroid-support-static
-Architecture: arm
-Installed-Size: 64
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Depends: libandroid-support (= 29-1)
-Description: Static libraries for libandroid-support
-Filename: ../../../../releases/download/arm-liba/libandroid-support-static_29-1_arm.deb
-Size: 8164
-MD5Sum: 30dbcc8c0d0c8a9f55d729d5c1c1577b
-SHA1: ff2aa7fbaafebf3d5b9668dd9cbf866d6e971e2b
-SHA256: e34093fcbfcb1d9d45a731decdc12ac41d6a058c55be2d46f08885a3d8fc8d28
-SHA512: e3265146ffeb1f447dbf54d4fafa61fee10324df37a1767f394a8ed8bb0714dc53f79e369e96d333a2813d9c956efd0255d836fac8fec330702b041b1136c94d
-
-Package: libandroid-support
-Architecture: arm
-Installed-Size: 72
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Essential: yes
-Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
-Filename: ../../../../releases/download/arm-liba/libandroid-support_29-1_arm.deb
-Size: 10404
-MD5Sum: f6129bc2f6c4e78ecb8e2e4e6b60dfba
-SHA1: 1d38b867be2a0301f0a3e8a8542fb6bc8d375763
-SHA256: 699bdd0a651de5376ff6f71d1f1d60f476b83dca91648290a3df3fec8d7c47cd
-SHA512: f7d70640329bdf3dcfdaa74da60be7940653ec3b390b2eeb83d41b01b0b35664edd49722ad4a321d2e83d2e187d9f4ba4bb9e4d2b65a03965cfccfdb7acb2783
-
 Package: libandroid-sysv-semaphore-static
 Architecture: arm
 Installed-Size: 32
@@ -11599,20 +11554,6 @@ MD5Sum: 464715f5c1a91ca9b311e6892bf931ce
 SHA1: cc651aa3a1dc61303f3b0fc1291ddf401b72634c
 SHA256: 0d1d0e2e854ab9e101b83c17e1e5d837bcdb23c1f854977ea7e07463da448876
 SHA512: bb73016c49ea67e3f9d24af33487908f56985a88b87e7c891c6a74fb15b386fcba2bd0662305636f2f4ccc2690778cc4cd8dc64ab875ae60f78ebec65cf0f223
-
-Package: libdrm
-Architecture: arm
-Installed-Size: 860
-Maintainer: @termux
-Version: 2.4.134
-Homepage: https://dri.freedesktop.org/wiki/
-Description: Userspace interface to kernel DRM services
-Filename: ../../../../releases/download/arm-libd/libdrm_2.4.134_arm.deb
-Size: 174900
-MD5Sum: 6ae7026a7f138f21ac5411b6a146e6fe
-SHA1: e6ed1856077fdbe1ed050797a0d342433298dbf8
-SHA256: 0c9533766cbc81b4c20bfd2ea3a019477ad1e66f29685ff2190fda2565af25f5
-SHA512: 55cb35c4321a9dfa0ed159fc0aec6053fbba87d2eb6d17894f6785b6f6e28dd2f08094384d6461f97fb6db400f03b4f6aae327d3f9287a2ff397efd698005613
 
 Package: libduckdb-static
 Architecture: arm
@@ -35540,21 +35481,6 @@ SHA1: 82036513aee8a9f7553c0589f9b896e2c319ac76
 SHA256: 50274b47a3ba2a0791ce2dc31af2fa3e0cd550f1a2a5f25929d878ce63a639e9
 SHA512: 76c3875a1c355427d1f3ae2aff5c788650d939b8692b0f7e5bce5f4bf9c75cc7f10c5cb964c2ddb7681e8742d0977af4380b98d6c1f31bb040076de4832bcab8
 
-Package: libc++
-Architecture: arm
-Installed-Size: 984
-Maintainer: @termux
-Version: 29
-Homepage: https://libcxx.llvm.org/
-Essential: yes
-Description: C++ Standard Library
-Filename: ../../../../releases/download/arm-libc/libc++_29_arm.deb
-Size: 318048
-MD5Sum: 7f35eb1dee4c241c15aa69a2016d7695
-SHA1: 80b70e0383a02b0c20f91be9829fde92e233e014
-SHA256: 1549bc4a0eef9c6a9645b8d394071b886682f8bf742128ddc553ce8aecb4a32c
-SHA512: 65461bca6854eb5d440149e50f3aac22f406f74bf071414f3c4e93a8e5bae575015074965d3c973881daa8d77450d202872773695f9a9df28316c8d31c8a6670
-
 Package: matterbridge
 Architecture: arm
 Installed-Size: 60320
@@ -38730,4 +38656,78 @@ MD5Sum: 55710ce350024b4473e0aa0eee34bb2a
 SHA1: 021c248a1560d4b36c327c511c9d1ce4422b384f
 SHA256: 1b7a6e8329de508ecdd7e27195e195d071eb80178ea1748f812710d4b6d36089
 SHA512: e467cd426334d947c370f03e1dedee111f88395dcfcde6312126a7bfa9eb04d298af660564a6f25a257c68726bf92f46789b081857e5990eee129a6f097c5a57
+
+Package: cli11
+Architecture: arm
+Installed-Size: 624
+Maintainer: @termux
+Version: 2.6.2
+Homepage: https://github.com/CLIUtils/CLI11
+Depends: libc++
+Description: Command line parser for C++11
+Filename: ../../../../releases/download/arm-c/cli11_2.6.2_arm.deb
+Size: 82596
+MD5Sum: 586ffce5f854f77ec406378ba5db29e7
+SHA1: 6f23201b4473b188535e0adb3118bba99d37f537
+SHA256: 6fe4beeb31eccbe2730ab7801110dee9cafff6ccefd196e131cfaeaf53d30bf5
+SHA512: d8d661b0e338ede6060d7a58a35e12e4066f29eee7a38c656dc09ff913d4150fb453939c78a54145f35aebb1b5f32cdfc844d2e2485ddfa7659244ea2673316a
+
+Package: libandroid-support-static
+Architecture: arm
+Installed-Size: 64
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Depends: libandroid-support (= 29-1)
+Description: Static libraries for libandroid-support
+Filename: ../../../../releases/download/arm-liba/libandroid-support-static_29-1_arm.deb
+Size: 8160
+MD5Sum: 808fff0c91f9ed3d3aa9d5e25e261386
+SHA1: be48ba14709d1f1ed0f6cf82c2d3642ea5033ab2
+SHA256: 629b3a8553fe25e1862e09b2f834c840534863e5352cbc8b6d1768c716c582cd
+SHA512: 46df3845856620e450c54c41d9f02393b6d8e522563dd62d5367a3aa93a33b1d40ce520eeffca8598492bba7b437e657d0ebc428e636031834e198482392407e
+
+Package: libandroid-support
+Architecture: arm
+Installed-Size: 72
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Essential: yes
+Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
+Filename: ../../../../releases/download/arm-liba/libandroid-support_29-1_arm.deb
+Size: 10400
+MD5Sum: 13b483083dcaaecf3d44a3b0b900510c
+SHA1: 9a139826cb1bc96da6c063ed2d8a4874b5a8efaa
+SHA256: 466854ba6fdebb81bd5a5108aa27a27782ef787f631c01068813c193b7024470
+SHA512: 67035c85a006236fe797fa45ba4016c2330ac933ee2b08a9b31706061da17073ce9d94311131ec385c6a6f376e55ce594bf9f04ef048141b2d6d48e2f27cc8ba
+
+Package: libc++
+Architecture: arm
+Installed-Size: 984
+Maintainer: @termux
+Version: 29
+Homepage: https://libcxx.llvm.org/
+Essential: yes
+Description: C++ Standard Library
+Filename: ../../../../releases/download/arm-libc/libc++_29_arm.deb
+Size: 318076
+MD5Sum: 7c09db5d715fde239b03c3adf684467f
+SHA1: a0c94d80df719810253298ccf6def220feaabac4
+SHA256: 15a5ba5969671e395fd55760bb953a51ba923fb6a3e5de333b2e0950a3074d33
+SHA512: 733f8a36af1723a11995ec66e9dad6f9da41a778ae81536a226c006d3b95515770c059807ff8e668d7862b7e34fbfb42fe327f4c1166608c4c26b576494ab61a
+
+Package: libdrm
+Architecture: arm
+Installed-Size: 860
+Maintainer: @termux
+Version: 2.4.134
+Homepage: https://dri.freedesktop.org/wiki/
+Description: Userspace interface to kernel DRM services
+Filename: ../../../../releases/download/arm-libd/libdrm_2.4.134_arm.deb
+Size: 174988
+MD5Sum: ec5d66165ada5a8a635cd8280bb5a262
+SHA1: 253b9fec2382183ad482eaac3fa2b2d7324a2eb2
+SHA256: 4eb126b1f0bee8dc27dcbf8a30096490ad4fa386e45b2c16604b99b1167e45f7
+SHA512: 1abe1f2c1e7efbbc0c78f51f285cfa076c7ffaf9d22a65e0ad2fab5a19554a694402c8a1815a47588af41d5b5f7dfe6ed8a904078b8a2ae74f6c4e089fd3a476
 

@@ -14445,3 +14445,18 @@ SHA1: 603722f738114870ebcff9c461e89f8fbcd97049
 SHA256: bd0bac9b1a9ca0bfbc45e451ca45d692950334e83f7161ac84712e6525b00457
 SHA512: ae31a0918069ae64144b58a1e4c308be76508f3a2f1efe99d8f15e993e2057987977bac53f5967ebf7de2f408dc1d366f0f7f6358713b11dd8c1acc73bd5e9a3
 
+Package: quickshell
+Architecture: arm
+Installed-Size: 4648
+Maintainer: @termux
+Version: 0.3.0
+Homepage: https://git.outfoxxed.me/quickshell/quickshell
+Depends: hicolor-icon-theme, libc++, libdrm, libglvnd, libwayland, libxcb, mesa, pipewire, qt6-qtbase, qt6-qtdeclarative, qt6-qtsvg, qt6-qtwayland
+Description: Flexible toolkit for making desktop shells with QtQuick
+Filename: ../../../../releases/download/arm-q/quickshell_0.3.0_arm.deb
+Size: 1155908
+MD5Sum: 533d47fd5597bf3c2be6c783063ae461
+SHA1: 9d49b10156f7f5757ee4d20ac6246320aafc4a92
+SHA256: 00916f7cf0effaec63caecf87f7214725ef0902892705a966a05b1d2b09b2f16
+SHA512: 53fd1810339880c191d09ec151610f02912e86611520199e0e64a7b57971c96eb5b57108c17d999b3060030a2b599814e246590f062d9bc1c0bbf82d542346be
+
