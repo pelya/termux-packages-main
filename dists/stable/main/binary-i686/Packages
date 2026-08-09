@@ -39287,3 +39287,34 @@ SHA1: 7b9d69a567dab6c1dad9780d0a0edd651685d0e3
 SHA256: fe3b8a7a687e4fdf771c561dc1dcfe5ada00b6b3990e9391bebd95655602f1dc
 SHA512: bed5c7ad92d15c2eb3c664e2e3bf2876d1777b15c13358b1f8bbf5ddd9418e59e54bf3cf6e02d2dfdfe1df82d6f48210a6c4fbdd5f16b47fb9cb06b127baaf2b
 
+Package: libpipeline-static
+Architecture: i686
+Installed-Size: 144
+Maintainer: @termux
+Version: 1.5.8-1
+Homepage: http://libpipeline.nongnu.org/
+Depends: libpipeline (= 1.5.8-1)
+Description: Static libraries for libpipeline
+Filename: ../../../../releases/download/i686-libp/libpipeline-static_1.5.8-1_i686.deb
+Size: 27564
+MD5Sum: 079d2fbff23d372f8a4652769ed8028a
+SHA1: 99b50dc8fe12ea9f04bb4eacb72f5af128b7aab6
+SHA256: 80aa4cd48c347b25728e1c291cf2135bda2b06dae17be28716a55d3833b857f1
+SHA512: f7390c649bbd28068aad2541cc9b999cdfd1bfdd16a8f432f4206b70d9515744fda3d8f8d6b6144ed3b996e5e00be33f75280bc97d58655274bb1915da969ca8
+
+Package: libpipeline
+Architecture: i686
+Installed-Size: 140
+Maintainer: @termux
+Version: 1.5.8-1
+Homepage: http://libpipeline.nongnu.org/
+Breaks: libpipeline-dev
+Replaces: libpipeline-dev
+Description: C library for manipulating pipelines of subprocesses in a flexible and convenient way
+Filename: ../../../../releases/download/i686-libp/libpipeline_1.5.8-1_i686.deb
+Size: 36132
+MD5Sum: f9391ef93eff38ce5d84a6df7798eb82
+SHA1: 783a538f2ed4e5a461d9ddbd92ae744d460124fe
+SHA256: 56da2e68ab34208b81feae9987f35580c96280544e6090f3c13d027b642413e7
+SHA512: aa09371b1c5ea618429dd8332107a754eaa82cd4da52f6ecdbe7cb1ac81a540c8778ccf5bb25a13b2d04d21caa753be82807a35cd0131cd68ab59490ca03b30c
+
