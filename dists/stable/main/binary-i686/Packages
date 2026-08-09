@@ -39056,3 +39056,18 @@ SHA1: 4a7d0f6c903b984b3f7926f2e506209b27273b24
 SHA256: 5643cfa28e4fa7e8c87a970055746f1bb2a9f005ca155e015ec7aa76d43ff9b0
 SHA512: ee3421bd7647432d31bd942d7942ac1d190f8c2158798267080a9e9b6eb25b13a95d4eea351e3fe57f400a892df670285f9cd57d51bad90df5f72e2389f2cd17
 
+Package: fish
+Architecture: i686
+Installed-Size: 35676
+Maintainer: @termux
+Version: 4.8.1
+Homepage: https://fishshell.com/
+Depends: bc, libandroid-support, libc++, mandoc, ncurses, ncurses-utils, pcre2
+Description: The user-friendly command line shell
+Filename: ../../../../releases/download/i686-f/fish_4.8.1_i686.deb
+Size: 7976152
+MD5Sum: a04463ea7ed99055967801cc4d8945ea
+SHA1: a79440664e35772520fa9f09c6163b26be1a529b
+SHA256: acf03421688513edc8df4e1680949aaeb642e8d78a37490cc6ea704451861924
+SHA512: 385950216092bf87feb18dbb6cd70472bba0a06d8dc5c13fc68997f50a623ec38c5b76c23173ee77951fcce06f1ace83992fb709577ab5611972867bcddd585a
+

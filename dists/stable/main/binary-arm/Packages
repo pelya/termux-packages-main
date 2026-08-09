@@ -38309,3 +38309,18 @@ SHA1: 57f61cd859bff9195d952636034a03df983a6aac
 SHA256: 733c743ae8ddd14892f78b46ead4ed20947c58fa144bfcdc044e08577acbb8dd
 SHA512: 342989235569015c55e177c297f53a4a162ca424cdf685b29e252e2447eeb5f7e1f75bc8ea0137f0b412ae76e7a5428a5fb73a5d515e540955432331b554473c
 
+Package: fish
+Architecture: arm
+Installed-Size: 31092
+Maintainer: @termux
+Version: 4.8.1
+Homepage: https://fishshell.com/
+Depends: bc, libandroid-support, libc++, mandoc, ncurses, ncurses-utils, pcre2
+Description: The user-friendly command line shell
+Filename: ../../../../releases/download/arm-f/fish_4.8.1_arm.deb
+Size: 3159444
+MD5Sum: 095d862b26c81db4a11ba3e3b50527d6
+SHA1: a95a76088ae7aade3ac2e2276d44158c45b9c4c9
+SHA256: 10ff5f9c384910f82dbc31d662e970a24300de30179a4e93946f610409425882
+SHA512: b45fa9eb669bf4311e0f164de2d774a798a67b73f0a64f096e3414f06fe6990e9beac2d08e84da649a95f7687d7104c697b7095f99c45f444dbc862acd069495
+
