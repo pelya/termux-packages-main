@@ -1303,3 +1303,9 @@ data/data/greater.underscore/files/usr/share/man/man8/iwspy.8.gz                
 data/data/greater.underscore/files/usr/bin/hdparm                                hdparm
 data/data/greater.underscore/files/usr/share/doc/hdparm/LICENSE.TXT              hdparm
 data/data/greater.underscore/files/usr/share/man/man8/hdparm.8.gz                hdparm
+data/data/greater.underscore/files/usr/bin/wavemon                               wavemon
+data/data/greater.underscore/files/usr/share/doc/wavemon/copyright               wavemon
+data/data/greater.underscore/files/usr/share/man/man1/wavemon.1.gz               wavemon
+data/data/greater.underscore/files/usr/share/man/man5/wavemonrc.5.gz             wavemon
+data/data/greater.underscore/files/usr/share/wavemon/LICENSE                     wavemon
+data/data/greater.underscore/files/usr/share/wavemon/README.md                   wavemon

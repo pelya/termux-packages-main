@@ -1080,3 +1080,18 @@ SHA1: 5835213a88741df0aa228b9ca0bdee8ef6702218
 SHA256: 621a0857ac4e7db6a4a64cdbe4fe66fe6036ef93f703edc1c7478add49fde685
 SHA512: 531c223acad11afd132b2cfd93ce4112f745883b18119ba5064538a4653bc288e34030a79dbd88b4240e87e1ae3e5e8986cb1d632a7b2f616276e8a8697ba016
 
+Package: wavemon
+Architecture: arm
+Installed-Size: 160
+Maintainer: @termux
+Version: 0.9.7
+Homepage: https://github.com/uoaerg/wavemon
+Depends: libcap, libnl, libnl-cli, ncurses
+Description: Ncurses-based monitoring application for wireless network devices
+Filename: ../../../../releases/download/arm-w/wavemon_0.9.7_arm.deb
+Size: 44112
+MD5Sum: 0569fd4ef94e92ed190e1d4b4f4a0eb3
+SHA1: 5a72a61388beff04dce468c5160c3a3d818d4f08
+SHA256: c23b97ddd9c295efea1a9affe01e70eaa05006baf7bd2863a962e31bd46ef3bc
+SHA512: 8adeb6a9b8e6ed5da90a718aaeef9edff23748170152333fb7b588f489b45c03cf93844a0d9d6657080cd6861032ac970fd9926436edcea61011c9dba19e3b91
+

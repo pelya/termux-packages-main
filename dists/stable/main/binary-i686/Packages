@@ -38793,3 +38793,18 @@ SHA1: 865a683e7c1d1784503f01dd987c38c069e28cef
 SHA256: 02d8f6d5637124c21f48002928d7fe6787064060aff9e9d9e7c3cc8a0f9c8994
 SHA512: 0f6cb9f2e6afbebb3dce1fbf19a29100c4985230e2ce836f26a0d96c9f4725ec9a9e4a787c8f8819f1a7f779a7113225036fdb3aabcffe6482755528e7549797
 
+Package: seerr
+Architecture: i686
+Installed-Size: 927200
+Maintainer: @termux
+Version: 3.3.0
+Homepage: https://github.com/seerr-team/seerr
+Depends: nodejs, libvips, termux-services
+Description: A fork of Overseerr with focus on adding support for Jellyfin/Emby
+Filename: ../../../../releases/download/i686-s/seerr_3.3.0_i686.deb
+Size: 139184716
+MD5Sum: 54902d1e5eed4b762b934c5b57895c5a
+SHA1: 0204a01402257bf7a8b493fd2b961d8053550ff8
+SHA256: 85fb955f0b9318e635fa60a47d13787139ffac1bf38f91a4120ae1d07293f5fd
+SHA512: 6b336346c3cd8e7731dae9abab7344e94d76e934f3aa8f9b27654f1fe8c2de2276db203e32e207f1885e42a36eb25ba2112a0d9ee8c556df512b7f77db8c3e8d
+

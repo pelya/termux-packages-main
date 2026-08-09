@@ -1080,3 +1080,18 @@ SHA1: 49fddfcd68b04c24b330f108c0d3a887c8877699
 SHA256: 0b6b3530dc60017b763b159f8e86a0a096deb638dcbf9d4049a12f57e69b3c1b
 SHA512: 44da2dbbc8359c7f0c0d156c453c306a699728f6fdab5ae8c6daf998ea234ede8746a191de19f2a70a95d7b9c467323e01b209c2d0ca7a95ca88d425379e7ca7
 
+Package: wavemon
+Architecture: x86_64
+Installed-Size: 184
+Maintainer: @termux
+Version: 0.9.7
+Homepage: https://github.com/uoaerg/wavemon
+Depends: libcap, libnl, libnl-cli, ncurses
+Description: Ncurses-based monitoring application for wireless network devices
+Filename: ../../../../releases/download/x86_64-w/wavemon_0.9.7_x86_64.deb
+Size: 48064
+MD5Sum: 3d224a6e372cdbae774c70978fd96261
+SHA1: f4714a5b52058cf0a8157c3816ceaca0663c48f9
+SHA256: 201cf566a4d33e6e8d89b913ee86c5eb920bb39ed7b54c43c4fa61536ba4edfe
+SHA512: 25355e54271ce5034b4a864e8188711ff8e5cb7c28c729639fac3c9a150e25159b73380bdafb94aeac5ca871547b0eca2726ec3bf4339f7f39f725fe48645dfd
+
