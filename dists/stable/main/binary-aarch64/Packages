@@ -39912,3 +39912,17 @@ SHA1: 26c0d658445cfa72a4a9267fc4ef97761235127b
 SHA256: 5156d63a58ab5645df9bd621bbb13f2bf3c3afc49c091e47644ccf13deef1577
 SHA512: 15a75adde8e4fe7d1277b1274a3c2c9f94b70def195a5e0f70c1968f10b0788feffa3f28c98f7917d0d6846977458e0f8d4c257632d1584bc39cf8e7bc704507
 
+Package: mksh
+Architecture: aarch64
+Installed-Size: 368
+Maintainer: @termux
+Version: 59c-3
+Homepage: http://www.mirbsd.org/mksh.htm
+Description: The MirBSD Korn Shell - an enhanced version of the public domain ksh
+Filename: ../../../../releases/download/aarch64-m/mksh_59c-3_aarch64.deb
+Size: 170916
+MD5Sum: bea815d0ace0240c1ff58ecd3af7319d
+SHA1: c4236cf350b56101e5735cbd0eb81f277e86cfab
+SHA256: dffe8d577ebae90df7915bb8a3241d8592b76420109ce3a58198edd852c8f118
+SHA512: 9df4075a5e7451b4091abd9fc45e5c24fd7d2a9126fe3ee255f7ebf7fb73cf3ac491b470cb84ae3f251f71ecefe580fbc4699eb457bf4dd6588eb7d2294f4846
+
