@@ -14355,3 +14355,18 @@ SHA1: 63a9a1a0e26f538a36362a5d6abf245b96efb022
 SHA256: 3dcae90509e98d68a34d168a14cb239cc787d767551a28d165e46483e8ddccf4
 SHA512: c3411f0c6a0c939b90160d15915bdda299b4f117786dfcb58bb6ec13f7ccc017f74539b8bbb74efbd8c61dc5e36b902606525badc9e42cdfa8958df8832d9830
 
+Package: scrcpy
+Architecture: i686
+Installed-Size: 1056
+Maintainer: @termux
+Version: 4.1
+Homepage: https://github.com/Genymobile/scrcpy
+Depends: android-tools, ffmpeg, libusb, sdl3
+Description: Provides display and control of Android devices connected via USB or over TCP/IP
+Filename: ../../../../releases/download/i686-s/scrcpy_4.1_i686.deb
+Size: 829728
+MD5Sum: 572b6f87a302bef108ea83f79c8814cf
+SHA1: 7d4098963a0e71a4799f663c2a1f3055ff3c76ff
+SHA256: b4031ebcf100e938d5433f93ed6bd82d86dd35e589452ae5c84da575d4f6adfe
+SHA512: 398c3c27b96a98de47c2e71cae36571c71b8eabad46c48bc1a99d36350da5e29e12e8e3219ecf3f942d1f04ef7fdb0a49fa8a40fa180a10fb0e59e73b0a98b63
+
