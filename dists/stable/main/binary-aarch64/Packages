@@ -40933,3 +40933,17 @@ SHA1: 65259ce6db7d925ef1a35725188eb4abf4bddf47
 SHA256: 781df05ef285c65c471b73387c64458b4723262fa2a6cf1b37b7cec055c940a8
 SHA512: 53a68a7e2d807bb12f06f6eb0617ff027f5845b9eed284e4323fdfb48e0f66d28e9ba2e293c72a98efa644607b6fc872a4e54a58b5483615e3fa49b6513060ae
 
+Package: secure-delete
+Architecture: aarch64
+Installed-Size: 128
+Maintainer: @termux
+Version: 3.1-6
+Homepage: https://www.thc.org/
+Description: Secure file, disk, swap, memory erasure utilities
+Filename: ../../../../releases/download/aarch64-s/secure-delete_3.1-6_aarch64.deb
+Size: 19304
+MD5Sum: 459f1a7ad358afbead098f381cb47906
+SHA1: e93c6c60465434ad3c24db3ef2a251f798c2d012
+SHA256: a308dc626286a2aa7700e99a540cedb75a72c2f1228e815521deff1826ecd9e6
+SHA512: 30424eeb85adf25136482227a67932e9439760fe1104202fab52da300e61521d5690524f6f830f8464dad1a7540aedc4c6bdb0451764907c8062916bede2ffa4
+

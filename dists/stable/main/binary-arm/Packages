@@ -39169,3 +39169,17 @@ SHA1: b5139684b0bc7f462c3e5e3ce1b568e0aef28580
 SHA256: 67415939fc63eeda41534930cb26f2c4dfdf5db2686ad4ce667ef5b3fec164ca
 SHA512: 038800c97d43b9598e7e7138ac3231dfbde2678e47ad3a1296e347f19e0548aa214c9aa7fa975d3ffe8588953b5fa006975667cade2944ab34a1e1aa5cb6ae9a
 
+Package: secure-delete
+Architecture: arm
+Installed-Size: 116
+Maintainer: @termux
+Version: 3.1-6
+Homepage: https://www.thc.org/
+Description: Secure file, disk, swap, memory erasure utilities
+Filename: ../../../../releases/download/arm-s/secure-delete_3.1-6_arm.deb
+Size: 18268
+MD5Sum: f9abc76328b9e0f8c28add576941ba43
+SHA1: d0baf61a7e08f4e7e6e9d2464615a7ec13707207
+SHA256: f1a9247a79f90000c0a5a51d52fe2c105990632488d98ccdcf6451633ff47f2c
+SHA512: 2e37e847ea8b8e94346b175210279b392d11ea26d0f16bd62378f06262540bfc932ad97d0a6f8ba66f54531a0aacead426b9cfabc257ca36d617ac2a100c38d5
+
