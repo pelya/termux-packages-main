@@ -38658,3 +38658,18 @@ SHA1: 2b986d72654734c557901c8f48938ca9f2596df1
 SHA256: 4aec92cba83a58bd66ebbab9b4d595fe9086ff262dda170050a11c73f6042a7c
 SHA512: d05902ea93b692756265474cea9c3a356efd0d6592aeaf7917fe47b17b661cfeffd437b157032da5ba4c318abb2d3002a235e46262641ae4cf8d51838c4430e1
 
+Package: surfraw
+Architecture: arm
+Installed-Size: 684
+Maintainer: @termux
+Version: 2.3.0-10
+Homepage: https://gitlab.com/surfraw/Surfraw
+Depends: lynx, perl
+Description: Shell Users' Revolutionary Front Rage Against the Web
+Filename: ../../../../releases/download/arm-s/surfraw_2.3.0-10_arm.deb
+Size: 71952
+MD5Sum: ac496ca91782e222860210324c72aff7
+SHA1: cc13b61ecdf62880d47a5869bd294155c718c591
+SHA256: 503c8349a5dab044c17ec86757f464eaac72da2c8f8d6bfde68cbebe95dde06f
+SHA512: 3776b4eba9ce12c2756caf6dcdd6b213d41a7b9d7d46c7b509173bbc13782511c291486cd8f56bbce08cccad5194fec835cf532ea7723888c243a0369e8e1bb8
+
