@@ -14419,3 +14419,33 @@ SHA1: b92439d2e58b3820baac8fc39add567bfee41c59
 SHA256: 781a49a55d7d7fcd0120c8d6b97dfcae2b17ffa5de5d2df627211bebd63edaca
 SHA512: 222cdbcd0336f167540aedd8ed140797bf200dcd2d117074182c1579d5a6a4d388e36aa2bcb59075cb31f62a7bce2e766543b59c8a4273021d72cd25dce385e6
 
+Package: kcalc
+Architecture: x86_64
+Installed-Size: 740
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/kcalc/
+Depends: kf6-kcolorscheme, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kguiaddons, kf6-ki18n, kf6-knotifications, kf6-kwidgetsaddons, kf6-kxmlgui, libc++, libgmp, libmpc, libmpfr, qt6-qtbase
+Description: Scientific Calculator by KDE
+Filename: ../../../../releases/download/x86_64-k/kcalc_26.04.3_x86_64.deb
+Size: 155220
+MD5Sum: 122a1f29fac308c356d21853dacd5972
+SHA1: 2364bfb48b13c608c6727e36c7137b54c1401cd1
+SHA256: 751c108677da282ca3906bf023529b8b1eb158ced119b81891de60b0c7b996ed
+SHA512: 92c566268e311699a8fc66b11674700a5ac8db70bf1cb780b358ad0fc610bb5c7ca4e25d8a4eb641e84d31eb95098468bdf8dde2cee18532a362130723e42093
+
+Package: xorg-xwininfo
+Architecture: x86_64
+Installed-Size: 104
+Maintainer: @termux
+Version: 1.1.6
+Homepage: https://xorg.freedesktop.org/
+Depends: libiconv, libxcb
+Description: Utility to print information about X11 windows
+Filename: ../../../../releases/download/x86_64-x/xorg-xwininfo_1.1.6_x86_64.deb
+Size: 19112
+MD5Sum: f9df9c8c3a4ac1a1817ad84298e11c59
+SHA1: 352d22f55c00b6797b6398765c0d41003dc0834b
+SHA256: 1e7cca7f25c60570a3d8ba9ea7647e03aebe94fddb7f44bbb3fcb34003cae294
+SHA512: ff6ab2caa0aeec8962579218d3a30ede2a1ad3671120759d45df2dfb3b6817a2a2b843e15cc8571ebbc549cc2e037bdb9cbdc44af37d5b4fcc11ef073652f632
+
