@@ -38673,3 +38673,18 @@ SHA1: cc13b61ecdf62880d47a5869bd294155c718c591
 SHA256: 503c8349a5dab044c17ec86757f464eaac72da2c8f8d6bfde68cbebe95dde06f
 SHA512: 3776b4eba9ce12c2756caf6dcdd6b213d41a7b9d7d46c7b509173bbc13782511c291486cd8f56bbce08cccad5194fec835cf532ea7723888c243a0369e8e1bb8
 
+Package: mdbook-plantuml
+Architecture: arm
+Installed-Size: 2508
+Maintainer: @termux
+Version: 0.8.0-3
+Homepage: https://github.com/sytsereitsma/mdbook-plantuml
+Depends: openssl
+Description: mdBook preprocessor to render PlantUML code blocks as images in your book
+Filename: ../../../../releases/download/arm-m/mdbook-plantuml_0.8.0-3_arm.deb
+Size: 1026196
+MD5Sum: 310c93091d7d77d40d4da309b17bff94
+SHA1: 8df8dd3f96f80f1661b2e94b8af3372561424851
+SHA256: 755b2a3f65ccd0949c463699481e14d4103b507229cd611bd46eb1ca828a607f
+SHA512: e991f31dda251979561c6ce54eae560b97a05ce7ce8a13d00c9d4d2a3533b40ab30329c8786100fc6c7bc4dc77f6ba42a3fe225de089bfa5b85567710f4f1e76
+
