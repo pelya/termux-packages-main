@@ -40961,3 +40961,18 @@ SHA1: fc4a7ddd9c26cea05fae2fa40dbb77fb1535d210
 SHA256: 4798c363d535f3d3fc55ba69b8a5cfae3da950de7c11b3be8d43ff547f0741bc
 SHA512: 34b19451cb21caca344a6ad377fe261bad58090ec36a4260c369741750af46b8d9c3e437696a3d1c2cf4eab9713611146f349fe1ded763f932ab1d7938c31d3a
 
+Package: marksman
+Architecture: aarch64
+Installed-Size: 17740
+Maintainer: Joshua Kahn <tom@termux.dev>
+Version: 2026.02.08
+Homepage: https://github.com/artempyanykh/marksman
+Depends: dotnet-host, dotnet-runtime-9.0
+Description: LSP language server for editing Markdown files
+Filename: ../../../../releases/download/aarch64-m/marksman_2026.02.08_aarch64.deb
+Size: 4041012
+MD5Sum: 699765156b4fb37021c2b43f8ed4e99e
+SHA1: 8ba0bac18eb0d474cb9a45a2341ac30f852aa6af
+SHA256: 9caaff05a19d0ca52c5dd1f2bbe111a30191789bea77b174a17fe40edff86f85
+SHA512: 7a69b5928324decdcc4ac31cecdb853d296dcbbc6ddb68142597f777376e60c9d6b596184683afca6dd5aa47f67ec0595bbb381da946887d98927d32fb0df500
+
