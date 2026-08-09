@@ -1169,3 +1169,50 @@ SHA1: 85110cd260b106d6a695af0cdbd3ff6b51d8f2ee
 SHA256: c49922d214f5b4b13e1d3d71556e0af5f618b1aeb61aeff36e126816cb911a4e
 SHA512: 06797566006c6df8e330ad5ae9899a599182fffd437ef8e53130e2f55863f286b764d323cf4a94dba92971b5618e4ecd696f6a8aafd4bd271eee51e8d9413b76
 
+Package: cryptsetup
+Architecture: aarch64
+Installed-Size: 588
+Maintainer: @termux
+Version: 2.8.6
+Homepage: https://gitlab.com/cryptsetup/cryptsetup/
+Depends: libpopt, libblkid, libuuid, libcryptsetup (= 2.8.6)
+Description: Userspace setup tool for transparent encryption of block devices using dm-crypt
+Filename: ../../../../releases/download/aarch64-c/cryptsetup_2.8.6_aarch64.deb
+Size: 201900
+MD5Sum: c72efa2461e4658a9b4f363b96c4db68
+SHA1: af8ae2f74b2ffb7909db04b8ded9723723827f7b
+SHA256: 33a9ca01d9ec27638c042401c71437fedd21c3d6cc7d2a52e5068d06f93a5323
+SHA512: 7eb5cea66566abc037bdb28b5c5ad43c83acde152caa3b307a500d5653dd1656f7abaf3a105fa444efdaaf7c924d7522e564e959f12524ee80ffde8e5e27d33b
+
+Package: libcryptsetup-static
+Architecture: aarch64
+Installed-Size: 1176
+Maintainer: @termux
+Version: 2.8.6
+Homepage: https://gitlab.com/cryptsetup/cryptsetup/
+Depends: libcryptsetup (= 2.8.6)
+Description: Static libraries for libcryptsetup
+Filename: ../../../../releases/download/aarch64-libc/libcryptsetup-static_2.8.6_aarch64.deb
+Size: 242248
+MD5Sum: 53638d33e3eef616e04bece7e87718cd
+SHA1: 0ed29d56da16ecc2b7c0b96fef6a28a4f329246a
+SHA256: 1d344fe34ad9ae39038f89e188843fd860cf3a126aaae773c8d5ec5bc6e49b25
+SHA512: 974c1ed9979eec0dd52eea75d8b011c4d7bc7ae131e9905a8584c05afd8a262f208b5f206d24c0d57c920de5c7e844ce88d023d313dd2ee0cadf1cf902e2b92f
+
+Package: libcryptsetup
+Architecture: aarch64
+Installed-Size: 680
+Maintainer: @termux
+Version: 2.8.6
+Homepage: https://gitlab.com/cryptsetup/cryptsetup/
+Breaks: cryptsetup-dev, cryptsetup (<< 2.4.3-1)
+Depends: json-c, libblkid, libdevmapper, libgcrypt, libuuid, openssl, libiconv, argon2
+Replaces: cryptsetup-dev, cryptsetup (<< 2.4.3-1)
+Description: Userspace setup tool for transparent encryption of block devices using dm-crypt
+Filename: ../../../../releases/download/aarch64-libc/libcryptsetup_2.8.6_aarch64.deb
+Size: 207420
+MD5Sum: 274aee62d0a5148502c68ce43f20bb96
+SHA1: b399a1f0f7772d7126ed60b450ab43bb552a84d8
+SHA256: 9b89f20cad161f2e31322f5a2caf626716b5b280634d7f33651bb84c386e8d45
+SHA512: 222f535ce7ade5556f7ec88cc348d05ebeee1a38b52e9240ee69e72040bb2f7d7016924119ef0c0faf08518e763987bce1b63af2fc74e6289c3db0f0ed33e993
+

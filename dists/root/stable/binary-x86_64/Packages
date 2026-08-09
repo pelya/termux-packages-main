@@ -1169,3 +1169,50 @@ SHA1: 9a3ab945d627869a37cc2177f362658b2ce22e49
 SHA256: b1a5acf88db4a4785d200f9bda43b21be608ad69b50a32c70453c06128cb5144
 SHA512: 9fdc1c62e0d29ce24d9d61eb194ffd611475ae2ecacdaf6fb77e8770278b8246b1208dae84e95ede0d5c06f63877e4ffa1bc436871932358d0a05d1a814c93b1
 
+Package: cryptsetup
+Architecture: x86_64
+Installed-Size: 592
+Maintainer: @termux
+Version: 2.8.6
+Homepage: https://gitlab.com/cryptsetup/cryptsetup/
+Depends: libpopt, libblkid, libuuid, libcryptsetup (= 2.8.6)
+Description: Userspace setup tool for transparent encryption of block devices using dm-crypt
+Filename: ../../../../releases/download/x86_64-c/cryptsetup_2.8.6_x86_64.deb
+Size: 207944
+MD5Sum: d4f64bee0424bcacb6ea3d7693e4a27b
+SHA1: 168764eb8ffdb0183d71e35acf68506ceaf4238c
+SHA256: 7349acefe76cde7e7336e2e419328d4a0f1c8cebfbfb8b6f72479789658d17bb
+SHA512: a4575970c442ff65f14c5522401a5dfc93e79115024ac7bda0161ecca32b5591fb81b5376c5f78997a6ace29d3a286e222740c0edd219715407dfa311d853259
+
+Package: libcryptsetup-static
+Architecture: x86_64
+Installed-Size: 1160
+Maintainer: @termux
+Version: 2.8.6
+Homepage: https://gitlab.com/cryptsetup/cryptsetup/
+Depends: libcryptsetup (= 2.8.6)
+Description: Static libraries for libcryptsetup
+Filename: ../../../../releases/download/x86_64-libc/libcryptsetup-static_2.8.6_x86_64.deb
+Size: 247592
+MD5Sum: b28620280bc375021846e3fcf7480112
+SHA1: 16f553fd839990ad3aba8b171de3069145720d66
+SHA256: e01fa02645b1edc9171c2ed81d00a4edce7bf37c44bb3711b98a0139cee35ff8
+SHA512: 0e3780dd7a23146b6d61d04f4ccad87fc19c6649ac0e282ef48d4f4eed06dde54e40b6079208562ac0beb81e8ea126713974134d86593f0240ec3f56b5dbcda5
+
+Package: libcryptsetup
+Architecture: x86_64
+Installed-Size: 684
+Maintainer: @termux
+Version: 2.8.6
+Homepage: https://gitlab.com/cryptsetup/cryptsetup/
+Breaks: cryptsetup-dev, cryptsetup (<< 2.4.3-1)
+Depends: json-c, libblkid, libdevmapper, libgcrypt, libuuid, openssl, libiconv, argon2
+Replaces: cryptsetup-dev, cryptsetup (<< 2.4.3-1)
+Description: Userspace setup tool for transparent encryption of block devices using dm-crypt
+Filename: ../../../../releases/download/x86_64-libc/libcryptsetup_2.8.6_x86_64.deb
+Size: 225652
+MD5Sum: cf410030b4fe31b82c2068123a1ac5c8
+SHA1: 10940af906b58ce96db702226d3043f7f2823b9d
+SHA256: bdce575e0622c5664697a2f95eb665318b97bc9eabebdf23ded71faba4fcadbf
+SHA512: 57ceec8756518bac5f155ecaf8064537ec7404311c6e2bc9db4801ae64b15f73672c790dd3bfc50f0fcc348a43031f00a94927c01fc7614b521a5f957ff1b8a9
+

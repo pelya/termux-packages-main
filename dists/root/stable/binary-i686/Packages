@@ -1169,3 +1169,50 @@ SHA1: b8c77b18e10ed2504a57aac34afe94c36f0e3aef
 SHA256: cd393ec114220033be6a637c32ec64104894ff463c32757004f9e52ab9c09b6c
 SHA512: 885496a64faa7d7d9a38af521e60bc12f159efee052eab00434d8c0b6c5dfee4d278b1f4b60ee125b80cd6b91dba6edf2036411af2682a3cd5a0754add329a73
 
+Package: cryptsetup
+Architecture: i686
+Installed-Size: 560
+Maintainer: @termux
+Version: 2.8.6
+Homepage: https://gitlab.com/cryptsetup/cryptsetup/
+Depends: libpopt, libblkid, libuuid, libcryptsetup (= 2.8.6)
+Description: Userspace setup tool for transparent encryption of block devices using dm-crypt
+Filename: ../../../../releases/download/i686-c/cryptsetup_2.8.6_i686.deb
+Size: 204172
+MD5Sum: d267ea2413751d15d1cedb943c29d7fc
+SHA1: 93ce4b5bd744891617ae0464bfcce52e46f5de9e
+SHA256: d2b294990ebd6fe63b94ded22a719eec6485413ccc7c9d101ecb5b36c1f14988
+SHA512: 36f5e8e4f07655bb4d1c25212351fef0aeb40d767a8a3c85edbda6bdc84531317ce8f6bf3f6f20557272edf9d9b2b21e6c04b4dc45acd35df8b82f09fbe80975
+
+Package: libcryptsetup-static
+Architecture: i686
+Installed-Size: 900
+Maintainer: @termux
+Version: 2.8.6
+Homepage: https://gitlab.com/cryptsetup/cryptsetup/
+Depends: libcryptsetup (= 2.8.6)
+Description: Static libraries for libcryptsetup
+Filename: ../../../../releases/download/i686-libc/libcryptsetup-static_2.8.6_i686.deb
+Size: 251480
+MD5Sum: a9ffd7a79817d809b7b4a50770eea300
+SHA1: 3858dafac5963a1df1c8d16039801f56c6783112
+SHA256: e9fef44a425443e82b5b80d5ac6ac5e41888781280fc9c96068c6c8f5efabdbc
+SHA512: 9bef5f73d8128cdce023a986fc7320a9cd20e07c72a7661dfbfa42519c840fa9f69699503b2a23a1ccf5e6285794b8e4574ba14d310d70374f67323576ffe07d
+
+Package: libcryptsetup
+Architecture: i686
+Installed-Size: 692
+Maintainer: @termux
+Version: 2.8.6
+Homepage: https://gitlab.com/cryptsetup/cryptsetup/
+Breaks: cryptsetup-dev, cryptsetup (<< 2.4.3-1)
+Depends: json-c, libblkid, libdevmapper, libgcrypt, libuuid, openssl, libiconv, argon2
+Replaces: cryptsetup-dev, cryptsetup (<< 2.4.3-1)
+Description: Userspace setup tool for transparent encryption of block devices using dm-crypt
+Filename: ../../../../releases/download/i686-libc/libcryptsetup_2.8.6_i686.deb
+Size: 230308
+MD5Sum: 596051ebb459297f9f6519ea7b5c996c
+SHA1: 0ede4ad61e815c9b1bfa3db0f1ce293df4b1af23
+SHA256: 1688a244efe23a9f6ce8015c57f4414eb86bba99ced7e1d8168b449555931f76
+SHA512: 46b648a6ed6e47414a25d2b4beae183c8f2b58af3b3790884aa90889db155d112da42de032c0a4d0e1176cc00471f1e7424e6e2b44efc6acf4a76e68f0e3ab9b
+

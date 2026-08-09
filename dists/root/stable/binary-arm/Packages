@@ -1169,3 +1169,50 @@ SHA1: ee52eccd488d9e0aa070d3b37f6dfa3fe02c8daf
 SHA256: 1612de3f710d6d2208cad75fd23efd57159b9bb4fd7a8df8ee722d246914ee4e
 SHA512: f2f915e613de1ef0a3c6a576659a3f68b168bda502575d3cb241218cba038f4ec052914bdd605e270ec21aebbbb84867226c787a76df2c7085443a9ebca9e299
 
+Package: cryptsetup
+Architecture: arm
+Installed-Size: 504
+Maintainer: @termux
+Version: 2.8.6
+Homepage: https://gitlab.com/cryptsetup/cryptsetup/
+Depends: libpopt, libblkid, libuuid, libcryptsetup (= 2.8.6)
+Description: Userspace setup tool for transparent encryption of block devices using dm-crypt
+Filename: ../../../../releases/download/arm-c/cryptsetup_2.8.6_arm.deb
+Size: 200072
+MD5Sum: 0fb9409be7ad4c1249d8d5fb3155f9ad
+SHA1: 572ba22cbaa944694d508f709057cd1270184189
+SHA256: bc9f199d6790f46006c0c224648f21bf1e080b9ee5f7025fae74d7caa4259fda
+SHA512: 29a72834d74ff1f84ae2962aa6e3b4cf923ed29618eb5ccfbeb0c8932d27e580b2ff2a5b3a512a143429209c9d43a7a46916fd45dd547cf3d3e1282d7a72393f
+
+Package: libcryptsetup-static
+Architecture: arm
+Installed-Size: 784
+Maintainer: @termux
+Version: 2.8.6
+Homepage: https://gitlab.com/cryptsetup/cryptsetup/
+Depends: libcryptsetup (= 2.8.6)
+Description: Static libraries for libcryptsetup
+Filename: ../../../../releases/download/arm-libc/libcryptsetup-static_2.8.6_arm.deb
+Size: 240548
+MD5Sum: 57f93ef477d28777b51a21b3695b51a6
+SHA1: 47d287ca59363913f594b4b44cfef573658a0ac2
+SHA256: 78b53e11fb86e3c05ce0dfd50dae819645919be61a3eb0e7ee2987dbe569d4f5
+SHA512: b27e861830f9eeb1e867e643fa3198d3402b12a13726bb5c10ef382efd7f50216413ddd7ab9635da423bc2e9d2143273312f0f0a913314e726a7cd55b929e6a3
+
+Package: libcryptsetup
+Architecture: arm
+Installed-Size: 532
+Maintainer: @termux
+Version: 2.8.6
+Homepage: https://gitlab.com/cryptsetup/cryptsetup/
+Breaks: cryptsetup-dev, cryptsetup (<< 2.4.3-1)
+Depends: json-c, libblkid, libdevmapper, libgcrypt, libuuid, openssl, libiconv, argon2
+Replaces: cryptsetup-dev, cryptsetup (<< 2.4.3-1)
+Description: Userspace setup tool for transparent encryption of block devices using dm-crypt
+Filename: ../../../../releases/download/arm-libc/libcryptsetup_2.8.6_arm.deb
+Size: 201920
+MD5Sum: 632fbfc8bbee54324058c7a83c89f9a6
+SHA1: 93b49f219a0588a289370118e6e64bf1aa7e6abd
+SHA256: a447fc4f3e4a34c2915932659fb32e55bf2a78838cdd725ab7f2eac7e71d7208
+SHA512: ece74cc0ace4ab2236ef7225e37789e1874ae04433aa5d825e35e48d2603ced2698cbaddecfa7e24bf8dd11e4ebe5d7dfb7b5878700f0a49f82ed5cb06afad29
+
