@@ -40408,3 +40408,17 @@ SHA1: cb4ad98fd03103f3e337356e5fbc51ae7079b354
 SHA256: 5d7f096f28d5e5c533e8adbc94e96947df96429069eae32a0f9310989eaa3bb9
 SHA512: 5da2cecd6db408b5976e282c243534a0d0e0ae61aeb395ea46c26cf6fd954a0e8b933c74bce0c0a5815aeb11a5da2e836285a6005b6f4caef5ec1e3eb19f41b0
 
+Package: senpai
+Architecture: aarch64
+Installed-Size: 9480
+Maintainer: @termux
+Version: 1:0.5.0
+Homepage: https://git.sr.ht/~delthas/senpai
+Description: An IRC client that works best with bouncers
+Filename: ../../../../releases/download/aarch64-s/senpai_1.0.5.0_aarch64.deb
+Size: 2573832
+MD5Sum: b366f45d52ed7d7fdd40bf8f8c493bab
+SHA1: 67478a5ae434a8f5679dcf54be5f228ad7501bf8
+SHA256: 578330d16c91ea58b0477e75edd05ed99f0b3bbda4c2ed0186b9ded57860be6f
+SHA512: a8f84b9bc56fa54e5ca98fcfbf74addabfda9fb4d02f73e5818ab371c2712a4a278484b7b62cdb3b6e4ab0e1e17f3ae0b0c3f35067b354771a36d349c7b7cb7a
+
