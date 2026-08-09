@@ -39926,3 +39926,35 @@ SHA1: c4236cf350b56101e5735cbd0eb81f277e86cfab
 SHA256: dffe8d577ebae90df7915bb8a3241d8592b76420109ce3a58198edd852c8f118
 SHA512: 9df4075a5e7451b4091abd9fc45e5c24fd7d2a9126fe3ee255f7ebf7fb73cf3ac491b470cb84ae3f251f71ecefe580fbc4699eb457bf4dd6588eb7d2294f4846
 
+Package: ocrad-static
+Architecture: aarch64
+Installed-Size: 1064
+Maintainer: @termux
+Version: 0.29-1
+Homepage: https://www.gnu.org/software/ocrad/ocrad.html
+Depends: ocrad (= 0.29-1)
+Description: Static libraries for ocrad
+Filename: ../../../../releases/download/aarch64-o/ocrad-static_0.29-1_aarch64.deb
+Size: 148852
+MD5Sum: 3988a9d13f0edf0325a124b8cd10637c
+SHA1: 1e3059fc3729be26c5dd4d2ac9ddc4a9ca4e8504
+SHA256: 2a73615f3b0c96b58b5d330ce54638d30fe5f9b5b7c59e0bcca7c49c84412ecc
+SHA512: 63f8498cd405aa42a05b4e68cb147d8280b6e91c472f36cd6223dde1d43afc6bf6fd5aa805d6c195437c754d93489d2951d11b041b2b3a30870b5bdc2bcd6b0e
+
+Package: ocrad
+Architecture: aarch64
+Installed-Size: 368
+Maintainer: @termux
+Version: 0.29-1
+Homepage: https://www.gnu.org/software/ocrad/ocrad.html
+Breaks: ocrad-dev
+Depends: libc++, libpng
+Replaces: ocrad-dev
+Description: Optical Character Recognition program based on a feature extraction method
+Filename: ../../../../releases/download/aarch64-o/ocrad_0.29-1_aarch64.deb
+Size: 111224
+MD5Sum: 61cd94a8020c264fdefc2deae4640409
+SHA1: ba16f165d09913a48befae4ffebc767736a2e987
+SHA256: a97a5837b0b1d0fe68824017d5d8d66a71e8e1bbfc55dafdbc1071c8104ff91a
+SHA512: 62abadd5de3955c9b7d2b090094c0dea516bdaafcad275cbdca88a1581126294c9f441a12c27c0a331a86f1dc94c8ac69e3795a5bb33ba15648fc48cb0e29065
+

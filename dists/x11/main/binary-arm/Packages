@@ -14293,3 +14293,19 @@ SHA1: eae6110f7d204bf146ddeade6a9aa5fb53d1542e
 SHA256: 716509c0f8618cf8b1c8fb667dd4e32bb77e591dcf73fc2c946288c14a57e3d8
 SHA512: ed286a4459fa0ebf91969a58f68d3a6fdcb574ca338ca82e9d695e79861172261fa9320cc8a5146b6e25ecac6fa57b1d4e5ccab4c69108d495cab1b65945033e
 
+Package: sway
+Architecture: arm
+Installed-Size: 5584
+Maintainer: @termux
+Version: 1.10.1-1
+Homepage: https://github.com/swaywm/sway
+Depends: gdk-pixbuf, json-c, libandroid-wordexp, libcairo, libevdev, libwayland, pango, pcre2, wlroots (>= 0.18.1)
+Recommends: xwayland
+Description: i3-compatible Wayland compositor
+Filename: ../../../../releases/download/arm-s/sway_1.10.1-1_arm.deb
+Size: 5045232
+MD5Sum: 4833e30e5cd616f1b14f63218bc352c3
+SHA1: 68911c5923cb001a8350a11c29247fb59bfdf4f2
+SHA256: da75713997b54bb376eb120f46c1736361db79f0c8c87590ea64943fae588c67
+SHA512: 7c15b565a0d31711b1caf159d3ebf74152cda5ccd9c98a670588e5baf94fe2ead3b73df148e1b693b6ba7985cca05281989c246cbda740061d11401b80f6690f
+
