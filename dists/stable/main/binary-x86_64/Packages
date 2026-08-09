@@ -40857,3 +40857,33 @@ SHA1: bd0728a58cf51ddffee5e8e2206ae3a32f54945f
 SHA256: c1d6679277e121c7fb029a58c648e7629e9188d35007d243226c4ceabb373d2f
 SHA512: 0aed645e2fc6c6f434c6cb156977a5317bde40a9e7c7d6faa3fbfc9a3b2d1613dfb82fa74eef0b30ea7cadbbf24d9d9377afbdee2d00b1842380a6a395d3cb43
 
+Package: helix-grammars
+Architecture: x86_64
+Installed-Size: 185544
+Maintainer: @termux
+Version: 25.07.1-2
+Homepage: https://helix-editor.com/
+Depends: libc++, helix (= 25.07.1-2)
+Description: Helix grammars
+Filename: ../../../../releases/download/x86_64-h/helix-grammars_25.07.1-2_x86_64.deb
+Size: 10892288
+MD5Sum: fae258b282ddde3b3cc2ff897c9297ca
+SHA1: c1cc63fa03e24e490690c22f5dc1af328ea5ceb5
+SHA256: 569a314d896918d68fd06a4703901773d753bf151bb369964b676a586b7e995e
+SHA512: 6e8b3b68babca14d165f5775053416c6251dd0008442e7fe142ecf32bc300601cfadbc7ddd8daf08d1fca681e89c19b277207b9f60604bb477d8fed76f9d92ca
+
+Package: helix
+Architecture: x86_64
+Installed-Size: 36584
+Maintainer: @termux
+Version: 25.07.1-2
+Homepage: https://helix-editor.com/
+Suggests: helix-grammars, bash-completion, clang, delve, elvish, gopls, lldb, nodejs | nodejs-lts
+Description: A post-modern modal text editor written in rust
+Filename: ../../../../releases/download/x86_64-h/helix_25.07.1-2_x86_64.deb
+Size: 7072180
+MD5Sum: d3a029819124bc49cb5f963102ac242a
+SHA1: 8a4c8daa026ca495316769eaed86b40f2b970709
+SHA256: 3c827486ea42e793f119db74ddce40008d104248d97ac0c88f463819ca9d9389
+SHA512: 16d43015f827fe066ef8f2af59e82d300142c0afc4bd5aec301520055250dd3ddf4360b3798cea0e5e9cc91bbe3f2dd9f5949d8b3dbcf1cf6e17625413f33866
+
