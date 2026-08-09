@@ -40945,3 +40945,17 @@ SHA1: 033bc4051f58169bac936e38f4edf87dc2f68662
 SHA256: fbf03b4013475d0892bbd3e88fd6516f8d79717e9d9c0f0c651348937aeb0e2d
 SHA512: 81273783f9af5b9965de2be5a7acad4eb388c4dbc80cea962608223c7e5a27422b38af336267e984c63eeb77fe3e424ddda1e641eea376b69e0a0f89c1e98ebd
 
+Package: hunspell-ru
+Architecture: all
+Installed-Size: 3504
+Maintainer: @termux
+Version: 20210731
+Homepage: https://hunspell.github.io
+Description: Russian dictionary for hunspell
+Filename: ../../../../releases/download/x86_64-h/hunspell-ru_20210731_all.deb
+Size: 461776
+MD5Sum: 10f608833980c636fe06a5053740a8fd
+SHA1: 2d7f3640c416319a2bebb4b9f51cc16cc904991a
+SHA256: 0b966cc8c3e588b9fea390523149d0a0385fb0836aa8d4672f7fa5019594f6a4
+SHA512: c3e0eba38981e69190e2d2a74c398675cae94a8f96e320752ae8c952867e560a17db81d27a3c0971f8bc51af7f6f7aff665e2126465e2a1e7e65fdab8c7c53a3
+
