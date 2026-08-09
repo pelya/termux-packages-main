@@ -14643,3 +14643,33 @@ SHA1: 168022a6f94499da6f0e5542d3d1d7e024685dbd
 SHA256: 17cbdf7a9adf5e118aabba8cddfb58c0c8f3f720c948c6d0166e91736b65d3ec
 SHA512: a3166fc34065da33f367d0c2b78e99641a4a3d275c6de84fb39e64aad12b3f2dce3cd1d31d037d95e114be322b3c4a17c653ef932c89e08c7b82cd354f217184
 
+Package: plotutils-static
+Architecture: arm
+Installed-Size: 1320
+Maintainer: @termux
+Version: 2.6-33
+Homepage: https://directory.fsf.org/wiki/Plotutils
+Depends: plotutils (= 2.6-33)
+Description: Static libraries for plotutils
+Filename: ../../../../releases/download/arm-p/plotutils-static_2.6-33_arm.deb
+Size: 299296
+MD5Sum: aa227169b6b9f62d83485f8892691e53
+SHA1: 7eb0fdb1f1531be644f161ba8177a9eff679945f
+SHA256: 27101815653bf8140a9df02c95226a36aedfd2449104efae9716f3cdc287347c
+SHA512: bf2e3132fc12693d78fb1cf22d37bdccf1bc25798ddff3fd47e233d8bd91eab8b5c5bfea6391ceb7a4dc97f700e6c779a3c952cd7c2eca9a3ac306c5359afe22
+
+Package: plotutils
+Architecture: arm
+Installed-Size: 2168
+Maintainer: @termux
+Version: 2.6-33
+Homepage: https://directory.fsf.org/wiki/Plotutils
+Depends: libice, libpng, libsm, libx11, libxaw, libxext, libxmu, libxt, zlib
+Description: Set of utilities and libraries for plotting.
+Filename: ../../../../releases/download/arm-p/plotutils_2.6-33_arm.deb
+Size: 571332
+MD5Sum: cb30460d3ba9e66fdffd06111928416c
+SHA1: 6dc9931edd6cd137f0b871ba6fb8e0ead9415307
+SHA256: 51a889afc9a88ffb61c52a318031d6a09f7295b03d1eeae4a6ca4ac9cd1b1ef9
+SHA512: 77ab261a2b78733aebbc5f5cfd1c82c730ef188d68ccf98a8dd464428b625f51b885c2ee0a311b2f2f68a61a6a539c656f242185770822caec08a0a3032858b5
+
