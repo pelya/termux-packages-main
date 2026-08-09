@@ -40959,3 +40959,18 @@ SHA1: 2d7f3640c416319a2bebb4b9f51cc16cc904991a
 SHA256: 0b966cc8c3e588b9fea390523149d0a0385fb0836aa8d4672f7fa5019594f6a4
 SHA512: c3e0eba38981e69190e2d2a74c398675cae94a8f96e320752ae8c952867e560a17db81d27a3c0971f8bc51af7f6f7aff665e2126465e2a1e7e65fdab8c7c53a3
 
+Package: ccache
+Architecture: x86_64
+Installed-Size: 2340
+Maintainer: @termux
+Version: 4.13.6
+Homepage: https://ccache.samba.org
+Depends: fmt, libandroid-spawn, libc++, libhiredis, xxhash, zlib, zstd
+Description: Compiler cache for fast recompilation of C/C++ code
+Filename: ../../../../releases/download/x86_64-c/ccache_4.13.6_x86_64.deb
+Size: 623456
+MD5Sum: e886192e138db596279e689068dba0d2
+SHA1: ba14328617af25aa91a82e14a1f53dbbf12a3814
+SHA256: 7159fed80552a075a6374752df13fb9c58b4c38eb3725deabde79f8fe963ce72
+SHA512: 1348e6af3a9781d782b9e478263e1492899c23f318e04f6b68bfcf0bbd4d8f26f128f6708ce6719c39875f5d4dceb0f3b296c7fdabd18353b56340208035cae1
+
