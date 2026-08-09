@@ -14370,3 +14370,18 @@ SHA1: 7d4098963a0e71a4799f663c2a1f3055ff3c76ff
 SHA256: b4031ebcf100e938d5433f93ed6bd82d86dd35e589452ae5c84da575d4f6adfe
 SHA512: 398c3c27b96a98de47c2e71cae36571c71b8eabad46c48bc1a99d36350da5e29e12e8e3219ecf3f942d1f04ef7fdb0a49fa8a40fa180a10fb0e59e73b0a98b63
 
+Package: lxtask
+Architecture: i686
+Installed-Size: 104
+Maintainer: @Yisus7u7
+Version: 0.1.12-1
+Homepage: http://www.lxde.org/
+Depends: gtk3, glib
+Description: LXTask is a GUI application for the Lightweight X11 Desktop Environment (LXDE)
+Filename: ../../../../releases/download/i686-l/lxtask_0.1.12-1_i686.deb
+Size: 18900
+MD5Sum: 1b07792015c9d0a769d80cfe024487ad
+SHA1: 834c9fb7afe37cac85e644970c330669fe6d1a43
+SHA256: b607e7e30177c03de26cfee376b1309db3e63ebd6d997beefff0fd7ffe6a81c9
+SHA512: f8075585e03b0ee3d3948ab197d58f90328099aef114da332f6b9d5de7f92eee83e8070ea6b53f405bfbc11dd6a7271d4000cee29207918cfa0f93e72ba376e4
+
