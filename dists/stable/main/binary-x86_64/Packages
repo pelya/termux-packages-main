@@ -40690,3 +40690,19 @@ SHA1: 3829b809ab1d88fae2d32c89b0249751fb43dcfc
 SHA256: f8443a47f2ee5b4bc36a0041a1a749c05cea805252536b1980df2c0e04b49e1f
 SHA512: 8db0c5e11f8634344bd0f23f03215769d2c810f7412e93072cf95f2ebac70691767e3e4b08f5aa2cc9bd549c6920991dc6aca89549ed6cec7d61539e6a939aaa
 
+Package: elixir
+Architecture: all
+Installed-Size: 16972
+Maintainer: @termux
+Version: 1.20.2
+Homepage: https://elixir-lang.org/
+Depends: dash, erlang
+Suggests: clang, make
+Description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+Filename: ../../../../releases/download/x86_64-e/elixir_1.20.2_all.deb
+Size: 6813476
+MD5Sum: e33414d5bcf96739bb3b165a56fab51e
+SHA1: dc67c2cdd1d796c96e7d38c446ec114cab9f1186
+SHA256: 5b5a7e7fb2cfc2ce64d9e3ba7cf08d1115c93a5761bd932ce46f2ed78c554373
+SHA512: edfd1678d172e44a1cf4efb677450c2f53eea0768064ace640926e4e98cb649b94d6d283f2b5064884e7c50f61f8fcb89b9f95c2bebdeb03621297d66a5b2949
+
