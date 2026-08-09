@@ -14628,3 +14628,18 @@ SHA1: ed4c161ca9b7506e20b6de71dbd17d598ddfd145
 SHA256: 37938584fb091934fee9e3ce83e5dbab997f95bee77a3f2402a367a701dea721
 SHA512: 6fdba2f21054cda5fcfb3c2121e4e82cd88e08d7ff68d210923b75d671dbd08d2176af6c06bf9d7278b0b37386acf7063ad269e414087526634beb409b0014c1
 
+Package: neochat
+Architecture: arm
+Installed-Size: 8836
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/neochat/
+Depends: cmark, kf6-kcolorscheme, kf6-kconfig, kf6-kcoreaddons, kf6-kdbusaddons, kf6-ki18n, kf6-kio, kf6-kirigami, kf6-kitemmodels, kf6-knotifications, kf6-kquickcharts, kf6-kservice, kf6-kstatusnotifieritem, kf6-kwindowsystem, kf6-prison, kf6-purpose, kf6-qqc2-desktop-style, kf6-sonnet, kf6-syntax-highlighting, kirigami-addons, kquickimageeditor, kunifiedpush, libc++, libicu, libquotient, qcoro, qt6-qtbase, qt6-qtdeclarative, qt6-qtlocation, qt6-qtmultimedia, qt6-qtpositioning, qt6-qtspeech, qt6-qtwebview, qtkeychain
+Description: A client for matrix, the decentralized communication protocol
+Filename: ../../../../releases/download/arm-n/neochat_26.04.3_arm.deb
+Size: 2113672
+MD5Sum: db441ab072e0b50bdccb71e9d40e26c2
+SHA1: 168022a6f94499da6f0e5542d3d1d7e024685dbd
+SHA256: 17cbdf7a9adf5e118aabba8cddfb58c0c8f3f720c948c6d0166e91736b65d3ec
+SHA512: a3166fc34065da33f367d0c2b78e99641a4a3d275c6de84fb39e64aad12b3f2dce3cd1d31d037d95e114be322b3c4a17c653ef932c89e08c7b82cd354f217184
+
