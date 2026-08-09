@@ -39958,3 +39958,18 @@ SHA1: ba16f165d09913a48befae4ffebc767736a2e987
 SHA256: a97a5837b0b1d0fe68824017d5d8d66a71e8e1bbfc55dafdbc1071c8104ff91a
 SHA512: 62abadd5de3955c9b7d2b090094c0dea516bdaafcad275cbdca88a1581126294c9f441a12c27c0a331a86f1dc94c8ac69e3795a5bb33ba15648fc48cb0e29065
 
+Package: osmctools
+Architecture: aarch64
+Installed-Size: 308
+Maintainer: @termux
+Version: 0.9-3
+Homepage: https://gitlab.com/osm-c-tools/osmctools
+Depends: zlib
+Description: Simple tools for OpenStreetMap processing
+Filename: ../../../../releases/download/aarch64-o/osmctools_0.9-3_aarch64.deb
+Size: 92424
+MD5Sum: ed963aee09efad2666e3632ed3c475bc
+SHA1: 1090b1be64b7eb9d2afdfb60fa7896a7d5232ec8
+SHA256: 71c543a352cbfb3ce49d86a271b79666c23adc85714766211d0dce7fb12bc079
+SHA512: 03c1de152ee53189a66e4b8d0807b276f8ec51fbe0ba692bc845f876b69a0b56d69b5c9f961eca22504077e98ea5d9623919db68fcdb54ce8e42e3a2f78eba69
+

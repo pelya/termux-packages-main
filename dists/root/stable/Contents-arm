@@ -1309,3 +1309,8 @@ data/data/greater.underscore/files/usr/share/man/man1/wavemon.1.gz              
 data/data/greater.underscore/files/usr/share/man/man5/wavemonrc.5.gz             wavemon
 data/data/greater.underscore/files/usr/share/wavemon/LICENSE                     wavemon
 data/data/greater.underscore/files/usr/share/wavemon/README.md                   wavemon
+data/data/greater.underscore/files/usr/bin/gocryptfs                             gocryptfs
+data/data/greater.underscore/files/usr/bin/gocryptfs-xray                        gocryptfs
+data/data/greater.underscore/files/usr/share/doc/gocryptfs/copyright             gocryptfs
+data/data/greater.underscore/files/usr/share/man/man1/gocryptfs-xray.1.gz        gocryptfs
+data/data/greater.underscore/files/usr/share/man/man1/gocryptfs.1.gz             gocryptfs

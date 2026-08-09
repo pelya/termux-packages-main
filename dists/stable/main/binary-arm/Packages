@@ -38209,3 +38209,18 @@ SHA1: 59e376e5080884c1e73dc8fa5158f21aa58a1b86
 SHA256: 3900ddf85b14d19d7eb1714bdbadbd002de1eb9adf6f4dd794f08339eff177bd
 SHA512: 98bffb6c17f206a7d083f26f555914a980f4b442203cd5f1e30d06a3e6ac53c10433086b2b600f0cab4eaf41520827a9d6b42db1d5b6381b17e631b9727073f1
 
+Package: osmctools
+Architecture: arm
+Installed-Size: 260
+Maintainer: @termux
+Version: 0.9-3
+Homepage: https://gitlab.com/osm-c-tools/osmctools
+Depends: zlib
+Description: Simple tools for OpenStreetMap processing
+Filename: ../../../../releases/download/arm-o/osmctools_0.9-3_arm.deb
+Size: 89600
+MD5Sum: 5e8229ba77def763de0e44e80bcaeab1
+SHA1: ade2085cf05afa74def1fb9d2c9380ef137821be
+SHA256: a558cfc0118d32f724b27616c630e1f8871d4804f7c9bf07050270fc1c95fc59
+SHA512: 49157d536f7cad5e95d6044ba0b4a51d755482e639313732c5f802a3e72c6ff67c4f89b88abac1f696bbfef9f7c591e3037b9a3195a1fe25b1764b1a2a7389d9
+

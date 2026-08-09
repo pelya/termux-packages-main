@@ -1095,3 +1095,18 @@ SHA1: 7be703b3eb316d823350473ff051cb8c3d207986
 SHA256: 5f9138214b118f35c2c7a8dfd92999df9b3db90c4081220ed1a9a15cfc527a32
 SHA512: 2ceb555694394efbbfcde308d2b2476b3c5aa3eaddd7985e9ea05e5cfb33fdcda19e132f68bddfcb715360fbf4ce101dac76a1a2d50a3f96c2d62995bd04fa7f
 
+Package: gocryptfs
+Architecture: i686
+Installed-Size: 8420
+Maintainer: @termux
+Version: 2.6.1+really2.5.4
+Homepage: https://nuetzlich.net/gocryptfs/
+Depends: openssl, libfuse2
+Description: An encrypted overlay filesystem written in Go
+Filename: ../../../../releases/download/i686-g/gocryptfs_2.6.1+really2.5.4_i686.deb
+Size: 2132740
+MD5Sum: 8fd84038b05ce9ec52d224a9418e3014
+SHA1: 68d5fdcd4bb2f22622deba1923a2be4dae3808a0
+SHA256: 5f696ab1c2d308ac43bc0a4c4448a32382f58b71626b576c2adf491f0cafbb17
+SHA512: 396c468ffbf371165b15862c7181e4925579070d1bfb32bc14ced70591ff958b5fcc2206f2cb383a461e0b106cbada4938ed2dd40e89f176cd6c5559dcf8c641
+
