@@ -40275,3 +40275,18 @@ SHA1: 39280075e46fe58c998a03eb0d17489425eae775
 SHA256: 853295ca8ed48e47262313bb906b9fa663d18af8bfb4a495195dac9fb3349d7e
 SHA512: 0102c7ba56f7c0fbba6512d96cc5643106470dabd6c1cd9118c6206edd4c19a20c5686ccf4dc695e10e126b95d7e9ad270489af16c52d3eca835f23a35236e16
 
+Package: logrotate
+Architecture: aarch64
+Installed-Size: 140
+Maintainer: @termux
+Version: 3.22.0-1
+Homepage: https://github.com/logrotate/logrotate
+Depends: libpopt, libandroid-glob
+Description: Simplify the administration of log files on a system which generates a lot of log files
+Filename: ../../../../releases/download/aarch64-l/logrotate_3.22.0-1_aarch64.deb
+Size: 37268
+MD5Sum: 69d4559e64038362759e6c06ff2701eb
+SHA1: e06fd9242e5c68ab991777c89a5e9df6d0275e69
+SHA256: 7bcbb3e0ad8b28e26ede357d6f92ffe052fc0ec4e43e96bfb86510d3b7e9edf4
+SHA512: 55074b2d34c393bf552a9da3bf2d647927f123f66c255d195429086a635a4f9c13c01a7cc95edf1ae0deac3fea8be0e1c022f783034741267521bc9c9fe937f5
+
