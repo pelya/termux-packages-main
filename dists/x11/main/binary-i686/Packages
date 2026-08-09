@@ -14477,3 +14477,18 @@ SHA1: cdaecf2eb4fe98792fd1a389b176a19085c529de
 SHA256: f8dbe286dbf265ca88399511d9ff6a55af2ec268286d181f945b800a91e5fd57
 SHA512: 3435e22dfc8f239c8cf22db3f4f002b7b4f7aae5bb6144b80f81301574161a9b7af17a6732d8f6d2dbe016938450f3f0ce31cafc4e5be63ad06562eba36775ab
 
+Package: mate-netbook
+Architecture: i686
+Installed-Size: 196
+Maintainer: @termux
+Version: 1.27.0
+Homepage: https://mate-desktop.org/
+Depends: libfakekey, mate-panel, gettext
+Description: Simple window management tool
+Filename: ../../../../releases/download/i686-m/mate-netbook_1.27.0_i686.deb
+Size: 27064
+MD5Sum: f66384161355796d7f24fac257508b0b
+SHA1: 447c121832b8fd0229596f793848d934618f24a4
+SHA256: 8d4bf9e54021752996d6f42df45ad4e4f6df0dbf09dbb232cf7713e027eaafcc
+SHA512: 314b7e7e5c46c72f6e27171b84b5bc9aaeba7f0984c1c4453b994dc29dbc8a8c843ce92f9fc4ff9e628a7cd81a9a7ba800220d8486ddff814362c965cf36c54c
+
