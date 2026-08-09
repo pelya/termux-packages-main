@@ -40032,3 +40032,18 @@ SHA1: 165d7e7db3f7e4b241b11a521b8c0cd2b321f0d1
 SHA256: 18b80ee96596b5984570245c885a62c4e402931cea064ad5f9681cfd8fa8a99a
 SHA512: 62d1576d37ab586921baf8f66ca5dd8649f78ddc7d8b16a4c7237f4835e968c664a268aeca2c61ba434714088dff7ab6c54eda308e96ed9135df8cfc4b72f736
 
+Package: gnuit
+Architecture: i686
+Installed-Size: 1528
+Maintainer: @termux
+Version: 4.9.5-1
+Homepage: https://www.gnu.org/software/gnuit/
+Depends: libandroid-support, ncurses
+Description: gnuit - GNU Interactive Tools
+Filename: ../../../../releases/download/i686-g/gnuit_4.9.5-1_i686.deb
+Size: 186984
+MD5Sum: b4ae0c5b0eb92255dab35e0d6adb5f73
+SHA1: 6fa3521de9c33e8baa5088bf2a8295b22879edfa
+SHA256: ec02526fc0fca960e9b0d9bf88e6580f888c0ac0fb4ddf163a777ba2fb264519
+SHA512: 34ef294cf7ffaf5fe54c2e369275674b4f7eebbd54cfa1098bd12760f30308680acc7a0060a336682ea7c8704b11603495ad5e5672fd1a3c7016813858052385
+
