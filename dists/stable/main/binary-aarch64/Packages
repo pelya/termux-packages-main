@@ -40676,3 +40676,18 @@ SHA1: cdbcb7b26685b33a72783e2b97c1fc3f97429999
 SHA256: ff7f112556f242cd31f7a29d6ef7a915661b739295c53cba89a49db64d6d29af
 SHA512: 6a9d4adfc5ed32f5ca2fdba0df8544ec698cb389fee8a5af4e22a49bcd471b05ebdbcffb3896de576d7599fb943aae2586434113bcce327092011bce38bff7ae
 
+Package: boxes
+Architecture: aarch64
+Installed-Size: 264
+Maintainer: @termux
+Version: 2.3.1-1
+Homepage: https://boxes.thomasjensen.com/
+Depends: libunistring, ncurses, pcre2
+Description: A command line filter program which draws ASCII art boxes around your input text
+Filename: ../../../../releases/download/aarch64-b/boxes_2.3.1-1_aarch64.deb
+Size: 68328
+MD5Sum: a2eb96f3c482cac837e908dccef1a922
+SHA1: 3dc483a056b7e062ecc2f0f4963feaa4d3879f8e
+SHA256: c19daebcb6b51d16c72abb2764cecd814ba8266b0ceda0b7124dd3be5c3290b1
+SHA512: cec4732cbd1ac53fa5dfd0999536c3af7dc93fc47931efd1d535f5bff1a2d29fd944d13d40b362a75fff7db7628ee291c92965afba9e1cac9321e25aa10d8743
+

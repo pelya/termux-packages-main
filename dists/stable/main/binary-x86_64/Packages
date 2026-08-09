@@ -18049,38 +18049,6 @@ SHA1: afc1ce18a303f85b9e7daba89c861d372f371b00
 SHA256: b3df4060a7f46db65724357606d42279280b8c913356e958c10f3634faab7ff6
 SHA512: 3f5b4ffb33c7538ff09323a30406758052c3cf3de7c358221d08f9a997bd6132d11a0b2c1aab5e22d5ae4a2a0b1a95a970b8792965497e9f57921d6ae98d0042
 
-Package: libunistring-static
-Architecture: x86_64
-Installed-Size: 2956
-Maintainer: @termux
-Version: 1.3-1
-Homepage: https://www.gnu.org/software/libunistring/
-Depends: libunistring (= 1.3-1)
-Description: Static libraries for libunistring
-Filename: ../../../../releases/download/x86_64-libu/libunistring-static_1.3-1_x86_64.deb
-Size: 476256
-MD5Sum: f1f5c656fdb1b1d5dbea0bbbbbf2a84a
-SHA1: 9c5874e5badb37de28b91b8f77e48a603dc214de
-SHA256: 653065b145f3b34c59498616d471aad7bb92784a579f42997a1cc5bb02da41a4
-SHA512: 25dda4693dbea2f918627d4f9e81389aaddcf6d04e5df82cdef43b6aa94d82a7ba10e21ad364c76bc78e8bb44180308a9b0ebfaad475dfeed0b960da723f887c
-
-Package: libunistring
-Architecture: x86_64
-Installed-Size: 3232
-Maintainer: @termux
-Version: 1.3-1
-Homepage: https://www.gnu.org/software/libunistring/
-Breaks: libunistring-dev
-Depends: libandroid-support, libiconv
-Replaces: libunistring-dev
-Description: Library providing functions for manipulating Unicode strings
-Filename: ../../../../releases/download/x86_64-libu/libunistring_1.3-1_x86_64.deb
-Size: 565748
-MD5Sum: 74e0c6237af98dc9aab663665e70680a
-SHA1: f7e3fa3b605316d00b3a81efbe3c73e889f6f192
-SHA256: f9aaf89bf516cd51cf1865f404133e0c5648c224c584b20cdac417e1b430b942
-SHA512: 96b85c65dd0aa58ae9b8e39ad14c6127d1480ae43461a04092df8fa581943c2ef28e938a33bfc0fbf149d655cd9b8e616fb376096a24eecaf4448ceb9cfeee13
-
 Package: liburcu-static
 Architecture: x86_64
 Installed-Size: 428
@@ -37564,36 +37532,6 @@ SHA1: e3f73e72afc288b7e74f051335856e00af2de935
 SHA256: 85fd36f518fd36f59dc7932e0edd0f17b9bed67b103ad7d383652a6cd3c9a6dd
 SHA512: 6ed492235bf90144bebebbf53564acc63f5af31d258027c08637c13812f8f0fb39c342ae4083339283e1079e1e51b7a19c06ebe2947221a15eb87c68a89c90c1
 
-Package: libandroid-support-static
-Architecture: x86_64
-Installed-Size: 72
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Depends: libandroid-support (= 29-1)
-Description: Static libraries for libandroid-support
-Filename: ../../../../releases/download/x86_64-liba/libandroid-support-static_29-1_x86_64.deb
-Size: 8564
-MD5Sum: 395340a1db7d475de38896fb63822d3e
-SHA1: 5193d712bb8cb6818a88c61fef232538744d9686
-SHA256: 6686c24d909b8427b919fbdaa2ea6eb9673460f724f5fd711c630822c73ac8ac
-SHA512: 824494ad81ced4e4019049442378362088da03bdc839c40d175f12dd1e5adc6e5985f407a812a20860b9eba8ffc616339c498c8eee423f04c869bb47f56291be
-
-Package: libandroid-support
-Architecture: x86_64
-Installed-Size: 76
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Essential: yes
-Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
-Filename: ../../../../releases/download/x86_64-liba/libandroid-support_29-1_x86_64.deb
-Size: 11000
-MD5Sum: d54a7049b9cdb16f38d8f0939a614f57
-SHA1: 3434e5608abf61e8be59f5aac3cc199988c6b83f
-SHA256: 6f499433fb35f1714201d65d5c9ad631c3bfea0bb1f0e53c9a6849d6f758a4ab
-SHA512: 9bec9ebd08e3d712e3cfcf9250e5df0a82230933f7aa79e246cf56140dd55e5e02260a5173b3ed31d7536cf5edbe3a523d48429e5048f72364823f04d84c7422
-
 Package: csol
 Architecture: x86_64
 Installed-Size: 236
@@ -38312,21 +38250,6 @@ SHA1: 0721c65076903df3c1328e7bfe2d7a3c3bb33272
 SHA256: 672cfb113ce765711d4d9d4d57e2d09f1640df65f1b14f71651c5870685b930d
 SHA512: b856888bb7ba9a90c1589c1626dc24dc3fff48c9efb7fc8c0d8ae46ace6811e9d1f25bc44ea114ebb2f8d51c2fa53a05045bf150cbc3f3ec0fe656955dd3f925
 
-Package: iconv
-Architecture: x86_64
-Installed-Size: 56
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Utility converting between different character encodings
-Filename: ../../../../releases/download/x86_64-i/iconv_1.18-1_x86_64.deb
-Size: 10184
-MD5Sum: 7a3ebeca23609a54d3ee9381b21734e6
-SHA1: a60ca343ecb38cd117537e91e30472c5d5397995
-SHA256: f90c58ca64649784199f89b5e84d59ff7c434ace0f80238a3da184a56fe5c591
-SHA512: 4d6a8be630f11a150319a5a0783123e625a0d0b9f0a2b16341a73af86fb1b37110289e13776d4e1ad9bcbc22588f79751774463a1ad2b51107e008b3648707ca
-
 Package: libandroid-execinfo-static
 Architecture: x86_64
 Installed-Size: 36
@@ -38405,37 +38328,6 @@ MD5Sum: 5c3bf4bc2ac44d15013a3589a2c51898
 SHA1: 92c81557ef181835583223164caf590120632ce6
 SHA256: 180033f75fc7f0e9e88af624f7a4bb56b41fc242ad738e9a732e7dc57259e4c1
 SHA512: b341cc6f3f759fccac6d0327ae537df5df7a22edab9393933af707a3218a978301731a0522fd0291c385daa3ddc222cccce3a911360589cf964a324eb0ebbc4d
-
-Package: libiconv-static
-Architecture: x86_64
-Installed-Size: 1200
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Static libraries for libiconv
-Filename: ../../../../releases/download/x86_64-libi/libiconv-static_1.18-1_x86_64.deb
-Size: 551872
-MD5Sum: 196643085b281117186ef665667cda1d
-SHA1: f87aa40a105fe0a0fe593984414b76b674f3c10c
-SHA256: 3c857a19b038170a755d3d85bb4a5d82a4516719d5041507ac1204f4b0535268
-SHA512: fad2737569dc6dce1cd413b1b8df4b050fc7ca44aa3a3ee251fa37d8cccd34f59caeaf0afbe155335739e0be16befa565a6a62571b6b2d81e5511b80081cc83f
-
-Package: libiconv
-Architecture: x86_64
-Installed-Size: 1216
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Description: An implementation of iconv()
-Filename: ../../../../releases/download/x86_64-libi/libiconv_1.18-1_x86_64.deb
-Size: 563672
-MD5Sum: eddec44bf123685a5b0a1718164d7dc4
-SHA1: e78f76b83edaffa6f844b28dabf0db91e165c011
-SHA256: 723fd4887949c6d9367fedb28b3ad5dcc34a0fabf978137dd0d7c28156c4e57b
-SHA512: eaff7e6e03657d5b40acd4e871a4536df02a360a820371e48dad6fb7f107e5c3bd22ea09e5bc15758439c4422bfd4582f0148347207fc4b95f9f9b8fd6844570
 
 Package: scrypt
 Architecture: x86_64
@@ -39715,84 +39607,6 @@ SHA1: 259b7f1a99c6e674e5849a1faa90d309e02d21c1
 SHA256: 04493d65ccc0817e90c81d57b6f84ddea76c215d4dc31697083c1fefc4e8818f
 SHA512: 02d46b2a2ebd83e8ef0ba8286efe19dfd29246f54b360de2e9bddd5ed9d2e63601f6f9427c00d42c46a81aa136a647ab29c2adf86401dc73f7fde3d6960619bb
 
-Package: ncurses-static
-Architecture: x86_64
-Installed-Size: 752
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 156596
-MD5Sum: 669c54a60708e0d6231258a908b0c234
-SHA1: fe985d00d9cb2c07584cb245556b3c617be92d8a
-SHA256: 11bd0f1d919e6935f5172bf14372f2723128fd09ba3754cbb30427c93a6ad0e6
-SHA512: ccba76902c0041c72f61cebe7acc697d2fb79a62465fa596ef6c806eb6e187a08696613a97561c8dcef4405c6dcf51be2c82f30c2dc16e79e028e356b6e7433c
-
-Package: ncurses-ui-libs-static
-Architecture: x86_64
-Installed-Size: 240
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 39152
-MD5Sum: 2fe07782325e3783ad8018fa267eeeea
-SHA1: 9bf5e47e5acba78877ee058d10c61c6834b9b3c2
-SHA256: 4c8ca201177403f201bd359bb7c845076f24e0e5b00b1f82a26a74fef31af4da
-SHA512: 16176e10fc56866be7e8d366abfb6fcb404c3c91f48f9714e614621e89b9470abbf5da08f454a92ffdee1041c7242ffd127dcdb917ca65c6a34588c1e37931ef
-
-Package: ncurses-ui-libs
-Architecture: x86_64
-Installed-Size: 144
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Breaks: ncurses (<< 6.4)
-Replaces: ncurses (<< 6.4)
-Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 35412
-MD5Sum: 99520e4940d794b6709bb64e6dc3d077
-SHA1: 85b2571de1d370d34db9ae4f5ea9ee882adc210c
-SHA256: 2dffbefe0d7b8b3f1f9a876fa1c8b9b85481db3fe7f623481c10a32dda8faa0c
-SHA512: 1e737d95f2e39e7b2d12770ec461c872e184c8cd8c50549df95fd3cb7de0e63a9c94642b5c42d228586dacb6f1038146f3a2ea9e15f999edf367b02a999dbf77
-
-Package: ncurses-utils
-Architecture: x86_64
-Installed-Size: 272
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Tools for working with terminals
-Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 92600
-MD5Sum: b31dae0d3dafdad4260ab0f22d14ec2b
-SHA1: 5162238200188560c16b102313ab78b02c6e1a39
-SHA256: 3992057ddf544abada779cec1470cd56890e7ea11effa5795a52f4fe42fce940
-SHA512: 6fbef57f19b78ac1a7f9fb35055bd3d95ad29614f6b073bcd714f78fe5090b65911baba2f1e74f988f4c0ca18fdf0cf8e2f5a8940ba10e07542d50e08eb2a0e2
-
-Package: ncurses
-Architecture: x86_64
-Installed-Size: 1604
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307+really6.5.20250830_x86_64.deb
-Size: 569924
-MD5Sum: e376852d46a3a26dabb6ffa4aacbe09e
-SHA1: d6f3fb8b74afd89cf55f8b4fe93ab457be0ca689
-SHA256: 4944e958ddf5537f071076063bb8380913196573d3115ca5de19ab8d0724ea7c
-SHA512: ccfd4a0886aa118e2eb3cb49a24c134c418da4e04c641025597634c2a883ccf81e88e67fedd56ce172350b8b53b289708be613c96aaaa9af4a639454f9e7e34e
-
 Package: dnstop
 Architecture: x86_64
 Installed-Size: 188
@@ -40644,4 +40458,205 @@ MD5Sum: f74f0800d3986042290546fd98ea4dd2
 SHA1: 0eca9f65abd4f90918c3ca6f3671acfb1682e95d
 SHA256: b03c9f57cb1a1b8858cd53f46d479dbec3e7cda20f16d1022d8df893b00bf68c
 SHA512: 8532551ef65e9c6db1b2a1c232fddd8fee3972b7e74f4d8cc783e03c3791802c738c9965a85e21c06e5cbe3426b5e91acdd13b60010292443dac9227a018a234
+
+Package: boxes
+Architecture: x86_64
+Installed-Size: 264
+Maintainer: @termux
+Version: 2.3.1-1
+Homepage: https://boxes.thomasjensen.com/
+Depends: libunistring, ncurses, pcre2
+Description: A command line filter program which draws ASCII art boxes around your input text
+Filename: ../../../../releases/download/x86_64-b/boxes_2.3.1-1_x86_64.deb
+Size: 72324
+MD5Sum: 36e83eb0056c8123893c9bc2546808f4
+SHA1: 3d500c50bf85c08a0c4eb3a24a9bfd8f24cfa95c
+SHA256: 5d855e6fd8585bde45b32df0abe72a97803cba5f1147d73a4ccf717fde71ea58
+SHA512: b30967cb27b3618b3f61afb3c6419a172262b1b2691c92cfe6d0ef0d3d89381048449da637f7ae03fc526276ef085f13f2be2cea553198946f0d2402e5910664
+
+Package: iconv
+Architecture: x86_64
+Installed-Size: 56
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Utility converting between different character encodings
+Filename: ../../../../releases/download/x86_64-i/iconv_1.18-1_x86_64.deb
+Size: 10176
+MD5Sum: 93492783a3e3dffad2adb66c98a0f8f1
+SHA1: 40c61138700795b65a5d8ab2316b50e496d8dd36
+SHA256: 63678895329b1e891fb7f1c5d29838e1cb8dc7395601ca4dc4afbd69c4154b15
+SHA512: 1f14832308a715faf1d357b51ee2e3c48440239ff934685171f56a2d24405672eaae667e7afd5cb673c3378eae5460a456d91f49e4142a4d93753d34c3e1097c
+
+Package: libandroid-support-static
+Architecture: x86_64
+Installed-Size: 72
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Depends: libandroid-support (= 29-1)
+Description: Static libraries for libandroid-support
+Filename: ../../../../releases/download/x86_64-liba/libandroid-support-static_29-1_x86_64.deb
+Size: 8568
+MD5Sum: c9c9b8bb16d3e46c9d1f71c01a7412e9
+SHA1: 5ce5b0d29ad784700ad22d8469881564cb3ded77
+SHA256: 945bc0782df6ea5406ea49b4324146b97154f27a848dd4b5c6c0fa5c9ffbd02c
+SHA512: 41f383b5a4e48dc32aca1b60dd2f51836ab539dff30eea28d860dfdeecbe20a470b6bf8f774fa6028eed60d4742a46919031d6ec1c87088fb7ced78173632acd
+
+Package: libandroid-support
+Architecture: x86_64
+Installed-Size: 76
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Essential: yes
+Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
+Filename: ../../../../releases/download/x86_64-liba/libandroid-support_29-1_x86_64.deb
+Size: 11000
+MD5Sum: ea08e3cfa5ffba0d8b21310daece351d
+SHA1: 971cc631fb64977c081362f82fc825370d22e021
+SHA256: d99f2c2dc39eba7b6d48df04ec489ecc34f9ad22c2527256ceeb4502d301533c
+SHA512: 2730c5f8e69110452cc7174b1c736f89d86ee4abb872b2804d315d1ea589e84c139f3db42f0d1758ea21f7eaf30850dbba18b52ec1af8f63d503aa52e69ab687
+
+Package: libiconv-static
+Architecture: x86_64
+Installed-Size: 1200
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Static libraries for libiconv
+Filename: ../../../../releases/download/x86_64-libi/libiconv-static_1.18-1_x86_64.deb
+Size: 555412
+MD5Sum: e050e67d30718cadcf0de7aa3fc421e1
+SHA1: 5541a5eda7f9bac45b271a4d0858823ab8a47461
+SHA256: 1b0b60e5d48ef768a65f24eeb71b8a2b2d1be5058bbead8447745d153281f544
+SHA512: a31a999568fc229f2e8151a7140ee0c058fc1b6c5795835e3fad13ac6962e497b3ed650f1355dbc856239fce6075234c4e7459a589a77aa7f70f0620d5d5e9d1
+
+Package: libiconv
+Architecture: x86_64
+Installed-Size: 1216
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Description: An implementation of iconv()
+Filename: ../../../../releases/download/x86_64-libi/libiconv_1.18-1_x86_64.deb
+Size: 562548
+MD5Sum: a7a2097db6e54413cf72607c44e1da54
+SHA1: 683ccf87433e74220ce38514a379c461cc0dfed7
+SHA256: b14dc2a4c7f0ebf9009a9c976a69cb79bae2e5e61e55848c92d7e72168e202f2
+SHA512: 29800912b56f64864820f6874f3af764045b6f388cee7b2ef961529a5a46dc99ffebd6b35ed7f59e2044b39f43098e133e4b96d4fe81044d51e460a89720beab
+
+Package: libunistring-static
+Architecture: x86_64
+Installed-Size: 2956
+Maintainer: @termux
+Version: 1.3-1
+Homepage: https://www.gnu.org/software/libunistring/
+Depends: libunistring (= 1.3-1)
+Description: Static libraries for libunistring
+Filename: ../../../../releases/download/x86_64-libu/libunistring-static_1.3-1_x86_64.deb
+Size: 490096
+MD5Sum: 83504a83fbf93326143267cb757ee1a6
+SHA1: f79fb120b2d545d5fd028c0c5d22ee7697d3de90
+SHA256: dc83402c60fee77a2cfe013ad46568da948c123d4b5a3100d735c95cefef208e
+SHA512: d1572f7115a32c7a04c287940535a1158210d04a9cdf12fe0db7fd1032ba64bbfd36aca032422be80f3f20ea7ec0f71d5b5756db6426d82f81407ca6d4865ac6
+
+Package: libunistring
+Architecture: x86_64
+Installed-Size: 3232
+Maintainer: @termux
+Version: 1.3-1
+Homepage: https://www.gnu.org/software/libunistring/
+Breaks: libunistring-dev
+Depends: libandroid-support, libiconv
+Replaces: libunistring-dev
+Description: Library providing functions for manipulating Unicode strings
+Filename: ../../../../releases/download/x86_64-libu/libunistring_1.3-1_x86_64.deb
+Size: 568812
+MD5Sum: 9f7a647e7ff2e3996e93f3d1991af3bc
+SHA1: c7c8638dab4fc0306d81456cf7ba390542053193
+SHA256: eb0a6421afbe9213c0fe5dff97e5dd446f4b88ab616b54b05f63b4640070facb
+SHA512: 2ed7c1e602b21050e78e5dc87af9a2faf2f04c32d8f1ca4c3287762c91693f22f9249ef0eb204d135a497b0ea45d39f6e2b5162d49ba8a82afae5bd2422ba643
+
+Package: ncurses-static
+Architecture: x86_64
+Installed-Size: 752
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-static_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 156708
+MD5Sum: 1c75d0ea5d0590413bbb946b40001fd7
+SHA1: c73fa4def48d376b7ead94baa57ef8713288c063
+SHA256: 4f995778411c9ff029f3dd05e549642aae332428d3e22cd3fac5e6cdb3d6144c
+SHA512: 9d441edb6a7519c83f4134e6e35382439dc267f56780a01e95f90737028653853128880b467a8cd3d666f90ae6c7b9c8e4e2f8c9414cb51031d8f285f219be79
+
+Package: ncurses-ui-libs-static
+Architecture: x86_64
+Installed-Size: 240
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 39140
+MD5Sum: 27428a20f0f8cb19b42c0457e6fa771f
+SHA1: 11eea2781e7a0406ae4c3d2d123d6507e71484c2
+SHA256: 7363a26944e0e2624bc49c9ac156cb13363eaf4ea2a3356a7ad807117fbecdbc
+SHA512: 98a7a2064a89e173da0358030539bbcc0eb7e9739ef1df6836fe0175343d6df9570c57a0d73df05c842aa1965b03e9ea6910d6430f05bb514db5b35a7bb124b0
+
+Package: ncurses-ui-libs
+Architecture: x86_64
+Installed-Size: 144
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Breaks: ncurses (<< 6.4)
+Replaces: ncurses (<< 6.4)
+Description: Libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/x86_64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 35412
+MD5Sum: 9e4ccec5b47713ae493742bee3a496e8
+SHA1: da381a86ef11f69f8d8e9469126b277aae4e5189
+SHA256: 0520cd96bae3aa29fc06052534b6c3c1e6e1a02b0a11844a7fb0c1a0bc34a9ed
+SHA512: 70f7c725a3c0d1ae55ac3ec514487e21403079e68c392518e058863a4a190f4cbe979d49bcd801e4ac0494caa20c50fe45ad9d49c1da0ea4b0b558f33d76ffb2
+
+Package: ncurses-utils
+Architecture: x86_64
+Installed-Size: 272
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Tools for working with terminals
+Filename: ../../../../releases/download/x86_64-n/ncurses-utils_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 92684
+MD5Sum: a15b2f36a15a6a0e7b62b31471bc5f9f
+SHA1: 926c33c3e3a11ca2a6ecaf60f8c0775d0b13a75e
+SHA256: 6a132c29e754f6fdff17e1a41fa2626a9d16dae51101731fe85c84b5f551377d
+SHA512: 95567ca2766659a9436f33ec7cf8d1e408fef3fb3a9735ef0c0016d807c600a8a5c2482b55201c5ec3f5b871c37123f8807b53d1b8d59563c058cca5f334fc3f
+
+Package: ncurses
+Architecture: x86_64
+Installed-Size: 1604
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Description: Library for text-based user interfaces in a terminal-independent manner
+Filename: ../../../../releases/download/x86_64-n/ncurses_6.6.20260307+really6.5.20250830_x86_64.deb
+Size: 570072
+MD5Sum: c5a2c73d97fc549ae45701cfe2aa2871
+SHA1: 9a1abcd0d6f1d3c8eed9b3f86e987a2e02512af6
+SHA256: 26f2e7ff99b19c183120f4b61603b9a4dcafa9cbacaa34cc3321e10c98c159a9
+SHA512: 9af4e4bcd43711a6ca7121758b40ec7a14cf6ef70cac69102e735efaa50730f58662036caae2a873d0a755297fccf43c84f89644342bf6dc5995fb85b86f3efa
 
