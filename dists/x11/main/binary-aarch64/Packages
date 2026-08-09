@@ -14688,3 +14688,18 @@ SHA1: f008318a242595f5cc3c2b653dd56b926bdeee34
 SHA256: b73352c0e1b50cf5e1e60e446aa6181dba155835aa699cc55d0fecdb70f54b3b
 SHA512: cfc36edbcb4388e9d33c613a107ecee0e82309c2be016be55c8f77c4d67f4b23d9e41a86b97c236b55c458618d21a09f9dd28f6e92f08432b682e0e2f66593ee
 
+Package: pcsx-rearmed
+Architecture: aarch64
+Installed-Size: 2312
+Maintainer: @termux
+Version: 26
+Homepage: https://github.com/notaz/pcsx_rearmed
+Depends: libpng, opengl, pulseaudio, sdl, zlib
+Description: Yet another PCSX fork based on the PCSX-Reloaded project
+Filename: ../../../../releases/download/aarch64-p/pcsx-rearmed_26_aarch64.deb
+Size: 743832
+MD5Sum: 058e08dcae606647db31b376e5783cb8
+SHA1: bded2d8aacbe48cb28a1cd320006784980513451
+SHA256: 730f8ad80ec3d6168249ca5ae29848f6ccd1ce5bf68f5769c7cca258a3e12925
+SHA512: de389d9b9cb0fd64a76ce952b298ad5b01b4923d084bb0cf58772e5a05054f9826d0226f24369877a0f2af1d93a933403bbaae2dfc8e6b36d99cfbdeab692adc
+
