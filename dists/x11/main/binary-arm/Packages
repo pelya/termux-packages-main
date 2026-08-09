@@ -14309,3 +14309,34 @@ SHA1: 68911c5923cb001a8350a11c29247fb59bfdf4f2
 SHA256: da75713997b54bb376eb120f46c1736361db79f0c8c87590ea64943fae588c67
 SHA512: 7c15b565a0d31711b1caf159d3ebf74152cda5ccd9c98a670588e5baf94fe2ead3b73df148e1b693b6ba7985cca05281989c246cbda740061d11401b80f6690f
 
+Package: dunst
+Architecture: arm
+Installed-Size: 340
+Maintainer: @termux
+Version: 1.13.2
+Homepage: https://dunst-project.org/
+Depends: libandroid-wordexp, dbus, gdk-pixbuf, glib, harfbuzz, libcairo, libnotify, libx11, libxext, libxinerama, libxrandr, libxss, pango
+Description: Lightweight and customizable notification daemon
+Filename: ../../../../releases/download/arm-d/dunst_1.13.2_arm.deb
+Size: 91672
+MD5Sum: ac32593226ab1b92b366806ef9864d36
+SHA1: 360945d3e8456d1f3af05ab4c7a535da4364e2eb
+SHA256: 3c3fb82e497135cb63da6bd65993826fa6c9bd790a1e2c33302fec50801b7942
+SHA512: 592d6ddacc74cd808030124a84dcf1c0bc5385c281dfa96b7ac60a1be85165ea93228fa9446af3e9da3086f1b53c90f117ce9d424eb39c4a5e6b79f9a33bf696
+
+Package: kde-applications
+Architecture: all
+Installed-Size: 4
+Maintainer: @termux
+Version: 26.04-14
+Homepage: https://github.com/termux/x11-packages
+Depends: accessibility-inspector, alligator, ark, artikulate, audiotube, blinken, calligra, dolphin, elisa, filelight, gwenview, kalzium, kanagram, kate, kbruch, kcalc, kcolorchooser, kdeconnect, kdegraphics-thumbnailers, kdenlive, kdialog, kfind, kgeography, kget, kgraphviewer, khangman, kig, kigo, kiriki, kiten, klettres, kmag, kmahjongg, kmines, kmousetool, kmouth, kmplot, knights, koko, kolourpaint, konsole, konversation, kontrast, kpat, krdc, krfb, kruler, ktouch, kturtle, kwalletmanager, kwave, kweather, kwordquiz, lskat, minuet, okular, palapeli, rocs, step, svgpart
+Recommends: angelfish, arianna, cantor, falkon, kalgebra, kimagemapeditor, konqueror, ktorrent, marble, neochat, parley, tokodon
+Description: Meta package for KDE Gear applications (incomplete!)
+Filename: ../../../../releases/download/arm-k/kde-applications_26.04-14_all.deb
+Size: 1120
+MD5Sum: 0cc785b983cf5631ffcc626359bf0bd1
+SHA1: 6e50bf787cce58d77f2b4471c4265e7446bf4308
+SHA256: 2f480d7514a6751ea0b8096f9fcf5885a7470b889d309f5eb3d2acb3d54bd56b
+SHA512: 86360fa2206f40d225edfd419451775119f90287a8ad2d318be4e978a716ab8d81d4723493f52fde96a85a6f29697fe497fca815d21154c8ffa6827997d63427
+
