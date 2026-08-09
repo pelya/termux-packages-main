@@ -39013,3 +39013,33 @@ SHA1: 6408535c67de1b9f16ecf2bd2693945a9f09aac4
 SHA256: 9916d986b22d471eef60677a11db66d30565481a4471a34ba6d72c38849f0c5d
 SHA512: 91afb28a590f9698119e0902e48d5b2241411f0624da7064c2b13a98942cc7faae283b77deab419f828d3760c454760c45de78c9709f772b93a852e41a3ad034
 
+Package: difftastic
+Architecture: i686
+Installed-Size: 120220
+Maintainer: @termux
+Version: 0.69.0
+Homepage: https://github.com/Wilfred/difftastic
+Depends: libc++
+Recommends: file
+Description: difft: A structural diff that understands syntax
+Filename: ../../../../releases/download/i686-d/difftastic_0.69.0_i686.deb
+Size: 6868076
+MD5Sum: 0bd7306d189ac45f205e1bf85a4dab2e
+SHA1: 15e44fbb90a064629156ce71e93edd5f970b0ebd
+SHA256: d7a2dc702d45edc5fc08e2da61b64efb0b27b351c52d6819e307027aa5262858
+SHA512: 9d88b16a8b66679539bdeb845ac56ccb425f5f610816df07096c0b8ffa5f7664094ff51d7545aa45da1c3913285f20adb779dd0c8ac894557979adf799a68ab1
+
+Package: fortune
+Architecture: i686
+Installed-Size: 2596
+Maintainer: @termux
+Version: 1.2-2
+Homepage: https://www.fefe.de/fortune/
+Description: Revealer of fortunes
+Filename: ../../../../releases/download/i686-f/fortune_1.2-2_i686.deb
+Size: 817760
+MD5Sum: 0bad8221374a4469b7295fabee0f6c7e
+SHA1: b25394562c91947993bbaa41336c967986aa9bfe
+SHA256: 11ed1916a8bf169d9170e9477cc1ef778134b29a894539c4c4f2694f8145c1ab
+SHA512: c53be19f38718b1069ab8be4cc10ef5b420272bdbef72b3446dfc1beea935420399c476187a3ba94564d451d5bdc94f5c95f6ccd52fb010ad6b43ec97f4f0cfa
+

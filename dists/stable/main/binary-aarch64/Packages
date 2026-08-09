@@ -40015,3 +40015,33 @@ SHA1: 3f07b8b1f2ea4930d4066a542d13ce65d6d65963
 SHA256: 2ef24f7303b5cc4874fdc63c608bda05bbc2b8b2a8a32f1493dc2b1cef7999c0
 SHA512: 8214378ff08cc6b633bb351acd3d3d6af23daddd9f7762863eca42b29104ed6c53b7ced31ecb3ccd725ff375736d815a1b50bb8fc91e891e79f52455901c9dfb
 
+Package: difftastic
+Architecture: aarch64
+Installed-Size: 120716
+Maintainer: @termux
+Version: 0.69.0
+Homepage: https://github.com/Wilfred/difftastic
+Depends: libc++
+Recommends: file
+Description: difft: A structural diff that understands syntax
+Filename: ../../../../releases/download/aarch64-d/difftastic_0.69.0_aarch64.deb
+Size: 6583280
+MD5Sum: 8d6519afdfa38cf74b6ac17a99acae93
+SHA1: 081d365ef73cd11149da667b8a11c2c760883317
+SHA256: 049b688dba5bd5d8ebf4d2b156941b17305c8955a11e312bd15d7ef7fc1fb3c7
+SHA512: 982fd386c17a9a274e2e7b08b307f11454d8ef6f3a77b3aa76d3bd2ee7175ae5e538d478f2a94ae9c7df9e12c41ca01c6ae9b7fbbcbf86a97159de830c28a26f
+
+Package: fortune
+Architecture: aarch64
+Installed-Size: 2600
+Maintainer: @termux
+Version: 1.2-2
+Homepage: https://www.fefe.de/fortune/
+Description: Revealer of fortunes
+Filename: ../../../../releases/download/aarch64-f/fortune_1.2-2_aarch64.deb
+Size: 817716
+MD5Sum: f6cbf62acba164ab6975879fbda212db
+SHA1: d3f3d31308807df22a23a2b8e1f544b5e1e4d68a
+SHA256: b417d0c9674afcfbdba64979ffd4753210649d77dc600833c659cbc194d39c66
+SHA512: edee3ccc4203073efec6cefec8e9703a27c828ead655169739845464b824d61878dff91c1276153b1d6fef18d787937cdd21e026eefb45632e25a1b2ba1788d7
+

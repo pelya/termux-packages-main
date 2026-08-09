@@ -38266,3 +38266,33 @@ SHA1: e26061a7977b3835a573b3eecfaa04017c376d46
 SHA256: bbce7e28a9d21cb58fb9cbed65338928ffd74a5b5aa9eb0ff4a5d01b99530541
 SHA512: 7d7becbb78c122574d694c222665060ea96abbfe5cfee235cfca0ce678e9751ac5c7957f6ef32acf3aa326b89472cb81498092c5fad0f1130801243c390a6e68
 
+Package: difftastic
+Architecture: arm
+Installed-Size: 117400
+Maintainer: @termux
+Version: 0.69.0
+Homepage: https://github.com/Wilfred/difftastic
+Depends: libc++
+Recommends: file
+Description: difft: A structural diff that understands syntax
+Filename: ../../../../releases/download/arm-d/difftastic_0.69.0_arm.deb
+Size: 6588032
+MD5Sum: 1165e5c13512e66a5d513c8edc44c1ce
+SHA1: 534bef2702902449af01dc6818fcc3a0c556d066
+SHA256: dfd8232c17047758228ec9ce311a40c281244d02ddce0c92399c11bd64b8532d
+SHA512: 10d111c216284b3e04002d94f5ec35985f98ff7a8b8d8c409f4afe70d3f59af910c7a3a74101c37590b70beac66d9a6a02a68b92764c6609c86c084b6dad1cc9
+
+Package: fortune
+Architecture: arm
+Installed-Size: 2596
+Maintainer: @termux
+Version: 1.2-2
+Homepage: https://www.fefe.de/fortune/
+Description: Revealer of fortunes
+Filename: ../../../../releases/download/arm-f/fortune_1.2-2_arm.deb
+Size: 817708
+MD5Sum: d37de0d0826709be76a916ba51702e3c
+SHA1: d512b7a641fceec7b6faf475442698882935691e
+SHA256: 868f026a396c807df6beafbc8d58735fcf602610ddcc99eb40428f24c3aa1737
+SHA512: 7642f4f84e878d44de55344ca8c1de2d6b7e14cbb62773c4e8522198c4510eb8365bd059a18a43d2eb0765b9ffdf6198b2bf273107b7fa9410577735cd0aafde
+
