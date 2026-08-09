@@ -1116,21 +1116,6 @@ SHA1: 60c6b3352dd9dba23c34a580c919ba1f0d4c5638
 SHA256: a08c9742dc027ee6e1b53ac2f8577a188601ac75324d8d818e61c80bc3093ed2
 SHA512: bd41bc35f3f00921588f784e14147f87bee65375312aea056acd26f77c8fb86d6b139d1946a10a97ce87e95b0c7c8a6d44763986eba0d4129f18ab8c86b9f1fc
 
-Package: extra-cmake-modules
-Architecture: x86_64
-Installed-Size: 1168
-Maintainer: @termux
-Version: 6.28.0
-Homepage: https://www.kde.org/
-Depends: cmake
-Description: Extra CMake modules (KDE)
-Filename: ../../../../releases/download/x86_64-e/extra-cmake-modules_6.28.0_x86_64.deb
-Size: 205788
-MD5Sum: 7426f6844f74c80c4356d44c8292a75b
-SHA1: bb900109bb0d41a1a322a6585288184cddcec700
-SHA256: 494f4bc063eb9e964c6b677660f003f80e701797d0898f22f3c28d2fbce62092
-SHA512: 8f259dfbc71dd5eb1cadf69f7c0b93f7a742efdea1e793eb0912657c4d3227940c0edea91c732f28a8902f680223c33d953d562e9d443a4c9493f286ab50c564
-
 Package: falkon
 Architecture: x86_64
 Installed-Size: 6920
@@ -14645,4 +14630,34 @@ MD5Sum: 15777b579650294110e84cee64be8abe
 SHA1: 3ec4a88c1faf76ac47b316a635b72c214e34dbc0
 SHA256: 1ced0fea768f3512427c2e4cf01ff4b57018a98b9dcae38cf9aef41322727ad3
 SHA512: 51223e5df43c9582d32d4b69465d915cbef5aae39b1a061941baf0a005c12d2ddf958368a12cddf62fa0e7470e92586a451664d9687b8ac72df21d028232e9af
+
+Package: extra-cmake-modules
+Architecture: x86_64
+Installed-Size: 1168
+Maintainer: @termux
+Version: 6.28.0
+Homepage: https://www.kde.org/
+Depends: cmake
+Description: Extra CMake modules (KDE)
+Filename: ../../../../releases/download/x86_64-e/extra-cmake-modules_6.28.0_x86_64.deb
+Size: 205752
+MD5Sum: 09f1785f926a87397f284502d7535a5e
+SHA1: bf2ca47f2de7e9c22a41c8d4f687cc378342e578
+SHA256: be0e00c4b88dc9557cd1fdc7b5a8a6559e52f60abd8712d27e1b185fc1e58d5e
+SHA512: 3ececa74e8115fda09d2904a2a68e56982b0a04a26b3acb4e4afdf3f5605787e308f39341ca187cd2990d6078196cb2274f2356b17984bca138c276f4b23bf16
+
+Package: kde-gtk-config
+Architecture: x86_64
+Installed-Size: 444
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/kde-gtk-config
+Depends: glib, gsettings-desktop-schemas, kdecoration, kf6-kcolorscheme, kf6-kconfig, kf6-kcoreaddons, kf6-kdbusaddons, kf6-kguiaddons, kf6-kwindowsystem, libc++, qt6-qtbase, qt6-qtsvg, xsettingsd
+Description: Syncs KDE settings to GTK applications
+Filename: ../../../../releases/download/x86_64-k/kde-gtk-config_6.7.2_x86_64.deb
+Size: 72564
+MD5Sum: 2f2545d4529e7cd05922226106fdd454
+SHA1: c458ae397bea6139c8baafd8bdf7105cfc6f3baa
+SHA256: fdf40a0d86f532772198ec16dac9bcf1ca5dd526432e022dacd6cfa34a128b33
+SHA512: f9866ff02c1aae26f3dd5c7273f3ce092a52b54c1cc82f080c5e464f9a91ad7837c0fdcdafcae98397903408430a849e9264f06ad2010119b264969d13a7ece3
 

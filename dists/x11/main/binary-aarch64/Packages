@@ -14718,3 +14718,18 @@ SHA1: 43848212fd5a44a635942e01d90a95c49554e1ee
 SHA256: be48952ffdd8f2edfbc4b0094efda533063abf672b5eaf2f1ac425d97a7a095f
 SHA512: e891708997345b4cfbd0bf1023a2b4c22e3c88de42c36ec1fb2932902f07e919b3636f33b2bdf7fb85ea7f3b0e6e3210f6246e7daceff77dcd6363f31ab21416
 
+Package: kde-gtk-config
+Architecture: aarch64
+Installed-Size: 436
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/kde-gtk-config
+Depends: glib, gsettings-desktop-schemas, kdecoration, kf6-kcolorscheme, kf6-kconfig, kf6-kcoreaddons, kf6-kdbusaddons, kf6-kguiaddons, kf6-kwindowsystem, libc++, qt6-qtbase, qt6-qtsvg, xsettingsd
+Description: Syncs KDE settings to GTK applications
+Filename: ../../../../releases/download/aarch64-k/kde-gtk-config_6.7.2_aarch64.deb
+Size: 70016
+MD5Sum: 8f988bed8238c3f5963acede04cf010f
+SHA1: 1d1ca32b1d4f253586950725e1f6b65ae663c940
+SHA256: 3436fa8eac5a3fb19a71ae789e9451a2a3bedae75553bb1aa2e4e089afb8157b
+SHA512: edbfd206ffcba79792792cefdf90f90214708650a283b417cb3aff99091fcc677f681f8a237d9eb294b42ae6dd2dedeb4a40ecb13e98e00b40fd6d4bf4390a9f
+
