@@ -38571,3 +38571,17 @@ SHA1: 103616f5ce8ec6a5940b2dca3da6cedf322d26cc
 SHA256: c58b44147b72f5155f4eb6ca9761fdfb4baa532ece1f73d2a1d006fb06c87d2b
 SHA512: 45c5a6e09645c3f09709325c32c561ede6075ae6b69f1c2a971d7542cc7577451b5e02edcd320542e67ad853b7f0a09023ace9994a5252bb4b29273043a2e691
 
+Package: proxychains-ng
+Architecture: arm
+Installed-Size: 108
+Maintainer: @termux
+Version: 4.17-1
+Homepage: https://github.com/rofl0r/proxychains-ng
+Description: A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies
+Filename: ../../../../releases/download/arm-p/proxychains-ng_4.17-1_arm.deb
+Size: 22016
+MD5Sum: b18f7a8de2454847be70e6dff988671f
+SHA1: d56fc6ad8bdec964bc4d10bf6bb9c7cc7fcc374b
+SHA256: 72e7b7130d91fc962238473e1a25d0be449ca34dc261a42c43c357d8837caa5d
+SHA512: 64549365764da270fcf8542804d30b44b38bd6d476c1f2b40422797ce981f2fb110bc979966a19bd0fdff3a8c5afa57d1edfff0598aa26fb67d21010e2668277
+
