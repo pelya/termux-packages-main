@@ -39285,3 +39285,17 @@ SHA1: baeba66c280fd2d8d1fa74ecb1a02d31b7eeee9a
 SHA256: fc464c410790175f7c35e36c413c3868f25bde82fdc6402d0f0f388fb7f85dad
 SHA512: baecd727859a61599e30730bb66eef984f18286bad5ff6ab57f1b8a8aded7a9467d24f552d6cbd518441223737d9b3a2b6d1d7e27d9afccee841e25036e73b5c
 
+Package: tut
+Architecture: arm
+Installed-Size: 11548
+Maintainer: @termux
+Version: 2.0.1-3
+Homepage: https://github.com/RasmusLindroth/tut
+Description: A TUI for Mastodon with vim inspired keys
+Filename: ../../../../releases/download/arm-t/tut_2.0.1-3_arm.deb
+Size: 3232092
+MD5Sum: 7f328b18f78315aded7f3f93d552809c
+SHA1: 716ba050d8e22771ad3fc6ec640e54ac861220f7
+SHA256: f0f2a7eddb22dd5b8d34749d584cade0be4f901dd78ede0878898bf68d0bf163
+SHA512: 4bdf490394cd7fdf48218c41af6d75ec8412fe0b1c2135da52385083683cec42184236f11ec0a9b8b3f0ac56bf73e22990ae449375430cdb290ce4e8e4ea9ca5
+
