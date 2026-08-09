@@ -14597,3 +14597,34 @@ SHA1: af5bb590182b8879be7fb45e8d0136d17100995f
 SHA256: 6120def73c5567d7930d15693e7fe698e9b15bd8e72cfaa13e586aaa9c42ce64
 SHA512: 49d2a25f84afac6c6e87e624eba1ef5dd432d200a222d0cbb78a2a26e684361726add8d879c8bf3df9d74d71d493ca7165c052f0e176ab3df901c9ee7fb1786b
 
+Package: gedit-help
+Architecture: all
+Installed-Size: 5484
+Maintainer: @termux
+Version: 50.0
+Homepage: https://gedit-technology.github.io/apps/gedit/
+Depends: gedit (= 50.0)
+Description: Gedit help files
+Filename: ../../../../releases/download/arm-g/gedit-help_50.0_all.deb
+Size: 339128
+MD5Sum: 94b64aadda86e824246f9de1eea2d96f
+SHA1: 4ed4134d2ffb89782fcd59b7e2a96e0a89d3596b
+SHA256: b91d8302d0ce93154f8cf0ee59df9b5fed3bdf2c321450dcf2b2f75d20101790
+SHA512: 01056ea8ccbd66619cc3c7c33122aec8a3d79802808329d4f738388a8374526d5ece2b8192483573a35497ea29d0e39c0c51f78b17009f17dcba8942e489735d
+
+Package: gedit
+Architecture: arm
+Installed-Size: 1552
+Maintainer: @termux
+Version: 50.0
+Homepage: https://gedit-technology.github.io/apps/gedit/
+Depends: gdk-pixbuf, glib, gobject-introspection, gsettings-desktop-schemas, gspell, gtk3, libcairo, libgedit-amtk, libgedit-gfls, libgedit-gtksourceview, libgedit-tepl, libpeas, pango
+Recommends: gedit-help
+Description: GNOME Text Editor
+Filename: ../../../../releases/download/arm-g/gedit_50.0_arm.deb
+Size: 304152
+MD5Sum: e1022ee4b728ee1fd48c86db1008f930
+SHA1: ed4c161ca9b7506e20b6de71dbd17d598ddfd145
+SHA256: 37938584fb091934fee9e3ce83e5dbab997f95bee77a3f2402a367a701dea721
+SHA512: 6fdba2f21054cda5fcfb3c2121e4e82cd88e08d7ff68d210923b75d671dbd08d2176af6c06bf9d7278b0b37386acf7063ad269e414087526634beb409b0014c1
+
