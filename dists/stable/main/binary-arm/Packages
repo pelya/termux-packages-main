@@ -39241,3 +39241,17 @@ SHA1: a641b2f99ca0c98752e919b3f6e35e10f25c0030
 SHA256: 6bfc685970869dde7317020dcd45cd7f6ce1fbdb52eb670c02069027f90a9a82
 SHA512: 670b94b6c59d77ae73b552b282c3cde0f6e8998b3b084be4936545f2dd1a3b48d3ae06e13accd8a3c70f7b71f3a27536792b407ab42f673087d4f8964ffe23e2
 
+Package: ascii
+Architecture: arm
+Installed-Size: 88
+Maintainer: @termux
+Version: 3.32
+Homepage: http://www.catb.org/~esr/ascii/
+Description: List ASCII idiomatic names and octal/decimal code-point forms
+Filename: ../../../../releases/download/arm-a/ascii_3.32_arm.deb
+Size: 13636
+MD5Sum: e41265aa2fe9cd239d8c71265ad4d6a9
+SHA1: 95b3e7aeb149947a9de12015c42fccfcbd9eac7b
+SHA256: e9fdd67c22eb3275b496e3718a914fcf9d1beb68dc77de928c59a298ef6c2eef
+SHA512: 2475d35b03651a8b0fefa1d1704284b6769682d5cc4a62d31b4daac51d04cc4cd3276314213c4053978064fe01f8d2359b34c1093a1e686718129e0ff344a122
+
