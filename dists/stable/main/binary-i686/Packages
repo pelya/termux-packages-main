@@ -39478,3 +39478,33 @@ SHA1: 856d46fd081b228a284a3ce192380d04d5665950
 SHA256: 7a8aed09205827a09f9ee227b00173e624b9bdce56056a0d30892841e20f49e6
 SHA512: a13f2cdfa8780cf01e02714aeedb3058ad5d50dcfadbe58c42d468282798d68bd8ad580cea6d56d354231dae1ff5525836d6b3b9318468a7b74defef4c4c0af1
 
+Package: mruby-static
+Architecture: i686
+Installed-Size: 2748
+Maintainer: @termux
+Version: 4.0.0
+Homepage: https://mruby.org/
+Depends: mruby (= 4.0.0)
+Description: Static libraries for mruby
+Filename: ../../../../releases/download/i686-m/mruby-static_4.0.0_i686.deb
+Size: 438296
+MD5Sum: 1dfd13961c68acdcdca665a8ed3cf0cb
+SHA1: 0ecd5fc300f534aa2641f64e50ed2ccb1fc463dc
+SHA256: f29c8e6d9cecba776f5946da6b56d66a5254112eca9fa8f9b59b465e3cbf7615
+SHA512: 66a3cffb004b045a0dc128a3a22fb14520c81d2cfd39d478a3ec500a02821bf651711ad3eaa8ec04b8efcf4307383ec226539633688219e6b886a0262e2983be
+
+Package: mruby
+Architecture: i686
+Installed-Size: 4728
+Maintainer: @termux
+Version: 4.0.0
+Homepage: https://mruby.org/
+Depends: libandroid-complex-math, readline
+Description: Lightweight implementation of the Ruby language
+Filename: ../../../../releases/download/i686-m/mruby_4.0.0_i686.deb
+Size: 660420
+MD5Sum: 0f3489658e3a20a6a7efafa0a7994b89
+SHA1: 892354cdf1ac204dd0d8baa90689536345efeca2
+SHA256: 83b565619ba466b786b69d98c65020ec882dc31be0ecad59cd62ec1d0c237726
+SHA512: d15714bd840bf3a1aa6cc8205e3939994597eb63a2251c6c27d45c64fdc8661ed7c3f00051ffc2be199fdfc6b15c99b9a6bdf253c783e806fa7dfa98b19b3b9b
+
