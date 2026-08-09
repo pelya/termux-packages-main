@@ -1467,3 +1467,9 @@ data/data/greater.underscore/files/usr/include/libcryptsetup.h                  
 data/data/greater.underscore/files/usr/lib/libcryptsetup.so                      libcryptsetup
 data/data/greater.underscore/files/usr/lib/pkgconfig/libcryptsetup.pc            libcryptsetup
 data/data/greater.underscore/files/usr/share/doc/libcryptsetup/copyright         libcryptsetup
+data/data/greater.underscore/files/usr/lib/libaio.a                              libaio-static
+data/data/greater.underscore/files/usr/include/libaio.h                          libaio
+data/data/greater.underscore/files/usr/lib/libaio.so                             libaio
+data/data/greater.underscore/files/usr/lib/libaio.so.1                           libaio
+data/data/greater.underscore/files/usr/lib/libaio.so.1.0.2                       libaio
+data/data/greater.underscore/files/usr/share/doc/libaio/copyright                libaio

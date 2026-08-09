@@ -1216,3 +1216,34 @@ SHA1: 0ede4ad61e815c9b1bfa3db0f1ce293df4b1af23
 SHA256: 1688a244efe23a9f6ce8015c57f4414eb86bba99ced7e1d8168b449555931f76
 SHA512: 46b648a6ed6e47414a25d2b4beae183c8f2b58af3b3790884aa90889db155d112da42de032c0a4d0e1176cc00471f1e7424e6e2b44efc6acf4a76e68f0e3ab9b
 
+Package: libaio-static
+Architecture: i686
+Installed-Size: 44
+Maintainer: @termux
+Version: 0.3.113-1
+Homepage: https://pagure.io/libaio
+Depends: libaio (= 0.3.113-1)
+Description: Static libraries for libaio
+Filename: ../../../../releases/download/i686-liba/libaio-static_0.3.113-1_i686.deb
+Size: 3028
+MD5Sum: 290eaedab5243b04917920b6e0f4032e
+SHA1: ba49ea14e5b17e3794da4ff38672f769f6d7d11b
+SHA256: 659f6a859b489f56347ae3df94bfddc57fd0101194b7c4721e7cf54bea43b9c2
+SHA512: 71dcde1f03f0c9d5a38e2a1d5c1d4af21da9381688cf0c1f722fc927f3dafebb1d51935aad97a976eb76e9dc2ee587a82a5461449079f5e657ee582cc7573c34
+
+Package: libaio
+Architecture: i686
+Installed-Size: 64
+Maintainer: @termux
+Version: 0.3.113-1
+Homepage: https://pagure.io/libaio
+Breaks: libaio-dev
+Replaces: libaio-dev
+Description: Linux kernel AIO access library
+Filename: ../../../../releases/download/i686-liba/libaio_0.3.113-1_i686.deb
+Size: 5356
+MD5Sum: 8557a63376e460729c6f26d882dc63ac
+SHA1: 6c645813ce31bd21ae9e33a51a874da6ae8ee88b
+SHA256: a0cac76c94d344ce51d652427f68937ff747752e8ec880522d248c20875af8fa
+SHA512: 1aee5fb708e65b94b60448c7e62d8a3eae8a511374e29864b16776760bc250f3a7217156b5694244bb9a016859e09abae6551b40aa9ecad0a2bc543e00e1f6b0
+
