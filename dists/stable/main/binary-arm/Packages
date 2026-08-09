@@ -38927,3 +38927,19 @@ SHA1: 75cdd9d7a5429f3ce28ec22ac4166493c6e70f1f
 SHA256: e73ed82627e3c287daae9a9c07318aefff3861a7194898bafb38314db8f00c0b
 SHA512: 9148293865e7a5ecebceb061856605c3eb7f330b8d1e9c6a38fd20cf1f9c199a128a19c48dbd875f925b619dd3ada3aaceb7f1ae491887ef0634e7bb2c1425ae
 
+Package: lux
+Architecture: arm
+Installed-Size: 23012
+Maintainer: @flosnvjx
+Version: 0.24.1-2
+Homepage: https://github.com/iawia002/lux
+Recommends: ffmpeg
+Suggests: aria2
+Description: CLI tool to download videos from various websites
+Filename: ../../../../releases/download/arm-l/lux_0.24.1-2_arm.deb
+Size: 5832876
+MD5Sum: 83ba7adebd00db28167595668dd77c4f
+SHA1: 630b9fdbe0447c79cfa8ffd1c4f8305aef543b9c
+SHA256: f97087cd89929138761039850d7355873c95df4d72156e8ac88e191bb4a7204d
+SHA512: 5cd2e84c8f05bce17f15b756169e5d46c379d62ff2972b539c2f1bb41e0aee5a9bdaf4e49cadc5f4bd3832ba427bc4fde53764e3778bc3d3de9514e6c0ffb2a9
+
