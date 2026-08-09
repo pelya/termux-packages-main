@@ -1155,3 +1155,17 @@ SHA1: 967421c2b8be266282c871a4c7506f10cf298b45
 SHA256: 056cef49719391096c1a44ff2eaa686701905a42c2e5f112265ed0d5153350c4
 SHA512: f78d779a0585f099d443ae96bdd92fe3c9a9d6352f5790d4d5c4493aad37ef9aa6dd9ce766972b4ed75d7d5d73201a28755cb5c9ca65cf715a4c182b8462784f
 
+Package: libfuse3
+Architecture: x86_64
+Installed-Size: 516
+Maintainer: Henrik Grimler @Grimler91
+Version: 3.16.2-1
+Homepage: https://github.com/libfuse/libfuse
+Description: FUSE (Filesystem in Userspace) is an interface for userspace programs to export a filesystem to the Linux kernel
+Filename: ../../../../releases/download/x86_64-libf/libfuse3_3.16.2-1_x86_64.deb
+Size: 105760
+MD5Sum: a507b4d296cf9906785e198ba89c3882
+SHA1: 9a3ab945d627869a37cc2177f362658b2ce22e49
+SHA256: b1a5acf88db4a4785d200f9bda43b21be608ad69b50a32c70453c06128cb5144
+SHA512: 9fdc1c62e0d29ce24d9d61eb194ffd611475ae2ecacdaf6fb77e8770278b8246b1208dae84e95ede0d5c06f63877e4ffa1bc436871932358d0a05d1a814c93b1
+
