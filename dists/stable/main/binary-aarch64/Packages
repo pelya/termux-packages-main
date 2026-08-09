@@ -40559,3 +40559,18 @@ SHA1: 45e668c21b8f6563a4a998ef58bd7b72d5489504
 SHA256: a1ae7af851c80f9f69ca50d744bf23419989189effe01a729ec89051fe47b382
 SHA512: 0e2647cff1bf1bb3e0633223c467abbfe90c79e92aaf27abb2caa3fa3d904acf7de83ce5940bd3ed4f35fcfd15806ea62cb27424be3271ff139eb4c6baca6868
 
+Package: swi-prolog
+Architecture: aarch64
+Installed-Size: 22752
+Maintainer: @termux
+Version: 10.1.11-1
+Homepage: https://swi-prolog.org/
+Depends: libandroid-execinfo, libarchive, libcrypt, libdb, libedit, libgmp, libyaml, ncurses, openssl, ossp-uuid, pcre2, python, unixodbc, zlib
+Description: Most popular and complete prolog implementation
+Filename: ../../../../releases/download/aarch64-s/swi-prolog_10.1.11-1_aarch64.deb
+Size: 4268828
+MD5Sum: 0f6863edb4516a8d52f797110f197609
+SHA1: ca0eb2d85313fc4d18bfc2e59ad22aa205d417e3
+SHA256: 619de1a8954a8ebad1345536dffa640e52b1b507179f40d8142e2f2d9c1188a6
+SHA512: 27a8d12f14125369362c8640163933717087dc01cbbf5ed52bf7d0875f56dba1a70bf6c126832590851157ce6caeaae932a9b3cd83017499784e30f130628fed
+
