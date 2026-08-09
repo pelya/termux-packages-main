@@ -1314,3 +1314,8 @@ data/data/greater.underscore/files/usr/bin/gocryptfs-xray                       
 data/data/greater.underscore/files/usr/share/doc/gocryptfs/copyright             gocryptfs
 data/data/greater.underscore/files/usr/share/man/man1/gocryptfs-xray.1.gz        gocryptfs
 data/data/greater.underscore/files/usr/share/man/man1/gocryptfs.1.gz             gocryptfs
+data/data/greater.underscore/files/usr/bin/hping                                 hping3
+data/data/greater.underscore/files/usr/bin/hping2                                hping3
+data/data/greater.underscore/files/usr/bin/hping3                                hping3
+data/data/greater.underscore/files/usr/share/doc/hping3/copyright                hping3
+data/data/greater.underscore/files/usr/share/man/man8/hping3.8.gz                hping3

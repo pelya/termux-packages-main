@@ -40028,3 +40028,18 @@ SHA1: ac27969130ad55239e83684daa92827c5c02798c
 SHA256: c9f15ef21354611bc51a85d9f50090937657442114af8f19f1f24bb24217b164
 SHA512: 1b69613df174fc57ddf8b3909c36f6daa0eea804a6cd882dbc8a37a1ef827335420731ffe74560198a93fec5afa3da35a91c4caf51b470d457ae5caff6b96ee5
 
+Package: wasmedge
+Architecture: x86_64
+Installed-Size: 3536
+Maintainer: @termux
+Version: 0.17.1
+Homepage: https://wasmedge.org/
+Depends: libc++, libspdlog
+Description: A lightweight, high-performance, and extensible WebAssembly runtime
+Filename: ../../../../releases/download/x86_64-w/wasmedge_0.17.1_x86_64.deb
+Size: 571492
+MD5Sum: f25feaf91e1d99f983084e89d5ae2da8
+SHA1: 849ed85e597fa60795fc8812931d319006da4556
+SHA256: c627afd944ed21aa5f35e041c5138c917aa18d2d7de9037353edfc4b1552f2f5
+SHA512: a7ef1784a56c267310c8938e1db94464646336bdda73e94c664c81616a1863d7fd431f2e4a3f43a0d8bda1fc27b43bf0e036c9842852de894129c0d2755cf248
+

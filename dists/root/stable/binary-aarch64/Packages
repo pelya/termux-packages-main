@@ -1110,3 +1110,18 @@ SHA1: 80a388dd73489f44fc52e2ca56d48b201a01fafa
 SHA256: 424e90961bd479d6015fd910601637351caa3f17b923c91752567a209835013a
 SHA512: c189556e5ddb28a9f20c12e822f37801b96dd8ba5185f09dcb0a53c9a6b5b5384e6b7e4d324ea1db99b7d29438caae08c396637ff6b59c768ceece33b532aedf
 
+Package: hping3
+Architecture: aarch64
+Installed-Size: 208
+Maintainer: @termux
+Version: 3.0.0-4
+Homepage: http://www.hping.org/
+Depends: libandroid-shmem, libpcap, tcl
+Description: hping is a command-line oriented TCP/IP packet assembler/analyzer.
+Filename: ../../../../releases/download/aarch64-h/hping3_3.0.0-4_aarch64.deb
+Size: 62972
+MD5Sum: 4318938a143b5bc1103b1b42b116134a
+SHA1: e5749adefb56cc82b2d88a6c520bbb63416f6a67
+SHA256: d6880c4c04c79c5fe3832acc9a9856c46bfbfd329accf602987b9a5d657abec1
+SHA512: 28e8b7b158df24b34aa30242d7ecec6a40c04568f7564688867f4df50d2be9ea8d5afd4967c17cf3d43ab5f4f0fc2e554f58c77ec6a2dea4059cd68d56be4883
+
