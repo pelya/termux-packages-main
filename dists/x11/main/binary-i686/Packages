@@ -14189,3 +14189,18 @@ SHA1: 30e13773c418fbb70e02fbe8e3a2e9c7204e0edf
 SHA256: 46137810b827c1b176adf158f8059f5fb11ca529ffd9456f0509e3df5fa5ab61
 SHA512: 2ccf24707d4defe764ea7d0fb55c914fc7b8c95e679f7f7f850b2c048d3b7d646859874527caa78df6fc267d7b26cc5e3f9f76cd507cce431ff4d725476133b8
 
+Package: eww
+Architecture: i686
+Installed-Size: 19080
+Maintainer: @termux
+Version: 0.6.0-2
+Homepage: https://elkowar.github.io/eww/
+Depends: glib, gtk3, gtk-layer-shell, pango, gdk-pixbuf, libcairo, libdbusmenu-gtk3
+Description: ElKowars wacky widgets
+Filename: ../../../../releases/download/i686-e/eww_0.6.0-2_i686.deb
+Size: 4436796
+MD5Sum: 4be4f586b46ff4801a8ae301d19d2a00
+SHA1: a9ca58e1e77af3db479310abe8b4928aba6e837e
+SHA256: c101d72ed4c40ed1e16d26f5c6d230baa0f8da2ecc80f8ea4fa1a950f41be32d
+SHA512: a6e321ee10df666c934d2a7dd7e3207ba51478fb85db7dc0bb3840aa6d53c36a6f081e6255e88217a35078464e2571869b962b4904a6f26759d702541321a0de
+
