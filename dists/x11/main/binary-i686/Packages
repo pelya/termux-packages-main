@@ -14264,3 +14264,18 @@ SHA1: 890a97aa428f20be72da800a2366597f086aae99
 SHA256: b6c7eca8e4bb2812c9b351ca7ab378598f034329f702814c4530da52a2721430
 SHA512: 0c4ede7c966e0d52e0375ec8f47ee4f40c6bbf7d789774b23dc6996007a7e4808351fefee917b18996ca2f94311fd61ce228847c2ae2658e8db2fec4ca878f65
 
+Package: ark
+Architecture: i686
+Installed-Size: 3256
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://apps.kde.org/ark
+Depends: 7zip, arj, kf6-breeze-icons, kf6-kcolorscheme, kf6-kcompletion, kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-kfilemetadata, kf6-ki18n, kf6-kio, kf6-kjobwidgets, kf6-kparts, kf6-kpty, kf6-kservice, kf6-kwidgetsaddons, kf6-kwindowsystem, kf6-kxmlgui, libarchive, libc++, libzip, lrzip, lzop, qt6-qtbase, unrar, zlib
+Description: KDE Archiving Tool
+Filename: ../../../../releases/download/i686-a/ark_26.04.3_i686.deb
+Size: 1062948
+MD5Sum: 821b44bd7226ac55d40398c8f43553d5
+SHA1: 3e3768b381d4972fe8626047e5e2a2129c3bea66
+SHA256: be6608fe7289f1157bded77668c661bd5a0a4d6a4ac7e1d30e7bbbc7dcf0caea
+SHA512: 28c60a99d429dc58b3854665fa0e6d644d31e21a7e08f149031fd12987b4cbfa7304844775b4f85b1020b9553d0566a57a167e6ff0400386373c2f0f8607f02e
+
