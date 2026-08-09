@@ -38354,3 +38354,17 @@ SHA1: 747c9adf631489c5e76039626f86c17b342c408c
 SHA256: 94e66b7b21946502f749d6ea9e1396028f25e022bee48f1a620c27786a5c51b9
 SHA512: 204bdc92d34ffb14aa6e4a1bdcc83f73d09b765fc31068ed34a6f4ba20782724626740010840b337b594c6e728a83b2bc9b4fb2526eb9e3a103810b25de38554
 
+Package: algernon
+Architecture: arm
+Installed-Size: 48628
+Maintainer: @termux
+Version: 1.17.10
+Homepage: https://algernon.roboticoverlords.org/
+Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
+Filename: ../../../../releases/download/arm-a/algernon_1.17.10_arm.deb
+Size: 12029756
+MD5Sum: f18e7c5cf291df74516c54115f874feb
+SHA1: accedbf553fd3462d951c3c8514975aff39fc6c9
+SHA256: 1e548b84c99f69b29d511b318959d5e2ec38ca5316d082f3a36efcff7cf7d1fd
+SHA512: 8c825b99ba94e092dfc986658903bbde18d7488676cdb6491fe52f19ea55fc3461d68571f3df02236341193c5b22e421a9f86ca7f1b64cf9baf19c814eaf58ce
+
