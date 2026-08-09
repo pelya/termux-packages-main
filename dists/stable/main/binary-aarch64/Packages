@@ -40364,3 +40364,18 @@ SHA1: 495e9139f2f24e4ce80432e22442b59ae13df2b2
 SHA256: e608cb1603fef32c9d7412d163f1a7f8b9d8114e32b1d581ff7c08a5cdc5cd3e
 SHA512: 6a87d724b821f2734bb187410407f037c2545e8a209a6e229b1bef52073bbf879bc2f9d912bbfcd64005e689c43d6b289d870ec20d47a5dc63d38009be18fd7c
 
+Package: mtd-utils
+Architecture: aarch64
+Installed-Size: 1940
+Maintainer: @termux
+Version: 2.3.1
+Homepage: http://www.linux-mtd.infradead.org/
+Depends: liblzo, libuuid, openssl, zlib, zstd, libandroid-execinfo
+Description: Utilities for dealing with MTD devices
+Filename: ../../../../releases/download/aarch64-m/mtd-utils_2.3.1_aarch64.deb
+Size: 349680
+MD5Sum: 79aaa004125adddbc77632a3ab1789f9
+SHA1: d5f63c66ab6b4f12629cb3db3d5b8e42e50d189d
+SHA256: 56ce1b826e363596ce551994a9018bed9b2dd652b2e5b81725624d91351f99c2
+SHA512: a8fa1dcd1028fb2465ef9f3a8e26d92fbea3250e5bc1eb751fb08aa8e32f32052f1aa5d378c51cfe980d5bd2dd1c2a0e2937a0b640bffa5a60233f8b574b4de4
+

@@ -39347,3 +39347,18 @@ SHA1: a00afa8a2ea8c9e729401b53405a38024c370ec2
 SHA256: 78e517831a1a1e9db4ca7eb0747380096eb31bd8b56c34baa2a97ff9abae40b9
 SHA512: bda9dbee09fef011f13b5da44051f84413ee690dcef47555f1557cf4d6ef9987b9b47252c03f2001f3022236c2ca35ea644329bc2775ffd33afc841ff91d3752
 
+Package: mtd-utils
+Architecture: i686
+Installed-Size: 1884
+Maintainer: @termux
+Version: 2.3.1
+Homepage: http://www.linux-mtd.infradead.org/
+Depends: liblzo, libuuid, openssl, zlib, zstd, libandroid-execinfo
+Description: Utilities for dealing with MTD devices
+Filename: ../../../../releases/download/i686-m/mtd-utils_2.3.1_i686.deb
+Size: 363132
+MD5Sum: 199b629e09c7e54239b75b390592f131
+SHA1: 6c0ca3a13ce552f9baf1716c2f65ffe7e42ab67b
+SHA256: 5760eff9bd9e2006c246d6cb9e437561b8ca14c78ad2ef00093829677895273f
+SHA512: 250816074e31357c765177fd839004e531e3a3afab981c4cda059805207eef17499c585046d367ea9ca8167210f3527b7e375a30d6a823a06c0d7c7b97eb9542
+
