@@ -39571,3 +39571,17 @@ SHA1: b8c78232cd01a8396a1000a60c02b3e01bf91784
 SHA256: 8ab3b1aebc8d5c93b629cdff838df1483ce728cf037758f42f59744c6b42ab88
 SHA512: 5c15406b6f483078168fb215d450eedcb0d0f9e1228fe10b26882060a14ec566a3ecc59b0f9bf1b460ed61d28ba55b4cfea22e7a54bb0c11ed11e3b38b9d6895
 
+Package: eja
+Architecture: arm
+Installed-Size: 436
+Maintainer: @termux
+Version: 18.4.19-1
+Homepage: https://github.com/eja/eja
+Description: eja micro web server
+Filename: ../../../../releases/download/arm-e/eja_18.4.19-1_arm.deb
+Size: 107808
+MD5Sum: da9126c568c778004acf2709abdd9c7d
+SHA1: 0e7e3c8b079d3d7502592c3a81acc7ad43e0f358
+SHA256: c63245f5c5fa43727e3800a9e3d68be5344f4ad23d3163cc3c740c55a10ba51a
+SHA512: fe2508bfe28a33dad89e7bd75d2c4964f4c262522233972cade19761e79cece90c4d32478994219551b9ae6688104a3e5f244adb84763930f6dc7e2b515e4d65
+
