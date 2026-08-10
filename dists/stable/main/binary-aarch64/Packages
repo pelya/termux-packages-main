@@ -41755,3 +41755,18 @@ SHA1: 2550c3582ac8a91dc387e172a85e09a36aef45c5
 SHA256: 910c3b8d4b33bbd10b38b6cf52d03649a2fc8fb1e8a658045be5ec0351138a89
 SHA512: 7eadf301f640a5e4f386dab5969d323a9e4b776726a34f4c537b3274c83d9fcc2132d07fb74e2f6cfc84ef374dfd735767e48e99cc37dac07963dcd0236eca10
 
+Package: angband
+Architecture: aarch64
+Installed-Size: 22872
+Maintainer: @termux
+Version: 4.2.6
+Homepage: https://rephial.org/
+Depends: ncurses
+Description: Dungeon exploration adventure game
+Filename: ../../../../releases/download/aarch64-a/angband_4.2.6_aarch64.deb
+Size: 20418532
+MD5Sum: 1122aec32cef1cbbb00ea28e0b34180a
+SHA1: 676e9dbb21a0a4a7042ec7e9f3b22e70609a1fb1
+SHA256: 726867d0492e893a3c69b339c4ccca1620ca55bb180e8e8ed9dc90f07d92b201
+SHA512: 59c3ef42bf78d83ee7efd8531dd653dc096a7aa00f91ef032d07e37e3cf4ab691a674505507ab93a84a2d2a512d2078586411b52ac980a62095d27d3ab0cf924
+
