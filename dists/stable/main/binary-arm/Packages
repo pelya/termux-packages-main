@@ -39527,3 +39527,18 @@ SHA1: 313e5bfdc613fb654806297af4f704720801b0ea
 SHA256: 56c6ddf2c646b996d52ca1f6ed8e3a39c89bc2313832673aa5ff95837e365e65
 SHA512: bba504342e41cf92f680eeae5cc3bf731c6f10914dc29f473295d335a5eddb34acedcea8cb693f1c7700dfc18b6f956d7b15a6acefe90ccc08615aa55117aa22
 
+Package: zipios
+Architecture: arm
+Installed-Size: 300
+Maintainer: @termux
+Version: 2.3.4
+Homepage: https://zipios.sourceforge.io/
+Depends: libc++, zlib
+Description: A small C++ library for reading and writing zip files
+Filename: ../../../../releases/download/arm-z/zipios_2.3.4_arm.deb
+Size: 59368
+MD5Sum: b174755f20bb9bda59585a1a7d573a17
+SHA1: 5dc2c750484e5940b5682ec63c49509081676334
+SHA256: 671e7428949da10171966b15b0226cca0131d5152dba6835847b04199bb9f99d
+SHA512: c8fcf5d570e1fb565231a447428461fee0ad37c2242a55db0920efe4841779521d3c3750d54b8d1e4024e38804477a9efd58effadf73cc3982ac073366747c4d
+
