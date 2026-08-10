@@ -15051,3 +15051,18 @@ SHA1: 3ff91ccb3535ea84b3bd540bc2ccc828f9fdc162
 SHA256: 7a78f7365b6286f1e1c042ccc0acb95237696352b6e6c9686d7aad444d93e093
 SHA512: 8e655afb479f4638f10991bfd5e21ee165c72d2c18682654f39d0627bafd56d7ded4dd678e44bd68b055b0b0336e306f51963cd07bb8692ae367dc18acf5983e
 
+Package: kmag
+Architecture: aarch64
+Installed-Size: 1356
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/accessibility/kmag
+Depends: kf6-kconfig, kf6-kconfigwidgets, kf6-kcoreaddons, kf6-kcrash, kf6-ki18n, kf6-kio, kf6-kwidgetsaddons, kf6-kxmlgui, libc++, libqaccessibilityclient-qt6, qt6-qtbase
+Description: Screen Magnifier
+Filename: ../../../../releases/download/aarch64-k/kmag_26.04.3_aarch64.deb
+Size: 657076
+MD5Sum: 5a9892ffe6dc3f026c271d9fd94c884b
+SHA1: d22355aa5b1d077851b207f85c65ff44bc84b1a1
+SHA256: ba8687dc19fe22f14ece4482ac3ed044ac3e8548df75a179339ec2b69f248658
+SHA512: 57a345543c73330f506fa22918d0fd5b03080ccc32d8382117aea9ab4d1fd0390dbbee5d0aa9306196685441495e9502929685a28a02d52e416a67acfafdd70a
+
