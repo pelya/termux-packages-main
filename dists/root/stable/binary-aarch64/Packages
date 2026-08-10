@@ -1324,3 +1324,54 @@ SHA1: 8c1edaa475fa6ae909e554d32a23bf11a49db29e
 SHA256: 3fb2cf28eca8eaed04a78f23adc89062dd994ca0b66225aa9a8000e8fbad0925
 SHA512: 293ba69e5f5d93d290c59947f1034e4256d3a4146b668563d02805b0afc668c4782a8e1bf5960b521a294bc11b62221f82e718460854510671530c1a1509d825
 
+Package: frida-dev
+Architecture: aarch64
+Installed-Size: 140520
+Maintainer: Henrik Grimler @Grimler91
+Version: 17.2.14-4
+Homepage: https://www.frida.re/
+Depends: frida (= 17.2.14-4)
+Conflicts: frida-server (<< 14.2.13)
+Replaces: frida-server (<< 14.2.13)
+Description: Development files for frida
+Filename: ../../../../releases/download/aarch64-f/frida-dev_17.2.14-4_aarch64.deb
+Size: 34287448
+MD5Sum: 36f1cab103173d51567422609bddbd48
+SHA1: a0d9b78933066c3d39f1d53febede36100247110
+SHA256: 15c0e463167193683a1a380c45ff7b4b8a351306741cbd31410ea8c4e0fd7cd1
+SHA512: 7b08e473d33be9bbbaa8773d0bd9eb5ffbbd1db79de87e54ade6a4862d20709287908cf87131a17abac92652051b9bdecc84a9f174228bc1fe1186bd4a703720
+
+Package: frida-python
+Architecture: aarch64
+Installed-Size: 66056
+Maintainer: Henrik Grimler @Grimler91
+Version: 17.2.14-4
+Homepage: https://www.frida.re/
+Depends: libandroid-support, python, python-pip, frida (= 17.2.14-4)
+Conflicts: frida-tools (<< 15.1.24)
+Replaces: frida-tools (<< 15.1.24)
+Description: Python bindings and CLI tools for Frida
+Filename: ../../../../releases/download/aarch64-f/frida-python_17.2.14-4_aarch64.deb
+Size: 19782300
+MD5Sum: 94260359bd43ed00f645e535ad6fcddf
+SHA1: 08519f5a60dbdd5065d6411a01743f3a3fc57e9f
+SHA256: 440c6b6b7cc0022b140eb53ee718e4d801f4cacf938b1916796ee1d245fa150b
+SHA512: f58e0fe778de66f3984f4f1825eb2350288567ec31f1abf76aa63a335f7b5fb5e002afffe15260f796b21ec21976894979242afcc0bd0b8752675f14702825d5
+
+Package: frida
+Architecture: aarch64
+Installed-Size: 102032
+Maintainer: Henrik Grimler @Grimler91
+Version: 17.2.14-4
+Homepage: https://www.frida.re/
+Breaks: frida-server (<< 15.1.24)
+Conflicts: frida-tools (<< 15.1.24-1)
+Replaces: frida-tools (<< 15.1.24-1), frida-server (<< 15.1.24)
+Description: Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers
+Filename: ../../../../releases/download/aarch64-f/frida_17.2.14-4_aarch64.deb
+Size: 31637424
+MD5Sum: bed0fe39a9a9733980e004b16b0970ff
+SHA1: e00e339a8f4d3add7c6c18ec1c2dc11b0f23bdfb
+SHA256: 1a76bf02b14834c3da63c110cec0882129ead1c7ea9dc5292011eb6eb464b081
+SHA512: 82e65c2896be0ac4f23fb131ec3c655299e96004dcc9a51168b0aeca6e915d66b47e440bb3e7af618b43e6b605593034b39e841f327c129017fc2150487fb422
+

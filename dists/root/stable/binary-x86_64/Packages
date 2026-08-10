@@ -1324,3 +1324,54 @@ SHA1: 80c96289ce5c3aa69395ddcdf2322cf7dab99e6f
 SHA256: 0eeaa670e5d5634a09b85885bb552fb6c50db010dcb52b643c948a81764f4c5c
 SHA512: fafbbab377d337120a3ac128b5711f501d8f4ffa17ab59e95d0b179f583a2caa1940abbe5d2bf87de6030bdfada73668b3bd45436e7fd5f128bd38084979899e
 
+Package: frida-dev
+Architecture: x86_64
+Installed-Size: 204404
+Maintainer: Henrik Grimler @Grimler91
+Version: 17.2.14-4
+Homepage: https://www.frida.re/
+Depends: frida (= 17.2.14-4)
+Conflicts: frida-server (<< 14.2.13)
+Replaces: frida-server (<< 14.2.13)
+Description: Development files for frida
+Filename: ../../../../releases/download/x86_64-f/frida-dev_17.2.14-4_x86_64.deb
+Size: 51058708
+MD5Sum: 266511278c6ebbf02d78859934ed8f20
+SHA1: c14e40ed2f6278d220b8c76aaf573b4a0826193c
+SHA256: db22918294bd5b2d75432c5a63bf407ef1c0ecd8e95d1c0a5a283b1f834d396c
+SHA512: 15984b76c820f14d4890bb2cc497a4380cc4b02ba542e84b55cb7302119398ac68c1cbb41fe770e8e9192251d2e7d9e1365198e8838214af5c793fb5ac374ffa
+
+Package: frida-python
+Architecture: x86_64
+Installed-Size: 123348
+Maintainer: Henrik Grimler @Grimler91
+Version: 17.2.14-4
+Homepage: https://www.frida.re/
+Depends: libandroid-support, python, python-pip, frida (= 17.2.14-4)
+Conflicts: frida-tools (<< 15.1.24)
+Replaces: frida-tools (<< 15.1.24)
+Description: Python bindings and CLI tools for Frida
+Filename: ../../../../releases/download/x86_64-f/frida-python_17.2.14-4_x86_64.deb
+Size: 35746936
+MD5Sum: a7664f28e8027ef267740cc71aee6c63
+SHA1: f8f2cae656742dba25b999540ff4c8213fe1a6a0
+SHA256: 460f79160a423feeeff96afa180dba3573855013168626a6eb921b144cef55b1
+SHA512: 5f20976f448369acdd68aadcadea7fb4a83c8eaee0e68ac600ace5cc657861f1f903c185a1d545e01632841e9d7ed739786ffc96199312fd18d08a2c8b75e37f
+
+Package: frida
+Architecture: x86_64
+Installed-Size: 216436
+Maintainer: Henrik Grimler @Grimler91
+Version: 17.2.14-4
+Homepage: https://www.frida.re/
+Breaks: frida-server (<< 15.1.24)
+Conflicts: frida-tools (<< 15.1.24-1)
+Replaces: frida-tools (<< 15.1.24-1), frida-server (<< 15.1.24)
+Description: Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers
+Filename: ../../../../releases/download/x86_64-f/frida_17.2.14-4_x86_64.deb
+Size: 63385944
+MD5Sum: 6ca7c8faa5c4bb498cce9aa02ad1e9ea
+SHA1: da4f03367dc5c97fa386b220c346ab3a31b55d22
+SHA256: 26005f42e581019dc0d7dad2f17e3ffd0e90cc5436857fff87db5d5e655d081f
+SHA512: 139064fa73015b31334102e5a16d51862189e4ba97677510e28f3b6026199ff4889762e0af588850ca46266ef5176f50c3661457921b893da76e8439335273b0
+

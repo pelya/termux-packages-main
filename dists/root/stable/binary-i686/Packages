@@ -1324,3 +1324,54 @@ SHA1: fc7d4ec2aae1d05f2f337a08ccb0f6b7ee574a64
 SHA256: 79756b559119d4408e6c7811fa4fd9961cdcde593a8e0a18248fecf69d14c597
 SHA512: a5756df3c3023151fd87c509cfd6345149ea114cb116f2b0a53b787c46d6e8c1047b24fae77aa2226731673c28b1ad382ddbd0e40c7d866b2acfe002aa64d809
 
+Package: frida-dev
+Architecture: i686
+Installed-Size: 102584
+Maintainer: Henrik Grimler @Grimler91
+Version: 17.2.14-4
+Homepage: https://www.frida.re/
+Depends: frida (= 17.2.14-4)
+Conflicts: frida-server (<< 14.2.13)
+Replaces: frida-server (<< 14.2.13)
+Description: Development files for frida
+Filename: ../../../../releases/download/i686-f/frida-dev_17.2.14-4_i686.deb
+Size: 27883668
+MD5Sum: 30aa91fa9e142659d88db3f1450a9e23
+SHA1: bf052a280b41225e3f0f86074082c38b5772da2e
+SHA256: e4adaa4d291a35e2fda2e6e88d8a8da6c8e115b5c4686f17407ac62cb43dacef
+SHA512: 45c5413fb68467f020a5565272448c97e5e4e1ca786ee99bd345c007a140ebcfe8af5bc28c95918be653dbecc4eb9c3de66ebb1734925b6607fee2eae8b13cef
+
+Package: frida-python
+Architecture: i686
+Installed-Size: 67644
+Maintainer: Henrik Grimler @Grimler91
+Version: 17.2.14-4
+Homepage: https://www.frida.re/
+Depends: libandroid-support, python, python-pip, frida (= 17.2.14-4)
+Conflicts: frida-tools (<< 15.1.24)
+Replaces: frida-tools (<< 15.1.24)
+Description: Python bindings and CLI tools for Frida
+Filename: ../../../../releases/download/i686-f/frida-python_17.2.14-4_i686.deb
+Size: 19865792
+MD5Sum: 46c2da120a0a7127a838c55c0781d214
+SHA1: e7a4fc08843cd0e901861e660243925a82a3206a
+SHA256: aea90e2a37e7e81e99145955f9cd9366fe3ddfc9bca6c40a587daa831f8c2303
+SHA512: ad0beaaa2b6362144f0bd790d0ec4e9c4a427d0ea82c4b5333342c6cd8b4d6401894eb4915139b1cd42d9c00cdb48d1b8b715f0189552af4b55079d7dc3cca06
+
+Package: frida
+Architecture: i686
+Installed-Size: 104944
+Maintainer: Henrik Grimler @Grimler91
+Version: 17.2.14-4
+Homepage: https://www.frida.re/
+Breaks: frida-server (<< 15.1.24)
+Conflicts: frida-tools (<< 15.1.24-1)
+Replaces: frida-tools (<< 15.1.24-1), frida-server (<< 15.1.24)
+Description: Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers
+Filename: ../../../../releases/download/i686-f/frida_17.2.14-4_i686.deb
+Size: 31748704
+MD5Sum: 7b0b6a33255a6c5e4cc49da7d5889d62
+SHA1: 934070ecd69b6cbb996e2f73679bd1b00c32d6f2
+SHA256: 529b71044eb3fe637355ea22ec4dea82927a210599f470476e21f7ea230f95d4
+SHA512: b10920ced88a591cd1c445dd23bec11fc9fad57b4fb34df6a51764c5c5ddb4460d537ba48140d445cfef00f2d0225605b18221fc0731a7176aae8ca7737070d1
+

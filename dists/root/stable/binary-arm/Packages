@@ -1324,3 +1324,54 @@ SHA1: 059dbcdd2281e6a860102d23810d42954252c321
 SHA256: 986372e8c5957421ac2aba82ea2e0443ffba661ed5780b5366875c81f0645d96
 SHA512: c9d5f4b9d7ea1090fca286ca8af04cd652e30bd6157c8dc91465d08f7d821ea9eedde7da955ecb94fdaea596284bb2961fd8388cafe52b3519e02b300a2e531a
 
+Package: frida-dev
+Architecture: arm
+Installed-Size: 65292
+Maintainer: Henrik Grimler @Grimler91
+Version: 17.2.14-4
+Homepage: https://www.frida.re/
+Depends: frida (= 17.2.14-4)
+Conflicts: frida-server (<< 14.2.13)
+Replaces: frida-server (<< 14.2.13)
+Description: Development files for frida
+Filename: ../../../../releases/download/arm-f/frida-dev_17.2.14-4_arm.deb
+Size: 18353068
+MD5Sum: 29b3e382669ab24d40536c9844afef0f
+SHA1: cac655ab43ba7c36ee82e66247f0709c1b67f8dc
+SHA256: e947c09887560daea9eb84c51e9b77859d2245f2631153aa9d1df73002ca7d08
+SHA512: 6b0773cbe00a5387eee2a07940ed14d6223552d66f8dd0e8945d742a6f6360b69dbebf539e4867daa6a9b4fee8d0a5aa9e10e37086fc2acfad97c4051edd029e
+
+Package: frida-python
+Architecture: arm
+Installed-Size: 35940
+Maintainer: Henrik Grimler @Grimler91
+Version: 17.2.14-4
+Homepage: https://www.frida.re/
+Depends: libandroid-support, python, python-pip, frida (= 17.2.14-4)
+Conflicts: frida-tools (<< 15.1.24)
+Replaces: frida-tools (<< 15.1.24)
+Description: Python bindings and CLI tools for Frida
+Filename: ../../../../releases/download/arm-f/frida-python_17.2.14-4_arm.deb
+Size: 10929540
+MD5Sum: cc9f0309c51ec64cd1cdb5f34b99525a
+SHA1: 77ebd763b3405beed87f5dedc3283d9a34812d99
+SHA256: 2d11cf1f0713e266f0b84ac8dda9120f7ba3dae4b729d8bd7e4567b93ec932b0
+SHA512: bb37d7a15fee3b1b432984b0d934a070b291e22c41c21a1ea2bd87b87eec962fd31d3c835f98e132bb36338337f70b990bcba70c9f6aa9f9a884db67703039f1
+
+Package: frida
+Architecture: arm
+Installed-Size: 42708
+Maintainer: Henrik Grimler @Grimler91
+Version: 17.2.14-4
+Homepage: https://www.frida.re/
+Breaks: frida-server (<< 15.1.24)
+Conflicts: frida-tools (<< 15.1.24-1)
+Replaces: frida-tools (<< 15.1.24-1), frida-server (<< 15.1.24)
+Description: Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers
+Filename: ../../../../releases/download/arm-f/frida_17.2.14-4_arm.deb
+Size: 15188212
+MD5Sum: 49069a4e1237fb4a2e7dd7641ea9325e
+SHA1: 9239f9ff0840faa27728a5ef2f07a3996f7bb380
+SHA256: ebe8bbaec0e9478e543f15485d58f585da11941890d677b0651a5c393a5a1c67
+SHA512: 8dea9fcb9e37244068dd5f89f5cfc14646137bda930bc143e8ee57d227f8e4782980dd55ab95fdecaf2d7af4735bb8200b0024308c70d6134f063e4ca85b8689
+
