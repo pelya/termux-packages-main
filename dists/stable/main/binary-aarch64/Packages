@@ -41261,3 +41261,18 @@ SHA1: 2d3f64625a5330d7ce1ca5c92b1aa4627ec658a5
 SHA256: 7a18a8bd6f2c7ed593f9bd98a178ace4823d434b26a56f9b793186864440ac9d
 SHA512: 6e1aae773395b0ada588188e27e2c74e16b594ea70e786c509dba8422a0110b5cd04fb91c48f330e313db001aadf608ce47d3ef69b50a9411cfdfa44bea6e15c
 
+Package: bastet
+Architecture: aarch64
+Installed-Size: 416
+Maintainer: @termux
+Version: 0.43.2-13
+Homepage: http://fph.altervista.org/prog/bastet.html
+Depends: libc++, ncurses
+Description: Tetris clone with 'bastard' block-choosing AI
+Filename: ../../../../releases/download/aarch64-b/bastet_0.43.2-13_aarch64.deb
+Size: 100708
+MD5Sum: 50f6210a8d760991d4ed5bae8412e711
+SHA1: 8e373e3c0e34e305e997027487d2055eb007a6d5
+SHA256: 0501f299d0f5981b9b93ef2158286e2cfb66c39a687180391cf566b3ff7b9c36
+SHA512: aba8e1dae2ca150993b85152845a02194ce83d047d6b25658e57ca0b08b499707796bc655dd51328717e53d31480b3837d50ac7314bde23e00bc3debf76d8a1a
+
