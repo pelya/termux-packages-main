@@ -15066,3 +15066,18 @@ SHA1: d22355aa5b1d077851b207f85c65ff44bc84b1a1
 SHA256: ba8687dc19fe22f14ece4482ac3ed044ac3e8548df75a179339ec2b69f248658
 SHA512: 57a345543c73330f506fa22918d0fd5b03080ccc32d8382117aea9ab4d1fd0390dbbee5d0aa9306196685441495e9502929685a28a02d52e416a67acfafdd70a
 
+Package: mint-themes
+Architecture: all
+Installed-Size: 142408
+Maintainer: @termux
+Version: 2.4.0-1
+Homepage: https://github.com/linuxmint/mint-themes
+Suggests: mint-x-icon-theme, mint-y-icon-theme
+Description: Mint Mint-X, Mint-Y for cinnamon
+Filename: ../../../../releases/download/aarch64-m/mint-themes_2.4.0-1_all.deb
+Size: 2137008
+MD5Sum: ec5a2c4c007b43543ab70008d554892c
+SHA1: 0dbbeb5c67286e29ca03ce54636fc62da9f80de0
+SHA256: acda16f6df62c6d6b788151f2689a5d1f4555fdd2352951a8a43455dc7fab954
+SHA512: a4bd2403aca1b063869f2f1ce15beefebe041fc73be2be6a7f35527cb9fe3fc76af006ef40d4b30001252ca69d02381973daad37c4ebe993a72e588a344611f9
+
