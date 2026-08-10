@@ -14839,3 +14839,18 @@ SHA1: ccc5fb4c8ebe1808dc60f01b09f7edce60bc5602
 SHA256: 81880887930fdf32345df2ac9618d78234a99642b8c0ae296f47d8ab59e0de7e
 SHA512: 0d69b44eea1c9026a2d85e947548e5657b5c9836027e967067559ac952c662f13ade518720d6d8b76a673f4620f10849c1b2ef9dd9d7b22177c16fe127842e8e
 
+Package: kdbg
+Architecture: arm
+Installed-Size: 1088
+Maintainer: 3ls-it <3ls-it@pm.me>
+Version: 3.2.0
+Homepage: https://www.kdbg.org/
+Depends: gdb, kf6-kconfig, kf6-ki18n, kf6-kcoreaddons, kf6-kiconthemes, kf6-kxmlgui, kf6-kwindowsystem, libc++, qt6-qtbase
+Description: Kdbg is a Qt-based interface for gdb, the GNU debugger.
+Filename: ../../../../releases/download/arm-k/kdbg_3.2.0_arm.deb
+Size: 296972
+MD5Sum: 110201c5eceaad06f7bdf3079036214f
+SHA1: 190917d284f0dbb6f2d298f4879afaa9577d4ab2
+SHA256: 5fd768ee3d1fb14bd971e1cbb58fb6a9afa13fcd94d6e848ce04e51fb02ad206
+SHA512: 965760f0c77b93299e99a330899ac5025e281480a5cce32ba54f96a874251cf27e79be25afbd1c021fcbb60db30c452f73c4446a7883bfc0762f351d47f7b335
+
