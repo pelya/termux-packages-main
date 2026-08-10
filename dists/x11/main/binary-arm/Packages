@@ -14898,3 +14898,32 @@ SHA1: c6b2cb036a13b0fba9b3aa893a7441d84f22e304
 SHA256: 72a25d2dc8ab04a605334a4063bdb7a128cf71e4907a6d80cf0c91ad4d9ab63d
 SHA512: a71fe1ff54c7f2bc09b21b543c810ec21bb03c075f6fd295bac899c0410a9ad61be6dd63e974a7386103a2736ed3a0653371ab94d66b250e8507e356d6bc697f
 
+Package: komorebi-data
+Architecture: all
+Installed-Size: 33512
+Maintainer: @termux
+Version: 2.1-3
+Homepage: https://github.com/cheesecakeufo/komorebi
+Description: Platform-independent data for komorebi
+Filename: ../../../../releases/download/arm-k/komorebi-data_2.1-3_all.deb
+Size: 32234144
+MD5Sum: 4dffa614a6a726c88965cc451bf40b5f
+SHA1: 18975f58da68457e8838b5cea64954c39a8ce90a
+SHA256: 5adccef978c8d537ab5c878422926fede663ee942062a81f33654773965a35ae
+SHA512: 6940da86f73dda9ef83b08015b720a9a8f77c66bce24c43974711e7c51d4db16f04a6a75c5cb9f4d191d39026ab8545f48a7d4853a7a1adcc8cfd21ba1c6bbe7
+
+Package: komorebi
+Architecture: arm
+Installed-Size: 176
+Maintainer: @termux
+Version: 2.1-3
+Homepage: https://github.com/cheesecakeufo/komorebi
+Depends: clutter, clutter-gst, clutter-gtk, gdk-pixbuf, glib, gstreamer, gtk3, komorebi-data, libgee, webkit2gtk-4.1
+Description: Animated Wallpapers for Linux
+Filename: ../../../../releases/download/arm-k/komorebi_2.1-3_arm.deb
+Size: 43560
+MD5Sum: e226fe9fb609f7cc5ee6014668c6a318
+SHA1: 929cc931c75a42824ba936c3c95dc27f71b3b687
+SHA256: 5fd17c2d71f1ffb6af0440f5ab30b877f8700e503653b8a9fb887a1761ca8235
+SHA512: d4a127f55d0b2f3870d4c7e0abe66aeb10f995a39180a58c7f26fca6ed7d0ac262e331610c7295c28085292e54182905b786f015b3f22f04f4df5db0354291d5
+
