@@ -41336,3 +41336,18 @@ SHA1: 154641ac5e31e15b6c0221074cbc57dcb1630724
 SHA256: 798c113eb3c6cf8137626a836c3cf25741362c34c542c5dde019d07bb532b832
 SHA512: e210054482bdada24df44cc0c22ffacca195e9d59d22f24d548df45895ffb282e7238b38df404f97b7c77c8aa70655ba728395375fab3545b2de38653f94e96c
 
+Package: dcraw
+Architecture: x86_64
+Installed-Size: 288
+Maintainer: @termux
+Version: 9.28.0-7
+Homepage: https://www.dechifro.org/dcraw/
+Depends: littlecms, libjasper, libjpeg-turbo
+Description: Raw digital camera images decoding utility
+Filename: ../../../../releases/download/x86_64-d/dcraw_9.28.0-7_x86_64.deb
+Size: 118908
+MD5Sum: 4edd5fb97860e636c55a65c7c964e837
+SHA1: 16c852eb9b641ee41f8677f76276eda9e86a9dbd
+SHA256: 74030a7f1a652d97353ae11e48a35e298851e4fd73369ac29c0f83642ddfed61
+SHA512: e5230f41e43a2ef5bde460067b8b057ef1dbbbb529590cdcdab9190aee40af3e7b43e587793790ded549cb08e0624cb242fcfb85c5343ca3ea70c262b0c397be
+
