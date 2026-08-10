@@ -41107,3 +41107,18 @@ SHA1: 638059ef4a621d85ff054701c7e4d073e4f6011b
 SHA256: 4ea4f5fa39ac291e3d897c4103b4619e9292b7cab8e7f5c0d8b7ca96abb95c73
 SHA512: 8ee079dd72072251ca908296690e70cc874a8e5d27515bd95fa7b4deccfb9f405238a0cbab8c980c3851fde22a40eb9e6c797432dd49a5cfc538371c89bf8421
 
+Package: haproxy
+Architecture: x86_64
+Installed-Size: 6528
+Maintainer: @termux
+Version: 3.4.2
+Homepage: https://www.haproxy.org/
+Depends: lua53, openssl, pcre2, zlib
+Description: The Reliable, High Performance TCP/HTTP Load Balancer
+Filename: ../../../../releases/download/x86_64-h/haproxy_3.4.2_x86_64.deb
+Size: 1802700
+MD5Sum: cf05c851b68ec4c11596a358b6c5aa18
+SHA1: c353d05d664fcaa62ad3e80efac7db612cfc2e31
+SHA256: 7be64038827dcfb7de120c642803f0371aab0078deb3096ec2f9d2db028cc4c0
+SHA512: 0e7e2cffe82d1ccea0951c9aaaaad7af48d540e756b45b606456570bdbf9a127c048f48b7c7aeb46e5d16a3ff62ce317b73c15f2a6bb4f070167bcbc7704e133
+
