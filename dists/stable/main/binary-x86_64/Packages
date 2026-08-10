@@ -41412,3 +41412,35 @@ SHA1: 8e52683ac24440c243852a77bdda6b81de9e3570
 SHA256: a7c462dc1295cbdd3e8278ff418103f1d86e3bc4ca150b09218294c894868032
 SHA512: 84013ed03b02c0551d0ecc35750ec6a14ee75996f9ae8aee9a02f37bb64ad78653346632f356197abfe6c447b5e38253671dc05803dde564001ede16c2129998
 
+Package: yara-static
+Architecture: x86_64
+Installed-Size: 968
+Maintainer: @termux
+Version: 4.5.7
+Homepage: https://github.com/VirusTotal/yara
+Depends: yara (= 4.5.7)
+Description: Static libraries for yara
+Filename: ../../../../releases/download/x86_64-y/yara-static_4.5.7_x86_64.deb
+Size: 183664
+MD5Sum: c933874dcf17b5b1188c47509ac4f6a3
+SHA1: 01eb597377e5489b7fbc17777c2d09a0e2530068
+SHA256: cd51e7e9f21a060fdd6a2e48d8611d7dcfa1368954006290cafc559e7d7d605e
+SHA512: 4c6e086bc41ed098eab5a76c5a7344c249421f0461b762935bcf6690768f10b7bb1e0486655fbd21fc5b8c2a32bc3862c25c8a9e75473a154ad3be1b3e4b7ef2
+
+Package: yara
+Architecture: x86_64
+Installed-Size: 1268
+Maintainer: @termux
+Version: 4.5.7
+Homepage: https://github.com/VirusTotal/yara
+Breaks: yara-dev
+Depends: file, openssl, libandroid-posix-semaphore
+Replaces: yara-dev
+Description: Tool aimed at helping malware researchers to identify and classify malware samples
+Filename: ../../../../releases/download/x86_64-y/yara_4.5.7_x86_64.deb
+Size: 238652
+MD5Sum: 5f330e2105c5e78f5ad7bbdef84394fd
+SHA1: f7fffd635ae65c1f7ccf2700db30fc41d27010a2
+SHA256: 3cd8539f016c7abe98d17d175d16c198c075edcbbee968d6af5b1e9b7e007bac
+SHA512: 8f9faa823c3d4bd999f1ba0323bce4a2eac82089ec1e3748157f171c45c28a0b8ff8083d07f0f0e3aebbfe0aaf4a8cee1d874c750aa4414055c3629dc21aea2b
+
