@@ -41784,3 +41784,18 @@ SHA1: 319d7aa47addd5e4278e723123a17047651ba11c
 SHA256: 731359219cb46bd1777891f50bf6466067e7acb308e522e509a49c587ff20d9d
 SHA512: 1807f072451d823220d9d8b0614b35de983a88eced9a87def8ff3dcf6cceca0ae64634904ded777ef3d9b19ff53d0755495326185faf40ac94cf4e524604ead7
 
+Package: lnav
+Architecture: x86_64
+Installed-Size: 9752
+Maintainer: @termux
+Version: 0.14.0
+Homepage: https://lnav.org/
+Depends: libandroid-execinfo, libandroid-glob, libandroid-spawn, libandroid-utimes, libarchive, libbz2, libc++, libcurl, libsqlite, libunistring, pcre2, readline, zlib
+Description: An advanced log file viewer for the small-scale
+Filename: ../../../../releases/download/x86_64-l/lnav_0.14.0_x86_64.deb
+Size: 2870476
+MD5Sum: 7a922f31ed4f6b945ef85b4bb1c8fb07
+SHA1: 191363b4c5362aa41430e31019c7369cd119814f
+SHA256: b68a6665ab1037a371ff0711f1749ea7ec3c378bfa020b226c2ecc67f6ca2298
+SHA512: 92d8efa8a1a6509ad08a64c9b5da13d2366f7d1ca7b53c103c39216a81a806cd34c155162f8170581ac9a9916d0e07198099ed969c3b1001a957f05e5f9fd742
+
