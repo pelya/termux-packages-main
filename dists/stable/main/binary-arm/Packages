@@ -39497,3 +39497,18 @@ SHA1: 3ef614e02354e5a35d1e80760637e512f9ee0551
 SHA256: 6101afed564a8ecb28371333f6994ef8736e4f5b7fc3c1ffcfe711ac0a49ebdb
 SHA512: 8b6e5d8e17baa35be2a6eb81f74ac622cc4892c31e130d7380cdd6a3d132d3d1b584d6500ebcd8760f94ab90fbaed093cff223687c561497e4a57ad8dfe53e30
 
+Package: fennel
+Architecture: all
+Installed-Size: 748
+Maintainer: @termux
+Version: 1.6.1
+Homepage: https://fennel-lang.org
+Depends: lua54
+Description: A Lisp that compiles to Lua
+Filename: ../../../../releases/download/arm-f/fennel_1.6.1_all.deb
+Size: 112140
+MD5Sum: 09327f3e443e0fad800b1605dcb93a30
+SHA1: 7546465a2753df83923bae75a3600c8d132ce83e
+SHA256: b01fd343ca1c2fbdc483d35a66d6ce4aa3bd548c03d9d73e585be66bc82a6bcf
+SHA512: c2c5e9fa7bb5476698f12e82afeb7ea8b221048b622d85fcaceb8c1d214a3dadecfe1fa3cccf25b3087aa8d31c6a8a1a93cf1935353aad820f3e0255f6fa893c
+
