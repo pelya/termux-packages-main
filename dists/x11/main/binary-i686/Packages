@@ -14552,3 +14552,18 @@ SHA1: 0dbbeb5c67286e29ca03ce54636fc62da9f80de0
 SHA256: acda16f6df62c6d6b788151f2689a5d1f4555fdd2352951a8a43455dc7fab954
 SHA512: a4bd2403aca1b063869f2f1ce15beefebe041fc73be2be6a7f35527cb9fe3fc76af006ef40d4b30001252ca69d02381973daad37c4ebe993a72e588a344611f9
 
+Package: kdeconnect
+Architecture: i686
+Installed-Size: 6404
+Maintainer: @termux
+Version: 26.04.3
+Homepage: https://invent.kde.org/network/kdeconnect-kde
+Depends: dbus, kf6-kconfig, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-kdeclarative, kf6-kguiaddons, kf6-ki18n, kf6-kiconthemes, kf6-kio, kf6-kirigami, kf6-kitemmodels, kf6-kjobwidgets, kf6-knotifications, kf6-kpeople, kf6-kservice, kf6-kstatusnotifieritem, kf6-kwindowsystem, kirigami-addons, libei, libfakekey, libx11, libxkbcommon, libxtst, openssl, pulseaudio-qt, kf6-qqc2-desktop-style, qt6-qtbase, qt6-qtconnectivity, qt6-qtdeclarative, qt6-qtmultimedia, qt6-qtwayland, kf6-solid, libc++, libwayland
+Description: Adds communication between KDE and your smartphone
+Filename: ../../../../releases/download/i686-k/kdeconnect_26.04.3_i686.deb
+Size: 1019568
+MD5Sum: d81ae7d76331bea6271c29c5cab80e71
+SHA1: 44e5d17867602584ec2eafd000fa465620576e88
+SHA256: 0bb17b319e21ab3350930cd79862edbd736f59b55d86d7c7ef2de255eaa1fc91
+SHA512: dad4a337158ef18b36fda2c2c0e2e48f3eac726c1f470188cc7c65c505547b8ad5ea7b8792c3e7c3a8e64c5c536531d8f8f10e66e973b8fe98acb0b8d4844198
+
