@@ -40152,3 +40152,36 @@ SHA1: 490132666a8ec411dc4ac7c65e945f913dbe8810
 SHA256: a15263ac6ea3ef5cadb5fe01780e33bd3949240c8990908c2e8aecc8f0218dc9
 SHA512: a3c4f37f425fa9369a4e8fed58228a1f6c709c1bb6a04e6ce131f64d563a5e39bda46adcf7d68495c77e3902ab748e08f53a3f4846c10c0e7d357feffb9e1abd
 
+Package: nmap
+Architecture: i686
+Installed-Size: 27684
+Maintainer: @termux
+Version: 7.99-1
+Homepage: https://nmap.org/
+Breaks: nmap-ncat
+Depends: libc++, lua54, libpcap, libssh2, openssl, pcre2, resolv-conf, zlib
+Replaces: nmap-ncat
+Provides: nc, ncat, netcat
+Description: Utility for network discovery and security auditing
+Filename: ../../../../releases/download/i686-n/nmap_7.99-1_i686.deb
+Size: 5182068
+MD5Sum: a2414a43d4e35935803dd41555a3dbf8
+SHA1: a86e1d78a14ca5f72fbb90ed62d313410cf15c2b
+SHA256: ee052a97b06cf57c434386d34641bee0f07a46e732f29a010b895eb492cf1fd5
+SHA512: 7dc3f33c7f76a61e784bc3acf7a99df74116ed8d011848caa439a79c2d0d95f24a4949ac7e786425bb769df81b204cee4b14652c39c02e27bd03633bcd353afa
+
+Package: rustscan
+Architecture: i686
+Installed-Size: 4212
+Maintainer: Krishna Kanhaiya @kcubeterm
+Version: 2.4.1-1
+Homepage: https://rustscan.github.io/RustScan
+Depends: nmap
+Description: The modern,fast,smart and effective port scanner
+Filename: ../../../../releases/download/i686-r/rustscan_2.4.1-1_i686.deb
+Size: 1519892
+MD5Sum: 6b7b537f12d9f556ba937a071cabd98a
+SHA1: 1c79e28d7924ba51cab48f817fb2bd108c2ac932
+SHA256: 027ed773ca143a44c48f1f2af41b68a19d757acc105482ee0aed55e7fd2fb9aa
+SHA512: b7143e2aa75acd94ae1ffeb195cc813ed9ef683f77ec453af2b2011dd79c9221a5593f683e399772883e87eb3c4d2c6a814ce93408f2ed83db3ab3321dd028ae
+
