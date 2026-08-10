@@ -41769,3 +41769,18 @@ SHA1: bdf836ee46ca9dd47f0a7e88fa64673526b4c9fd
 SHA256: 17bc8dcdac37ac4afef96e66920d81419ce0947e09f84495b944fe773df2e1bd
 SHA512: 713354d22cd7eedfb604b3e75759ce0711435697b34067a5521063d78beb0b495f30fd71d508b0dd6b234ddc30523036fb0c524c46d79429ca64118ac9d567c3
 
+Package: httping
+Architecture: x86_64
+Installed-Size: 152
+Maintainer: @termux
+Version: 4.4.0-1
+Homepage: https://github.com/folkertvanheusden/HTTPing
+Depends: fftw, libandroid-support, ncurses, openssl
+Description: ping-like program for http-requests
+Filename: ../../../../releases/download/x86_64-h/httping_4.4.0-1_x86_64.deb
+Size: 40908
+MD5Sum: 642cd6298c3e9af733b8299d904e36ae
+SHA1: ebdaf06188706cdde196b0a54639c3032ea5a9d9
+SHA256: 22cc4e07c9ab2cc61bdcf674bd69e20518c4cc0a8006750f04c5b03dbd29e9ca
+SHA512: 73e52abad2885afc97aec200aaf51b06da120351176c0ef391d3a9c32b4806e05ef9e77db9545432a23f2dd71a152d9dafa6faa8ab0508b7937b5cb5937cfff5
+
