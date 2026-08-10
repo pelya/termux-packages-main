@@ -41741,3 +41741,17 @@ SHA1: 2d62c15b1a15cd544bf15bc45faeb55c604c45b5
 SHA256: 2f258ec171cb667dae459d24f7b459b8ea4ae44ed6dabc957a1802e433d50b85
 SHA512: 7d61ea21dac430fd25eff1d96ba044558982821f6f413268b7c9a15d5c7eed7972abed2c7a7c25390703ffdf6e4dbcf965977d54e0f57cc6dc4277de5860dec5
 
+Package: bore
+Architecture: aarch64
+Installed-Size: 1812
+Maintainer: @termux
+Version: 0.6.0-1
+Homepage: https://github.com/ekzhang/bore
+Description: Bore is a simple CLI tool for making tunnels to localhost
+Filename: ../../../../releases/download/aarch64-b/bore_0.6.0-1_aarch64.deb
+Size: 569024
+MD5Sum: 7375237089b0a44aa92ab9402022617b
+SHA1: 2550c3582ac8a91dc387e172a85e09a36aef45c5
+SHA256: 910c3b8d4b33bbd10b38b6cf52d03649a2fc8fb1e8a658045be5ec0351138a89
+SHA512: 7eadf301f640a5e4f386dab5969d323a9e4b776726a34f4c537b3274c83d9fcc2132d07fb74e2f6cfc84ef374dfd735767e48e99cc37dac07963dcd0236eca10
+
