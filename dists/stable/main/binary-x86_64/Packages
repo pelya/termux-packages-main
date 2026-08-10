@@ -41275,3 +41275,35 @@ SHA1: e69214cbb9e50ecc1f6956466588ab25b915cd20
 SHA256: 0f503a869ba35d47e8b660a9e1af9dfce1a3e5c2fd9511d7d76ebf19356aca07
 SHA512: 5c48eec4db0881783688c2f764ba998207c3b8d7f7457960c7a2fbf7d22ac1ed499dc8758d8ce81e0385fbd737150bd0cfba416e39698011cccbbff3699a8214
 
+Package: octave-static
+Architecture: x86_64
+Installed-Size: 99476
+Maintainer: @termux
+Version: 2:11.3.0
+Homepage: https://octave.org
+Depends: octave (= 2:11.3.0)
+Description: Static libraries for octave
+Filename: ../../../../releases/download/x86_64-o/octave-static_2.11.3.0_x86_64.deb
+Size: 8174008
+MD5Sum: d4e68f7ab7884ffed9fc70fee03762a0
+SHA1: bfa26ce846d2882f118c4ae5533d06cfc328a2cb
+SHA256: d24a834d968657552606cfe6aa3915aeb7b15374f77bd65244dd1e9c07f7d31e
+SHA512: 182a386e64c0a6af8d54552ee33aa203c777cb733e0fe844fb9f89eaf772efda9ad53da078a7cc9cdb281609ddf26f8f3ca6b8958e5e543fb031d2a9583837db
+
+Package: octave
+Architecture: x86_64
+Installed-Size: 64724
+Maintainer: @termux
+Version: 2:11.3.0
+Homepage: https://octave.org
+Depends: libandroid-complex-math, arpack-ng, clang, bzip2, fftw, fontconfig, freetype, ghostscript, glpk, graphicsmagick, libcurl, libhdf5, libiconv, libopenblas, libsndfile, make, openssl, pcre2, portaudio, qhull, qrupdate-ng, rapidjson, readline, suitesparse, sundials, zlib
+Conflicts: octave-x
+Recommends: gnuplot, less
+Description: GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI)
+Filename: ../../../../releases/download/x86_64-o/octave_2.11.3.0_x86_64.deb
+Size: 13589092
+MD5Sum: a5d928e2d873fc9496ae0c2b6c733a76
+SHA1: 90ad39a1767351fe7a14a3405121b8226a70f1de
+SHA256: 2d7ccba35677dcab5df796d303fc1ab8184e8890414048448b0f22e7711ac3de
+SHA512: c71f24a5a477c31906f758c41a5536b9b57a2ae1ac45fb818c8032660385b92699b43d6d7b2128f02cf9a0e65fe2ce5aa8cb60dac33230427d06fc2a473bec93
+
