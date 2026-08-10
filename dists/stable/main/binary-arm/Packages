@@ -39959,3 +39959,18 @@ SHA1: 8727536da6b39bbe04c2adccaa9b344cbe07cb2c
 SHA256: 5b52c5b7e55fc7d225062248a70b3145207fd9a8222386f83f05897d903441cc
 SHA512: 1ac41a32acca9225908dc779cb91947417c9881c848c6bbd82e87d44e4fd9a3a0a6be6c6ccae2d35a58f28e4decb87a90cedcd89fc2808fd8c4fec4cb3bfb61f
 
+Package: pdftk
+Architecture: all
+Installed-Size: 1044
+Maintainer: @termux
+Version: 3.3.3-3
+Homepage: https://gitlab.com/pdftk-java/pdftk
+Depends: libbcprov-java, libcommons-lang3-java, openjdk-21
+Description: A simple tool for doing everyday things with PDF documents
+Filename: ../../../../releases/download/arm-p/pdftk_3.3.3-3_all.deb
+Size: 968168
+MD5Sum: b8bd9fb1b4941155546879c23cf34131
+SHA1: 713b5a76e48348decadb261c8e65c8c9bbe7e7d6
+SHA256: d368627e8612c071d8d3d16096ea27cef9486cdb5103628f4c1fa263a2459e0f
+SHA512: 3839176760149bf3d7a359822419df849699afc33539672a7ecffcaf83ee5a3e14a9776686ced7b2c3fc7e38956480d1e12ed6bf0cd460f3b6777079ab1d7d65
+
