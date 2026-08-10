@@ -1877,3 +1877,12 @@ data/data/greater.underscore/files/usr/share/wireshark/tpncp/tpncp.dat          
 data/data/greater.underscore/files/usr/share/wireshark/wimaxasncp/dictionary.dtd tshark
 data/data/greater.underscore/files/usr/share/wireshark/wimaxasncp/dictionary.xml tshark
 data/data/greater.underscore/files/usr/share/wireshark/wka                       tshark
+data/data/greater.underscore/files/usr/bin/cgdisk                                gptfdisk
+data/data/greater.underscore/files/usr/bin/fixparts                              gptfdisk
+data/data/greater.underscore/files/usr/bin/gdisk                                 gptfdisk
+data/data/greater.underscore/files/usr/bin/sgdisk                                gptfdisk
+data/data/greater.underscore/files/usr/share/doc/gptfdisk/copyright              gptfdisk
+data/data/greater.underscore/files/usr/share/man/man8/cgdisk.8.gz                gptfdisk
+data/data/greater.underscore/files/usr/share/man/man8/fixparts.8.gz              gptfdisk
+data/data/greater.underscore/files/usr/share/man/man8/gdisk.8.gz                 gptfdisk
+data/data/greater.underscore/files/usr/share/man/man8/sgdisk.8.gz                gptfdisk

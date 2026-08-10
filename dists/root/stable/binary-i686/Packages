@@ -1264,3 +1264,18 @@ SHA1: 602cd2837e974b34ac3bcb2aa88d70ee05f1790e
 SHA256: 94e34edd4da155958a00ce4ce2749045ccdb88edc4989211f41cb64aa1e7d782
 SHA512: 512e4fe102b852d1a484172fd295feb862bf6195892330ce307ae8a87acf65fa9d83e979aa45fa124b7844f56f6da7426d0d55b75ad2157ed56e929875fea4ba
 
+Package: gptfdisk
+Architecture: i686
+Installed-Size: 1096
+Maintainer: @termux
+Version: 1.0.10-2
+Homepage: https://www.rodsbooks.com/gdisk/
+Depends: libc++, libpopt, libuuid, ncurses
+Description: A text-mode partitioning tool that works on GUID Partition Table (GPT) disks
+Filename: ../../../../releases/download/i686-g/gptfdisk_1.0.10-2_i686.deb
+Size: 200384
+MD5Sum: 2b522fb430032bac8603727f9ba1ea94
+SHA1: bb57c41d1be3748b8bd2a5e07bc1bff17b28d12d
+SHA256: ee7522291539bd9246607ec0c7ebfa9a20a4c2968aa6619ba3789da20ca4902b
+SHA512: c880ebd286e4f1c0e299f185c82830aa18d712ff2d7899f523230d473e8c886e3a09fe79855f855ea1f05a37a61bdf589d3b96c47fc7f87c9103d79523982cdf
+
