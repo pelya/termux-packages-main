@@ -15187,3 +15187,18 @@ SHA1: a1301fc927720173768e1fea2ea20472a7aaa4c3
 SHA256: cd6ed4fef71ad8431f90ab324bc1bcb7c56fc24b8c1ed21c4d25710c428e80b7
 SHA512: bbdf6b9d7701ec469acdf240e2da89dec6d64f58644bea31f0acc2967a35f331881bf8cccf2564b461335f5a06630443a5eeb61488c4e813b71e557afb149bbe
 
+Package: wxwidgets
+Architecture: aarch64
+Installed-Size: 29448
+Maintainer: @termux
+Version: 3.3.1-1
+Homepage: https://www.wxwidgets.org/
+Depends: fontconfig, gdk-pixbuf, glib, glu, gtk3, libandroid-execinfo, libc++, libcairo, libcurl, libexpat, libiconv, libjpeg-turbo, libnotify, libpng, libsecret, libsm, libtiff, libx11, libxtst, libxxf86vm, opengl, pango, pcre2, sdl2 | sdl2-compat, webkit2gtk-4.1, zlib
+Description: A free and open source cross-platform C++ framework for writing advanced GUI applications
+Filename: ../../../../releases/download/aarch64-w/wxwidgets_3.3.1-1_aarch64.deb
+Size: 5644056
+MD5Sum: 838dddfdbd61c0a075a86a1fc8b2b550
+SHA1: 8e81718747faa07e19a0379e05dae7c22a0ec5ce
+SHA256: 2bcfc724995895cf91239a0bff1bc9bdca0fbf10b3c9acf083710bbaa6d1be44
+SHA512: 0be7c8d44c609e24038bd127f40fc00929e068cfc26b82b6725c24653217c7381ff3900108d081667f77dbefe88750a556b8c7674fc698a1694be710e805be6c
+

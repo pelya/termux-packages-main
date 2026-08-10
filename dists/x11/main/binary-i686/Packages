@@ -14658,3 +14658,18 @@ SHA1: 6c4d316600ce60e37f6f412f5820f09aba5c8db9
 SHA256: 41c4dd827433cbd2571faa99f4a500c04bbc462531cb610799729bc856dc289b
 SHA512: afa957b138be453fcf1e0f4cc5e6770f691152f529161dffb11fe0993cc319f41a07d9abdc3022d0a436c2659c014e8033a521a614c23d62fe42f1f90f266caa
 
+Package: wxwidgets
+Architecture: i686
+Installed-Size: 28032
+Maintainer: @termux
+Version: 3.3.1-1
+Homepage: https://www.wxwidgets.org/
+Depends: fontconfig, gdk-pixbuf, glib, glu, gtk3, libandroid-execinfo, libc++, libcairo, libcurl, libexpat, libiconv, libjpeg-turbo, libnotify, libpng, libsecret, libsm, libtiff, libx11, libxtst, libxxf86vm, opengl, pango, pcre2, sdl2 | sdl2-compat, webkit2gtk-4.1, zlib
+Description: A free and open source cross-platform C++ framework for writing advanced GUI applications
+Filename: ../../../../releases/download/i686-w/wxwidgets_3.3.1-1_i686.deb
+Size: 6134588
+MD5Sum: 680ed6d2d378963e77855b341ef3d36e
+SHA1: 82a0ec7e5e2d1a1ca6e344406c6217c651adf81d
+SHA256: c67eb2a29c2351e74b037820271bb0fecdeb38092f6638e2c1c8fb788e3b850d
+SHA512: 67351fe22b4a1083cf89e44a46894a065824d72d0d544c83e682d8d7f632541e4cced18b127ceb7eb10b4b62d7dcadd0f8e2c037fbbb1c76609b9f6f129261f8
+
