@@ -14942,3 +14942,18 @@ SHA1: 7b54664141a1315b979ab2292ed9beddbd117b89
 SHA256: 2f978dfd5bd0a3fef59f69c33b1c62491e40d28ed25f7a5b66e4b8ed18e73744
 SHA512: 038142493282c7e7a813aaad1d8fd143c3a267db1dfc9d1dc76b70b15174ad8189c0cbf86dd5a1e20f42721bf80df18ca67dfeae5e758bf473cc60b909838ee2
 
+Package: print-manager
+Architecture: arm
+Installed-Size: 1204
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/print-manager
+Depends: cups, kf6-kcmutils, kf6-kconfig, kf6-kcoreaddons, kf6-kdbusaddons, kf6-kdeclarative, kf6-ki18n, kf6-kio, kf6-kirigami, kf6-kitemmodels, kf6-knotifications, kf6-kwidgetsaddons, kf6-kwindowsystem, kirigami-addons, libc++, libplasma, qt6-qtbase, qt6-qtdeclarative
+Description:  A tool for managing print jobs and printers
+Filename: ../../../../releases/download/arm-p/print-manager_6.7.2_arm.deb
+Size: 286624
+MD5Sum: bc333f95eb173c75a48f5d4f829d97dc
+SHA1: 4804a7138bf6b179910c535724d3c990be8af02f
+SHA256: cec570a74f1a5cf3c8f3c07a774e8c492e06efc2ba58fe2b750236c948f52efe
+SHA512: 03f7ee2fb4a10832ef60d57dcea5e291a38f81675064294e920588d7e0697f90c0670cdd59cca9adb6e7787ac7c19d645aba0f1d3f4f7e3a1b8a17eefec84c7e
+

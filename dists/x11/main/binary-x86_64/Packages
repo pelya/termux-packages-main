@@ -15188,3 +15188,18 @@ SHA1: f3b18f4a89c4f7b046665978bd0fbfd069214eef
 SHA256: c57bc92c05b9bfe64c0e31f9c9fbe410ecaea09641d5644ae4e0661b378a7488
 SHA512: 7a652ec08c6e39c49fd18014044f752873861f67ac723589c29861fd76301d5f18b23feb037f71b2164a931cde39761e5201670e2c9a080e8d84dccda0907a46
 
+Package: print-manager
+Architecture: x86_64
+Installed-Size: 1576
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/print-manager
+Depends: cups, kf6-kcmutils, kf6-kconfig, kf6-kcoreaddons, kf6-kdbusaddons, kf6-kdeclarative, kf6-ki18n, kf6-kio, kf6-kirigami, kf6-kitemmodels, kf6-knotifications, kf6-kwidgetsaddons, kf6-kwindowsystem, kirigami-addons, libc++, libplasma, qt6-qtbase, qt6-qtdeclarative
+Description:  A tool for managing print jobs and printers
+Filename: ../../../../releases/download/x86_64-p/print-manager_6.7.2_x86_64.deb
+Size: 318136
+MD5Sum: f4eb7d95236037ed377f7bc3446f7dae
+SHA1: a2a2714e54fe2814b4aa27d657bb45793b10cfcc
+SHA256: 6690d536b8e15c2451dc8b62d764a72b34665dacacf6af7ebdd4b3094f1095ec
+SHA512: 2db47ee96b2116e9774844e43f1c4510ca692ef1f5b0369c23518a7392a43e257d0cf67c04ccf0f9bacb8c6ab7650bcea874fafc8df51b0db6d2f89a7ce21144
+

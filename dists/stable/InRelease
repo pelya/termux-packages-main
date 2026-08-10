@@ -6,11 +6,11 @@ Version: 1
 Architectures: aarch64 arm i686 x86_64
 Description: stable repository
 Suite: stable
-Date: Mon, 10 Aug 2026 18:57:09 UTC
+Date: Mon, 10 Aug 2026 19:03:49 UTC
 Components: main
 MD5Sum:
- 307f39cffc53596a06f07df2137405d0 1761343 main/binary-aarch64/Packages
- 4bbd2eb8df239b9bbdec4ad41fd9524d 553996 main/binary-aarch64/Packages.xz
+ 51b4d0d736fe629439830b2006d86824 1761343 main/binary-aarch64/Packages
+ 57a9152cbbe072012ce0bcebc6eeaa45 553988 main/binary-aarch64/Packages.xz
  946bb9aec3dfa7b59cbd78fffe8a3b2f 1652628 main/binary-arm/Packages
  d052b5553ece5a33892dbd920396a345 530020 main/binary-arm/Packages.xz
  d30de455d9d698d10e52bed5d0560d95 1693172 main/binary-i686/Packages
@@ -22,8 +22,8 @@ MD5Sum:
  38dade230c10355166d55f4c86dc9e35 43407566 main/Contents-i686
  4397e50c1565acf4983e7a65bc185274 45514936 main/Contents-x86_64
 SHA1:
- bf7871c9005c46c32b9d9e4090c47796b8770164 1761343 main/binary-aarch64/Packages
- 1e721fd2302a079e0044fdec3de673f29ab0335a 553996 main/binary-aarch64/Packages.xz
+ 68b6ef2baab0835323dc270f8f256ba596674416 1761343 main/binary-aarch64/Packages
+ 6d54fb3005ad08f9009c1886da5be364e8e25915 553988 main/binary-aarch64/Packages.xz
  13646209830acfc37f713c4a4b1ede385c298bc2 1652628 main/binary-arm/Packages
  9521c3c23f1a20f0f7aff7aa7e2abc471a2e0227 530020 main/binary-arm/Packages.xz
  2fcfc1a45046843f2fd31c1ea52bda81fac79dd5 1693172 main/binary-i686/Packages
@@ -35,8 +35,8 @@ SHA1:
  e03e8c1d09d1e7d9436f9ab5418956b0aa072214 43407566 main/Contents-i686
  cf1cd6d0e04e044ac17c2f32095cdfcd765e0679 45514936 main/Contents-x86_64
 SHA256:
- 24a2ebc40bdce5def11895a7aff43a4190761bc4fe1475ec6d88bce3659aa9d9 1761343 main/binary-aarch64/Packages
- 138adf7a122866a87a9f1f0f6bc0ed26dedfeec3e669ac5be0b2fdcb02d30df9 553996 main/binary-aarch64/Packages.xz
+ f5e623fdd0ec6fb8c0003843899ea78132ce0daf8a493b88aec504722ca0ec49 1761343 main/binary-aarch64/Packages
+ 44d27f6340eb38cb0ac01a6ae4dfa33acf61478ffd67b61ed42a8f2d12767def 553988 main/binary-aarch64/Packages.xz
  8311b1197eabde9614f557086ad4ae4cef285ebe5ee552e8da0441fccdbd8fd9 1652628 main/binary-arm/Packages
  5865b6dc3e1558a285281d183c84c70add95b094730fa065bbe148be0b95b413 530020 main/binary-arm/Packages.xz
  29ef431bdc80e76b7c7923ef25d4236836f9d02191dbeaa95844a2136115171f 1693172 main/binary-i686/Packages
@@ -48,8 +48,8 @@ SHA256:
  1dae08160be704d33a94a1c54ca6f3e718c5db483d3b70d70deb45af1d30002c 43407566 main/Contents-i686
  3b183bc6fa7fea8cb789e20965bd1b2cca4977f7a41761d1a204c087a45d2908 45514936 main/Contents-x86_64
 SHA512:
- ab5d2b28738ba6378c445f35ce67ee4ebcc3ddb45f05e0f051ce7fa880a5003b3931c7b17f4f1328c8ec8a769242ce59aca14baa42355f90a17dd55592dda4cb 1761343 main/binary-aarch64/Packages
- d75124404d8112da2ee1c796f1e1a0c0b27d52a16999cd0275a32f84419c0913af302ee7e68e180af6ff709d97d615b20a34be82db998a0933178cbc0af18744 553996 main/binary-aarch64/Packages.xz
+ 2d8339e2a54b7abc6cf487dee11fe79cfd277dd941731967823ddc0c9e8658e5f4206e367c35c0ec93dc860be5b9a9eb60236818ef0ad94d3a6f27c6f5e13e14 1761343 main/binary-aarch64/Packages
+ 92ea8da8f2521df8bdeeb988021ca7bb41128b7f4ea7db6050732d6fdda4c906cfb79232a9dc24b00cbb2b92f22a56e4972ff3a86ac20343b09a2fcef3fd248c 553988 main/binary-aarch64/Packages.xz
  19bc5760b48be116a17058be28d8612bfdd859995b6731239b1221b951ba26811a2e2e20ee8dcfd1fc1e732f07808d535d82145257d698faf89c8437d9b30d31 1652628 main/binary-arm/Packages
  189fb903eb71ac693e9fdc5abd22b414c9d700767164b12b36e1c4f4c58a47d916f30cff595f033fcc7cdb7d8b57e7f86c239808710c778a29d0f5a9e3db2d79 530020 main/binary-arm/Packages.xz
  c7ce29581cd1ce99b11a575050bc2d3b78a69a0a56ea849cc80eebbc9a87002822c33080692a099687b5a89c21a0fc36458d111e5437c4b89490b44dde840e84 1693172 main/binary-i686/Packages
@@ -62,8 +62,8 @@ SHA512:
  0a9b618dcfd765810c9050edb537dc0d5882d4def5a5a170f037693ac8dc66e4cfa558c05dfec3d6e8601e8cf33b04abdc53c83f6ab1b52ced40a472d1bd8a8e 45514936 main/Contents-x86_64
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQRoXwPXv1OyIZWwfnjrk/07XXkDVQUCanofCgAKCRDrk/07XXkD
-Vc4wAQDLPVM2WAJ4FxP0baRFhZuWno5/3HmL3iv6VVgw1ZMcjAEAsJVP4bUCAzQJ
-bDJiivHOrB3/nT5bZ6rXgx/8UJoPSwU=
-=JdQQ
+iHUEARYIAB0WIQRoXwPXv1OyIZWwfnjrk/07XXkDVQUCanogmQAKCRDrk/07XXkD
+VTgRAPoCOtF2SOALH3NgHEYBnlj+xBPp2WGka0nCiC8JJI0z5QEAy3W/c2KYcOVR
+SkTT1NGGRaabW4q3Eep4cJC5jjZt3w4=
+=/FBG
 -----END PGP SIGNATURE-----
