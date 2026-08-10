@@ -14884,3 +14884,17 @@ SHA1: c5897d2a7b48b8cdcb4055236c05ee8e6e5e9a4d
 SHA256: 3f198a25b8c98ff3865d914e21213c311c8384b1c9ca27816eaa2d962322985c
 SHA512: ce573253ee77927897e8602cd4b2873807d9c58d719c10fc75695dc49024e8ffba93f4ae01c31df827ab515050db322c7e0ed7ce1d7b49a550ce85400b039ba8
 
+Package: bdftopcf
+Architecture: arm
+Installed-Size: 80
+Maintainer: @termux
+Version: 1.1.2-1
+Homepage: https://gitlab.freedesktop.org/xorg/util/bdftopcf
+Description: convert X font from Bitmap Distribution Format to Portable Compiled Format
+Filename: ../../../../releases/download/arm-b/bdftopcf_1.1.2-1_arm.deb
+Size: 17328
+MD5Sum: 5c63d2e460c0e621fc00941385dc2a00
+SHA1: c6b2cb036a13b0fba9b3aa893a7441d84f22e304
+SHA256: 72a25d2dc8ab04a605334a4063bdb7a128cf71e4907a6d80cf0c91ad4d9ab63d
+SHA512: a71fe1ff54c7f2bc09b21b543c810ec21bb03c075f6fd295bac899c0410a9ad61be6dd63e974a7386103a2736ed3a0653371ab94d66b250e8507e356d6bc697f
+
