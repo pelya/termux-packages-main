@@ -39664,3 +39664,17 @@ SHA1: 6ff0ab024ca9451814ba13da03ac66f92fba00f0
 SHA256: 2e7f95b71be8e177ffad1fb7f1cd64cadb0792f1b43510f8d9dbe07f034771ae
 SHA512: 0825eebe7411649799e8d03425f222963b00f0bb8352829318b0c6ec5776a78f5003d4418563b6220b37dab8f4220b2717cede7fdb571894e2a5f88d8a8bbb4a
 
+Package: wasm-component-ld
+Architecture: arm
+Installed-Size: 3388
+Maintainer: @termux
+Version: 0.5.26
+Homepage: https://github.com/bytecodealliance/wasm-component-ld
+Description: Command line linker for creating WebAssembly components
+Filename: ../../../../releases/download/arm-w/wasm-component-ld_0.5.26_arm.deb
+Size: 1352884
+MD5Sum: 94b1fd96c655ebb2aafaeaf8d5c31c4a
+SHA1: 1bad12d6c68e58b0d76acb171cfed15686d91180
+SHA256: e18d955f55ed17c2b74dd776fbfb319a442f494d7957970801394778e363ac64
+SHA512: 8a04195f5c281461861d9d7cb21be1d1223aebcaea2e49e1258b793656a3a9604dce1d0152739ed83a212089dcd8d6bd43115cbb8f63e5285423b72faf42392c
+
