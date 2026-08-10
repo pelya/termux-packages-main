@@ -40486,3 +40486,18 @@ SHA1: f627845d4cbc9b5d1e5543ec3733b818fe42d93e
 SHA256: bcb43d28b70cc8fbfb1f3dd76802f4c0cf71ffa2a3abc97b2a47529af9f856e9
 SHA512: 86fe0406d8e01c46a5e04d09b633d08744bd8ecee0b99587da9946e13026e9fb8064f3324331fdc512f02623238a9178842164c59e8c97254b58557f643feadd
 
+Package: cava
+Architecture: i686
+Installed-Size: 168
+Maintainer: Oliver Schmidhauser @Neo-Oli
+Version: 1.0.0
+Homepage: https://github.com/karlstav/cava
+Depends: fftw, libiniparser, ncurses, pulseaudio
+Description: Console-based Audio Visualizer. Works with MPD and Pulseaudio
+Filename: ../../../../releases/download/i686-c/cava_1.0.0_i686.deb
+Size: 39932
+MD5Sum: fe454ee1ac7794b91330148a329bdfa7
+SHA1: 327e512aafde954426211e37dc133a38a0ea5339
+SHA256: fd7f5944cd67a1970d59ff1d459c4df34a090babdb867525c61b633d35bcdb73
+SHA512: 0ec0172e7f9dbff26135cae35f802f3535eccd9af25ddc310fcd5dc39b9b8386418579b82c6ab94bad7ca5f169ee359a05fa52e427ba44fa527844f95dfb878e
+
