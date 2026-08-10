@@ -14492,3 +14492,18 @@ SHA1: 447c121832b8fd0229596f793848d934618f24a4
 SHA256: 8d4bf9e54021752996d6f42df45ad4e4f6df0dbf09dbb232cf7713e027eaafcc
 SHA512: 314b7e7e5c46c72f6e27171b84b5bc9aaeba7f0984c1c4453b994dc29dbc8a8c843ce92f9fc4ff9e628a7cd81a9a7ba800220d8486ddff814362c965cf36c54c
 
+Package: cinnamon-control-center
+Architecture: i686
+Installed-Size: 404
+Maintainer: @termux
+Version: 6.6.0-4
+Homepage: https://github.com/linuxmint/cinnamon-control-center
+Depends: glib, gtk3, libgnomekbd, libnotify, libx11, libxklavier, python-pip, upower, cinnamon-desktop, cinnamon-menus, cinnamon-settings-daemon
+Description: Cinnamon control center
+Filename: ../../../../releases/download/i686-c/cinnamon-control-center_6.6.0-4_i686.deb
+Size: 68840
+MD5Sum: c9bbda5c80c4b6e57219fb4140ac6748
+SHA1: a7816416ebd6c0305293ec6f4298577f445bed08
+SHA256: d4f337cadb2822fae17bd1cdc08d633a69165f038a8dde2b3fed7e5d1fd790bc
+SHA512: 6d60ed30bd6be7271cd1381ac45f4d1b8a343d833081091791bdbba9d64a5b6a929417df4be02e43cc0acba65131d45780feae475b646915560dff4cddc9c3bd
+
