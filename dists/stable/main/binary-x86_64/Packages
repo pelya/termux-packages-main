@@ -41754,3 +41754,18 @@ SHA1: 713b5a76e48348decadb261c8e65c8c9bbe7e7d6
 SHA256: d368627e8612c071d8d3d16096ea27cef9486cdb5103628f4c1fa263a2459e0f
 SHA512: 3839176760149bf3d7a359822419df849699afc33539672a7ecffcaf83ee5a3e14a9776686ced7b2c3fc7e38956480d1e12ed6bf0cd460f3b6777079ab1d7d65
 
+Package: fdm
+Architecture: x86_64
+Installed-Size: 332
+Maintainer: @termux
+Version: 2.2-2
+Homepage: https://github.com/nicm/fdm
+Depends: libandroid-glob, libtdb, openssl, pcre2, zlib
+Description: A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways
+Filename: ../../../../releases/download/x86_64-f/fdm_2.2-2_x86_64.deb
+Size: 106244
+MD5Sum: ba86c7a1ac39f5945cf22edb8726d99d
+SHA1: bdf836ee46ca9dd47f0a7e88fa64673526b4c9fd
+SHA256: 17bc8dcdac37ac4afef96e66920d81419ce0947e09f84495b944fe773df2e1bd
+SHA512: 713354d22cd7eedfb604b3e75759ce0711435697b34067a5521063d78beb0b495f30fd71d508b0dd6b234ddc30523036fb0c524c46d79429ca64118ac9d567c3
+
