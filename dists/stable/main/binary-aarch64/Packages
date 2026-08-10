@@ -41727,3 +41727,17 @@ SHA1: b6c0a5b729195835c499ffe59f06d97f26441104
 SHA256: e538864b04a10a453083c97f9eacc20ecc8962d6a5885a5cb8afba01e3d9aa4d
 SHA512: 73cbe18a605821100cfab88ff706412a782a3869d6163470139bf4f74898037423efebeacd7d7cb3ff9c947680ba709d5136097a953eec64a21d92698f60ac85
 
+Package: kbd
+Architecture: aarch64
+Installed-Size: 64
+Maintainer: @termux
+Version: 2.10.0
+Homepage: https://kbd-project.org/
+Description: KBD's showkey utility for examining keycodes
+Filename: ../../../../releases/download/aarch64-k/kbd_2.10.0_aarch64.deb
+Size: 7068
+MD5Sum: 72d194cc34e30c83c54406a507e0b297
+SHA1: 2d62c15b1a15cd544bf15bc45faeb55c604c45b5
+SHA256: 2f258ec171cb667dae459d24f7b459b8ea4ae44ed6dabc957a1802e433d50b85
+SHA512: 7d61ea21dac430fd25eff1d96ba044558982821f6f413268b7c9a15d5c7eed7972abed2c7a7c25390703ffdf6e4dbcf965977d54e0f57cc6dc4277de5860dec5
+

@@ -41696,3 +41696,17 @@ SHA1: eed4993f2832830849a87789f2d40be3cf23630a
 SHA256: 494d7d136b37d88a2c60a1f153a5312e43cd46c13a5c5e2771af65f939a3c191
 SHA512: ccb8d8247e5858b92420fb2c6b6ea3ec0874a8840b18066a74cc3b821bfc356911c80d84e4371824fc2b076a9bd18050f3a668399b9d9d6b30a4076d967dd44c
 
+Package: kbd
+Architecture: x86_64
+Installed-Size: 84
+Maintainer: @termux
+Version: 2.10.0
+Homepage: https://kbd-project.org/
+Description: KBD's showkey utility for examining keycodes
+Filename: ../../../../releases/download/x86_64-k/kbd_2.10.0_x86_64.deb
+Size: 12952
+MD5Sum: 26440e08c9b5f1503f042badb678603c
+SHA1: 9e43232a6d830b9e53ca689236dfc153af3b61e4
+SHA256: c54e9b62000507538f7a08bec8877270672c008a36af8e6646451fbd4167a7cb
+SHA512: b30a5767250d3b993cc6a89743e4ac54d6c18f9dce1a2d20de305678eedb433d93b875468cb1750ad275b52f11d4bb6fe025c87e72adead21ba5f114c852d9cd
+
