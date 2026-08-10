@@ -39813,3 +39813,17 @@ SHA1: 6e96b76431ec4af45c86f596903623c163c8297e
 SHA256: 191f66362b5a099f2520a14e46f4187fc934df0e7a5717ff87532587f9ba747c
 SHA512: aa57c8df640e713cfa204ce36578615a993c2a7b8aa0eeef1f01b86f69a3b15ac031f0df47001b49a8ec1803f8692e9b2af088e57c49388a418168e2fb9ff1b7
 
+Package: pv
+Architecture: arm
+Installed-Size: 524
+Maintainer: @termux
+Version: 1.11.0-1
+Homepage: https://www.ivarch.com/programs/pv.shtml
+Description: Terminal-based tool for monitoring the progress of data through a pipeline
+Filename: ../../../../releases/download/arm-p/pv_1.11.0-1_arm.deb
+Size: 225324
+MD5Sum: 5ca293f91e53a9ac1ddf99d7f152db7b
+SHA1: 165f895d45d73cf779cb1961da426d37b013455d
+SHA256: 3afc6df2b62577d11605f57af484d1dd1cf37a5952e57d53225c731ed7ad0321
+SHA512: 41ea667f75e044cd51e28f40a7dc1b8dcde831fd8c570e8ac830904e91fc9af1feb246ce20b0f33c443ab4da0b0238f7d1eb508de16a128fd94803de83b8f7b3
+
