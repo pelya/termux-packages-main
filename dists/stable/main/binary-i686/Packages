@@ -40274,3 +40274,18 @@ SHA1: 7546465a2753df83923bae75a3600c8d132ce83e
 SHA256: b01fd343ca1c2fbdc483d35a66d6ce4aa3bd548c03d9d73e585be66bc82a6bcf
 SHA512: c2c5e9fa7bb5476698f12e82afeb7ea8b221048b622d85fcaceb8c1d214a3dadecfe1fa3cccf25b3087aa8d31c6a8a1a93cf1935353aad820f3e0255f6fa893c
 
+Package: stone
+Architecture: i686
+Installed-Size: 156
+Maintainer: @termux
+Version: 2.4-3
+Homepage: https://www.gcd.org/sengoku/stone/
+Depends: openssl
+Description: A TCP/IP repeater in the application layer
+Filename: ../../../../releases/download/i686-s/stone_2.4-3_i686.deb
+Size: 50276
+MD5Sum: a10ab24942474a14d8a659cbc274794f
+SHA1: c79392f6009c8452d65f3f02153b4624727bd273
+SHA256: 5268c38f1ca1d8fa9244bcb873ef38f55be6f9d72e8f7590669963493208f062
+SHA512: 1707ba025af61ef662b4025130a3658958ca8f054dcd56807125fa3a8c7cdc113f0c501151cccdb82b9a77e17c46a21cfc6dde6fadbb70458b6fca0066ba75c9
+
