@@ -41185,3 +41185,33 @@ SHA1: 7e98b22007c3569d948779b5bf58d9bb9bfddc4a
 SHA256: 394a8a780bd9c5af7a15d60f116e94b7f3ff9845bd105032da6d29e7a03a1c9f
 SHA512: 0b9b540a788721394b2e12e3727054cfa547200a90c67e4532c32c882aca358cd42cdbfcca8d47939c13e5602d0f9b9af0385c3a442f253bf1537eec9d747ce1
 
+Package: poke-static
+Architecture: x86_64
+Installed-Size: 1968
+Maintainer: @termux
+Version: 4.3-1
+Homepage: http://www.jemarch.net/poke.html
+Depends: poke (= 4.3-1)
+Description: Static libraries for poke
+Filename: ../../../../releases/download/x86_64-p/poke-static_4.3-1_x86_64.deb
+Size: 315912
+MD5Sum: 857b87a3dafdf4fdc985d7e9f2e18b60
+SHA1: e3af031ab0d45184cd11146b2ed767b29f061b95
+SHA256: cd6cf3394e9dcd4c447a65c7d1cd22d80416dd7d70f6620dfd5cbd931580bf4f
+SHA512: 800da888222736c62aad9787761788111f6fc8a7680d02ca4b2dc946f427a2ab6a6138c43dad25c763b8338cd65e38f3aff04c3abbd6cc1c6c83b4e15b2150ce
+
+Package: poke
+Architecture: x86_64
+Installed-Size: 3692
+Maintainer: @termux
+Version: 4.3-1
+Homepage: http://www.jemarch.net/poke.html
+Depends: gettext, libgc, ncurses, readline
+Description: Interactive, extensible editor for binary data.
+Filename: ../../../../releases/download/x86_64-p/poke_4.3-1_x86_64.deb
+Size: 649732
+MD5Sum: 25f69f95915e2efbf86110cdc5b91b0e
+SHA1: 9de1460a55aaea2538527bd0a968e29cde86a8ff
+SHA256: d59f5606120bb930f8eac0292988911a7fe14812c667a1de1f9cb6128f574391
+SHA512: 2d2ca84a3f56a1c8055021a6599681d3e2aeb7b229253e157ce0328414bbff4b02f16e3d3c670e22df63fdb5b3938a08ec5bfb6e33ce73a39fe955c64750575f
+
