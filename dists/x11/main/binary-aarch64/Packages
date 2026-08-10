@@ -15172,3 +15172,18 @@ SHA1: 78d71a1544974f4d8183210e0aa0bff6a87db644
 SHA256: 639d22af6feb023c112edf57eb5c0e7f3a6cfbd1d43b46f2ba827c015a359ad5
 SHA512: 27031c18c96798d9483de09f85d1e9a0bcc26a71be1d6a5f72305c616f37ff235e0c5e3d8f957aadd1da61c4b376baf93ea77b57248c060edd3c70a9b80891a2
 
+Package: zenity
+Architecture: aarch64
+Installed-Size: 9184
+Maintainer: @termux
+Version: 4.2.2-1
+Homepage: https://gitlab.gnome.org/GNOME/zenity
+Depends: gdk-pixbuf, glib, gtk3, libadwaita, libx11, pango, webkitgtk-6.0
+Description: a rewrite of gdialog, the GNOME port of dialog
+Filename: ../../../../releases/download/aarch64-z/zenity_4.2.2-1_aarch64.deb
+Size: 2472708
+MD5Sum: 0782fcc78fe950320b95477ceec48d9b
+SHA1: a1301fc927720173768e1fea2ea20472a7aaa4c3
+SHA256: cd6ed4fef71ad8431f90ab324bc1bcb7c56fc24b8c1ed21c4d25710c428e80b7
+SHA512: bbdf6b9d7701ec469acdf240e2da89dec6d64f58644bea31f0acc2967a35f331881bf8cccf2564b461335f5a06630443a5eeb61488c4e813b71e557afb149bbe
+
