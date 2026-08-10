@@ -39423,3 +39423,17 @@ SHA1: d5a4503eb2d51d22b74b17576aed756662239e5b
 SHA256: c6630b1cd813d5b9d04ea62fb1ed932ebeda1752230708e2b241724d91d8fe33
 SHA512: 25db6bf297217493b3f2b8eaa569c3508db83ab296af28375cc9352904081141cb2b2a8e94f61fc1c6909648e94d8a0ddacaa89b67a9523d4bc9e4a0a2036de5
 
+Package: xh
+Architecture: arm
+Installed-Size: 6428
+Maintainer: @termux
+Version: 0.26.1-1
+Homepage: https://github.com/ducaale/xh
+Description: A friendly and fast tool for sending HTTP requests
+Filename: ../../../../releases/download/arm-x/xh_0.26.1-1_arm.deb
+Size: 2705456
+MD5Sum: 743e7c91311c1e37d1aa021c04d8e6b2
+SHA1: a7500bf288e9e7ebcfd825eeaa21ccb14e862a2a
+SHA256: a8fbc387fafe95c22ebc18539cc4ca88ab3a13d6e250296b7375e3682447925c
+SHA512: 37270552e8c89298c823cb6685a7942d9c8d7f972beedf812ba9ec7264f29d7c357cc052836159c9e1d26cb337de37bf1a48b3107e289802f5a5b634b1965ad8
+

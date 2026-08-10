@@ -40185,3 +40185,17 @@ SHA1: 1c79e28d7924ba51cab48f817fb2bd108c2ac932
 SHA256: 027ed773ca143a44c48f1f2af41b68a19d757acc105482ee0aed55e7fd2fb9aa
 SHA512: b7143e2aa75acd94ae1ffeb195cc813ed9ef683f77ec453af2b2011dd79c9221a5593f683e399772883e87eb3c4d2c6a814ce93408f2ed83db3ab3321dd028ae
 
+Package: xh
+Architecture: i686
+Installed-Size: 10652
+Maintainer: @termux
+Version: 0.26.1-1
+Homepage: https://github.com/ducaale/xh
+Description: A friendly and fast tool for sending HTTP requests
+Filename: ../../../../releases/download/i686-x/xh_0.26.1-1_i686.deb
+Size: 3356188
+MD5Sum: 4a22faa19a78dfbae5e14c3fc3d652c2
+SHA1: cf31f88f441fc09461c2cb96509a564947ac7a44
+SHA256: aa625d29694af3269bfb43455d0c935e62ca453dc2795fe895c31debd580e42d
+SHA512: fd629507a1b7883f272881480b3d2f1fad2478ac65087fb38fe8abb084c53a8446fc5a1814c8731a35845dff8c8b69de791401e5576aec98a756e9b9ed33f14d
+
