@@ -41153,3 +41153,19 @@ SHA1: f285e5a8ccc25941a301210105a9af87c9cba13d
 SHA256: 694ab19dd9c63d77857239caefc4ae38a29993091919365bf4d3a89e2da80577
 SHA512: f4e06119f993a389546febe8efec464b9490c325d8b8583fb442837ac650459699450a6cce722cff377231355a67cda0e185b0d6da6a22c9e84136f0a9b57449
 
+Package: zeronet
+Architecture: all
+Installed-Size: 6252
+Maintainer: @termux
+Version: 0.7.1-9
+Homepage: https://zeronet.io/
+Depends: bash, clang, make, openssl-tool, pkg-config, python
+Recommends: tor
+Description: Decentralized websites using Bitcoin crypto and BitTorrent network
+Filename: ../../../../releases/download/aarch64-z/zeronet_0.7.1-9_all.deb
+Size: 1106236
+MD5Sum: 77285f354136325cfdae87d094e13faf
+SHA1: 490132666a8ec411dc4ac7c65e945f913dbe8810
+SHA256: a15263ac6ea3ef5cadb5fe01780e33bd3949240c8990908c2e8aecc8f0218dc9
+SHA512: a3c4f37f425fa9369a4e8fed58228a1f6c709c1bb6a04e6ce131f64d563a5e39bda46adcf7d68495c77e3902ab748e08f53a3f4846c10c0e7d357feffb9e1abd
+
