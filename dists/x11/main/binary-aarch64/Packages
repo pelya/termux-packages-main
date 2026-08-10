@@ -15096,3 +15096,49 @@ SHA1: bb8c9491ad17b6c4f7a67e3d53f439a26b2cc225
 SHA256: a798cff4cce1eede1451c94975d699b9b3412a6f26c9773d061c0de8cbc0042f
 SHA512: 49498e9859428d8970b204d9059270b62593b1f4e5c358e1135ee568ecab39a67a44aa348f3d6dd020075f26503537c140a122b56996725d00331bb5bea348c6
 
+Package: webkit2gtk-4.1
+Architecture: aarch64
+Installed-Size: 125268
+Maintainer: @termux
+Version: 2.52.5
+Homepage: https://webkitgtk.org
+Depends: atk, enchant, fontconfig, freetype, glib, gst-plugins-bad, gst-plugins-base, gst-plugins-good, gstreamer, gtk3, harfbuzz, harfbuzz-icu, libavif, libc++, libcairo, libdrm, libgcrypt, libhyphen, libicu, libjpeg-turbo, libpng, libsoup3, libtasn1, libwebp, libxml2, libx11, libxcomposite, libxdamage, libxslt, libxt, littlecms, openjpeg, pango, woff2, zlib
+Description: A full-featured port of the WebKit rendering engine
+Filename: ../../../../releases/download/aarch64-w/webkit2gtk-4.1_2.52.5_aarch64.deb
+Size: 28330268
+MD5Sum: 86940bf8af2674e06bb7981bec5f9979
+SHA1: 68bb6de821a34ef135a7aae45f1ba51b8ba2ab15
+SHA256: fbf461cf6595f55c76a90b0b3083f012ab9723b0480d419dd2dc0e50d065b897
+SHA512: 39698bd8b01d0bee33d2e74135f4fb18efee0921e05afa41eeee068f1ebb36a399e7069cbb4504dccb43899e4ee07f15b7c7bf0488155e8ee1b203fb24471a0e
+
+Package: webkit2gtk-driver
+Architecture: aarch64
+Installed-Size: 1472
+Maintainer: @termux
+Version: 2.52.5
+Homepage: https://webkitgtk.org
+Depends: webkit2gtk-4.1 (= 2.52.5)
+Conflicts: webkit2gtk (<< 2.38.0)
+Description: WebKitGTK+ WebDriver
+Filename: ../../../../releases/download/aarch64-w/webkit2gtk-driver_2.52.5_aarch64.deb
+Size: 384744
+MD5Sum: b7ee65a1eb3afb7e9682754640661895
+SHA1: 7bff1885003a738a01231b7a6db0466778473558
+SHA256: 1ff67b01d4915d570050afb6e3aa4e9b551fcb62113546db8304517633c70197
+SHA512: 8c45e0c387ee123d3b7b016649a2f31660893be83b887ad888d506bfac5f9b9284e13e808edbbcf1584110cf0d69d9589ac4287b64bffc37b7b7d2665e4a44fd
+
+Package: webkitgtk-6.0
+Architecture: aarch64
+Installed-Size: 120476
+Maintainer: @termux
+Version: 2.52.5
+Homepage: https://webkitgtk.org
+Depends: enchant, fontconfig, freetype, glib, gst-plugins-bad, gst-plugins-base, gst-plugins-good, gstreamer, gtk4, harfbuzz, harfbuzz-icu, libavif, libc++, libcairo, libdrm, libgcrypt, libhyphen, libicu, libjpeg-turbo, libpng, libsoup3, libtasn1, libwebp, libxml2, libx11, libxcomposite, libxdamage, libxslt, libxt, littlecms, openjpeg, pango, woff2, zlib
+Description: A full-featured port of the WebKit rendering engine
+Filename: ../../../../releases/download/aarch64-w/webkitgtk-6.0_2.52.5_aarch64.deb
+Size: 27868196
+MD5Sum: 60bf0375df64e535b7b28a4d7f771a35
+SHA1: 0a7d274ae5356a80e44c30d1fa6bac51f61e1fdd
+SHA256: 70f6e29596ea98eb8078c3fbfd747fc73e6f11e1c63c87ef4143ba194644ed4f
+SHA512: 366abfc3f4338e90cdfd2c2a41cb09f46221e83747a17ef5752bc3ef95ee63832be07affd0cfcb262ba18667be0ac86b6e3aee65d857d960e263635ebbb4c68d
+

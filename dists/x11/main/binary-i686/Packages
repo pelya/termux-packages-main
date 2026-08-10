@@ -14567,3 +14567,49 @@ SHA1: 44e5d17867602584ec2eafd000fa465620576e88
 SHA256: 0bb17b319e21ab3350930cd79862edbd736f59b55d86d7c7ef2de255eaa1fc91
 SHA512: dad4a337158ef18b36fda2c2c0e2e48f3eac726c1f470188cc7c65c505547b8ad5ea7b8792c3e7c3a8e64c5c536531d8f8f10e66e973b8fe98acb0b8d4844198
 
+Package: webkit2gtk-4.1
+Architecture: i686
+Installed-Size: 111980
+Maintainer: @termux
+Version: 2.52.5
+Homepage: https://webkitgtk.org
+Depends: atk, enchant, fontconfig, freetype, glib, gst-plugins-bad, gst-plugins-base, gst-plugins-good, gstreamer, gtk3, harfbuzz, harfbuzz-icu, libavif, libc++, libcairo, libdrm, libgcrypt, libhyphen, libicu, libjpeg-turbo, libpng, libsoup3, libtasn1, libwebp, libxml2, libx11, libxcomposite, libxdamage, libxslt, libxt, littlecms, openjpeg, pango, woff2, zlib
+Description: A full-featured port of the WebKit rendering engine
+Filename: ../../../../releases/download/i686-w/webkit2gtk-4.1_2.52.5_i686.deb
+Size: 27724556
+MD5Sum: 149692e3280932ccf9999aa2a8d706c5
+SHA1: a02990450b404a3334f5a294e92d01e45eee220b
+SHA256: a72439d1bc14b951655e1bb8edc8dd1712a63f28f15dbb0cd1e847748aa55b3c
+SHA512: c5489093510d23b9088b73edb1ee7c2c3782137db36b028af44135fcc02c4af5cb9d8dae23424c874036a72198e895d2cb28c54bfa17b6a0e650cce0243520c7
+
+Package: webkit2gtk-driver
+Architecture: i686
+Installed-Size: 984
+Maintainer: @termux
+Version: 2.52.5
+Homepage: https://webkitgtk.org
+Depends: webkit2gtk-4.1 (= 2.52.5)
+Conflicts: webkit2gtk (<< 2.38.0)
+Description: WebKitGTK+ WebDriver
+Filename: ../../../../releases/download/i686-w/webkit2gtk-driver_2.52.5_i686.deb
+Size: 278132
+MD5Sum: 764b9eca1c0f507c0d92012931ee40f2
+SHA1: 2451b7f9f5746caba61ee51d43cec749a8182455
+SHA256: df9af1b90ac3fef90cb5ad24aded1f445b1b0ef0528080b0c443db72a66a5833
+SHA512: c8cc84ec8b20b401469e99f9c9daf2d4ad8f036f6a9bc84208f121791407ddc65ac6d2942d7bcd6ebdf186b58196ecad499f1ca60d9e1575ac915179d9cc7791
+
+Package: webkitgtk-6.0
+Architecture: i686
+Installed-Size: 107268
+Maintainer: @termux
+Version: 2.52.5
+Homepage: https://webkitgtk.org
+Depends: enchant, fontconfig, freetype, glib, gst-plugins-bad, gst-plugins-base, gst-plugins-good, gstreamer, gtk4, harfbuzz, harfbuzz-icu, libavif, libc++, libcairo, libdrm, libgcrypt, libhyphen, libicu, libjpeg-turbo, libpng, libsoup3, libtasn1, libwebp, libxml2, libx11, libxcomposite, libxdamage, libxslt, libxt, littlecms, openjpeg, pango, woff2, zlib
+Description: A full-featured port of the WebKit rendering engine
+Filename: ../../../../releases/download/i686-w/webkitgtk-6.0_2.52.5_i686.deb
+Size: 27268620
+MD5Sum: d7cccf5c6d2a65e3f4fbabc1c2f08403
+SHA1: 83332edfc7d50df1b9bf9480e70f6a95a5c37ad9
+SHA256: 6751209a81daae030010e2808cb466940c2a72a894461b72d314de05c67350b4
+SHA512: 8300b6845053f889e89cc5f99ee22b252a0dccfbc504d71f53c959520a4cf4402a3a86905ae1b28dbaac26c8d0e025316b3aa3f1d1fde3aa82e8e659eb5e4b71
+
