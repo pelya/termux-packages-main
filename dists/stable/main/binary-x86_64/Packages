@@ -41607,3 +41607,18 @@ SHA1: 4af0a0c3c8a917ad74232e0e21fe674dfb99c29c
 SHA256: a2a451f809236f19aa1a4a0d08264b995920b15665cd8862cdff420e2d458475
 SHA512: ecca991caaa71fbc211a267959ce5bd912653233a945bfa6868b49e6ad708cc662e602909691e0d0dbe2107c0de7acc1cdef20c732103a2dc6cccae54138a4c5
 
+Package: gkermit
+Architecture: x86_64
+Installed-Size: 148
+Maintainer: @termux
+Version: 2.01-1
+Homepage: http://www.columbia.edu/kermit/gkermit.html
+Depends: libandroid-support
+Description: Simple, Portable, Free File Transfer Software for UNIX
+Filename: ../../../../releases/download/x86_64-g/gkermit_2.01-1_x86_64.deb
+Size: 39376
+MD5Sum: 1a7c20185670eb66e227276d901389d7
+SHA1: 9bcd24155b4d3bb9663175d254143de764696ebd
+SHA256: 85b14c942be0243f7e8600357b0411c3981f3e79ebe243848f9139349948747b
+SHA512: d76d3ef6d60662f2d50958d70798da0408869f80c1261ccdfd198a8b1ef01ccd74e24fc4886b8e3d33229976d3c9f7ac4f9d04262cdab71a1674c4d43f666093
+
