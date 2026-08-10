@@ -1309,3 +1309,18 @@ SHA1: 05c08ad0268c68f18a445dcfbfe268665c19c895
 SHA256: 08d75ce76c8c338956cd1780bc22ed69c671fb855f9a42caf72de716f4f2c2d1
 SHA512: 47dca68f4ec24b589b5cc74e701e0e682073b1bca5f7505af9cd776d49af964279a5012577bf652ecacb575da1eed44e2db02012228d1d9cd717696fb24c422b
 
+Package: iw
+Architecture: x86_64
+Installed-Size: 324
+Maintainer: @termux
+Version: 6.17
+Homepage: https://wireless.wiki.kernel.org/en/users/documentation/iw
+Depends: libnl
+Description: CLI configuration utility for wireless devices
+Filename: ../../../../releases/download/x86_64-i/iw_6.17_x86_64.deb
+Size: 95420
+MD5Sum: cb73b1247dcb1c940e0ae55ad7717de7
+SHA1: 80c96289ce5c3aa69395ddcdf2322cf7dab99e6f
+SHA256: 0eeaa670e5d5634a09b85885bb552fb6c50db010dcb52b643c948a81764f4c5c
+SHA512: fafbbab377d337120a3ac128b5711f501d8f4ffa17ab59e95d0b179f583a2caa1940abbe5d2bf87de6030bdfada73668b3bd45436e7fd5f128bd38084979899e
+

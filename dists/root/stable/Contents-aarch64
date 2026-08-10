@@ -1900,3 +1900,6 @@ data/data/greater.underscore/files/usr/share/man/man1/zblocklist.1.gz           
 data/data/greater.underscore/files/usr/share/man/man1/ziterate.1.gz              zmap
 data/data/greater.underscore/files/usr/share/man/man1/zmap.1.gz                  zmap
 data/data/greater.underscore/files/usr/share/man/man1/ztee.1.gz                  zmap
+data/data/greater.underscore/files/usr/bin/iw                                    iw
+data/data/greater.underscore/files/usr/share/doc/iw/copyright                    iw
+data/data/greater.underscore/files/usr/share/man/man8/iw.8.gz                    iw
