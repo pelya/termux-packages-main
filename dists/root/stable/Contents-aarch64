@@ -1886,3 +1886,17 @@ data/data/greater.underscore/files/usr/share/man/man8/cgdisk.8.gz               
 data/data/greater.underscore/files/usr/share/man/man8/fixparts.8.gz              gptfdisk
 data/data/greater.underscore/files/usr/share/man/man8/gdisk.8.gz                 gptfdisk
 data/data/greater.underscore/files/usr/share/man/man8/sgdisk.8.gz                gptfdisk
+data/data/greater.underscore/files/usr/lib/libJudy.a                             zmap-static
+data/data/greater.underscore/files/usr/lib/libJudy.la                            zmap-static
+data/data/greater.underscore/files/usr/bin/zblocklist                            zmap
+data/data/greater.underscore/files/usr/bin/ziterate                              zmap
+data/data/greater.underscore/files/usr/bin/zmap                                  zmap
+data/data/greater.underscore/files/usr/bin/ztee                                  zmap
+data/data/greater.underscore/files/usr/etc/zmap/blocklist.conf                   zmap
+data/data/greater.underscore/files/usr/etc/zmap/zmap.conf                        zmap
+data/data/greater.underscore/files/usr/include/Judy.h                            zmap
+data/data/greater.underscore/files/usr/share/doc/zmap/copyright                  zmap
+data/data/greater.underscore/files/usr/share/man/man1/zblocklist.1.gz            zmap
+data/data/greater.underscore/files/usr/share/man/man1/ziterate.1.gz              zmap
+data/data/greater.underscore/files/usr/share/man/man1/zmap.1.gz                  zmap
+data/data/greater.underscore/files/usr/share/man/man1/ztee.1.gz                  zmap

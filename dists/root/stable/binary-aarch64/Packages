@@ -1279,3 +1279,33 @@ SHA1: 41881778f9bac1a56d6db77ae065a677fb5cd1da
 SHA256: 7e31e713cf0a743ead3ae06e39d17ea15811451ad24146d47e5a43a2c8e04d27
 SHA512: 550e7e4137b77c43c8ca7ac29d6ffdf6cb814a230ab5fcf016eb7686f9fed4793dea9c03bc78e2fad57334d070028b65ee43e62ce0323d0adee12af1a3950379
 
+Package: zmap-static
+Architecture: aarch64
+Installed-Size: 392
+Maintainer: @termux
+Version: 1:4.3.2-2
+Homepage: https://zmap.io/
+Depends: zmap (= 1:4.3.2-2)
+Description: Static libraries for zmap
+Filename: ../../../../releases/download/aarch64-z/zmap-static_1.4.3.2-2_aarch64.deb
+Size: 81752
+MD5Sum: 4ef3aad31fe9750a6e39b75da206f743
+SHA1: 6b70606796754209438f3df2d6ab8bbab3f960d3
+SHA256: 69c6d6fb8155aad5183d9aae0ac7a5eddb3658a811e298d6a7a0c4628f83584b
+SHA512: 3e1eb606d6155e86a1e77651e79c3096dd8b93e774ba23496c9f9094ae016f49940790f57b7b142b027128aeab1913b397c087ea0d45767520d00472bd069648
+
+Package: zmap
+Architecture: aarch64
+Installed-Size: 592
+Maintainer: @termux
+Version: 1:4.3.2-2
+Homepage: https://zmap.io/
+Depends: json-c, libgmp, libpcap, libunistring
+Description: A fast single packet network scanner designed for Internet-wide network surveys
+Filename: ../../../../releases/download/aarch64-z/zmap_1.4.3.2-2_aarch64.deb
+Size: 145604
+MD5Sum: 7462856b10c298ff98b2afc9a5235215
+SHA1: 97dc2667c9d77fc915c44ae065a43570c54eb957
+SHA256: 13eb361938d8a1abfada8dc66a691fd0b84e007e24975b413aae8b7e4ba7c267
+SHA512: cef36f6db6d31a3ffb78c2687e508f138acf6676060a54df164557d736fb01ab9e6e2b40e4f04ed51d41dde80b2f1e7e17af91f071cf3f3306aa9de858660a2e
+

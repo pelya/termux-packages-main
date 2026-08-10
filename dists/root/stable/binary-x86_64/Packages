@@ -1279,3 +1279,33 @@ SHA1: 7e9b999673e78a845169d926f2ad4594cae7b7ef
 SHA256: 33059653f321c5e8951885e8ce6faddf931fba0e38fb2d52eb230c5b57ca9960
 SHA512: 1000a429f37cfd6c531f7970528ca757d4a3707aefedbba42d5c92bc1227151508999c505d99ec994a801568629dbccdb3825e4a0f125f0d462d47a92a88fc27
 
+Package: zmap-static
+Architecture: x86_64
+Installed-Size: 420
+Maintainer: @termux
+Version: 1:4.3.2-2
+Homepage: https://zmap.io/
+Depends: zmap (= 1:4.3.2-2)
+Description: Static libraries for zmap
+Filename: ../../../../releases/download/x86_64-z/zmap-static_1.4.3.2-2_x86_64.deb
+Size: 88512
+MD5Sum: 6dfcdd938f76759484a871214b1066cb
+SHA1: 132c44b09dfa8f920dbccc8a1ca1b14ca69e116f
+SHA256: b6618eba82ef3839e6a01fb6f22a78642e6728b3dbbb52933fe25878c4b560a6
+SHA512: 43fff747b387f25d7eb7bdee02d0c50559fc1edcc7a27a3f880a08826a29042686b50f49392113a7e136507e54ca31808c826105a6374be91aeb0565e152eda6
+
+Package: zmap
+Architecture: x86_64
+Installed-Size: 604
+Maintainer: @termux
+Version: 1:4.3.2-2
+Homepage: https://zmap.io/
+Depends: json-c, libgmp, libpcap, libunistring
+Description: A fast single packet network scanner designed for Internet-wide network surveys
+Filename: ../../../../releases/download/x86_64-z/zmap_1.4.3.2-2_x86_64.deb
+Size: 157632
+MD5Sum: 054c496cbe2a3c6cbfdcaf2fab1868e8
+SHA1: 05c08ad0268c68f18a445dcfbfe268665c19c895
+SHA256: 08d75ce76c8c338956cd1780bc22ed69c671fb855f9a42caf72de716f4f2c2d1
+SHA512: 47dca68f4ec24b589b5cc74e701e0e682073b1bca5f7505af9cd776d49af964279a5012577bf652ecacb575da1eed44e2db02012228d1d9cd717696fb24c422b
+
