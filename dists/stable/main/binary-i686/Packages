@@ -40545,3 +40545,33 @@ SHA1: 8e712a7becf494e90eb29e01aede71c19a7f2be3
 SHA256: ed79f20e6fa2fae5c58ac7474dc74cc9147ecf7d8b44fb7640428aec8d4073a1
 SHA512: b8d3961a595f32f497e49db119205fcd31057b18bb3f709679e907ce02fcf381e3bb5207adc8a2b8270cc3ee5126d72dfe48123504ac628e04f017aeb962752a
 
+Package: minizinc-static
+Architecture: i686
+Installed-Size: 11492
+Maintainer: @termux
+Version: 2.9.7
+Homepage: https://github.com/MiniZinc/libminizinc
+Depends: minizinc (= 2.9.7)
+Description: Static libraries for minizinc
+Filename: ../../../../releases/download/i686-m/minizinc-static_2.9.7_i686.deb
+Size: 1915848
+MD5Sum: 0865ae457612412e1f040dee2e75f20c
+SHA1: 1aa5b83991ea35c6e2b499acf3a1781d6069b45a
+SHA256: 85bec7a0475433791555344a956ac97b7d4db3fb21770fc3d19650c011f75115
+SHA512: 576df9c0238fff7812553e61eb9c290f530c3b225302d7f3d1597dea7f6306bccbcdcd82d32c740e747d547b2ee2448a17dba332b110b50e914a4d226c7627d2
+
+Package: minizinc
+Architecture: i686
+Installed-Size: 13600
+Maintainer: @termux
+Version: 2.9.7
+Homepage: https://github.com/MiniZinc/libminizinc
+Depends: libc++, zlib, gecode
+Description: A medium-level constraint modelling language
+Filename: ../../../../releases/download/i686-m/minizinc_2.9.7_i686.deb
+Size: 1984748
+MD5Sum: fa83628ec96b38448e4400e9dc8b0d10
+SHA1: 3614b28078bee4ec5d08def39992f1c3703f6756
+SHA256: 4a172288056c0832190776e4f48b50cac2f5c979ce4d5b02812bc8720c6d9460
+SHA512: 0961e33218ec8f2bb47c39e5c6119d0c73a25c8b13c83d893a5337a40af0b308a37f703135293d930c8024455bcf5fb8102014a29374c191407afb8fe8b562ab
+
