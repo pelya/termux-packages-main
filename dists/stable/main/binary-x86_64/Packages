@@ -41519,3 +41519,47 @@ SHA1: fe1fcf0d4f058c071da89d434ab7652a4ecffb8f
 SHA256: 55661784ca4ba64a352ec7561de53d536b70e0a19608b73f473717581f6aec96
 SHA512: 3a48511a7fbbaba28a5dc978e5805c7c64c5b9178d2090723d3d08c9c52ba580d895a208b14c870397ba5b0a26924f2e3d7ce68dabf6d42ee71d7c9276f17399
 
+Package: ndk-multilib-native-static
+Architecture: x86_64
+Installed-Size: 64
+Maintainer: @termux
+Version: 29-1
+Homepage: https://developer.android.com/tools/sdk/ndk/index.html
+Depends: ndk-multilib-native-stubs, ndk-multilib (= 29-1)
+Description: Install native static libs from NDK
+Filename: ../../../../releases/download/x86_64-n/ndk-multilib-native-static_29-1_x86_64.deb
+Size: 972
+MD5Sum: 656ed4441e82712338d150e5f8b80c5e
+SHA1: 413e8250f761afe8adedd63df82ecdcde4a96b99
+SHA256: 099cbdba663710a09eb4b1b43d2aafdfeea6b60947a04889c7c63ce3ef027184
+SHA512: 7a70a745a869bab1d2c76baca6a519cdb9070028d73ee5a4e6d581785dcca4cac52fe55eb6f72af71b6e1d15f0804f12ae4677601f13e28e2716cdc689067153
+
+Package: ndk-multilib-native-stubs
+Architecture: x86_64
+Installed-Size: 72
+Maintainer: @termux
+Version: 29-1
+Homepage: https://developer.android.com/tools/sdk/ndk/index.html
+Depends: ndk-multilib (= 29-1)
+Description: Install native stubs for shared libs from NDK
+Filename: ../../../../releases/download/x86_64-n/ndk-multilib-native-stubs_29-1_x86_64.deb
+Size: 988
+MD5Sum: b7864a481704d8fb4a6a9b72371c3065
+SHA1: c7034654c0601472c35a54256079cc12e66134da
+SHA256: 23619971f5a3d6369f818aa9f3eb98310770e8c674b3217ed640707a2635c9c7
+SHA512: 4b6ec60ee82796509047ec12ef99a5b8b34f1f0f85a0cce79193b336d66c17da10190afaf0fc494cedb788c82aa45b3faf0bffe2d4e09e2be8dd0e8bb03d6325
+
+Package: ndk-multilib
+Architecture: all
+Installed-Size: 361132
+Maintainer: @termux
+Version: 29-1
+Homepage: https://developer.android.com/tools/sdk/ndk/index.html
+Description: Multilib binaries for cross-compilation
+Filename: ../../../../releases/download/x86_64-n/ndk-multilib_29-1_all.deb
+Size: 63094392
+MD5Sum: b679f01a6de2e387b15697dbdadc91a9
+SHA1: 8e712a7becf494e90eb29e01aede71c19a7f2be3
+SHA256: ed79f20e6fa2fae5c58ac7474dc74cc9147ecf7d8b44fb7640428aec8d4073a1
+SHA512: b8d3961a595f32f497e49db119205fcd31057b18bb3f709679e907ce02fcf381e3bb5207adc8a2b8270cc3ee5126d72dfe48123504ac628e04f017aeb962752a
+

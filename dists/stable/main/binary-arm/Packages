@@ -39739,3 +39739,47 @@ SHA1: bc2150a03f6c1b462e64f381ed145bde1cec1eb5
 SHA256: 0f0f927f1d260c9ab69689569df54d3efebf3e01a040971c316bd1e313a9eabd
 SHA512: f13d50e4249167738cedac8d3901a4c9bdbe9149b34279c54887f90781872a51c456a20378cbaddcdc3e1abb7f042ad485af51eba1daeeddb16a032643774ebb
 
+Package: ndk-multilib-native-static
+Architecture: arm
+Installed-Size: 44
+Maintainer: @termux
+Version: 29-1
+Homepage: https://developer.android.com/tools/sdk/ndk/index.html
+Depends: ndk-multilib-native-stubs, ndk-multilib (= 29-1)
+Description: Install native static libs from NDK
+Filename: ../../../../releases/download/arm-n/ndk-multilib-native-static_29-1_arm.deb
+Size: 912
+MD5Sum: 3b3252d4e0d23cca01b13d6c61d7db79
+SHA1: 2e94ceab033f68c53940b3abb432d3a3e6b9f5df
+SHA256: 4d04b16a5531da888e0956fd9323e349385e17797690f2e270402b8639b15746
+SHA512: de4fce50ba299a6df4fae70d7d9714ad61a4906efe9b147dd7f92690157a2f532404257faac6fa1735bded48f3c095960e4e246aa6e7290467480e2f4933c9a6
+
+Package: ndk-multilib-native-stubs
+Architecture: arm
+Installed-Size: 48
+Maintainer: @termux
+Version: 29-1
+Homepage: https://developer.android.com/tools/sdk/ndk/index.html
+Depends: ndk-multilib (= 29-1)
+Description: Install native stubs for shared libs from NDK
+Filename: ../../../../releases/download/arm-n/ndk-multilib-native-stubs_29-1_arm.deb
+Size: 924
+MD5Sum: 8575836a29420f54993836079de9e17f
+SHA1: 656e3623c203f30f649818c8356601db5fb400fc
+SHA256: 2a6d586f1a9530f5ff11419ac6866d2b6b1058bd0fedc5e73138416387fb9956
+SHA512: ef5bf425efb35cd3c23f312b25caa0a5211b28ea9dafcecd179adeae6ae0016c2b4e354c899d6a1062667358210cbff98e379977b6a0891593358f099117a66a
+
+Package: ndk-multilib
+Architecture: all
+Installed-Size: 361132
+Maintainer: @termux
+Version: 29-1
+Homepage: https://developer.android.com/tools/sdk/ndk/index.html
+Description: Multilib binaries for cross-compilation
+Filename: ../../../../releases/download/arm-n/ndk-multilib_29-1_all.deb
+Size: 63094392
+MD5Sum: b679f01a6de2e387b15697dbdadc91a9
+SHA1: 8e712a7becf494e90eb29e01aede71c19a7f2be3
+SHA256: ed79f20e6fa2fae5c58ac7474dc74cc9147ecf7d8b44fb7640428aec8d4073a1
+SHA512: b8d3961a595f32f497e49db119205fcd31057b18bb3f709679e907ce02fcf381e3bb5207adc8a2b8270cc3ee5126d72dfe48123504ac628e04f017aeb962752a
+

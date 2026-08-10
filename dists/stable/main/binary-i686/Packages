@@ -40501,3 +40501,47 @@ SHA1: 327e512aafde954426211e37dc133a38a0ea5339
 SHA256: fd7f5944cd67a1970d59ff1d459c4df34a090babdb867525c61b633d35bcdb73
 SHA512: 0ec0172e7f9dbff26135cae35f802f3535eccd9af25ddc310fcd5dc39b9b8386418579b82c6ab94bad7ca5f169ee359a05fa52e427ba44fa527844f95dfb878e
 
+Package: ndk-multilib-native-static
+Architecture: i686
+Installed-Size: 44
+Maintainer: @termux
+Version: 29-1
+Homepage: https://developer.android.com/tools/sdk/ndk/index.html
+Depends: ndk-multilib-native-stubs, ndk-multilib (= 29-1)
+Description: Install native static libs from NDK
+Filename: ../../../../releases/download/i686-n/ndk-multilib-native-static_29-1_i686.deb
+Size: 912
+MD5Sum: 136f4bd22b515e1ac6e77943fa59b528
+SHA1: 3f94a2d999d9e2d12bd23161188322512d048d5f
+SHA256: 9ce7c2c8f9f89d42bbadc59c14468b9f7435867cc78704fdf5562919393b141b
+SHA512: 3885019b25c21e18de333fa1c4b63356f23cb9cbb1097a129636104ce0d50f07992ab6199ab121ac22e5ac6ea941913f60edc4f1e12738a9d25ea63f1ecc65cd
+
+Package: ndk-multilib-native-stubs
+Architecture: i686
+Installed-Size: 48
+Maintainer: @termux
+Version: 29-1
+Homepage: https://developer.android.com/tools/sdk/ndk/index.html
+Depends: ndk-multilib (= 29-1)
+Description: Install native stubs for shared libs from NDK
+Filename: ../../../../releases/download/i686-n/ndk-multilib-native-stubs_29-1_i686.deb
+Size: 924
+MD5Sum: 6eabf42d24562c04d86a56d07bf2227f
+SHA1: f35677827ae769b3734caf68014749ddb6d67f9a
+SHA256: 0b0466875dba5f6bfe8585d84d23e78b0970f5e8d80f850c42bf39d02d745850
+SHA512: cfbf31f62d89a601c43b1e88f26630da4ef873ce1fbf6aa85ff38eeec596def726ab3fd221df568e3aa8cca12b4011ab176830284ab072ac272244f83a143b18
+
+Package: ndk-multilib
+Architecture: all
+Installed-Size: 361132
+Maintainer: @termux
+Version: 29-1
+Homepage: https://developer.android.com/tools/sdk/ndk/index.html
+Description: Multilib binaries for cross-compilation
+Filename: ../../../../releases/download/i686-n/ndk-multilib_29-1_all.deb
+Size: 63094392
+MD5Sum: b679f01a6de2e387b15697dbdadc91a9
+SHA1: 8e712a7becf494e90eb29e01aede71c19a7f2be3
+SHA256: ed79f20e6fa2fae5c58ac7474dc74cc9147ecf7d8b44fb7640428aec8d4073a1
+SHA512: b8d3961a595f32f497e49db119205fcd31057b18bb3f709679e907ce02fcf381e3bb5207adc8a2b8270cc3ee5126d72dfe48123504ac628e04f017aeb962752a
+
