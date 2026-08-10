@@ -38962,22 +38962,6 @@ SHA1: 869a21454d54d14debea4a4ee3ef3ea07614b68f
 SHA256: 1111de024667b4737038c2ff2540cad23eb39c1b3de4b9411e2a6bcc27f7c220
 SHA512: 2b5b3dee97ad67bdab15dbe04b92af90e55e19efb4dd1cbe0a64ce0cffe1d861de4ae52693eabc3683838336a7a2628cd60234712937af96ef099284a37f65f1
 
-Package: bzip2
-Architecture: aarch64
-Installed-Size: 120
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Essential: yes
-Depends: libbz2 (= 1.0.8-8)
-Description: Tools for working with bzip2 compression
-Filename: ../../../../releases/download/aarch64-b/bzip2_1.0.8-8_aarch64.deb
-Size: 26308
-MD5Sum: 0305e5356775f97a7e52fab25d9503ae
-SHA1: cc751071b7bed09f0a678854421e0c17fdb4c41c
-SHA256: ee8ecfd1e961f4f80c29b260a39ee6882dabd88174f040915105d8aa96bf3967
-SHA512: 7c7e6b807309b73412fc03fe33962e593be662d571d9b1b7e38e592718827e32ad5fcccb63e8b80ef0b665ced45ba0f29df3e4b1f467e194364a81154156ea23
-
 Package: doxygen
 Architecture: aarch64
 Installed-Size: 46900
@@ -39024,23 +39008,6 @@ MD5Sum: 4e0afea959a2d72127b0d06d3a7ae356
 SHA1: 6e36c3fc7e770008ae38b453b37375ed149bf013
 SHA256: d2e94c4b0e1df837e24f3bf7b683dad41039ff5100f5328e437bc9642e84cc89
 SHA512: 2a84eec7918f249be704d32b17c9d85929b67165eba6913216b78e2ede5b4abb58831c5271df539cd284839442a7ed62dc448591eca711eb0f4fa4a1f4ddbdf3
-
-Package: libbz2
-Architecture: aarch64
-Installed-Size: 108
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Breaks: libbz2-dev
-Essential: yes
-Replaces: libbz2-dev
-Description: BZ2 format compression library
-Filename: ../../../../releases/download/aarch64-libb/libbz2_1.0.8-8_aarch64.deb
-Size: 26144
-MD5Sum: 38c335ebfb78a42b50b549b18cf03dc1
-SHA1: 5385b41af687be9e8bf72789909e5b8dd1b8904f
-SHA256: 871581dc989b1d365195797a3dcab973d1a5c256757548e50307ff7aa96af288
-SHA512: 4e8a70a7c19c3d7dfe352a53c8b1e801ba68275a0b2745daa9b546827c3921cea25694ab7c182b21a361e91d3eed9fc4d9e5d7aa7a7965519a9fb4a3a3db1f38
 
 Package: liblzma-static
 Architecture: aarch64
@@ -41343,22 +41310,6 @@ SHA1: 9836c914a816a4dbed1ad2d318ca5c98dccaf591
 SHA256: 18a95375c1dc00f0ca3f488c4ed59f57a46272d285392bf360562b86ec69edb2
 SHA512: 6ef6b0cd0981ea8fad85010f47f9a80a895af240bc042b5130d5f59f068176a6658f3cad5b4a8f0cc061b634f9ae200cd74b101f7c438368d6cf90736509bdfc
 
-Package: brotli
-Architecture: aarch64
-Installed-Size: 1052
-Maintainer: @termux
-Version: 1.2.0
-Homepage: https://github.com/google/brotli
-Breaks: brotli-dev
-Replaces: brotli-dev
-Description: lossless compression algorithm and format (command line utility)
-Filename: ../../../../releases/download/aarch64-b/brotli_1.2.0_aarch64.deb
-Size: 340736
-MD5Sum: e316441876c5feda7fdbf1a9d41c2368
-SHA1: 7dce640f2552389a9cb55a9a7dceac9423549b7e
-SHA256: b6e0d503f4fa70bc94b032145e7de1d7903bbbeaef3f883c4678509e4f6c4122
-SHA512: b344b509cf509cb4c5013f7d5a7993b9c4b381b73ded2548d522630acd9a50fdd493da55809112cfee30dd1d54e753ce3bceb61435a2bf043f4e3616fa303e92
-
 Package: c-ares
 Architecture: aarch64
 Installed-Size: 1104
@@ -41814,4 +41765,53 @@ MD5Sum: 789c01d9e67f9b1efba1a2eb0c3799fa
 SHA1: 865074596524bd5d3084b43d9e1ae9ced237459b
 SHA256: 2c01dfac2ec5e3a4f681c0dcd9d05592e7f767c5e0bc5649c767bbd095e8d6d4
 SHA512: 413532e176f86e7c7d6ad697a60c4786bb744af7ba28fd3d7da669e8964b6aff43033277c723e5da213295a253fc7422701be8c90acbf66cee7b49f9c4f4f1c1
+
+Package: brotli
+Architecture: aarch64
+Installed-Size: 1052
+Maintainer: @termux
+Version: 1.2.0
+Homepage: https://github.com/google/brotli
+Breaks: brotli-dev
+Replaces: brotli-dev
+Description: lossless compression algorithm and format (command line utility)
+Filename: ../../../../releases/download/aarch64-b/brotli_1.2.0_aarch64.deb
+Size: 340528
+MD5Sum: 329ccabeff4333abfbe0c4e5516d85ef
+SHA1: e7db8e60cbdd51c363cff2dc8febb3a62b423a03
+SHA256: 30650d252d927280bf7bb0f079a89cb6fd3666cf33dbbff41b175759ff1e95fb
+SHA512: e030556bc4f99e23860a08ebbe311cfc2efe054194fe4fcea0174057e4cfa2e10e6354b100a38f8a9b758241c0e88b6edc726684daf54460dd2a770f66472c32
+
+Package: bzip2
+Architecture: aarch64
+Installed-Size: 120
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Essential: yes
+Depends: libbz2 (= 1.0.8-8)
+Description: Tools for working with bzip2 compression
+Filename: ../../../../releases/download/aarch64-b/bzip2_1.0.8-8_aarch64.deb
+Size: 26296
+MD5Sum: 493753665b83dc8270ce8e6d11694313
+SHA1: da17afb2bb3663cc5357c06789e23be111ca6e50
+SHA256: d61a651709319a571bc47822423e75deb314df3cf87951bf0900d1f9d826e6e5
+SHA512: e6a835020dfd4a2fa36cccd57b63491bdf15f032bd01bdc81bb925089d4a0197cd41ee5d19e02a84b350bce52fd31a0aa1493f0647a3f395a4546b296e71eacf
+
+Package: libbz2
+Architecture: aarch64
+Installed-Size: 108
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Breaks: libbz2-dev
+Essential: yes
+Replaces: libbz2-dev
+Description: BZ2 format compression library
+Filename: ../../../../releases/download/aarch64-libb/libbz2_1.0.8-8_aarch64.deb
+Size: 26132
+MD5Sum: a11236730120a67f34ecad9a17800080
+SHA1: 85a0b3d7245131163fa7bb40f754e85c2c5dbaf4
+SHA256: e80ea9e8d48e2ba3e04d8380fbc3764d5edf8cea4c6dae7617444b80262d8268
+SHA512: 2e09c3600ff1e6ab180fd27b6e7f0c783d849ff0f634d80210398ef077aa99cdbfbb31331ab1dc893afffa43c4068baef0a570eade2ff0cf41110f6d34e2b59c
 

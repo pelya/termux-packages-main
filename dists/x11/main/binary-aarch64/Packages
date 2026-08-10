@@ -15245,3 +15245,18 @@ SHA1: e381ca3b1471e1c826ab9001a06721d8ffd2523b
 SHA256: eac6e24690042d42df7122f11d92e2278efb2ec740ebcb592fb4ff31556bfb57
 SHA512: 17cf5c6d663dd4a2e25033b7fc277f2d2e073f3bd976c3bf1396e7297cd02d4e9073da8c0fbc2329f15b957cb6e081c01ed09295b1d068b01d16c45561fe4769
 
+Package: audacity
+Architecture: aarch64
+Installed-Size: 33696
+Maintainer: @termux
+Version: 3.7.8-1
+Homepage: https://www.audacityteam.org/
+Depends: ffmpeg, gdk-pixbuf, glib, gtk3, libc++, libexpat, libflac, libid3tag, libogg, libopus, libsndfile, libsoundtouch, libsoxr, libuuid, libvorbis, libwavpack, libmpg123, opusfile, portaudio, portmidi, wxwidgets
+Description: An easy-to-use, multi-track audio editor and recorder
+Filename: ../../../../releases/download/aarch64-a/audacity_3.7.8-1_aarch64.deb
+Size: 9165352
+MD5Sum: 1385fb094929e8006c273e2f7f4ce700
+SHA1: a0472c530451b4abed89c534df3a382749610ed8
+SHA256: 2fabfd7ed0ef28d382b72424c1099dc510bd60bb3c91d0b2d4bf7fcd5080f960
+SHA512: 35b9a34a3a6372dccd12f76366a755f9b7993e5bd6fac0b5ce95ffd7e772e8f38517544ecfde2051893ffde526f1d987f679152f358e91e566d2102ec0e0d201
+

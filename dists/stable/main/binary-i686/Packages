@@ -1779,22 +1779,6 @@ SHA1: 21e19e418efb4e916eb45994a47cfa95a3f0ef0c
 SHA256: 52adb6b5278389809d4d973cb0b630e4048191fea577611e50956661c6b2dcd4
 SHA512: 695d1d7e37d2211dd4546afb69f854d8349ea3b04185d7fcaf3228dacdd968fa50902e3a1b0ab5d94817f9cb07018700928f5f892598d26a18ad56029d5438c4
 
-Package: brotli
-Architecture: i686
-Installed-Size: 1056
-Maintainer: @termux
-Version: 1.2.0
-Homepage: https://github.com/google/brotli
-Breaks: brotli-dev
-Replaces: brotli-dev
-Description: lossless compression algorithm and format (command line utility)
-Filename: ../../../../releases/download/i686-b/brotli_1.2.0_i686.deb
-Size: 337196
-MD5Sum: 28a2999fcf55f43c1ae28931932a954c
-SHA1: b764901e2796f76d67786d3b2adee5d5e5323603
-SHA256: 32525e71577586f83bf4411ca743a9069777c5b73ea2ccd6df15bf5fec9533ab
-SHA512: 2ae8f626119aabd04f1e12e199713b34ab684d6197f83722328f326b9509f476eab47321bec040e20e4e87208ae6939f1ae87aa19ecec2dcd64efef9232eddba
-
 Package: bsd-finger
 Architecture: i686
 Installed-Size: 88
@@ -33247,39 +33231,6 @@ SHA1: a63cb2dcfe08eed40d9535064fdfbdf3136ab54b
 SHA256: 2621ab281da86e50e4ee36917a6a016100e979fcdf0e1cb5efb98369e93e2b53
 SHA512: 711953d8f029c71dffedbb9ed2c9b04de1d63cd7f8a7594390545e068b477451a0de88a5be6e402a35dbfa6ed49eaa453283ac6704e65f9c6c0488fc33b2fc47
 
-Package: bzip2
-Architecture: i686
-Installed-Size: 120
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Essential: yes
-Depends: libbz2 (= 1.0.8-8)
-Description: Tools for working with bzip2 compression
-Filename: ../../../../releases/download/i686-b/bzip2_1.0.8-8_i686.deb
-Size: 26776
-MD5Sum: 8d98a5e2f9869e1d1aae7fcfb7be2bc0
-SHA1: 812af8c5a2e48c82a1d071a713fc51e65f98f9ce
-SHA256: 6b6182dcf2a62c125962ed30d0572bc01066da42667810548f2bb9cf76c4ee2b
-SHA512: 24b7bb3bb0f10b39e3cb44acf345f5807f4a86bb9411644449b3723afc6c2d32404a3d986ee5cfbd296043398eab9e0c426945c572740999f68c5859755a0596
-
-Package: libbz2
-Architecture: i686
-Installed-Size: 108
-Maintainer: @termux
-Version: 1.0.8-8
-Homepage: http://www.bzip.org/
-Breaks: libbz2-dev
-Essential: yes
-Replaces: libbz2-dev
-Description: BZ2 format compression library
-Filename: ../../../../releases/download/i686-libb/libbz2_1.0.8-8_i686.deb
-Size: 26288
-MD5Sum: 18a2e9b5d2a02732a2b9458d227f4abb
-SHA1: d3051ac486f2a0da7cba5beacfcb37d2e476b315
-SHA256: 0d902115a32b3cfe5894026f9a922e3e65d5933ffcd89d2c4447cae00797bb77
-SHA512: e4f9457df7554e1c4745eadd99b086c40b4557d29989b5e151949232f5c85b3d8a8190825c05eff32c7894651748ae2788984f94ad7670129810f171fdbd25d1
-
 Package: pcre2-static
 Architecture: i686
 Installed-Size: 1784
@@ -40765,4 +40716,53 @@ MD5Sum: b6125402b7011aae9824c9053aede093
 SHA1: 3e034211627631faafc16215d9e5472396da8a3e
 SHA256: 8dadc25400151290125fdfb338ceabcfd74b23ad790a1469f90fe5230140d218
 SHA512: de33e06787e2a3b675c60fec50960773117cee2263d498742351a19e6ca383df1a38cdc50232d41980f5beadad50489fba7fbc49564e6aef12e462be697d23e1
+
+Package: brotli
+Architecture: i686
+Installed-Size: 1056
+Maintainer: @termux
+Version: 1.2.0
+Homepage: https://github.com/google/brotli
+Breaks: brotli-dev
+Replaces: brotli-dev
+Description: lossless compression algorithm and format (command line utility)
+Filename: ../../../../releases/download/i686-b/brotli_1.2.0_i686.deb
+Size: 338364
+MD5Sum: e85f434e7b8227801e5aa2cfee60de3f
+SHA1: 90bb9b9e91bd9b70e50c9a9a43cca69879711d96
+SHA256: a6da9cc092564d4fafd15d83c0216f9d27f218da0741df793005d59784c5dcbc
+SHA512: 3b060fbbe9523c3f13afaf90189fc7179972e1a665e426f83e9f06f73715069d304a19d26d8b355ce91e0b1bab36b7c5f9dcacb771e23d07aedc633630b4a79b
+
+Package: bzip2
+Architecture: i686
+Installed-Size: 120
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Essential: yes
+Depends: libbz2 (= 1.0.8-8)
+Description: Tools for working with bzip2 compression
+Filename: ../../../../releases/download/i686-b/bzip2_1.0.8-8_i686.deb
+Size: 26784
+MD5Sum: 1d003533e477b4ff942a3720d7aa41f2
+SHA1: ff5cf07be0c880167f08218d3183363bb10fa666
+SHA256: bd822dd5d234f98cd3ca406cafc90a0cf5c4d6464d42437f805e7e195fc0ab47
+SHA512: 1eca0fe2ec2a42f3f0b005903b751e6dc3c952cbc19c7082853a5e1ac393f9df4ac97945547be87ef97bc962b4dd1fbf3f442c2bf70726f2c3fb6bb69cb2ca9d
+
+Package: libbz2
+Architecture: i686
+Installed-Size: 108
+Maintainer: @termux
+Version: 1.0.8-8
+Homepage: http://www.bzip.org/
+Breaks: libbz2-dev
+Essential: yes
+Replaces: libbz2-dev
+Description: BZ2 format compression library
+Filename: ../../../../releases/download/i686-libb/libbz2_1.0.8-8_i686.deb
+Size: 26288
+MD5Sum: ca77aa0ae1318dcffec554a34cbbc8b0
+SHA1: 227bf7a9561b70c8009975f8aa3fce0134e502d3
+SHA256: e8d14b6e7a20b8d2be5720b790a9816f44c412a824c0ba7e9bf81aea0849d3ed
+SHA512: b6a22aa3f5094a89b1d20c704591d8a80b7ae1df96ec7eb0183a946f1a42655c3436a2f59f15c07b04730db906643b637f5beceedbe44bb258cb75bedf628f52
 
