@@ -41637,3 +41637,18 @@ SHA1: 9efaa064fae00d94fbe0afaa3afde95de3650047
 SHA256: 9679624f97300aba08ad80aba020fca7fd8f9b5f64d0f3729bb45d2c73eec4ab
 SHA512: f5d67ac67e1bcfa1d679355e0b417ac82d6d3bd9b0b2cb769255bcf53ed19c3a9ef996e96fd1a4a080f0dd5f009c90acce75a66084fa2433acbdf67274dd0bbb
 
+Package: screen
+Architecture: x86_64
+Installed-Size: 1064
+Maintainer: @termux
+Version: 5.0.2
+Homepage: https://www.gnu.org/software/screen/
+Depends: libandroid-support, ncurses, termux-auth
+Description: Terminal multiplexer with VT100/ANSI terminal emulation
+Filename: ../../../../releases/download/x86_64-s/screen_5.0.2_x86_64.deb
+Size: 473524
+MD5Sum: 4796208d2a2e21604c73366a31ca007e
+SHA1: b0554f813edb1440c30e4f55f9bdc1be66c68f77
+SHA256: 8e416b374fb745a53036d9d009616c24c63c6886e4d017baaf967caa12dafd79
+SHA512: 4a090745ba165bad880c65ecf1345416577acb6e01bdb155c5e6973636c3246936e1f1a0f4b1acf8ce2a5de1aeb99d149889eb4625d1273e027c669f75e98cd8
+

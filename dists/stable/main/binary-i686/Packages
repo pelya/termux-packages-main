@@ -40619,3 +40619,18 @@ SHA1: c57709fb25f1ca658c23b6783de9121a9804606c
 SHA256: 16239ff81e1d4938c83eee59d1ad88174862f6cd7eeb49415a9f0ae104ebfd7d
 SHA512: 77b81968acb94325af6dfa920c45b8c4efec5c9fc0fabb3a7c339b50ab7687158d2d888537e057e141adac9f71ce86985a2f67e397ef4aebfe49ac3f3f2df759
 
+Package: screen
+Architecture: i686
+Installed-Size: 1056
+Maintainer: @termux
+Version: 5.0.2
+Homepage: https://www.gnu.org/software/screen/
+Depends: libandroid-support, ncurses, termux-auth
+Description: Terminal multiplexer with VT100/ANSI terminal emulation
+Filename: ../../../../releases/download/i686-s/screen_5.0.2_i686.deb
+Size: 469004
+MD5Sum: c88e6bb54639c4c8dda901a3201a970b
+SHA1: d72f480914adc84faaf8f5d1ed9206b8cd7c8dbb
+SHA256: 0b908d8e8cfd37db701b47d146f064b4c24590e3753dcfe817ebdf16f79fb172
+SHA512: 7fbdf38774f3aed060ebe2deb940fb4021d1a2f5295d06580a6dfb77cb00598b314b0d9e73a4be16722b58a9a8eba261fdf46aa702b72d414894a9a46153a0f9
+
