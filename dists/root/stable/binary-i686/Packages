@@ -1247,3 +1247,20 @@ SHA1: 6c645813ce31bd21ae9e33a51a874da6ae8ee88b
 SHA256: a0cac76c94d344ce51d652427f68937ff747752e8ec880522d248c20875af8fa
 SHA512: 1aee5fb708e65b94b60448c7e62d8a3eae8a511374e29864b16776760bc250f3a7217156b5694244bb9a016859e09abae6551b40aa9ecad0a2bc543e00e1f6b0
 
+Package: tshark
+Architecture: i686
+Installed-Size: 96728
+Maintainer: @termux
+Version: 4.6.7
+Homepage: https://www.wireshark.org/
+Breaks: tshark-dev
+Depends: brotli, c-ares, glib, libandroid-support, libcap, libgcrypt, libgmp, libgnutls, libgpg-error, libiconv, libidn2, liblz4, liblzma, libminizip, libnettle, libnghttp2, libnl, libopus, libpcap, libsnappy, libssh, libunistring, libxml2, openssl, pcre2, speexdsp, zlib, zstd
+Replaces: tshark-dev
+Description: Network protocol analyzer and sniffer
+Filename: ../../../../releases/download/i686-t/tshark_4.6.7_i686.deb
+Size: 20881944
+MD5Sum: df4b7e531de2a9cdd973c0d1121d3c69
+SHA1: 602cd2837e974b34ac3bcb2aa88d70ee05f1790e
+SHA256: 94e34edd4da155958a00ce4ce2749045ccdb88edc4989211f41cb64aa1e7d782
+SHA512: 512e4fe102b852d1a484172fd295feb862bf6195892330ce307ae8a87acf65fa9d83e979aa45fa124b7844f56f6da7426d0d55b75ad2157ed56e929875fea4ba
+

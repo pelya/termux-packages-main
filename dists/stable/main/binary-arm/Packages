@@ -1720,22 +1720,6 @@ SHA1: e4a8f03b4283645930f72487594df45ad3c48c11
 SHA256: a8d35498a43fd00b07a6273a645dad4830272514d43c2eea544754508f5f00d8
 SHA512: fa81711e9e5bf2cd212c287718f76adaf33b28a1e58f198d39d39bc89b2f0f65d8264f3fab877daf38dfada56973ec8d2b2971b8a3fd8bab28896a98813a1ce5
 
-Package: brotli
-Architecture: arm
-Installed-Size: 916
-Maintainer: @termux
-Version: 1.2.0
-Homepage: https://github.com/google/brotli
-Breaks: brotli-dev
-Replaces: brotli-dev
-Description: lossless compression algorithm and format (command line utility)
-Filename: ../../../../releases/download/arm-b/brotli_1.2.0_arm.deb
-Size: 328948
-MD5Sum: bb6aa3d99c3673c4bff5c3f12cebc90c
-SHA1: f9f0f1087e279256d578da0e54bc4498f1afc7c0
-SHA256: 01c5b98364659ad63f48353a680127cac8498c3cf2fd686edf0695a1b6acc004
-SHA512: 2ea8ac01b7aac04b7ac9af04134d610bf9f80263a730924ca58293f4e449ae5c5cd74dc0595f9cdf13af5fdce57ed64bdf395e6e3e802a6e09d586c7d6d860d6
-
 Package: bsd-finger
 Architecture: arm
 Installed-Size: 84
@@ -1858,23 +1842,6 @@ MD5Sum: d9c9c1874c9c558c9340f9a3707ba387
 SHA1: 6208d6603ac2ff5161dc8c857a06d243c431b6f7
 SHA256: 8c9fe885302e90c57ad7c87be07515e94e021d85a94b19d601f839243631a9ca
 SHA512: 49c1bd68f5aa4fa95f50b87e2068c7da47defb3a8df8d20913dc5eb14fb584f4c4463c84d1050b635543c786ae673615d99d52bc35bf5ff3448dac07fb7fccbd
-
-Package: c-ares
-Architecture: arm
-Installed-Size: 1008
-Maintainer: @termux
-Version: 1.34.8
-Homepage: https://c-ares.org/
-Breaks: c-ares-dev
-Depends: resolv-conf
-Replaces: c-ares-dev
-Description: Library for asynchronous DNS requests (including name resolves)
-Filename: ../../../../releases/download/arm-c/c-ares_1.34.8_arm.deb
-Size: 186432
-MD5Sum: 5faa72ce030770fd1fa8ec7416cb8e88
-SHA1: f72491b1f3a829c36462b790cd09e4b90cf468ac
-SHA256: 72776e1d1cbef2e36b4487747dccb5be4b535f69073892a8c3ea207b19c43fe1
-SHA512: 93284b95f80496110b7af391f8c25b3115ee3586177838dd1ec427d39fc5e983a70add051d62662cfcb53c3ce308dfa06a2fb2a42c0396b666eab2657663ba59
 
 Package: c-toxcore-static
 Architecture: arm
@@ -12081,37 +12048,6 @@ MD5Sum: 078f4c180f083d33e75fc892e808acae
 SHA1: bd0fdaf4b0591ad2fa07dbe8272951fc4ef4684f
 SHA256: e885f45a6ac668fd207d8bd8f9cc3181ab8dd39f75212b31d71ac1d422594035
 SHA512: 4d558e849cffbabe56d916b6204db511b7744db42340bef6205d15145804f699897851ab4724cff80ce2404f54239be730db01ccc46615fddb40d4d185ea9af9
-
-Package: libffi-static
-Architecture: arm
-Installed-Size: 80
-Maintainer: @termux
-Version: 3.5.2
-Homepage: https://sourceware.org/libffi/
-Depends: libffi (= 3.5.2)
-Description: Static libraries for libffi
-Filename: ../../../../releases/download/arm-libf/libffi-static_3.5.2_arm.deb
-Size: 14044
-MD5Sum: 1c4a792ad1d5d9ae383f5b1d98bcb122
-SHA1: 569582a6862980d920eccf59657e79be1e5e276a
-SHA256: 74e330e317343057aa090e12fa4581c3bb1a7032e9531ec19b58cbed3d293906
-SHA512: b49a66770e4dcc4771704a342adc7c9d699770258d8e2ce91c6d9d5dfe2908e3dc2d382abe738281bb7a84940713f3d7ed1c0998cd3b1e872fd48fbcd91b7c8c
-
-Package: libffi
-Architecture: arm
-Installed-Size: 176
-Maintainer: @termux
-Version: 3.5.2
-Homepage: https://sourceware.org/libffi/
-Breaks: libffi-dev
-Replaces: libffi-dev
-Description: Library providing a portable, high level programming interface to various calling conventions
-Filename: ../../../../releases/download/arm-libf/libffi_3.5.2_arm.deb
-Size: 29404
-MD5Sum: 464131577e2630d9c0c6899f9985cb09
-SHA1: 403aeebe938010583acd9fc1f432cd1f06e7242f
-SHA256: 98571e54bf39af0f04ef30e899ca96b9ac168d6083d19c842cfc01ddde19fec8
-SHA512: cbee42602f53b220023ef350e9034f86d192b83e04826c2f1a97fecbcd3bf9f317393dfe03070ba6a630ef0b9c788df775652c9654f2fe136e6ae61472c600b3
 
 Package: libflac-static
 Architecture: arm
@@ -22406,52 +22342,6 @@ SHA1: 87301a32c2f848d07e00a4649e72e73e6575da94
 SHA256: 21522982084bf93e590219c5bedc30effa4d2c0cb290658220fb937bb80c70e8
 SHA512: 484a4d3eadd57c8bdbc1c0caa692a119e195bae0fee8353995695eda23332c3812b87b875471a6bfd8e2e1e6dfeeb48fbcc015c95183401aa2fd19f2bf134407
 
-Package: pcre2-static
-Architecture: arm
-Installed-Size: 1360
-Maintainer: @termux
-Version: 10.47
-Homepage: https://pcre2project.github.io/pcre2/
-Depends: pcre2 (= 10.47)
-Description: Static libraries for pcre2
-Filename: ../../../../releases/download/arm-p/pcre2-static_10.47_arm.deb
-Size: 355128
-MD5Sum: d52a998a2e4fad42183fdd07258300fe
-SHA1: 77a10b42aff2799a73b2876234cbdaec72953562
-SHA256: 82ac1e9ba063450a485d4d04d8e4324477b22fe23124a9ba50a5dbaeb176f0c8
-SHA512: b5bbd831358b6f21c50c3f64aa40c3d6b288378d6fd7552a30608a7e402d20e22b94bc925c305d4dbe5f55ed72a1c09270e6438b4105423f22da23e0fddc15ae
-
-Package: pcre2
-Architecture: arm
-Installed-Size: 4124
-Maintainer: @termux
-Version: 10.47
-Homepage: https://pcre2project.github.io/pcre2/
-Breaks: pcre2-dev
-Replaces: pcre2-dev
-Description: Perl 5 compatible regular expression library
-Filename: ../../../../releases/download/arm-p/pcre2_10.47_arm.deb
-Size: 953260
-MD5Sum: ffcc7d97a53891d3470b758e43989bd1
-SHA1: 2fc63b395c5c35143fd4735330db06aaf6e26606
-SHA256: 5d60e2baf616cdd5a3ae90e1502648a476ae238d9448a8f04e7a0b757fd9c9e6
-SHA512: 45178a4ae5462520cbaab7f944085cc20bbcf9a5d30dd5a1d08ebb5562ac35b31daec2fa0002b3d1333f41cd2d379ed9caaf6e68c91d0716b93052c5399a79be
-
-Package: pcre2grep
-Architecture: arm
-Installed-Size: 88
-Maintainer: @termux
-Version: 10.47
-Homepage: https://pcre2project.github.io/pcre2/
-Depends: pcre2 (= 10.47)
-Description: A grep with Perl-compatible regular expressions
-Filename: ../../../../releases/download/arm-p/pcre2grep_10.47_arm.deb
-Size: 32792
-MD5Sum: 721fa89ca024021fb18e40fc8fdba898
-SHA1: 85346b2fbdc0ca066d577085a3bf91e1682fbad1
-SHA256: 370a0f786c87aa869d3139ffac7b7c0f454df0f285c40a0e7fa2f26ca3b3310f
-SHA512: 1800ecd3b32a188509920137eebc97ad1443464ddd175b7baad7dd17f983fd61e6f62fe3d618c8a5c992fe51766b54115d5de37207c879d33194670da2476090
-
 Package: pcre
 Architecture: arm
 Installed-Size: 2620
@@ -24706,38 +24596,6 @@ SHA1: 1fc37acba5f09275bd9879e175b02a6acf7fac89
 SHA256: e675439a378561546b778e0df6eb4c845d5ff07a8d92773e276ae2fa736f508d
 SHA512: 52f00cc4d047d5052f86b85e787c500abb4921520a8f662bc18e227c3a7e3791175b0204b793209d4690105b36fada9bae1c796a0f1752616d353ade87f15914
 
-Package: readline-static
-Architecture: arm
-Installed-Size: 424
-Maintainer: @termux
-Version: 8.3.3
-Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
-Depends: readline (= 8.3.3)
-Description: Static libraries for readline
-Filename: ../../../../releases/download/arm-r/readline-static_8.3.3_arm.deb
-Size: 111332
-MD5Sum: e5bf2838ddcffd4cd3503a00cd56171b
-SHA1: 5356e7e3f5f921d23aaddbc4931a2b0d0eb218a3
-SHA256: b5fbd1afdcaa5c6c1ea8eadc2b54bd9fcf171aa66d5f54409df88216d472f146
-SHA512: 8a989f1423d507429fb93ffb8f6de31742fdae57e152bce597439c9504e0f210438b509ff078b1587244d534063acfbfc57e9b0c4b11e8bd94333315970ccc36
-
-Package: readline
-Architecture: arm
-Installed-Size: 1808
-Maintainer: @termux
-Version: 8.3.3
-Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
-Breaks: bash (<< 5.0), readline-dev
-Depends: libandroid-support, ncurses
-Replaces: readline-dev
-Description: Library that allow users to edit command lines as they are typed in
-Filename: ../../../../releases/download/arm-r/readline_8.3.3_arm.deb
-Size: 283812
-MD5Sum: 438cab0cc81101af1f6c2541846d84ba
-SHA1: fea0067d600b2d0faffd84c49a85685885ddd6e1
-SHA256: e2ab78cf492050fc16d30f4a615805a8572b06ab386c9321ed0bf7a423eab554
-SHA512: eaf9c57b164ca132fb83df0690c5f9ca461a607b0a1cba95296cde9796fee08f13124c00df854f134cba764eb4d32087f477426dbea6ad492907d817f4604332
-
 Package: recutils-static
 Architecture: arm
 Installed-Size: 516
@@ -24824,20 +24682,6 @@ MD5Sum: 93dc30bdc46b82de27c1bd90f05522c8
 SHA1: 811be2394408c1792240510c283567eaedbf8cf7
 SHA256: a2f548fd046cf70f159befd6adb3c42ac13fa8bf1050ed8b7f44c60b041af7eb
 SHA512: 4fca535fe699bdbc0387a3ab10be338deec990d692f53083f9486d73bdfe02407214d9f1b1ead979354e9e1365d472eb85dc53463403860b1246ae1d077f9f94
-
-Package: resolv-conf
-Architecture: arm
-Installed-Size: 48
-Maintainer: @termux
-Version: 1.3
-Homepage: https://man7.org/linux/man-pages/man5/resolv.conf.5.html
-Description: Resolver configuration file
-Filename: ../../../../releases/download/arm-r/resolv-conf_1.3_arm.deb
-Size: 1024
-MD5Sum: 926a237cfb06179b0b2290386ce4a294
-SHA1: 071c1f9365b848f0f26a6ceea576c4050e62185a
-SHA256: f0ea3f5647412e5086f4159a30398d374443b25b7b4c0f11ecae4b6e478cd416
-SHA512: 397ffd6b49adbbd43956f83b76a1f141c458a276e5dfbd2e9801840dfbdb94c0ded61c5895f595c29a4dcc17fb32a8dae7898b3ef034887bf59dd2329fdf6503
 
 Package: restic
 Architecture: arm
@@ -33479,52 +33323,6 @@ SHA1: fddea5b5c10e4e5466e22e39dad650dfa719b40b
 SHA256: 222aac9a95fc72564a188e8a3d19428a13fbb7e6adc50e2ccec5cc28f82c4e41
 SHA512: 3e01f98712163f88f4cf87f1666312415f4daccba68af36f86d7467ed88b83ee54ef6189a7f4397042ed6a87dab1d7d566a7cdea5db46c5c2efdf98cefa2ce8b
 
-Package: iconv
-Architecture: arm
-Installed-Size: 52
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Utility converting between different character encodings
-Filename: ../../../../releases/download/arm-i/iconv_1.18-1_arm.deb
-Size: 9000
-MD5Sum: 691bcbbce56fbf95e3c063dc3ba5861e
-SHA1: 0845b0f0d4fff8a2226bf23d24882c33e3859504
-SHA256: 77fc2dd41c8c3180791b6ec805008efb66097f5a1dc6ddb249f9164e8215df62
-SHA512: 7d938e2e900e25fa54927eaac82f6fe0363070ceb9952a89bae4d4c939405e2a6bfa07967b4c647c8c9e954ca68a32ade94d7e3b4489811c1ca14a4e00ecfc0a
-
-Package: libiconv-static
-Architecture: arm
-Installed-Size: 1128
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Static libraries for libiconv
-Filename: ../../../../releases/download/arm-libi/libiconv-static_1.18-1_arm.deb
-Size: 550188
-MD5Sum: d9facd7a4717722851db2fad7c98936d
-SHA1: 587087ce8ff807985ed804f082cb4eec56fbe5c7
-SHA256: 62fdaf760b12da962dacb125441c69ee099755545732cccbc14465e70258640b
-SHA512: a891ac5416948fea10e109a5a3a6733a2d47fd004922de482e9bbda328f378727555cfd4b6af79d4c9d8a5cb5abc70ec9dec721bc1d74beecd5d6c20397094a7
-
-Package: libiconv
-Architecture: arm
-Installed-Size: 1168
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Description: An implementation of iconv()
-Filename: ../../../../releases/download/arm-libi/libiconv_1.18-1_arm.deb
-Size: 555784
-MD5Sum: 90f01c5ea0f0653e349f2c8d877dc290
-SHA1: 25656c1617e383ea4305b923e4c90645feb6de59
-SHA256: 4fc4d6f35e62b63c31dad02a9ab8bd7df67f41e66e1074d5dd03b80fb0063d90
-SHA512: f3bdcc984ac28d6c0e921208b707180978f4ac4b8b485cd3634a1c52e57ef2a66433d5c86e7c22dcfaf3af920cc8d52d1d3bfd4867374290b8febb5edb0b7e53
-
 Package: libmwaw-static
 Architecture: arm
 Installed-Size: 47172
@@ -37894,84 +37692,6 @@ SHA1: 907b7c13917b7474eaba994edf90bc84f8209d92
 SHA256: b223a97f748a6e1e0b84c833c459d9cffc5da7909b6e13318381c20b0be18710
 SHA512: 448bb56f048228fbb5026f55a5016753db50cf03774bac85b48d1679ffe2f30b1cabf40f1bc185c79420827c3095972eee765cfd4b7e062b4a3db58eaf752fe3
 
-Package: ncurses-static
-Architecture: arm
-Installed-Size: 536
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for ncurses
-Filename: ../../../../releases/download/arm-n/ncurses-static_6.6.20260307+really6.5.20250830_arm.deb
-Size: 139756
-MD5Sum: ded300400099985b4fd98c8d53a179db
-SHA1: b478a5ec681939d22e964feef217f7dfc5e52fba
-SHA256: 7c2d3f3cca1335481450241976974135c17c1d61af8ec3bf95116bd15d72a3d9
-SHA512: 3913fb64e3c8d153c1d9bf26ba871499a42f614a3f1f99bfa6a6f01b3d321141435afa6e9bcf61a3ce498f203794592562162e38453f933eff98cda0294fccef
-
-Package: ncurses-ui-libs-static
-Architecture: arm
-Installed-Size: 188
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/arm-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_arm.deb
-Size: 34472
-MD5Sum: 49518609e9b5a91cba993c99ae0592f4
-SHA1: bd146d5b13b3157fa0a385aec95970e1d02bedd1
-SHA256: 879d2f0b053ca0ccb0e520241d786a8df9df516f085b4069026817f7a1a1d242
-SHA512: ae6a3d66cafe4c8b94888877a7d4bce0e1b88c35f0c2464383a9d166f588a49d98d897f25c62ad68cea84bb77259c7b8146f1aa5b9037ff5ff0a72e042d8562c
-
-Package: ncurses-ui-libs
-Architecture: arm
-Installed-Size: 112
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Breaks: ncurses (<< 6.4)
-Replaces: ncurses (<< 6.4)
-Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/arm-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_arm.deb
-Size: 28392
-MD5Sum: 5d53f2229eae5bd88373e85ab122454d
-SHA1: 72bdc3a42ef1cf394633d3ddd85f469ceef25d2c
-SHA256: 347da49731742c2cf1afff4c3ea30c544790180eae9f6492663240544a4bf327
-SHA512: 2dfda9a3c715a12d47f351728daa9489b9947af2ecdca43570d7b5ef47e8b30d02fec7d8831086f850dfde40177b3dd9032bbd4058f0b98ae2cf2cca7b735b8c
-
-Package: ncurses-utils
-Architecture: arm
-Installed-Size: 232
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Tools for working with terminals
-Filename: ../../../../releases/download/arm-n/ncurses-utils_6.6.20260307+really6.5.20250830_arm.deb
-Size: 84336
-MD5Sum: 9315d2c030163fa63951da0981874eac
-SHA1: 07f1e0fd6fe2c19d657f203f52f239068a8b41ca
-SHA256: 08c88aa5d78f659f949b3301805cc8fe159f243f64083846015ac957634e4ee7
-SHA512: e9d60ed5259903aa1ff95ee2640b561f4a8804efd48f095ffeac15be59091974fb32ad42fa169e1eac122ac6f42a520b8f66a05340f917be0720e81224e1c555
-
-Package: ncurses
-Architecture: arm
-Installed-Size: 1472
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/arm-n/ncurses_6.6.20260307+really6.5.20250830_arm.deb
-Size: 544992
-MD5Sum: ab833b187b59f0758918ba6bfc20177f
-SHA1: b96840060dc96a2d42648f9f6d84c6233518b6f8
-SHA256: d9e8b0903a0e8e74c73497c08d68df7457497c54504689f58c38b16859163598
-SHA512: 4e712fbd32729f977a642bbf6c9ec3bea0e68debacffca7e94a027c5b209618cd16d2ea60ca4daf9714c5821476da15e4199793f118d936e64947460965bf3ea
-
 Package: dnstop
 Architecture: arm
 Installed-Size: 124
@@ -38642,36 +38362,6 @@ MD5Sum: 586ffce5f854f77ec406378ba5db29e7
 SHA1: 6f23201b4473b188535e0adb3118bba99d37f537
 SHA256: 6fe4beeb31eccbe2730ab7801110dee9cafff6ccefd196e131cfaeaf53d30bf5
 SHA512: d8d661b0e338ede6060d7a58a35e12e4066f29eee7a38c656dc09ff913d4150fb453939c78a54145f35aebb1b5f32cdfc844d2e2485ddfa7659244ea2673316a
-
-Package: libandroid-support-static
-Architecture: arm
-Installed-Size: 64
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Depends: libandroid-support (= 29-1)
-Description: Static libraries for libandroid-support
-Filename: ../../../../releases/download/arm-liba/libandroid-support-static_29-1_arm.deb
-Size: 8160
-MD5Sum: 808fff0c91f9ed3d3aa9d5e25e261386
-SHA1: be48ba14709d1f1ed0f6cf82c2d3642ea5033ab2
-SHA256: 629b3a8553fe25e1862e09b2f834c840534863e5352cbc8b6d1768c716c582cd
-SHA512: 46df3845856620e450c54c41d9f02393b6d8e522563dd62d5367a3aa93a33b1d40ce520eeffca8598492bba7b437e657d0ebc428e636031834e198482392407e
-
-Package: libandroid-support
-Architecture: arm
-Installed-Size: 72
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Essential: yes
-Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
-Filename: ../../../../releases/download/arm-liba/libandroid-support_29-1_arm.deb
-Size: 10400
-MD5Sum: 13b483083dcaaecf3d44a3b0b900510c
-SHA1: 9a139826cb1bc96da6c063ed2d8a4874b5a8efaa
-SHA256: 466854ba6fdebb81bd5a5108aa27a27782ef787f631c01068813c193b7024470
-SHA512: 67035c85a006236fe797fa45ba4016c2330ac933ee2b08a9b31706061da17073ce9d94311131ec385c6a6f376e55ce594bf9f04ef048141b2d6d48e2f27cc8ba
 
 Package: libc++
 Architecture: arm
@@ -39841,4 +39531,314 @@ MD5Sum: 4c759945c1f3fca4ae9aae86bdb05795
 SHA1: 89bf6ec0a5a6f8613cb12f0372617c723c068405
 SHA256: 9089ae7c6239cb88a066a67207d349a14b1ceef49d7c7b0c3af1743806f47b55
 SHA512: a8bb19c72c7c8b2b3b71088d5877f9255b08870845c0e5243059baae8670bd693aafa79d80cbaa60b1b129dc9cbef4d59499f75aee867ec5689a100fb011384c
+
+Package: brotli
+Architecture: arm
+Installed-Size: 916
+Maintainer: @termux
+Version: 1.2.0
+Homepage: https://github.com/google/brotli
+Breaks: brotli-dev
+Replaces: brotli-dev
+Description: lossless compression algorithm and format (command line utility)
+Filename: ../../../../releases/download/arm-b/brotli_1.2.0_arm.deb
+Size: 331088
+MD5Sum: 2801fab99d950ff51e5b7e804a4202b3
+SHA1: a2f3b7a8d325fd409cb6908ed333a72006a3fe4a
+SHA256: 75ceb8896ebe998221731a93d07a00f90efdae66741093a96f3106bba2a1c83f
+SHA512: 3dec0b00b52ed97884d9d667e6018333c8868cb0861802f8703838289a4707c58ab3873054cd2a252051f7d92feb1621258e439898db85c5e33c48cb09beeed3
+
+Package: c-ares
+Architecture: arm
+Installed-Size: 1008
+Maintainer: @termux
+Version: 1.34.8
+Homepage: https://c-ares.org/
+Breaks: c-ares-dev
+Depends: resolv-conf
+Replaces: c-ares-dev
+Description: Library for asynchronous DNS requests (including name resolves)
+Filename: ../../../../releases/download/arm-c/c-ares_1.34.8_arm.deb
+Size: 186416
+MD5Sum: 9dfa76ab57bb3701ef189d370c6a7cb2
+SHA1: 1ddbb778036aaa9c32ac48d326f8a55da2f9d46c
+SHA256: 3fa254acdc66c3aafeb9b4c487eb2e5d429b7009e3cde9e0cb89ac3cbfb6a10c
+SHA512: 67c40d80100ca5649ecd521369125610b6061330692c94297fa7ea4465863a32a080e774fda5e1296925010b31cec22f1a406d20b3a36090acd6eeee08bc349d
+
+Package: iconv
+Architecture: arm
+Installed-Size: 52
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Utility converting between different character encodings
+Filename: ../../../../releases/download/arm-i/iconv_1.18-1_arm.deb
+Size: 9004
+MD5Sum: aeee64143c01adf224ca253893f39dce
+SHA1: be4e0db8d5ecb8774ddf4b083707ad2e6eb9596d
+SHA256: 75f5f40a1705ae19a8fa83826d582e928a62c95b9bfe2fbd48ed7389d3041f79
+SHA512: 17b98b2bf0cd8b0e175483394b73060c4dd2cd85362f35664a294e3c54988a653d649901d3399f5f6ca1daa442d6da0e484e0d46bf2e1f7b84ec53589e51e60a
+
+Package: libandroid-support-static
+Architecture: arm
+Installed-Size: 64
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Depends: libandroid-support (= 29-1)
+Description: Static libraries for libandroid-support
+Filename: ../../../../releases/download/arm-liba/libandroid-support-static_29-1_arm.deb
+Size: 8160
+MD5Sum: c5b2383d482d6377b644ba514d0f07d0
+SHA1: 1fdcc20f4cafc395382d1914a236d53dd359b061
+SHA256: 44b6074f2d7f1cbe5a7ad9e2763d8b44befb88f580d37c2f5ac718e3c8bc7b1e
+SHA512: dc0e3128d42a3a14918449df0cc742fdb454d80e5ed5873552f5162f58b69241d0c4def9fb684e139f88898ff7f0acf478778bea8bf3dc35a87df114493b6666
+
+Package: libandroid-support
+Architecture: arm
+Installed-Size: 72
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Essential: yes
+Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
+Filename: ../../../../releases/download/arm-liba/libandroid-support_29-1_arm.deb
+Size: 10400
+MD5Sum: e7a9e6be678b09396894a2a1864e660f
+SHA1: 148a77eba5e33d3f1ce672841bdcb7aac16511e4
+SHA256: bcafc28aa87bdceb6c89f9e435b23ef406a35a1d98ede26202c14521fbb436c2
+SHA512: 8ccc8ef644a1615033ea3d5a75a3b32701507579261c9b7cbe45c95ca7d7697bee563d444a3570bb0caa346fb4534829b99062e368ffb1f6dd0f068d6fff445b
+
+Package: libffi-static
+Architecture: arm
+Installed-Size: 80
+Maintainer: @termux
+Version: 3.5.2
+Homepage: https://sourceware.org/libffi/
+Depends: libffi (= 3.5.2)
+Description: Static libraries for libffi
+Filename: ../../../../releases/download/arm-libf/libffi-static_3.5.2_arm.deb
+Size: 14048
+MD5Sum: 051c3baac2b111dbb94f22d849341ac9
+SHA1: 5eba67bd554d674ff62e4336e01ceef339ae24cc
+SHA256: 9bbda4bab0e559bbe173c660823ecc082cc629ed2883e5455c2719efd8633709
+SHA512: a837893d6471a40f8e2cd5d6a8ff393a725ddb46a5e723dfa407aee0287f777218224c247936afb7f1de732972bbc5000832095d89a88276a55867bb0605e6e3
+
+Package: libffi
+Architecture: arm
+Installed-Size: 176
+Maintainer: @termux
+Version: 3.5.2
+Homepage: https://sourceware.org/libffi/
+Breaks: libffi-dev
+Replaces: libffi-dev
+Description: Library providing a portable, high level programming interface to various calling conventions
+Filename: ../../../../releases/download/arm-libf/libffi_3.5.2_arm.deb
+Size: 29396
+MD5Sum: eef079936312da60d73b1000d8da2481
+SHA1: 336fd83b0f74f582d030d23eda037afdcea7d74f
+SHA256: cbd69ccc98d8f903d4c692c58a78eeecf301faf6d7b4a7a8a6abd00b57f9ee6f
+SHA512: 289e2eb817b2036280e5e651422e0c1afec4bbdf87964b548d55a31d7fce8e37f0624de35b617c84efcad8a8ee8dbd4e07331b53b764dcb70c2917b2b1788729
+
+Package: libiconv-static
+Architecture: arm
+Installed-Size: 1128
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Static libraries for libiconv
+Filename: ../../../../releases/download/arm-libi/libiconv-static_1.18-1_arm.deb
+Size: 549928
+MD5Sum: 5b99a803807a97c9c97429becc06257e
+SHA1: 6d891774604b50998f391c300580d83ec67405be
+SHA256: 566277bb0f39ed360e9620f9e636939737b441aa8f490b33c02f842652062db1
+SHA512: f179c925d182421226e0cdc0dcb0d43a380ba66c1f6a690d16b0ab99aac28685297bac27aa9e64180fd777a6d780304f7f155b007f9e09ba5ae02ac245473d97
+
+Package: libiconv
+Architecture: arm
+Installed-Size: 1168
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Description: An implementation of iconv()
+Filename: ../../../../releases/download/arm-libi/libiconv_1.18-1_arm.deb
+Size: 555340
+MD5Sum: 6b004a7b97ae46cf588462c89d9d2cd3
+SHA1: 38fc4d26be0720ca90161b256755d43f99465208
+SHA256: 40ba4f02b53cd5eaf6e345c90c0a97a741f07442fde60a7596a62adb46c5adb0
+SHA512: 431f4a877cb02ef4d39ac6813cc80188bfb39cbe3f74e2bbaac8430cc2bf9c7e3eee004f6443e706dd589181deeca4a31702472e6c9d408a330c2a1a788cb592
+
+Package: ncurses-static
+Architecture: arm
+Installed-Size: 536
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for ncurses
+Filename: ../../../../releases/download/arm-n/ncurses-static_6.6.20260307+really6.5.20250830_arm.deb
+Size: 139716
+MD5Sum: cd73d113255b537ca8971b6ca10b4799
+SHA1: 0b4bf7a14c595aabeef71c4eecffde4d80498058
+SHA256: f04d641aafccdb9e987876c3162ef5618caa8449780745279636c1d577ac1c77
+SHA512: 3233b3bbc18d60e13ef1cbb838a8cd31e972ffcbd00a7b6e60d2290c962738ce8f834356b801bcaad5a78b61ea58d43166383adcf83be3461b13fed3954481ff
+
+Package: ncurses-ui-libs-static
+Architecture: arm
+Installed-Size: 188
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/arm-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_arm.deb
+Size: 34460
+MD5Sum: 794050b710f7eae9d8b2eb622a6b1d9f
+SHA1: 9c31be6534835fbb76e50f5c76670d93da987a90
+SHA256: 3389b3043483c269b27492fa55237ed532efa48a8dac6675d7fde1e8b992a564
+SHA512: 1c8e7b5b0f7c2be8dad6849d60a1446eadf20ceb01b46386521abe6400572eb1437a39b013f005d5ffe7238373169abbc2e4ba02acabe64d122199fea6c1183c
+
+Package: ncurses-ui-libs
+Architecture: arm
+Installed-Size: 112
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Breaks: ncurses (<< 6.4)
+Replaces: ncurses (<< 6.4)
+Description: Libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/arm-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_arm.deb
+Size: 28384
+MD5Sum: 04435eb5f1bf0dfd2a365f771eb649dc
+SHA1: b15586a6eabaa45f9d2a3cab84a53f4dec72b765
+SHA256: 1d004c76a056584a82a1dad03e7e5620f8e620729e8d812ff034ff1f429b536c
+SHA512: 511b49db542842e8e4f218356262b84ab98e04c67be0df13225a5213da6e2189a76312a71178dc3498229049a6dc1308a42885421fe41e0fdc0478456d20ed2a
+
+Package: ncurses-utils
+Architecture: arm
+Installed-Size: 232
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Tools for working with terminals
+Filename: ../../../../releases/download/arm-n/ncurses-utils_6.6.20260307+really6.5.20250830_arm.deb
+Size: 84348
+MD5Sum: a62c837a6f230507e2ad46d3d6e1ce10
+SHA1: a3f53a47a811b1126901e80ad3555673dab3ff73
+SHA256: 3648f24843a7e88d9df8444de264e694f948a427f458b6b20a074b7b16fc53c2
+SHA512: 4a00c49de9dc81b4d9ddbbfd4849d27ad2104f4b4fd70c76fd8f77bf5b2d54ea68871e6270676b2d00fea03b41f1a2bd08daecdc50cd1637fdbef04ad36ce050
+
+Package: ncurses
+Architecture: arm
+Installed-Size: 1472
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Description: Library for text-based user interfaces in a terminal-independent manner
+Filename: ../../../../releases/download/arm-n/ncurses_6.6.20260307+really6.5.20250830_arm.deb
+Size: 544976
+MD5Sum: 460f93242f22eea82ff238dd31a57509
+SHA1: 724a3bc57892cdf59d12ea4ad650e839d9c99f08
+SHA256: b11bc055155fd648d35cdc0c746ba77795f09c4afd7ca35664436035b3448629
+SHA512: aaa0c26c91d267dd02741788292c55dec9e18d9713f532966f577c1a8b22120560110f7e353b9cc7ed27c3688c8b18bfca4ab33c6c7ffb94533b03cc7f5942c2
+
+Package: pcre2-static
+Architecture: arm
+Installed-Size: 1360
+Maintainer: @termux
+Version: 10.47
+Homepage: https://pcre2project.github.io/pcre2/
+Depends: pcre2 (= 10.47)
+Description: Static libraries for pcre2
+Filename: ../../../../releases/download/arm-p/pcre2-static_10.47_arm.deb
+Size: 355216
+MD5Sum: 68c0eae9c688494bf3ae161c6dcdd397
+SHA1: 29cd4f544507c07185737981308419726f7ef0bb
+SHA256: ee17e2668444e39b24a3963a44d30af1f2690444dce284cd2a184a0d407dab64
+SHA512: c42c5ce1bf45e8e408db00c9f72c4d49c055142f9831dd938dbe078a751b9f4421d02d81ab814d52562841c0611c1012917eb14e0851474b7c14cfb3dd092423
+
+Package: pcre2
+Architecture: arm
+Installed-Size: 4124
+Maintainer: @termux
+Version: 10.47
+Homepage: https://pcre2project.github.io/pcre2/
+Breaks: pcre2-dev
+Replaces: pcre2-dev
+Description: Perl 5 compatible regular expression library
+Filename: ../../../../releases/download/arm-p/pcre2_10.47_arm.deb
+Size: 953200
+MD5Sum: 31cf5bf2e8611e0e7c7f7aa0a4ef3794
+SHA1: f8607d8417aaa3dc1195abc3f21668e597100a74
+SHA256: f5bc94dc809a2d1b5fd43e60627a845488b5a77d23b391330323cb6812d8a05d
+SHA512: 64c491e44abb323847694c49dc0268e2429ad9240a6b065bc841bae2bb9aa6a4f766e9dcb20d0aba7b5abf0f8e7753f2cc5e313d6a21b2d7ad402aa5d1d1300d
+
+Package: pcre2grep
+Architecture: arm
+Installed-Size: 88
+Maintainer: @termux
+Version: 10.47
+Homepage: https://pcre2project.github.io/pcre2/
+Depends: pcre2 (= 10.47)
+Description: A grep with Perl-compatible regular expressions
+Filename: ../../../../releases/download/arm-p/pcre2grep_10.47_arm.deb
+Size: 32784
+MD5Sum: 435a167196762c3e7bf72ae4e4efdcd0
+SHA1: 738f5c5317518e36bc97f33b805a565c91183799
+SHA256: b9c56dc5146cad6ac5d7c11aba5742158e61ba89c82673ad93c8ad6993f00724
+SHA512: 8342e183899a5fd864a97447718b74a8068aa4046bcdde12808c8284c7cb961bc34e3898db4b5ea61e57fa860efc116e8587d7d50a68dde6fbfdddc73f49d0e6
+
+Package: readline-static
+Architecture: arm
+Installed-Size: 424
+Maintainer: @termux
+Version: 8.3.3
+Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
+Depends: readline (= 8.3.3)
+Description: Static libraries for readline
+Filename: ../../../../releases/download/arm-r/readline-static_8.3.3_arm.deb
+Size: 111000
+MD5Sum: 85cf86d210e9422f589a9a21210b44ba
+SHA1: 9d5f5a792eaa79508d20a495c40694826cbdb50c
+SHA256: e3e71136232160cd67a22750216760a3764a9dcea14736bd626ddc20a156da1a
+SHA512: 65b8972f80850feba6c700e501afcbc6911cee72f14608a8da45a3abe0b74e07ba2ad82d0a5e915fa70a5c171c877aae770510e2da09a066ee9553ebf6654980
+
+Package: readline
+Architecture: arm
+Installed-Size: 1808
+Maintainer: @termux
+Version: 8.3.3
+Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
+Breaks: bash (<< 5.0), readline-dev
+Depends: libandroid-support, ncurses
+Replaces: readline-dev
+Description: Library that allow users to edit command lines as they are typed in
+Filename: ../../../../releases/download/arm-r/readline_8.3.3_arm.deb
+Size: 284204
+MD5Sum: 6f27bbd4b5367144ab57e0b11b82a7ba
+SHA1: db414de5bd38947ec2c691375788d0389a43b2ad
+SHA256: cdabb7ce6ee6fa6bcbe2aed7428997d7bb51ecd8859e9a2f5bbfae53c3b37999
+SHA512: 09c7f8865252009ab89350e979e00ca02a45e63771ae5d14a7e6df08d320534573e8682d84336c523ba6534c65aa619c994971a138502c985bf832edb1e3fc22
+
+Package: resolv-conf
+Architecture: arm
+Installed-Size: 48
+Maintainer: @termux
+Version: 1.3
+Homepage: https://man7.org/linux/man-pages/man5/resolv.conf.5.html
+Description: Resolver configuration file
+Filename: ../../../../releases/download/arm-r/resolv-conf_1.3_arm.deb
+Size: 1028
+MD5Sum: 6e393b4907ea78ea6948311f4e2113c4
+SHA1: f34c4c751f43831cf8aae24427f73cba08c633a5
+SHA256: 04f333d4ae29ed57f8ff3db24800d2fff386d1f642b94753ba790542cfcfa7a4
+SHA512: 7b7c89e689247ae5f7c8e0a8db34ce7305c16ec4766b7f11ff169070c31deabca7a50cb1679d2a750057ceb448b3714cdf4125d9ff8517c80ba2848dbf5859a0
 

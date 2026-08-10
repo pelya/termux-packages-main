@@ -1247,3 +1247,20 @@ SHA1: 561603c59b080075321ef618e3284e9b9ad3c155
 SHA256: ac2c1c3cbd0e5234eea1ce6328940abd8dbae3cd2036c89e75c7b2910dda60aa
 SHA512: 01e760c04bba283aa62fd2be9bab4814760b8828e4eb9e37e64cfc53cc2844b4f4a23edb12bb0740d720bc337df39f92ef9df5ac0391d0d224bee1fb59ce8069
 
+Package: tshark
+Architecture: arm
+Installed-Size: 88596
+Maintainer: @termux
+Version: 4.6.7
+Homepage: https://www.wireshark.org/
+Breaks: tshark-dev
+Depends: brotli, c-ares, glib, libandroid-support, libcap, libgcrypt, libgmp, libgnutls, libgpg-error, libiconv, libidn2, liblz4, liblzma, libminizip, libnettle, libnghttp2, libnl, libopus, libpcap, libsnappy, libssh, libunistring, libxml2, openssl, pcre2, speexdsp, zlib, zstd
+Replaces: tshark-dev
+Description: Network protocol analyzer and sniffer
+Filename: ../../../../releases/download/arm-t/tshark_4.6.7_arm.deb
+Size: 20588748
+MD5Sum: 6113099899c79a96b461d88aa91ae620
+SHA1: ea4ba141fc7b3cb860884d869d057d01f9383002
+SHA256: e833c9ce0ac1a553b31e9710451733b362a23f42212a656a9939eabed6416a4b
+SHA512: c139e6a3613c8af1d796de99e72c1d196a14622ab322158694c8b54de2958b91f8900be052cdf66cf37bd4c30091acd8d213ce45e2689a065d2b1c0f764152b9
+

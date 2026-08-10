@@ -1811,22 +1811,6 @@ SHA1: b10210aac6d1e9935d80d683411cd08e3e67501e
 SHA256: a9e658ca106e9a1b6f97ce4842dbe91be47669662c451a3efdc1160e2d8584be
 SHA512: 9d99c9d369d36e8f7352bbdc3f29d12beff6494a7fe68d03a107d547eb07535f075d34aaf59c802a3595aeaa01652c0b56943d479c07e15e95cb27d37ac1f630
 
-Package: brotli
-Architecture: aarch64
-Installed-Size: 1052
-Maintainer: @termux
-Version: 1.2.0
-Homepage: https://github.com/google/brotli
-Breaks: brotli-dev
-Replaces: brotli-dev
-Description: lossless compression algorithm and format (command line utility)
-Filename: ../../../../releases/download/aarch64-b/brotli_1.2.0_aarch64.deb
-Size: 339792
-MD5Sum: 1b4f096b04d289153d7798b26e641aa3
-SHA1: 994d02bf7ab3fd79dd84971b34c541f3e0b42f27
-SHA256: d69133a454eac0046b3a72660aa704ce9be722216df9dd7147ff322f05edeec7
-SHA512: 551be9b81cf85a5d30e75de9266c1f09c0d6cd32e7d89f1ca799853a56dcd8000b869074d092a215e5f41a4e8953c021ed71ed9534552105ddbdcea2b34efe7d
-
 Package: bsd-finger
 Architecture: aarch64
 Installed-Size: 96
@@ -1949,23 +1933,6 @@ MD5Sum: d9c9c1874c9c558c9340f9a3707ba387
 SHA1: 6208d6603ac2ff5161dc8c857a06d243c431b6f7
 SHA256: 8c9fe885302e90c57ad7c87be07515e94e021d85a94b19d601f839243631a9ca
 SHA512: 49c1bd68f5aa4fa95f50b87e2068c7da47defb3a8df8d20913dc5eb14fb584f4c4463c84d1050b635543c786ae673615d99d52bc35bf5ff3448dac07fb7fccbd
-
-Package: c-ares
-Architecture: aarch64
-Installed-Size: 1104
-Maintainer: @termux
-Version: 1.34.8
-Homepage: https://c-ares.org/
-Breaks: c-ares-dev
-Depends: resolv-conf
-Replaces: c-ares-dev
-Description: Library for asynchronous DNS requests (including name resolves)
-Filename: ../../../../releases/download/aarch64-c/c-ares_1.34.8_aarch64.deb
-Size: 194688
-MD5Sum: 9f6f912904119b2e27425327af9d717e
-SHA1: fae591c5dcb23760fdf1fa0699f3a3ca5cbbc1ca
-SHA256: ccea63764fe96e6a61f8f4f639288d3932b2fc9ae60ff3781925fed25378d0ab
-SHA512: cf55085a21a1231e24cde0362248207be07804ff6966778b7fe2a0ee907fbf0f8ee2d3c36d671819dc345f29437b61fd03b49e28f23252afccab84838180ee93
 
 Package: c-toxcore-static
 Architecture: aarch64
@@ -12543,37 +12510,6 @@ SHA1: 48d53b5f7120ef5162b0ef4e481af3d1dc677d3f
 SHA256: 1e3f14b4491afc964b1643ecd16d079234ffc4e5085045a83945f8fb3135b8ba
 SHA512: bd0e3ab96e3b6b435459ff0968180ab56931a92e021b0255ef584980c00ae88e4a58150e60f19c5a3098d0abc7872cf5f7c7e567f596aa9fe5805aa54e5caaf3
 
-Package: libffi-static
-Architecture: aarch64
-Installed-Size: 136
-Maintainer: @termux
-Version: 3.5.2
-Homepage: https://sourceware.org/libffi/
-Depends: libffi (= 3.5.2)
-Description: Static libraries for libffi
-Filename: ../../../../releases/download/aarch64-libf/libffi-static_3.5.2_aarch64.deb
-Size: 16188
-MD5Sum: 11b960dd777acd8c9f478814811becf5
-SHA1: 38c5ae0f4906e23d43898640ca700f02159d592d
-SHA256: 0c9387ed8379768f5b9e9ecabc4237d730325d4deaf3529f05b9d27556bcbccf
-SHA512: 40f2bb9f8fa1e9c0d38bdabe323c62eb36590d1d2de9dc2ed581a3b053dae80950fadeff205cd6f9cb313a64a8d8ed83a1e30e57ce53d9988ca52dee3af87b54
-
-Package: libffi
-Architecture: aarch64
-Installed-Size: 232
-Maintainer: @termux
-Version: 3.5.2
-Homepage: https://sourceware.org/libffi/
-Breaks: libffi-dev
-Replaces: libffi-dev
-Description: Library providing a portable, high level programming interface to various calling conventions
-Filename: ../../../../releases/download/aarch64-libf/libffi_3.5.2_aarch64.deb
-Size: 31180
-MD5Sum: eadc0155ad105611dab72d3ae06e4440
-SHA1: 4b3300b6a338e3702d7c406333500ec73e6bcf65
-SHA256: d1d79c1b44b767bbc2f3493fd77e490bf209ee024f58a97afff361628e999879
-SHA512: ef623791f8da17b79fa623dac04a69ff149441c02396f61997fd1ac1180f6c36a9cf1a480ea2f61e3cc34bead05e9b0851c10cedd361a22e75b4f9e282f37f71
-
 Package: libflann
 Architecture: aarch64
 Installed-Size: 8164
@@ -22954,52 +22890,6 @@ SHA1: 4a27773e3b5a0db55094a7662fae1ef256607ba2
 SHA256: a50e44f700c3af1b7a0b7cd205897a4cfee4643bdea6d5c84d7616cfc478561e
 SHA512: 902333c004ff260cc00061b41ef800206c455ae48cfff528976d669df6307a26899b0f80e0792913c52ee8a8816c9fe4f3daf6762a48d94b3e5f31c40052e4ff
 
-Package: pcre2-static
-Architecture: aarch64
-Installed-Size: 1836
-Maintainer: @termux
-Version: 10.47
-Homepage: https://pcre2project.github.io/pcre2/
-Depends: pcre2 (= 10.47)
-Description: Static libraries for pcre2
-Filename: ../../../../releases/download/aarch64-p/pcre2-static_10.47_aarch64.deb
-Size: 375972
-MD5Sum: a5bb3f1ea398b2e3d1c27b754919a46a
-SHA1: 80327b298367ebf58ad2f4f6976c91091a03ac2c
-SHA256: df485d289f9706e55e6730063d75ae0da078744ae283fa29a4b80bbb513ce6e5
-SHA512: f0ee50bbdbba6d45d372ab7360dbb2947dcae1c817ab3830b5c04db7e8304dc7536760246c12edadaa4414d02d357c2de3125169b21eb3aa67a3c6346aa15634
-
-Package: pcre2
-Architecture: aarch64
-Installed-Size: 4348
-Maintainer: @termux
-Version: 10.47
-Homepage: https://pcre2project.github.io/pcre2/
-Breaks: pcre2-dev
-Replaces: pcre2-dev
-Description: Perl 5 compatible regular expression library
-Filename: ../../../../releases/download/aarch64-p/pcre2_10.47_aarch64.deb
-Size: 960512
-MD5Sum: 76b142ae051b76145cea672bb9a365c3
-SHA1: f41b8e0304f2209df45a204eef021cc3d7ac3b93
-SHA256: bbb634c812763e186e513698b89ce8d517232b33953c995f16e7f405f2556b26
-SHA512: 28b2302e01ea670a47a5053fb741dab61aefa3f64e07230d34dcff9e677c7d7930c4401a77a47728d2c73940a5bccc1dcd338cb24327a2509a27942b97085260
-
-Package: pcre2grep
-Architecture: aarch64
-Installed-Size: 104
-Maintainer: @termux
-Version: 10.47
-Homepage: https://pcre2project.github.io/pcre2/
-Depends: pcre2 (= 10.47)
-Description: A grep with Perl-compatible regular expressions
-Filename: ../../../../releases/download/aarch64-p/pcre2grep_10.47_aarch64.deb
-Size: 34128
-MD5Sum: 4fddd24ab2b69556ac0ff85390ee16f3
-SHA1: 6564c581e3e2dbe23f2d624346e2172dbe36acdc
-SHA256: 0539ea0300e48e68ed12f19c9c4dd76733b9800e89a36d74be1c4ae33dd54379
-SHA512: 34d067aae1afd2bfb5cfb2d3a9ef82399183b8b260d43bb654414c8c74cd4968a000bd813696f00f80e4a0019ebcc6170bb476f1085efe376ab0fa0f4948af0f
-
 Package: pcre
 Architecture: aarch64
 Installed-Size: 2704
@@ -25343,38 +25233,6 @@ MD5Sum: 0f78dbd2a2f33a83bf8fb4f7c60f0063
 SHA1: e5fdbb6307e2c1de0a0b9a4f47eff9afbb3590f3
 SHA256: 277ff1c43099a49ba9fdb7f285e8596c39412818ad1005a986a4a597b4c57a3f
 SHA512: 69fbf9cb8219b943c0fe5052c1dfe178f780f2b0ab5ce0d22cf48d73078d3cbc325b5d81a17b5279f38ecbbe6072c1f7fba325b08a841bc9bf4d7ad718e19501
-
-Package: readline-static
-Architecture: aarch64
-Installed-Size: 712
-Maintainer: @termux
-Version: 8.3.3
-Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
-Depends: readline (= 8.3.3)
-Description: Static libraries for readline
-Filename: ../../../../releases/download/aarch64-r/readline-static_8.3.3_aarch64.deb
-Size: 124800
-MD5Sum: fdbfb36cc9b245dde9a4018aeae5728d
-SHA1: 22bcaa5cc9630c21e55f4094c6206ed9f3e86798
-SHA256: 925208ce7916209f341571a350ed9a4ac1af56aa1461dfeb5383772773da993f
-SHA512: 37bfa5bd933e310ff7dc252f4e6ab653e1774a79aa1708bb845e2e17aa225dccde8e292b34889966a08b6e1ec6d021b928c8b4edbd2b66dc807055c1388282b4
-
-Package: readline
-Architecture: aarch64
-Installed-Size: 1932
-Maintainer: @termux
-Version: 8.3.3
-Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
-Breaks: bash (<< 5.0), readline-dev
-Depends: libandroid-support, ncurses
-Replaces: readline-dev
-Description: Library that allow users to edit command lines as they are typed in
-Filename: ../../../../releases/download/aarch64-r/readline_8.3.3_aarch64.deb
-Size: 293996
-MD5Sum: c61c12b6d0c6630dd30bc74047b747b9
-SHA1: 7c8295b1602f850423899eba7a254f96e7e61ad5
-SHA256: 635cbd563630074178f58a8022b0ed3bebe0b66a07e0de49a4820f385005518c
-SHA512: b65ee5dab979d780c57ac378104aa7630cbdf10954b908bac0893a9ba1bf9c34375aacd5aada233f83274a646d86e72d7024127f213a0ad93c0b98b4e0bfd7bc
 
 Package: recutils-static
 Architecture: aarch64
@@ -33068,20 +32926,6 @@ SHA1: 99d899a0c05d48b47e2de84667499268234805bc
 SHA256: 307ca97eb5b628459733f55d81ce44d21ae04e407e9c68f6a67b52d5319e4d06
 SHA512: ffb3494215b5c7d956f617f81ef3ebc6591331554f1c5a7feb8086e3d95516ebdc0186617b1c045049d1d5849a1ef0d69c1f22b6d88d5ff1464b5b7967d5a51e
 
-Package: resolv-conf
-Architecture: aarch64
-Installed-Size: 48
-Maintainer: @termux
-Version: 1.3
-Homepage: https://man7.org/linux/man-pages/man5/resolv.conf.5.html
-Description: Resolver configuration file
-Filename: ../../../../releases/download/aarch64-r/resolv-conf_1.3_aarch64.deb
-Size: 1028
-MD5Sum: d8099a68222bfd31a2700be203c12053
-SHA1: ddf84183b06cb766d75b2e53b28b1c542d9d4a59
-SHA256: c091e9e72ae25fb34dc9ebbca332347855704d9da277c8cc350d1d74cc3f1bb2
-SHA512: 0bc0e8177dfc79765d6f05ff6be46b7bd37d2a0cc262f0eeff1f5aacd7eb21a1d084a1638b83e89dd18ecfc4cda8b7340ab43f8598e31ecc2df634abe316e004
-
 Package: moria
 Architecture: aarch64
 Installed-Size: 784
@@ -33956,84 +33800,6 @@ MD5Sum: 50a4cd9441ce8f0992908236f4dc2f0d
 SHA1: 3d4ac3d011bf1ab01b07a4a68fbbb75ef477005a
 SHA256: def45094aefe5674930752139beb59876eb495a7df1f7a272852d7ff3370d098
 SHA512: f79865497193546edeba385dfa167a29804d59104ca416092560366a5aec98dbf14d024ffbb8708e6339c07e99c0db1dc2f8405d88024e3d0c195e2f71050b9a
-
-Package: ncurses-static
-Architecture: aarch64
-Installed-Size: 784
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for ncurses
-Filename: ../../../../releases/download/aarch64-n/ncurses-static_6.6.20260307+really6.5.20250830_aarch64.deb
-Size: 154256
-MD5Sum: 083c0937a302e36d04eb83d573e7b78b
-SHA1: 038e8da53c6405a3ea07b82b458c1008fc8db6d0
-SHA256: e3430011cf0e28cad2e08b6a3f74927a007faa88c15cfdcd86861cf495acec20
-SHA512: e1cb1c7871d1560304dbb341d6aff9b46409a92d1d44bcfdce75389929b8a276268ad63d125b6119b1feba1debc9fef80d93987de8a927a219a213db55209152
-
-Package: ncurses-ui-libs-static
-Architecture: aarch64
-Installed-Size: 260
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Static libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_aarch64.deb
-Size: 39536
-MD5Sum: 50ac3184021cad0fb8b94ef025c93b97
-SHA1: 302d66b1d76892caaa3527e29c7d9a590156b0d3
-SHA256: 2e83fdb08e3428a66223272b06f0b1094017f6c918bda8ab4cf0624610810705
-SHA512: 08354cb1291922cf0cc6288a04e7b4e804532a9dce629e07ddbec7f176955186b8d7c8abde212783a5878cab00e04aaf0e5c19da1cd0411d5cfade15c1e6a8b1
-
-Package: ncurses-ui-libs
-Architecture: aarch64
-Installed-Size: 148
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Breaks: ncurses (<< 6.4)
-Replaces: ncurses (<< 6.4)
-Description: Libraries for terminal user interfaces based on ncurses
-Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_aarch64.deb
-Size: 32988
-MD5Sum: c24b023a60c6cb3eaafcb39395b7c958
-SHA1: b946bbc608d9dd54365bddc0a8bdd77aeebcbb53
-SHA256: dfeaf9a2668563e47213bd4660a009694adf1c6a80c00c5fc4d77a5672bbeaee
-SHA512: d1eaa89fb528c5d6fa227770de621520de10d2f12eac747cf19e706b72a09d2627b98e53f60df3e5875d4b14995f831461868e192fc32497173a0d8c1493a6ea
-
-Package: ncurses-utils
-Architecture: aarch64
-Installed-Size: 272
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Depends: ncurses (= 6.6.20260307+really6.5.20250830)
-Description: Tools for working with terminals
-Filename: ../../../../releases/download/aarch64-n/ncurses-utils_6.6.20260307+really6.5.20250830_aarch64.deb
-Size: 89108
-MD5Sum: d87d743849c665e3940bd2f28a3f8176
-SHA1: 392ec30e887be5357137678abeda150f02691496
-SHA256: 0442ff0113c27a72d6183cadb3c81d5f325162f65d28c4c4263034a265b4aa3e
-SHA512: c6c114eee802ba77e42037d4132bfa6dd1752cc74b08ef1bb6f4632de18687303c2f8bbea2952caecf998cb11605badb62c6d7c21de77e655c72fade4eb644d3
-
-Package: ncurses
-Architecture: aarch64
-Installed-Size: 1604
-Maintainer: @termux
-Version: 6.6.20260307+really6.5.20250830
-Homepage: https://invisible-island.net/ncurses/
-Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Description: Library for text-based user interfaces in a terminal-independent manner
-Filename: ../../../../releases/download/aarch64-n/ncurses_6.6.20260307+really6.5.20250830_aarch64.deb
-Size: 558216
-MD5Sum: cea325103ba34e3651ccf7fec12fc4b3
-SHA1: 6d4c383a8e471a3b37d8cc56002fbfab6cb95376
-SHA256: 8bab5819b5eb868241c1720276f5adc556d870981a680e7cb38f41ae403e02a5
-SHA512: b584d8a72764be4a794c89409e98dc98f89c97e95e1d39ae2dfe47873652e41a7a8c08c6099ebf4327a91b9a8e13c3bef28e5f128e803157feca1d7be00de3de
 
 Package: moreutils
 Architecture: aarch64
@@ -40143,21 +39909,6 @@ SHA1: e0b760e5bce688ebc3190370db2b32be699b9dd8
 SHA256: b2b2d24243046e9a71956ccf5ec5fcc51c302d3b0da5e50135327ee85eac24f6
 SHA512: 0275e6d2f795b50d52d3fd92baf47f01bbcd82fb519aede9cb93802e096b40f10d2d9df8ab2a7cb58ca8a4a6f178e00c809bb298583fcc5334eb53145d8e0b8c
 
-Package: iconv
-Architecture: aarch64
-Installed-Size: 56
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Utility converting between different character encodings
-Filename: ../../../../releases/download/aarch64-i/iconv_1.18-1_aarch64.deb
-Size: 10160
-MD5Sum: 5b8cb1a3929dd9b162ab02f182f6697c
-SHA1: 37ca3e34b57b74374ae6897a3fffe5412f9bd937
-SHA256: 240f19b9b2bdc8d221391e53f27b708540024ecf4bc99b3adfc1fc11d137f7e0
-SHA512: d0f3369e30cc19ed590b1d23efd377a7b0a695aa6d3e742ec633790b688983823e99cce16742fa43c3a070775174ed7011afff4cbeea7baf757befb9c4c756aa
-
 Package: libgpg-error-static
 Architecture: aarch64
 Installed-Size: 304
@@ -40188,37 +39939,6 @@ MD5Sum: 727004f2dd7bdca8856780e9eaafcafe
 SHA1: 6fe471738a595287fcdcb63a5cf33a3bcbb70aac
 SHA256: c74dbd1cdd29e027c21d1b0808cd2d21c9cbb7e72a5bfa112d6474a62422ae51
 SHA512: 7d08dbcea05e76c2b8e88e5f2544c505b994569227c61ce42958232d873f5698685847366758fc4e767b77d0e1ff6102975c356544e0b0023e765ee85521f2af
-
-Package: libiconv-static
-Architecture: aarch64
-Installed-Size: 1228
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Depends: libiconv (= 1.18-1)
-Description: Static libraries for libiconv
-Filename: ../../../../releases/download/aarch64-libi/libiconv-static_1.18-1_aarch64.deb
-Size: 557356
-MD5Sum: 0259d0346be6010b95d01221cda3648a
-SHA1: 9c5261b0213c508b8499a35fabd78c3659065426
-SHA256: 7f16616a15b000bed2e372b09f941e44deee6a8f0ec45f6d73b9d6c7dacd876c
-SHA512: 709dbd9d734dfeaf2deb7f2871ffd3e77524a874c44ead4b76b6e43003aefb608ac2945966de6492411d5cb8b55dd9e921fdf4245e469b401ecb1195106b88d9
-
-Package: libiconv
-Architecture: aarch64
-Installed-Size: 1216
-Maintainer: @termux
-Version: 1.18-1
-Homepage: https://www.gnu.org/software/libiconv/
-Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Description: An implementation of iconv()
-Filename: ../../../../releases/download/aarch64-libi/libiconv_1.18-1_aarch64.deb
-Size: 562152
-MD5Sum: 807b67b90bac225c7af4fe9e14761823
-SHA1: fac3d103871a057d00befdde2e93f41d04983502
-SHA256: e917e9408ae01dcc523c4cb0e0416fe6fa804ee3e3848f7d915ed7f66eadb490
-SHA512: 26f2ef2bbfe28f356b96cb7a6144ee4655603ffdfaa527b35b8bacee56501e5660c823c96efa5f0143f9a2955281e09843412394ca77fd191ef33c2513e50750
 
 Package: mruby-static
 Architecture: aarch64
@@ -40700,36 +40420,6 @@ MD5Sum: a59caccee9ad3bbe0330eba2b30a5fbf
 SHA1: 695c9bd87fa0afc7bbe80adb9d5b5471b90e8f05
 SHA256: 929941123f0352a282848f2184d67bcd057d076377bdfa4d38d040073133e69b
 SHA512: 00060997136daecfb0a55adeca0f1153d7e613219e5fc824ae75e61cc3eddf352bae04e96a0a867a5d1ee1d32f67f07dfeffba6eef3f9663dc9a1b1184040af6
-
-Package: libandroid-support-static
-Architecture: aarch64
-Installed-Size: 72
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Depends: libandroid-support (= 29-1)
-Description: Static libraries for libandroid-support
-Filename: ../../../../releases/download/aarch64-liba/libandroid-support-static_29-1_aarch64.deb
-Size: 8648
-MD5Sum: 59b80552284bf91b126bb7083aaf1334
-SHA1: d25531f962cc2f63d47920d50dabb5c76dd475ee
-SHA256: 6c50f400d6209dd7467dba1192a7a8f306593a6651688cff4c1b874e41b4ad11
-SHA512: ec2c0a5d6068fe995f3037f81c884a15160535e93a3d1429bb6c12b452d501a2f944723d6915a4c00169cd92c1792e27b94450b40c8ef1c74212992028f06778
-
-Package: libandroid-support
-Architecture: aarch64
-Installed-Size: 76
-Maintainer: @termux
-Version: 29-1
-Homepage: https://github.com/termux/libandroid-support
-Essential: yes
-Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
-Filename: ../../../../releases/download/aarch64-liba/libandroid-support_29-1_aarch64.deb
-Size: 10944
-MD5Sum: f66998cdfda531b330354ff2c5193c42
-SHA1: f785763126e27cdd473977b1166170674f0c3f19
-SHA256: 221cdc0158162b8b0fc7cb111cb2eea671ad69675035fa853f1674c3f158221c
-SHA512: 15e92cb3aee662e4be6b62692a8601a76c373b34a99701f6f196505711c53e6b3375ffaabc002b0f0f8566c170eb6a10edc54863b02b28d95f6188be8fa42d68
 
 Package: libc++
 Architecture: aarch64
@@ -41652,4 +41342,314 @@ MD5Sum: f5d3560396b6e4ca4128068e2878adee
 SHA1: 9836c914a816a4dbed1ad2d318ca5c98dccaf591
 SHA256: 18a95375c1dc00f0ca3f488c4ed59f57a46272d285392bf360562b86ec69edb2
 SHA512: 6ef6b0cd0981ea8fad85010f47f9a80a895af240bc042b5130d5f59f068176a6658f3cad5b4a8f0cc061b634f9ae200cd74b101f7c438368d6cf90736509bdfc
+
+Package: brotli
+Architecture: aarch64
+Installed-Size: 1052
+Maintainer: @termux
+Version: 1.2.0
+Homepage: https://github.com/google/brotli
+Breaks: brotli-dev
+Replaces: brotli-dev
+Description: lossless compression algorithm and format (command line utility)
+Filename: ../../../../releases/download/aarch64-b/brotli_1.2.0_aarch64.deb
+Size: 340736
+MD5Sum: e316441876c5feda7fdbf1a9d41c2368
+SHA1: 7dce640f2552389a9cb55a9a7dceac9423549b7e
+SHA256: b6e0d503f4fa70bc94b032145e7de1d7903bbbeaef3f883c4678509e4f6c4122
+SHA512: b344b509cf509cb4c5013f7d5a7993b9c4b381b73ded2548d522630acd9a50fdd493da55809112cfee30dd1d54e753ce3bceb61435a2bf043f4e3616fa303e92
+
+Package: c-ares
+Architecture: aarch64
+Installed-Size: 1104
+Maintainer: @termux
+Version: 1.34.8
+Homepage: https://c-ares.org/
+Breaks: c-ares-dev
+Depends: resolv-conf
+Replaces: c-ares-dev
+Description: Library for asynchronous DNS requests (including name resolves)
+Filename: ../../../../releases/download/aarch64-c/c-ares_1.34.8_aarch64.deb
+Size: 194720
+MD5Sum: 7963fe2a0e521559a8afe83264187b7f
+SHA1: ef97b838e6c340025aefe732718c80706d5a88d4
+SHA256: 544d346dc2db743d754c21ae675af5fb4fa295fda6b396ebdc3703963c8d7d40
+SHA512: 99d3e9447a75e1297ede01d3508dfec3377ea009bc7665a8f882908a72fc5b594c4fb5b3b29e776d8a41f6e4ce115f917f3c502b00415e32e6b7b4b68213f7bb
+
+Package: iconv
+Architecture: aarch64
+Installed-Size: 56
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Utility converting between different character encodings
+Filename: ../../../../releases/download/aarch64-i/iconv_1.18-1_aarch64.deb
+Size: 10152
+MD5Sum: 9a9a19a0931ee335876d63a144b5a627
+SHA1: 354d26c180be1aadfd3ae2dd7e2da9132f010ff8
+SHA256: b16d2debc77b8d501aca8165a670568289530922ace658e61c55b952b65e038f
+SHA512: 43a1094b5a77692e64f7d6a7790b5106e982a78b77b4567872d1a7023c0694e3b2bb71c48b23496511f9099f27f55ed54c8cf4ceef7b6f34ca7a994d0c3a0d4d
+
+Package: libandroid-support-static
+Architecture: aarch64
+Installed-Size: 72
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Depends: libandroid-support (= 29-1)
+Description: Static libraries for libandroid-support
+Filename: ../../../../releases/download/aarch64-liba/libandroid-support-static_29-1_aarch64.deb
+Size: 8648
+MD5Sum: 19b8714881f644f693507fedc4d1a538
+SHA1: 3cb57d9b5deb70476dbb83574da22763caad94af
+SHA256: 1a3ce86d71c1cbc2f29f0aa706aadb64ea71383ec08c3c8763367d0e6903b795
+SHA512: 75b02de1a323d5ed99fd45c82a5b9997ce88dbbc219630f3ed0e56e269081e562088452c839552f72a1f5256019cdec0819125397427a18a97753d59a173118a
+
+Package: libandroid-support
+Architecture: aarch64
+Installed-Size: 76
+Maintainer: @termux
+Version: 29-1
+Homepage: https://github.com/termux/libandroid-support
+Essential: yes
+Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
+Filename: ../../../../releases/download/aarch64-liba/libandroid-support_29-1_aarch64.deb
+Size: 10952
+MD5Sum: 8222a707155c8f2f1f6ea149953b0b5d
+SHA1: f294ae062ed11021b80f4172e5624c142f8c2d97
+SHA256: 97ba9193132bf6436880fdcf103c2a8a6d123cce26fe3eac7632105a66777eb7
+SHA512: a81182bfb548279a843e3d3565fefc58644cdaa12c23163b14dc4ee2efa2b649bc55bd752111e6af3043f1b0fd5f9f98b8c111e6f8f53946e0e9a71b4c3dc677
+
+Package: libffi-static
+Architecture: aarch64
+Installed-Size: 136
+Maintainer: @termux
+Version: 3.5.2
+Homepage: https://sourceware.org/libffi/
+Depends: libffi (= 3.5.2)
+Description: Static libraries for libffi
+Filename: ../../../../releases/download/aarch64-libf/libffi-static_3.5.2_aarch64.deb
+Size: 16216
+MD5Sum: 56c1e26d0be0b3403359445e1372eb6f
+SHA1: 29bd734b6254e4a7ee07ee873dc6bbb16e429be4
+SHA256: b27ef4101386ec38ec4b037c186eb48ffcf4fe98524891bfb3edf1c29738c613
+SHA512: 38fe12a3360fe40de51b81fefce6f36735d4df8be43ae5e39a9700d278c33ab042e772bd58f89174ead897792da725930db2c899fa3323762f1559314e54efcb
+
+Package: libffi
+Architecture: aarch64
+Installed-Size: 232
+Maintainer: @termux
+Version: 3.5.2
+Homepage: https://sourceware.org/libffi/
+Breaks: libffi-dev
+Replaces: libffi-dev
+Description: Library providing a portable, high level programming interface to various calling conventions
+Filename: ../../../../releases/download/aarch64-libf/libffi_3.5.2_aarch64.deb
+Size: 31156
+MD5Sum: 2ccd8bbfad4d87511f4c291b3e0183cf
+SHA1: 32184d2ac9f89e35fb4bfa352e4d5a6ee72fc026
+SHA256: 3e82b5dd3ee2a17a0acb3d95e0e8401c1dec9b2f22423d22a34edcff75338d46
+SHA512: ab5b3c992627f8ce9ee918d7e652febd8f4a3c55430306a9bc07261dff036172d7172de6c09c3e53b54238cfd16297f752bb4a0b9fad29e692a5de41e8f2b5c5
+
+Package: libiconv-static
+Architecture: aarch64
+Installed-Size: 1228
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Depends: libiconv (= 1.18-1)
+Description: Static libraries for libiconv
+Filename: ../../../../releases/download/aarch64-libi/libiconv-static_1.18-1_aarch64.deb
+Size: 557636
+MD5Sum: b40528a02b8a7d96179d02dabb3893f1
+SHA1: d9ec91adaf6c0ce5658bf073813c36b9108e1148
+SHA256: a08615486929742b9429783a515f72f73c4efd04f993c66d70caa3ab3d599725
+SHA512: fafb7f6fed0352fa8e72d40ac7d5ad4c4c52a74103553c47052ecb1d94340f2f4628f47ec7da070a8c66e7f3b36501f0f0ed9b599caf6b7e5bcbd4cfc5e515ee
+
+Package: libiconv
+Architecture: aarch64
+Installed-Size: 1216
+Maintainer: @termux
+Version: 1.18-1
+Homepage: https://www.gnu.org/software/libiconv/
+Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Description: An implementation of iconv()
+Filename: ../../../../releases/download/aarch64-libi/libiconv_1.18-1_aarch64.deb
+Size: 561804
+MD5Sum: eead80b6b21d726eaf882e3cfd204506
+SHA1: e67510573db5925fa7c662a3309b2c1d5e636460
+SHA256: fedf8643e8d04478b8d90762101c6e5fc3a0b433ef6a77cfd5d9df7327434d5f
+SHA512: 60ebc8d71258f20700ed1c4f23cc29316437aa2e21099db93cf542dd52877b942b08bca5f81cf270c6becf8717a5698c55f777ca8af6783e6bfd76283971bf3e
+
+Package: ncurses-static
+Architecture: aarch64
+Installed-Size: 784
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for ncurses
+Filename: ../../../../releases/download/aarch64-n/ncurses-static_6.6.20260307+really6.5.20250830_aarch64.deb
+Size: 154160
+MD5Sum: bc7d5ede1178d5a716e93b2981ac7f8a
+SHA1: e0f4997bc4e4ac7b524019c75d5c0d8f29bf9311
+SHA256: ee6be9a3613633b0b19f2520bb99250eb7d3ab9e08ef90bd921d367fea1655a4
+SHA512: 6271d7b245d7fa64029ce43759b771dbf4a2ccb2afbd537b3d09acb4e97442c90e1b67b03b0bf8ff244f0024434c33002670c89c51936a93ee9f06bd634e1b3a
+
+Package: ncurses-ui-libs-static
+Architecture: aarch64
+Installed-Size: 260
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses-ui-libs, ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Static libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs-static_6.6.20260307+really6.5.20250830_aarch64.deb
+Size: 39584
+MD5Sum: 8230b3edb99530e1b6828b0656a6c634
+SHA1: 8e9493784ebaa1e83df92c73cb8bf8592df28f12
+SHA256: 59c250a6aa2ee68972a6a37b4d434a16a6a07a0009eb5f703bcf5b2bd1a47ed7
+SHA512: 2226cbbe7404aa33e60ef83e739d097bec3162a024ec101508e9d2ba47eae40c080db31e9f52279f7daa35e256fcab3fa7cfccde741589faad54313386771cac
+
+Package: ncurses-ui-libs
+Architecture: aarch64
+Installed-Size: 148
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Breaks: ncurses (<< 6.4)
+Replaces: ncurses (<< 6.4)
+Description: Libraries for terminal user interfaces based on ncurses
+Filename: ../../../../releases/download/aarch64-n/ncurses-ui-libs_6.6.20260307+really6.5.20250830_aarch64.deb
+Size: 33012
+MD5Sum: fb899d0365afb5b7e2406593e1fba963
+SHA1: 3c648461b585e2d71745403af6ccf18bf16c6186
+SHA256: be38f9b56e40c3b4eed1682b9d5d5d54f5b6b975a132bfcd28e09b33e3b7d197
+SHA512: 2e2ea5de15e7bcdde7ef6073f64c4c062ac4018013499c2c1696b5dac48c31f253230fec9d242657d0130e506d5f26c79eac0cc93102a91bf56e89fd882778fb
+
+Package: ncurses-utils
+Architecture: aarch64
+Installed-Size: 272
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.6.20260307+really6.5.20250830)
+Description: Tools for working with terminals
+Filename: ../../../../releases/download/aarch64-n/ncurses-utils_6.6.20260307+really6.5.20250830_aarch64.deb
+Size: 89076
+MD5Sum: 16397373c209c3f8f123584b8edd797d
+SHA1: 089c7fca792f80660d650b7a7d3cdb6780572b24
+SHA256: 7dd50cedb433476c97192e719112da2cca3a37e2cd7dea36ec11dd17c3d46870
+SHA512: 8667cc1c2f9d6568b6ffe4a4825fb5860cdd6c26b77ec1ea7eaa7a7d88249d6c59be0304d7cc01801822362353c009973f4a56340f5cefe80aa1b3da7b57eec0
+
+Package: ncurses
+Architecture: aarch64
+Installed-Size: 1604
+Maintainer: @termux
+Version: 6.6.20260307+really6.5.20250830
+Homepage: https://invisible-island.net/ncurses/
+Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Description: Library for text-based user interfaces in a terminal-independent manner
+Filename: ../../../../releases/download/aarch64-n/ncurses_6.6.20260307+really6.5.20250830_aarch64.deb
+Size: 558244
+MD5Sum: 97a2ee9aa39b73704bdf3a6f14b1e52b
+SHA1: 5e4a6ad9db7cdd6b349d2e8b3ca4f9c7582beb69
+SHA256: 42cf9831126a19df05789aa10e275899e4bcdf541b5e76457a11ce4c01fcd876
+SHA512: 1238d52e372fbe7012735f50838d3047b3dd94d89edd74b4f2d96d89065145d9cc875fc34f36544e789de23cf6b866208794d0bcee803e43571fb21f4aecc408
+
+Package: pcre2-static
+Architecture: aarch64
+Installed-Size: 1836
+Maintainer: @termux
+Version: 10.47
+Homepage: https://pcre2project.github.io/pcre2/
+Depends: pcre2 (= 10.47)
+Description: Static libraries for pcre2
+Filename: ../../../../releases/download/aarch64-p/pcre2-static_10.47_aarch64.deb
+Size: 375908
+MD5Sum: cefded0d429e8a89f471ba946fb500df
+SHA1: 589400aecde9409b1834bec6a896bccccfacd2f6
+SHA256: 114120996614c6cf0e9799e758975f350253775445edccdf5bd9ed57ebf12f70
+SHA512: da25330bc0fc06414d224691a38713a92ab88dd99fdd08ab0bb5c9d30394b9f127ed8f5b15241d824e1dcfffecbd688eaed7c14fcd6f5daef73c9648681dab20
+
+Package: pcre2
+Architecture: aarch64
+Installed-Size: 4348
+Maintainer: @termux
+Version: 10.47
+Homepage: https://pcre2project.github.io/pcre2/
+Breaks: pcre2-dev
+Replaces: pcre2-dev
+Description: Perl 5 compatible regular expression library
+Filename: ../../../../releases/download/aarch64-p/pcre2_10.47_aarch64.deb
+Size: 960516
+MD5Sum: 236dad7a0799836f307853a5d25e6e2d
+SHA1: 0e3a598a61751b9dc7672c0f13a264e28593c1a3
+SHA256: 8616fa03e5447699122d4dbdd68105424cece1a5f35707bb0a88fe62a0927b0d
+SHA512: 054d78473bfc57722c1c2fea9a2796d47b4464fec5023831a0f616bc306d273f1c784ce052b44f2ef4ce18a84086d2358d28eb5515ba18791d551e712e39febf
+
+Package: pcre2grep
+Architecture: aarch64
+Installed-Size: 104
+Maintainer: @termux
+Version: 10.47
+Homepage: https://pcre2project.github.io/pcre2/
+Depends: pcre2 (= 10.47)
+Description: A grep with Perl-compatible regular expressions
+Filename: ../../../../releases/download/aarch64-p/pcre2grep_10.47_aarch64.deb
+Size: 34120
+MD5Sum: 4d6884ed4d7b3928e154e2ca8c6d8560
+SHA1: 8fba914f1f8accae289606720ae47adf1cda92cd
+SHA256: ab3fec76a98327a77e73533d9200525516db775392db32a93a1230fb973141fd
+SHA512: 563fe817d0ba21f519f74725bb672630555ddd8bd6aca1f6bb1ef0859a6c26bc89f1b09e0cb20b3fc4fc6bebf792761d76a7baafaa1adca504373f2e88687e45
+
+Package: readline-static
+Architecture: aarch64
+Installed-Size: 712
+Maintainer: @termux
+Version: 8.3.3
+Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
+Depends: readline (= 8.3.3)
+Description: Static libraries for readline
+Filename: ../../../../releases/download/aarch64-r/readline-static_8.3.3_aarch64.deb
+Size: 124940
+MD5Sum: d814a2ba12cf2cfc47a3716537a1cdd3
+SHA1: a253504cdda754424ac7dc306499f31d82714fff
+SHA256: 683999b739ab8cd69a3fd04a914abd0a31aa58ecc0f3b1b1726e1319a2f6a0a2
+SHA512: a3d8d664a90c98abd025a33ba0c99acd7c85f22f41809754a22b6d422634d642009d685c5a7cd265aebfec1e92728aed2f6b6b329a5d3ad3a1c07b0bdacaf99e
+
+Package: readline
+Architecture: aarch64
+Installed-Size: 1932
+Maintainer: @termux
+Version: 8.3.3
+Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
+Breaks: bash (<< 5.0), readline-dev
+Depends: libandroid-support, ncurses
+Replaces: readline-dev
+Description: Library that allow users to edit command lines as they are typed in
+Filename: ../../../../releases/download/aarch64-r/readline_8.3.3_aarch64.deb
+Size: 293624
+MD5Sum: 7b7dbdbdf836d898458669e3e539a2ff
+SHA1: af80a84dfaeedbb1bdd018e807f117b68dacce99
+SHA256: a0a26cb1853be10a2fc81038b052b4c100e08d87166acaf7205998e06828e564
+SHA512: 4fe8e117f08c754edfdf0216403076408f5fb448496b25e9cf7d2e9b39be7b46cce8642a491d8f2777f9a96179647dd6a3a4f362f7b46e7b1abbae4306de850e
+
+Package: resolv-conf
+Architecture: aarch64
+Installed-Size: 48
+Maintainer: @termux
+Version: 1.3
+Homepage: https://man7.org/linux/man-pages/man5/resolv.conf.5.html
+Description: Resolver configuration file
+Filename: ../../../../releases/download/aarch64-r/resolv-conf_1.3_aarch64.deb
+Size: 1028
+MD5Sum: b5227e6ced2f00e96a6d0384d23ae6ab
+SHA1: 12204fac5eb534b00b8b34482b5338c4dc7f7001
+SHA256: 185c1ed4e6dbc59edac8510a0a75fdd54bf6e5cf8e3ceabee9e4580ee0adfc41
+SHA512: bd755b24ea679b60cb06bd5cfdcaf9635e2ebeb9a5d6cfacf29262d5cf370cf591f4cb253494141a913626af3c36da216a71673da40c5b151cf188b4da9839e0
 
