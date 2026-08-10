@@ -40440,3 +40440,49 @@ SHA1: 44d641a096a30c66a4fa770145ab3664b0989e50
 SHA256: 3f61dd60f8e6d361b24b61eb412615422c4843683e46018b52f1cdcfc2da977f
 SHA512: 1d950472341e0df278d602963b81dfe5aafbf582473382764559c75e3f7dad0299f83784fb334ab5ee1468ab6a37b7db2b018ebf0a5ec91356c044326c406c5f
 
+Package: openjdk-17-source
+Architecture: all
+Installed-Size: 50784
+Maintainer: @termux
+Version: 17.0.19
+Homepage: https://openjdk.java.net
+Description: Source files for openjdk-17
+Filename: ../../../../releases/download/i686-o/openjdk-17-source_17.0.19_all.deb
+Size: 47108124
+MD5Sum: 2f733eb478a8ca14bec66cbf920fe940
+SHA1: 7936406479b79892dc6fcc8707235b17b351a761
+SHA256: 7c9b96f518d206aa88d897fbd051955ca7529e6e7e77147f784f122e508e6c79
+SHA512: 8b032fd6b4ef6959b8a9a49f8538ed66390871e57302f1282010bd0192b1385408175db832f9df1dfe3c04ef002628a14a04de1f81036ad4d5210a0dfc2fb0df
+
+Package: openjdk-17-x
+Architecture: i686
+Installed-Size: 14888
+Maintainer: @termux
+Version: 17.0.19
+Homepage: https://openjdk.java.net
+Depends: freetype, giflib, libandroid-shmem, libjpeg-turbo, libpng, libx11, libxext, libxi, libxrender, libxtst, openjdk-17 (= 17.0.19)
+Description: Portion of openjdk-17 requiring X11 functionality
+Filename: ../../../../releases/download/i686-o/openjdk-17-x_17.0.19_i686.deb
+Size: 12732728
+MD5Sum: 72953ccb5e9fd2fb2c4efdb8d08d1b64
+SHA1: 62f09526575928831a49c6f87f5235787f39ded4
+SHA256: d4316dd9c71c5488dbc6badd816b7811b7b025a9d5377c97de9938e085c32e2b
+SHA512: bc21f18394513f19eda52b1e637960d1e7ae22146d90961cf2987a677790e2a6680d003b92e13ee7945d271d85482eafa56eec05bc09c4f7a26acf5fc5a15566
+
+Package: openjdk-17
+Architecture: i686
+Installed-Size: 213880
+Maintainer: @termux
+Version: 17.0.19
+Homepage: https://openjdk.java.net
+Depends: libandroid-shmem, libandroid-spawn, libiconv, libjpeg-turbo, zlib, littlecms, alsa-plugins
+Recommends: ca-certificates-java, openjdk-17-x, resolv-conf
+Suggests: cups
+Description: Java development kit and runtime
+Filename: ../../../../releases/download/i686-o/openjdk-17_17.0.19_i686.deb
+Size: 94369108
+MD5Sum: aa8558b1ecc20561c1bf2db208c741c8
+SHA1: f627845d4cbc9b5d1e5543ec3733b818fe42d93e
+SHA256: bcb43d28b70cc8fbfb1f3dd76802f4c0cf71ffa2a3abc97b2a47529af9f856e9
+SHA512: 86fe0406d8e01c46a5e04d09b633d08744bd8ecee0b99587da9946e13026e9fb8064f3324331fdc512f02623238a9178842164c59e8c97254b58557f643feadd
+

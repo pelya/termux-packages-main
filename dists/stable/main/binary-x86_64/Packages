@@ -41458,3 +41458,49 @@ SHA1: a44677c45798692b8963bfaa0f53be05f386ad82
 SHA256: 52e08343b8cda46fe42571515b510d5011c59c53fad00ec2ea147190c54aed62
 SHA512: 891aa893ccf0f0cdc743766bb4f4df82460527ee106b66466215d98feb6208be49cdde039cc274cff8df155f156e2814235468a95d23ba85341cc36123d44c29
 
+Package: openjdk-17-source
+Architecture: all
+Installed-Size: 50784
+Maintainer: @termux
+Version: 17.0.19
+Homepage: https://openjdk.java.net
+Description: Source files for openjdk-17
+Filename: ../../../../releases/download/x86_64-o/openjdk-17-source_17.0.19_all.deb
+Size: 47108124
+MD5Sum: 2f733eb478a8ca14bec66cbf920fe940
+SHA1: 7936406479b79892dc6fcc8707235b17b351a761
+SHA256: 7c9b96f518d206aa88d897fbd051955ca7529e6e7e77147f784f122e508e6c79
+SHA512: 8b032fd6b4ef6959b8a9a49f8538ed66390871e57302f1282010bd0192b1385408175db832f9df1dfe3c04ef002628a14a04de1f81036ad4d5210a0dfc2fb0df
+
+Package: openjdk-17-x
+Architecture: x86_64
+Installed-Size: 14964
+Maintainer: @termux
+Version: 17.0.19
+Homepage: https://openjdk.java.net
+Depends: freetype, giflib, libandroid-shmem, libjpeg-turbo, libpng, libx11, libxext, libxi, libxrender, libxtst, openjdk-17 (= 17.0.19)
+Description: Portion of openjdk-17 requiring X11 functionality
+Filename: ../../../../releases/download/x86_64-o/openjdk-17-x_17.0.19_x86_64.deb
+Size: 12802996
+MD5Sum: 856cb3c913a177c8dfd8c1f86ad11903
+SHA1: 852a2dade61417df21a99f711fca1f3cac89e8ef
+SHA256: 08c88093c60d304e4747839566e716a236931d1d4b06c3c4d33b38f9eef44403
+SHA512: 12632a3ad11c1bdc3b2cc1a54d1b670f6726efb6441a9a60faec5f501f493b7c43dcb727fb1bd5ad475f34573ca3d07d55d2cb9eab993c461cf1cad8befca966
+
+Package: openjdk-17
+Architecture: x86_64
+Installed-Size: 219116
+Maintainer: @termux
+Version: 17.0.19
+Homepage: https://openjdk.java.net
+Depends: libandroid-shmem, libandroid-spawn, libiconv, libjpeg-turbo, zlib, littlecms, alsa-plugins
+Recommends: ca-certificates-java, openjdk-17-x, resolv-conf
+Suggests: cups
+Description: Java development kit and runtime
+Filename: ../../../../releases/download/x86_64-o/openjdk-17_17.0.19_x86_64.deb
+Size: 96540200
+MD5Sum: 7caf1049024af590414e5df6e2e50acc
+SHA1: 2db0d8d8ee585d4fde14c87643b338c4c359c52c
+SHA256: a6f60c0ab1fb86e8976e80cc76fc1ee43b5fb4c092d93f25956c7ac8a1829e88
+SHA512: ee877981f041e81764782452abf666fedada442a6ef91751562bd2ecc091e928a12a56242b3827ea89415d8d8aa6c35c1bc5c259b90dfe712be3708daa9680d0
+

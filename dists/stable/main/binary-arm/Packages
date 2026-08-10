@@ -39678,3 +39678,49 @@ SHA1: 1bad12d6c68e58b0d76acb171cfed15686d91180
 SHA256: e18d955f55ed17c2b74dd776fbfb319a442f494d7957970801394778e363ac64
 SHA512: 8a04195f5c281461861d9d7cb21be1d1223aebcaea2e49e1258b793656a3a9604dce1d0152739ed83a212089dcd8d6bd43115cbb8f63e5285423b72faf42392c
 
+Package: openjdk-17-source
+Architecture: all
+Installed-Size: 50784
+Maintainer: @termux
+Version: 17.0.19
+Homepage: https://openjdk.java.net
+Description: Source files for openjdk-17
+Filename: ../../../../releases/download/arm-o/openjdk-17-source_17.0.19_all.deb
+Size: 47108124
+MD5Sum: 2f733eb478a8ca14bec66cbf920fe940
+SHA1: 7936406479b79892dc6fcc8707235b17b351a761
+SHA256: 7c9b96f518d206aa88d897fbd051955ca7529e6e7e77147f784f122e508e6c79
+SHA512: 8b032fd6b4ef6959b8a9a49f8538ed66390871e57302f1282010bd0192b1385408175db832f9df1dfe3c04ef002628a14a04de1f81036ad4d5210a0dfc2fb0df
+
+Package: openjdk-17-x
+Architecture: arm
+Installed-Size: 14040
+Maintainer: @termux
+Version: 17.0.19
+Homepage: https://openjdk.java.net
+Depends: freetype, giflib, libandroid-shmem, libjpeg-turbo, libpng, libx11, libxext, libxi, libxrender, libxtst, openjdk-17 (= 17.0.19)
+Description: Portion of openjdk-17 requiring X11 functionality
+Filename: ../../../../releases/download/arm-o/openjdk-17-x_17.0.19_arm.deb
+Size: 12418296
+MD5Sum: 0c831ece80d685749aa329a9ab51fc30
+SHA1: 8a09730f20e1f1af84adb9e7e4591334433f65f2
+SHA256: fe1bd81960f7dddc99776fb45d267e942b1c31e31cf9616d74727687c6763c5e
+SHA512: 4a18a207c4d4627ea2f9573ea75860745839df4c200ca3ad10efae14f803f0c9354ea08b06f9073d7b6470c48c611e43d5346f44e101804d1f2b30eac46acd83
+
+Package: openjdk-17
+Architecture: arm
+Installed-Size: 207320
+Maintainer: @termux
+Version: 17.0.19
+Homepage: https://openjdk.java.net
+Depends: libandroid-shmem, libandroid-spawn, libiconv, libjpeg-turbo, zlib, littlecms, alsa-plugins
+Recommends: ca-certificates-java, openjdk-17-x, resolv-conf
+Suggests: cups
+Description: Java development kit and runtime
+Filename: ../../../../releases/download/arm-o/openjdk-17_17.0.19_arm.deb
+Size: 92479588
+MD5Sum: a3cae0f26507e27af3515bdeec256f25
+SHA1: 443021e8732e7b80714a86d4f7341f6e20a0d04d
+SHA256: eac0971e44d96ee15adc66996b306eeb25777483f374f3b4050bc341abae62ba
+SHA512: b1e09934189e56a48fd768deb9be8347d970570b29e50079b2ab178e9b58eeef06f9b9382da6c36ed97185d643536e7c27dca8350f9935ba8aa90ccf08c0073c
+

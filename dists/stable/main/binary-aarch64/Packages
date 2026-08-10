@@ -41489,3 +41489,49 @@ SHA1: 1038e37456bcb4ead03ea2cada95cb1a66adb0b9
 SHA256: e545e1b71dd5c792003b737c078b23401e6c7291d7f22081e27a890aa4d5dd85
 SHA512: b03c5c8dde4620e02b55649bd7efc7c218b40d96c75766c7f253d72a8b4a6b3ea66f1af8c4ec3fefa14b60b8fd0b529ede42d8ab95f3b4da0211f1ece2924ce8
 
+Package: openjdk-17-source
+Architecture: all
+Installed-Size: 50784
+Maintainer: @termux
+Version: 17.0.19
+Homepage: https://openjdk.java.net
+Description: Source files for openjdk-17
+Filename: ../../../../releases/download/aarch64-o/openjdk-17-source_17.0.19_all.deb
+Size: 47108124
+MD5Sum: 2f733eb478a8ca14bec66cbf920fe940
+SHA1: 7936406479b79892dc6fcc8707235b17b351a761
+SHA256: 7c9b96f518d206aa88d897fbd051955ca7529e6e7e77147f784f122e508e6c79
+SHA512: 8b032fd6b4ef6959b8a9a49f8538ed66390871e57302f1282010bd0192b1385408175db832f9df1dfe3c04ef002628a14a04de1f81036ad4d5210a0dfc2fb0df
+
+Package: openjdk-17-x
+Architecture: aarch64
+Installed-Size: 14852
+Maintainer: @termux
+Version: 17.0.19
+Homepage: https://openjdk.java.net
+Depends: freetype, giflib, libandroid-shmem, libjpeg-turbo, libpng, libx11, libxext, libxi, libxrender, libxtst, openjdk-17 (= 17.0.19)
+Description: Portion of openjdk-17 requiring X11 functionality
+Filename: ../../../../releases/download/aarch64-o/openjdk-17-x_17.0.19_aarch64.deb
+Size: 12595360
+MD5Sum: 7508e2fb91dc599f10660c73aa139de3
+SHA1: 2508b54bf995306bbe6fd936af10e6c25acc0d0c
+SHA256: e9f7781eb2301274066f882be7ff8e871bc7f6d27d360f8f932d923c9e3a1142
+SHA512: 027de5fc3f284f27de6432c1ba6bc4a434a685573ace1f3864e5e935703b8132d3cedf1f9ffed9e4b67a4bd92f0da30fa3a04fd1e72cc71319fc4a314981e330
+
+Package: openjdk-17
+Architecture: aarch64
+Installed-Size: 218004
+Maintainer: @termux
+Version: 17.0.19
+Homepage: https://openjdk.java.net
+Depends: libandroid-shmem, libandroid-spawn, libiconv, libjpeg-turbo, zlib, littlecms, alsa-plugins
+Recommends: ca-certificates-java, openjdk-17-x, resolv-conf
+Suggests: cups
+Description: Java development kit and runtime
+Filename: ../../../../releases/download/aarch64-o/openjdk-17_17.0.19_aarch64.deb
+Size: 96287552
+MD5Sum: 472d42ace65b1e6c9d4a54207cc77096
+SHA1: cd4b4a9abdfdde4e7df3f8eff15df08765165b5e
+SHA256: 34bc45c720e0d74a9cb26ada43be2c7753095e70f4953eb98e9eb9b3b669495c
+SHA512: 196b19b3c548aaba70fac04c7644d25242661f24164070ed0f2cea99c7fa950aa3813ef73b64847c0fbaf3e551961ba0453f8019e1c52adb47c70a1a887ae943
+
