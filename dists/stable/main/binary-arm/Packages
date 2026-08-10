@@ -39842,3 +39842,18 @@ SHA1: f34c4c751f43831cf8aae24427f73cba08c633a5
 SHA256: 04f333d4ae29ed57f8ff3db24800d2fff386d1f642b94753ba790542cfcfa7a4
 SHA512: 7b7c89e689247ae5f7c8e0a8db34ce7305c16ec4766b7f11ff169070c31deabca7a50cb1679d2a750057ceb448b3714cdf4125d9ff8517c80ba2848dbf5859a0
 
+Package: ccextractor
+Architecture: arm
+Installed-Size: 492
+Maintainer: @termux
+Version: 0.94-6
+Homepage: https://ccextractor.org/
+Depends: freetype, gpac, libiconv, libmd, libpng, libprotobuf-c, utf8proc
+Description: A tool used to produce subtitles for TV recordings
+Filename: ../../../../releases/download/arm-c/ccextractor_0.94-6_arm.deb
+Size: 218736
+MD5Sum: 28a5f38d45f4fc30f769731a0ed42453
+SHA1: 7c23e401f4bd16a34a5da265a3bd9178804ed16f
+SHA256: 21bcbb46aec33698d0601ee841b724a542743f1bd628574d3d201aa4ffa095e1
+SHA512: f8ae0520a9f21c6dcfda85e989bef02ee02d190cfb8f70389cf8650cb257c438ed1618dc6c59a53a61aeb71cbe9d25952e7c51a158f568125325a10537924dbd
+

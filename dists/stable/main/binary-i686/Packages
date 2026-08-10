@@ -40604,3 +40604,18 @@ SHA1: 109c21666d9bfa15a7509c52e9ae82b5ca42d454
 SHA256: 5472c3ce9992aa549add4f66a1589648f086951a8474b2a0ee3a30de5e791617
 SHA512: a2bb43cb5032be51cd73af74f8c7e4448a419962ddd7bea547ffd2e6390c1d71a16daf13aa31d0120c9ae92b71edf5c3e41aeb5cf4e8c23294ecad24901662f6
 
+Package: ccextractor
+Architecture: i686
+Installed-Size: 656
+Maintainer: @termux
+Version: 0.94-6
+Homepage: https://ccextractor.org/
+Depends: freetype, gpac, libiconv, libmd, libpng, libprotobuf-c, utf8proc
+Description: A tool used to produce subtitles for TV recordings
+Filename: ../../../../releases/download/i686-c/ccextractor_0.94-6_i686.deb
+Size: 239384
+MD5Sum: c7fa2b042b494ca18d8f4f3e06112aab
+SHA1: c57709fb25f1ca658c23b6783de9121a9804606c
+SHA256: 16239ff81e1d4938c83eee59d1ad88174862f6cd7eeb49415a9f0ae104ebfd7d
+SHA512: 77b81968acb94325af6dfa920c45b8c4efec5c9fc0fabb3a7c339b50ab7687158d2d888537e057e141adac9f71ce86985a2f67e397ef4aebfe49ac3f3f2df759
+
