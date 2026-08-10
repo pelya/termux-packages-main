@@ -41396,3 +41396,35 @@ SHA1: 14b353efaab173565d3196ba50ed6f91f858b02e
 SHA256: 560c3e2d051e3938ee4b11f4b9ba11f54b4d7bebb73bdc35f704e51752c31a1b
 SHA512: f8d5e3b95aa4579fb0078779191049ee84a3087336358279bb0119f5e1a841b679c8a1418de12b462f8d78b81f40dd80278bc7bce8b50297e79ce183f9afbc90
 
+Package: libcoap-static
+Architecture: aarch64
+Installed-Size: 756
+Maintainer: @termux
+Version: 4.3.5b
+Homepage: https://libcoap.net/
+Depends: libcoap (= 4.3.5b)
+Description: Static libraries for libcoap
+Filename: ../../../../releases/download/aarch64-libc/libcoap-static_4.3.5b_aarch64.deb
+Size: 160912
+MD5Sum: e447e8b9a7ea40842df556807cc57328
+SHA1: 9b771c163e6f32f17e53a0850098feeb54848ddb
+SHA256: 59679ae6173c0b54aaeac93d327e532073fb0d26bd65924f7c78fa1c4ed0b3be
+SHA512: fc039fd875ce2f0b68fc2c2d6515d2fc503ce0f6863013dd7a4729a52f22a59f38143b9c2d9403d67f3316e8fa2ffdb0a01cd6f5aa3932f6e6d3a2fe0a1c5c1a
+
+Package: libcoap
+Architecture: aarch64
+Installed-Size: 2612
+Maintainer: @termux
+Version: 4.3.5b
+Homepage: https://libcoap.net/
+Breaks: libcoap-dev
+Depends: openssl
+Replaces: libcoap-dev
+Description: Implementation of CoAP, a lightweight protocol for resource constrained devices
+Filename: ../../../../releases/download/aarch64-libc/libcoap_4.3.5b_aarch64.deb
+Size: 384668
+MD5Sum: bc1ddbbac4647b978286e71be10aae0e
+SHA1: 7086d330bd88968d2077c6d0356d79aeea69c924
+SHA256: f2e542cf9d8f23776e2aa66e65a9f3c3deb19e82d5ae2b218a023dfc56456f84
+SHA512: 98aa280b56b1586b7687fd3e1e33a95876672d5541457d34bd244dcf9d4d884d370927a03aa91fca849ec13edb647c7fdb973b08ef55dcf3d75c45a96720e86d
+
