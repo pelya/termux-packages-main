@@ -41682,3 +41682,17 @@ SHA1: 4bfb6606b3572c06d96cfd815ca9023e463ff8b4
 SHA256: 2317224284d1b19d5abb3bd52c950472d3e3fffb0c054f8701b5c954253a095f
 SHA512: c4be1e9cfdf2e3c6a21c8d75386b1cd0e7583789a946a3104db6f975b75cd0fe5c23a845f2c88f2cc10f3ab85c4216caaccb93f8c946e217c19ab228732ebba9
 
+Package: pdfcpu
+Architecture: x86_64
+Installed-Size: 14328
+Maintainer: @termux
+Version: 0.13.0
+Homepage: https://pdfcpu.io
+Description: A PDF processor written in Go
+Filename: ../../../../releases/download/x86_64-p/pdfcpu_0.13.0_x86_64.deb
+Size: 4152044
+MD5Sum: 03b2226c10c346d3631aacd3155f4a4d
+SHA1: eed4993f2832830849a87789f2d40be3cf23630a
+SHA256: 494d7d136b37d88a2c60a1f153a5312e43cd46c13a5c5e2771af65f939a3c191
+SHA512: ccb8d8247e5858b92420fb2c6b6ea3ec0874a8840b18066a74cc3b821bfc356911c80d84e4371824fc2b076a9bd18050f3a668399b9d9d6b30a4076d967dd44c
+
