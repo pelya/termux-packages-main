@@ -39617,3 +39617,18 @@ SHA1: 13b3c5e4f7ebbfaa124f081672fdbd9c215f6611
 SHA256: 14dff0738fed7a54c5e5759d69cce9c41ba770f73e33eaa085a4d1ca057b8543
 SHA512: 1e7e287cd2cf4733617536f9714cc38c01ef3c186c64e74d7e20d6943221ff605667fe4ba7953211175e5eddd8fc2b381601324e2d8a230b7102e284222b475b
 
+Package: cadaver
+Architecture: arm
+Installed-Size: 128
+Maintainer: @termux
+Version: 0.28
+Homepage: https://notroj.github.io/cadaver/
+Depends: libiconv, libneon, readline
+Description: A command-line WebDAV client for Unix
+Filename: ../../../../releases/download/arm-c/cadaver_0.28_arm.deb
+Size: 33604
+MD5Sum: a0c5ee02448ab4fee0fcdbdce115a6fe
+SHA1: 24782ffca0d6ce1a0e285278f712d4f2cc653056
+SHA256: 5271484dd05a43489af305fdf0173481f8c14dd5467824b6f91cef49e5f10680
+SHA512: 68a9d8b7eefa163993eaa317f5a20c973b7755b5728049fcc93a9aeb48a296f784b6370c49496853de2f50390439090a4fd3bff5c125e1c391cb38b11882bc08
+
