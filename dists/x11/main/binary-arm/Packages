@@ -14718,3 +14718,18 @@ SHA1: 03bc06cd7366d25ef1e727fc3b15327f8f42a003
 SHA256: ef3a34b052a23565712779648149463dfe8a864805fabc27c6ac361b52398265
 SHA512: 091366a396410dbc7b158199d2c77a0bf47b483cfb0df1642461ce1730648e593bf807e21a973ff68e5ed5f38747a5ea98de352a7d79991ebb24cf5cd3814ec6
 
+Package: wlr-randr
+Architecture: arm
+Installed-Size: 60
+Maintainer: @JesusChapman <jesuschapmandev@outlook.com>
+Version: 0.5.0-1
+Homepage: https://gitlab.freedesktop.org/emersion/wlr-randr
+Depends: libwayland
+Description: Utility to manage outputs of a Wayland compositor
+Filename: ../../../../releases/download/arm-w/wlr-randr_0.5.0-1_arm.deb
+Size: 8336
+MD5Sum: c6476a4c07af99c9f127d3ce8a45b2ee
+SHA1: fe6e9fb76e44b2b5124d10a7708185d6966a9d7f
+SHA256: 89b35e80fd1f2e065eb5c7c4610bc3a81e7ffcf828ac40ceb5aa7bce7b69c2e1
+SHA512: 2061a53a6e73b9fc5e1696b9f105ad745760f598afc672cd6d73da3da603a5e815ec7485f8e276063170a70a1525727eecfa439901afce0c2149b31c60a01a87
+
