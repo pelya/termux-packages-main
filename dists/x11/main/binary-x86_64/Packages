@@ -15070,3 +15070,18 @@ SHA1: 62da53e7dc1ab821fcb4106e3c98ff47753d7360
 SHA256: 458f24421cffd3594c1d0feb6ccd57506f51c9174510efcd0b7922ef4f771abf
 SHA512: 2e3978f9ae9589daa8fef83ca73fe41b832584d8c2812945b83392b556448472f3543bf71d8831ce9850da7b94a65b5e55b75e4c456a97304f66c53b436a43da
 
+Package: mate
+Architecture: all
+Installed-Size: 4
+Maintainer: @termux
+Version: 1.28.0
+Homepage: https://mate-desktop.org/
+Depends: caja, marco, mate-backgrounds, mate-control-center, mate-desktop, mate-icon-theme, mate-menus, mate-notification-daemon, mate-panel, mate-session-manager, mate-settings-daemon, mate-themes
+Description: A metapackage that installs all parts of the MATE desktop environment
+Filename: ../../../../releases/download/x86_64-m/mate_1.28.0_all.deb
+Size: 808
+MD5Sum: 3aceeb338f5b62297c829c686482f2e1
+SHA1: ccc5fb4c8ebe1808dc60f01b09f7edce60bc5602
+SHA256: 81880887930fdf32345df2ac9618d78234a99642b8c0ae296f47d8ab59e0de7e
+SHA512: 0d69b44eea1c9026a2d85e947548e5657b5c9836027e967067559ac952c662f13ade518720d6d8b76a673f4620f10849c1b2ef9dd9d7b22177c16fe127842e8e
+
