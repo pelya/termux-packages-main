@@ -40229,3 +40229,18 @@ SHA1: b84a5d9bb889efe6e4494c8228b8a4dd048471b5
 SHA256: c81ef40b8760d342f390c827756564c371e908320482247d0a9a65fd96f9406a
 SHA512: 26fe696e20efe51bf311ced247e5713a278633057465aa654e2ce7e5b3e87be5377c4b775f6a885ea434d4c1cc3f555ddb670e9d8b1cea8395d45a6ff569791c
 
+Package: rust-analyzer
+Architecture: i686
+Installed-Size: 41180
+Maintainer: @termux
+Version: 20260713
+Homepage: https://rust-analyzer.github.io/
+Depends: rust-src
+Description: A Rust compiler front-end for IDEs
+Filename: ../../../../releases/download/i686-r/rust-analyzer_20260713_i686.deb
+Size: 10295408
+MD5Sum: 635d153e22e57f41832e75a5f22d1760
+SHA1: eb32aec6db0dd3e543c732d67f036544cbf409cd
+SHA256: e1a68107b75b220ee37085678119aa8c95e4ec426a053c71b6fb1497fd766972
+SHA512: f9959ebc7391b711789da5261bdf322bab12b4c83957f86ab3957fea9b9f6802520f0173aa72e3a0f0da3d88c64529c7a537c266407ed91e9f0ffe9fc383e7d9
+
