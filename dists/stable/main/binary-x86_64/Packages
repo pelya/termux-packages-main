@@ -41322,3 +41322,17 @@ SHA1: f05e4cdb244adbcd62a5c1b89a3a425741ba4427
 SHA256: 0b86737ba92b661736ab0b96135cf67c8e06be226881413934e765c0f27ab746
 SHA512: 4e158169cbf08844b93a379b399e9023088dda7a6d38b142c525a4a29b63df964c4d97ac27303b232c802a8774306ee8d4d4b89afc87e8c7ce4f103f1604881e
 
+Package: tdl
+Architecture: x86_64
+Installed-Size: 55004
+Maintainer: @termux
+Version: 0.20.3
+Homepage: https://docs.iyear.me/tdl/
+Description: Telegram downloader/tools written in Golang
+Filename: ../../../../releases/download/x86_64-t/tdl_0.20.3_x86_64.deb
+Size: 10092576
+MD5Sum: 2810b48761b20b8f401e53f02fc1df9a
+SHA1: 154641ac5e31e15b6c0221074cbc57dcb1630724
+SHA256: 798c113eb3c6cf8137626a836c3cf25741362c34c542c5dde019d07bb532b832
+SHA512: e210054482bdada24df44cc0c22ffacca195e9d59d22f24d548df45895ffb282e7238b38df404f97b7c77c8aa70655ba728395375fab3545b2de38653f94e96c
+
