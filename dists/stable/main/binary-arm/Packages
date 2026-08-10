@@ -39872,3 +39872,33 @@ SHA1: b2067a4bee923583076aa2fa00a9dbcd37c9bb2c
 SHA256: 6954fe9f94d9b6c25479e2acf0f25d97b233d29a99a72b86ead06453bda4e7a3
 SHA512: f7c2f91c94f35cb873ed1f9cd5f1a6e6f4edc8735cb9e8274051ab8d3f115f177647d695130823ac40f49b42a2a46af763c98c3a0c72f363be7c965021989760
 
+Package: recode-static
+Architecture: arm
+Installed-Size: 956
+Maintainer: @termux
+Version: 3.7.15-1
+Homepage: https://github.com/pinard/Recode
+Depends: recode (= 3.7.15-1)
+Description: Static libraries for recode
+Filename: ../../../../releases/download/arm-r/recode-static_3.7.15-1_arm.deb
+Size: 190260
+MD5Sum: 50fddfc8c29f8df876737992fa0f0fb1
+SHA1: f9996489d49345dee2a60a0f531497b2d27e9955
+SHA256: 77d6252efdfb8c11b29af4acbfcb153116e26f84b21edb648a1f58ef6e8c1114
+SHA512: 410320c9beccc7f26d1d72aaf1183c49a3ae01d166491bd6c19b37eacbc62a1fd4fa057e2180a453a843e10d1064ea6d9599fc4d8131f12496db6b1f04256eec
+
+Package: recode
+Architecture: arm
+Installed-Size: 1108
+Maintainer: @termux
+Version: 3.7.15-1
+Homepage: https://github.com/pinard/Recode
+Depends: libiconv
+Description: Charset converter tool and library
+Filename: ../../../../releases/download/arm-r/recode_3.7.15-1_arm.deb
+Size: 309680
+MD5Sum: 0b0613cda0e964a95181775c13718a82
+SHA1: 17d6e3384e2a95c5bfeb7f9490a14a232bf11df9
+SHA256: 2f2bd138d1d1eb6c88465b88750706f4965ba688bd62a97135d2741cde5b78ce
+SHA512: 6ab7a613ed2129300150c51ebd94973d5bf8f8b5f15ed8b154021ea62f0aef5a6af94c3a140d566f9c96d08a23186e7e816ddfc800c6b7ac71a022dec38ca05b
+

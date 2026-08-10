@@ -41652,3 +41652,33 @@ SHA1: b0554f813edb1440c30e4f55f9bdc1be66c68f77
 SHA256: 8e416b374fb745a53036d9d009616c24c63c6886e4d017baaf967caa12dafd79
 SHA512: 4a090745ba165bad880c65ecf1345416577acb6e01bdb155c5e6973636c3246936e1f1a0f4b1acf8ce2a5de1aeb99d149889eb4625d1273e027c669f75e98cd8
 
+Package: recode-static
+Architecture: x86_64
+Installed-Size: 1868
+Maintainer: @termux
+Version: 3.7.15-1
+Homepage: https://github.com/pinard/Recode
+Depends: recode (= 3.7.15-1)
+Description: Static libraries for recode
+Filename: ../../../../releases/download/x86_64-r/recode-static_3.7.15-1_x86_64.deb
+Size: 245780
+MD5Sum: a826e2ab6eb1df18e6d73bbb403dbb87
+SHA1: ca47138a996e1b295f96af35d1b0d90986ba752f
+SHA256: d9bfdbdbd7b022114f74102341da9a8f8e171c275bed3b5eceb04a3e609335c6
+SHA512: 4ba496f77d91816b8e7d756d418e50f4c3e0d4465b94017590c1894e4ae96dd4393e5e37b2162ce83ed2b557ef3308d5648bfff40fdfd9d7c4f9eb3cd84dc555
+
+Package: recode
+Architecture: x86_64
+Installed-Size: 1560
+Maintainer: @termux
+Version: 3.7.15-1
+Homepage: https://github.com/pinard/Recode
+Depends: libiconv
+Description: Charset converter tool and library
+Filename: ../../../../releases/download/x86_64-r/recode_3.7.15-1_x86_64.deb
+Size: 329916
+MD5Sum: 0db84382e4eeb224d85d4570efe6677b
+SHA1: 4bfb6606b3572c06d96cfd815ca9023e463ff8b4
+SHA256: 2317224284d1b19d5abb3bd52c950472d3e3fffb0c054f8701b5c954253a095f
+SHA512: c4be1e9cfdf2e3c6a21c8d75386b1cd0e7583789a946a3104db6f975b75cd0fe5c23a845f2c88f2cc10f3ab85c4216caaccb93f8c946e217c19ab228732ebba9
+
