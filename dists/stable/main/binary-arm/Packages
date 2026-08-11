@@ -40138,3 +40138,18 @@ SHA1: ea2298bd3d7d2d7a65bcad7ae87f860d171080aa
 SHA256: 6cabb9f6dcd7618b143f7b00d71382b00419e5f199d4309c263fa6bc43e7d42f
 SHA512: e3799fecc40278644df3c178f0d92a3d7489f02152549a359c8e4cd44c6d848bf310bf89369819c0b480fce3f1e4f4bfba0fa98ceb88f1d02c87a24867db81dc
 
+Package: feroxbuster
+Architecture: arm
+Installed-Size: 4320
+Maintainer: @termux
+Version: 2.13.1
+Homepage: https://github.com/epi052/feroxbuster
+Depends: openssl
+Description: A fast, simple, recursive content discovery tool written in Rust
+Filename: ../../../../releases/download/arm-f/feroxbuster_2.13.1_arm.deb
+Size: 1885396
+MD5Sum: 3c8072f300faa3ee831262e7ba6ff78c
+SHA1: b1bfaa769f3ea3db341f53aca9db2c89b5837ac8
+SHA256: 42796184c3b9d58f1650b1700c48f9be128cc4aafe330f909e1d09173f439b46
+SHA512: b8f83d5a7ad4cfb2aa0589e599fd1a071512ae2a8c4d75dc9800ce927bf36202121371be9c2d5545088e005e82304f108e995517483db1dbea2eba3beea79a89
+
