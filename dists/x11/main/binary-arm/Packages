@@ -14957,3 +14957,18 @@ SHA1: 4804a7138bf6b179910c535724d3c990be8af02f
 SHA256: cec570a74f1a5cf3c8f3c07a774e8c492e06efc2ba58fe2b750236c948f52efe
 SHA512: 03f7ee2fb4a10832ef60d57dcea5e291a38f81675064294e920588d7e0697f90c0670cdd59cca9adb6e7787ac7c19d645aba0f1d3f4f7e3a1b8a17eefec84c7e
 
+Package: plasma-systemmonitor
+Architecture: arm
+Installed-Size: 1688
+Maintainer: @termux
+Version: 6.7.2
+Homepage: https://invent.kde.org/plasma/plasma-systemmonitor
+Depends: kf6-kconfig, kf6-kcoreaddons, kf6-kcrash, kf6-kdbusaddons, kf6-kdeclarative, kf6-kglobalaccel, kf6-ki18n, kf6-kiconthemes, kf6-kio, kf6-kirigami, kf6-kitemmodels, kf6-knewstuff, kf6-kquickcharts, kf6-kservice, kf6-kwindowsystem, kirigami-addons, ksystemstats, libc++, libksysguard, qt6-qtbase, qt6-qtdeclarative
+Description: An interface for monitoring system sensors, process information and other system resources
+Filename: ../../../../releases/download/arm-p/plasma-systemmonitor_6.7.2_arm.deb
+Size: 293960
+MD5Sum: e1e14a60e8401e30c309d48784d3d744
+SHA1: 87c82488b06a3758b6e99065200e2bcdfbfd942f
+SHA256: dee4a9896787f55ec2d34089f4d3e0b6f6ac91ddf264d3d4664a892047aa3567
+SHA512: 841d2eb79ee3b3b6b10a6b9d4db9cdf9b953e1c28bed071dfdd7e94a5911e04472ca06dbfcf1cffeed7fa81ff7ecf25b37d4c35c044d201c06146e5e11d66e02
+
