@@ -41829,3 +41829,18 @@ SHA1: 5babe7dc40b34c80894423a3d8c401203cf5517d
 SHA256: b17f26abbd231241da7b126cd92bc8c9f69539bf88aa90b436408421f89ecd5d
 SHA512: 126ce67a25c8132d143b3c3736383dce262915317d20eca99fea157812a4dafe3e7521fd20458a1344b47c216d0ba7a9a3aae3b2718050d6643d7988bc69a960
 
+Package: ddrescue
+Architecture: x86_64
+Installed-Size: 388
+Maintainer: @termux
+Version: 1.30
+Homepage: https://www.gnu.org/software/ddrescue/
+Depends: libc++
+Description: GNU data recovery tool
+Filename: ../../../../releases/download/x86_64-d/ddrescue_1.30_x86_64.deb
+Size: 104612
+MD5Sum: d9e4e963e85607cb80509d0c8880bb3a
+SHA1: cd2bdd02774e2fb30cfa58621c96f7b8a9937376
+SHA256: 295395ed1be8b456347809be118ed752e324f3bbb8b9454f714e16b1fc7735c5
+SHA512: a51dbc32d304e0b1ec1c256acafab6e831870523323793ec9bb5a76edcc7a7e83929a4e00fbff5f0cf85aac505e71273673e378714e0a882bb9c7abdf6c421ff
+

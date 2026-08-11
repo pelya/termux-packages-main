@@ -40811,3 +40811,18 @@ SHA1: c5bc1a3e5e39b0825f46b26a78baace125849b85
 SHA256: 920bb3598ab104a5ebd564edf3f6a6ec91edda4379eee8697c839fb5d5fe93f8
 SHA512: 9dc7796d8f41f77dd5af075b68ff8ff10913dcd9ce08dfb7ee02fd8c00a064eb1f9e17ff0e5b6ec8a01d8cb242fe76de7aa5c591013c8405d5fe53c46f2fb1b1
 
+Package: ddrescue
+Architecture: i686
+Installed-Size: 408
+Maintainer: @termux
+Version: 1.30
+Homepage: https://www.gnu.org/software/ddrescue/
+Depends: libc++
+Description: GNU data recovery tool
+Filename: ../../../../releases/download/i686-d/ddrescue_1.30_i686.deb
+Size: 114864
+MD5Sum: e60339f924e938bd42f78f22f7b0ae63
+SHA1: 00b12746c27f8e936e6479ef7cb0dcabdf82fa1d
+SHA256: eb5439d8d16bb0142e3b13be194e2ec8afdef72eb6f5d2954131ff956ee61184
+SHA512: a2f96d9ed0be6a7937035e6cbbf1778afe9ebd7327b7522b5e5c284a2820d4ec12481e52a160f10f5e514322dbe5c6948ed5e094634dc7dfdf484ebbdd756d35
+
