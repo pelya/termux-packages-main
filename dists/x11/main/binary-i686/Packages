@@ -14807,3 +14807,18 @@ SHA1: ab736e336f3061170144a5ef722ec1d4284639e5
 SHA256: 1e83109e7a77e5b9e64403ff60d6ff48b7765910178e791cd8407f9f003aa4e9
 SHA512: 3950c35288064f834cac80112cd4826ac2e51cf0b6895a43f283580ce9e3f77dfbc6555230b14cf12e1973f66283cb773cc42a81692fbba5a49471b32ae73ef5
 
+Package: yacreader
+Architecture: i686
+Installed-Size: 8244
+Maintainer: @tke918
+Version: 10.1.0
+Homepage: https://www.yacreader.com
+Depends: libarchive, libc++, poppler, poppler-qt, qt6-qt5compat, qt6-qtbase, qt6-qtdeclarative, qt6-qtimageformats, qt6-qtmultimedia, qt6-qtspeech, qt6-qtsvg
+Description: Comic reader and comic library manager
+Filename: ../../../../releases/download/i686-y/yacreader_10.1.0_i686.deb
+Size: 1879724
+MD5Sum: c60d1bdf1665dcb18496c85ee60ac340
+SHA1: a42127597b0a11589496d87d6de8507157daedc3
+SHA256: 56eb04674d4aabf7c9e3aefa3e73b1e9a5793a413779b3f22f430a2049d3da94
+SHA512: 93821e1aca8d6c491af131ecbca8643d6d4031bc5ce8d7099a3a5eb088c4dcaa3cc7e8a59ba87e0ee983b785c534ba02de32ac6b37f0f57b41988a2e1587be4f
+
