@@ -40168,3 +40168,18 @@ SHA1: 147f6df2e7fc7252624be144c21ffb450c2b23d6
 SHA256: 5a65cafe8dbfe05d25be1a568022d6455f1fa93efd6ff63cc28ebeee2abd977d
 SHA512: 66307b23d4d6d67c4e3a512c630e7f7c64258f8f3cc45867c8d7a49d647368f6687cb50aa347168d87b0ec0d8f6d4104b73383d7a131535b57885fda4e47a831
 
+Package: dex2jar
+Architecture: all
+Installed-Size: 20324
+Maintainer: @termux
+Version: 2.4-1
+Homepage: https://github.com/pxb1988/dex2jar
+Depends: openjdk-21
+Description: Tools to work with android .dex and java .class files
+Filename: ../../../../releases/download/arm-d/dex2jar_2.4-1_all.deb
+Size: 18736792
+MD5Sum: e1bde7de011a9beb6ef19cc263e7da7e
+SHA1: 367f84f799c32d71082f60ce3218ad53fe6fdd7c
+SHA256: e21ba55f3a11a80dc760285a26dffa9fd5c9dc47eef74a715429af5f8d722907
+SHA512: 8aeb9ac46a2b113945ae98ef6fafeb7671489721b149d58ee402a48315ff75526834aad9c1b7d45019da797fd302372b7c95373d209704b79d443a83be42857e
+
