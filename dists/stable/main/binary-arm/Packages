@@ -40064,3 +40064,17 @@ SHA1: 1fbf9497935e50503c0e8205a54be524115ad730
 SHA256: 1074c8dd7543fe2a1ae58d931baecf8deb973e45d6c94f0b9047e39438cb68a8
 SHA512: f5ca84632d9f6a5d869bd2824dc46459bc9b28fb50dd719c95715017fd03bc310aa57a7ac0c9aecba435153e1676f6b0b0a2135b4e975292cdd9ba8c9061eba3
 
+Package: pwgen
+Architecture: arm
+Installed-Size: 72
+Maintainer: @termux
+Version: 2.08-2
+Homepage: http://pwgen.sourceforge.net/
+Description: Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords
+Filename: ../../../../releases/download/arm-p/pwgen_2.08-2_arm.deb
+Size: 11308
+MD5Sum: 6e52bfbac9bc35c248e127cddf4ed647
+SHA1: fc9e9091c85ca7be4f8aa5f3ed5b4537516d0d93
+SHA256: 5dbba5eb5bb947843e5000956cf34c3181dcf1bab61cd06791079458a74b6214
+SHA512: 4931081f2c23570a1c8d3caa22c048bd206d1918195c638fe2a356d8e3e6a59433d61fc415e33521e9c420fb39b3379278d115ff5b0eb32adc5e9020bc321da0
+

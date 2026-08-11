@@ -40826,3 +40826,17 @@ SHA1: 00b12746c27f8e936e6479ef7cb0dcabdf82fa1d
 SHA256: eb5439d8d16bb0142e3b13be194e2ec8afdef72eb6f5d2954131ff956ee61184
 SHA512: a2f96d9ed0be6a7937035e6cbbf1778afe9ebd7327b7522b5e5c284a2820d4ec12481e52a160f10f5e514322dbe5c6948ed5e094634dc7dfdf484ebbdd756d35
 
+Package: pwgen
+Architecture: i686
+Installed-Size: 72
+Maintainer: @termux
+Version: 2.08-2
+Homepage: http://pwgen.sourceforge.net/
+Description: Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords
+Filename: ../../../../releases/download/i686-p/pwgen_2.08-2_i686.deb
+Size: 10724
+MD5Sum: 9a04ec0471a74e0430f95571c5345576
+SHA1: 76572ed0dfbf1532243e7abc3e9eb54641a8a333
+SHA256: c29393372b24c417a919b904e780943192673ccd636f492b8965c2ab0a07b2ae
+SHA512: 9f1ba546911e9d949e93d89bd23ff75ca60285136591db517837ce537cabf2256e107fff98cb690874506874b3b2a3c3684133dff69b5c1cdf7d207f878e4021
+
