@@ -15278,3 +15278,18 @@ SHA1: e5d21dee9f1f9557a8d4bd0eb39a6f1ceffef4cd
 SHA256: cd20a4e49c8b4d808c7b6ed4492094cd9ddd2715dac0bad564722cc02f3bdebb
 SHA512: 9aaf268f5433dcc02330f066f419ebdf789ae18b36c1da3026463f07ab2efaab6e8a256c08ace892b06b899fff58bac5de489919a43d202b4ffcd80f4b4aea06
 
+Package: pwsafe
+Architecture: x86_64
+Installed-Size: 20872
+Maintainer: @termux
+Version: 3.72.1
+Homepage: https://pwsafe.org/
+Depends: file, libqrencode, wxwidgets, xerces-c
+Description: Popular secure and convenient password manager
+Filename: ../../../../releases/download/x86_64-p/pwsafe_3.72.1_x86_64.deb
+Size: 14660752
+MD5Sum: 58f46e6440f079bc9bd98c5ebc6b2b7c
+SHA1: 3351108fd0ee12fb2e622ec9c1d5c27d98ba162a
+SHA256: 48c30a09597ff278f386d759181752537dba60cffbfd92e83e2d4f4ef7f3f2a2
+SHA512: ce72a31cbbb4dde61c0e8eea5f60313f2d11a4b66ff613b8f426c35ad4b76b222bde476ad2c78da0dc5015f411bf3b9894577c27eb9cf1b65ebf13e9b834ee85
+
