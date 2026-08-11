@@ -41904,3 +41904,18 @@ SHA1: faf52e61b92ed9e36ab5066c3d6c3ffd0171172a
 SHA256: e93f6f12d5a1cefd962dce687c9fc3095ed7afcd32ec82c60ea60215035eb02b
 SHA512: 70c2711f2fd52461cbac5b0dce1b149b625a923d85a5700d2f428b77e9ac0c2ca64a104f29ca0ee11d7b17ddd07931136e1d1e400dd3f981f26c6b7a365eeab9
 
+Package: n2n
+Architecture: aarch64
+Installed-Size: 664
+Maintainer: @termux
+Version: 3.1.1-1
+Homepage: https://github.com/ntop/n2n
+Depends: libcap, libpcap, openssl, zstd
+Description: A light VPN software
+Filename: ../../../../releases/download/aarch64-n/n2n_3.1.1-1_aarch64.deb
+Size: 126888
+MD5Sum: 403184fd9e99c562e69ceef8de67ab45
+SHA1: d5d51082aeca8edaf5c785ca02b401e802a63904
+SHA256: 2f3448bc0f443b3dcd74b2c8aaaad0f77a73f2402b12ea01ae168635a2239793
+SHA512: 9dcdfade23ec7dedd828d344f83ee58cbb147acae37dcb8d57c5fe03c6bb235ca4db0d89e89067171cc0c1eb799cc67192f30f15756c6505ab8ed124409c5ce5
+
