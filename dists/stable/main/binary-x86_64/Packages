@@ -41888,3 +41888,18 @@ SHA1: ac9095a1e2cd0bbe772a2b39fd2319cd9fbaf24d
 SHA256: dd1e825946824654be6c5c39053ea3858b31202d690234c65aec8e0a58c880b6
 SHA512: a0ae37e57447d0bbf582711901e40b8d4108e17d7cfef6d9467de7d741886c47760462a234ff78a3c00a50d153259061f279df5e29e17a53be47674230da8720
 
+Package: neofetch
+Architecture: all
+Installed-Size: 396
+Maintainer: @termux
+Version: 7.1.0-1
+Homepage: https://github.com/dylanaraps/neofetch
+Depends: bash
+Description: Simple system information script
+Filename: ../../../../releases/download/x86_64-n/neofetch_7.1.0-1_all.deb
+Size: 80176
+MD5Sum: ed19de08760f5001db576def0cde3dea
+SHA1: 8dba52016750d0758de03226134178a5301acf3d
+SHA256: 8486839b51f99a0240fabf5e901f0497ec7dbc7ffe1082fa046d59caae794859
+SHA512: 1c851a20c90651467b437123fb766a51d7ae398d9f5ec52307aae18065bda4d9fd9eed17bf198edcd7abaea1e3750de06bf91f4409e451e8c0169168dec583ac
+
