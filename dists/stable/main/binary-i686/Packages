@@ -40796,3 +40796,18 @@ SHA1: e9a26dcddf7e46477495e8295ac9fdae0ad9751b
 SHA256: fd65e27da1519f1491a7a5c24f04c8a2b7e58a00f5fccee106c7d3ae6b8f90ea
 SHA512: e344a4a5b580b02de43c0dc765cb96577ce7a97ae79329f9d79578c2330ca56d4a786c3f9efe1cc8f058db1b1d6c0b3fa1ab2af6b90c02247511a896d978fc1d
 
+Package: yadm
+Architecture: i686
+Installed-Size: 164
+Maintainer: @termux
+Version: 3.5.0
+Homepage: https://yadm.io/
+Depends: git
+Description: Yet Another Dotfiles Manager
+Filename: ../../../../releases/download/i686-y/yadm_3.5.0_i686.deb
+Size: 29144
+MD5Sum: 9d65ef2975e597f6105f1aa32d58aea9
+SHA1: c5bc1a3e5e39b0825f46b26a78baace125849b85
+SHA256: 920bb3598ab104a5ebd564edf3f6a6ec91edda4379eee8697c839fb5d5fe93f8
+SHA512: 9dc7796d8f41f77dd5af075b68ff8ff10913dcd9ce08dfb7ee02fd8c00a064eb1f9e17ff0e5b6ec8a01d8cb242fe76de7aa5c591013c8405d5fe53c46f2fb1b1
+
