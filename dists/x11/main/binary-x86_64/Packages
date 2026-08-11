@@ -15262,3 +15262,19 @@ SHA1: 85d6fc4347d909882e5a7b86207cdcde469fc352
 SHA256: 64811f662cf549e2a36f5c941c7149e96872be4e010189fc10482efacfa5316e
 SHA512: e728d5bbc1b8c448778899c31eb326e68c573090512da77673897f46c1be721c6bf3aa12307e194cd6ac703fbc2b45ac4b70b0558bab57891171b07de77ac63f
 
+Package: qgit
+Architecture: x86_64
+Installed-Size: 1424
+Maintainer: @termux
+Version: 2.13
+Homepage: https://github.com/tibirna/qgit
+Depends: git, libc++, qt6-qtbase, qt6-qt5compat
+Recommends: hicolor-icon-theme
+Description: A git GUI viewer
+Filename: ../../../../releases/download/x86_64-q/qgit_2.13_x86_64.deb
+Size: 371636
+MD5Sum: 208fc87f7eef80ffc1318f3d7731d004
+SHA1: e5d21dee9f1f9557a8d4bd0eb39a6f1ceffef4cd
+SHA256: cd20a4e49c8b4d808c7b6ed4492094cd9ddd2715dac0bad564722cc02f3bdebb
+SHA512: 9aaf268f5433dcc02330f066f419ebdf789ae18b36c1da3026463f07ab2efaab6e8a256c08ace892b06b899fff58bac5de489919a43d202b4ffcd80f4b4aea06
+
