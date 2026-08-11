@@ -41858,3 +41858,18 @@ SHA1: 535d2caf1a552ae068071b0a5ec6d3b7782ded62
 SHA256: a7b421a79e8ed9a1f8f89c852bb9a0b62d359821a73c84dab249569ae67ecea1
 SHA512: 92c49cea837a12d7a6676ee46a52fdca7e152f30bd5e14f422489e4cbb55481c58d137965608b839d094a684023a7189dde761089facf230ec0fa5231e8bca6d
 
+Package: libvxl
+Architecture: x86_64
+Installed-Size: 31128
+Maintainer: @termux
+Version: 3.5.0-5
+Homepage: https://vxl.github.io
+Depends: dcmtk, libc++, libgeotiff, libjpeg-turbo, libpng, libtiff, zlib
+Description: A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding
+Filename: ../../../../releases/download/x86_64-libv/libvxl_3.5.0-5_x86_64.deb
+Size: 5307144
+MD5Sum: 8f7319f9c7eb387c7596b607e50d4150
+SHA1: 2022ee1c33a9576fbcb8935ce32925e14cdd4966
+SHA256: 24565ec61d6febb2d03c60256ccbdc4c254af851e88c3929ba81696b989fff47
+SHA512: 04d9dc73aa7e3408c0e09a0890a7ae804b5d29912826acf94af3b6aefc7d8411cfdd2fa26265705f924ce5f234c37a2fc338753fca186b3ef44a48ec57f13696
+
