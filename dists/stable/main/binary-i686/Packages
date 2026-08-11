@@ -40915,3 +40915,18 @@ SHA1: 38059d2efd510130ab721e1beab15de11c539fd0
 SHA256: e6035eac476cfc5d6718dfb6d375712adcadd9dfa585c2d8340d0850ee8ced2e
 SHA512: 7dd8da51d2ea89cc46c28292c562f3ed68ad6c5e9ccd4c4f0cff1f68f39f983651b38c9a6a52d0455e47f4fe6b3a2b38209bfa8bff265af8d4368a0cb9329248
 
+Package: vifm
+Architecture: i686
+Installed-Size: 3436
+Maintainer: @termux
+Version: 0.14.4
+Homepage: https://vifm.info/
+Depends: ncurses, file
+Description: File manager with vi like keybindings
+Filename: ../../../../releases/download/i686-v/vifm_0.14.4_i686.deb
+Size: 886520
+MD5Sum: 3e91f72e33547942b3b8848369b85a41
+SHA1: 6493e9fd8224c03e32c3e95a226e86c41df6e79b
+SHA256: b7a7f3ff3785ec301b13bd589c27604ab763a8b091d8c87a128a81b005dcc630
+SHA512: 209b53f3375e87ff84d64a592ffaa521ecc9ff01c5c0132244610e8befe581b194e67bdd45b13545b2f6b1aabb92ddd602e190b81a51d7aa976270f41e79d48e
+
