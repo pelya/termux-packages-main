@@ -40781,3 +40781,18 @@ SHA1: ceb829246bc4147e1acc152f940b48cd1717a119
 SHA256: 2c2b9c759949c5d715a0872c4798af99f2de8cf1879351437ddb8a2afee89278
 SHA512: 68b1db85b2780d5a39ee7827fef3ac089578988e8e6568e67b1bc1c05d9e52b3a72a8f510af4967a74ae6c8de8a2a4583b1102cbdfa19b42bba9fec1b82694b0
 
+Package: pipes.sh
+Architecture: all
+Installed-Size: 68
+Maintainer: @termux
+Version: 2018.04.22-1
+Homepage: https://github.com/pipeseroni/pipes.sh
+Depends: bash, ncurses-utils
+Description: Animated pipes terminal screensaver
+Filename: ../../../../releases/download/i686-p/pipes.sh_2018.04.22-1_all.deb
+Size: 7520
+MD5Sum: ebe5444e2de6b5c058e6988bc1be6133
+SHA1: e9a26dcddf7e46477495e8295ac9fdae0ad9751b
+SHA256: fd65e27da1519f1491a7a5c24f04c8a2b7e58a00f5fccee106c7d3ae6b8f90ea
+SHA512: e344a4a5b580b02de43c0dc765cb96577ce7a97ae79329f9d79578c2330ca56d4a786c3f9efe1cc8f058db1b1d6c0b3fa1ab2af6b90c02247511a896d978fc1d
+
