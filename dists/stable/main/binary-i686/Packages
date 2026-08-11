@@ -40885,3 +40885,18 @@ SHA1: 8dba52016750d0758de03226134178a5301acf3d
 SHA256: 8486839b51f99a0240fabf5e901f0497ec7dbc7ffe1082fa046d59caae794859
 SHA512: 1c851a20c90651467b437123fb766a51d7ae398d9f5ec52307aae18065bda4d9fd9eed17bf198edcd7abaea1e3750de06bf91f4409e451e8c0169168dec583ac
 
+Package: bvi
+Architecture: i686
+Installed-Size: 148
+Maintainer: @termux
+Version: 1.5.0-1
+Homepage: https://bvi.sourceforge.net/
+Depends: ncurses
+Description: Binary file editor based on vi
+Filename: ../../../../releases/download/i686-b/bvi_1.5.0-1_i686.deb
+Size: 46000
+MD5Sum: 2ed3dff82105a6c192c3886aaec2fdb6
+SHA1: dbf1ace8a3c5a5858fa02b1feb852d63f76bdba8
+SHA256: 266c5642a9241f1c3585c0d56e12cd2e7e0db9af6e0d7aa58c0c927a788a995e
+SHA512: c44979eb28b0b09aa61c174bfeb49df47ac8ec868f7f8eff0c81d77db42d71149fde582054eb2a33e088bc7f2b192b18e553a02d47b29367eb437449737079ff
+
