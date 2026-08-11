@@ -14972,3 +14972,18 @@ SHA1: 87c82488b06a3758b6e99065200e2bcdfbfd942f
 SHA256: dee4a9896787f55ec2d34089f4d3e0b6f6ac91ddf264d3d4664a892047aa3567
 SHA512: 841d2eb79ee3b3b6b10a6b9d4db9cdf9b953e1c28bed071dfdd7e94a5911e04472ca06dbfcf1cffeed7fa81ff7ecf25b37d4c35c044d201c06146e5e11d66e02
 
+Package: lenmus
+Architecture: arm
+Installed-Size: 14576
+Maintainer: @termux
+Version: 6.0.1-3
+Homepage: http://www.lenmus.org/
+Depends: fluidsynth, fontconfig, freetype, libc++, libpng, libsqlite, portmidi, wxwidgets, zlib
+Description: A free program to help you in the study of music theory and ear training
+Filename: ../../../../releases/download/arm-l/lenmus_6.0.1-3_arm.deb
+Size: 4422448
+MD5Sum: 49e6bce41636d73f04b950d29bcf6378
+SHA1: f2f2b4ff352a8bd9aaa02a269c5e971701e50763
+SHA256: 32a8da946442173285c9a995e20d22d5eda38444d89f0ec692562c583dacb397
+SHA512: 7b3535b94b71805a4e044f999db4552055fd46c3c79e994815e390d3f1809854b2b62be186897cd23a8ceedc1be40c138f6521c9c2f63dfecb9ec28dc4c5bede
+
