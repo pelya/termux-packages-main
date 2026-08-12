@@ -41994,3 +41994,18 @@ SHA1: 367f84f799c32d71082f60ce3218ad53fe6fdd7c
 SHA256: e21ba55f3a11a80dc760285a26dffa9fd5c9dc47eef74a715429af5f8d722907
 SHA512: 8aeb9ac46a2b113945ae98ef6fafeb7671489721b149d58ee402a48315ff75526834aad9c1b7d45019da797fd302372b7c95373d209704b79d443a83be42857e
 
+Package: pathpicker
+Architecture: all
+Installed-Size: 196
+Maintainer: @termux
+Version: 0.9.5-3
+Homepage: https://facebook.github.io/PathPicker/
+Depends: bash, python
+Description: Facebook PathPicker - a terminal-based file picker
+Filename: ../../../../releases/download/aarch64-p/pathpicker_0.9.5-3_all.deb
+Size: 24856
+MD5Sum: f16564b8d18b35198f6349aa8c85776c
+SHA1: 2bd561e12e933aed647a12bc546317b24b216971
+SHA256: 7ecb371c97927f03801c68f9c14cf94e854eed7ef812ad1c8a3fd9a1dc0251ec
+SHA512: 332db8634271feb6d4971a21d7ad3e01e9f1ca92827611de43549df70853382f0161e813770e3e1247e0360d1ac85c143db5f864e5e186801b7b707454024d31
+
