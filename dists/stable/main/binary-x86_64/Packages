@@ -39547,21 +39547,6 @@ SHA1: 0f694856a1725df778772d23f8dc075055e76f1d
 SHA256: 25ad41c1e78c9a1d69734ddd6150ff5d35361ae6c09fb925365d3b95f2fb000f
 SHA512: 985792276920d7c24e429f560b983db5defce7e5ff35c4e8fb6f2b89b6122fa9a6c3ca0d99655a03fe33d7a7beedbc2a0aa4924cf298d8d6eee85af751e91f64
 
-Package: command-not-found
-Architecture: x86_64
-Installed-Size: 88
-Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Version: 3.5.0-pelya3-6
-Homepage: https://github.com/termux/command-not-found
-Depends: libc++
-Description: Suggest installation of packages in interactive shell sessions
-Filename: ../../../../releases/download/x86_64-c/command-not-found_3.5.0-pelya3-6_x86_64.deb
-Size: 17300
-MD5Sum: 9d648b467d9b4de769c58845c8ebd901
-SHA1: 649b9614ca5b20724250a564bfdc3d7bf21659d9
-SHA256: 0e808214b2ede3373b8e76f1eb77033a21af7808a1ab329bdaf4dc0996b5a6a9
-SHA512: 4c2e726bd5ef4117545012d0c812b865ff05059a6a2998d8794674e40adb6ba8eb6eeb40014f7ca189bddd7b40276cba8bcc5c38efa47346ba7b0f38513e7277
-
 Package: fish
 Architecture: x86_64
 Installed-Size: 36228
@@ -41977,4 +41962,19 @@ MD5Sum: f16564b8d18b35198f6349aa8c85776c
 SHA1: 2bd561e12e933aed647a12bc546317b24b216971
 SHA256: 7ecb371c97927f03801c68f9c14cf94e854eed7ef812ad1c8a3fd9a1dc0251ec
 SHA512: 332db8634271feb6d4971a21d7ad3e01e9f1ca92827611de43549df70853382f0161e813770e3e1247e0360d1ac85c143db5f864e5e186801b7b707454024d31
+
+Package: command-not-found
+Architecture: x86_64
+Installed-Size: 88
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Version: 3.5.0-pelya3-7
+Homepage: https://github.com/termux/command-not-found
+Depends: libc++
+Description: Suggest installation of packages in interactive shell sessions
+Filename: ../../../../releases/download/x86_64-c/command-not-found_3.5.0-pelya3-7_x86_64.deb
+Size: 17296
+MD5Sum: 839b6c3357160885336bb39610602fbb
+SHA1: 0c9dcefa6117bc99059adb7257ef8176861838a0
+SHA256: 6dedb1d4b2057fdb148938f32725187d42a817fae8f8a054b82358b1991714ef
+SHA512: 1c9f6c21a850b4f0fd3d34088f05873e5f8d388c5e5bb10fc9fa739583b2f3d9bbd6035ea246d4b67b30d4b7d23a9028053b5feb4605e974a06fda6e8d72a142
 

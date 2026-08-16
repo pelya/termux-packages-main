@@ -37911,21 +37911,6 @@ SHA1: 0388b38aca90213f2ac3369baca942b0d1e7dd7a
 SHA256: b8be17623f4108d86d92382ee23b391abe2da600e6b9e0be817c105b1c0e5143
 SHA512: 156a5b92aa60086244c968bcc6902eab8ebbecd06bc9e8477d83458ba810ea202d4020ed4509064f6349dde2fc0acd0d93fc8e05d07fc73a1ca30a9c96824220
 
-Package: command-not-found
-Architecture: arm
-Installed-Size: 60
-Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Version: 3.5.0-pelya3-6
-Homepage: https://github.com/termux/command-not-found
-Depends: libc++
-Description: Suggest installation of packages in interactive shell sessions
-Filename: ../../../../releases/download/arm-c/command-not-found_3.5.0-pelya3-6_arm.deb
-Size: 7464
-MD5Sum: 97b953c7770f824e9bec1db70843fc34
-SHA1: 57f61cd859bff9195d952636034a03df983a6aac
-SHA256: 733c743ae8ddd14892f78b46ead4ed20947c58fa144bfcdc044e08577acbb8dd
-SHA512: 342989235569015c55e177c297f53a4a162ca424cdf685b29e252e2447eeb5f7e1f75bc8ea0137f0b412ae76e7a5428a5fb73a5d515e540955432331b554473c
-
 Package: fish
 Architecture: arm
 Installed-Size: 31092
@@ -40197,4 +40182,19 @@ MD5Sum: f16564b8d18b35198f6349aa8c85776c
 SHA1: 2bd561e12e933aed647a12bc546317b24b216971
 SHA256: 7ecb371c97927f03801c68f9c14cf94e854eed7ef812ad1c8a3fd9a1dc0251ec
 SHA512: 332db8634271feb6d4971a21d7ad3e01e9f1ca92827611de43549df70853382f0161e813770e3e1247e0360d1ac85c143db5f864e5e186801b7b707454024d31
+
+Package: command-not-found
+Architecture: arm
+Installed-Size: 60
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Version: 3.5.0-pelya3-7
+Homepage: https://github.com/termux/command-not-found
+Depends: libc++
+Description: Suggest installation of packages in interactive shell sessions
+Filename: ../../../../releases/download/arm-c/command-not-found_3.5.0-pelya3-7_arm.deb
+Size: 7448
+MD5Sum: ca71012aa5d896889e7e6eb2cfb806ea
+SHA1: 74fd3ecc6640401e6a3a5e296f2cc91b1ff1483e
+SHA256: 41ca772e62f19268239735f9f9d50869475fe05f2fdbe907d25d8c816000a927
+SHA512: 7f8c98c9b254d91ac7382ec29510c3a74c4be2794438f15075ab51e77347afc569eec61e58d368d57a0548203211f0d0ad9b9a666e7383b46b7bffa9fb1050b7
 

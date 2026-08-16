@@ -38684,21 +38684,6 @@ SHA1: 1e9ba36adebf94171b3d51b2f0817f7dac5c108a
 SHA256: 85497daab85e70b9604679eaa4c02bebc336f145ed5ee5a66e811dd4602663ab
 SHA512: 73f891fe4b18b661a1b23fee4fa43b61952f55614b76144662dd37dd9714d81903bfcab53d5e332fd54de0ccde7d3f39a4fd6d57785cadbbe3f614e017a4eb62
 
-Package: command-not-found
-Architecture: i686
-Installed-Size: 84
-Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Version: 3.5.0-pelya3-6
-Homepage: https://github.com/termux/command-not-found
-Depends: libc++
-Description: Suggest installation of packages in interactive shell sessions
-Filename: ../../../../releases/download/i686-c/command-not-found_3.5.0-pelya3-6_i686.deb
-Size: 16968
-MD5Sum: 0e08679b0f4c3363acaff07b7407f572
-SHA1: 4a7d0f6c903b984b3f7926f2e506209b27273b24
-SHA256: 5643cfa28e4fa7e8c87a970055746f1bb2a9f005ca155e015ec7aa76d43ff9b0
-SHA512: ee3421bd7647432d31bd942d7942ac1d190f8c2158798267080a9e9b6eb25b13a95d4eea351e3fe57f400a892df670285f9cd57d51bad90df5f72e2389f2cd17
-
 Package: fish
 Architecture: i686
 Installed-Size: 35676
@@ -40959,4 +40944,19 @@ MD5Sum: f16564b8d18b35198f6349aa8c85776c
 SHA1: 2bd561e12e933aed647a12bc546317b24b216971
 SHA256: 7ecb371c97927f03801c68f9c14cf94e854eed7ef812ad1c8a3fd9a1dc0251ec
 SHA512: 332db8634271feb6d4971a21d7ad3e01e9f1ca92827611de43549df70853382f0161e813770e3e1247e0360d1ac85c143db5f864e5e186801b7b707454024d31
+
+Package: command-not-found
+Architecture: i686
+Installed-Size: 84
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Version: 3.5.0-pelya3-7
+Homepage: https://github.com/termux/command-not-found
+Depends: libc++
+Description: Suggest installation of packages in interactive shell sessions
+Filename: ../../../../releases/download/i686-c/command-not-found_3.5.0-pelya3-7_i686.deb
+Size: 16960
+MD5Sum: d3b9576ed12e8dc6709a4ad8ed84b3b3
+SHA1: 7ad8db9f3d2f7364c2037a941e6fca7857eb1360
+SHA256: ef78ac255a33d062814ec7ccecf1329c94fdca07568a5a575206fd511fccf813
+SHA512: 0a955335a3e734fb1ab98622973e1219cb02fd582fc7c5d61e5d4d105e09cdee8ce9f496ce4aa6a22d7546057dbc5b5fdc6b1292b7328e3098e853d3939b3bb2
 
