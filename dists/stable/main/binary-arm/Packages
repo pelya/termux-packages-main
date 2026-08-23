@@ -40187,14 +40187,14 @@ Package: command-not-found
 Architecture: arm
 Installed-Size: 60
 Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Version: 3.5.0-pelya3-7
+Version: 3.5.0-pelya3-8
 Homepage: https://github.com/termux/command-not-found
 Depends: libc++
 Description: Suggest installation of packages in interactive shell sessions
-Filename: ../../../../releases/download/arm-c/command-not-found_3.5.0-pelya3-7_arm.deb
-Size: 7448
-MD5Sum: ca71012aa5d896889e7e6eb2cfb806ea
-SHA1: 74fd3ecc6640401e6a3a5e296f2cc91b1ff1483e
-SHA256: 41ca772e62f19268239735f9f9d50869475fe05f2fdbe907d25d8c816000a927
-SHA512: 7f8c98c9b254d91ac7382ec29510c3a74c4be2794438f15075ab51e77347afc569eec61e58d368d57a0548203211f0d0ad9b9a666e7383b46b7bffa9fb1050b7
+Filename: ../../../../releases/download/arm-c/command-not-found_3.5.0-pelya3-8_arm.deb
+Size: 7464
+MD5Sum: 56baa29097ea02ab50dfe42976309356
+SHA1: 0800295dc97bafc6d1a83112a66bae775c731901
+SHA256: cf88f8552759fc34afc51bfbb0e3259ea6b6f3cecf2ce83362e86febabc3dcaf
+SHA512: e5d608d5a1b7b24968efbfa406bf0eaa38bce92eb3a4e5ef7b23a35f0064f3c1699fa92003244e937e61bb837e21a63b2d2cea722bd9d1f1f4b7803d450d76f4
 
