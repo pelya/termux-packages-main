@@ -6942,37 +6942,6 @@ SHA1: 06559ffaebaa3ccf8d7c6cd52eafbc661db3f5a0
 SHA256: 2156220f1a198906d69c06d8efce8db22ab3239e665c3deacd7d274b2c0f4aa1
 SHA512: a816132ea84d8b243c04b79514d60904e18c11d0cbf02ad73b35dbab980c086e96d35910f20dfa32124cb7090b0804e4b112b27bcf9f9869193513d65fc30ee8
 
-Package: golang-doc
-Architecture: x86_64
-Installed-Size: 472
-Maintainer: @termux
-Version: 3:1.26.5
-Homepage: https://go.dev/
-Depends: golang (= 3:1.26.5)
-Description: Go programming language - documentation
-Filename: ../../../../releases/download/x86_64-g/golang-doc_3.1.26.5_x86_64.deb
-Size: 93692
-MD5Sum: 629ccede9535394afa088b3c984cb51e
-SHA1: 9836eb5ede9687ecf9382638641723800715564b
-SHA256: d9dab70eae26552c7f10f2e8b5a325075efbb53146a5681d10f221d6dabeb2a6
-SHA512: b85210e2e39ea6324a35cd783ae6b81b6ceb237c9e5f7fc94b7f9a50c64122530a3fabdd354a2d31bd94fa6b38c4e0a74affdb8e6a8a2d68720df71d1474bbb1
-
-Package: golang
-Architecture: x86_64
-Installed-Size: 218288
-Maintainer: @termux
-Version: 3:1.26.5
-Homepage: https://go.dev/
-Depends: clang
-Recommends: resolv-conf
-Description: Go programming language compiler
-Filename: ../../../../releases/download/x86_64-g/golang_3.1.26.5_x86_64.deb
-Size: 38215284
-MD5Sum: d25c9b705f7d51100e2ba334f161f256
-SHA1: 83a6863524bbed93a9cf0a9aa8e94e045237cb75
-SHA256: d08a344a13c4d30625635cae49495e8032933da6e819a4e84d8234929aa9812e
-SHA512: 89347d4d7fbe00e9e7539d59bf765273b3deaa2a964cee6e0dbc302be2780892690204101e36446b770279d484662b984ba8eb94fc12b5c12f19c7e8fd2c8ea1
-
 Package: gomp
 Architecture: x86_64
 Installed-Size: 10288
@@ -41977,4 +41946,35 @@ MD5Sum: 47bd9f9a2eb78db8c5dd5d984e2755ea
 SHA1: a77cd0ae86e356fa138bf81a0bfe458669beb338
 SHA256: 8e41172dc72391f2d77757afb12c87547cdc2e590ebbdf20854d6b23ade66df1
 SHA512: 678450b7043a7d2e07e86570c09a0ca73c272dd260c38492d061a532ef312009ce239f174a674b1149fb19ba8dd58766a4b4bc8fbee507beec2698f665c01d47
+
+Package: golang-doc
+Architecture: x86_64
+Installed-Size: 472
+Maintainer: @termux
+Version: 3:1.26.5
+Homepage: https://go.dev/
+Depends: golang (= 3:1.26.5)
+Description: Go programming language - documentation
+Filename: ../../../../releases/download/x86_64-g/golang-doc_3.1.26.5_x86_64.deb
+Size: 93712
+MD5Sum: d3339475dfb297673e8fce7f61ed3d97
+SHA1: f840ea8af9131f998b716895da62f963e9e0c49d
+SHA256: 109f65a8debb479ec2d74cb96174bf46730affc5536225c287be2acc67589d97
+SHA512: 1bdabdc3d82cb8aea791a0b3270ca4adffab1f2e7f5d7470ae2ab3f0af47b1964993561560d166fc0837ce70a016b9b265c00687bb5e4b49d6474970366ffa97
+
+Package: golang
+Architecture: x86_64
+Installed-Size: 218292
+Maintainer: @termux
+Version: 3:1.26.5
+Homepage: https://go.dev/
+Depends: clang
+Recommends: resolv-conf
+Description: Go programming language compiler
+Filename: ../../../../releases/download/x86_64-g/golang_3.1.26.5_x86_64.deb
+Size: 38209792
+MD5Sum: ba209a95699d36289bc1ccfa0dcf1c00
+SHA1: e01a4164c0d13433e7a85618626cff14b8f61a10
+SHA256: a90168f34f41ec52ac5a2c3f2c7352e0d2d8784841dd03d7704d11a0efb8cedd
+SHA512: 96c5206da0884e845c87b4bd53c9897951747301db328941799bfea9797b153884bafe653d837ff0c8450092bb38c553b18af5f4ef565e8fed05bee2e525353d
 
