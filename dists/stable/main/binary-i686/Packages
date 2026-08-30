@@ -40945,21 +40945,6 @@ SHA1: 2bd561e12e933aed647a12bc546317b24b216971
 SHA256: 7ecb371c97927f03801c68f9c14cf94e854eed7ef812ad1c8a3fd9a1dc0251ec
 SHA512: 332db8634271feb6d4971a21d7ad3e01e9f1ca92827611de43549df70853382f0161e813770e3e1247e0360d1ac85c143db5f864e5e186801b7b707454024d31
 
-Package: command-not-found
-Architecture: i686
-Installed-Size: 84
-Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Version: 3.5.0-pelya3-8
-Homepage: https://github.com/termux/command-not-found
-Depends: libc++
-Description: Suggest installation of packages in interactive shell sessions
-Filename: ../../../../releases/download/i686-c/command-not-found_3.5.0-pelya3-8_i686.deb
-Size: 16964
-MD5Sum: 22b5332c37a2b54d72393642b3b15c90
-SHA1: 4811772cb5c5f40db335974bde36c32ae8c4da10
-SHA256: 5834e07af82d3dbbf41f2d8024ab3ca883ee4419ef86b53b2a424a4cc01ea451
-SHA512: ef2b1852f4d0f406bc6987ca8596e20f514c090948fc2fe02706e1b45f7b3dc49ae5f67649ff3fab3213b7c9626a5f52ae8b9c3026a4db9bd6256e4f3b766fc9
-
 Package: golang-doc
 Architecture: i686
 Installed-Size: 472
@@ -40990,4 +40975,19 @@ MD5Sum: 410830f130302fc189f493d310361372
 SHA1: 9f60b9143970ff59acb9ae4a547597e1f4e6d4a5
 SHA256: fe71b3397e61e5fb1a13866004ef1d0ed6bed0ea82fbdb33d2c7b98af4df9358
 SHA512: ccc9ea40526a7ed3ce6c1a4f5df3206e561abc9e3810c0adee05d148a83ff66ebdabff1ba3c7d3cf2d88136ec0e366cf7296f7dea60414a03a5da1a409b4bfbb
+
+Package: command-not-found
+Architecture: i686
+Installed-Size: 84
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Version: 3.5.0-pelya3-9
+Homepage: https://github.com/termux/command-not-found
+Depends: libc++
+Description: Suggest installation of packages in interactive shell sessions
+Filename: ../../../../releases/download/i686-c/command-not-found_3.5.0-pelya3-9_i686.deb
+Size: 16964
+MD5Sum: 76248a2e8eac4c97d99ac0471d91a037
+SHA1: 86add77378d82b7129f913be94af484676b83102
+SHA256: 3978a5b8fa8d11c3d27c5e8946439c8fc47e37ab49c34f8b9cf36f4912fba303
+SHA512: 745f5c0679280e8b906f026803f97a1ab5f55057376c5a996fb89b0fa3d5a93278cf3f3b116636cfb82cecbb131e6be8150db7b5d2775b4fe59cff888f2afa76
 

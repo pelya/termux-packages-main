@@ -40183,21 +40183,6 @@ SHA1: 2bd561e12e933aed647a12bc546317b24b216971
 SHA256: 7ecb371c97927f03801c68f9c14cf94e854eed7ef812ad1c8a3fd9a1dc0251ec
 SHA512: 332db8634271feb6d4971a21d7ad3e01e9f1ca92827611de43549df70853382f0161e813770e3e1247e0360d1ac85c143db5f864e5e186801b7b707454024d31
 
-Package: command-not-found
-Architecture: arm
-Installed-Size: 60
-Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Version: 3.5.0-pelya3-8
-Homepage: https://github.com/termux/command-not-found
-Depends: libc++
-Description: Suggest installation of packages in interactive shell sessions
-Filename: ../../../../releases/download/arm-c/command-not-found_3.5.0-pelya3-8_arm.deb
-Size: 7464
-MD5Sum: 56baa29097ea02ab50dfe42976309356
-SHA1: 0800295dc97bafc6d1a83112a66bae775c731901
-SHA256: cf88f8552759fc34afc51bfbb0e3259ea6b6f3cecf2ce83362e86febabc3dcaf
-SHA512: e5d608d5a1b7b24968efbfa406bf0eaa38bce92eb3a4e5ef7b23a35f0064f3c1699fa92003244e937e61bb837e21a63b2d2cea722bd9d1f1f4b7803d450d76f4
-
 Package: golang-doc
 Architecture: arm
 Installed-Size: 472
@@ -40228,4 +40213,19 @@ MD5Sum: 05a67154cdfaa69049cf144f62375e70
 SHA1: 8d433d8f3c24fe17001b4908331a5b2896af58f8
 SHA256: a2d11604586c53d7b392a611daee26a707bcea7dc5ab233824fd3cce8a8e3b7c
 SHA512: 56b39b46b9f0a41364b2935ae84ddd7d803c25e6847aa63c732a652cb892e0e80d436b6664c3493cca343dc090cec05867fa9d337698f400c37790fc00828d96
+
+Package: command-not-found
+Architecture: arm
+Installed-Size: 60
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Version: 3.5.0-pelya3-9
+Homepage: https://github.com/termux/command-not-found
+Depends: libc++
+Description: Suggest installation of packages in interactive shell sessions
+Filename: ../../../../releases/download/arm-c/command-not-found_3.5.0-pelya3-9_arm.deb
+Size: 7460
+MD5Sum: d4c7f433bf4eb26a14e4be449f6e5e79
+SHA1: 9fd7994c3a4977d9f50c43622c6ed574a9c03017
+SHA256: 2eee64a8f9f53a1e66ac98b311f58a5c3b7cfe534ae9f086f3fb70a2fd6d3588
+SHA512: ae16aaaa5dc542ca99c3ec845067faabbf06fa53fbd58ef84bfa427649c943020e60813358ad3a071200e4ef6415ec589d6d8270a65cc063d4ddc2854bebb167
 

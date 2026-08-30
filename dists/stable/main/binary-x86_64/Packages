@@ -41932,21 +41932,6 @@ SHA1: 2bd561e12e933aed647a12bc546317b24b216971
 SHA256: 7ecb371c97927f03801c68f9c14cf94e854eed7ef812ad1c8a3fd9a1dc0251ec
 SHA512: 332db8634271feb6d4971a21d7ad3e01e9f1ca92827611de43549df70853382f0161e813770e3e1247e0360d1ac85c143db5f864e5e186801b7b707454024d31
 
-Package: command-not-found
-Architecture: x86_64
-Installed-Size: 88
-Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Version: 3.5.0-pelya3-8
-Homepage: https://github.com/termux/command-not-found
-Depends: libc++
-Description: Suggest installation of packages in interactive shell sessions
-Filename: ../../../../releases/download/x86_64-c/command-not-found_3.5.0-pelya3-8_x86_64.deb
-Size: 17316
-MD5Sum: 47bd9f9a2eb78db8c5dd5d984e2755ea
-SHA1: a77cd0ae86e356fa138bf81a0bfe458669beb338
-SHA256: 8e41172dc72391f2d77757afb12c87547cdc2e590ebbdf20854d6b23ade66df1
-SHA512: 678450b7043a7d2e07e86570c09a0ca73c272dd260c38492d061a532ef312009ce239f174a674b1149fb19ba8dd58766a4b4bc8fbee507beec2698f665c01d47
-
 Package: golang-doc
 Architecture: x86_64
 Installed-Size: 472
@@ -41977,4 +41962,19 @@ MD5Sum: ba209a95699d36289bc1ccfa0dcf1c00
 SHA1: e01a4164c0d13433e7a85618626cff14b8f61a10
 SHA256: a90168f34f41ec52ac5a2c3f2c7352e0d2d8784841dd03d7704d11a0efb8cedd
 SHA512: 96c5206da0884e845c87b4bd53c9897951747301db328941799bfea9797b153884bafe653d837ff0c8450092bb38c553b18af5f4ef565e8fed05bee2e525353d
+
+Package: command-not-found
+Architecture: x86_64
+Installed-Size: 88
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Version: 3.5.0-pelya3-9
+Homepage: https://github.com/termux/command-not-found
+Depends: libc++
+Description: Suggest installation of packages in interactive shell sessions
+Filename: ../../../../releases/download/x86_64-c/command-not-found_3.5.0-pelya3-9_x86_64.deb
+Size: 17300
+MD5Sum: 9e2332d7184e3fd6b5ca4c02ef110a80
+SHA1: 17f3fb1eaa18e454d1d83132dc7143d56da50255
+SHA256: d6039e111969c5ce821d9168e7d24155d385fe1d331df4cc04891e33cb3150fd
+SHA512: d4aabe19012536cf6fb6834cf776be05e3953d39f15cbb3a177fffc14602f4ea68115d38f93d44241315b8a4125493253a5593673b1ef41a16d60d7899ff0324
 

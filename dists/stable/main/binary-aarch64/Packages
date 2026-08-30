@@ -41963,21 +41963,6 @@ SHA1: 2bd561e12e933aed647a12bc546317b24b216971
 SHA256: 7ecb371c97927f03801c68f9c14cf94e854eed7ef812ad1c8a3fd9a1dc0251ec
 SHA512: 332db8634271feb6d4971a21d7ad3e01e9f1ca92827611de43549df70853382f0161e813770e3e1247e0360d1ac85c143db5f864e5e186801b7b707454024d31
 
-Package: command-not-found
-Architecture: aarch64
-Installed-Size: 88
-Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Version: 3.5.0-pelya3-8
-Homepage: https://github.com/termux/command-not-found
-Depends: libc++
-Description: Suggest installation of packages in interactive shell sessions
-Filename: ../../../../releases/download/aarch64-c/command-not-found_3.5.0-pelya3-8_aarch64.deb
-Size: 17044
-MD5Sum: 373d52ac4d5fc942ccbb15bbf3b54bc1
-SHA1: 9b556eaaf63551c4a103ead86c22634c42f751a1
-SHA256: 9a0e0c27430520a1afe2086af12b0dc739684b2962c9edd8b6ca36541988710d
-SHA512: 48cb9d9188e3a35ad1223bc83accdee394e5241bb389237ffc7c1e5620b760b30e568582ea15004a818f6425786b3e67acfe31cd7e4b11ad0e9e6afb8e4291ba
-
 Package: golang-doc
 Architecture: aarch64
 Installed-Size: 472
@@ -42008,4 +41993,19 @@ MD5Sum: fe6d161716bad1660ced5cae79a90e33
 SHA1: 8010601c0427785dba434b75b346dbf7b8e73705
 SHA256: 8eaa39687d2368bb7cf1af0d9c3d2c1a4f05d4aa31d4e29a25acffbf3b14b8de
 SHA512: c7167a936bffb4265330d4b92a9a3d673850fdeb1e4d59ce0972b388f0cd2bc67d8ce5a25d68334efd0b0b49bc60ea81595027038100d6f64d75f92f58641ab0
+
+Package: command-not-found
+Architecture: aarch64
+Installed-Size: 88
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Version: 3.5.0-pelya3-9
+Homepage: https://github.com/termux/command-not-found
+Depends: libc++
+Description: Suggest installation of packages in interactive shell sessions
+Filename: ../../../../releases/download/aarch64-c/command-not-found_3.5.0-pelya3-9_aarch64.deb
+Size: 17036
+MD5Sum: 2790375d36da8aa9e580fbdf3cbd7df3
+SHA1: 881e62941574a0df722c69a560967bc5d23925d8
+SHA256: 7944d9730d725272171881f8ce2c8cb692b00921bae689032593ced4a9c84525
+SHA512: 93dd54f13c190ac62511762bccc452be80cd23716f0fe48f5bc1958900d11ce08693f6d750cda2fdf0be8da95d652e62e846bf1b9da1538cb0122fc9106cb2f4
 
