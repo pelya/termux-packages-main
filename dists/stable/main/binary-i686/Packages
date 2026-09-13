@@ -40980,14 +40980,14 @@ Package: command-not-found
 Architecture: i686
 Installed-Size: 84
 Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Version: 3.5.0-pelya3-10
+Version: 3.5.0-pelya3-11
 Homepage: https://github.com/termux/command-not-found
 Depends: libc++
 Description: Suggest installation of packages in interactive shell sessions
-Filename: ../../../../releases/download/i686-c/command-not-found_3.5.0-pelya3-10_i686.deb
-Size: 16976
-MD5Sum: f2a51238bae2566c3ceecf7b064e80f0
-SHA1: 3592888a6a60c6e2e5133941b306bb737bffd51b
-SHA256: 1f9b3fbe549dbb4cc61d6db513a20e009d44fa2a53f8ebb0de35474767892db7
-SHA512: b8731d64f0ffff2de3e564eb1565d999fa2330d105414dec4859aaccba51356760919cd68661b9e0e00f45ebab96a3647b185adcd3d7830b1df9fba318ee4181
+Filename: ../../../../releases/download/i686-c/command-not-found_3.5.0-pelya3-11_i686.deb
+Size: 16980
+MD5Sum: dc1de7d90ec5128c54032ac2e998c363
+SHA1: 0c2576f1dd7bd36ec4586f73b1b3842e6fc4ce43
+SHA256: 77aa231140cd2a335e5cd9023b6586a858ab475adbb8af23e77310015269ae87
+SHA512: 1bcb29f8b1d326207d28d9ff2bb7d9de5c6450b85c02edf3575d106d928e9d2fe5a68b9d2956e89c67dea1d2d3bf36dd5d6a1be40449cffe6bff4f8b7b1dc90c
 
